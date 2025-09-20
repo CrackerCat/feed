@@ -12,10 +12,6 @@
 - 🌟 👤 [0xricksanchez](https://github.com/0xricksanchez) Starred [GitHubSecurityLab/seclab-taskflow-agent](https://github.com/GitHubSecurityLab/seclab-taskflow-agent) 
 	The GitHub Security Lab Taskflow Agent Framework
 
-### [AabyssZG](https://github.com/AabyssZG)
-- 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
-	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-
 ### [Ackites](https://github.com/Ackites)
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
 	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
@@ -35,6 +31,10 @@
 ### [Dump-GUY](https://github.com/Dump-GUY)
 - 🌟 👤 [Dump-GUY](https://github.com/Dump-GUY) Starred [Cjian64/hideDriverSign](https://github.com/Cjian64/hideDriverSign) 
 	self deceiving hidden driver signature
+
+### [Fanxiaoyao66](https://github.com/Fanxiaoyao66)
+- 🌟 👤 [Fanxiaoyao66](https://github.com/Fanxiaoyao66) Starred [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) 
+	Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 
 ### [FunnyWolf](https://github.com/FunnyWolf)
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [PurCL/ASTRA](https://github.com/PurCL/ASTRA) 
@@ -340,6 +340,10 @@
 - 🍴 👤 [grant-h](https://github.com/grant-h) Forked [Frommi/miniz_oxide](https://github.com/Frommi/miniz_oxide) to [grant-h/miniz_oxide](https://github.com/grant-h/miniz_oxide)  
 	Rust replacement for miniz
 
+### [h3h3qaq](https://github.com/h3h3qaq)
+- 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [chaitin/MonkeyCode](https://github.com/chaitin/MonkeyCode) 
+	企业级 AI 编程助手，支持私有化离线部署，兼容第三方及本地化大模型，具备企业级管理面板，具备代码安全功能。
+
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [nuta/hypervisor-in-1000-lines](https://github.com/nuta/hypervisor-in-1000-lines) 
 	Writing a hypervisor in 1,000 lines.
@@ -379,6 +383,8 @@
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [glidea/one-balance](https://github.com/glidea/one-balance) 
 	Make ai KEY rotation SMARTER and more SECURE
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [aliibraheem516/Image-to-Story-to-Speech-A-Multi-Modal-Generative-Pipeline-with-LoRA-Fine-Tuning](https://github.com/aliibraheem516/Image-to-Story-to-Speech-A-Multi-Modal-Generative-Pipeline-with-LoRA-Fine-Tuning) 
+	This AI pipeline turns images into spoken stories. It uses image captioning to generate text, fine-tunes a language model (with LoRA) to create a story, and converts it to speech. The result is an audio file narrating the generated story, combining computer vision, NLP, and speech synthesis.
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [blacktop/aarch64-cssc](https://github.com/blacktop/aarch64-cssc) 
@@ -426,10 +432,6 @@
 - 🌟 👤 [meowmeowxw](https://github.com/meowmeowxw) Starred [lorenzo9uerra/GraphIDS](https://github.com/lorenzo9uerra/GraphIDS) 
 	Official repository for the paper "Self-Supervised Learning of Graph Representations for Network Intrusion Detection" accepted in NeurIPS 2025
 
-### [milo2012](https://github.com/milo2012)
-- 🍴 👤 [milo2012](https://github.com/milo2012) Forked [quentinhardy/odat](https://github.com/quentinhardy/odat) to [milo2012/odat](https://github.com/milo2012/odat)  
-	ODAT: Oracle Database Attacking Tool
-
 ### [moehw](https://github.com/moehw)
 - 🌟 👤 [moehw](https://github.com/moehw) Starred [sthetix/ProdinfoReader](https://github.com/sthetix/ProdinfoReader) 
 	A GUI application for reading decrypted Nintendo Switch PRODINFO files and extracting console identification information.
@@ -452,8 +454,6 @@
 	[AI] Simple LiteLLM trace viewer
 
 ### [mstfknn](https://github.com/mstfknn)
-- 🚀 👤 [mstfknn](https://github.com/mstfknn) Made [mstfknn/tor-proxy](https://github.com/mstfknn/tor-proxy) public  
-	This project provides a Dockerized Tor proxy server that routes your internet traffic through the Tor network using a SOCKS5 proxy with DNS support.
 - 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [facebookresearch/fastText](https://github.com/facebookresearch/fastText) 
 	Library for fast text representation and classification.
 - 🚀 👤 [mstfknn](https://github.com/mstfknn) Made [mstfknn/phishing-fasttext-model](https://github.com/mstfknn/phishing-fasttext-model) public  
@@ -579,10 +579,6 @@
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [bee-san/RustScan](https://github.com/bee-san/RustScan) 
 	🤖 The Modern Port Scanner 🤖
 
-### [surunzi](https://github.com/surunzi)
-- 🌟 👤 [surunzi](https://github.com/surunzi) Starred [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) 
-	YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open
-
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [erebe/wstunnel](https://github.com/erebe/wstunnel) 
 	Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available 
@@ -617,6 +613,12 @@
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) 
 	A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai) 
+	RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) 
+	A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [redis-windows/redis-windows](https://github.com/redis-windows/redis-windows) 
+	Redis 6.0.20 6.2.18 7.0.15  7.2.8  7.4.3  8.0.0 for Windows
 
 ### [vrtadmin](https://github.com/vrtadmin)
 - ✨ 👤 [vrtadmin](https://github.com/vrtadmin) Created new repo [Cisco-Talos/DBI](https://github.com/Cisco-Talos/DBI)  
@@ -662,10 +664,6 @@
 - 🌟 👤 [yifengyou](https://github.com/yifengyou) Starred [husseinhareb/hw-monitor](https://github.com/husseinhareb/hw-monitor) 
 	Linux desktop application designed to monitor various aspects of your computer's hardware.
 
-### [yuan-xy](https://github.com/yuan-xy)
-- 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [PiMaker/rvc](https://github.com/PiMaker/rvc) 
-	A 32-bit RISC-V emulator in a shader (and C)
-
 ### [zacbre](https://github.com/zacbre)
 - 🌟 👤 [zacbre](https://github.com/zacbre) Starred [Zephkek/Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive) 
 	A deep dive into the ACPI.sys DPC latency problems on Asus ROG laptops
@@ -697,5 +695,5 @@
 
 
 ---
-*最后更新于 2025-09-20 10:51:55 UTC*
+*最后更新于 2025-09-20 11:15:09 UTC*
 *历史记录保存在 `archive` 目录中。*
