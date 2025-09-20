@@ -48,10 +48,6 @@
 - 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [bindhosts/bindhosts](https://github.com/bindhosts/bindhosts) to [JingMatrix/bindhosts](https://github.com/JingMatrix/bindhosts)  
 	Systemless hosts for APatch / KernelSU / Magisk
 
-### [Keyird](https://github.com/Keyird)
-- 🌟 👤 [Keyird](https://github.com/Keyird) Starred [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) 
-	Fast and memory-efficient exact attention
-
 ### [LasCC](https://github.com/LasCC)
 - 🌟 👤 [LasCC](https://github.com/LasCC) Starred [0xthirteen/mtprocess](https://github.com/0xthirteen/mtprocess) 
 	Python script to leverage MSFT_MTProcess WMI class
@@ -152,10 +148,6 @@
 - 🍴 👤 [Udyz](https://github.com/Udyz) Forked [munew/wplace.live-pawtect-reverse](https://github.com/munew/wplace.live-pawtect-reverse) to [Udyz/wplace.live-pawtect-reverse](https://github.com/Udyz/wplace.live-pawtect-reverse)  
 	Reverse of the WASM protection made for wplace.live named "Pawtect". 
 
-### [VonChange](https://github.com/VonChange)
-- ✨ 👤 [VonChange](https://github.com/VonChange) Created new repo [VonChange/utao-gecko](https://github.com/VonChange/utao-gecko)  
-	油桃TV火狐版
-
 ### [Yervant7](https://github.com/Yervant7)
 - 🌟 👤 [Yervant7](https://github.com/Yervant7) Starred [SoyBeanMilkx/memcrc](https://github.com/SoyBeanMilkx/memcrc) 
 	A apatch kernel module that helps you hide device environment :)
@@ -178,10 +170,6 @@
 ### [atc1441](https://github.com/atc1441)
 - ✨ 👤 [atc1441](https://github.com/atc1441) Created new repo [atc1441/Vape_DOOM_ScreenShare](https://github.com/atc1441/Vape_DOOM_ScreenShare)  
 	Custom firmware for the PUYA SoC Based Vape Aspire PIXO to be used as a Screen Share DOOM Player
-
-### [barry-ran](https://github.com/barry-ran)
-- 🌟 👤 [barry-ran](https://github.com/barry-ran) Starred [chenpipi0807/ComfyUI-Index-TTS](https://github.com/chenpipi0807/ComfyUI-Index-TTS) 
-	使用IndexTTS模型在ComfyUI中实现高质量文本到语音转换的自定义节点。支持中文和英文文本，可以基于参考音频复刻声音特征。
 
 ### [bb33bb](https://github.com/bb33bb)
 - 🌟 👤 [bb33bb](https://github.com/bb33bb) Starred [fujiexpo/2GiBootDebugFlash](https://github.com/fujiexpo/2GiBootDebugFlash) 
@@ -279,6 +267,10 @@
 	Obfuscator-llvm Control Flow Flattening Deobfuscator
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [maskelihileci/IDA_Ollvm-unflattener](https://github.com/maskelihileci/IDA_Ollvm-unflattener) 
 	Control Flow Flattening Deobfuscator for Obfuscator-LLVM as a plugin for IDA Pro.
+
+### [colrdavidson](https://github.com/colrdavidson)
+- ✨ 👤 [colrdavidson](https://github.com/colrdavidson) Created new repo [colrdavidson/nosj](https://github.com/colrdavidson/nosj)  
+	Bad streaming JSON parser
 
 ### [cssxsh](https://github.com/cssxsh)
 - 🌟 👤 [cssxsh](https://github.com/cssxsh) Starred [popcron/gizmos](https://github.com/popcron/gizmos) 
@@ -418,9 +410,6 @@
 - 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend) 
 	An open-source coding helper. Very friendly!
 
-### [lemuellew](https://github.com/lemuellew)
-- 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) 
-
 ### [lixeon](https://github.com/lixeon)
 - 🌟 👤 [lixeon](https://github.com/lixeon) Starred [satnaing/astro-paper](https://github.com/satnaing/astro-paper) 
 	A minimal, accessible and SEO-friendly Astro blog theme
@@ -542,8 +531,6 @@
 	A tiny, single-header C dynamic array (vector) library with customizable allocators.
 
 ### [rankalpha](https://github.com/rankalpha)
-- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [SoyBeanMilkx/memcrc](https://github.com/SoyBeanMilkx/memcrc) to [rankalpha/memcrc](https://github.com/rankalpha/memcrc)  
-	A apatch kernel module that helps you hide device environment :)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [bytedance/btrace](https://github.com/bytedance/btrace) to [rankalpha/btrace](https://github.com/rankalpha/btrace)  
 	🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.
 
@@ -653,6 +640,8 @@
 	This custom_node for ComfyUI adds one-click "Virtual VRAM" for any UNet and CLIP loader as well MultiGPU integration in WanVideoWrapper, managing the offload/Block Swap of layers to DRAM *or* VRAM to maximize the latent space of your card. Also includes nodes for directly loading entire components (UNet, CLIP, VAE) onto the device you choose
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [robertvoy/ComfyUI-Distributed](https://github.com/robertvoy/ComfyUI-Distributed) 
 	ComfyUI extension that enables multi-GPU processing locally, remotely and in the cloud
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [fanf2/unifdef](https://github.com/fanf2/unifdef) 
+	selectively remove C preprocessor conditionals
 
 ### [wh1te4ever](https://github.com/wh1te4ever)
 - 🍴 👤 [wh1te4ever](https://github.com/wh1te4ever) Forked [0x7ff/dimentio](https://github.com/0x7ff/dimentio) to [wh1te4ever/dimentio](https://github.com/wh1te4ever/dimentio)  
@@ -681,6 +670,10 @@
 ### [xsser](https://github.com/xsser)
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [safety-research/persona_vectors](https://github.com/safety-research/persona_vectors) 
 	Persona Vectors: Monitoring and Controlling Character Traits in Language Models
+
+### [yhnu](https://github.com/yhnu)
+- 🌟 👤 [yhnu](https://github.com/yhnu) Starred [Rhydon1337/windows-kernel-dll-injector](https://github.com/Rhydon1337/windows-kernel-dll-injector) 
+	Kernel mode to user mode dll injection
 
 ### [yifengyou](https://github.com/yifengyou)
 - 🌟 👤 [yifengyou](https://github.com/yifengyou) Starred [husseinhareb/hw-monitor](https://github.com/husseinhareb/hw-monitor) 
@@ -713,5 +706,5 @@
 
 
 ---
-*最后更新于 2025-09-20 09:51:41 UTC*
+*最后更新于 2025-09-20 10:19:22 UTC*
 *历史记录保存在 `archive` 目录中。*
