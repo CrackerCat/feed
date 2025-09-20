@@ -35,6 +35,8 @@
 ### [Fanxiaoyao66](https://github.com/Fanxiaoyao66)
 - 🌟 👤 [Fanxiaoyao66](https://github.com/Fanxiaoyao66) Starred [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) 
 	Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+- 🌟 👤 [Fanxiaoyao66](https://github.com/Fanxiaoyao66) Starred [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) 
+	the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&java scripts, device memory extraction, data decryption, and encryption, etc. 
 
 ### [FunnyWolf](https://github.com/FunnyWolf)
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [PurCL/ASTRA](https://github.com/PurCL/ASTRA) 
@@ -92,6 +94,9 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
 	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
+### [PKUFlyingPig](https://github.com/PKUFlyingPig)
+- 🌟 👤 [PKUFlyingPig](https://github.com/PKUFlyingPig) Starred [LLMServe/FastServe](https://github.com/LLMServe/FastServe) 
+
 ### [QuasarApp](https://github.com/QuasarApp)
 - 🍴 👤 [QuasarApp](https://github.com/QuasarApp) Forked [rlabrecque/SteamworksSDK](https://github.com/rlabrecque/SteamworksSDK) to [QuasarApp/SteamworksSDK](https://github.com/QuasarApp/SteamworksSDK)  
 
@@ -118,10 +123,6 @@
 ### [Super12138](https://github.com/Super12138)
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [SaeedDev94/pixel-5g](https://github.com/SaeedDev94/pixel-5g) 
 	Config pixel modem NR mode
-
-### [Th4nat0s](https://github.com/Th4nat0s)
-- ✨ 👤 [Th4nat0s](https://github.com/Th4nat0s) Created new repo [D4-project/Plum-Island](https://github.com/D4-project/Plum-Island)  
-	Proactive Land Uncovering & Monitoring
 
 ### [TheKingOfDuck](https://github.com/TheKingOfDuck)
 - 🚀 👤 [TheKingOfDuck](https://github.com/TheKingOfDuck) Made [TheKingOfDuck/xlogger](https://github.com/TheKingOfDuck/xlogger) public  
@@ -157,6 +158,10 @@
 ### [ahkehra](https://github.com/ahkehra)
 - 🌟 👤 [ahkehra](https://github.com/ahkehra) Starred [solkin/appteka-android](https://github.com/solkin/appteka-android) 
 	💊 Appteka is an alternative store for Android
+
+### [amezin](https://github.com/amezin)
+- 🍴 👤 [amezin](https://github.com/amezin) Forked [systemd/systemd](https://github.com/systemd/systemd) to [amezin/systemd](https://github.com/amezin/systemd)  
+	The systemd System and Service Manager 
 
 ### [asLody](https://github.com/asLody)
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [maoabc/nmmp](https://github.com/maoabc/nmmp) 
@@ -243,12 +248,6 @@
 ### [chizhanyuefeng](https://github.com/chizhanyuefeng)
 - 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [BytedanceDouyinContent/SAIL-VL2](https://github.com/BytedanceDouyinContent/SAIL-VL2) 
 	The SAIL-VL2 series model developed by the BytedanceDouyinContent Group
-
-### [cn-kali-team](https://github.com/cn-kali-team)
-- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment) 
-	A hierarchical configuration library so con-free, it's unreal.
-- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [tekaratzas/RustGPT](https://github.com/tekaratzas/RustGPT) 
-	An transformer based LLM. Written completely in Rust
 
 ### [codehz](https://github.com/codehz)
 - 🌟 👤 [codehz](https://github.com/codehz) Starred [kagisearch/ask](https://github.com/kagisearch/ask) 
@@ -385,6 +384,8 @@
 	Make ai KEY rotation SMARTER and more SECURE
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [aliibraheem516/Image-to-Story-to-Speech-A-Multi-Modal-Generative-Pipeline-with-LoRA-Fine-Tuning](https://github.com/aliibraheem516/Image-to-Story-to-Speech-A-Multi-Modal-Generative-Pipeline-with-LoRA-Fine-Tuning) 
 	This AI pipeline turns images into spoken stories. It uses image captioning to generate text, fine-tunes a language model (with LoRA) to create a story, and converts it to speech. The result is an audio file narrating the generated story, combining computer vision, NLP, and speech synthesis.
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [IjoiK12/modal-deploy-kohya-ss](https://github.com/IjoiK12/modal-deploy-kohya-ss) 
+	This can help to train your LoRAs on Modal
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [blacktop/aarch64-cssc](https://github.com/blacktop/aarch64-cssc) 
@@ -695,5 +696,5 @@
 
 
 ---
-*最后更新于 2025-09-20 11:15:09 UTC*
+*最后更新于 2025-09-20 11:26:58 UTC*
 *历史记录保存在 `archive` 目录中。*
