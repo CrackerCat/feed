@@ -46,6 +46,10 @@
 - 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [yangFenTuoZi/Shizuku](https://github.com/yangFenTuoZi/Shizuku) to [HSSkyBoy/Shizuku](https://github.com/HSSkyBoy/Shizuku)  
 	Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
+### [JasonWei512](https://github.com/JasonWei512)
+- 🌟 👤 [JasonWei512](https://github.com/JasonWei512) Starred [mmulet/term.everything](https://github.com/mmulet/term.everything) 
+	Run any GUI app in the terminal❗
+
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [bindhosts/bindhosts](https://github.com/bindhosts/bindhosts) to [JingMatrix/bindhosts](https://github.com/JingMatrix/bindhosts)  
 	Systemless hosts for APatch / KernelSU / Magisk
@@ -60,6 +64,10 @@
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
 	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
+### [MartinKayJr](https://github.com/MartinKayJr)
+- 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [Easemob-Community/easemob-uniApp-push-demo](https://github.com/Easemob-Community/easemob-uniApp-push-demo) 
+	环信uniApp推送插件使用实例。
+
 ### [MikaCybertron](https://github.com/MikaCybertron)
 - 🌟 👤 [MikaCybertron](https://github.com/MikaCybertron) Starred [AbdurazaaqMohammed/InjectDocumentsProvider](https://github.com/AbdurazaaqMohammed/InjectDocumentsProvider) 
 	Access Android/data and all data files of an Android app without any permissions
@@ -73,6 +81,10 @@
 	LuLu is the free open-source macOS firewall
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [objective-see/BlockBlock](https://github.com/objective-see/BlockBlock) 
 	BlockBlock provides continual protection by monitoring persistence locations.
+
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
+	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [bytedance/btrace](https://github.com/bytedance/btrace) 
@@ -146,10 +158,6 @@
 	Cloudflare Turnstile Solver (request-based, fully reversed)
 - 🍴 👤 [Udyz](https://github.com/Udyz) Forked [munew/wplace.live-pawtect-reverse](https://github.com/munew/wplace.live-pawtect-reverse) to [Udyz/wplace.live-pawtect-reverse](https://github.com/Udyz/wplace.live-pawtect-reverse)  
 	Reverse of the WASM protection made for wplace.live named "Pawtect". 
-
-### [Yervant7](https://github.com/Yervant7)
-- 🌟 👤 [Yervant7](https://github.com/Yervant7) Starred [SoyBeanMilkx/memcrc](https://github.com/SoyBeanMilkx/memcrc) 
-	A apatch kernel module that helps you hide device environment :)
 
 ### [Ylarod](https://github.com/Ylarod)
 - ✨ 👤 [Ylarod](https://github.com/Ylarod) Created new repo [Ylarod/GiteaMirrorBot](https://github.com/Ylarod/GiteaMirrorBot)  
@@ -303,8 +311,6 @@
 	Tool to decrypt PVK files
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [j3h4ck/WatchDogKiller](https://github.com/j3h4ck/WatchDogKiller) to [gmh5225/WatchDogKiller](https://github.com/gmh5225/WatchDogKiller)  
-	PoC exploit for the vulnerable WatchDog Anti-Malware driver (amsdk.sys) – weaponized to kill protected EDR/AV processes via BYOVD.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [blxkex/Latex-Notes-Templates](https://github.com/blxkex/Latex-Notes-Templates) to [gmh5225/Latex-Notes-Templates](https://github.com/gmh5225/Latex-Notes-Templates)  
 	A collection of my latex notes, showcased as templates. 
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) to [gmh5225/gfwlist](https://github.com/gmh5225/gfwlist)  
@@ -563,8 +569,6 @@
 	A apatch kernel module that helps you hide device environment :)
 
 ### [shadow3aaa](https://github.com/shadow3aaa)
-- 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [oddity-ai/rave](https://github.com/oddity-ai/rave) 
-	Rust audio/video engine
 - 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) 
 	Safe FFmpeg wrapper.
 - 🍴 👤 [shadow3aaa](https://github.com/shadow3aaa) Forked [oddity-ai/video-rs](https://github.com/oddity-ai/video-rs) to [shadow3aaa/video-rs](https://github.com/shadow3aaa/video-rs)  
@@ -687,14 +691,10 @@
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [7Rocky/HackTheBox-scripts](https://github.com/7Rocky/HackTheBox-scripts) 
 	Useful scripts to exploit Hack The Box retired machines/challenges
 
-### [zjw-swun](https://github.com/zjw-swun)
-- 🌟 👤 [zjw-swun](https://github.com/zjw-swun) Starred [FlyJingFish/AndroidAOP](https://github.com/FlyJingFish/AndroidAOP) 
-	🔥🔥🔥A framework that helps Android App transform into an AOP architecture. (帮助 Android App 改造成AOP架构的框架，一个注解就可以请求权限、切换线程、禁止多点、监测所有点击事件、监测生命周期等等)
-
 ### [zzyGodofWar](https://github.com/zzyGodofWar)
 - 🍴 👤 [zzyGodofWar](https://github.com/zzyGodofWar) Forked [project-bo4/shield-development](https://github.com/project-bo4/shield-development) to [zzyGodofWar/shield-development](https://github.com/zzyGodofWar/shield-development)  
 
 
 ---
-*最后更新于 2025-09-20 11:26:58 UTC*
+*最后更新于 2025-09-20 11:39:51 UTC*
 *历史记录保存在 `archive` 目录中。*
