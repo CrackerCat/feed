@@ -23,6 +23,10 @@
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [kaixxx/noScribe](https://github.com/kaixxx/noScribe) 
 	Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [Andrew-Jang/RAGHub](https://github.com/Andrew-Jang/RAGHub) 
+	A community-driven collection of RAG (Retrieval-Augmented Generation) frameworks, projects, and resources. Contribute and explore the evolving RAG ecosystem.
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [blxkex/Latex-Notes-Templates](https://github.com/blxkex/Latex-Notes-Templates) 
+	A collection of my latex notes, showcased as templates. 
 
 ### [ClaudiuGeorgiu](https://github.com/ClaudiuGeorgiu)
 - 🌟 👤 [ClaudiuGeorgiu](https://github.com/ClaudiuGeorgiu) Starred [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) 
@@ -93,12 +97,6 @@
 	PoC tools of Bytecode Jiu-Jitsu presented at Black Hat USA 2024 Briefings
 
 ### [NightOfTwelve](https://github.com/NightOfTwelve)
-- 🌟 👤 [NightOfTwelve](https://github.com/NightOfTwelve) Starred [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) 
-	SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
-- 🌟 👤 [NightOfTwelve](https://github.com/NightOfTwelve) Starred [XTLS/Xray-core](https://github.com/XTLS/Xray-core) 
-	Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-- 🍴 👤 [NightOfTwelve](https://github.com/NightOfTwelve) Forked [XTLS/Xray-core](https://github.com/XTLS/Xray-core) to [NightOfTwelve/Xray-core](https://github.com/NightOfTwelve/Xray-core)  
-	Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - 🌟 👤 [NightOfTwelve](https://github.com/NightOfTwelve) Starred [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) 
 	A platform for building proxies to bypass network restrictions.
 - 🍴 👤 [NightOfTwelve](https://github.com/NightOfTwelve) Forked [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) to [NightOfTwelve/v2ray-core](https://github.com/NightOfTwelve/v2ray-core)  
@@ -322,6 +320,8 @@
 	Tongyi Deep Research, the Leading Open-source Deep Research Agent
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) 
 	WebGoat is a deliberately insecure application
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) 
+	Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 
 ### [fr0zenrain](https://github.com/fr0zenrain)
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [Tsaiboss/decodeObfuscator](https://github.com/Tsaiboss/decodeObfuscator) 
@@ -707,5 +707,5 @@
 
 
 ---
-*最后更新于 2025-09-20 08:25:02 UTC*
+*最后更新于 2025-09-20 08:43:25 UTC*
 *历史记录保存在 `archive` 目录中。*
