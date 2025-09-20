@@ -192,9 +192,11 @@
 - ✨ 👤 [atc1441](https://github.com/atc1441) Created new repo [atc1441/Vape_DOOM_ScreenShare](https://github.com/atc1441/Vape_DOOM_ScreenShare)  
 	Custom firmware for the PUYA SoC Based Vape Aspire PIXO to be used as a Screen Share DOOM Player
 
-### [bb33bb](https://github.com/bb33bb)
-- 🍴 👤 [bb33bb](https://github.com/bb33bb) Forked [fujiexpo/2GiBootDebugFlash](https://github.com/fujiexpo/2GiBootDebugFlash) to [bb33bb/2GiBootDebugFlash](https://github.com/bb33bb/2GiBootDebugFlash)  
-	Flash Debug 3.1.2 iBoot on iPhone 2G
+### [ba0gu0](https://github.com/ba0gu0)
+- 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [abrahamjuliot/creepjs](https://github.com/abrahamjuliot/creepjs) 
+	Creepy device and browser fingerprinting
+- 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [cure53/DOMPurify](https://github.com/cure53/DOMPurify) 
+	DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0xmaximus/Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist) 
@@ -274,6 +276,8 @@
 	Obfuscator-llvm Control Flow Flattening Deobfuscator
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [maskelihileci/IDA_Ollvm-unflattener](https://github.com/maskelihileci/IDA_Ollvm-unflattener) 
 	Control Flow Flattening Deobfuscator for Obfuscator-LLVM as a plugin for IDA Pro.
+- 🌟 👤 [codingsf](https://github.com/codingsf) Starred [aengelke/rellume](https://github.com/aengelke/rellume) 
+	Lift machine code to performant LLVM IR
 
 ### [colrdavidson](https://github.com/colrdavidson)
 - ✨ 👤 [colrdavidson](https://github.com/colrdavidson) Created new repo [colrdavidson/nosj](https://github.com/colrdavidson/nosj)  
@@ -308,6 +312,10 @@
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) 
 	Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 
+### [feicong](https://github.com/feicong)
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [radareorg/radare2-book](https://github.com/radareorg/radare2-book) to [feicong/radare2-book](https://github.com/feicong/radare2-book)  
+	The Official Radare2 Book
+
 ### [gdbinit](https://github.com/gdbinit)
 - ✨ 👤 [gdbinit](https://github.com/gdbinit) Created new repo [gdbinit/metal_bruteforce](https://github.com/gdbinit/metal_bruteforce)  
 	Metal based RC4 bruteforcer
@@ -315,10 +323,6 @@
 	Tool to decrypt PVK files
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [blxkex/Latex-Notes-Templates](https://github.com/blxkex/Latex-Notes-Templates) to [gmh5225/Latex-Notes-Templates](https://github.com/gmh5225/Latex-Notes-Templates)  
-	A collection of my latex notes, showcased as templates. 
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) to [gmh5225/gfwlist](https://github.com/gmh5225/gfwlist)  
-	The one and only one gfwlist here
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [XX-net/XX-Net](https://github.com/XX-net/XX-Net) to [gmh5225/XX-Net](https://github.com/gmh5225/XX-Net)  
 	A proxy tool to bypass GFW.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [smartcontractkit/chainlink-ccv](https://github.com/smartcontractkit/chainlink-ccv) to [gmh5225/chainlink-ccv](https://github.com/gmh5225/chainlink-ccv)  
@@ -400,8 +404,6 @@
 	This can help to train your LoRAs on Modal
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
-- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [blacktop/aarch64-cssc](https://github.com/blacktop/aarch64-cssc) 
-	IDA (disassembler) and Hex-Rays (decompiler) plugin for FEAT_CSSC
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [usnistgov/macos_security](https://github.com/usnistgov/macos_security) 
 	macOS Security Compliance Project
 
@@ -549,6 +551,9 @@
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [rhythmcache/partition-backup](https://github.com/rhythmcache/partition-backup) 
 	*Magisk Module To Backup or Save Android Device Partition
 
+### [re-zero001](https://github.com/re-zero001)
+- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation) 
+
 ### [riba2534](https://github.com/riba2534)
 - 🌟 👤 [riba2534](https://github.com/riba2534) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
 	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
@@ -575,8 +580,6 @@
 	A apatch kernel module that helps you hide device environment :)
 
 ### [shadow3aaa](https://github.com/shadow3aaa)
-- 🍴 👤 [shadow3aaa](https://github.com/shadow3aaa) Forked [oddity-ai/video-rs](https://github.com/oddity-ai/video-rs) to [shadow3aaa/video-rs](https://github.com/shadow3aaa/video-rs)  
-	Video readers, writers, muxers, encoders and decoders for Rust based on ffmpeg libraries. 
 - 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) 
 	The Fully Customizable Desktop Environment for Windows 10/11.
 
@@ -641,6 +644,10 @@
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [fanf2/unifdef](https://github.com/fanf2/unifdef) 
 	selectively remove C preprocessor conditionals
 
+### [wainshine](https://github.com/wainshine)
+- 🌟 👤 [wainshine](https://github.com/wainshine) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
+	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
 ### [wh1te4ever](https://github.com/wh1te4ever)
 - 🍴 👤 [wh1te4ever](https://github.com/wh1te4ever) Forked [0x7ff/dimentio](https://github.com/0x7ff/dimentio) to [wh1te4ever/dimentio](https://github.com/wh1te4ever/dimentio)  
 	Tool for getting and setting nonce without triggering KPP/KTRR/PAC.
@@ -652,8 +659,6 @@
 	PromptX · 领先的AI 智能体上下文平台 ｜ PromptX · Leading AI Agent Context Platform
 
 ### [wkbin](https://github.com/wkbin)
-- 🌟 👤 [wkbin](https://github.com/wkbin) Starred [aaa1115910/bv](https://github.com/aaa1115910/bv) 
-	哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
 - 🍴 👤 [wkbin](https://github.com/wkbin) Forked [aaa1115910/bv](https://github.com/aaa1115910/bv) to [wkbin/bv](https://github.com/wkbin/bv)  
 	哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
 
@@ -704,5 +709,5 @@
 
 
 ---
-*最后更新于 2025-09-20 12:38:45 UTC*
+*最后更新于 2025-09-20 13:04:28 UTC*
 *历史记录保存在 `archive` 目录中。*
