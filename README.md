@@ -48,6 +48,9 @@
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [PurCL/ASTRA](https://github.com/PurCL/ASTRA) 
 	🥇 Amazon Nova AI Challenge Winner - ASTRA emerged victorious as the top attacking team in Amazon's global AI safety competition, defeating elite defending teams from universities worldwide in live adversarial evaluation.
 
+### [GaoYuCan](https://github.com/GaoYuCan)
+- 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [metaworm/openwrt-luac-parser](https://github.com/metaworm/openwrt-luac-parser) 
+
 ### [HSSkyBoy](https://github.com/HSSkyBoy)
 - 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [yangFenTuoZi/Shizuku](https://github.com/yangFenTuoZi/Shizuku) to [HSSkyBoy/Shizuku](https://github.com/HSSkyBoy/Shizuku)  
 	Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
@@ -98,6 +101,8 @@
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
 	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [FMAC-Team/lris](https://github.com/FMAC-Team/lris) 
+	File Monitoring and Access.
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [bytedance/btrace](https://github.com/bytedance/btrace) 
@@ -114,10 +119,6 @@
 ### [OfficialKatana](https://github.com/OfficialKatana)
 - 🌟 👤 [OfficialKatana](https://github.com/OfficialKatana) Starred [sapics/ip-location-db](https://github.com/sapics/ip-location-db) 
 	ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
-
-### [P4nda0s](https://github.com/P4nda0s)
-- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
-	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
 ### [PKUFlyingPig](https://github.com/PKUFlyingPig)
 - 🌟 👤 [PKUFlyingPig](https://github.com/PKUFlyingPig) Starred [LLMServe/FastServe](https://github.com/LLMServe/FastServe) 
@@ -141,6 +142,10 @@
 ### [Super12138](https://github.com/Super12138)
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [SaeedDev94/pixel-5g](https://github.com/SaeedDev94/pixel-5g) 
 	Config pixel modem NR mode
+
+### [TUGOhost](https://github.com/TUGOhost)
+- 🌟 👤 [TUGOhost](https://github.com/TUGOhost) Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 
+	An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 ### [TheKingOfDuck](https://github.com/TheKingOfDuck)
 - 🚀 👤 [TheKingOfDuck](https://github.com/TheKingOfDuck) Made [TheKingOfDuck/xlogger](https://github.com/TheKingOfDuck/xlogger) public  
@@ -323,9 +328,6 @@
 	Tool to decrypt PVK files
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [XX-net/XX-Net](https://github.com/XX-net/XX-Net) to [gmh5225/XX-Net](https://github.com/gmh5225/XX-Net)  
-	A proxy tool to bypass GFW.
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [smartcontractkit/chainlink-ccv](https://github.com/smartcontractkit/chainlink-ccv) to [gmh5225/chainlink-ccv](https://github.com/gmh5225/chainlink-ccv)  
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ntt-zerolab/Bytecode_Jiu-Jitsu](https://github.com/ntt-zerolab/Bytecode_Jiu-Jitsu) to [gmh5225/Bytecode_Jiu-Jitsu](https://github.com/gmh5225/Bytecode_Jiu-Jitsu)  
 	PoC tools of Bytecode Jiu-Jitsu presented at Black Hat USA 2024 Briefings
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [microsoft/Text2Analysis](https://github.com/microsoft/Text2Analysis) to [gmh5225/Text2Analysis](https://github.com/gmh5225/Text2Analysis)  
@@ -467,8 +469,6 @@
 	[AI] Simple LiteLLM trace viewer
 
 ### [mstfknn](https://github.com/mstfknn)
-- 🚀 👤 [mstfknn](https://github.com/mstfknn) Made [mstfknn/phishing-fasttext-model](https://github.com/mstfknn/phishing-fasttext-model) public  
-	A lightweight FastText-based model to classify domain names as phishing or clean.
 - 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [mstfknn/malware-sample-library](https://github.com/mstfknn/malware-sample-library) 
 	Malware sample library.
 - 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [mstfknn/Stealers-Collection](https://github.com/mstfknn/Stealers-Collection) 
@@ -614,6 +614,10 @@
 - 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [aprz512/write-your-own-jvm](https://github.com/aprz512/write-your-own-jvm) 
 	implement a simple jvm with java
 
+### [ttttmr](https://github.com/ttttmr)
+- 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [cloudflare/agents](https://github.com/cloudflare/agents) 
+	Build and deploy AI Agents on Cloudflare 
+
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [NioZow/Imperium](https://github.com/NioZow/Imperium) 
 	A C++/Asm template for PIC/EXE/DLL malware
@@ -648,19 +652,11 @@
 - 🌟 👤 [wainshine](https://github.com/wainshine) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
 	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
-### [wh1te4ever](https://github.com/wh1te4ever)
-- 🍴 👤 [wh1te4ever](https://github.com/wh1te4ever) Forked [0x7ff/dimentio](https://github.com/0x7ff/dimentio) to [wh1te4ever/dimentio](https://github.com/wh1te4ever/dimentio)  
-	Tool for getting and setting nonce without triggering KPP/KTRR/PAC.
-
 ### [wjcsharp](https://github.com/wjcsharp)
 - 🌟 👤 [wjcsharp](https://github.com/wjcsharp) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec) 
 	A headless, extendable, multi-session, IDA Pro MCP framework.
 - 🌟 👤 [wjcsharp](https://github.com/wjcsharp) Starred [Deepractice/PromptX](https://github.com/Deepractice/PromptX) 
 	PromptX · 领先的AI 智能体上下文平台 ｜ PromptX · Leading AI Agent Context Platform
-
-### [wkbin](https://github.com/wkbin)
-- 🍴 👤 [wkbin](https://github.com/wkbin) Forked [aaa1115910/bv](https://github.com/aaa1115910/bv) to [wkbin/bv](https://github.com/wkbin/bv)  
-	哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
 
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) to [wszqkzqk/OpenSearch](https://github.com/wszqkzqk/OpenSearch)  
@@ -709,5 +705,5 @@
 
 
 ---
-*最后更新于 2025-09-20 13:04:28 UTC*
+*最后更新于 2025-09-20 13:30:51 UTC*
 *历史记录保存在 `archive` 目录中。*
