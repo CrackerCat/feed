@@ -54,10 +54,6 @@
 ### [GermanAizek](https://github.com/GermanAizek)
 - ✨ 👤 [GermanAizek](https://github.com/GermanAizek) Created new repo [GermanAizek/germanaizek.github.io](https://github.com/GermanAizek/germanaizek.github.io)  
 
-### [HSSkyBoy](https://github.com/HSSkyBoy)
-- 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [yangFenTuoZi/Shizuku](https://github.com/yangFenTuoZi/Shizuku) to [HSSkyBoy/Shizuku](https://github.com/HSSkyBoy/Shizuku)  
-	Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
-
 ### [IlanKalendarov](https://github.com/IlanKalendarov)
 - 🌟 👤 [IlanKalendarov](https://github.com/IlanKalendarov) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) 
 	TradingAgents: Multi-Agents LLM Financial Trading Framework
@@ -97,12 +93,6 @@
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [Easemob-Community/easemob-uniApp-push-demo](https://github.com/Easemob-Community/easemob-uniApp-push-demo) 
 	环信uniApp推送插件使用实例。
 
-### [MikaCybertron](https://github.com/MikaCybertron)
-- 🌟 👤 [MikaCybertron](https://github.com/MikaCybertron) Starred [AbdurazaaqMohammed/InjectDocumentsProvider](https://github.com/AbdurazaaqMohammed/InjectDocumentsProvider) 
-	Access Android/data and all data files of an Android app without any permissions
-- 🍴 👤 [MikaCybertron](https://github.com/MikaCybertron) Forked [AbdurazaaqMohammed/InjectDocumentsProvider](https://github.com/AbdurazaaqMohammed/InjectDocumentsProvider) to [MikaCybertron/InjectDocumentsProvider](https://github.com/MikaCybertron/InjectDocumentsProvider)  
-	Access Android/data and all data files of an Android app without any permissions
-
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [vsinr/LuLu-Mac-Firewall-Chinese](https://github.com/vsinr/LuLu-Mac-Firewall-Chinese) 
 	macOS 平台上的免费开源防火墙软件LuLu的中文汉化包
@@ -132,10 +122,6 @@
 ### [N3rdL0rd](https://github.com/N3rdL0rd)
 - 🍴 👤 [N3rdL0rd](https://github.com/N3rdL0rd) Forked [MultiPaper/MultiPaper](https://github.com/MultiPaper/MultiPaper) to [N3rdL0rd/MultiPaper](https://github.com/N3rdL0rd/MultiPaper)  
 	Multi-server, single-world papermc implementation
-
-### [OfficialKatana](https://github.com/OfficialKatana)
-- 🌟 👤 [OfficialKatana](https://github.com/OfficialKatana) Starred [sapics/ip-location-db](https://github.com/sapics/ip-location-db) 
-	ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
 
 ### [OtterHacker](https://github.com/OtterHacker)
 - 🍴 👤 [OtterHacker](https://github.com/OtterHacker) Forked [peasead/elastic-container](https://github.com/peasead/elastic-container) to [OtterHacker/elastic-container](https://github.com/OtterHacker/elastic-container)  
@@ -196,10 +182,6 @@
 ### [amezin](https://github.com/amezin)
 - 🍴 👤 [amezin](https://github.com/amezin) Forked [systemd/systemd](https://github.com/systemd/systemd) to [amezin/systemd](https://github.com/amezin/systemd)  
 	The systemd System and Service Manager 
-
-### [asLody](https://github.com/asLody)
-- 🌟 👤 [asLody](https://github.com/asLody) Starred [maoabc/nmmp](https://github.com/maoabc/nmmp) 
-	dex-vm used to protect the android classes.dex file
 
 ### [ashvardanian](https://github.com/ashvardanian)
 - 🌟 👤 [ashvardanian](https://github.com/ashvardanian) Starred [HJLebbink/RustGPT](https://github.com/HJLebbink/RustGPT) 
@@ -342,8 +324,6 @@
 	Tool to decrypt PVK files
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ntt-zerolab/Bytecode_Jiu-Jitsu](https://github.com/ntt-zerolab/Bytecode_Jiu-Jitsu) to [gmh5225/Bytecode_Jiu-Jitsu](https://github.com/gmh5225/Bytecode_Jiu-Jitsu)  
-	PoC tools of Bytecode Jiu-Jitsu presented at Black Hat USA 2024 Briefings
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [microsoft/Text2Analysis](https://github.com/microsoft/Text2Analysis) to [gmh5225/Text2Analysis](https://github.com/gmh5225/Text2Analysis)  
 	Code and data for AAAI'24 paper "Text2Analysis: A Benchmark of Table Question Answering with Advanced Data Analysis and Unclear Queries".
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [PyroTek3/ADLab](https://github.com/PyroTek3/ADLab) to [gmh5225/ADLab](https://github.com/gmh5225/ADLab)  
@@ -364,6 +344,8 @@
 	Obex – Blocking unwanted DLLs in user mode
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [raylib4Consoles/raylib4PlayStation2](https://github.com/raylib4Consoles/raylib4PlayStation2) to [gmh5225/raylib4PlayStation2](https://github.com/gmh5225/raylib4PlayStation2)  
 	Raylib port for PlayStation 2
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) to [gmh5225/detectron2](https://github.com/gmh5225/detectron2)  
+	Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 
 ### [grant-h](https://github.com/grant-h)
 - 🍴 👤 [grant-h](https://github.com/grant-h) Forked [Frommi/miniz_oxide](https://github.com/Frommi/miniz_oxide) to [grant-h/miniz_oxide](https://github.com/grant-h/miniz_oxide)  
@@ -414,6 +396,18 @@
 	This can help to train your LoRAs on Modal
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [ZHO-ZHO-ZHO/Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary) 
 	香蕉超市｜各种玩法一键生成，无需提示词，支持局部涂选、连续编辑
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [ZHO-ZHO-ZHO/BananaFace](https://github.com/ZHO-ZHO-ZHO/BananaFace) 
+	基于 Nano Banana 的捏脸神器！精心打造您的完美肖像。使用控制选项，让 AI 将您的想象变为现实
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [KewbitXMR/kewnix](https://github.com/KewbitXMR/kewnix) 
+	Kewnix is a hardened, modular orchestration system for routing Docker containers through a transparent, isolated Tor gateway, all while keeping your host system clean, untouched, and hardened.
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [KewbitXMR/kewnix](https://github.com/KewbitXMR/kewnix) to [killvxk/kewnix](https://github.com/killvxk/kewnix)  
+	Kewnix is a hardened, modular orchestration system for routing Docker containers through a transparent, isolated Tor gateway, all while keeping your host system clean, untouched, and hardened.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [tmiklas/docker-alpine-tor-gw](https://github.com/tmiklas/docker-alpine-tor-gw) 
+	Tor gateway packaged into a Docker container
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [tmiklas/docker-alpine-tor-gw](https://github.com/tmiklas/docker-alpine-tor-gw) to [killvxk/docker-alpine-tor-gw](https://github.com/killvxk/docker-alpine-tor-gw)  
+	Tor gateway packaged into a Docker container
 
 ### [konieshadow](https://github.com/konieshadow)
 - 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend) 
@@ -430,10 +424,6 @@
 	A Custom Client for iPhone, iPad, and Mac
 - 🌟 👤 [llsc12](https://github.com/llsc12) Starred [rust-wiiu/wut](https://github.com/rust-wiiu/wut) 
 	Wii U Toolchain (WUT) bindings & API
-
-### [lux-QAQ](https://github.com/lux-QAQ)
-- 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [github/spec-kit](https://github.com/github/spec-kit) 
-	💫 Toolkit to help you get started with Spec-Driven Development
 
 ### [mandiant](https://github.com/mandiant)
 - 🚀 👤 [mandiant](https://github.com/mandiant) Made [mandiant/vrt-sdk](https://github.com/mandiant/vrt-sdk) public  
@@ -562,6 +552,10 @@
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) 
 	The Fully Customizable Desktop Environment for Windows 10/11.
 
+### [survivalizeed](https://github.com/survivalizeed)
+- 🌟 👤 [survivalizeed](https://github.com/survivalizeed) Starred [zyantific/zydis](https://github.com/zyantific/zydis) 
+	Fast and lightweight x86/x86-64 disassembler and code generation library
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [erebe/wstunnel](https://github.com/erebe/wstunnel) 
 	Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available 
@@ -571,8 +565,6 @@
 	Android Lab Fake Location Service
 
 ### [timscriptov](https://github.com/timscriptov)
-- 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [crimsonwoods/javassist-android](https://github.com/crimsonwoods/javassist-android) 
-	Javassit for Android
 - 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [RadiantByte/ModdedPE](https://github.com/RadiantByte/ModdedPE) 
 - 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [phillbush/jvm](https://github.com/phillbush/jvm) 
 	 simple java virtual machine
@@ -673,5 +665,5 @@
 
 
 ---
-*最后更新于 2025-09-20 15:37:47 UTC*
+*最后更新于 2025-09-20 15:51:50 UTC*
 *历史记录保存在 `archive` 目录中。*
