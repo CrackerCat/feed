@@ -20,6 +20,10 @@
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
 	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [kaixxx/noScribe](https://github.com/kaixxx/noScribe) 
+	Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
+
 ### [ClaudiuGeorgiu](https://github.com/ClaudiuGeorgiu)
 - 🌟 👤 [ClaudiuGeorgiu](https://github.com/ClaudiuGeorgiu) Starred [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) 
 	 Permanent TouchID support 👆 for `sudo`.
@@ -177,8 +181,6 @@
 	A apatch kernel module that helps you hide device environment :)
 
 ### [ahkehra](https://github.com/ahkehra)
-- 🍴 👤 [ahkehra](https://github.com/ahkehra) Forked [PixelLineage/kernel_xiaomi_sm8250](https://github.com/PixelLineage/kernel_xiaomi_sm8250) to [ahkehra/kernel_xiaomi_sm8250](https://github.com/ahkehra/kernel_xiaomi_sm8250)  
-	N0Kernel 
 - 🌟 👤 [ahkehra](https://github.com/ahkehra) Starred [solkin/appteka-android](https://github.com/solkin/appteka-android) 
 	💊 Appteka is an alternative store for Android
 
@@ -388,6 +390,10 @@
 - 🚀 👤 [ivoszbg](https://github.com/ivoszbg) Made [ivoszbg/unitedintime.github.io](https://github.com/ivoszbg/unitedintime.github.io) public  
 	unitedintime.org
 
+### [jamchamb](https://github.com/jamchamb)
+- 🌟 👤 [jamchamb](https://github.com/jamchamb) Starred [nccgroup/powerg-tools](https://github.com/nccgroup/powerg-tools) 
+	Tools for reverse engineering and interacting with the PowerG radio protocol
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [kaixxx/noScribe](https://github.com/kaixxx/noScribe) 
 	Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
@@ -428,6 +434,10 @@
 	Generate Objective-C headers from dyld_shared_cache images.
 - 🌟 👤 [llsc12](https://github.com/llsc12) Starred [oprypin/nightly.link](https://github.com/oprypin/nightly.link) 
 	Downloads the latest "nightly" build/artifact from a continuous testing workflow
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) 
+	A Custom Client for iPhone, iPad, and Mac
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [rust-wiiu/wut](https://github.com/rust-wiiu/wut) 
+	Wii U Toolchain (WUT) bindings & API
 
 ### [lux-QAQ](https://github.com/lux-QAQ)
 - 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [github/spec-kit](https://github.com/github/spec-kit) 
@@ -697,5 +707,5 @@
 
 
 ---
-*最后更新于 2025-09-20 07:51:57 UTC*
+*最后更新于 2025-09-20 08:25:02 UTC*
 *历史记录保存在 `archive` 目录中。*
