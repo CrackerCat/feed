@@ -28,10 +28,6 @@
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [blxkex/Latex-Notes-Templates](https://github.com/blxkex/Latex-Notes-Templates) 
 	A collection of my latex notes, showcased as templates. 
 
-### [ClaudiuGeorgiu](https://github.com/ClaudiuGeorgiu)
-- 🌟 👤 [ClaudiuGeorgiu](https://github.com/ClaudiuGeorgiu) Starred [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) 
-	 Permanent TouchID support 👆 for `sudo`.
-
 ### [Dado1513](https://github.com/Dado1513)
 - ✨ 👤 [Dado1513](https://github.com/Dado1513) Created new repo [Dado1513/ipsw-plist-decoder](https://github.com/Dado1513/ipsw-plist-decoder)  
 	A Visual Studio Code extension that integrates the ipsw tool for decoding iOS property list (plist) files. This extension is designed for mobile penetration testers, security researchers, and iOS developers who need to quickly analyze and decode plist files.
@@ -64,6 +60,14 @@
 - 🍴 👤 [MikaCybertron](https://github.com/MikaCybertron) Forked [AbdurazaaqMohammed/InjectDocumentsProvider](https://github.com/AbdurazaaqMohammed/InjectDocumentsProvider) to [MikaCybertron/InjectDocumentsProvider](https://github.com/MikaCybertron/InjectDocumentsProvider)  
 	Access Android/data and all data files of an Android app without any permissions
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [vsinr/LuLu-Mac-Firewall-Chinese](https://github.com/vsinr/LuLu-Mac-Firewall-Chinese) 
+	macOS 平台上的免费开源防火墙软件LuLu的中文汉化包
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [objective-see/LuLu](https://github.com/objective-see/LuLu) 
+	LuLu is the free open-source macOS firewall
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [objective-see/BlockBlock](https://github.com/objective-see/BlockBlock) 
+	BlockBlock provides continual protection by monitoring persistence locations.
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [bytedance/btrace](https://github.com/bytedance/btrace) 
 	🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.
@@ -76,10 +80,6 @@
 - 🍴 👤 [N3rdL0rd](https://github.com/N3rdL0rd) Forked [MultiPaper/MultiPaper](https://github.com/MultiPaper/MultiPaper) to [N3rdL0rd/MultiPaper](https://github.com/N3rdL0rd/MultiPaper)  
 	Multi-server, single-world papermc implementation
 
-### [NUL0x4C](https://github.com/NUL0x4C)
-- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [ntt-zerolab/Bytecode_Jiu-Jitsu](https://github.com/ntt-zerolab/Bytecode_Jiu-Jitsu) 
-	PoC tools of Bytecode Jiu-Jitsu presented at Black Hat USA 2024 Briefings
-
 ### [OfficialKatana](https://github.com/OfficialKatana)
 - 🌟 👤 [OfficialKatana](https://github.com/OfficialKatana) Starred [sapics/ip-location-db](https://github.com/sapics/ip-location-db) 
 	ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
@@ -90,12 +90,6 @@
 
 ### [QuasarApp](https://github.com/QuasarApp)
 - 🍴 👤 [QuasarApp](https://github.com/QuasarApp) Forked [rlabrecque/SteamworksSDK](https://github.com/rlabrecque/SteamworksSDK) to [QuasarApp/SteamworksSDK](https://github.com/QuasarApp/SteamworksSDK)  
-
-### [Rabb1tQ](https://github.com/Rabb1tQ)
-- 🌟 👤 [Rabb1tQ](https://github.com/Rabb1tQ) Starred [tiger1103/gfast](https://github.com/tiger1103/gfast) 
-	基于GF(Go Frame)的后台管理系统
-- 🌟 👤 [Rabb1tQ](https://github.com/Rabb1tQ) Starred [HydraDragonAntivirus/HydraDragonAntivirus](https://github.com/HydraDragonAntivirus/HydraDragonAntivirus) 
-	Dynamic and static analysis with Sandboxie for Windows, including EDR, ClamAV, YARA-X, custom machine learning AI, behavioral analysis, NLP-based detection, website signatures, Ghidra, Suricata, Sigma, and much more than you can imagine.
 
 ### [Raival-e](https://github.com/Raival-e)
 - 🌟 👤 [Raival-e](https://github.com/Raival-e) Starred [public-apis/public-apis](https://github.com/public-apis/public-apis) 
@@ -120,6 +114,10 @@
 ### [SpriteOvO](https://github.com/SpriteOvO)
 - 🌟 👤 [SpriteOvO](https://github.com/SpriteOvO) Starred [cross-rs/cross](https://github.com/cross-rs/cross) 
 	“Zero setup” cross compilation and “cross testing” of Rust crates
+
+### [Super12138](https://github.com/Super12138)
+- 🌟 👤 [Super12138](https://github.com/Super12138) Starred [SaeedDev94/pixel-5g](https://github.com/SaeedDev94/pixel-5g) 
+	Config pixel modem NR mode
 
 ### [Th4nat0s](https://github.com/Th4nat0s)
 - ✨ 👤 [Th4nat0s](https://github.com/Th4nat0s) Created new repo [D4-project/Plum-Island](https://github.com/D4-project/Plum-Island)  
@@ -151,6 +149,10 @@
 ### [Yervant7](https://github.com/Yervant7)
 - 🌟 👤 [Yervant7](https://github.com/Yervant7) Starred [SoyBeanMilkx/memcrc](https://github.com/SoyBeanMilkx/memcrc) 
 	A apatch kernel module that helps you hide device environment :)
+
+### [Ylarod](https://github.com/Ylarod)
+- ✨ 👤 [Ylarod](https://github.com/Ylarod) Created new repo [Ylarod/GiteaMirrorBot](https://github.com/Ylarod/GiteaMirrorBot)  
+	GitHub -> Gitea 镜像机器人
 
 ### [ahkehra](https://github.com/ahkehra)
 - 🌟 👤 [ahkehra](https://github.com/ahkehra) Starred [solkin/appteka-android](https://github.com/solkin/appteka-android) 
@@ -252,12 +254,6 @@
 - 🌟 👤 [codehz](https://github.com/codehz) Starred [kagisearch/ask](https://github.com/kagisearch/ask) 
 	A lightweight bash script for querying AI models via the OpenRouter API, optimized for direct, executable output.
 
-### [codezjx](https://github.com/codezjx)
-- 🌟 👤 [codezjx](https://github.com/codezjx) Starred [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2) 
-	Fast inference engine for Transformer models
-- 🌟 👤 [codezjx](https://github.com/codezjx) Starred [Helsinki-NLP/Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) 
-	Open neural machine translation models and web services
-
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [rockbruno/swiftshield](https://github.com/rockbruno/swiftshield) 
 	🔒 Swift Obfuscator that protects iOS apps against reverse engineering attacks.
@@ -300,14 +296,6 @@
 	WebGoat is a deliberately insecure application
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) 
 	Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
-
-### [fr0zenrain](https://github.com/fr0zenrain)
-- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [Tsaiboss/decodeObfuscator](https://github.com/Tsaiboss/decodeObfuscator) 
-	免安装一键还原Obfuscator混淆过的代码
-
-### [fuqiuluo](https://github.com/fuqiuluo)
-- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [rayon-rs/rayon](https://github.com/rayon-rs/rayon) 
-	Rayon: A data parallelism library for Rust
 
 ### [gdbinit](https://github.com/gdbinit)
 - ✨ 👤 [gdbinit](https://github.com/gdbinit) Created new repo [gdbinit/metal_bruteforce](https://github.com/gdbinit/metal_bruteforce)  
@@ -530,6 +518,10 @@
 - ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/vct](https://github.com/pinwhell/vct)  
 	A tiny, single-header C dynamic array (vector) library with customizable allocators.
 
+### [qi4L](https://github.com/qi4L)
+- 🌟 👤 [qi4L](https://github.com/qi4L) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
+	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [bytedance/btrace](https://github.com/bytedance/btrace) to [rankalpha/btrace](https://github.com/rankalpha/btrace)  
 	🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.
@@ -547,6 +539,7 @@
 	An iOS "one-tap" shapes game
 - 🌟 👤 [rogertan30](https://github.com/rogertan30) Starred [KittenYang/KYFloatingBubble](https://github.com/KittenYang/KYFloatingBubble) 
 	类似iOS7中Game Center浮动气泡的效果。iOS7 Game Center Floating Bubble Effects.
+- ✨ 👤 [rogertan30](https://github.com/rogertan30) Created new repo [rogertan30/rogertan30.github.io](https://github.com/rogertan30/rogertan30.github.io)  
 
 ### [rootkiter](https://github.com/rootkiter)
 - 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
@@ -659,10 +652,6 @@
 - 🍴 👤 [wkbin](https://github.com/wkbin) Forked [aaa1115910/bv](https://github.com/aaa1115910/bv) to [wkbin/bv](https://github.com/wkbin/bv)  
 	哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
 
-### [wonderkun](https://github.com/wonderkun)
-- 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator) 
-	Polaris: An LLVM-based obfuscator that protects software at various levels
-
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) to [wszqkzqk/OpenSearch](https://github.com/wszqkzqk/OpenSearch)  
 	🔎 Open source distributed and RESTful search engine.
@@ -680,14 +669,22 @@
 	Linux desktop application designed to monitor various aspects of your computer's hardware.
 
 ### [yuan-xy](https://github.com/yuan-xy)
-- 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [riscv-software-src/opensbi](https://github.com/riscv-software-src/opensbi) 
-	RISC-V Open Source Supervisor Binary Interface
 - 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [PiMaker/rvc](https://github.com/PiMaker/rvc) 
 	A 32-bit RISC-V emulator in a shader (and C)
 
 ### [zacbre](https://github.com/zacbre)
 - 🌟 👤 [zacbre](https://github.com/zacbre) Starred [Zephkek/Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive) 
 	A deep dive into the ACPI.sys DPC latency problems on Asus ROG laptops
+
+### [zer0yu](https://github.com/zer0yu)
+- 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [PDFMathTranslate/PDFMathTranslate-next](https://github.com/PDFMathTranslate/PDFMathTranslate-next) 
+	PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
+- 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [guaguastandup/zotero-pdf2zh](https://github.com/guaguastandup/zotero-pdf2zh) 
+	PDF2zh for Zotero | Zotero PDF中文翻译插件
+- 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) 
+	基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
+- 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [regexident/cargo-modules](https://github.com/regexident/cargo-modules) 
+	Visualize/analyze a Rust crate's internal structure
 
 ### [zhangkanqi](https://github.com/zhangkanqi)
 - 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [scabench-org/hound](https://github.com/scabench-org/hound) 
@@ -706,5 +703,5 @@
 
 
 ---
-*最后更新于 2025-09-20 10:19:22 UTC*
+*最后更新于 2025-09-20 10:39:45 UTC*
 *历史记录保存在 `archive` 目录中。*
