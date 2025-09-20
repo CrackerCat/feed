@@ -384,6 +384,8 @@
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [kaixxx/noScribe](https://github.com/kaixxx/noScribe) 
 	Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) 
+	Tongyi Deep Research, the Leading Open-source Deep Research Agent
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [glidea/one-balance](https://github.com/glidea/one-balance) 
@@ -404,8 +406,6 @@
 	JetKVM - Control any computer remotely
 
 ### [konieshadow](https://github.com/konieshadow)
-- 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [eclipse-jdtls/eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) 
-	Java language server
 - 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend) 
 	An open-source coding helper. Very friendly!
 
@@ -504,6 +504,12 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [android/security-samples](https://github.com/android/security-samples) 
 	Multiple samples showing the best practices in security APIs on Android.
 
+### [o0xmuhe](https://github.com/o0xmuhe)
+- 🌟 👤 [o0xmuhe](https://github.com/o0xmuhe) Starred [ruankaodaren/ruankao](https://github.com/ruankaodaren/ruankao) 
+	软考达人 - 最新最全免费的软考题库。 高级：系统架构设计师、系统分析师、信息系统项目管理师、系统规划与管理师、网络规划设计师。 中级：软件设计师、网络工程师、系统集成项目管理工程师、数据库系统工程师、信息安全工程师、信息系统管理工程师、信息系统监理师、软件评测师、嵌入式系统设计师、电子商务设计师、多媒体应用设计师。 初级：信息系统运行管理员、信息处理技术员、网络管理员、程序员。
+- 🌟 👤 [o0xmuhe](https://github.com/o0xmuhe) Starred [miao2sec/awesome-cloud-native-security](https://github.com/miao2sec/awesome-cloud-native-security) 
+	云原生安全资料库
+
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [spastorino/dynosaur](https://github.com/spastorino/dynosaur) 
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [pawurb/hotpath](https://github.com/pawurb/hotpath) 
@@ -540,10 +546,6 @@
 	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
 ### [rogertan30](https://github.com/rogertan30)
-- 🌟 👤 [rogertan30](https://github.com/rogertan30) Starred [txaiwieser/FityIt](https://github.com/txaiwieser/FityIt) 
-	An iOS "one-tap" shapes game
-- 🌟 👤 [rogertan30](https://github.com/rogertan30) Starred [KittenYang/KYFloatingBubble](https://github.com/KittenYang/KYFloatingBubble) 
-	类似iOS7中Game Center浮动气泡的效果。iOS7 Game Center Floating Bubble Effects.
 - ✨ 👤 [rogertan30](https://github.com/rogertan30) Created new repo [rogertan30/rogertan30.github.io](https://github.com/rogertan30/rogertan30.github.io)  
 
 ### [rootkiter](https://github.com/rootkiter)
@@ -696,5 +698,5 @@
 
 
 ---
-*最后更新于 2025-09-20 11:39:51 UTC*
+*最后更新于 2025-09-20 11:51:59 UTC*
 *历史记录保存在 `archive` 目录中。*
