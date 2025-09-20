@@ -29,8 +29,6 @@
 	A Visual Studio Code extension that integrates the ipsw tool for decoding iOS property list (plist) files. This extension is designed for mobile penetration testers, security researchers, and iOS developers who need to quickly analyze and decode plist files.
 
 ### [DeHby](https://github.com/DeHby)
-- 🌟 👤 [DeHby](https://github.com/DeHby) Starred [thomasxm/BOAZ_beta](https://github.com/thomasxm/BOAZ_beta) 
-	Multilayered AV/EDR Evasion Framework
 - 🌟 👤 [DeHby](https://github.com/DeHby) Starred [klezVirus/inceptor](https://github.com/klezVirus/inceptor) 
 	Template-Driven AV/EDR Evasion Framework
 - 🌟 👤 [DeHby](https://github.com/DeHby) Starred [govolution/avet](https://github.com/govolution/avet) 
@@ -342,8 +340,6 @@
 	Tool to decrypt PVK files
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Forceu/Gokapi](https://github.com/Forceu/Gokapi) to [gmh5225/Gokapi](https://github.com/gmh5225/Gokapi)  
-	Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [j3h4ck/WatchDogKiller](https://github.com/j3h4ck/WatchDogKiller) to [gmh5225/WatchDogKiller](https://github.com/gmh5225/WatchDogKiller)  
 	PoC exploit for the vulnerable WatchDog Anti-Malware driver (amsdk.sys) – weaponized to kill protected EDR/AV processes via BYOVD.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [blxkex/Latex-Notes-Templates](https://github.com/blxkex/Latex-Notes-Templates) to [gmh5225/Latex-Notes-Templates](https://github.com/gmh5225/Latex-Notes-Templates)  
@@ -617,6 +613,10 @@
 - 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [crimsonwoods/javassist-android](https://github.com/crimsonwoods/javassist-android) 
 	Javassit for Android
 - 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [RadiantByte/ModdedPE](https://github.com/RadiantByte/ModdedPE) 
+- 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [phillbush/jvm](https://github.com/phillbush/jvm) 
+	 simple java virtual machine
+- 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [aprz512/write-your-own-jvm](https://github.com/aprz512/write-your-own-jvm) 
+	implement a simple jvm with java
 
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [NioZow/Imperium](https://github.com/NioZow/Imperium) 
@@ -695,5 +695,5 @@
 
 
 ---
-*最后更新于 2025-09-20 06:47:16 UTC*
+*最后更新于 2025-09-20 07:17:44 UTC*
 *历史记录保存在 `archive` 目录中。*
