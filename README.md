@@ -80,9 +80,9 @@
 - 🌟 👤 [LasCC](https://github.com/LasCC) Starred [0xthirteen/WMI_Proc_Dump](https://github.com/0xthirteen/WMI_Proc_Dump) 
 	Dump processes over WMI with MSFT_MTProcess
 
-### [Lynnette177](https://github.com/Lynnette177)
-- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
-	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+### [Lil-Ran](https://github.com/Lil-Ran)
+- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) 
+	qBittorrent BitTorrent client
 
 ### [MartinKayJr](https://github.com/MartinKayJr)
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [Easemob-Community/easemob-uniApp-push-demo](https://github.com/Easemob-Community/easemob-uniApp-push-demo) 
@@ -128,6 +128,10 @@
 - 🌟 👤 [OfficialKatana](https://github.com/OfficialKatana) Starred [sapics/ip-location-db](https://github.com/sapics/ip-location-db) 
 	ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
 
+### [OtterHacker](https://github.com/OtterHacker)
+- 🍴 👤 [OtterHacker](https://github.com/OtterHacker) Forked [peasead/elastic-container](https://github.com/peasead/elastic-container) to [OtterHacker/elastic-container](https://github.com/OtterHacker/elastic-container)  
+	Stand up a simple Elastic container with Kibana, Fleet, and the Detection Engine
+
 ### [PKUFlyingPig](https://github.com/PKUFlyingPig)
 - 🌟 👤 [PKUFlyingPig](https://github.com/PKUFlyingPig) Starred [LLMServe/FastServe](https://github.com/LLMServe/FastServe) 
 
@@ -137,13 +141,7 @@
 - 🌟 👤 [Raival-e](https://github.com/Raival-e) Starred [fawazahmed0/exchange-api](https://github.com/fawazahmed0/exchange-api) 
 	Free Currency Exchange Rates API with 200+ Currencies & No Rate Limits
 
-### [RohitVerma882](https://github.com/RohitVerma882)
-- 🌟 👤 [RohitVerma882](https://github.com/RohitVerma882) Starred [termux/android-build-tools](https://github.com/termux/android-build-tools) 
-	Unoffical CMake-based build system for android build tools
-
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
-- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [freemanZYQ/crack_libsgmain](https://github.com/freemanZYQ/crack_libsgmain) 
-	 Reverse libsgmain
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [bytedance/btrace](https://github.com/bytedance/btrace) 
 	🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.
 
@@ -273,6 +271,10 @@
 - 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [BytedanceDouyinContent/SAIL-VL2](https://github.com/BytedanceDouyinContent/SAIL-VL2) 
 	The SAIL-VL2 series model developed by the BytedanceDouyinContent Group
 
+### [codecat](https://github.com/codecat)
+- 🌟 👤 [codecat](https://github.com/codecat) Starred [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) 
+	A list of AI agents and robots to block.
+
 ### [codehz](https://github.com/codehz)
 - 🌟 👤 [codehz](https://github.com/codehz) Starred [kagisearch/ask](https://github.com/kagisearch/ask) 
 	A lightweight bash script for querying AI models via the OpenRouter API, optimized for direct, executable output.
@@ -304,10 +306,6 @@
 ### [darkskygit](https://github.com/darkskygit)
 - 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [muety/wakapi](https://github.com/muety/wakapi) 
 	📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
-
-### [dwisiswant0](https://github.com/dwisiswant0)
-- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [memstechtips/Winhance](https://github.com/memstechtips/Winhance) 
-	Application designed to optimize and customize your Windows experience.
 
 ### [ea](https://github.com/ea)
 - 🚀 👤 [ea](https://github.com/ea) Made [ea/selphy_workshop](https://github.com/ea/selphy_workshop) public  
@@ -624,6 +622,8 @@
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [NioZow/Imperium](https://github.com/NioZow/Imperium) 
 	A C++/Asm template for PIC/EXE/DLL malware
+- 🍴 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Forked [munsingh/InsideWindowsDebugging-TarikSoulami](https://github.com/munsingh/InsideWindowsDebugging-TarikSoulami) to [un4ckn0wl3z/InsideWindowsDebugging-TarikSoulami](https://github.com/un4ckn0wl3z/InsideWindowsDebugging-TarikSoulami)  
+	Sample Source code that came with the Inside Windows Debugging book by Tarik Soulami
 
 ### [vavkamil](https://github.com/vavkamil)
 - 🌟 👤 [vavkamil](https://github.com/vavkamil) Starred [PentHertz/RF-Swift](https://github.com/PentHertz/RF-Swift) 
@@ -704,5 +704,5 @@
 
 
 ---
-*最后更新于 2025-09-20 14:17:03 UTC*
+*最后更新于 2025-09-20 14:38:26 UTC*
 *历史记录保存在 `archive` 目录中。*
