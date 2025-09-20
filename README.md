@@ -36,6 +36,10 @@
 - 🌟 👤 [Dump-GUY](https://github.com/Dump-GUY) Starred [Cjian64/hideDriverSign](https://github.com/Cjian64/hideDriverSign) 
 	self deceiving hidden driver signature
 
+### [FunnyWolf](https://github.com/FunnyWolf)
+- 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [PurCL/ASTRA](https://github.com/PurCL/ASTRA) 
+	🥇 Amazon Nova AI Challenge Winner - ASTRA emerged victorious as the top attacking team in Amazon's global AI safety competition, defeating elite defending teams from universities worldwide in live adversarial evaluation.
+
 ### [HSSkyBoy](https://github.com/HSSkyBoy)
 - 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [yangFenTuoZi/Shizuku](https://github.com/yangFenTuoZi/Shizuku) to [HSSkyBoy/Shizuku](https://github.com/HSSkyBoy/Shizuku)  
 	Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
@@ -110,10 +114,6 @@
 	 Reverse libsgmain
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [bytedance/btrace](https://github.com/bytedance/btrace) 
 	🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.
-
-### [SpriteOvO](https://github.com/SpriteOvO)
-- 🌟 👤 [SpriteOvO](https://github.com/SpriteOvO) Starred [cross-rs/cross](https://github.com/cross-rs/cross) 
-	“Zero setup” cross compilation and “cross testing” of Rust crates
 
 ### [Super12138](https://github.com/Super12138)
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [SaeedDev94/pixel-5g](https://github.com/SaeedDev94/pixel-5g) 
@@ -344,15 +344,17 @@
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [nuta/hypervisor-in-1000-lines](https://github.com/nuta/hypervisor-in-1000-lines) 
 	Writing a hypervisor in 1,000 lines.
 
+### [hahwul](https://github.com/hahwul)
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [rhaiscript/rhai](https://github.com/rhaiscript/rhai) 
+	Rhai - An embedded scripting language for Rust.
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [erebe/wstunnel](https://github.com/erebe/wstunnel) 
+	Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available 
+
 ### [hanbings](https://github.com/hanbings)
 - 🌟 👤 [hanbings](https://github.com/hanbings) Starred [datawhalechina/whale-quant](https://github.com/datawhalechina/whale-quant) 
 	本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用Python进行量化开发的能力。
 - 🌟 👤 [hanbings](https://github.com/hanbings) Starred [RustOtomeLab/RustEng](https://github.com/RustOtomeLab/RustEng) 
 	Rust开发的Galgame引擎，正在绝赞开发中（
-
-### [huoji120](https://github.com/huoji120)
-- 🌟 👤 [huoji120](https://github.com/huoji120) Starred [DarrenLevine/cppcrc](https://github.com/DarrenLevine/cppcrc) 
-	A very small, fast, header-only, C++ library for generating CRCs
 
 ### [ibaoger](https://github.com/ibaoger)
 - 🍴 👤 [ibaoger](https://github.com/ibaoger) Forked [index-tts/index-tts](https://github.com/index-tts/index-tts) to [ibaoger/index-tts](https://github.com/ibaoger/index-tts)  
@@ -377,10 +379,6 @@
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [glidea/one-balance](https://github.com/glidea/one-balance) 
 	Make ai KEY rotation SMARTER and more SECURE
-
-### [jmpews](https://github.com/jmpews)
-- 🌟 👤 [jmpews](https://github.com/jmpews) Starred [sion-codin/iphone-use](https://github.com/sion-codin/iphone-use) 
-	Make you iPhone accessible for AI agents.
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [blacktop/aarch64-cssc](https://github.com/blacktop/aarch64-cssc) 
@@ -573,10 +571,6 @@
 - 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) 
 	The Fully Customizable Desktop Environment for Windows 10/11.
 
-### [skywind3000](https://github.com/skywind3000)
-- 🌟 👤 [skywind3000](https://github.com/skywind3000) Starred [icculus/physfs](https://github.com/icculus/physfs) 
-	A portable, flexible file i/o abstraction.
-
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) 
 	⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
@@ -703,5 +697,5 @@
 
 
 ---
-*最后更新于 2025-09-20 10:39:45 UTC*
+*最后更新于 2025-09-20 10:51:55 UTC*
 *历史记录保存在 `archive` 目录中。*
