@@ -55,6 +55,10 @@
 - 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [yangFenTuoZi/Shizuku](https://github.com/yangFenTuoZi/Shizuku) to [HSSkyBoy/Shizuku](https://github.com/HSSkyBoy/Shizuku)  
 	Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
+### [IlanKalendarov](https://github.com/IlanKalendarov)
+- 🌟 👤 [IlanKalendarov](https://github.com/IlanKalendarov) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) 
+	TradingAgents: Multi-Agents LLM Financial Trading Framework
+
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [whitel1st/docem](https://github.com/whitel1st/docem) 
 	  A tool to embed XXE and XSS payloads in docx, odt, pptx, xlsx files (oxml_xxe on steroids)
@@ -97,6 +101,10 @@
 	LuLu is the free open-source macOS firewall
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [objective-see/BlockBlock](https://github.com/objective-see/BlockBlock) 
 	BlockBlock provides continual protection by monitoring persistence locations.
+
+### [Mivik](https://github.com/Mivik)
+- 🌟 👤 [Mivik](https://github.com/Mivik) Starred [supabase/supabase](https://github.com/supabase/supabase) 
+	The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
@@ -304,6 +312,12 @@
 ### [ea](https://github.com/ea)
 - 🚀 👤 [ea](https://github.com/ea) Made [ea/selphy_workshop](https://github.com/ea/selphy_workshop) public  
 
+### [easychen](https://github.com/easychen)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [saleor/saleor](https://github.com/saleor/saleor) 
+	Saleor Core: the high performance, composable, headless commerce API.
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 
+	AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) 
 	Tongyi Deep Research, the Leading Open-source Deep Research Agent
@@ -462,17 +476,6 @@
 	A lightweight bash script for querying AI models via the OpenRouter API, optimized for direct, executable output.
 - ✨ 👤 [mrexodia](https://github.com/mrexodia) Created new repo [mrexodia/minio-litellm-viewer](https://github.com/mrexodia/minio-litellm-viewer)  
 	[AI] Simple LiteLLM trace viewer
-
-### [mstfknn](https://github.com/mstfknn)
-- 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [mstfknn/android-malware-sample-library](https://github.com/mstfknn/android-malware-sample-library) 
-	Android malware sample library.
-- 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [mstfknn/rat-collection](https://github.com/mstfknn/rat-collection) 
-	Rat Collection
-- 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [mstfknn/malware-sample](https://github.com/mstfknn/malware-sample) 
-- 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [mstfknn/url-shortening-services](https://github.com/mstfknn/url-shortening-services) 
-	A curated list of 4,653 free and paid URL shortening service domains for developers, researchers, and security analysts.
-- 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [mstfknn/disposable-email-list](https://github.com/mstfknn/disposable-email-list) 
-	This repository contains a comprehensive list of 117.981 free and disposable email providers. It's a valuable resource for developers, researchers, and security professionals who need to filter or analyze email data.
 
 ### [namhyung](https://github.com/namhyung)
 - 🌟 👤 [namhyung](https://github.com/namhyung) Starred [FlorentRevest/DejaView](https://github.com/FlorentRevest/DejaView) 
@@ -701,5 +704,5 @@
 
 
 ---
-*最后更新于 2025-09-20 13:51:54 UTC*
+*最后更新于 2025-09-20 14:17:03 UTC*
 *历史记录保存在 `archive` 目录中。*
