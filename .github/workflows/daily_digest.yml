@@ -1,0 +1,46 @@
+name: Daily Digest
+
+on:
+  schedule:
+    # 每 15 分钟运行一次
+    - cron: '*/15 * * * *'
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run digest script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: python daily_digest_high_freq.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md archive/
+          
+          if git diff --staged --quiet; then
+            echo "No new activity to commit."
+          else
+            COMMIT_DATE=$(date -u +'%Y-%m-%d %H:%M')
+            git commit -m "docs(activity): 刷新动态 @ ${COMMIT_DATE} UTC"
+            git push
+          fi
