@@ -102,7 +102,7 @@ def main():
     g = Github(GITHUB_TOKEN)
     
     today_utc = datetime.now(timezone.utc)
-    yesterday_utc = today_utc - timedelta(days=20)
+    yesterday_utc = today_utc - timedelta(days=1)
     
     today_str = today_utc.strftime('%Y-%m-%d')
     yesterday_str = yesterday_utc.strftime('%Y-%m-%d')
