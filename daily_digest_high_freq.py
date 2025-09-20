@@ -56,7 +56,7 @@ def get_all_events_for_today(g, today_date_utc):
     events = user.get_received_events()
     
     todays_events = []
-    print(f"正在获取 {today_date_utc.strftime('%Y-%m-%d')} {len(events)}的全部动态...")
+    print(f"正在获取 {today_date_utc.strftime('%Y-%m-%d')} 的全部动态...")
     
     for event in events:
         # event_date = event.created_at.date()
