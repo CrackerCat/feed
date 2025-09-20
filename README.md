@@ -44,10 +44,6 @@
 - 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [yangFenTuoZi/Shizuku](https://github.com/yangFenTuoZi/Shizuku) to [HSSkyBoy/Shizuku](https://github.com/HSSkyBoy/Shizuku)  
 	Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
-### [Hackerl](https://github.com/Hackerl)
-- 🌟 👤 [Hackerl](https://github.com/Hackerl) Starred [mendsley/bsdiff](https://github.com/mendsley/bsdiff) 
-	bsdiff and bspatch are libraries for building and applying patches to binary files.
-
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [bindhosts/bindhosts](https://github.com/bindhosts/bindhosts) to [JingMatrix/bindhosts](https://github.com/JingMatrix/bindhosts)  
 	Systemless hosts for APatch / KernelSU / Magisk
@@ -178,6 +174,10 @@
 
 ### [astrelsky](https://github.com/astrelsky)
 - 🌟 👤 [astrelsky](https://github.com/astrelsky) Starred [amd/Quark](https://github.com/amd/Quark) 
+
+### [atc1441](https://github.com/atc1441)
+- ✨ 👤 [atc1441](https://github.com/atc1441) Created new repo [atc1441/Vape_DOOM_ScreenShare](https://github.com/atc1441/Vape_DOOM_ScreenShare)  
+	Custom firmware for the PUYA SoC Based Vape Aspire PIXO to be used as a Screen Share DOOM Player
 
 ### [barry-ran](https://github.com/barry-ran)
 - 🌟 👤 [barry-ran](https://github.com/barry-ran) Starred [chenpipi0807/ComfyUI-Index-TTS](https://github.com/chenpipi0807/ComfyUI-Index-TTS) 
@@ -313,10 +313,6 @@
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [Tsaiboss/decodeObfuscator](https://github.com/Tsaiboss/decodeObfuscator) 
 	免安装一键还原Obfuscator混淆过的代码
 
-### [fuhei](https://github.com/fuhei)
-- 🌟 👤 [fuhei](https://github.com/fuhei) Starred [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) 
-	SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
-
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [rayon-rs/rayon](https://github.com/rayon-rs/rayon) 
 	Rayon: A data parallelism library for Rust
@@ -355,6 +351,10 @@
 	plugin that turns markdown into HTML to support rehype
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [remarkjs/remark](https://github.com/remarkjs/remark) to [gmh5225/remark](https://github.com/gmh5225/remark)  
 	markdown processor powered by plugins part of the @unifiedjs collective
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [dis0rder0x00/obex](https://github.com/dis0rder0x00/obex) to [gmh5225/obex](https://github.com/gmh5225/obex)  
+	Obex – Blocking unwanted DLLs in user mode
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [raylib4Consoles/raylib4PlayStation2](https://github.com/raylib4Consoles/raylib4PlayStation2) to [gmh5225/raylib4PlayStation2](https://github.com/gmh5225/raylib4PlayStation2)  
+	Raylib port for PlayStation 2
 
 ### [grant-h](https://github.com/grant-h)
 - 🍴 👤 [grant-h](https://github.com/grant-h) Forked [Frommi/miniz_oxide](https://github.com/Frommi/miniz_oxide) to [grant-h/miniz_oxide](https://github.com/grant-h/miniz_oxide)  
@@ -467,6 +467,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kagisearch/ask](https://github.com/kagisearch/ask) 
 	A lightweight bash script for querying AI models via the OpenRouter API, optimized for direct, executable output.
+- ✨ 👤 [mrexodia](https://github.com/mrexodia) Created new repo [mrexodia/minio-litellm-viewer](https://github.com/mrexodia/minio-litellm-viewer)  
+	[AI] Simple LiteLLM trace viewer
 
 ### [mstfknn](https://github.com/mstfknn)
 - 🚀 👤 [mstfknn](https://github.com/mstfknn) Made [mstfknn/tor-proxy](https://github.com/mstfknn/tor-proxy) public  
@@ -711,5 +713,5 @@
 
 
 ---
-*最后更新于 2025-09-20 09:19:27 UTC*
+*最后更新于 2025-09-20 09:37:48 UTC*
 *历史记录保存在 `archive` 目录中。*
