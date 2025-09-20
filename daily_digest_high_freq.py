@@ -18,18 +18,22 @@ def format_event(event):
     actor_login = event.actor.login
     actor_url = event.actor.html_url
     repo_name = event.repo.name
+    description = event.repo.description
     repo_url = f"https://github.com/{repo_name}"
-    
+    if description:
+        description = f"\n\t{description}"
+    else:
+        description = ""
     line = ""
     if event.type == 'WatchEvent':
-        line = f"- 🌟 👤 [{actor_login}]({actor_url}) Starred [{repo_name}]({repo_url})"
+        line = f"- 🌟 👤 [{actor_login}]({actor_url}) Starred [{repo_name}]({repo_url}) {description}"
     elif event.type == 'ForkEvent':
         forked_to = event.payload['forkee']['full_name']
-        line = f"- 🍴 👤 [{actor_login}]({actor_url}) Forked [{repo_name}]({repo_url}) to [{forked_to}](https://github.com/{forked_to})"
+        line = f"- 🍴 👤 [{actor_login}]({actor_url}) Forked [{repo_name}]({repo_url}) to [{forked_to}](https://github.com/{forked_to})  {description}"
     elif event.type == 'CreateEvent' and event.payload.get('ref_type') == 'repository':
-        line = f"- ✨ 👤 [{actor_login}]({actor_url}) Created new repo [{repo_name}]({repo_url})"
+        line = f"- ✨ 👤 [{actor_login}]({actor_url}) Created new repo [{repo_name}]({repo_url})  {description}"
     elif event.type == 'PublicEvent':
-        line = f"- 🚀 👤 [{actor_login}]({actor_url}) Made [{repo_name}]({repo_url}) public"
+        line = f"- 🚀 👤 [{actor_login}]({actor_url}) Made [{repo_name}]({repo_url}) public  {description}"
     
     return line
 
@@ -98,7 +102,7 @@ def main():
     g = Github(GITHUB_TOKEN)
     
     today_utc = datetime.now(timezone.utc)
-    yesterday_utc = today_utc - timedelta(days=2)
+    yesterday_utc = today_utc - timedelta(days=20)
     
     today_str = today_utc.strftime('%Y-%m-%d')
     yesterday_str = yesterday_utc.strftime('%Y-%m-%d')
