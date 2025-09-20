@@ -29,10 +29,6 @@
 	A Visual Studio Code extension that integrates the ipsw tool for decoding iOS property list (plist) files. This extension is designed for mobile penetration testers, security researchers, and iOS developers who need to quickly analyze and decode plist files.
 
 ### [DeHby](https://github.com/DeHby)
-- 🌟 👤 [DeHby](https://github.com/DeHby) Starred [klezVirus/inceptor](https://github.com/klezVirus/inceptor) 
-	Template-Driven AV/EDR Evasion Framework
-- 🌟 👤 [DeHby](https://github.com/DeHby) Starred [govolution/avet](https://github.com/govolution/avet) 
-	AntiVirus Evasion Tool
 - 🌟 👤 [DeHby](https://github.com/DeHby) Starred [Haunted-Banshee/Shellcode-Hastur](https://github.com/Haunted-Banshee/Shellcode-Hastur) 
 	Shellcode Reductio Entropy Tools
 
@@ -189,6 +185,10 @@
 ### [asLody](https://github.com/asLody)
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [maoabc/nmmp](https://github.com/maoabc/nmmp) 
 	dex-vm used to protect the android classes.dex file
+
+### [ashvardanian](https://github.com/ashvardanian)
+- 🌟 👤 [ashvardanian](https://github.com/ashvardanian) Starred [HJLebbink/RustGPT](https://github.com/HJLebbink/RustGPT) 
+	An transformer based LLM. Written completely in Rust
 
 ### [astrelsky](https://github.com/astrelsky)
 - 🌟 👤 [astrelsky](https://github.com/astrelsky) Starred [amd/Quark](https://github.com/amd/Quark) 
@@ -355,6 +355,8 @@
 	Code and data for AAAI'24 paper "Text2Analysis: A Benchmark of Table Question Answering with Advanced Data Analysis and Unclear Queries".
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [PyroTek3/ADLab](https://github.com/PyroTek3/ADLab) to [gmh5225/ADLab](https://github.com/gmh5225/ADLab)  
 	Location of some Active Directory lab scripts I have created and find useful
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) to [gmh5225/WebGoat](https://github.com/gmh5225/WebGoat)  
+	WebGoat is a deliberately insecure application
 
 ### [grant-h](https://github.com/grant-h)
 - 🍴 👤 [grant-h](https://github.com/grant-h) Forked [Frommi/miniz_oxide](https://github.com/Frommi/miniz_oxide) to [grant-h/miniz_oxide](https://github.com/grant-h/miniz_oxide)  
@@ -695,5 +697,5 @@
 
 
 ---
-*最后更新于 2025-09-20 07:37:50 UTC*
+*最后更新于 2025-09-20 07:51:57 UTC*
 *历史记录保存在 `archive` 目录中。*
