@@ -38,10 +38,6 @@
 - 🌟 👤 [DeHby](https://github.com/DeHby) Starred [microsoft/vscode-cmake-tools](https://github.com/microsoft/vscode-cmake-tools) 
 	CMake Tools provides a robust, convenient workflow for CMake projects in VS Code. It simplifies configurations with CMake presets, supports IntelliSense and built-in debugging for CMake scripts, and offers configurable tasks. Its customizable interface allows for efficient project control, while also simplifying test execution and monitoring.
 
-### [Dump-GUY](https://github.com/Dump-GUY)
-- 🌟 👤 [Dump-GUY](https://github.com/Dump-GUY) Starred [Cjian64/hideDriverSign](https://github.com/Cjian64/hideDriverSign) 
-	self deceiving hidden driver signature
-
 ### [Fanxiaoyao66](https://github.com/Fanxiaoyao66)
 - 🌟 👤 [Fanxiaoyao66](https://github.com/Fanxiaoyao66) Starred [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) 
 	Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
@@ -90,6 +86,12 @@
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) 
 	qBittorrent BitTorrent client
+- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara) 
+	IDA pro plugin to find crypto constants (and more)
+- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [L4ys/LazyIDA](https://github.com/L4ys/LazyIDA) 
+	Make your IDA Lazy!
+- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [keystone-engine/keypatch](https://github.com/keystone-engine/keypatch) 
+	Multi-architecture assembler for IDA Pro. Powered by Keystone Engine.
 
 ### [MartinKayJr](https://github.com/MartinKayJr)
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [Easemob-Community/easemob-uniApp-push-demo](https://github.com/Easemob-Community/easemob-uniApp-push-demo) 
@@ -391,10 +393,6 @@
 - 🍴 👤 [ibaoger](https://github.com/ibaoger) Forked [index-tts/index-tts](https://github.com/index-tts/index-tts) to [ibaoger/index-tts](https://github.com/ibaoger/index-tts)  
 	An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 
-### [itm4n](https://github.com/itm4n)
-- 🌟 👤 [itm4n](https://github.com/itm4n) Starred [CravateRouge/bloodyAD](https://github.com/CravateRouge/bloodyAD) 
-	BloodyAD is an Active Directory Privilege Escalation Framework
-
 ### [ivoszbg](https://github.com/ivoszbg)
 - 🚀 👤 [ivoszbg](https://github.com/ivoszbg) Made [ivoszbg/unitedintime.github.io](https://github.com/ivoszbg/unitedintime.github.io) public  
 	unitedintime.org
@@ -414,6 +412,8 @@
 	This AI pipeline turns images into spoken stories. It uses image captioning to generate text, fine-tunes a language model (with LoRA) to create a story, and converts it to speech. The result is an audio file narrating the generated story, combining computer vision, NLP, and speech synthesis.
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [IjoiK12/modal-deploy-kohya-ss](https://github.com/IjoiK12/modal-deploy-kohya-ss) 
 	This can help to train your LoRAs on Modal
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [ZHO-ZHO-ZHO/Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary) 
+	香蕉超市｜各种玩法一键生成，无需提示词，支持局部涂选、连续编辑
 
 ### [konieshadow](https://github.com/konieshadow)
 - 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend) 
@@ -458,7 +458,6 @@
 	Magic Trackpad 2 Precision Touchpad driver for Windows (USB-only), based on the imbushuo driver, with Control Panel to set haptic feedback and options to improve pointer precision. *** October 2024 Magic Trackpad 2 supported. ***
 
 ### [mq1n](https://github.com/mq1n)
-- 🍴 👤 [mq1n](https://github.com/mq1n) Forked [d1str4ught/m2dev-client-src](https://github.com/d1str4ught/m2dev-client-src) to [mq1n/m2dev-client-src](https://github.com/mq1n/m2dev-client-src)  
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) 
 	Qwen Code is a coding agent that lives in the digital world.
 
@@ -485,8 +484,6 @@
 	A fast and customizable music and podcast downloader. Actively developing and making improvements while the original repo works towards the total refactor (v1.0-dev branch). Taking feature requests.
 
 ### [ni-qiuqiu](https://github.com/ni-qiuqiu)
-- 🌟 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Starred [sonoro1234/LuaJIT-ImGui](https://github.com/sonoro1234/LuaJIT-ImGui) 
-	LuaJIT ffi binding for imgui, backends and extension widgets
 - 🌟 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Starred [Kitsuri-Studios/Lilica](https://github.com/Kitsuri-Studios/Lilica) 
 	A Lightweight C++ application that lets you define interactive graphical user interfaces using Lua scripting through the ImGui framework. It is ideal for tools, prototypes, or any GUI-based workflow where live scripting and flexibility are key.
 
@@ -526,10 +523,6 @@
 	🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) 
 	A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
-
-### [ravindu644](https://github.com/ravindu644)
-- 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [rhythmcache/partition-backup](https://github.com/rhythmcache/partition-backup) 
-	*Magisk Module To Backup or Save Android Device Partition
 
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation) 
@@ -578,8 +571,6 @@
 	Android Lab Fake Location Service
 
 ### [timscriptov](https://github.com/timscriptov)
-- 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [jboss-javassist/javassist](https://github.com/jboss-javassist/javassist) 
-	Java bytecode engineering toolkit
 - 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [crimsonwoods/javassist-android](https://github.com/crimsonwoods/javassist-android) 
 	Javassit for Android
 - 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [RadiantByte/ModdedPE](https://github.com/RadiantByte/ModdedPE) 
@@ -667,10 +658,6 @@
 	自动检测Xiaomi Pad 7 Ultra的PC引擎更新
 - 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [ZyCromerZ/Clang](https://github.com/ZyCromerZ/Clang) 
 
-### [zacbre](https://github.com/zacbre)
-- 🌟 👤 [zacbre](https://github.com/zacbre) Starred [Zephkek/Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive) 
-	A deep dive into the ACPI.sys DPC latency problems on Asus ROG laptops
-
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [PDFMathTranslate/PDFMathTranslate-next](https://github.com/PDFMathTranslate/PDFMathTranslate-next) 
 	PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
@@ -686,5 +673,5 @@
 
 
 ---
-*最后更新于 2025-09-20 15:18:20 UTC*
+*最后更新于 2025-09-20 15:37:47 UTC*
 *历史记录保存在 `archive` 目录中。*
