@@ -36,10 +36,6 @@
 - ✨ 👤 [Dado1513](https://github.com/Dado1513) Created new repo [Dado1513/ipsw-plist-decoder](https://github.com/Dado1513/ipsw-plist-decoder)  
 	A Visual Studio Code extension that integrates the ipsw tool for decoding iOS property list (plist) files. This extension is designed for mobile penetration testers, security researchers, and iOS developers who need to quickly analyze and decode plist files.
 
-### [DeHby](https://github.com/DeHby)
-- 🌟 👤 [DeHby](https://github.com/DeHby) Starred [Haunted-Banshee/Shellcode-Hastur](https://github.com/Haunted-Banshee/Shellcode-Hastur) 
-	Shellcode Reductio Entropy Tools
-
 ### [Dump-GUY](https://github.com/Dump-GUY)
 - 🌟 👤 [Dump-GUY](https://github.com/Dump-GUY) Starred [Cjian64/hideDriverSign](https://github.com/Cjian64/hideDriverSign) 
 	self deceiving hidden driver signature
@@ -75,10 +71,6 @@
 	Access Android/data and all data files of an Android app without any permissions
 - 🍴 👤 [MikaCybertron](https://github.com/MikaCybertron) Forked [AbdurazaaqMohammed/InjectDocumentsProvider](https://github.com/AbdurazaaqMohammed/InjectDocumentsProvider) to [MikaCybertron/InjectDocumentsProvider](https://github.com/MikaCybertron/InjectDocumentsProvider)  
 	Access Android/data and all data files of an Android app without any permissions
-
-### [Mrack](https://github.com/Mrack)
-- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
-	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [bytedance/btrace](https://github.com/bytedance/btrace) 
@@ -357,6 +349,12 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mandiant/vrt-sdk](https://github.com/mandiant/vrt-sdk) to [gmh5225/vrt-sdk](https://github.com/gmh5225/vrt-sdk)  
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) to [gmh5225/react-markdown](https://github.com/gmh5225/react-markdown)  
 	Markdown component for React
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) to [gmh5225/remark-lint](https://github.com/gmh5225/remark-lint)  
+	plugins to check (lint) markdown code style
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [remarkjs/remark-rehype](https://github.com/remarkjs/remark-rehype) to [gmh5225/remark-rehype](https://github.com/gmh5225/remark-rehype)  
+	plugin that turns markdown into HTML to support rehype
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [remarkjs/remark](https://github.com/remarkjs/remark) to [gmh5225/remark](https://github.com/gmh5225/remark)  
+	markdown processor powered by plugins part of the @unifiedjs collective
 
 ### [grant-h](https://github.com/grant-h)
 - 🍴 👤 [grant-h](https://github.com/grant-h) Forked [Frommi/miniz_oxide](https://github.com/Frommi/miniz_oxide) to [grant-h/miniz_oxide](https://github.com/grant-h/miniz_oxide)  
@@ -531,6 +529,10 @@
 - 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [mejaz/spicedb-ui](https://github.com/mejaz/spicedb-ui) 
 	A modern web interface for managing SpiceDB authorization systems. Built with Next.js and Tailwind CSS.
 
+### [pinwhell](https://github.com/pinwhell)
+- ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/vct](https://github.com/pinwhell/vct)  
+	A tiny, single-header C dynamic array (vector) library with customizable allocators.
+
 ### [pwh-pwh](https://github.com/pwh-pwh)
 - 🍴 👤 [pwh-pwh](https://github.com/pwh-pwh) Forked [shyamtawli/devFind](https://github.com/shyamtawli/devFind) to [pwh-pwh/devFind](https://github.com/pwh-pwh/devFind)  
 	devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
@@ -591,10 +593,6 @@
 - 🌟 👤 [skywind3000](https://github.com/skywind3000) Starred [icculus/physfs](https://github.com/icculus/physfs) 
 	A portable, flexible file i/o abstraction.
 
-### [smartdone](https://github.com/smartdone)
-- 🌟 👤 [smartdone](https://github.com/smartdone) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
-	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [namename333/idapromcp_333](https://github.com/namename333/idapromcp_333) 
 	本项目基于 [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) 二次开发增强，保留原核心功能并自行diy扩展了一些功能，更换了中文，
@@ -648,6 +646,12 @@
 - ✨ 👤 [vrtadmin](https://github.com/vrtadmin) Created new repo [Cisco-Talos/DBI](https://github.com/Cisco-Talos/DBI)  
 	DBI with DynamoRIO
 
+### [w00tzenheimer](https://github.com/w00tzenheimer)
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [pollockjj/ComfyUI-MultiGPU](https://github.com/pollockjj/ComfyUI-MultiGPU) 
+	This custom_node for ComfyUI adds one-click "Virtual VRAM" for any UNet and CLIP loader as well MultiGPU integration in WanVideoWrapper, managing the offload/Block Swap of layers to DRAM *or* VRAM to maximize the latent space of your card. Also includes nodes for directly loading entire components (UNet, CLIP, VAE) onto the device you choose
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [robertvoy/ComfyUI-Distributed](https://github.com/robertvoy/ComfyUI-Distributed) 
+	ComfyUI extension that enables multi-GPU processing locally, remotely and in the cloud
+
 ### [wh1te4ever](https://github.com/wh1te4ever)
 - 🍴 👤 [wh1te4ever](https://github.com/wh1te4ever) Forked [0x7ff/dimentio](https://github.com/0x7ff/dimentio) to [wh1te4ever/dimentio](https://github.com/wh1te4ever/dimentio)  
 	Tool for getting and setting nonce without triggering KPP/KTRR/PAC.
@@ -665,12 +669,12 @@
 	哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
 
 ### [wonderkun](https://github.com/wonderkun)
-- 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [itaymigdal/awesome-injection](https://github.com/itaymigdal/awesome-injection) 
-	Centralized resource for listing and organizing known injection techniques and POCs
-- 🍴 👤 [wonderkun](https://github.com/wonderkun) Forked [itaymigdal/awesome-injection](https://github.com/itaymigdal/awesome-injection) to [wonderkun/awesome-injection](https://github.com/wonderkun/awesome-injection)  
-	Centralized resource for listing and organizing known injection techniques and POCs
 - 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator) 
 	Polaris: An LLVM-based obfuscator that protects software at various levels
+
+### [wszqkzqk](https://github.com/wszqkzqk)
+- 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) to [wszqkzqk/OpenSearch](https://github.com/wszqkzqk/OpenSearch)  
+	🔎 Open source distributed and RESTful search engine.
 
 ### [xsser](https://github.com/xsser)
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [safety-research/persona_vectors](https://github.com/safety-research/persona_vectors) 
@@ -707,5 +711,5 @@
 
 
 ---
-*最后更新于 2025-09-20 08:55:01 UTC*
+*最后更新于 2025-09-20 09:19:27 UTC*
 *历史记录保存在 `archive` 目录中。*
