@@ -29,10 +29,6 @@
 	A Visual Studio Code extension that integrates the ipsw tool for decoding iOS property list (plist) files. This extension is designed for mobile penetration testers, security researchers, and iOS developers who need to quickly analyze and decode plist files.
 
 ### [DeHby](https://github.com/DeHby)
-- 🌟 👤 [DeHby](https://github.com/DeHby) Starred [CBLabresearch/Clematis](https://github.com/CBLabresearch/Clematis) 
-	PE to shellcode
-- 🌟 👤 [DeHby](https://github.com/DeHby) Starred [monoxgas/sRDI](https://github.com/monoxgas/sRDI) 
-	Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode
 - 🌟 👤 [DeHby](https://github.com/DeHby) Starred [thomasxm/BOAZ_beta](https://github.com/thomasxm/BOAZ_beta) 
 	Multilayered AV/EDR Evasion Framework
 - 🌟 👤 [DeHby](https://github.com/DeHby) Starred [klezVirus/inceptor](https://github.com/klezVirus/inceptor) 
@@ -85,6 +81,10 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [bytedance/btrace](https://github.com/bytedance/btrace) 
 	🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.
+
+### [MuntashirAkon](https://github.com/MuntashirAkon)
+- ✨ 👤 [MuntashirAkon](https://github.com/MuntashirAkon) Created new repo [MuntashirAkon/AndroidBackupTestApps](https://github.com/MuntashirAkon/AndroidBackupTestApps)  
+	Many tiny apps to test various aspects of Android backup
 
 ### [N3rdL0rd](https://github.com/N3rdL0rd)
 - 🍴 👤 [N3rdL0rd](https://github.com/N3rdL0rd) Forked [MultiPaper/MultiPaper](https://github.com/MultiPaper/MultiPaper) to [N3rdL0rd/MultiPaper](https://github.com/N3rdL0rd/MultiPaper)  
@@ -155,15 +155,16 @@
 - 🚀 👤 [TheKingOfDuck](https://github.com/TheKingOfDuck) Made [TheKingOfDuck/xlogger](https://github.com/TheKingOfDuck/xlogger) public  
 	Log all keyboard and terminal input/output for any app 记录任意程序的键盘输入和终端输入输出
 
+### [TomAPU](https://github.com/TomAPU)
+- 🌟 👤 [TomAPU](https://github.com/TomAPU) Starred [whexy/BandFuzz](https://github.com/whexy/BandFuzz) 
+	BandFuzz is a collaborative fuzzing framework designed to optimize performance. BandFuzz uses reinforcement learning algorithms to schedule fuzzing instances in real-time.
+
 ### [Trijal08](https://github.com/Trijal08)
 - 🍴 👤 [Trijal08](https://github.com/Trijal08) Forked [crdroidandroid/android_kernel_oneplus_sm8350](https://github.com/crdroidandroid/android_kernel_oneplus_sm8350) to [Trijal08/anaconda_kernel_oneplus_sm8350](https://github.com/Trijal08/anaconda_kernel_oneplus_sm8350)  
 - 🍴 👤 [Trijal08](https://github.com/Trijal08) Forked [sreeshankark/android_kernel_oneplus_avicii](https://github.com/sreeshankark/android_kernel_oneplus_avicii) to [Trijal08/anaconda_kernel_oneplus_avicii](https://github.com/Trijal08/anaconda_kernel_oneplus_avicii)  
 	OnePlus Nord (avicii) NeverSettle Kernel Source
 - 🍴 👤 [Trijal08](https://github.com/Trijal08) Forked [sreeshankark/android_device_oneplus_avicii-infinityx](https://github.com/sreeshankark/android_device_oneplus_avicii-infinityx) to [Trijal08/anaconda_device_oneplus_avicii-infinityx](https://github.com/Trijal08/anaconda_device_oneplus_avicii-infinityx)  
 	OnePlus Nord (avicii) Device Tree for Infinity X ROM Build
-
-### [UEFI-code](https://github.com/UEFI-code)
-- ✨ 👤 [UEFI-code](https://github.com/UEFI-code) Created new repo [UEFI-code/linux_drv_demo](https://github.com/UEFI-code/linux_drv_demo)  
 
 ### [Udyz](https://github.com/Udyz)
 - 🌟 👤 [Udyz](https://github.com/Udyz) Starred [munew/hcaptcha-wasm-deobfuscator](https://github.com/munew/hcaptcha-wasm-deobfuscator) 
@@ -184,6 +185,8 @@
 ### [ahkehra](https://github.com/ahkehra)
 - 🍴 👤 [ahkehra](https://github.com/ahkehra) Forked [PixelLineage/kernel_xiaomi_sm8250](https://github.com/PixelLineage/kernel_xiaomi_sm8250) to [ahkehra/kernel_xiaomi_sm8250](https://github.com/ahkehra/kernel_xiaomi_sm8250)  
 	N0Kernel 
+- 🌟 👤 [ahkehra](https://github.com/ahkehra) Starred [solkin/appteka-android](https://github.com/solkin/appteka-android) 
+	💊 Appteka is an alternative store for Android
 
 ### [asLody](https://github.com/asLody)
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [maoabc/nmmp](https://github.com/maoabc/nmmp) 
@@ -449,8 +452,6 @@
 	A GUI application for reading decrypted Nintendo Switch PRODINFO files and extracting console identification information.
 
 ### [mq1n](https://github.com/mq1n)
-- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Forceu/Gokapi](https://github.com/Forceu/Gokapi) 
-	Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - 🍴 👤 [mq1n](https://github.com/mq1n) Forked [d1str4ught/m2dev-client-src](https://github.com/d1str4ught/m2dev-client-src) to [mq1n/m2dev-client-src](https://github.com/mq1n/m2dev-client-src)  
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) 
 	Qwen Code is a coding agent that lives in the digital world.
@@ -509,6 +510,8 @@
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [spastorino/dynosaur](https://github.com/spastorino/dynosaur) 
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [pawurb/hotpath](https://github.com/pawurb/hotpath) 
 	A simple Rust profiler that shows exactly where your code spends time and allocates
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) 
+	Syncthing-Fork - A Syncthing Wrapper for Android.
 
 ### [omeraydindev](https://github.com/omeraydindev)
 - 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [SchoolAI/spicedb-zed-schema-parser](https://github.com/SchoolAI/spicedb-zed-schema-parser) 
@@ -692,5 +695,5 @@
 
 
 ---
-*最后更新于 2025-09-20 06:28:18 UTC*
+*最后更新于 2025-09-20 06:47:16 UTC*
 *历史记录保存在 `archive` 目录中。*
