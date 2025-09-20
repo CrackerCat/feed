@@ -4,10 +4,6 @@
 
 ## 今日动态
 
-### [0xricksanchez](https://github.com/0xricksanchez)
-- 🌟 👤 [0xricksanchez](https://github.com/0xricksanchez) Starred [GitHubSecurityLab/seclab-taskflow-agent](https://github.com/GitHubSecurityLab/seclab-taskflow-agent) 
-	The GitHub Security Lab Taskflow Agent Framework
-
 ### [Ackites](https://github.com/Ackites)
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
 	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
@@ -50,6 +46,9 @@
 
 ### [GaoYuCan](https://github.com/GaoYuCan)
 - 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [metaworm/openwrt-luac-parser](https://github.com/metaworm/openwrt-luac-parser) 
+
+### [GermanAizek](https://github.com/GermanAizek)
+- ✨ 👤 [GermanAizek](https://github.com/GermanAizek) Created new repo [GermanAizek/germanaizek.github.io](https://github.com/GermanAizek/germanaizek.github.io)  
 
 ### [HSSkyBoy](https://github.com/HSSkyBoy)
 - 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [yangFenTuoZi/Shizuku](https://github.com/yangFenTuoZi/Shizuku) to [HSSkyBoy/Shizuku](https://github.com/HSSkyBoy/Shizuku)  
@@ -294,10 +293,6 @@
 ### [colrdavidson](https://github.com/colrdavidson)
 - ✨ 👤 [colrdavidson](https://github.com/colrdavidson) Created new repo [colrdavidson/nosj](https://github.com/colrdavidson/nosj)  
 	Bad streaming JSON parser
-
-### [cssxsh](https://github.com/cssxsh)
-- 🌟 👤 [cssxsh](https://github.com/cssxsh) Starred [popcron/gizmos](https://github.com/popcron/gizmos) 
-	Used for drawing runtime gizmos in builds and editor (Unity3D)
 
 ### [darbra](https://github.com/darbra)
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [Alohahahahaha/mt_ast](https://github.com/Alohahahahaha/mt_ast) 
@@ -695,14 +690,10 @@
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [regexident/cargo-modules](https://github.com/regexident/cargo-modules) 
 	Visualize/analyze a Rust crate's internal structure
 
-### [zinja-coder](https://github.com/zinja-coder)
-- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [7Rocky/HackTheBox-scripts](https://github.com/7Rocky/HackTheBox-scripts) 
-	Useful scripts to exploit Hack The Box retired machines/challenges
-
 ### [zzyGodofWar](https://github.com/zzyGodofWar)
 - 🍴 👤 [zzyGodofWar](https://github.com/zzyGodofWar) Forked [project-bo4/shield-development](https://github.com/project-bo4/shield-development) to [zzyGodofWar/shield-development](https://github.com/zzyGodofWar/shield-development)  
 
 
 ---
-*最后更新于 2025-09-20 14:38:26 UTC*
+*最后更新于 2025-09-20 14:51:58 UTC*
 *历史记录保存在 `archive` 目录中。*
