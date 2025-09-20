@@ -459,6 +459,12 @@
 - 🌟 👤 [moehw](https://github.com/moehw) Starred [sthetix/ProdinfoReader](https://github.com/sthetix/ProdinfoReader) 
 	A GUI application for reading decrypted Nintendo Switch PRODINFO files and extracting console identification information.
 
+### [mos9527](https://github.com/mos9527)
+- 🌟 👤 [mos9527](https://github.com/mos9527) Starred [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) 
+	Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
+- 🌟 👤 [mos9527](https://github.com/mos9527) Starred [vitoplantamura/MagicTrackpad2ForWindows](https://github.com/vitoplantamura/MagicTrackpad2ForWindows) 
+	Magic Trackpad 2 Precision Touchpad driver for Windows (USB-only), based on the imbushuo driver, with Control Panel to set haptic feedback and options to improve pointer precision. *** October 2024 Magic Trackpad 2 supported. ***
+
 ### [mq1n](https://github.com/mq1n)
 - 🍴 👤 [mq1n](https://github.com/mq1n) Forked [d1str4ught/m2dev-client-src](https://github.com/d1str4ught/m2dev-client-src) to [mq1n/m2dev-client-src](https://github.com/mq1n/m2dev-client-src)  
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) 
@@ -535,10 +541,6 @@
 - ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/vct](https://github.com/pinwhell/vct)  
 	A tiny, single-header C dynamic array (vector) library with customizable allocators.
 
-### [pwh-pwh](https://github.com/pwh-pwh)
-- 🍴 👤 [pwh-pwh](https://github.com/pwh-pwh) Forked [shyamtawli/devFind](https://github.com/shyamtawli/devFind) to [pwh-pwh/devFind](https://github.com/pwh-pwh/devFind)  
-	devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
-
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [SoyBeanMilkx/memcrc](https://github.com/SoyBeanMilkx/memcrc) to [rankalpha/memcrc](https://github.com/rankalpha/memcrc)  
 	A apatch kernel module that helps you hide device environment :)
@@ -596,8 +598,6 @@
 	A portable, flexible file i/o abstraction.
 
 ### [suifei](https://github.com/suifei)
-- 🌟 👤 [suifei](https://github.com/suifei) Starred [namename333/idapromcp_333](https://github.com/namename333/idapromcp_333) 
-	本项目基于 [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) 二次开发增强，保留原核心功能并自行diy扩展了一些功能，更换了中文，
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) 
 	⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) 
@@ -713,5 +713,5 @@
 
 
 ---
-*最后更新于 2025-09-20 09:37:48 UTC*
+*最后更新于 2025-09-20 09:51:41 UTC*
 *历史记录保存在 `archive` 目录中。*
