@@ -190,9 +190,6 @@
 - 🌟 👤 [ashvardanian](https://github.com/ashvardanian) Starred [HJLebbink/RustGPT](https://github.com/HJLebbink/RustGPT) 
 	An transformer based LLM. Written completely in Rust
 
-### [astrelsky](https://github.com/astrelsky)
-- 🌟 👤 [astrelsky](https://github.com/astrelsky) Starred [amd/Quark](https://github.com/amd/Quark) 
-
 ### [atc1441](https://github.com/atc1441)
 - ✨ 👤 [atc1441](https://github.com/atc1441) Created new repo [atc1441/Vape_DOOM_ScreenShare](https://github.com/atc1441/Vape_DOOM_ScreenShare)  
 	Custom firmware for the PUYA SoC Based Vape Aspire PIXO to be used as a Screen Share DOOM Player
@@ -301,8 +298,6 @@
 	📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
-- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [phpstan/phpstan](https://github.com/phpstan/phpstan) 
-	PHP Static Analysis Tool - discover bugs in your code without running it!
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [memstechtips/Winhance](https://github.com/memstechtips/Winhance) 
 	Application designed to optimize and customize your Windows experience.
 
@@ -469,9 +464,6 @@
 	[AI] Simple LiteLLM trace viewer
 
 ### [mstfknn](https://github.com/mstfknn)
-- 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [mstfknn/malware-sample-library](https://github.com/mstfknn/malware-sample-library) 
-	Malware sample library.
-- 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [mstfknn/Stealers-Collection](https://github.com/mstfknn/Stealers-Collection) 
 - 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [mstfknn/android-malware-sample-library](https://github.com/mstfknn/android-malware-sample-library) 
 	Android malware sample library.
 - 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [mstfknn/rat-collection](https://github.com/mstfknn/rat-collection) 
@@ -489,6 +481,8 @@
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [dteviot/WebToEpub](https://github.com/dteviot/WebToEpub) 
 	A simple Chrome (and Firefox) Extension that converts Web Novels (and other web pages) into an EPUB.
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) 
+	🖱️ 纯粹的Windows右键菜单管理程序
 
 ### [newbit1](https://github.com/newbit1)
 - 🌟 👤 [newbit1](https://github.com/newbit1) Starred [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) 
@@ -590,6 +584,10 @@
 	An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [bee-san/RustScan](https://github.com/bee-san/RustScan) 
 	🤖 The Modern Port Scanner 🤖
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) 
+	Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) 
+	The Fully Customizable Desktop Environment for Windows 10/11.
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [erebe/wstunnel](https://github.com/erebe/wstunnel) 
@@ -617,6 +615,8 @@
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [cloudflare/agents](https://github.com/cloudflare/agents) 
 	Build and deploy AI Agents on Cloudflare 
+- 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [crazypeace/xray-vless-reality](https://github.com/crazypeace/xray-vless-reality) 
+	Xray, VLESS_Reality模式 极简一键脚本
 
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [NioZow/Imperium](https://github.com/NioZow/Imperium) 
@@ -692,10 +692,6 @@
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [regexident/cargo-modules](https://github.com/regexident/cargo-modules) 
 	Visualize/analyze a Rust crate's internal structure
 
-### [zhangkanqi](https://github.com/zhangkanqi)
-- 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [scabench-org/hound](https://github.com/scabench-org/hound) 
-	Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep, iterative code reasoning.
-
 ### [zinja-coder](https://github.com/zinja-coder)
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [7Rocky/HackTheBox-scripts](https://github.com/7Rocky/HackTheBox-scripts) 
 	Useful scripts to exploit Hack The Box retired machines/challenges
@@ -705,5 +701,5 @@
 
 
 ---
-*最后更新于 2025-09-20 13:30:51 UTC*
+*最后更新于 2025-09-20 13:51:54 UTC*
 *历史记录保存在 `archive` 目录中。*
