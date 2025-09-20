@@ -54,6 +54,10 @@
 - 🌟 👤 [Hackerl](https://github.com/Hackerl) Starred [mendsley/bsdiff](https://github.com/mendsley/bsdiff) 
 	bsdiff and bspatch are libraries for building and applying patches to binary files.
 
+### [JingMatrix](https://github.com/JingMatrix)
+- 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [bindhosts/bindhosts](https://github.com/bindhosts/bindhosts) to [JingMatrix/bindhosts](https://github.com/JingMatrix/bindhosts)  
+	Systemless hosts for APatch / KernelSU / Magisk
+
 ### [Keyird](https://github.com/Keyird)
 - 🌟 👤 [Keyird](https://github.com/Keyird) Starred [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) 
 	Fast and memory-efficient exact attention
@@ -335,8 +339,6 @@
 	Tool to decrypt PVK files
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [lodestone-rock/RamTorch](https://github.com/lodestone-rock/RamTorch) to [gmh5225/RamTorch](https://github.com/gmh5225/RamTorch)  
-	RAM is all you need
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Forceu/Gokapi](https://github.com/Forceu/Gokapi) to [gmh5225/Gokapi](https://github.com/gmh5225/Gokapi)  
 	Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [j3h4ck/WatchDogKiller](https://github.com/j3h4ck/WatchDogKiller) to [gmh5225/WatchDogKiller](https://github.com/gmh5225/WatchDogKiller)  
@@ -531,8 +533,6 @@
 	*Magisk Module To Backup or Save Android Device Partition
 
 ### [riba2534](https://github.com/riba2534)
-- 🌟 👤 [riba2534](https://github.com/riba2534) Starred [github/spec-kit](https://github.com/github/spec-kit) 
-	💫 Toolkit to help you get started with Spec-Driven Development
 - 🌟 👤 [riba2534](https://github.com/riba2534) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
 	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
@@ -692,5 +692,5 @@
 
 
 ---
-*最后更新于 2025-09-20 05:51:55 UTC*
+*最后更新于 2025-09-20 06:28:18 UTC*
 *历史记录保存在 `archive` 目录中。*
