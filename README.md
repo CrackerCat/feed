@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [1q23lyc45](https://github.com/1q23lyc45)
+- 🌟 👤 [1q23lyc45](https://github.com/1q23lyc45) Starred [uazo/cromite](https://github.com/uazo/cromite) 
+	Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
+
 ### [Ackites](https://github.com/Ackites)
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
 	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
@@ -29,6 +33,10 @@
 ### [Dado1513](https://github.com/Dado1513)
 - ✨ 👤 [Dado1513](https://github.com/Dado1513) Created new repo [Dado1513/ipsw-plist-decoder](https://github.com/Dado1513/ipsw-plist-decoder)  
 	A Visual Studio Code extension that integrates the ipsw tool for decoding iOS property list (plist) files. This extension is designed for mobile penetration testers, security researchers, and iOS developers who need to quickly analyze and decode plist files.
+
+### [DeHby](https://github.com/DeHby)
+- 🌟 👤 [DeHby](https://github.com/DeHby) Starred [microsoft/vscode-cmake-tools](https://github.com/microsoft/vscode-cmake-tools) 
+	CMake Tools provides a robust, convenient workflow for CMake projects in VS Code. It simplifies configurations with CMake presets, supports IntelliSense and built-in debugging for CMake scripts, and offers configurable tasks. Its customizable interface allows for efficient project control, while also simplifying test execution and monitoring.
 
 ### [Dump-GUY](https://github.com/Dump-GUY)
 - 🌟 👤 [Dump-GUY](https://github.com/Dump-GUY) Starred [Cjian64/hideDriverSign](https://github.com/Cjian64/hideDriverSign) 
@@ -322,6 +330,8 @@
 ### [feicong](https://github.com/feicong)
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [radareorg/radare2-book](https://github.com/radareorg/radare2-book) to [feicong/radare2-book](https://github.com/feicong/radare2-book)  
 	The Official Radare2 Book
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [ShirkNeko/GKI_KernelSU_SUSFS](https://github.com/ShirkNeko/GKI_KernelSU_SUSFS) to [feicong/GKI_KernelSU_SUSFS](https://github.com/feicong/GKI_KernelSU_SUSFS)  
+	使用 SukiSU 和 SUSFS 的 GKI 内核
 
 ### [gdbinit](https://github.com/gdbinit)
 - ✨ 👤 [gdbinit](https://github.com/gdbinit) Created new repo [gdbinit/metal_bruteforce](https://github.com/gdbinit/metal_bruteforce)  
@@ -394,8 +404,6 @@
 	Tools for reverse engineering and interacting with the PowerG radio protocol
 
 ### [jianglin-code](https://github.com/jianglin-code)
-- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [kaixxx/noScribe](https://github.com/kaixxx/noScribe) 
-	Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) 
 	Tongyi Deep Research, the Leading Open-source Deep Research Agent
 
@@ -407,14 +415,6 @@
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [IjoiK12/modal-deploy-kohya-ss](https://github.com/IjoiK12/modal-deploy-kohya-ss) 
 	This can help to train your LoRAs on Modal
 
-### [jonpalmisc](https://github.com/jonpalmisc)
-- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [usnistgov/macos_security](https://github.com/usnistgov/macos_security) 
-	macOS Security Compliance Project
-
-### [jpacg](https://github.com/jpacg)
-- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [jetkvm/kvm](https://github.com/jetkvm/kvm) 
-	JetKVM - Control any computer remotely
-
 ### [konieshadow](https://github.com/konieshadow)
 - 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend) 
 	An open-source coding helper. Very friendly!
@@ -424,8 +424,6 @@
 	A minimal, accessible and SEO-friendly Astro blog theme
 
 ### [llsc12](https://github.com/llsc12)
-- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [khcrysalis/runtimectl](https://github.com/khcrysalis/runtimectl) 
-	Generate Objective-C headers from dyld_shared_cache images.
 - 🌟 👤 [llsc12](https://github.com/llsc12) Starred [oprypin/nightly.link](https://github.com/oprypin/nightly.link) 
 	Downloads the latest "nightly" build/artifact from a continuous testing workflow
 - 🌟 👤 [llsc12](https://github.com/llsc12) Starred [Stossycord/Stossycord](https://github.com/Stossycord/Stossycord) 
@@ -511,14 +509,6 @@
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) 
 	Syncthing-Fork - A Syncthing Wrapper for Android.
 
-### [omeraydindev](https://github.com/omeraydindev)
-- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [SchoolAI/spicedb-zed-schema-parser](https://github.com/SchoolAI/spicedb-zed-schema-parser) 
-	A parser/analyzer for SpiceDB's .zed schema file format written in Typescript
-- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [authzed/awesome-spicedb](https://github.com/authzed/awesome-spicedb) 
-	An awesome list for the SpiceDB ecosystem 😎
-- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [mejaz/spicedb-ui](https://github.com/mejaz/spicedb-ui) 
-	A modern web interface for managing SpiceDB authorization systems. Built with Next.js and Tailwind CSS.
-
 ### [peiqiF4ck](https://github.com/peiqiF4ck)
 - 🌟 👤 [peiqiF4ck](https://github.com/peiqiF4ck) Starred [alex3O/BYOVD-DriverKiller](https://github.com/alex3O/BYOVD-DriverKiller) 
 	Driver Reverse & Exploitation
@@ -552,8 +542,6 @@
 - ✨ 👤 [rogertan30](https://github.com/rogertan30) Created new repo [rogertan30/rogertan30.github.io](https://github.com/rogertan30/rogertan30.github.io)  
 
 ### [sakana164](https://github.com/sakana164)
-- 🌟 👤 [sakana164](https://github.com/sakana164) Starred [kerneltoast/simple_lmk](https://github.com/kerneltoast/simple_lmk) 
-	A simple low memory killer kernel driver for Android devices. Pick from the branch that corresponds to your kernel version.
 - 🌟 👤 [sakana164](https://github.com/sakana164) Starred [YumeMichi/kernel_xiaomi_pipa](https://github.com/YumeMichi/kernel_xiaomi_pipa) 
 	Xiaomi Pad 6 AOSPA Kernel Tree
 - 🌟 👤 [sakana164](https://github.com/sakana164) Starred [xiaoyaocz/biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) 
@@ -568,10 +556,6 @@
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [SoyBeanMilkx/memcrc](https://github.com/SoyBeanMilkx/memcrc) 
 	A apatch kernel module that helps you hide device environment :)
-
-### [shadow3aaa](https://github.com/shadow3aaa)
-- 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) 
-	The Fully Customizable Desktop Environment for Windows 10/11.
 
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) 
@@ -593,10 +577,6 @@
 - 🌟 👤 [tangwulin](https://github.com/tangwulin) Starred [CrackerCat/Portal](https://github.com/CrackerCat/Portal) 
 	Android Lab Fake Location Service
 
-### [tcc0lin](https://github.com/tcc0lin)
-- ✨ 👤 [tcc0lin](https://github.com/tcc0lin) Created new repo [tcc0lin/RainbowGuard](https://github.com/tcc0lin/RainbowGuard)  
-	so protect plan
-
 ### [timscriptov](https://github.com/timscriptov)
 - 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [jboss-javassist/javassist](https://github.com/jboss-javassist/javassist) 
 	Java bytecode engineering toolkit
@@ -607,6 +587,10 @@
 	 simple java virtual machine
 - 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [aprz512/write-your-own-jvm](https://github.com/aprz512/write-your-own-jvm) 
 	implement a simple jvm with java
+
+### [tothi](https://github.com/tothi)
+- 🌟 👤 [tothi](https://github.com/tothi) Starred [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) 
+	🔹Automatically populate the entities-list of lovelace cards
 
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [cloudflare/agents](https://github.com/cloudflare/agents) 
@@ -667,6 +651,8 @@
 ### [xsser](https://github.com/xsser)
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [safety-research/persona_vectors](https://github.com/safety-research/persona_vectors) 
 	Persona Vectors: Monitoring and Controlling Character Traits in Language Models
+- 🌟 👤 [xsser](https://github.com/xsser) Starred [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) 
+	Tongyi Deep Research, the Leading Open-source Deep Research Agent
 
 ### [yhnu](https://github.com/yhnu)
 - 🌟 👤 [yhnu](https://github.com/yhnu) Starred [Rhydon1337/windows-kernel-dll-injector](https://github.com/Rhydon1337/windows-kernel-dll-injector) 
@@ -675,6 +661,11 @@
 ### [yifengyou](https://github.com/yifengyou)
 - 🌟 👤 [yifengyou](https://github.com/yifengyou) Starred [husseinhareb/hw-monitor](https://github.com/husseinhareb/hw-monitor) 
 	Linux desktop application designed to monitor various aspects of your computer's hardware.
+
+### [ymdzq](https://github.com/ymdzq)
+- 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [Human-Machine-Matrix/PCEngine_Check](https://github.com/Human-Machine-Matrix/PCEngine_Check) 
+	自动检测Xiaomi Pad 7 Ultra的PC引擎更新
+- 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [ZyCromerZ/Clang](https://github.com/ZyCromerZ/Clang) 
 
 ### [zacbre](https://github.com/zacbre)
 - 🌟 👤 [zacbre](https://github.com/zacbre) Starred [Zephkek/Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive) 
@@ -695,5 +686,5 @@
 
 
 ---
-*最后更新于 2025-09-20 14:51:58 UTC*
+*最后更新于 2025-09-20 15:18:20 UTC*
 *历史记录保存在 `archive` 目录中。*
