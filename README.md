@@ -4,10 +4,6 @@
 
 ## 今日动态
 
-### [0xjacklove](https://github.com/0xjacklove)
-- 🌟 👤 [0xjacklove](https://github.com/0xjacklove) Starred [amimo/ollvm-breaker](https://github.com/amimo/ollvm-breaker) 
-	使用Binary Ninja去除ollvm流程平坦混淆
-
 ### [0xricksanchez](https://github.com/0xricksanchez)
 - 🌟 👤 [0xricksanchez](https://github.com/0xricksanchez) Starred [GitHubSecurityLab/seclab-taskflow-agent](https://github.com/GitHubSecurityLab/seclab-taskflow-agent) 
 	The GitHub Security Lab Taskflow Agent Framework
@@ -15,6 +11,16 @@
 ### [Ackites](https://github.com/Ackites)
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
 	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
+### [Al1ex](https://github.com/Al1ex)
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [pcaversaccio/reentrancy-attacks](https://github.com/pcaversaccio/reentrancy-attacks) 
+	A chronological and (hopefully) complete list of reentrancy attacks to date.
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [SunWeb3Sec/DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) 
+	To learn common smart contract vulnerabilities using Foundry!
+
+### [Alex313031](https://github.com/Alex313031)
+- 🍴 👤 [Alex313031](https://github.com/Alex313031) Forked [omeryanar/FileExplorer](https://github.com/omeryanar/FileExplorer) to [Alex313031/FileExplorerEx](https://github.com/Alex313031/FileExplorerEx)  
+	Windows File Explorer alternative with tab browsing
 
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [kaixxx/noScribe](https://github.com/kaixxx/noScribe) 
@@ -46,6 +52,10 @@
 - 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [yangFenTuoZi/Shizuku](https://github.com/yangFenTuoZi/Shizuku) to [HSSkyBoy/Shizuku](https://github.com/HSSkyBoy/Shizuku)  
 	Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 
+### [J0o1ey](https://github.com/J0o1ey)
+- 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [whitel1st/docem](https://github.com/whitel1st/docem) 
+	  A tool to embed XXE and XSS payloads in docx, odt, pptx, xlsx files (oxml_xxe on steroids)
+
 ### [JasonWei512](https://github.com/JasonWei512)
 - 🌟 👤 [JasonWei512](https://github.com/JasonWei512) Starred [mmulet/term.everything](https://github.com/mmulet/term.everything) 
 	Run any GUI app in the terminal❗
@@ -53,6 +63,9 @@
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [bindhosts/bindhosts](https://github.com/bindhosts/bindhosts) to [JingMatrix/bindhosts](https://github.com/JingMatrix/bindhosts)  
 	Systemless hosts for APatch / KernelSU / Magisk
+
+### [Lakr233](https://github.com/Lakr233)
+- 🍴 👤 [Lakr233](https://github.com/Lakr233) Forked [dikeckaan/MacOS-Workflow-VNC](https://github.com/dikeckaan/MacOS-Workflow-VNC) to [Lakr233/MacOS-Workflow-VNC](https://github.com/Lakr233/MacOS-Workflow-VNC)  
 
 ### [LasCC](https://github.com/LasCC)
 - 🌟 👤 [LasCC](https://github.com/LasCC) Starred [0xthirteen/mtprocess](https://github.com/0xthirteen/mtprocess) 
@@ -109,9 +122,6 @@
 ### [PKUFlyingPig](https://github.com/PKUFlyingPig)
 - 🌟 👤 [PKUFlyingPig](https://github.com/PKUFlyingPig) Starred [LLMServe/FastServe](https://github.com/LLMServe/FastServe) 
 
-### [QuasarApp](https://github.com/QuasarApp)
-- 🍴 👤 [QuasarApp](https://github.com/QuasarApp) Forked [rlabrecque/SteamworksSDK](https://github.com/rlabrecque/SteamworksSDK) to [QuasarApp/SteamworksSDK](https://github.com/QuasarApp/SteamworksSDK)  
-
 ### [Raival-e](https://github.com/Raival-e)
 - 🌟 👤 [Raival-e](https://github.com/Raival-e) Starred [public-apis/public-apis](https://github.com/public-apis/public-apis) 
 	A collective list of free APIs
@@ -121,10 +131,6 @@
 ### [RohitVerma882](https://github.com/RohitVerma882)
 - 🌟 👤 [RohitVerma882](https://github.com/RohitVerma882) Starred [termux/android-build-tools](https://github.com/termux/android-build-tools) 
 	Unoffical CMake-based build system for android build tools
-
-### [Sndav](https://github.com/Sndav)
-- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [hatRiot/token-priv](https://github.com/hatRiot/token-priv) 
-	Token Privilege Research
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [freemanZYQ/crack_libsgmain](https://github.com/freemanZYQ/crack_libsgmain) 
@@ -187,8 +193,6 @@
 	Custom firmware for the PUYA SoC Based Vape Aspire PIXO to be used as a Screen Share DOOM Player
 
 ### [bb33bb](https://github.com/bb33bb)
-- 🌟 👤 [bb33bb](https://github.com/bb33bb) Starred [fujiexpo/2GiBootDebugFlash](https://github.com/fujiexpo/2GiBootDebugFlash) 
-	Flash Debug 3.1.2 iBoot on iPhone 2G
 - 🍴 👤 [bb33bb](https://github.com/bb33bb) Forked [fujiexpo/2GiBootDebugFlash](https://github.com/fujiexpo/2GiBootDebugFlash) to [bb33bb/2GiBootDebugFlash](https://github.com/bb33bb/2GiBootDebugFlash)  
 	Flash Debug 3.1.2 iBoot on iPhone 2G
 
@@ -461,8 +465,6 @@
 	[AI] Simple LiteLLM trace viewer
 
 ### [mstfknn](https://github.com/mstfknn)
-- 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [facebookresearch/fastText](https://github.com/facebookresearch/fastText) 
-	Library for fast text representation and classification.
 - 🚀 👤 [mstfknn](https://github.com/mstfknn) Made [mstfknn/phishing-fasttext-model](https://github.com/mstfknn/phishing-fasttext-model) public  
 	A lightweight FastText-based model to classify domain names as phishing or clean.
 - 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [mstfknn/malware-sample-library](https://github.com/mstfknn/malware-sample-library) 
@@ -525,6 +527,10 @@
 - 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [mejaz/spicedb-ui](https://github.com/mejaz/spicedb-ui) 
 	A modern web interface for managing SpiceDB authorization systems. Built with Next.js and Tailwind CSS.
 
+### [peiqiF4ck](https://github.com/peiqiF4ck)
+- 🌟 👤 [peiqiF4ck](https://github.com/peiqiF4ck) Starred [alex3O/BYOVD-DriverKiller](https://github.com/alex3O/BYOVD-DriverKiller) 
+	Driver Reverse & Exploitation
+
 ### [pinwhell](https://github.com/pinwhell)
 - ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/vct](https://github.com/pinwhell/vct)  
 	A tiny, single-header C dynamic array (vector) library with customizable allocators.
@@ -536,6 +542,8 @@
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [bytedance/btrace](https://github.com/bytedance/btrace) to [rankalpha/btrace](https://github.com/rankalpha/btrace)  
 	🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) 
+	A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [rhythmcache/partition-backup](https://github.com/rhythmcache/partition-backup) 
@@ -547,10 +555,6 @@
 
 ### [rogertan30](https://github.com/rogertan30)
 - ✨ 👤 [rogertan30](https://github.com/rogertan30) Created new repo [rogertan30/rogertan30.github.io](https://github.com/rogertan30/rogertan30.github.io)  
-
-### [rootkiter](https://github.com/rootkiter)
-- 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) 
-	🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
 ### [sakana164](https://github.com/sakana164)
 - 🌟 👤 [sakana164](https://github.com/sakana164) Starred [kerneltoast/simple_lmk](https://github.com/kerneltoast/simple_lmk) 
@@ -571,8 +575,6 @@
 	A apatch kernel module that helps you hide device environment :)
 
 ### [shadow3aaa](https://github.com/shadow3aaa)
-- 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) 
-	Safe FFmpeg wrapper.
 - 🍴 👤 [shadow3aaa](https://github.com/shadow3aaa) Forked [oddity-ai/video-rs](https://github.com/oddity-ai/video-rs) to [shadow3aaa/video-rs](https://github.com/shadow3aaa/video-rs)  
 	Video readers, writers, muxers, encoders and decoders for Rust based on ffmpeg libraries. 
 - 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) 
@@ -618,14 +620,14 @@
 	🚀 A powerful multi-platform RF toolbox that deploys specialized radio tools in seconds on Linux, Windows, and macOS—supporting x86_64, ARM64 (Raspberry Pi, Apple Silicon), and RISC-V architectures without disrupting your primary OS. 📡✨
 
 ### [vipstone](https://github.com/vipstone)
-- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) 
-	A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai) 
 	RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) 
 	A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [redis-windows/redis-windows](https://github.com/redis-windows/redis-windows) 
 	Redis 6.0.20 6.2.18 7.0.15  7.2.8  7.4.3  8.0.0 for Windows
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) 
+	Agentic AI Framework for Java Developers
 
 ### [vrtadmin](https://github.com/vrtadmin)
 - ✨ 👤 [vrtadmin](https://github.com/vrtadmin) Created new repo [Cisco-Talos/DBI](https://github.com/Cisco-Talos/DBI)  
@@ -658,6 +660,10 @@
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) to [wszqkzqk/OpenSearch](https://github.com/wszqkzqk/OpenSearch)  
 	🔎 Open source distributed and RESTful search engine.
+
+### [wxhzhwxhzh](https://github.com/wxhzhwxhzh)
+- 🌟 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash) 
+	A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
 ### [xsser](https://github.com/xsser)
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [safety-research/persona_vectors](https://github.com/safety-research/persona_vectors) 
@@ -698,5 +704,5 @@
 
 
 ---
-*最后更新于 2025-09-20 11:51:59 UTC*
+*最后更新于 2025-09-20 12:38:45 UTC*
 *历史记录保存在 `archive` 目录中。*
