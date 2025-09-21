@@ -73,6 +73,8 @@
   > A .NET Runtime for Cobalt Strike's Beacon Object Files
 - 🌟 👤 [HackerYunen](https://github.com/HackerYunen) Starred [med0x2e/SigFlip](https://github.com/med0x2e/SigFlip)
   > SigFlip is a tool for patching authenticode signed PE files (exe, dll, sys ..etc) without invalidati...
+- 🌟 👤 [HackerYunen](https://github.com/HackerYunen) Starred [pwn1sher/frostbyte](https://github.com/pwn1sher/frostbyte)
+  > FrostByte is a POC project that combines different defense evasion techniques to build better redtea...
 
 ### [HdShare](https://github.com/HdShare)
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [kongpf8848/Animation](https://github.com/kongpf8848/Animation)
@@ -99,6 +101,8 @@
 ### [LuigiVampa92](https://github.com/LuigiVampa92)
 - 🌟 👤 [LuigiVampa92](https://github.com/LuigiVampa92) Starred [shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard)
   > proguard resource for Android  by wechat team
+- 🍴 👤 [LuigiVampa92](https://github.com/LuigiVampa92) Forked [yichya/luci-app-xray](https://github.com/yichya/luci-app-xray) to [LuigiVampa92/luci-app-xray](https://github.com/LuigiVampa92/luci-app-xray)
+  > (Almost) full feature Xray client for OpenWrt
 
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [Cleboost/Rustmius](https://github.com/Cleboost/Rustmius)
@@ -157,8 +161,6 @@
   > 一个用于暴力破解猫变换（Arnold's Cat Map）加密图像的命令行工具。
 
 ### [Udyz](https://github.com/Udyz)
-- 🌟 👤 [Udyz](https://github.com/Udyz) Starred [canmi21/cursor](https://github.com/canmi21/cursor)
-  > Reset Cursor AI MachineID & Auto Sign Up  & Bypass Higher Token Limit
 - 🌟 👤 [Udyz](https://github.com/Udyz) Starred [3proxy/3proxy](https://github.com/3proxy/3proxy)
   > 3proxy - tiny free proxy server
 
@@ -221,6 +223,14 @@
 - 🌟 👤 [codehz](https://github.com/codehz) Starred [apache/apisix](https://github.com/apache/apisix)
   > The Cloud-Native API Gateway and AI Gateway
 
+### [cotsom](https://github.com/cotsom)
+- 🌟 👤 [cotsom](https://github.com/cotsom) Starred [sailor-sh/CK-X](https://github.com/sailor-sh/CK-X)
+  > A realistic exam simulator for CKAD, CKA, and CKS featuring timed sessions and hands-on labs with pr...
+
+### [cube0x0](https://github.com/cube0x0)
+- 🌟 👤 [cube0x0](https://github.com/cube0x0) Starred [clearbluejar/ghidriff](https://github.com/clearbluejar/ghidriff)
+  > Python Command-Line Ghidra Binary Diffing Engine
+
 ### [cyberkaida](https://github.com/cyberkaida)
 - ✨ 👤 [cyberkaida](https://github.com/cyberkaida) Created new repo [cyberkaida/Ghidra-Electron-Node](https://github.com/cyberkaida/Ghidra-Electron-Node)
   > An extension for handling embedded Electron and Node ASAR and SEA files
@@ -277,12 +287,6 @@
   > real time face swap and one-click video deepfake with only a single image
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [hunvreus/devpush](https://github.com/hunvreus/devpush) to [gmh5225/devpush](https://github.com/gmh5225/devpush)
-  > Like Vercel, but open source and for all languages.
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) to [gmh5225/MarkFlowy](https://github.com/gmh5225/MarkFlowy)
-  > A markdown editor, which is lighter, smarter and purer. 一个 Markdown 编辑器，但是更轻快、更智能、更纯粹。
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [bingmann/nix-shared](https://github.com/bingmann/nix-shared) to [gmh5225/nix-shared](https://github.com/gmh5225/nix-shared)
-  > Nix Shared
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [rxi/sj.h](https://github.com/rxi/sj.h) to [gmh5225/sj.h](https://github.com/gmh5225/sj.h)
   > A tiny little JSON parsing library
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [edb-rs/edb](https://github.com/edb-rs/edb) to [gmh5225/edb](https://github.com/gmh5225/edb)
@@ -368,6 +372,10 @@
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [deps-rs/deps.rs](https://github.com/deps-rs/deps.rs)
   > Keep your dependencies up-to-date
 
+### [ilian](https://github.com/ilian)
+- 🌟 👤 [ilian](https://github.com/ilian) Starred [yarrick/iodine](https://github.com/yarrick/iodine)
+  > Official git repo for iodine dns tunnel
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [hunvreus/devpush](https://github.com/hunvreus/devpush)
   > Like Vercel, but open source and for all languages.
@@ -447,6 +455,8 @@
 ### [mahmoudimus](https://github.com/mahmoudimus)
 - 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [L-A-Marchetti/Vec](https://github.com/L-A-Marchetti/Vec)
   > 🌀 A minimal C library offering generic, contiguous dynamic arrays with O(1) amortized push.
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
+  > Tongyi Deep Research, the Leading Open-source Deep Research Agent
 
 ### [makelinux](https://github.com/makelinux)
 - ✨ 👤 [makelinux](https://github.com/makelinux) Created new repo [makelinux/speaking-llm](https://github.com/makelinux/speaking-llm)
@@ -503,10 +513,6 @@
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [hiroshil/asmodean-tools](https://github.com/hiroshil/asmodean-tools)
   > These software may not be redistributed, modified or used in other software without the author's per...
 
-### [ndelphit](https://github.com/ndelphit)
-- 🍴 👤 [ndelphit](https://github.com/ndelphit) Forked [github/dev](https://github.com/github/dev) to [ndelphit/dev](https://github.com/ndelphit/dev)
-  > Press the . key on any repo
-
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator)
   > Polaris: An LLVM-based obfuscator that protects software at various levels
@@ -521,6 +527,8 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Halium/halium-devices](https://github.com/Halium/halium-devices)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [kaii-lb/LavenderPhotos](https://github.com/kaii-lb/LavenderPhotos)
   > A sweet looking photo app for android!
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [p2r3/bareiron](https://github.com/p2r3/bareiron)
+  > Minimalist Minecraft server for memory-restrictive embedded systems
 
 ### [oureveryday](https://github.com/oureveryday)
 - 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
@@ -677,10 +685,6 @@
 - 🌟 👤 [vm32](https://github.com/vm32) Starred [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng)
   > PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 
-### [w00tzenheimer](https://github.com/w00tzenheimer)
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [billwuhao/ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step)
-  > ACE-Step: A Step Towards Music Generation Foundation Model
-
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/ida-drop-all-the-files](https://github.com/milankovo/ida-drop-all-the-files)
 
@@ -734,5 +738,5 @@
 
 
 ---
-*最后更新于 2025-09-21 18:46:55 UTC*
+*最后更新于 2025-09-21 19:16:37 UTC*
 *历史记录保存在 `archive` 目录中。*
