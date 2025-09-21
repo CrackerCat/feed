@@ -43,6 +43,10 @@
 - 🍴 👤 [Dump-GUY](https://github.com/Dump-GUY) Forked [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze) to [Dump-GUY/EDR-Freeze](https://github.com/Dump-GUY/EDR-Freeze)
   > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
 
+### [Enaium](https://github.com/Enaium)
+- 🍴 👤 [Enaium](https://github.com/Enaium) Forked [garyttierney/me3](https://github.com/garyttierney/me3) to [Enaium/me3](https://github.com/Enaium/me3)
+  > A framework for modding and instrumenting games.
+
 ### [Ercilan](https://github.com/Ercilan)
 - 🌟 👤 [Ercilan](https://github.com/Ercilan) Starred [tzfun/vue-web-terminal](https://github.com/tzfun/vue-web-terminal)
   > A feature-rich terminal emulator plugin applicable to Vue2 and Vue3.
@@ -122,6 +126,10 @@
 - 🌟 👤 [Tardis07](https://github.com/Tardis07) Starred [Accenture/VulFi](https://github.com/Accenture/VulFi)
   > IDA Pro plugin for query based searching within the binary useful mainly for vulnerability research.
 
+### [Tokeii0](https://github.com/Tokeii0)
+- 🌟 👤 [Tokeii0](https://github.com/Tokeii0) Starred [aristorechina/arnold_decoder](https://github.com/aristorechina/arnold_decoder)
+  > 一个用于暴力破解猫变换（Arnold's Cat Map）加密图像的命令行工具。
+
 ### [Udyz](https://github.com/Udyz)
 - 🌟 👤 [Udyz](https://github.com/Udyz) Starred [canmi21/cursor](https://github.com/canmi21/cursor)
   > Reset Cursor AI MachineID & Auto Sign Up  & Bypass Higher Token Limit
@@ -133,6 +141,10 @@
   > Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bind...
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng) to [Ylarod/hrtng](https://github.com/Ylarod/hrtng)
   > IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognitio...
+
+### [Yricky](https://github.com/Yricky)
+- 🍴 👤 [Yricky](https://github.com/Yricky) Forked [Justype/RPGMakerUtils](https://github.com/Justype/RPGMakerUtils) to [Yricky/RPGMakerUtils](https://github.com/Yricky/RPGMakerUtils)
+  > RPG Maker MV MZ Helper Tools
 
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
@@ -208,6 +220,10 @@
 - ✨ 👤 [fgsqme](https://github.com/fgsqme) Created new repo [fgsqme/ImageLabeler](https://github.com/fgsqme/ImageLabeler)
   > Qt C++ 图片标注工具
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [gamesarchive/CVE-2025-48543](https://github.com/gamesarchive/CVE-2025-48543)
+  > PoC exploit for CVE-2025-48543 in C++
+
 ### [gA4ss](https://github.com/gA4ss)
 - ✨ 👤 [gA4ss](https://github.com/gA4ss) Created new repo [gA4ss/NYPD_Shooting_analysis](https://github.com/gA4ss/NYPD_Shooting_analysis)
   > NYPD Shooting analysis
@@ -246,6 +262,26 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [bminor/binutils-gdb](https://github.com/bminor/binutils-gdb) to [gmh5225/binutils-gdb](https://github.com/gmh5225/binutils-gdb)
   > Unofficial mirror of sourceware binutils-gdb repository. Updated daily.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [microsoft/open-hack-agents-codespace](https://github.com/microsoft/open-hack-agents-codespace) to [gmh5225/open-hack-agents-codespace](https://github.com/gmh5225/open-hack-agents-codespace)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [psinha40898/claimify](https://github.com/psinha40898/claimify) to [gmh5225/claimify](https://github.com/gmh5225/claimify)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Print3M/ByteCaster](https://github.com/Print3M/ByteCaster) to [gmh5225/ByteCaster](https://github.com/gmh5225/ByteCaster)
+  > Swiss Army Knife for payload encryption, obfuscation, and conversion to byte arrays – all in a singl...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sile/yamakan](https://github.com/sile/yamakan) to [gmh5225/yamakan](https://github.com/gmh5225/yamakan)
+  > A collection of Black-Box Optimization algorithms for Rust
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [semgrep/semgrep-vscode](https://github.com/semgrep/semgrep-vscode) to [gmh5225/semgrep-vscode](https://github.com/gmh5225/semgrep-vscode)
+  > Semgrep extension for Visual Studio Code
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze) to [gmh5225/EDR-Freeze](https://github.com/gmh5225/EDR-Freeze)
+  > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [t4sk/bei-stable-coin](https://github.com/t4sk/bei-stable-coin) to [gmh5225/bei-stable-coin](https://github.com/gmh5225/bei-stable-coin)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [t4sk/hello-foundry](https://github.com/t4sk/hello-foundry) to [gmh5225/hello-foundry](https://github.com/gmh5225/hello-foundry)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [t4sk/ethernaut](https://github.com/t4sk/ethernaut) to [gmh5225/ethernaut-](https://github.com/gmh5225/ethernaut-)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [garrettfoster13/ldap_bofs](https://github.com/garrettfoster13/ldap_bofs) to [gmh5225/ldap_bofs](https://github.com/gmh5225/ldap_bofs)
+  > Random BOFs for LDAP tradecraft
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [SySS-Research/diffalayze](https://github.com/SySS-Research/diffalayze) to [gmh5225/diffalayze](https://github.com/gmh5225/diffalayze)
+  > LLM-based automated patch diffing
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ndur0/bofs](https://github.com/ndur0/bofs) to [gmh5225/bofs-](https://github.com/gmh5225/bofs-)
+  > Cobalt Strike BOF projects
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [n3m351d4/PaperSecBot](https://github.com/n3m351d4/PaperSecBot) to [gmh5225/PaperSecBot](https://github.com/gmh5225/PaperSecBot)
+  > Бот, который вам поможет писать отчет по пентостику
 
 ### [gyyyy](https://github.com/gyyyy)
 - 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
@@ -304,6 +340,8 @@
   > 独角数卡(发卡)Docker一键部署，支持AMD64/ARM64
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [yushangxiao/claude2api](https://github.com/yushangxiao/claude2api)
   > 将Claude 的网页服务转为 Api 服务，支持识图，文件上传，思考输出……
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [slopus/happy](https://github.com/slopus/happy)
+  > Mobile and Web client for Claude Code, with realtime voice, encryption and fully featured
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [upstash/context7](https://github.com/upstash/context7)
@@ -331,6 +369,10 @@
 - 🌟 👤 [llsc12](https://github.com/llsc12) Starred [Col-E/Recaf](https://github.com/Col-E/Recaf)
   > The modern Java bytecode editor
 
+### [luckyzyx](https://github.com/luckyzyx)
+- 🌟 👤 [luckyzyx](https://github.com/luckyzyx) Starred [AliDbg/IDM_Trial_Reset_IAS](https://github.com/AliDbg/IDM_Trial_Reset_IAS)
+  > IDM_Trial_Reset_IAS Reg Cleaner
+
 ### [magojohnji](https://github.com/magojohnji)
 - 🍴 👤 [magojohnji](https://github.com/magojohnji) Forked [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) to [magojohnji/CookLikeHOC](https://github.com/magojohnji/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
@@ -343,8 +385,30 @@
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [DenuvoSoftwareSolutions/GAMBA](https://github.com/DenuvoSoftwareSolutions/GAMBA)
   > Simplification of General Mixed Boolean-Arithmetic Expressions: GAMBA
 
+### [meowette](https://github.com/meowette)
+- 🌟 👤 [meowette](https://github.com/meowette) Starred [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
+  > Bevy Code & Blender addon for a simple workflow to add & edit Bevy components in Blender
+- 🌟 👤 [meowette](https://github.com/meowette) Starred [rust-adventure/skein](https://github.com/rust-adventure/skein)
+  > Convert glTF extras to Bevy Components using reflection
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [garrettfoster13/ldap_bofs](https://github.com/garrettfoster13/ldap_bofs)
+  > Random BOFs for LDAP tradecraft
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ndur0/bofs](https://github.com/ndur0/bofs)
+  > Cobalt Strike BOF projects
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [SySS-Research/diffalayze](https://github.com/SySS-Research/diffalayze)
+  > LLM-based automated patch diffing
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ZephrFish/pyLDAPGui](https://github.com/ZephrFish/pyLDAPGui)
+  > Python based GUI for browsing LDAP
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Secrover/Secrover](https://github.com/Secrover/Secrover)
+  > Open-source security reports — no paywalls, just actionable insights.
+
 ### [mr-r3b00t](https://github.com/mr-r3b00t)
 - ✨ 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Created new repo [mr-r3b00t/cyber-top-trumps](https://github.com/mr-r3b00t/cyber-top-trumps)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh)
+  > Unlock the full brightness of the XDR display of your MacBook Pro
 
 ### [mrphrazer](https://github.com/mrphrazer)
 - ✨ 👤 [mrphrazer](https://github.com/mrphrazer) Created new repo [emproof-com/workshop_firmware_reverse_engineering](https://github.com/emproof-com/workshop_firmware_reverse_engineering)
@@ -382,6 +446,10 @@
 ### [oureveryday](https://github.com/oureveryday)
 - 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
   > 微信视频号下载器
+
+### [pengwei1024](https://github.com/pengwei1024)
+- 🌟 👤 [pengwei1024](https://github.com/pengwei1024) Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+  > Display and control your Android device
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [thecybersandeep/apk-components-inspector](https://github.com/thecybersandeep/apk-components-inspector)
@@ -429,6 +497,8 @@
   > A Fast (and safe) parser for the Windows XML Event Log (EVTX) format
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [yo-yo-yo-jbo/dumping_lsass](https://github.com/yo-yo-yo-jbo/dumping_lsass)
   > The different ways to dump lsass
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [stuxnet999/MemLabs](https://github.com/stuxnet999/MemLabs)
+  > Educational, CTF-styled labs for individuals interested in Memory Forensics
 
 ### [riba2534](https://github.com/riba2534)
 - 🌟 👤 [riba2534](https://github.com/riba2534) Starred [9001/copyparty](https://github.com/9001/copyparty)
@@ -457,6 +527,9 @@
 ### [std-microblock](https://github.com/std-microblock)
 - ✨ 👤 [std-microblock](https://github.com/std-microblock) Created new repo [std-microblock/cslab-shelllab](https://github.com/std-microblock/cslab-shelllab)
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [LuemmelSec/Client-Checker](https://github.com/LuemmelSec/Client-Checker)
+
 ### [szcf-weiya](https://github.com/szcf-weiya)
 - 🌟 👤 [szcf-weiya](https://github.com/szcf-weiya) Starred [cjlin1/liblinear](https://github.com/cjlin1/liblinear)
   > LIBLINEAR -- A Library for Large Linear Classification
@@ -482,6 +555,8 @@
   > A cross-platform, safe, pure-Rust graphics API.
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [emilk/loguru](https://github.com/emilk/loguru)
   > A lightweight C++ logging library
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [dtolnay/quote](https://github.com/dtolnay/quote)
+  > Rust quasi-quoting
 
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
@@ -492,6 +567,10 @@
   > Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local aut...
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [microsoft/OmniParser](https://github.com/microsoft/OmniParser)
   > A simple screen parsing tool towards pure vision based GUI agent
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)
+  > Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language com...
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [browser-use/web-ui](https://github.com/browser-use/web-ui)
+  > 🖥️ Run AI Agent in your browser.
 
 ### [vm32](https://github.com/vm32)
 - 🌟 👤 [vm32](https://github.com/vm32) Starred [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng)
@@ -511,6 +590,12 @@
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [golang/go](https://github.com/golang/go) to [wszqkzqk/go](https://github.com/wszqkzqk/go)
   > The Go programming language
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [hasherezade/exe_to_dll](https://github.com/hasherezade/exe_to_dll)
+  > Converts a EXE into DLL
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [hasherezade/tiny_tracer](https://github.com/hasherezade/tiny_tracer)
+  > A Pin Tool for tracing API calls etc
 
 ### [zenghongtu](https://github.com/zenghongtu)
 - 🌟 👤 [zenghongtu](https://github.com/zenghongtu) Starred [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)
@@ -532,5 +617,5 @@
 
 
 ---
-*最后更新于 2025-09-21 13:39:17 UTC*
+*最后更新于 2025-09-21 14:18:08 UTC*
 *历史记录保存在 `archive` 目录中。*
