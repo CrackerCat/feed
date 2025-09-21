@@ -36,6 +36,8 @@
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
   > Decompiler written in Rust
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bminor/binutils-gdb](https://github.com/bminor/binutils-gdb)
+  > Unofficial mirror of sourceware binutils-gdb repository. Updated daily.
 
 ### [RimoChan](https://github.com/RimoChan)
 - ✨ 👤 [RimoChan](https://github.com/RimoChan) Created new repo [RimoChan/rimochan-auto-home](https://github.com/RimoChan/rimochan-auto-home)
@@ -64,6 +66,20 @@
   > Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bind...
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng) to [Ylarod/hrtng](https://github.com/Ylarod/hrtng)
   > IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognitio...
+
+### [b3x206](https://github.com/b3x206)
+- 🌟 👤 [b3x206](https://github.com/b3x206) Starred [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend)
+  > Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV...
+
+### [byt3n33dl3](https://github.com/byt3n33dl3)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [hak5/bashbunny-payloads](https://github.com/hak5/bashbunny-payloads)
+  > The Official Bash Bunny Payload Repository
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [astral-sh/ruff](https://github.com/astral-sh/ruff)
+  > An extremely fast Python linter and code formatter, written in Rust.
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [astral-sh/uv](https://github.com/astral-sh/uv)
+  > An extremely fast Python package and project manager, written in Rust.
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [dkogan/mrcal](https://github.com/dkogan/mrcal)
+  > Next-generation camera-modeling toolkit
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [cloudflare/agents](https://github.com/cloudflare/agents)
@@ -117,6 +133,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [tryandromeda/std](https://github.com/tryandromeda/std) to [gmh5225/std](https://github.com/gmh5225/std)
   > andromeda standard library
 
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [root-project/cling](https://github.com/root-project/cling)
+  > The cling C++ interpreter
+
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
   > A headless, extendable, multi-session, IDA Pro MCP framework.
@@ -142,6 +162,10 @@
 ### [kyle-sylvestre](https://github.com/kyle-sylvestre)
 - 🌟 👤 [kyle-sylvestre](https://github.com/kyle-sylvestre) Starred [DeathEngine2/LookingGlass-DarkEngine](https://github.com/DeathEngine2/LookingGlass-DarkEngine)
   > Misc. source code for Looking Glass Studios games, leaked back in 2010
+
+### [l3m0n](https://github.com/l3m0n)
+- ✨ 👤 [l3m0n](https://github.com/l3m0n) Created new repo [l3m0n/grafana_new_dec](https://github.com/l3m0n/grafana_new_dec)
+  > 对grafana新版本信封加密方式的数据库解密
 
 ### [magojohnji](https://github.com/magojohnji)
 - 🍴 👤 [magojohnji](https://github.com/magojohnji) Forked [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) to [magojohnji/CookLikeHOC](https://github.com/magojohnji/CookLikeHOC)
@@ -180,6 +204,20 @@
 - 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
   > 微信视频号下载器
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [thecybersandeep/apk-components-inspector](https://github.com/thecybersandeep/apk-components-inspector)
+  > A lightweight Python-based tool to extract and enumerate Android components and automatically genera...
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Bin4ry/UniPwn](https://github.com/Bin4ry/UniPwn)
+
+### [qinlili23333](https://github.com/qinlili23333)
+- ✨ 👤 [qinlili23333](https://github.com/qinlili23333) Created new repo [qinlili23333/css2xpath-reloaded-core](https://github.com/qinlili23333/css2xpath-reloaded-core)
+- ✨ 👤 [qinlili23333](https://github.com/qinlili23333) Created new repo [qinlili23333/pdf2epub](https://github.com/qinlili23333/pdf2epub)
+  > The only solution to keep 100% same layout from pdf to epub
+
+### [r00tuser111](https://github.com/r00tuser111)
+- 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [usestrix/strix](https://github.com/usestrix/strix)
+  > ✨ Open-source AI hackers for your apps 👨🏻‍💻 
+
 ### [r0t0tiller](https://github.com/r0t0tiller)
 - 🌟 👤 [r0t0tiller](https://github.com/r0t0tiller) Starred [apple/containerization](https://github.com/apple/containerization)
   > Containerization is a Swift package for running Linux containers on macOS.
@@ -188,6 +226,10 @@
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [oliplusmzr/Sim_Fix_For_G99](https://github.com/oliplusmzr/Sim_Fix_For_G99)
   > Sim_Fix_For_G99
 
+### [rbaron](https://github.com/rbaron)
+- 🌟 👤 [rbaron](https://github.com/rbaron) Starred [tronbyt/tronberry](https://github.com/tronbyt/tronberry)
+  > A daemon to fetch images from Tronbyt and display on a matrix LED display connected to a Raspberry P...
+
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [suzhelan/BiliCompose](https://github.com/suzhelan/BiliCompose)
   > 由ComposeMultiplatform构建的跨平台的BiliBili客户端
@@ -195,6 +237,10 @@
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [omerbenamram/evtx](https://github.com/omerbenamram/evtx)
   > A Fast (and safe) parser for the Windows XML Event Log (EVTX) format
+
+### [riba2534](https://github.com/riba2534)
+- 🌟 👤 [riba2534](https://github.com/riba2534) Starred [9001/copyparty](https://github.com/9001/copyparty)
+  > Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media i...
 
 ### [rogertan30](https://github.com/rogertan30)
 - 🌟 👤 [rogertan30](https://github.com/rogertan30) Starred [sudeepag/SAConfettiView](https://github.com/sudeepag/SAConfettiView)
@@ -215,6 +261,8 @@
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
   > A cross-platform, safe, pure-Rust graphics API.
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [emilk/loguru](https://github.com/emilk/loguru)
+  > A lightweight C++ logging library
 
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
@@ -244,5 +292,5 @@
 
 
 ---
-*最后更新于 2025-09-21 07:38:29 UTC*
+*最后更新于 2025-09-21 08:25:26 UTC*
 *历史记录保存在 `archive` 目录中。*
