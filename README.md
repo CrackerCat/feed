@@ -78,6 +78,10 @@
 - 🌟 👤 [HackerYunen](https://github.com/HackerYunen) Starred [CCob/BOF.NET](https://github.com/CCob/BOF.NET)
   > A .NET Runtime for Cobalt Strike's Beacon Object Files
 
+### [HdShare](https://github.com/HdShare)
+- 🌟 👤 [HdShare](https://github.com/HdShare) Starred [kongpf8848/Animation](https://github.com/kongpf8848/Animation)
+  > Android各种动画效果合集，项目包含了丰富的动画实例(逐帧动画，补间动画，Lottie动画，GIF动画，SVGA动画)，体验动画之美，让Android动起来😊😄😎
+
 ### [Keyird](https://github.com/Keyird)
 - 🌟 👤 [Keyird](https://github.com/Keyird) Starred [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit)
   > Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchma...
@@ -113,6 +117,10 @@
 ### [NeoMaster831](https://github.com/NeoMaster831)
 - 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [H4k1l/RustCrack](https://github.com/H4k1l/RustCrack)
   > RustCrack v1.1.2 can crack the hashes of MD5, SHA-1, SHA-224, SHA-256, SHA-384 and SHA-512 or genera...
+
+### [P001water](https://github.com/P001water)
+- 🌟 👤 [P001water](https://github.com/P001water) Starred [PyQt5/PyQt](https://github.com/PyQt5/PyQt)
+  > PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
@@ -324,6 +332,11 @@
   > A JWT based API for managing users and issuing JWT tokens
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Oliver-1-1/RwxScanner](https://github.com/Oliver-1-1/RwxScanner) to [gmh5225/RwxScanner](https://github.com/gmh5225/RwxScanner)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Oliver-1-1/TOPMOST-Detection](https://github.com/Oliver-1-1/TOPMOST-Detection) to [gmh5225/TOPMOST-Detection](https://github.com/gmh5225/TOPMOST-Detection)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [niklasr22/BrightIntosh](https://github.com/niklasr22/BrightIntosh) to [gmh5225/BrightIntosh](https://github.com/gmh5225/BrightIntosh)
+  > Unlock the full brightness of the XDR display of your MacBook Pro
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [stefansundin/altdrag](https://github.com/stefansundin/altdrag) to [gmh5225/altdrag](https://github.com/gmh5225/altdrag)
+  > :file_folder: Easily drag windows when pressing the alt key. (Windows)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [CyberSecurityUP/RTOps-Management-Platform](https://github.com/CyberSecurityUP/RTOps-Management-Platform) to [gmh5225/RTOps-Management-Platform](https://github.com/gmh5225/RTOps-Management-Platform)
 
 ### [gyyyy](https://github.com/gyyyy)
 - 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
@@ -350,6 +363,8 @@
 ### [iAklis](https://github.com/iAklis)
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [plutov/oq](https://github.com/plutov/oq)
   > Terminal OpenAPI Spec viewer
+- 🌟 👤 [iAklis](https://github.com/iAklis) Starred [usestrix/strix](https://github.com/usestrix/strix)
+  > ✨ Open-source AI hackers for your apps 👨🏻‍💻 
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [hunvreus/devpush](https://github.com/hunvreus/devpush)
@@ -590,6 +605,8 @@
 
 ### [std-microblock](https://github.com/std-microblock)
 - ✨ 👤 [std-microblock](https://github.com/std-microblock) Created new repo [std-microblock/cslab-shelllab](https://github.com/std-microblock/cslab-shelllab)
+- 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [abrahamjuliot/creepjs](https://github.com/abrahamjuliot/creepjs)
+  > Creepy device and browser fingerprinting
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [LuemmelSec/Client-Checker](https://github.com/LuemmelSec/Client-Checker)
@@ -655,6 +672,10 @@
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [golang/go](https://github.com/golang/go) to [wszqkzqk/go](https://github.com/wszqkzqk/go)
   > The Go programming language
 
+### [xsser](https://github.com/xsser)
+- 🌟 👤 [xsser](https://github.com/xsser) Starred [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
+  > Typescript/React Library for AI Chat💬🚀
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [hasherezade/exe_to_dll](https://github.com/hasherezade/exe_to_dll)
   > Converts a EXE into DLL
@@ -689,5 +710,5 @@
 
 
 ---
-*最后更新于 2025-09-21 15:38:37 UTC*
+*最后更新于 2025-09-21 16:25:18 UTC*
 *历史记录保存在 `archive` 目录中。*
