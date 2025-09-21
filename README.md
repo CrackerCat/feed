@@ -13,8 +13,6 @@
   > 在线照片管理和相册应用，瀑布流式相册、Live Photo 支持、智能 EXIF 解析、地理位置识别和探索地图以及在线照片管理
 
 ### [AlexiaChen](https://github.com/AlexiaChen)
-- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [assimon/dujiaoka](https://github.com/assimon/dujiaoka)
-  > 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [dathere/qsv](https://github.com/dathere/qsv)
   > Blazing-fast Data-Wrangling toolkit
 
@@ -63,10 +61,6 @@
 - 🌟 👤 [Ercilan](https://github.com/Ercilan) Starred [tzfun/vue-web-terminal](https://github.com/tzfun/vue-web-terminal)
   > A feature-rich terminal emulator plugin applicable to Vue2 and Vue3.
 
-### [GangJust](https://github.com/GangJust)
-- 🌟 👤 [GangJust](https://github.com/GangJust) Starred [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk)
-  > The customization marketplace for Windows programs: https://windhawk.net/
-
 ### [Gegenbauer](https://github.com/Gegenbauer)
 - 🌟 👤 [Gegenbauer](https://github.com/Gegenbauer) Starred [jerry-jeon/LogJerry](https://github.com/jerry-jeon/LogJerry)
 
@@ -77,6 +71,8 @@
   > Collection of Beacon Object Files (BOF) for Cobalt Strike
 - 🌟 👤 [HackerYunen](https://github.com/HackerYunen) Starred [CCob/BOF.NET](https://github.com/CCob/BOF.NET)
   > A .NET Runtime for Cobalt Strike's Beacon Object Files
+- 🌟 👤 [HackerYunen](https://github.com/HackerYunen) Starred [med0x2e/SigFlip](https://github.com/med0x2e/SigFlip)
+  > SigFlip is a tool for patching authenticode signed PE files (exe, dll, sys ..etc) without invalidati...
 
 ### [HdShare](https://github.com/HdShare)
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [kongpf8848/Animation](https://github.com/kongpf8848/Animation)
@@ -343,6 +339,8 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [stefansundin/altdrag](https://github.com/stefansundin/altdrag) to [gmh5225/altdrag](https://github.com/gmh5225/altdrag)
   > :file_folder: Easily drag windows when pressing the alt key. (Windows)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [CyberSecurityUP/RTOps-Management-Platform](https://github.com/CyberSecurityUP/RTOps-Management-Platform) to [gmh5225/RTOps-Management-Platform](https://github.com/gmh5225/RTOps-Management-Platform)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) to [gmh5225/ImGuizmo](https://github.com/gmh5225/ImGuizmo)
+  > Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
 
 ### [gyyyy](https://github.com/gyyyy)
 - 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
@@ -734,5 +732,5 @@
 
 
 ---
-*最后更新于 2025-09-21 17:38:54 UTC*
+*最后更新于 2025-09-21 18:29:24 UTC*
 *历史记录保存在 `archive` 目录中。*
