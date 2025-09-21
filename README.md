@@ -136,6 +136,8 @@
 ### [kkent030315](https://github.com/kkent030315)
 - 🍴 👤 [kkent030315](https://github.com/kkent030315) Forked [allenbenz/winrt-notification](https://github.com/allenbenz/winrt-notification) to [kkent030315/winrt-notification](https://github.com/kkent030315/winrt-notification)
   > An incomplete wrapper over the WinRT toast api written in rust
+- 🍴 👤 [kkent030315](https://github.com/kkent030315) Forked [sandmor/taskbar_interface](https://github.com/sandmor/taskbar_interface) to [kkent030315/taskbar_interface](https://github.com/kkent030315/taskbar_interface)
+  > A interface for Rust to interact with the taskbar
 
 ### [kyle-sylvestre](https://github.com/kyle-sylvestre)
 - 🌟 👤 [kyle-sylvestre](https://github.com/kyle-sylvestre) Starred [DeathEngine2/LookingGlass-DarkEngine](https://github.com/DeathEngine2/LookingGlass-DarkEngine)
@@ -168,6 +170,11 @@
 ### [ndelphit](https://github.com/ndelphit)
 - 🍴 👤 [ndelphit](https://github.com/ndelphit) Forked [github/dev](https://github.com/github/dev) to [ndelphit/dev](https://github.com/ndelphit/dev)
   > Press the . key on any repo
+
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [libhybris/libhybris](https://github.com/libhybris/libhybris)
+  > Hybris is a solution that commits hybris, by allowing us to use bionic-based HW adaptations in glibc...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Halium/halium-devices](https://github.com/Halium/halium-devices)
 
 ### [oureveryday](https://github.com/oureveryday)
 - 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
@@ -237,5 +244,5 @@
 
 
 ---
-*最后更新于 2025-09-21 07:18:28 UTC*
+*最后更新于 2025-09-21 07:38:29 UTC*
 *历史记录保存在 `archive` 目录中。*
