@@ -29,6 +29,10 @@
 - 🚀 👤 [CircleCashTeam](https://github.com/CircleCashTeam) Made [CircleCashTeam/kernelpatch-on-web](https://github.com/CircleCashTeam/kernelpatch-on-web) public
   > Apatch on website to patch boot image
 
+### [Col-E](https://github.com/Col-E)
+- 🌟 👤 [Col-E](https://github.com/Col-E) Starred [Todense/OmniGraph](https://github.com/Todense/OmniGraph)
+  > Desktop application for creating graphs and algorithm visualisation
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [scotws/crude65816](https://github.com/scotws/crude65816)
   > A crude emulator for the 65816 CPU in Forth
@@ -53,6 +57,8 @@
 ### [HackerYunen](https://github.com/HackerYunen)
 - 🌟 👤 [HackerYunen](https://github.com/HackerYunen) Starred [The-Z-Labs/bof-launcher](https://github.com/The-Z-Labs/bof-launcher)
   > bof-launcher - library for loading, executing and in-memory masking BOFs on Windows (x64, x86) and L...
+- 🌟 👤 [HackerYunen](https://github.com/HackerYunen) Starred [REDMED-X/OperatorsKit](https://github.com/REDMED-X/OperatorsKit)
+  > Collection of Beacon Object Files (BOF) for Cobalt Strike
 
 ### [Keyird](https://github.com/Keyird)
 - 🌟 👤 [Keyird](https://github.com/Keyird) Starred [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit)
@@ -75,6 +81,10 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [lima-vm/lima](https://github.com/lima-vm/lima)
   > Linux virtual machines, with a focus on running containers
+
+### [NeoMaster831](https://github.com/NeoMaster831)
+- 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [H4k1l/RustCrack](https://github.com/H4k1l/RustCrack)
+  > RustCrack v1.1.2 can crack the hashes of MD5, SHA-1, SHA-224, SHA-256, SHA-384 and SHA-512 or genera...
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
@@ -139,6 +149,8 @@
 ### [codehz](https://github.com/codehz)
 - 🌟 👤 [codehz](https://github.com/codehz) Starred [alecthomas/entityx](https://github.com/alecthomas/entityx)
   > EntityX - A fast, type-safe C++ Entity-Component system
+- 🌟 👤 [codehz](https://github.com/codehz) Starred [koreader/android-luajit-launcher](https://github.com/koreader/android-luajit-launcher)
+  > Android NativeActivity based launcher for LuaJIT, implementing the main loop within Lua land via FFI
 
 ### [cyberkaida](https://github.com/cyberkaida)
 - ✨ 👤 [cyberkaida](https://github.com/cyberkaida) Created new repo [cyberkaida/Ghidra-Electron-Node](https://github.com/cyberkaida/Ghidra-Electron-Node)
@@ -164,6 +176,10 @@
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [phuhao00/netcore-go](https://github.com/phuhao00/netcore-go)
   > NetCore-Go 是一个功能丰富、高性能的 Go 语言网络库，提供了完整的网络编程解决方案，包括 TCP/UDP 服务器、WebSocket、HTTP 服务器、RPC、gRPC、KCP 协议支持，...
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [pizlonator/fil-c](https://github.com/pizlonator/fil-c)
+  > Fil-C: completely compatible memory safety for C and C++
 
 ### [feixiao](https://github.com/feixiao)
 - 🌟 👤 [feixiao](https://github.com/feixiao) Starred [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem)
@@ -202,6 +218,15 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [bnb-chain/reth-bsc](https://github.com/bnb-chain/reth-bsc) to [gmh5225/reth-bsc-](https://github.com/gmh5225/reth-bsc-)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [tryandromeda/std](https://github.com/tryandromeda/std) to [gmh5225/std](https://github.com/gmh5225/std)
   > andromeda standard library
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [milankovo/ida-drop-all-the-files](https://github.com/milankovo/ida-drop-all-the-files) to [gmh5225/ida-drop-all-the-files](https://github.com/gmh5225/ida-drop-all-the-files)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [thaliaarchi/bfcoq](https://github.com/thaliaarchi/bfcoq) to [gmh5225/bfcoq](https://github.com/gmh5225/bfcoq)
+  > Brainfuck compiler in Coq
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [thaliaarchi/bfrs](https://github.com/thaliaarchi/bfrs) to [gmh5225/bfrs](https://github.com/gmh5225/bfrs)
+  > An optimizing compiler for Brainfuck.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [oracle/graal](https://github.com/oracle/graal) to [gmh5225/graal](https://github.com/gmh5225/graal)
+  > GraalVM compiles applications into native executables that start instantly, scale fast, and use fewe...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [bminor/binutils-gdb](https://github.com/bminor/binutils-gdb) to [gmh5225/binutils-gdb](https://github.com/gmh5225/binutils-gdb)
+  > Unofficial mirror of sourceware binutils-gdb repository. Updated daily.
 
 ### [gyyyy](https://github.com/gyyyy)
 - 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
@@ -228,6 +253,10 @@
 ### [israel-dryer](https://github.com/israel-dryer)
 - ✨ 👤 [israel-dryer](https://github.com/israel-dryer) Created new repo [israel-dryer/adventures-of-faith](https://github.com/israel-dryer/adventures-of-faith)
   > Adventures of Faith: preserving Duane H. Klepel’s memoirs for family and the world.
+
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
+  > Wan: Open and Advanced Large-Scale Video Generative Models
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [criwits/missing-web](https://github.com/criwits/missing-web)
@@ -271,7 +300,7 @@
 
 ### [makelinux](https://github.com/makelinux)
 - ✨ 👤 [makelinux](https://github.com/makelinux) Created new repo [makelinux/speaking-llm](https://github.com/makelinux/speaking-llm)
-  > Speech recognition and text-to-speech for LLM
+  > Speech recognition and text-to-speech for Llama Stack, for Linux only
 
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [DenuvoSoftwareSolutions/GAMBA](https://github.com/DenuvoSoftwareSolutions/GAMBA)
@@ -303,6 +332,10 @@
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator)
   > Polaris: An LLVM-based obfuscator that protects software at various levels
+
+### [nothing-2333](https://github.com/nothing-2333)
+- 🌟 👤 [nothing-2333](https://github.com/nothing-2333) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
+  > Decompiler written in Rust
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [libhybris/libhybris](https://github.com/libhybris/libhybris)
@@ -393,6 +426,8 @@
   > A local ADB shell for Android!
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg)
   > Allows you to emulate an Android native library, and an experimental  iOS emulation
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [weizhiao/rust-elfloader](https://github.com/weizhiao/rust-elfloader)
+  > A loader capable of loading and relocating various forms of ELF files from memory or files.
 
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro)
@@ -453,5 +488,5 @@
 
 
 ---
-*最后更新于 2025-09-21 11:39:07 UTC*
+*最后更新于 2025-09-21 12:41:23 UTC*
 *历史记录保存在 `archive` 目录中。*
