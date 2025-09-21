@@ -80,6 +80,10 @@
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [aristorechina/arnold_decoder](https://github.com/aristorechina/arnold_decoder)
   > 一个用于暴力破解猫变换（Arnold's Cat Map）加密图像的命令行工具。
 
+### [LimerBoy](https://github.com/LimerBoy)
+- 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [DarkCoderSc/OptixGate](https://github.com/DarkCoderSc/OptixGate)
+  > Open-source multi-purpose remote access tool for Microsoft Windows
+
 ### [LuigiVampa92](https://github.com/LuigiVampa92)
 - 🌟 👤 [LuigiVampa92](https://github.com/LuigiVampa92) Starred [shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard)
   > proguard resource for Android  by wechat team
@@ -125,6 +129,10 @@
 ### [Tardis07](https://github.com/Tardis07)
 - 🌟 👤 [Tardis07](https://github.com/Tardis07) Starred [Accenture/VulFi](https://github.com/Accenture/VulFi)
   > IDA Pro plugin for query based searching within the binary useful mainly for vulnerability research.
+
+### [ThunderCls](https://github.com/ThunderCls)
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [tapframe/NuvioStreaming](https://github.com/tapframe/NuvioStreaming)
+  > A modern streaming app built with React Native and Expo, featuring Stremio addon integration, Trakt ...
 
 ### [Tokeii0](https://github.com/Tokeii0)
 - 🌟 👤 [Tokeii0](https://github.com/Tokeii0) Starred [aristorechina/arnold_decoder](https://github.com/aristorechina/arnold_decoder)
@@ -282,6 +290,8 @@
   > Cobalt Strike BOF projects
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [n3m351d4/PaperSecBot](https://github.com/n3m351d4/PaperSecBot) to [gmh5225/PaperSecBot](https://github.com/gmh5225/PaperSecBot)
   > Бот, который вам поможет писать отчет по пентостику
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [skylert7/Legacy_MapleStory_Helper](https://github.com/skylert7/Legacy_MapleStory_Helper) to [gmh5225/Legacy_MapleStory_Helper](https://github.com/gmh5225/Legacy_MapleStory_Helper)
+  > This is Legacy Maplestory Helper. Use at your own risk of getting banned since this helper has auto-...
 
 ### [gyyyy](https://github.com/gyyyy)
 - 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
@@ -296,6 +306,10 @@
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
   > A headless, extendable, multi-session, IDA Pro MCP framework.
+
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [lifting-bits/remill](https://github.com/lifting-bits/remill) to [hzqst/remill](https://github.com/hzqst/remill)
+  > Library for lifting machine code to LLVM bitcode
 
 ### [i64](https://github.com/i64)
 - 🌟 👤 [i64](https://github.com/i64) Starred [tweag/nickel](https://github.com/tweag/nickel)
@@ -402,6 +416,8 @@
   > Python based GUI for browsing LDAP
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Secrover/Secrover](https://github.com/Secrover/Secrover)
   > Open-source security reports — no paywalls, just actionable insights.
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [praetorian-inc/google-redirector](https://github.com/praetorian-inc/google-redirector)
+  > A lightweight redirector for Google Cloud Run, enabling domain fronting via Google-owned infrastruct...
 
 ### [mr-r3b00t](https://github.com/mr-r3b00t)
 - ✨ 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Created new repo [mr-r3b00t/cyber-top-trumps](https://github.com/mr-r3b00t/cyber-top-trumps)
@@ -597,6 +613,10 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [hasherezade/tiny_tracer](https://github.com/hasherezade/tiny_tracer)
   > A Pin Tool for tracing API calls etc
 
+### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
+- 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed)
+  > LSPosed Framework resuscitated
+
 ### [zenghongtu](https://github.com/zenghongtu)
 - 🌟 👤 [zenghongtu](https://github.com/zenghongtu) Starred [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)
   > A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
@@ -604,6 +624,10 @@
 ### [zhangyoufu](https://github.com/zhangyoufu)
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
+### [zinja-coder](https://github.com/zinja-coder)
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [CyberSecurityUP/n8n-CyberSecurity-Workflows](https://github.com/CyberSecurityUP/n8n-CyberSecurity-Workflows)
+  > Security automation with n8n ideas: 100+ Red/Blue/AppSec workflows, integrations, and ready-to-run p...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub)
@@ -617,5 +641,5 @@
 
 
 ---
-*最后更新于 2025-09-21 14:18:08 UTC*
+*最后更新于 2025-09-21 14:39:10 UTC*
 *历史记录保存在 `archive` 目录中。*
