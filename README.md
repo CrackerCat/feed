@@ -371,6 +371,8 @@
   > Terminal OpenAPI Spec viewer
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > ✨ Open-source AI hackers for your apps 👨🏻‍💻 
+- 🌟 👤 [iAklis](https://github.com/iAklis) Starred [deps-rs/deps.rs](https://github.com/deps-rs/deps.rs)
+  > Keep your dependencies up-to-date
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [hunvreus/devpush](https://github.com/hunvreus/devpush)
@@ -636,6 +638,8 @@
   > Allows you to emulate an Android native library, and an experimental  iOS emulation
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [weizhiao/rust-elfloader](https://github.com/weizhiao/rust-elfloader)
   > A loader capable of loading and relocating various forms of ELF files from memory or files.
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [forhappy/libloader](https://github.com/forhappy/libloader)
+  > load your program before /ld-linux-so.2,only for some hacks
 
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro)
@@ -700,6 +704,10 @@
 - 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed)
   > LSPosed Framework resuscitated
 
+### [yo-yo-yo-jbo](https://github.com/yo-yo-yo-jbo)
+- 🚀 👤 [yo-yo-yo-jbo](https://github.com/yo-yo-yo-jbo) Made [yo-yo-yo-jbo/android_smali](https://github.com/yo-yo-yo-jbo/android_smali) public
+  > Android SMALI patching
+
 ### [zenghongtu](https://github.com/zenghongtu)
 - 🌟 👤 [zenghongtu](https://github.com/zenghongtu) Starred [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)
   > A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
@@ -724,5 +732,5 @@
 
 
 ---
-*最后更新于 2025-09-21 16:42:27 UTC*
+*最后更新于 2025-09-21 17:17:43 UTC*
 *历史记录保存在 `archive` 目录中。*
