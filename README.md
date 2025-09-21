@@ -64,6 +64,11 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - ✨ 👤 [dqzg12300](https://github.com/dqzg12300) Created new repo [dqzg12300/checkdemo](https://github.com/dqzg12300/checkdemo)
 
+### [easychen](https://github.com/easychen)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [Intelligent-Internet/gemini-cli-mcp-openai-bridge](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [sst/models.dev](https://github.com/sst/models.dev)
+  > An open-source database of AI models.
+
 ### [feixiao](https://github.com/feixiao)
 - 🌟 👤 [feixiao](https://github.com/feixiao) Starred [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem)
   > AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
@@ -109,9 +114,17 @@
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [DenuvoSoftwareSolutions/GAMBA](https://github.com/DenuvoSoftwareSolutions/GAMBA)
   > Simplification of General Mixed Boolean-Arithmetic Expressions: GAMBA
 
+### [mrphrazer](https://github.com/mrphrazer)
+- ✨ 👤 [mrphrazer](https://github.com/mrphrazer) Created new repo [emproof-com/workshop_firmware_reverse_engineering](https://github.com/emproof-com/workshop_firmware_reverse_engineering)
+  > Workshop on firmware reverse engineering
+
 ### [ndelphit](https://github.com/ndelphit)
 - 🍴 👤 [ndelphit](https://github.com/ndelphit) Forked [github/dev](https://github.com/github/dev) to [ndelphit/dev](https://github.com/ndelphit/dev)
   > Press the . key on any repo
+
+### [oureveryday](https://github.com/oureveryday)
+- 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
+  > 微信视频号下载器
 
 ### [r0t0tiller](https://github.com/r0t0tiller)
 - 🌟 👤 [r0t0tiller](https://github.com/r0t0tiller) Starred [apple/containerization](https://github.com/apple/containerization)
@@ -161,5 +174,5 @@
 
 
 ---
-*最后更新于 2025-09-21 05:16:55 UTC*
+*最后更新于 2025-09-21 05:40:40 UTC*
 *历史记录保存在 `archive` 目录中。*
