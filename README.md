@@ -18,6 +18,9 @@
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [dathere/qsv](https://github.com/dathere/qsv)
   > Blazing-fast Data-Wrangling toolkit
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- ✨ 👤 [BeneficialCode](https://github.com/BeneficialCode) Created new repo [BeneficialCode/MathematicalStatistics](https://github.com/BeneficialCode/MathematicalStatistics)
+
 ### [CHYbeta](https://github.com/CHYbeta)
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [anchore/syft](https://github.com/anchore/syft)
   > CLI tool and library for generating a Software Bill of Materials from container images and filesyste...
@@ -29,6 +32,12 @@
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [scotws/crude65816](https://github.com/scotws/crude65816)
   > A crude emulator for the 65816 CPU in Forth
+
+### [Dump-GUY](https://github.com/Dump-GUY)
+- 🌟 👤 [Dump-GUY](https://github.com/Dump-GUY) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
+  > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
+- 🍴 👤 [Dump-GUY](https://github.com/Dump-GUY) Forked [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze) to [Dump-GUY/EDR-Freeze](https://github.com/Dump-GUY/EDR-Freeze)
+  > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
 
 ### [Ercilan](https://github.com/Ercilan)
 - 🌟 👤 [Ercilan](https://github.com/Ercilan) Starred [tzfun/vue-web-terminal](https://github.com/tzfun/vue-web-terminal)
@@ -139,6 +148,10 @@
 - ✨ 👤 [dartcv](https://github.com/dartcv) Created new repo [dartcv/vitepress-theme-blurarchive](https://github.com/dartcv/vitepress-theme-blurarchive)
 - 🌟 👤 [dartcv](https://github.com/dartcv) Starred [Alittfre/vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive)
   > Blue Archive主题博客，基于VitePress，绝赞画饼中
+
+### [dlitz](https://github.com/dlitz)
+- 🌟 👤 [dlitz](https://github.com/dlitz) Starred [jeff-dh/SolidPython](https://github.com/jeff-dh/SolidPython)
+  > A python frontend for solid modelling that compiles to OpenSCAD
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - ✨ 👤 [dqzg12300](https://github.com/dqzg12300) Created new repo [dqzg12300/checkdemo](https://github.com/dqzg12300/checkdemo)
@@ -310,10 +323,16 @@
 ### [r00tuser111](https://github.com/r00tuser111)
 - 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > ✨ Open-source AI hackers for your apps 👨🏻‍💻 
+- 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg)
+  > 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 
 ### [r0t0tiller](https://github.com/r0t0tiller)
 - 🌟 👤 [r0t0tiller](https://github.com/r0t0tiller) Starred [apple/containerization](https://github.com/apple/containerization)
   > Containerization is a Swift package for running Linux containers on macOS.
+
+### [rankalpha](https://github.com/rankalpha)
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [Pangu-Immortal/FaceDetection](https://github.com/Pangu-Immortal/FaceDetection) to [rankalpha/FaceDetection](https://github.com/rankalpha/FaceDetection)
+  > 人脸68点检测
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [oliplusmzr/Sim_Fix_For_G99](https://github.com/oliplusmzr/Sim_Fix_For_G99)
@@ -390,6 +409,10 @@
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
   > Lightweight MCP Server for Computer Use in Windows
 
+### [vm32](https://github.com/vm32)
+- 🌟 👤 [vm32](https://github.com/vm32) Starred [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng)
+  > PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [billwuhao/ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step)
   > ACE-Step: A Step Towards Music Generation Foundation Model
@@ -422,5 +445,5 @@
 
 
 ---
-*最后更新于 2025-09-21 10:39:55 UTC*
+*最后更新于 2025-09-21 11:16:22 UTC*
 *历史记录保存在 `archive` 目录中。*
