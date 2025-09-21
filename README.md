@@ -133,8 +133,6 @@
   > PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5
 
 ### [P4nda0s](https://github.com/P4nda0s)
-- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
-  > Decompiler written in Rust
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bminor/binutils-gdb](https://github.com/bminor/binutils-gdb)
   > Unofficial mirror of sourceware binutils-gdb repository. Updated daily.
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [semgrep/semgrep](https://github.com/semgrep/semgrep)
@@ -169,6 +167,10 @@
 ### [Tokeii0](https://github.com/Tokeii0)
 - 🌟 👤 [Tokeii0](https://github.com/Tokeii0) Starred [aristorechina/arnold_decoder](https://github.com/aristorechina/arnold_decoder)
   > 一个用于暴力破解猫变换（Arnold's Cat Map）加密图像的命令行工具。
+
+### [Twometer](https://github.com/Twometer)
+- 🌟 👤 [Twometer](https://github.com/Twometer) Starred [zesterer/chumsky](https://github.com/zesterer/chumsky)
+  > Write expressive, high-performance parsers with ease.
 
 ### [Udyz](https://github.com/Udyz)
 - 🌟 👤 [Udyz](https://github.com/Udyz) Starred [3proxy/3proxy](https://github.com/3proxy/3proxy)
@@ -667,8 +669,6 @@
   > Creating 3D models with AI agents
 
 ### [vipstone](https://github.com/vipstone)
-- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
-  > 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、Mybatis，Ant Design&Vue3、TS+vite！强大代码生成...
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
   > Lightweight MCP Server for Computer Use in Windows
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate)
@@ -713,10 +713,6 @@
 - 🚀 👤 [yo-yo-yo-jbo](https://github.com/yo-yo-yo-jbo) Made [yo-yo-yo-jbo/android_smali](https://github.com/yo-yo-yo-jbo/android_smali) public
   > Android SMALI patching
 
-### [zenghongtu](https://github.com/zenghongtu)
-- 🌟 👤 [zenghongtu](https://github.com/zenghongtu) Starred [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)
-  > A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
-
 ### [zhangyoufu](https://github.com/zhangyoufu)
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
@@ -737,5 +733,5 @@
 
 
 ---
-*最后更新于 2025-09-21 20:39:59 UTC*
+*最后更新于 2025-09-21 21:18:34 UTC*
 *历史记录保存在 `archive` 目录中。*
