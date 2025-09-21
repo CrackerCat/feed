@@ -59,6 +59,8 @@
   > bof-launcher - library for loading, executing and in-memory masking BOFs on Windows (x64, x86) and L...
 - 🌟 👤 [HackerYunen](https://github.com/HackerYunen) Starred [REDMED-X/OperatorsKit](https://github.com/REDMED-X/OperatorsKit)
   > Collection of Beacon Object Files (BOF) for Cobalt Strike
+- 🌟 👤 [HackerYunen](https://github.com/HackerYunen) Starred [CCob/BOF.NET](https://github.com/CCob/BOF.NET)
+  > A .NET Runtime for Cobalt Strike's Beacon Object Files
 
 ### [Keyird](https://github.com/Keyird)
 - 🌟 👤 [Keyird](https://github.com/Keyird) Starred [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit)
@@ -77,6 +79,10 @@
 ### [LuigiVampa92](https://github.com/LuigiVampa92)
 - 🌟 👤 [LuigiVampa92](https://github.com/LuigiVampa92) Starred [shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard)
   > proguard resource for Android  by wechat team
+
+### [M0Rf30](https://github.com/M0Rf30)
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [Cleboost/Rustmius](https://github.com/Cleboost/Rustmius)
+  > Full local Termius alternative for Linux
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [lima-vm/lima](https://github.com/lima-vm/lima)
@@ -112,9 +118,15 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
   > Run iOS apps without actually installing them!
 
+### [Tardis07](https://github.com/Tardis07)
+- 🌟 👤 [Tardis07](https://github.com/Tardis07) Starred [Accenture/VulFi](https://github.com/Accenture/VulFi)
+  > IDA Pro plugin for query based searching within the binary useful mainly for vulnerability research.
+
 ### [Udyz](https://github.com/Udyz)
 - 🌟 👤 [Udyz](https://github.com/Udyz) Starred [canmi21/cursor](https://github.com/canmi21/cursor)
   > Reset Cursor AI MachineID & Auto Sign Up  & Bypass Higher Token Limit
+- 🌟 👤 [Udyz](https://github.com/Udyz) Starred [3proxy/3proxy](https://github.com/3proxy/3proxy)
+  > 3proxy - tiny free proxy server
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [keystone-engine/keystone](https://github.com/keystone-engine/keystone) to [Ylarod/keystone](https://github.com/Ylarod/keystone)
@@ -151,6 +163,10 @@
   > EntityX - A fast, type-safe C++ Entity-Component system
 - 🌟 👤 [codehz](https://github.com/codehz) Starred [koreader/android-luajit-launcher](https://github.com/koreader/android-luajit-launcher)
   > Android NativeActivity based launcher for LuaJIT, implementing the main loop within Lua land via FFI
+- 🌟 👤 [codehz](https://github.com/codehz) Starred [BlackMATov/evolved.lua](https://github.com/BlackMATov/evolved.lua)
+  > Evolved ECS (Entity-Component-System) for Lua
+- 🌟 👤 [codehz](https://github.com/codehz) Starred [apache/apisix](https://github.com/apache/apisix)
+  > The Cloud-Native API Gateway and AI Gateway
 
 ### [cyberkaida](https://github.com/cyberkaida)
 - ✨ 👤 [cyberkaida](https://github.com/cyberkaida) Created new repo [cyberkaida/Ghidra-Electron-Node](https://github.com/cyberkaida/Ghidra-Electron-Node)
@@ -184,6 +200,8 @@
 ### [feixiao](https://github.com/feixiao)
 - 🌟 👤 [feixiao](https://github.com/feixiao) Starred [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem)
   > AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
+- 🌟 👤 [feixiao](https://github.com/feixiao) Starred [Infrasys-AI/AIInfra](https://github.com/Infrasys-AI/AIInfra)
+  > AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。
 
 ### [fgsqme](https://github.com/fgsqme)
 - ✨ 👤 [fgsqme](https://github.com/fgsqme) Created new repo [fgsqme/Label](https://github.com/fgsqme/Label)
@@ -267,6 +285,10 @@
   > Digital Mind Extension
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [andrepimenta/claude-code-chat](https://github.com/andrepimenta/claude-code-chat)
   > Beautiful Claude Code Chat Interface for VS Code
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [TencentCloudADP/youtu-agent](https://github.com/TencentCloudADP/youtu-agent)
+  > A simple yet powerful agent framework that delivers with open-source models
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
+  > Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [upstash/context7](https://github.com/upstash/context7)
@@ -355,6 +377,9 @@
 - ✨ 👤 [qinlili23333](https://github.com/qinlili23333) Created new repo [qinlili23333/css2xpath-reloaded-core](https://github.com/qinlili23333/css2xpath-reloaded-core)
 - ✨ 👤 [qinlili23333](https://github.com/qinlili23333) Created new repo [qinlili23333/pdf2epub](https://github.com/qinlili23333/pdf2epub)
   > The only solution to keep 100% same layout from pdf to epub
+
+### [qwq233](https://github.com/qwq233)
+- ✨ 👤 [qwq233](https://github.com/qwq233) Created new repo [qwq233/course](https://github.com/qwq233/course)
 
 ### [r00tuser111](https://github.com/r00tuser111)
 - 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [usestrix/strix](https://github.com/usestrix/strix)
@@ -488,5 +513,5 @@
 
 
 ---
-*最后更新于 2025-09-21 12:41:23 UTC*
+*最后更新于 2025-09-21 13:24:38 UTC*
 *历史记录保存在 `archive` 目录中。*
