@@ -35,6 +35,10 @@
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme)
   > 🎨 A secure boot compatible in-memory UxTheme patcher
 
+### [Cxk4ng](https://github.com/Cxk4ng)
+- 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [Safe3/uusec-waf](https://github.com/Safe3/uusec-waf)
+  > Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API...
+
 ### [CyberSecurityUP](https://github.com/CyberSecurityUP)
 - ✨ 👤 [CyberSecurityUP](https://github.com/CyberSecurityUP) Created new repo [CyberSecurityUP/RTOps-Management-Platform](https://github.com/CyberSecurityUP/RTOps-Management-Platform)
 
@@ -554,10 +558,6 @@
 - 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg)
   > 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 
-### [r0t0tiller](https://github.com/r0t0tiller)
-- 🌟 👤 [r0t0tiller](https://github.com/r0t0tiller) Starred [apple/containerization](https://github.com/apple/containerization)
-  > Containerization is a Swift package for running Linux containers on macOS.
-
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [Pangu-Immortal/FaceDetection](https://github.com/Pangu-Immortal/FaceDetection) to [rankalpha/FaceDetection](https://github.com/rankalpha/FaceDetection)
   > 人脸68点检测
@@ -603,6 +603,8 @@
 ### [semlinker](https://github.com/semlinker)
 - ✨ 👤 [semlinker](https://github.com/semlinker) Created new repo [semlinker/pixelx](https://github.com/semlinker/pixelx)
   > ai browser extension
+- 🌟 👤 [semlinker](https://github.com/semlinker) Starred [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio)
+  > Native Swift and CoreML SDK for local speaker diarization, VAD, and speech-to-text for real-time wor...
 
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [cockroachdb/errors](https://github.com/cockroachdb/errors)
@@ -651,10 +653,6 @@
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro)
   > Switch and track your input sources with ease ✨
-
-### [twogoat](https://github.com/twogoat)
-- 🌟 👤 [twogoat](https://github.com/twogoat) Starred [TKazer/OS-ImGui](https://github.com/TKazer/OS-ImGui)
-  > A simple imgui library for easy use.
 
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
@@ -733,5 +731,5 @@
 
 
 ---
-*最后更新于 2025-09-21 21:18:34 UTC*
+*最后更新于 2025-09-21 21:38:33 UTC*
 *历史记录保存在 `archive` 目录中。*
