@@ -29,6 +29,10 @@
 ### [Gegenbauer](https://github.com/Gegenbauer)
 - 🌟 👤 [Gegenbauer](https://github.com/Gegenbauer) Starred [jerry-jeon/LogJerry](https://github.com/jerry-jeon/LogJerry)
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [google/security-research](https://github.com/google/security-research)
+  > This project hosts security advisories and their accompanying proof-of-concepts related to research ...
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
   > Decompiler written in Rust
@@ -73,6 +77,8 @@
 
 ### [dartcv](https://github.com/dartcv)
 - ✨ 👤 [dartcv](https://github.com/dartcv) Created new repo [dartcv/vitepress-theme-blurarchive](https://github.com/dartcv/vitepress-theme-blurarchive)
+- 🌟 👤 [dartcv](https://github.com/dartcv) Starred [Alittfre/vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive)
+  > Blue Archive主题博客，基于VitePress，绝赞画饼中
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - ✨ 👤 [dqzg12300](https://github.com/dqzg12300) Created new repo [dqzg12300/checkdemo](https://github.com/dqzg12300/checkdemo)
@@ -126,6 +132,10 @@
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [upstash/context7](https://github.com/upstash/context7)
   > Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+
+### [kkent030315](https://github.com/kkent030315)
+- 🍴 👤 [kkent030315](https://github.com/kkent030315) Forked [allenbenz/winrt-notification](https://github.com/allenbenz/winrt-notification) to [kkent030315/winrt-notification](https://github.com/kkent030315/winrt-notification)
+  > An incomplete wrapper over the WinRT toast api written in rust
 
 ### [kyle-sylvestre](https://github.com/kyle-sylvestre)
 - 🌟 👤 [kyle-sylvestre](https://github.com/kyle-sylvestre) Starred [DeathEngine2/LookingGlass-DarkEngine](https://github.com/DeathEngine2/LookingGlass-DarkEngine)
@@ -227,5 +237,5 @@
 
 
 ---
-*最后更新于 2025-09-21 06:32:08 UTC*
+*最后更新于 2025-09-21 07:18:28 UTC*
 *历史记录保存在 `archive` 目录中。*
