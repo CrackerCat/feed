@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [AabyssZG](https://github.com/AabyssZG)
+- 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [phith0n/collision-webshell](https://github.com/phith0n/collision-webshell)
+  > A webshell and a normal file that have the same MD5
+
 ### [AbhiTheModder](https://github.com/AbhiTheModder)
 - 🌟 👤 [AbhiTheModder](https://github.com/AbhiTheModder) Starred [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe)
   > 在线照片管理和相册应用，瀑布流式相册、Live Photo 支持、智能 EXIF 解析、地理位置识别和探索地图以及在线照片管理
@@ -51,6 +55,12 @@
 - 🌟 👤 [Udyz](https://github.com/Udyz) Starred [canmi21/cursor](https://github.com/canmi21/cursor)
   > Reset Cursor AI MachineID & Auto Sign Up  & Bypass Higher Token Limit
 
+### [Ylarod](https://github.com/Ylarod)
+- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [keystone-engine/keystone](https://github.com/keystone-engine/keystone) to [Ylarod/keystone](https://github.com/Ylarod/keystone)
+  > Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bind...
+- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng) to [Ylarod/hrtng](https://github.com/Ylarod/hrtng)
+  > IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognitio...
+
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [cloudflare/agents](https://github.com/cloudflare/agents)
   > Build and deploy AI Agents on Cloudflare 
@@ -60,6 +70,9 @@
 ### [cyberkaida](https://github.com/cyberkaida)
 - ✨ 👤 [cyberkaida](https://github.com/cyberkaida) Created new repo [cyberkaida/Ghidra-Electron-Node](https://github.com/cyberkaida/Ghidra-Electron-Node)
   > An extension for handling embedded Electron and Node ASAR and SEA files
+
+### [dartcv](https://github.com/dartcv)
+- ✨ 👤 [dartcv](https://github.com/dartcv) Created new repo [dartcv/vitepress-theme-blurarchive](https://github.com/dartcv/vitepress-theme-blurarchive)
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - ✨ 👤 [dqzg12300](https://github.com/dqzg12300) Created new repo [dqzg12300/checkdemo](https://github.com/dqzg12300/checkdemo)
@@ -72,6 +85,10 @@
 ### [feixiao](https://github.com/feixiao)
 - 🌟 👤 [feixiao](https://github.com/feixiao) Starred [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem)
   > AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
+
+### [gagalin95](https://github.com/gagalin95)
+- 🌟 👤 [gagalin95](https://github.com/gagalin95) Starred [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+  > real time face swap and one-click video deepfake with only a single image
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [7etsuo/dragon-fight](https://github.com/7etsuo/dragon-fight) to [gmh5225/dragon-fight](https://github.com/gmh5225/dragon-fight)
@@ -94,9 +111,17 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [tryandromeda/std](https://github.com/tryandromeda/std) to [gmh5225/std](https://github.com/gmh5225/std)
   > andromeda standard library
 
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
+  > A headless, extendable, multi-session, IDA Pro MCP framework.
+
 ### [iAklis](https://github.com/iAklis)
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [plutov/oq](https://github.com/plutov/oq)
   > Terminal OpenAPI Spec viewer
+
+### [israel-dryer](https://github.com/israel-dryer)
+- ✨ 👤 [israel-dryer](https://github.com/israel-dryer) Created new repo [israel-dryer/adventures-of-faith](https://github.com/israel-dryer/adventures-of-faith)
+  > Adventures of Faith: preserving Duane H. Klepel’s memoirs for family and the world.
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [upstash/context7](https://github.com/upstash/context7)
@@ -117,6 +142,18 @@
 ### [mrphrazer](https://github.com/mrphrazer)
 - ✨ 👤 [mrphrazer](https://github.com/mrphrazer) Created new repo [emproof-com/workshop_firmware_reverse_engineering](https://github.com/emproof-com/workshop_firmware_reverse_engineering)
   > Workshop on firmware reverse engineering
+- 🌟 👤 [mrphrazer](https://github.com/mrphrazer) Starred [emproof-com/workshop_firmware_reverse_engineering](https://github.com/emproof-com/workshop_firmware_reverse_engineering)
+  > Workshop on firmware reverse engineering
+- 🍴 👤 [mrphrazer](https://github.com/mrphrazer) Forked [emproof-com/workshop_firmware_reverse_engineering](https://github.com/emproof-com/workshop_firmware_reverse_engineering) to [mrphrazer/workshop_firmware_reverse_engineering](https://github.com/mrphrazer/workshop_firmware_reverse_engineering)
+  > Workshop on firmware reverse engineering
+
+### [mzfr](https://github.com/mzfr)
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [anestisb/vdexExtractor](https://github.com/anestisb/vdexExtractor)
+  > Tool to decompile & extract Android Dex bytecode from Vdex files
+
+### [natsumerinchan](https://github.com/natsumerinchan)
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [hiroshil/asmodean-tools](https://github.com/hiroshil/asmodean-tools)
+  > These software may not be redistributed, modified or used in other software without the author's per...
 
 ### [ndelphit](https://github.com/ndelphit)
 - 🍴 👤 [ndelphit](https://github.com/ndelphit) Forked [github/dev](https://github.com/github/dev) to [ndelphit/dev](https://github.com/ndelphit/dev)
@@ -130,6 +167,10 @@
 - 🌟 👤 [r0t0tiller](https://github.com/r0t0tiller) Starred [apple/containerization](https://github.com/apple/containerization)
   > Containerization is a Swift package for running Linux containers on macOS.
 
+### [ravindu644](https://github.com/ravindu644)
+- 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [oliplusmzr/Sim_Fix_For_G99](https://github.com/oliplusmzr/Sim_Fix_For_G99)
+  > Sim_Fix_For_G99
+
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [suzhelan/BiliCompose](https://github.com/suzhelan/BiliCompose)
   > 由ComposeMultiplatform构建的跨平台的BiliBili客户端
@@ -138,13 +179,25 @@
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [omerbenamram/evtx](https://github.com/omerbenamram/evtx)
   > A Fast (and safe) parser for the Windows XML Event Log (EVTX) format
 
+### [rogertan30](https://github.com/rogertan30)
+- 🌟 👤 [rogertan30](https://github.com/rogertan30) Starred [sudeepag/SAConfettiView](https://github.com/sudeepag/SAConfettiView)
+  > Confetti! Who doesn't like confetti?
+
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [tytydraco/LADB](https://github.com/tytydraco/LADB)
   > A local ADB shell for Android!
 
+### [ttttmr](https://github.com/ttttmr)
+- 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro)
+  > Switch and track your input sources with ease ✨
+
 ### [twogoat](https://github.com/twogoat)
 - 🌟 👤 [twogoat](https://github.com/twogoat) Starred [TKazer/OS-ImGui](https://github.com/TKazer/OS-ImGui)
   > A simple imgui library for easy use.
+
+### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
+  > A cross-platform, safe, pure-Rust graphics API.
 
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
@@ -174,5 +227,5 @@
 
 
 ---
-*最后更新于 2025-09-21 05:40:40 UTC*
+*最后更新于 2025-09-21 06:32:08 UTC*
 *历史记录保存在 `archive` 目录中。*
