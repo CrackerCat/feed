@@ -271,8 +271,6 @@
   > Fil-C: completely compatible memory safety for C and C++
 
 ### [feixiao](https://github.com/feixiao)
-- 🌟 👤 [feixiao](https://github.com/feixiao) Starred [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem)
-  > AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 - 🌟 👤 [feixiao](https://github.com/feixiao) Starred [Infrasys-AI/AIInfra](https://github.com/Infrasys-AI/AIInfra)
   > AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。
 
@@ -283,6 +281,8 @@
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [littlebyteorg/appledb](https://github.com/littlebyteorg/appledb)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [blacktop/ipsw-diffs](https://github.com/blacktop/ipsw-diffs)
+  > IPSW Diffs
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [gamesarchive/CVE-2025-48543](https://github.com/gamesarchive/CVE-2025-48543)
@@ -616,6 +616,9 @@
 - 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [gcanat/video_reader-rs](https://github.com/gcanat/video_reader-rs)
   > A library to fastly decode video with ffmpeg and rust
 
+### [shomykohai](https://github.com/shomykohai)
+- ✨ 👤 [shomykohai](https://github.com/shomykohai) Created new repo [fuckyoumoto/kernel-lamu](https://github.com/fuckyoumoto/kernel-lamu)
+
 ### [sisoma2](https://github.com/sisoma2)
 - 🌟 👤 [sisoma2](https://github.com/sisoma2) Starred [ValkyriSecurity/npm-malware-scanner](https://github.com/ValkyriSecurity/npm-malware-scanner)
   > Scanner for supply chain containing potential malware
@@ -731,5 +734,5 @@
 
 
 ---
-*最后更新于 2025-09-21 21:38:33 UTC*
+*最后更新于 2025-09-21 22:19:48 UTC*
 *历史记录保存在 `archive` 目录中。*
