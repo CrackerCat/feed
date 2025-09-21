@@ -216,6 +216,16 @@
 - ✨ 👤 [israel-dryer](https://github.com/israel-dryer) Created new repo [israel-dryer/adventures-of-faith](https://github.com/israel-dryer/adventures-of-faith)
   > Adventures of Faith: preserving Duane H. Klepel’s memoirs for family and the world.
 
+### [jiji262](https://github.com/jiji262)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [criwits/missing-web](https://github.com/criwits/missing-web)
+  > 你缺失的那门计算机课（网页版）| 一份适合电脑小白入门的电脑使用课程，一份面向今日与未来的信息时代指南
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan)
+  > CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳...
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [pickle-com/glass](https://github.com/pickle-com/glass)
+  > Digital Mind Extension
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [andrepimenta/claude-code-chat](https://github.com/andrepimenta/claude-code-chat)
+  > Beautiful Claude Code Chat Interface for VS Code
+
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [upstash/context7](https://github.com/upstash/context7)
   > Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -245,6 +255,10 @@
 ### [magojohnji](https://github.com/magojohnji)
 - 🍴 👤 [magojohnji](https://github.com/magojohnji) Forked [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) to [magojohnji/CookLikeHOC](https://github.com/magojohnji/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
+### [makelinux](https://github.com/makelinux)
+- ✨ 👤 [makelinux](https://github.com/makelinux) Created new repo [makelinux/speaking-llm](https://github.com/makelinux/speaking-llm)
+  > Speech recognition and text-to-speech for LLM
 
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [DenuvoSoftwareSolutions/GAMBA](https://github.com/DenuvoSoftwareSolutions/GAMBA)
@@ -331,6 +345,10 @@
 - ✨ 👤 [semlinker](https://github.com/semlinker) Created new repo [semlinker/pixelx](https://github.com/semlinker/pixelx)
   > ai browser extension
 
+### [sh1ma](https://github.com/sh1ma)
+- 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [cockroachdb/errors](https://github.com/cockroachdb/errors)
+  > Go error library with error portability over the network
+
 ### [shadow3aaa](https://github.com/shadow3aaa)
 - 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub)
   > RikkaHub is a Android APP that supports for multiple LLM providers.
@@ -338,6 +356,9 @@
 ### [sisoma2](https://github.com/sisoma2)
 - 🌟 👤 [sisoma2](https://github.com/sisoma2) Starred [ValkyriSecurity/npm-malware-scanner](https://github.com/ValkyriSecurity/npm-malware-scanner)
   > Scanner for supply chain containing potential malware
+
+### [std-microblock](https://github.com/std-microblock)
+- ✨ 👤 [std-microblock](https://github.com/std-microblock) Created new repo [std-microblock/cslab-shelllab](https://github.com/std-microblock/cslab-shelllab)
 
 ### [szcf-weiya](https://github.com/szcf-weiya)
 - 🌟 👤 [szcf-weiya](https://github.com/szcf-weiya) Starred [cjlin1/liblinear](https://github.com/cjlin1/liblinear)
@@ -366,6 +387,8 @@
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
   > 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、Mybatis，Ant Design&Vue3、TS+vite！强大代码生成...
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
+  > Lightweight MCP Server for Computer Use in Windows
 
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [billwuhao/ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step)
@@ -399,5 +422,5 @@
 
 
 ---
-*最后更新于 2025-09-21 10:20:47 UTC*
+*最后更新于 2025-09-21 10:39:55 UTC*
 *历史记录保存在 `archive` 目录中。*
