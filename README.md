@@ -12,10 +12,6 @@
 - 🌟 👤 [AbhiTheModder](https://github.com/AbhiTheModder) Starred [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe)
   > 在线照片管理和相册应用，瀑布流式相册、Live Photo 支持、智能 EXIF 解析、地理位置识别和探索地图以及在线照片管理
 
-### [AlexiaChen](https://github.com/AlexiaChen)
-- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [dathere/qsv](https://github.com/dathere/qsv)
-  > Blazing-fast Data-Wrangling toolkit
-
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - ✨ 👤 [BeneficialCode](https://github.com/BeneficialCode) Created new repo [BeneficialCode/MathematicalStatistics](https://github.com/BeneficialCode/MathematicalStatistics)
 
@@ -458,6 +454,8 @@
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [DenuvoSoftwareSolutions/GAMBA](https://github.com/DenuvoSoftwareSolutions/GAMBA)
   > Simplification of General Mixed Boolean-Arithmetic Expressions: GAMBA
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [JustasMasiulis/xorstr](https://github.com/JustasMasiulis/xorstr)
+  > heavily vectorized c++17 compile time string encryption.
 
 ### [meowette](https://github.com/meowette)
 - 🌟 👤 [meowette](https://github.com/meowette) Starred [kaosat-dev/Blenvy](https://github.com/kaosat-dev/Blenvy)
@@ -739,5 +737,5 @@
 
 
 ---
-*最后更新于 2025-09-21 20:23:08 UTC*
+*最后更新于 2025-09-21 20:39:59 UTC*
 *历史记录保存在 `archive` 目录中。*
