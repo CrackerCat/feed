@@ -57,6 +57,10 @@
 - 🌟 👤 [LuigiVampa92](https://github.com/LuigiVampa92) Starred [shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard)
   > proguard resource for Android  by wechat team
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [lima-vm/lima](https://github.com/lima-vm/lima)
+  > Linux virtual machines, with a focus on running containers
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
   > Decompiler written in Rust
@@ -379,5 +383,5 @@
 
 
 ---
-*最后更新于 2025-09-21 09:20:01 UTC*
+*最后更新于 2025-09-21 09:38:25 UTC*
 *历史记录保存在 `archive` 目录中。*
