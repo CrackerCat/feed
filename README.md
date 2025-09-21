@@ -277,12 +277,6 @@
   > real time face swap and one-click video deepfake with only a single image
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [7etsuo/dragon-fight](https://github.com/7etsuo/dragon-fight) to [gmh5225/dragon-fight](https://github.com/gmh5225/dragon-fight)
-  > A side-scrolling beat 'em up game inspired by classic titles like Double Dragon. Players control one...
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nullenc0de/Sir-Reginald-Buys-The-Dips](https://github.com/nullenc0de/Sir-Reginald-Buys-The-Dips) to [gmh5225/Sir-Reginald-Buys-The-Dips](https://github.com/gmh5225/Sir-Reginald-Buys-The-Dips)
-  > A frightfully intelligent algorithmic trading automaton of noble birth. Sir Reginald's prime directi...
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [project-sekai-ctf/konata](https://github.com/project-sekai-ctf/konata) to [gmh5225/konata](https://github.com/gmh5225/konata)
-  > a CTF tool for managing challenges and deploying them across multiple CTF platforms
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [hunvreus/devpush](https://github.com/hunvreus/devpush) to [gmh5225/devpush](https://github.com/gmh5225/devpush)
   > Like Vercel, but open source and for all languages.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) to [gmh5225/MarkFlowy](https://github.com/gmh5225/MarkFlowy)
@@ -577,6 +571,10 @@
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [suzhelan/BiliCompose](https://github.com/suzhelan/BiliCompose)
   > 由ComposeMultiplatform构建的跨平台的BiliBili客户端
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [leaningtech/webvm](https://github.com/leaningtech/webvm)
+  > Virtual Machine for the Web
+
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [omerbenamram/evtx](https://github.com/omerbenamram/evtx)
   > A Fast (and safe) parser for the Windows XML Event Log (EVTX) format
@@ -657,6 +655,10 @@
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [dtolnay/quote](https://github.com/dtolnay/quote)
   > Rust quasi-quoting
 
+### [unixpickle](https://github.com/unixpickle)
+- ✨ 👤 [unixpickle](https://github.com/unixpickle) Created new repo [unixpickle/model3d-agent](https://github.com/unixpickle/model3d-agent)
+  > Creating 3D models with AI agents
+
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
   > 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、Mybatis，Ant Design&Vue3、TS+vite！强大代码生成...
@@ -732,5 +734,5 @@
 
 
 ---
-*最后更新于 2025-09-21 18:29:24 UTC*
+*最后更新于 2025-09-21 18:46:55 UTC*
 *历史记录保存在 `archive` 目录中。*
