@@ -76,6 +76,10 @@
 - 🌟 👤 [HackerYunen](https://github.com/HackerYunen) Starred [pwn1sher/frostbyte](https://github.com/pwn1sher/frostbyte)
   > FrostByte is a POC project that combines different defense evasion techniques to build better redtea...
 
+### [Hamz-a](https://github.com/Hamz-a)
+- 🌟 👤 [Hamz-a](https://github.com/Hamz-a) Starred [tijme/dittobytes](https://github.com/tijme/dittobytes)
+  > Metamorphic cross-compilation of C++ & C-code to PIC, BOF & EXE. 
+
 ### [HdShare](https://github.com/HdShare)
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [kongpf8848/Animation](https://github.com/kongpf8848/Animation)
   > Android各种动画效果合集，项目包含了丰富的动画实例(逐帧动画，补间动画，Lottie动画，GIF动画，SVGA动画)，体验动画之美，让Android动起来😊😄😎
@@ -88,6 +92,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [google/security-research](https://github.com/google/security-research)
   > This project hosts security advisories and their accompanying proof-of-concepts related to research ...
 
+### [LabGuy94](https://github.com/LabGuy94)
+- 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [mrdoob/three.js](https://github.com/mrdoob/three.js)
+  > JavaScript 3D Library.
+
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [mahaloz/decompilation-wiki](https://github.com/mahaloz/decompilation-wiki)
   > The Decompilation Wiki: info on all things decompilation
@@ -97,6 +105,8 @@
 ### [LimerBoy](https://github.com/LimerBoy)
 - 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [DarkCoderSc/OptixGate](https://github.com/DarkCoderSc/OptixGate)
   > Open-source multi-purpose remote access tool for Microsoft Windows
+- 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [BoboTiG/python-mss](https://github.com/BoboTiG/python-mss)
+  > An ultra fast cross-platform multiple screenshots module in pure Python using ctypes.
 
 ### [LuigiVampa92](https://github.com/LuigiVampa92)
 - 🌟 👤 [LuigiVampa92](https://github.com/LuigiVampa92) Starred [shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard)
@@ -117,6 +127,10 @@
 ### [NeoMaster831](https://github.com/NeoMaster831)
 - 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [H4k1l/RustCrack](https://github.com/H4k1l/RustCrack)
   > RustCrack v1.1.2 can crack the hashes of MD5, SHA-1, SHA-224, SHA-256, SHA-384 and SHA-512 or genera...
+
+### [OfficialKatana](https://github.com/OfficialKatana)
+- 🌟 👤 [OfficialKatana](https://github.com/OfficialKatana) Starred [adysec/IP_database](https://github.com/adysec/IP_database)
+  > IP地址库 | GeoLite数据库每日更新，纯真ip库每日更新，ip2region每日更新，17monipdb每日更新，ipv6wry每日更新，IPDB每日更新，DB-IP每日更新
 
 ### [P001water](https://github.com/P001water)
 - 🌟 👤 [P001water](https://github.com/P001water) Starred [PyQt5/PyQt](https://github.com/PyQt5/PyQt)
@@ -207,12 +221,6 @@
 - 🌟 👤 [cmzy](https://github.com/cmzy) Starred [bytedance/btrace](https://github.com/bytedance/btrace)
   > 🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not...
 
-### [cn-kali-team](https://github.com/cn-kali-team)
-- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [cloudflare/agents](https://github.com/cloudflare/agents)
-  > Build and deploy AI Agents on Cloudflare 
-- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [awslabs/flowgger](https://github.com/awslabs/flowgger)
-  > A fast data collector in Rust
-
 ### [codehz](https://github.com/codehz)
 - 🌟 👤 [codehz](https://github.com/codehz) Starred [alecthomas/entityx](https://github.com/alecthomas/entityx)
   > EntityX - A fast, type-safe C++ Entity-Component system
@@ -287,13 +295,6 @@
   > real time face swap and one-click video deepfake with only a single image
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [rxi/sj.h](https://github.com/rxi/sj.h) to [gmh5225/sj.h](https://github.com/gmh5225/sj.h)
-  > A tiny little JSON parsing library
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [edb-rs/edb](https://github.com/edb-rs/edb) to [gmh5225/edb](https://github.com/gmh5225/edb)
-  > EDB: The EVM Project Debugger
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [bnb-chain/reth-bsc](https://github.com/bnb-chain/reth-bsc) to [gmh5225/reth-bsc-](https://github.com/gmh5225/reth-bsc-)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [tryandromeda/std](https://github.com/tryandromeda/std) to [gmh5225/std](https://github.com/gmh5225/std)
-  > andromeda standard library
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [milankovo/ida-drop-all-the-files](https://github.com/milankovo/ida-drop-all-the-files) to [gmh5225/ida-drop-all-the-files](https://github.com/gmh5225/ida-drop-all-the-files)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [thaliaarchi/bfcoq](https://github.com/thaliaarchi/bfcoq) to [gmh5225/bfcoq](https://github.com/gmh5225/bfcoq)
   > Brainfuck compiler in Coq
@@ -428,10 +429,6 @@
 - 🍴 👤 [kkent030315](https://github.com/kkent030315) Forked [sandmor/taskbar_interface](https://github.com/sandmor/taskbar_interface) to [kkent030315/taskbar_interface](https://github.com/kkent030315/taskbar_interface)
   > A interface for Rust to interact with the taskbar
 
-### [kyle-sylvestre](https://github.com/kyle-sylvestre)
-- 🌟 👤 [kyle-sylvestre](https://github.com/kyle-sylvestre) Starred [DeathEngine2/LookingGlass-DarkEngine](https://github.com/DeathEngine2/LookingGlass-DarkEngine)
-  > Misc. source code for Looking Glass Studios games, leaked back in 2010
-
 ### [l3m0n](https://github.com/l3m0n)
 - ✨ 👤 [l3m0n](https://github.com/l3m0n) Created new repo [l3m0n/grafana_new_dec](https://github.com/l3m0n/grafana_new_dec)
   > 对grafana新版本信封加密方式的数据库解密
@@ -447,10 +444,6 @@
 ### [luckyzyx](https://github.com/luckyzyx)
 - 🌟 👤 [luckyzyx](https://github.com/luckyzyx) Starred [AliDbg/IDM_Trial_Reset_IAS](https://github.com/AliDbg/IDM_Trial_Reset_IAS)
   > IDM_Trial_Reset_IAS Reg Cleaner
-
-### [magojohnji](https://github.com/magojohnji)
-- 🍴 👤 [magojohnji](https://github.com/magojohnji) Forked [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) to [magojohnji/CookLikeHOC](https://github.com/magojohnji/CookLikeHOC)
-  > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
 ### [mahmoudimus](https://github.com/mahmoudimus)
 - 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [L-A-Marchetti/Vec](https://github.com/L-A-Marchetti/Vec)
@@ -534,6 +527,10 @@
 - 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
   > 微信视频号下载器
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [KristofferKarlAxelEkstrand/AKWF-FREE](https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE)
+  > Adventure Kid Wave Forms are a collection of sampled one cycle waveforms for use in synthesizers and...
+
 ### [pengwei1024](https://github.com/pengwei1024)
 - 🌟 👤 [pengwei1024](https://github.com/pengwei1024) Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
   > Display and control your Android device
@@ -598,6 +595,10 @@
 ### [rogertan30](https://github.com/rogertan30)
 - 🌟 👤 [rogertan30](https://github.com/rogertan30) Starred [sudeepag/SAConfettiView](https://github.com/sudeepag/SAConfettiView)
   > Confetti! Who doesn't like confetti?
+
+### [sdcampbell](https://github.com/sdcampbell)
+- 🌟 👤 [sdcampbell](https://github.com/sdcampbell) Starred [ax/apk.sh](https://github.com/ax/apk.sh)
+  > Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, r...
 
 ### [semlinker](https://github.com/semlinker)
 - ✨ 👤 [semlinker](https://github.com/semlinker) Created new repo [semlinker/pixelx](https://github.com/semlinker/pixelx)
@@ -738,5 +739,5 @@
 
 
 ---
-*最后更新于 2025-09-21 19:38:43 UTC*
+*最后更新于 2025-09-21 20:23:08 UTC*
 *历史记录保存在 `archive` 目录中。*
