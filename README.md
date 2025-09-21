@@ -18,6 +18,10 @@
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [dathere/qsv](https://github.com/dathere/qsv)
   > Blazing-fast Data-Wrangling toolkit
 
+### [CircleCashTeam](https://github.com/CircleCashTeam)
+- 🚀 👤 [CircleCashTeam](https://github.com/CircleCashTeam) Made [CircleCashTeam/kernelpatch-on-web](https://github.com/CircleCashTeam/kernelpatch-on-web) public
+  > Apatch on website to patch boot image
+
 ### [Ercilan](https://github.com/Ercilan)
 - 🌟 👤 [Ercilan](https://github.com/Ercilan) Starred [tzfun/vue-web-terminal](https://github.com/tzfun/vue-web-terminal)
   > A feature-rich terminal emulator plugin applicable to Vue2 and Vue3.
@@ -32,6 +36,14 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [google/security-research](https://github.com/google/security-research)
   > This project hosts security advisories and their accompanying proof-of-concepts related to research ...
+
+### [Lil-Ran](https://github.com/Lil-Ran)
+- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [mahaloz/decompilation-wiki](https://github.com/mahaloz/decompilation-wiki)
+  > The Decompilation Wiki: info on all things decompilation
+
+### [LuigiVampa92](https://github.com/LuigiVampa92)
+- 🌟 👤 [LuigiVampa92](https://github.com/LuigiVampa92) Starred [shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard)
+  > proguard resource for Android  by wechat team
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
@@ -87,6 +99,10 @@
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [awslabs/flowgger](https://github.com/awslabs/flowgger)
   > A fast data collector in Rust
 
+### [codehz](https://github.com/codehz)
+- 🌟 👤 [codehz](https://github.com/codehz) Starred [alecthomas/entityx](https://github.com/alecthomas/entityx)
+  > EntityX - A fast, type-safe C++ Entity-Component system
+
 ### [cyberkaida](https://github.com/cyberkaida)
 - ✨ 👤 [cyberkaida](https://github.com/cyberkaida) Created new repo [cyberkaida/Ghidra-Electron-Node](https://github.com/cyberkaida/Ghidra-Electron-Node)
   > An extension for handling embedded Electron and Node ASAR and SEA files
@@ -107,6 +123,10 @@
 ### [feixiao](https://github.com/feixiao)
 - 🌟 👤 [feixiao](https://github.com/feixiao) Starred [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem)
   > AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
+
+### [fgsqme](https://github.com/fgsqme)
+- ✨ 👤 [fgsqme](https://github.com/fgsqme) Created new repo [fgsqme/Label](https://github.com/fgsqme/Label)
+  > Qt C++ 图标标注工具
 
 ### [gagalin95](https://github.com/gagalin95)
 - 🌟 👤 [gagalin95](https://github.com/gagalin95) Starred [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
@@ -132,6 +152,12 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [bnb-chain/reth-bsc](https://github.com/bnb-chain/reth-bsc) to [gmh5225/reth-bsc-](https://github.com/gmh5225/reth-bsc-)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [tryandromeda/std](https://github.com/tryandromeda/std) to [gmh5225/std](https://github.com/gmh5225/std)
   > andromeda standard library
+
+### [gyyyy](https://github.com/gyyyy)
+- 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
+- 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+  > Playwright MCP server
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [root-project/cling](https://github.com/root-project/cling)
@@ -246,9 +272,19 @@
 - 🌟 👤 [rogertan30](https://github.com/rogertan30) Starred [sudeepag/SAConfettiView](https://github.com/sudeepag/SAConfettiView)
   > Confetti! Who doesn't like confetti?
 
+### [semlinker](https://github.com/semlinker)
+- ✨ 👤 [semlinker](https://github.com/semlinker) Created new repo [semlinker/pixelx](https://github.com/semlinker/pixelx)
+  > ai browser extension
+
+### [szcf-weiya](https://github.com/szcf-weiya)
+- 🌟 👤 [szcf-weiya](https://github.com/szcf-weiya) Starred [cjlin1/liblinear](https://github.com/cjlin1/liblinear)
+  > LIBLINEAR -- A Library for Large Linear Classification
+
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [tytydraco/LADB](https://github.com/tytydraco/LADB)
   > A local ADB shell for Android!
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg)
+  > Allows you to emulate an Android native library, and an experimental  iOS emulation
 
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro)
@@ -272,6 +308,10 @@
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [billwuhao/ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step)
   > ACE-Step: A Step Towards Music Generation Foundation Model
 
+### [wishihab](https://github.com/wishihab)
+- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [leaningtech/webvm](https://github.com/leaningtech/webvm)
+  > Virtual Machine for the Web
+
 ### [zenghongtu](https://github.com/zenghongtu)
 - 🌟 👤 [zenghongtu](https://github.com/zenghongtu) Starred [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)
   > A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
@@ -292,5 +332,5 @@
 
 
 ---
-*最后更新于 2025-09-21 08:25:26 UTC*
+*最后更新于 2025-09-21 08:42:06 UTC*
 *历史记录保存在 `archive` 目录中。*
