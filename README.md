@@ -245,6 +245,7 @@
   > GraalVM compiles applications into native executables that start instantly, scale fast, and use fewe...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [bminor/binutils-gdb](https://github.com/bminor/binutils-gdb) to [gmh5225/binutils-gdb](https://github.com/gmh5225/binutils-gdb)
   > Unofficial mirror of sourceware binutils-gdb repository. Updated daily.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [microsoft/open-hack-agents-codespace](https://github.com/microsoft/open-hack-agents-codespace) to [gmh5225/open-hack-agents-codespace](https://github.com/gmh5225/open-hack-agents-codespace)
 
 ### [gyyyy](https://github.com/gyyyy)
 - 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
@@ -272,6 +273,10 @@
 - ✨ 👤 [israel-dryer](https://github.com/israel-dryer) Created new repo [israel-dryer/adventures-of-faith](https://github.com/israel-dryer/adventures-of-faith)
   > Adventures of Faith: preserving Duane H. Klepel’s memoirs for family and the world.
 
+### [iyxan23](https://github.com/iyxan23)
+- 🌟 👤 [iyxan23](https://github.com/iyxan23) Starred [fairyglade/ly](https://github.com/fairyglade/ly)
+  > A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/f...
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
   > Wan: Open and Advanced Large-Scale Video Generative Models
@@ -289,6 +294,16 @@
   > A simple yet powerful agent framework that delivers with open-source models
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
   > Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [zane-ops/zane-ops](https://github.com/zane-ops/zane-ops)
+  > A beautiful and fast self-hosted PaaS for deploying and managing web apps, databases, static website...
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)
+  > Local-first AI Notepad for Private Meetings
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc)
+  > 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [Apocalypsor/dujiaoka-docker](https://github.com/Apocalypsor/dujiaoka-docker)
+  > 独角数卡(发卡)Docker一键部署，支持AMD64/ARM64
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [yushangxiao/claude2api](https://github.com/yushangxiao/claude2api)
+  > 将Claude 的网页服务转为 Api 服务，支持识图，文件上传，思考输出……
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [upstash/context7](https://github.com/upstash/context7)
@@ -473,6 +488,10 @@
   > 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、Mybatis，Ant Design&Vue3、TS+vite！强大代码生成...
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
   > Lightweight MCP Server for Computer Use in Windows
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate)
+  > Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local aut...
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [microsoft/OmniParser](https://github.com/microsoft/OmniParser)
+  > A simple screen parsing tool towards pure vision based GUI agent
 
 ### [vm32](https://github.com/vm32)
 - 🌟 👤 [vm32](https://github.com/vm32) Starred [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng)
@@ -513,5 +532,5 @@
 
 
 ---
-*最后更新于 2025-09-21 13:24:38 UTC*
+*最后更新于 2025-09-21 13:39:17 UTC*
 *历史记录保存在 `archive` 目录中。*
