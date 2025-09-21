@@ -277,6 +277,9 @@
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [DenuvoSoftwareSolutions/GAMBA](https://github.com/DenuvoSoftwareSolutions/GAMBA)
   > Simplification of General Mixed Boolean-Arithmetic Expressions: GAMBA
 
+### [mr-r3b00t](https://github.com/mr-r3b00t)
+- ✨ 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Created new repo [mr-r3b00t/cyber-top-trumps](https://github.com/mr-r3b00t/cyber-top-trumps)
+
 ### [mrphrazer](https://github.com/mrphrazer)
 - ✨ 👤 [mrphrazer](https://github.com/mrphrazer) Created new repo [emproof-com/workshop_firmware_reverse_engineering](https://github.com/emproof-com/workshop_firmware_reverse_engineering)
   > Workshop on firmware reverse engineering
@@ -351,6 +354,8 @@
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [omerbenamram/evtx](https://github.com/omerbenamram/evtx)
   > A Fast (and safe) parser for the Windows XML Event Log (EVTX) format
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [yo-yo-yo-jbo/dumping_lsass](https://github.com/yo-yo-yo-jbo/dumping_lsass)
+  > The different ways to dump lsass
 
 ### [riba2534](https://github.com/riba2534)
 - 🌟 👤 [riba2534](https://github.com/riba2534) Starred [9001/copyparty](https://github.com/9001/copyparty)
@@ -417,6 +422,9 @@
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [billwuhao/ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step)
   > ACE-Step: A Step Towards Music Generation Foundation Model
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/ida-drop-all-the-files](https://github.com/milankovo/ida-drop-all-the-files)
+
 ### [wishihab](https://github.com/wishihab)
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [leaningtech/webvm](https://github.com/leaningtech/webvm)
   > Virtual Machine for the Web
@@ -445,5 +453,5 @@
 
 
 ---
-*最后更新于 2025-09-21 11:16:22 UTC*
+*最后更新于 2025-09-21 11:39:07 UTC*
 *历史记录保存在 `archive` 目录中。*
