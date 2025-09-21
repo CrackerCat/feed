@@ -180,6 +180,8 @@
   > Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bind...
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng) to [Ylarod/hrtng](https://github.com/Ylarod/hrtng)
   > IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognitio...
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
+  > MCP Server for IDA Pro.
 
 ### [Yricky](https://github.com/Yricky)
 - 🍴 👤 [Yricky](https://github.com/Yricky) Forked [Justype/RPGMakerUtils](https://github.com/Justype/RPGMakerUtils) to [Yricky/RPGMakerUtils](https://github.com/Yricky/RPGMakerUtils)
@@ -202,6 +204,10 @@
   > An extremely fast Python package and project manager, written in Rust.
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [dkogan/mrcal](https://github.com/dkogan/mrcal)
   > Next-generation camera-modeling toolkit
+
+### [cmzy](https://github.com/cmzy)
+- 🌟 👤 [cmzy](https://github.com/cmzy) Starred [bytedance/btrace](https://github.com/bytedance/btrace)
+  > 🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not...
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [cloudflare/agents](https://github.com/cloudflare/agents)
@@ -442,6 +448,10 @@
 - 🍴 👤 [magojohnji](https://github.com/magojohnji) Forked [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) to [magojohnji/CookLikeHOC](https://github.com/magojohnji/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
+### [mahmoudimus](https://github.com/mahmoudimus)
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [L-A-Marchetti/Vec](https://github.com/L-A-Marchetti/Vec)
+  > 🌀 A minimal C library offering generic, contiguous dynamic arrays with O(1) amortized push.
+
 ### [makelinux](https://github.com/makelinux)
 - ✨ 👤 [makelinux](https://github.com/makelinux) Created new repo [makelinux/speaking-llm](https://github.com/makelinux/speaking-llm)
   > Speech recognition and text-to-speech for Llama Stack, for Linux only
@@ -469,6 +479,10 @@
   > Open-source security reports — no paywalls, just actionable insights.
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [praetorian-inc/google-redirector](https://github.com/praetorian-inc/google-redirector)
   > A lightweight redirector for Google Cloud Run, enabling domain fronting via Google-owned infrastruct...
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
+  > Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
 
 ### [mr-r3b00t](https://github.com/mr-r3b00t)
 - ✨ 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Created new repo [mr-r3b00t/cyber-top-trumps](https://github.com/mr-r3b00t/cyber-top-trumps)
@@ -710,5 +724,5 @@
 
 
 ---
-*最后更新于 2025-09-21 16:25:18 UTC*
+*最后更新于 2025-09-21 16:42:27 UTC*
 *历史记录保存在 `archive` 目录中。*
