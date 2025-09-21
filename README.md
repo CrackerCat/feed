@@ -254,8 +254,15 @@
 - 🌟 👤 [dlitz](https://github.com/dlitz) Starred [jeff-dh/SolidPython](https://github.com/jeff-dh/SolidPython)
   > A python frontend for solid modelling that compiles to OpenSCAD
 
-### [dqzg12300](https://github.com/dqzg12300)
-- ✨ 👤 [dqzg12300](https://github.com/dqzg12300) Created new repo [dqzg12300/checkdemo](https://github.com/dqzg12300/checkdemo)
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
+  > libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [tursodatabase/libsql-client-go](https://github.com/tursodatabase/libsql-client-go)
+  > Go client API for libSQL
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [tursodatabase/go-libsql](https://github.com/tursodatabase/go-libsql)
+  > libSQL API for Go
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [tursodatabase/turso-go](https://github.com/tursodatabase/turso-go)
+  > Golang bindings for turso-db
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [Intelligent-Internet/gemini-cli-mcp-openai-bridge](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge)
@@ -368,8 +375,6 @@
   > Better configuration for less
 
 ### [iAklis](https://github.com/iAklis)
-- 🌟 👤 [iAklis](https://github.com/iAklis) Starred [plutov/oq](https://github.com/plutov/oq)
-  > Terminal OpenAPI Spec viewer
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > ✨ Open-source AI hackers for your apps 👨🏻‍💻 
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [deps-rs/deps.rs](https://github.com/deps-rs/deps.rs)
@@ -458,8 +463,6 @@
   > Speech recognition and text-to-speech for Llama Stack, for Linux only
 
 ### [maskelihileci](https://github.com/maskelihileci)
-- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [DenuvoSoftwareSolutions/GAMBA](https://github.com/DenuvoSoftwareSolutions/GAMBA)
-  > Simplification of General Mixed Boolean-Arithmetic Expressions: GAMBA
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [JustasMasiulis/xorstr](https://github.com/JustasMasiulis/xorstr)
   > heavily vectorized c++17 compile time string encryption.
 
@@ -581,8 +584,6 @@
   > Virtual Machine for the Web
 
 ### [reveng007](https://github.com/reveng007)
-- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [omerbenamram/evtx](https://github.com/omerbenamram/evtx)
-  > A Fast (and safe) parser for the Windows XML Event Log (EVTX) format
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [yo-yo-yo-jbo/dumping_lsass](https://github.com/yo-yo-yo-jbo/dumping_lsass)
   > The different ways to dump lsass
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [stuxnet999/MemLabs](https://github.com/stuxnet999/MemLabs)
@@ -642,6 +643,10 @@
 ### [szcf-weiya](https://github.com/szcf-weiya)
 - 🌟 👤 [szcf-weiya](https://github.com/szcf-weiya) Starred [cjlin1/liblinear](https://github.com/cjlin1/liblinear)
   > LIBLINEAR -- A Library for Large Linear Classification
+
+### [thewhiteninja](https://github.com/thewhiteninja)
+- 🍴 👤 [thewhiteninja](https://github.com/thewhiteninja) Forked [d-Rickyy-b/certstream-server-go](https://github.com/d-Rickyy-b/certstream-server-go) to [thewhiteninja/certstream-server-go](https://github.com/thewhiteninja/certstream-server-go)
+  > This project aims to be a drop-in replacement for the certstream server by Calidog. This tool aggreg...
 
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [tytydraco/LADB](https://github.com/tytydraco/LADB)
@@ -734,5 +739,5 @@
 
 
 ---
-*最后更新于 2025-09-21 22:19:48 UTC*
+*最后更新于 2025-09-21 22:40:23 UTC*
 *历史记录保存在 `archive` 目录中。*
