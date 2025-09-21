@@ -25,6 +25,10 @@
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [anchore/syft](https://github.com/anchore/syft)
   > CLI tool and library for generating a Software Bill of Materials from container images and filesyste...
 
+### [CTF-Archives](https://github.com/CTF-Archives)
+- 🚀 👤 [CTF-Archives](https://github.com/CTF-Archives) Made [CTF-Archives/2025-jswa](https://github.com/CTF-Archives/2025-jswa) public
+  > 2025年江苏省第七届大学生网络空间安全知识技能大赛
+
 ### [CircleCashTeam](https://github.com/CircleCashTeam)
 - 🚀 👤 [CircleCashTeam](https://github.com/CircleCashTeam) Made [CircleCashTeam/kernelpatch-on-web](https://github.com/CircleCashTeam/kernelpatch-on-web) public
   > Apatch on website to patch boot image
@@ -32,6 +36,10 @@
 ### [Col-E](https://github.com/Col-E)
 - 🌟 👤 [Col-E](https://github.com/Col-E) Starred [Todense/OmniGraph](https://github.com/Todense/OmniGraph)
   > Desktop application for creating graphs and algorithm visualisation
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme)
+  > 🎨 A secure boot compatible in-memory UxTheme patcher
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [scotws/crude65816](https://github.com/scotws/crude65816)
@@ -95,6 +103,8 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [lima-vm/lima](https://github.com/lima-vm/lima)
   > Linux virtual machines, with a focus on running containers
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [nneonneo/2048-ai](https://github.com/nneonneo/2048-ai)
+  > AI for the 2048 game
 
 ### [NeoMaster831](https://github.com/NeoMaster831)
 - 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [H4k1l/RustCrack](https://github.com/H4k1l/RustCrack)
@@ -143,6 +153,15 @@
   > Reset Cursor AI MachineID & Auto Sign Up  & Bypass Higher Token Limit
 - 🌟 👤 [Udyz](https://github.com/Udyz) Starred [3proxy/3proxy](https://github.com/3proxy/3proxy)
   > 3proxy - tiny free proxy server
+
+### [WindXaa](https://github.com/WindXaa)
+- 🌟 👤 [WindXaa](https://github.com/WindXaa) Starred [ErodedElk/VirtualAppQuickReview](https://github.com/ErodedElk/VirtualAppQuickReview)
+  > VirtualApp 原理速览
+- 🍴 👤 [WindXaa](https://github.com/WindXaa) Forked [ErodedElk/VirtualAppQuickReview](https://github.com/ErodedElk/VirtualAppQuickReview) to [WindXaa/VirtualAppQuickReview](https://github.com/WindXaa/VirtualAppQuickReview)
+  > VirtualApp 原理速览
+
+### [Xunzhuo](https://github.com/Xunzhuo)
+- 🌟 👤 [Xunzhuo](https://github.com/Xunzhuo) Starred [laude-institute/sandboxes](https://github.com/laude-institute/sandboxes)
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [keystone-engine/keystone](https://github.com/keystone-engine/keystone) to [Ylarod/keystone](https://github.com/Ylarod/keystone)
@@ -228,6 +247,9 @@
 - ✨ 👤 [fgsqme](https://github.com/fgsqme) Created new repo [fgsqme/ImageLabeler](https://github.com/fgsqme/ImageLabeler)
   > Qt C++ 图片标注工具
 
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [littlebyteorg/appledb](https://github.com/littlebyteorg/appledb)
+
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [gamesarchive/CVE-2025-48543](https://github.com/gamesarchive/CVE-2025-48543)
   > PoC exploit for CVE-2025-48543 in C++
@@ -292,6 +314,10 @@
   > Бот, который вам поможет писать отчет по пентостику
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [skylert7/Legacy_MapleStory_Helper](https://github.com/skylert7/Legacy_MapleStory_Helper) to [gmh5225/Legacy_MapleStory_Helper](https://github.com/gmh5225/Legacy_MapleStory_Helper)
   > This is Legacy Maplestory Helper. Use at your own risk of getting banned since this helper has auto-...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [praetorian-inc/google-redirector](https://github.com/praetorian-inc/google-redirector) to [gmh5225/google-redirector](https://github.com/gmh5225/google-redirector)
+  > A lightweight redirector for Google Cloud Run, enabling domain fronting via Google-owned infrastruct...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [supabase/auth](https://github.com/supabase/auth) to [gmh5225/auth](https://github.com/gmh5225/auth)
+  > A JWT based API for managing users and issuing JWT tokens
 
 ### [gyyyy](https://github.com/gyyyy)
 - 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
@@ -458,6 +484,8 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [libhybris/libhybris](https://github.com/libhybris/libhybris)
   > Hybris is a solution that commits hybris, by allowing us to use bionic-based HW adaptations in glibc...
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Halium/halium-devices](https://github.com/Halium/halium-devices)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [kaii-lb/LavenderPhotos](https://github.com/kaii-lb/LavenderPhotos)
+  > A sweet looking photo app for android!
 
 ### [oureveryday](https://github.com/oureveryday)
 - 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)
@@ -535,10 +563,20 @@
 ### [shadow3aaa](https://github.com/shadow3aaa)
 - 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub)
   > RikkaHub is a Android APP that supports for multiple LLM providers.
+- 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [gcanat/video_reader-rs](https://github.com/gcanat/video_reader-rs)
+  > A library to fastly decode video with ffmpeg and rust
 
 ### [sisoma2](https://github.com/sisoma2)
 - 🌟 👤 [sisoma2](https://github.com/sisoma2) Starred [ValkyriSecurity/npm-malware-scanner](https://github.com/ValkyriSecurity/npm-malware-scanner)
   > Scanner for supply chain containing potential malware
+
+### [skywind3000](https://github.com/skywind3000)
+- 🌟 👤 [skywind3000](https://github.com/skywind3000) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
+  > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
+### [sleirsgoevy](https://github.com/sleirsgoevy)
+- 🌟 👤 [sleirsgoevy](https://github.com/sleirsgoevy) Starred [tm-a-t/figma-boy](https://github.com/tm-a-t/figma-boy)
+  > Figma support for IntelliJ & Junie
 
 ### [std-microblock](https://github.com/std-microblock)
 - ✨ 👤 [std-microblock](https://github.com/std-microblock) Created new repo [std-microblock/cslab-shelllab](https://github.com/std-microblock/cslab-shelllab)
@@ -641,5 +679,5 @@
 
 
 ---
-*最后更新于 2025-09-21 14:39:10 UTC*
+*最后更新于 2025-09-21 15:20:05 UTC*
 *历史记录保存在 `archive` 目录中。*
