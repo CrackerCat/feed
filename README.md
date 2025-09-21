@@ -18,6 +18,10 @@
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [dathere/qsv](https://github.com/dathere/qsv)
   > Blazing-fast Data-Wrangling toolkit
 
+### [CHYbeta](https://github.com/CHYbeta)
+- 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [anchore/syft](https://github.com/anchore/syft)
+  > CLI tool and library for generating a Software Bill of Materials from container images and filesyste...
+
 ### [CircleCashTeam](https://github.com/CircleCashTeam)
 - 🚀 👤 [CircleCashTeam](https://github.com/CircleCashTeam) Made [CircleCashTeam/kernelpatch-on-web](https://github.com/CircleCashTeam/kernelpatch-on-web) public
   > Apatch on website to patch boot image
@@ -52,6 +56,8 @@
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [mahaloz/decompilation-wiki](https://github.com/mahaloz/decompilation-wiki)
   > The Decompilation Wiki: info on all things decompilation
+- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [aristorechina/arnold_decoder](https://github.com/aristorechina/arnold_decoder)
+  > 一个用于暴力破解猫变换（Arnold's Cat Map）加密图像的命令行工具。
 
 ### [LuigiVampa92](https://github.com/LuigiVampa92)
 - 🌟 👤 [LuigiVampa92](https://github.com/LuigiVampa92) Starred [shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard)
@@ -66,6 +72,8 @@
   > Decompiler written in Rust
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bminor/binutils-gdb](https://github.com/bminor/binutils-gdb)
   > Unofficial mirror of sourceware binutils-gdb repository. Updated daily.
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [semgrep/semgrep](https://github.com/semgrep/semgrep)
+  > Lightweight static analysis for many languages. Find bug variants with patterns that look like sourc...
 
 ### [RimoChan](https://github.com/RimoChan)
 - ✨ 👤 [RimoChan](https://github.com/RimoChan) Created new repo [RimoChan/rimochan-auto-home](https://github.com/RimoChan/rimochan-auto-home)
@@ -139,6 +147,10 @@
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [Intelligent-Internet/gemini-cli-mcp-openai-bridge](https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [sst/models.dev](https://github.com/sst/models.dev)
   > An open-source database of AI models.
+
+### [elllusion](https://github.com/elllusion)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [phuhao00/netcore-go](https://github.com/phuhao00/netcore-go)
+  > NetCore-Go 是一个功能丰富、高性能的 Go 语言网络库，提供了完整的网络编程解决方案，包括 TCP/UDP 服务器、WebSocket、HTTP 服务器、RPC、gRPC、KCP 协议支持，...
 
 ### [feixiao](https://github.com/feixiao)
 - 🌟 👤 [feixiao](https://github.com/feixiao) Starred [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem)
@@ -221,6 +233,10 @@
 ### [l3m0n](https://github.com/l3m0n)
 - ✨ 👤 [l3m0n](https://github.com/l3m0n) Created new repo [l3m0n/grafana_new_dec](https://github.com/l3m0n/grafana_new_dec)
   > 对grafana新版本信封加密方式的数据库解密
+
+### [lanyi1998](https://github.com/lanyi1998)
+- 🌟 👤 [lanyi1998](https://github.com/lanyi1998) Starred [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+  > Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit...
 
 ### [llsc12](https://github.com/llsc12)
 - 🌟 👤 [llsc12](https://github.com/llsc12) Starred [Col-E/Recaf](https://github.com/Col-E/Recaf)
@@ -383,5 +399,5 @@
 
 
 ---
-*最后更新于 2025-09-21 09:38:25 UTC*
+*最后更新于 2025-09-21 10:20:47 UTC*
 *历史记录保存在 `archive` 目录中。*
