@@ -357,6 +357,8 @@
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
   > A headless, extendable, multi-session, IDA Pro MCP framework.
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
+  > Plugin for JADX to integrate MCP server
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [lifting-bits/remill](https://github.com/lifting-bits/remill) to [hzqst/remill](https://github.com/hzqst/remill)
@@ -732,5 +734,5 @@
 
 
 ---
-*最后更新于 2025-09-21 17:17:43 UTC*
+*最后更新于 2025-09-21 17:38:54 UTC*
 *历史记录保存在 `archive` 目录中。*
