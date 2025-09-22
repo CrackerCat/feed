@@ -189,6 +189,10 @@
 ### [cd-Crypton](https://github.com/cd-Crypton)
 - 🍴 👤 [cd-Crypton](https://github.com/cd-Crypton) Forked [SavedByLight/android_kernel_samsung_m55xq](https://github.com/SavedByLight/android_kernel_samsung_m55xq) to [cd-Crypton/kernel_samsung_m55xq](https://github.com/cd-Crypton/kernel_samsung_m55xq)
 
+### [chizhanyuefeng](https://github.com/chizhanyuefeng)
+- 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [EvolvingLMMs-Lab/open-r1-multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
+  > A fork to add multimodal model training to open-r1
+
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [openai/openai-go](https://github.com/openai/openai-go)
   > The official Go library for the OpenAI API
@@ -457,6 +461,10 @@
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [parvathyAM/kids_quiz](https://github.com/parvathyAM/kids_quiz) to [nzcv/kids_quiz](https://github.com/nzcv/kids_quiz)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [widget-404/quiz_kidoo](https://github.com/widget-404/quiz_kidoo) to [nzcv/quiz_kidoo](https://github.com/nzcv/quiz_kidoo)
 
+### [oblique](https://github.com/oblique)
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [compio-rs/compio](https://github.com/compio-rs/compio)
+  > A thread-per-core Rust runtime with IOCP/io_uring/polling.
+
 ### [paradiseduo](https://github.com/paradiseduo)
 - 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [tzmax/V2RayXS](https://github.com/tzmax/V2RayXS)
   > GUI for xray-core on macOS
@@ -626,5 +634,5 @@
 
 
 ---
-*最后更新于 2025-09-22 11:19:32 UTC*
+*最后更新于 2025-09-22 11:39:42 UTC*
 *历史记录保存在 `archive` 目录中。*
