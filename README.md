@@ -132,12 +132,6 @@
 - 🍴 👤 [No-Github](https://github.com/No-Github) Forked [kucherenko/jscpd](https://github.com/kucherenko/jscpd) to [No-Github/jscpd](https://github.com/No-Github/jscpd)
   > Copy/paste detector for programming source code.
 
-### [PIKACHUIM](https://github.com/PIKACHUIM)
-- 🌟 👤 [PIKACHUIM](https://github.com/PIKACHUIM) Starred [Suxiaoqinx/Netease_url](https://github.com/Suxiaoqinx/Netease_url)
-  > 网易云无损解析
-- 🍴 👤 [PIKACHUIM](https://github.com/PIKACHUIM) Forked [Suxiaoqinx/Netease_url](https://github.com/Suxiaoqinx/Netease_url) to [PIKACHUIM/Netease_url](https://github.com/PIKACHUIM/Netease_url)
-  > 网易云无损解析
-
 ### [RrQxSaWaR](https://github.com/RrQxSaWaR)
 - ✨ 👤 [RrQxSaWaR](https://github.com/RrQxSaWaR) Created new repo [RrQxSaWaR/Cricket-league-Mod-Source](https://github.com/RrQxSaWaR/Cricket-league-Mod-Source)
 - ✨ 👤 [RrQxSaWaR](https://github.com/RrQxSaWaR) Created new repo [RrQxSaWaR/Cricket-league-Bypass-Mod-Source](https://github.com/RrQxSaWaR/Cricket-league-Bypass-Mod-Source)
@@ -200,10 +194,6 @@
 ### [answer-huang](https://github.com/answer-huang)
 - 🌟 👤 [answer-huang](https://github.com/answer-huang) Starred [riddleling/iOS-OCR-Server](https://github.com/riddleling/iOS-OCR-Server)
   > iOS OCR Server, using Apple's Vision Framework API.
-
-### [apkunpacker](https://github.com/apkunpacker)
-- 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [ZeroMemoryEx/CVE-2025-26125](https://github.com/ZeroMemoryEx/CVE-2025-26125)
-  > (0day) Local Privilege Escalation in IObit Malware Fighter
 
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [Makememo/MemoAI](https://github.com/Makememo/MemoAI)
@@ -338,10 +328,6 @@
 - 🌟 👤 [fishso](https://github.com/fishso) Starred [Domilopment/apk-extractor](https://github.com/Domilopment/apk-extractor)
   > A Simple Modern APK Extractor App
 
-### [fjh658](https://github.com/fjh658)
-- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [MarkEdit-app/MarkEdit-preview](https://github.com/MarkEdit-app/MarkEdit-preview)
-  > Markdown preview for MarkEdit.
-
 ### [fynch3r](https://github.com/fynch3r)
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [everywall/ladder](https://github.com/everywall/ladder)
   > Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS he...
@@ -437,6 +423,10 @@
 - 🌟 👤 [k0mraid3](https://github.com/k0mraid3) Starred [exiftool/exiftool](https://github.com/exiftool/exiftool)
   > ExifTool meta information reader/writer
 
+### [kernelzeroday](https://github.com/kernelzeroday)
+- 🌟 👤 [kernelzeroday](https://github.com/kernelzeroday) Starred [sgi-demos/sgi-demos](https://github.com/sgi-demos/sgi-demos)
+  > SGI demos from long ago, running in your browser today.
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp)
   > A simple, locally hosted Web Search MCP server for use with Local LLMs
@@ -483,6 +473,10 @@
 - 🍴 👤 [nbxiglk0](https://github.com/nbxiglk0) Forked [l3yx/jdwp-codeifier](https://github.com/l3yx/jdwp-codeifier) to [nbxiglk0/jdwp-codeifier](https://github.com/nbxiglk0/jdwp-codeifier)
   > 基于 jdwp-shellifier 的进阶JDWP漏洞利用脚本（动态执行Java/Js代码并获得回显）
 
+### [nek0y4nsu](https://github.com/nek0y4nsu)
+- 🍴 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Forked [jmpews/Dobby](https://github.com/jmpews/Dobby) to [nek0y4nsu/Dobby](https://github.com/nek0y4nsu/Dobby)
+  > a lightweight, multi-platform, multi-architecture hook framework.
+
 ### [netxfly](https://github.com/netxfly)
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [mitmproxy/mitmproxy_rs](https://github.com/mitmproxy/mitmproxy_rs)
   > The Rust bits in mitmproxy. 🦀
@@ -522,6 +516,8 @@
 ### [oureveryday](https://github.com/oureveryday)
 - 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [hyperium/hyper](https://github.com/hyperium/hyper)
   > An HTTP library for Rust
+- 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest)
+  > An easy and powerful Rust HTTP Client
 
 ### [paradiseduo](https://github.com/paradiseduo)
 - 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [tzmax/V2RayXS](https://github.com/tzmax/V2RayXS)
@@ -722,5 +718,5 @@
 
 
 ---
-*最后更新于 2025-09-22 22:40:28 UTC*
+*最后更新于 2025-09-22 23:19:44 UTC*
 *历史记录保存在 `archive` 目录中。*
