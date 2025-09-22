@@ -27,6 +27,26 @@
 - 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [SamuelTulach/LightHook](https://github.com/SamuelTulach/LightHook)
   > Single-header, minimalistic, cross-platform hook library written in pure C
 
+### [MartinKayJr](https://github.com/MartinKayJr)
+- 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [shouzhong/Scanner](https://github.com/shouzhong/Scanner)
+  > 二维码/条码识别、身份证识别、银行卡识别、车牌识别、图片文字识别、黄图识别、驾驶证（驾照）识别
+- 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
+  > Ultralytics YOLO 🚀
+- 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [we0091234/yolov8-plate](https://github.com/we0091234/yolov8-plate)
+  > yolov8 车牌检测   车牌识别   中文车牌识别 检测 支持12种中文车牌 支持双层车牌
+- 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [Ayers-github/Chinese-License-Plate-Recognition](https://github.com/Ayers-github/Chinese-License-Plate-Recognition)
+  > 中国多车牌检测、车牌角度矫正、车牌文本识别、车牌颜色识别、危险品车辆识别，ncnn车牌识别
+- 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [Acacia-Ma/YOLOv5-Car-Detection-System](https://github.com/Acacia-Ma/YOLOv5-Car-Detection-System)
+  > 🚗 基于YOLOv5的智能车牌检测识别系统，集成现代化Web界面和AI对话功能。支持图片/视频车牌识别，用户管理，历史记录，以及GitHub Models API智能对话助手。
+- 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [we0091234/Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition)
+  > yolov5 车牌检测   车牌识别   中文车牌识别 检测 支持12种中文车牌 支持双层车牌
+- 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j)
+  > Suite of tools for deploying and training deep learning models using the JVM. Highlights include mod...
+- 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [jiangnanboy/onnx-java](https://github.com/jiangnanboy/onnx-java)
+  > onnx-java，这里利用java加载onnx模型，并进行推理。
+- 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
+  > ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+
 ### [MuggleWei](https://github.com/MuggleWei)
 - 🌟 👤 [MuggleWei](https://github.com/MuggleWei) Starred [mmulet/term.everything](https://github.com/mmulet/term.everything)
   > Run any GUI app in the terminal❗
@@ -44,6 +64,10 @@
 ### [RrQxSaWaR](https://github.com/RrQxSaWaR)
 - ✨ 👤 [RrQxSaWaR](https://github.com/RrQxSaWaR) Created new repo [RrQxSaWaR/Cricket-league-Mod-Source](https://github.com/RrQxSaWaR/Cricket-league-Mod-Source)
 - ✨ 👤 [RrQxSaWaR](https://github.com/RrQxSaWaR) Created new repo [RrQxSaWaR/Cricket-league-Bypass-Mod-Source](https://github.com/RrQxSaWaR/Cricket-league-Bypass-Mod-Source)
+
+### [SeanCline](https://github.com/SeanCline)
+- 🌟 👤 [SeanCline](https://github.com/SeanCline) Starred [rxi/microui](https://github.com/rxi/microui)
+  > A tiny immediate-mode UI library
 
 ### [SmartKeyerror](https://github.com/SmartKeyerror)
 - 🌟 👤 [SmartKeyerror](https://github.com/SmartKeyerror) Starred [warehouse-pg/warehouse-pg](https://github.com/warehouse-pg/warehouse-pg)
@@ -87,6 +111,22 @@
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [tlswg/tls13-spec](https://github.com/tlswg/tls13-spec)
   > TLS 1.3 Specification
 
+### [codingsf](https://github.com/codingsf)
+- 🌟 👤 [codingsf](https://github.com/codingsf) Starred [idapython/src](https://github.com/idapython/src)
+  > IDAPython project for Hex-Ray's IDA Pro
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [moyuwa/ApkCheckPack](https://github.com/moyuwa/ApkCheckPack)
+  > apk加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，全网最全开源加固特征，支持40个厂商的加固检测，欢迎大家提交无法识别的app
+
+### [duanluan](https://github.com/duanluan)
+- 🌟 👤 [duanluan](https://github.com/duanluan) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
+  > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
+### [fei-ke](https://github.com/fei-ke)
+- 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [lasting-yang/frida_dump](https://github.com/lasting-yang/frida_dump)
+  > frida dump dex, frida dump so
+
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
   > Just like TextEdit on Mac but dedicated to Markdown.
@@ -100,6 +140,10 @@
 ### [geekonion](https://github.com/geekonion)
 - 🌟 👤 [geekonion](https://github.com/geekonion) Starred [blacktop/ipsw-diffs](https://github.com/blacktop/ipsw-diffs)
   > IPSW Diffs
+
+### [genius158](https://github.com/genius158)
+- 🌟 👤 [genius158](https://github.com/genius158) Starred [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+  > A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy e...
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [TwoSevenOneT/SparringRAT](https://github.com/TwoSevenOneT/SparringRAT) to [gmh5225/SparringRAT](https://github.com/gmh5225/SparringRAT)
@@ -150,10 +194,17 @@
   > https://openjdk.org/projects/loom
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [openjdk/valhalla](https://github.com/openjdk/valhalla) to [gmh5225/valhalla-](https://github.com/gmh5225/valhalla-)
   > https://openjdk.org/projects/valhalla
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cywr/android-re-ctfs](https://github.com/cywr/android-re-ctfs) to [gmh5225/android-re-ctfs](https://github.com/gmh5225/android-re-ctfs)
+  > Reverse engineering CTFs.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cywr/android-malware](https://github.com/cywr/android-malware) to [gmh5225/android-malware](https://github.com/gmh5225/android-malware)
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation)
   > A curated list of awesome privilege escalation
+
+### [israel-dryer](https://github.com/israel-dryer)
+- ✨ 👤 [israel-dryer](https://github.com/israel-dryer) Created new repo [israel-dryer/adventures-in-faith](https://github.com/israel-dryer/adventures-in-faith)
+  > The memoires of Duane H. Klepel
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [multikernel/kernelscript](https://github.com/multikernel/kernelscript)
@@ -174,6 +225,10 @@
 ### [lgw1995](https://github.com/lgw1995)
 - ✨ 👤 [lgw1995](https://github.com/lgw1995) Created new repo [lgw1995/mermaid-](https://github.com/lgw1995/mermaid-)
 
+### [netxfly](https://github.com/netxfly)
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [mitmproxy/mitmproxy_rs](https://github.com/mitmproxy/mitmproxy_rs)
+  > The Rust bits in mitmproxy. 🦀
+
 ### [ntpopgetdope](https://github.com/ntpopgetdope)
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [LiEnby/psvita-elfs](https://github.com/LiEnby/psvita-elfs)
   > PSVita Decrypted ELFS for various firmwares (For reversing)
@@ -191,6 +246,8 @@
   > Virtual Machine for the Web
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [tijme/dittobytes](https://github.com/tijme/dittobytes) to [rankalpha/dittobytes](https://github.com/rankalpha/dittobytes)
   > Metamorphic cross-compilation of C++ & C-code to PIC, BOF & EXE. 
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [SnowCity233/exercise](https://github.com/SnowCity233/exercise)
+  > 高中数学之旅习题集
 
 ### [riusksk](https://github.com/riusksk)
 - 🌟 👤 [riusksk](https://github.com/riusksk) Starred [agno-agi/agno](https://github.com/agno-agi/agno)
@@ -199,6 +256,25 @@
 ### [roadwy](https://github.com/roadwy)
 - 🌟 👤 [roadwy](https://github.com/roadwy) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
   > A headless, extendable, multi-session, IDA Pro MCP framework.
+
+### [suifei](https://github.com/suifei)
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [wl56012102/PicoKVM](https://github.com/wl56012102/PicoKVM)
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [jetkvm/kvm](https://github.com/jetkvm/kvm)
+  > JetKVM - Control any computer remotely
+
+### [suzhelan](https://github.com/suzhelan)
+- 🌟 👤 [suzhelan](https://github.com/suzhelan) Starred [sqldelight/sqldelight](https://github.com/sqldelight/sqldelight)
+  > SQLDelight - Generates typesafe Kotlin APIs from SQL
+
+### [taisuii](https://github.com/taisuii)
+- 🌟 👤 [taisuii](https://github.com/taisuii) Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
+  > Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus...
+- 🌟 👤 [taisuii](https://github.com/taisuii) Starred [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
+  > An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging...
+
+### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [X-rays5/rust_win32_dllmain](https://github.com/X-rays5/rust_win32_dllmain)
+  > Minimal rust dll with DllMain
 
 ### [v9d0g](https://github.com/v9d0g)
 - 🌟 👤 [v9d0g](https://github.com/v9d0g) Starred [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
@@ -221,6 +297,10 @@
 ### [yichen115](https://github.com/yichen115)
 - 🌟 👤 [yichen115](https://github.com/yichen115) Starred [Bin4ry/UniPwn](https://github.com/Bin4ry/UniPwn)
 
+### [yulate](https://github.com/yulate)
+- 🌟 👤 [yulate](https://github.com/yulate) Starred [pascal-lab/NullPath](https://github.com/pascal-lab/NullPath)
+  > NullPath: A static analysis tool for detecting NullPointerException (NPE) issues in Java code, built...
+
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
   > Decompiler written in Rust
@@ -234,5 +314,5 @@
 
 
 ---
-*最后更新于 2025-09-22 03:10:11 UTC*
+*最后更新于 2025-09-22 03:52:13 UTC*
 *历史记录保存在 `archive` 目录中。*
