@@ -120,10 +120,6 @@
 - 🍴 👤 [PIKACHUIM](https://github.com/PIKACHUIM) Forked [Suxiaoqinx/Netease_url](https://github.com/Suxiaoqinx/Netease_url) to [PIKACHUIM/Netease_url](https://github.com/PIKACHUIM/Netease_url)
   > 网易云无损解析
 
-### [Rabb1tQ](https://github.com/Rabb1tQ)
-- 🌟 👤 [Rabb1tQ](https://github.com/Rabb1tQ) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
-  > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
-
 ### [RrQxSaWaR](https://github.com/RrQxSaWaR)
 - ✨ 👤 [RrQxSaWaR](https://github.com/RrQxSaWaR) Created new repo [RrQxSaWaR/Cricket-league-Mod-Source](https://github.com/RrQxSaWaR/Cricket-league-Mod-Source)
 - ✨ 👤 [RrQxSaWaR](https://github.com/RrQxSaWaR) Created new repo [RrQxSaWaR/Cricket-league-Bypass-Mod-Source](https://github.com/RrQxSaWaR/Cricket-league-Bypass-Mod-Source)
@@ -160,10 +156,6 @@
   > 🎨 A secure boot compatible in-memory UxTheme patcher
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [iPower/KasperskyHook](https://github.com/iPower/KasperskyHook)
   > Hook system calls on Windows by using Kaspersky's hypervisor
-
-### [Tokeii0](https://github.com/Tokeii0)
-- 🌟 👤 [Tokeii0](https://github.com/Tokeii0) Starred [EdikKing/hexhub](https://github.com/EdikKing/hexhub)
-  > Hexhub 是一款开源的SSH、SFTP、数据库管理客户端，数据库管理模块目前还在开发之中
 
 ### [VonChange](https://github.com/VonChange)
 - 🌟 👤 [VonChange](https://github.com/VonChange) Starred [VonChange/utao-gecko](https://github.com/VonChange/utao-gecko)
@@ -223,6 +215,10 @@
 
 ### [cd-Crypton](https://github.com/cd-Crypton)
 - 🍴 👤 [cd-Crypton](https://github.com/cd-Crypton) Forked [SavedByLight/android_kernel_samsung_m55xq](https://github.com/SavedByLight/android_kernel_samsung_m55xq) to [cd-Crypton/kernel_samsung_m55xq](https://github.com/cd-Crypton/kernel_samsung_m55xq)
+
+### [chenwen1126](https://github.com/chenwen1126)
+- 🌟 👤 [chenwen1126](https://github.com/chenwen1126) Starred [chenwen1126/Qss](https://github.com/chenwen1126/Qss)
+  > Qt Style Sheets Library With Custom TitleBar!!!
 
 ### [chizhanyuefeng](https://github.com/chizhanyuefeng)
 - 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [EvolvingLMMs-Lab/open-r1-multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
@@ -294,6 +290,9 @@
 ### [fanzhidongyzby](https://github.com/fanzhidongyzby)
 - 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
   > Tongyi Deep Research, the Leading Open-source Deep Research Agent
+- 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [bytedance/SandboxFusion](https://github.com/bytedance/SandboxFusion)
+- 🍴 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Forked [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) to [fanzhidongyzby/DeepResearch](https://github.com/fanzhidongyzby/DeepResearch)
+  > Tongyi Deep Research, the Leading Open-source Deep Research Agent
 
 ### [fei-ke](https://github.com/fei-ke)
 - 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [lasting-yang/frida_dump](https://github.com/lasting-yang/frida_dump)
@@ -334,12 +333,6 @@
   > A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy e...
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [lethain/extraction](https://github.com/lethain/extraction) to [gmh5225/extraction](https://github.com/gmh5225/extraction)
-  > A Python library for extracting titles, images, descriptions and canonical urls from HTML.
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [trinib/ZORG-Jailbreak-Prompt-Text](https://github.com/trinib/ZORG-Jailbreak-Prompt-Text) to [gmh5225/ZORG-Jailbreak-Prompt-Text](https://github.com/gmh5225/ZORG-Jailbreak-Prompt-Text)
-  > Bypass restricted and censored content on AI chat prompts 😈
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [kaixxx/noScribe](https://github.com/kaixxx/noScribe) to [gmh5225/noScribe](https://github.com/gmh5225/noScribe)
-  > Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pya...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [kaixxx/Teleprompter-Footswitch](https://github.com/kaixxx/Teleprompter-Footswitch) to [gmh5225/Teleprompter-Footswitch](https://github.com/gmh5225/Teleprompter-Footswitch)
   > Arduino controlled footswitch for the Imaginary Teleprompter App
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [openjdk/loom](https://github.com/openjdk/loom) to [gmh5225/loom](https://github.com/gmh5225/loom)
@@ -406,8 +399,6 @@
   > The memoires of Duane H. Klepel
 
 ### [jianglin-code](https://github.com/jianglin-code)
-- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [multikernel/kernelscript](https://github.com/multikernel/kernelscript)
-  > KernelScript is a modern, type-safe, domain-specific programming language for eBPF-centric kernel cu...
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [openbmc/openbmc](https://github.com/openbmc/openbmc)
   > OpenBMC Distribution
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [robotlearning123/awesome-isaac-gym](https://github.com/robotlearning123/awesome-isaac-gym)
@@ -438,6 +429,9 @@
 ### [kingking888](https://github.com/kingking888)
 - 🌟 👤 [kingking888](https://github.com/kingking888) Starred [wrlu/jebmcp](https://github.com/wrlu/jebmcp)
   > A quick-and-dirty MCP server & Plugin for JEB Pro.
+
+### [krestenlaust](https://github.com/krestenlaust)
+- 🌟 👤 [krestenlaust](https://github.com/krestenlaust) Starred [Many5900/stregsystemet-tui](https://github.com/Many5900/stregsystemet-tui)
 
 ### [leavesCZY](https://github.com/leavesCZY)
 - 🌟 👤 [leavesCZY](https://github.com/leavesCZY) Starred [eglfiv/typora-activation](https://github.com/eglfiv/typora-activation)
@@ -483,6 +477,8 @@
   > SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerpri...
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [enetx/g](https://github.com/enetx/g)
   > Functional programming framework for Golang.
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [google/gops](https://github.com/google/gops)
+  > A tool to list and diagnose Go processes currently running on your system
 
 ### [ntpopgetdope](https://github.com/ntpopgetdope)
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [LiEnby/psvita-elfs](https://github.com/LiEnby/psvita-elfs)
@@ -493,7 +489,6 @@
   > no_std Hardware Abstraction Layers for ESP32 microcontrollers
 
 ### [nzcv](https://github.com/nzcv)
-- 🍴 👤 [nzcv](https://github.com/nzcv) Forked [Iankkkk/QuizFoot](https://github.com/Iankkkk/QuizFoot) to [nzcv/QuizFoot](https://github.com/nzcv/QuizFoot)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [abuanwar072/Quiz-App-Flutter](https://github.com/abuanwar072/Quiz-App-Flutter) to [nzcv/Quiz-App-Flutter](https://github.com/nzcv/Quiz-App-Flutter)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [Guru-raghav3245/QuickMath_Kids](https://github.com/Guru-raghav3245/QuickMath_Kids) to [nzcv/QuickMath_Kids](https://github.com/nzcv/QuickMath_Kids)
   > Repo for Quick Math Kids, a math quiz app with a twist
@@ -554,8 +549,6 @@
   > KQL Queries. Microsoft Defender, Microsoft Sentinel
 
 ### [roadwy](https://github.com/roadwy)
-- 🌟 👤 [roadwy](https://github.com/roadwy) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
-  > A headless, extendable, multi-session, IDA Pro MCP framework.
 - 🌟 👤 [roadwy](https://github.com/roadwy) Starred [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
   > A collection of links related to Linux kernel security and exploitation
 
@@ -644,12 +637,6 @@
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [other-blowsnow/n8n-i18n-chinese](https://github.com/other-blowsnow/n8n-i18n-chinese)
   > n8n 配置多语言
 
-### [wa1ki0g](https://github.com/wa1ki0g)
-- 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [anchore/syft](https://github.com/anchore/syft)
-  > CLI tool and library for generating a Software Bill of Materials from container images and filesyste...
-- 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
-  > 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-
 ### [wh1te4ever](https://github.com/wh1te4ever)
 - 🌟 👤 [wh1te4ever](https://github.com/wh1te4ever) Starred [wh1te4ever/xnu_1day_practice](https://github.com/wh1te4ever/xnu_1day_practice)
 
@@ -671,6 +658,12 @@
 - ✨ 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Created new repo [wxhzhwxhzh/nav](https://github.com/wxhzhwxhzh/nav)
   > 导航网站
 
+### [xiaotujinbnb](https://github.com/xiaotujinbnb)
+- 🌟 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Starred [SoyBeanMilkx/memcrc](https://github.com/SoyBeanMilkx/memcrc)
+  > A apatch kernel module that helps you hide device environment :)
+- 🍴 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Forked [SoyBeanMilkx/memcrc](https://github.com/SoyBeanMilkx/memcrc) to [xiaotujinbnb/memcrc](https://github.com/xiaotujinbnb/memcrc)
+  > A apatch kernel module that helps you hide device environment :)
+
 ### [xyxdaily](https://github.com/xyxdaily)
 - 🍴 👤 [xyxdaily](https://github.com/xyxdaily) Forked [AndroidCrypto/Android_HCE_Beginner_App](https://github.com/AndroidCrypto/Android_HCE_Beginner_App) to [xyxdaily/Android_HCE_Beginner_App](https://github.com/xyxdaily/Android_HCE_Beginner_App)
   > The app includes a Host-Based Card Emulated (HCE) NFC tag and the associated NFC reader. You learn h...
@@ -681,9 +674,6 @@
 
 ### [ydf0509](https://github.com/ydf0509)
 - ✨ 👤 [ydf0509](https://github.com/ydf0509) Created new repo [ydf0509/funboost_git_pages](https://github.com/ydf0509/funboost_git_pages)
-
-### [yichen115](https://github.com/yichen115)
-- 🌟 👤 [yichen115](https://github.com/yichen115) Starred [Bin4ry/UniPwn](https://github.com/Bin4ry/UniPwn)
 
 ### [yulate](https://github.com/yulate)
 - 🌟 👤 [yulate](https://github.com/yulate) Starred [pascal-lab/NullPath](https://github.com/pascal-lab/NullPath)
@@ -719,5 +709,5 @@
 
 
 ---
-*最后更新于 2025-09-22 17:39:47 UTC*
+*最后更新于 2025-09-22 18:30:57 UTC*
 *历史记录保存在 `archive` 目录中。*
