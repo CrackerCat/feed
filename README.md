@@ -310,6 +310,8 @@
   > Fix Play Integrity <A13 verdicts, allowing custom fields and props
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) to [feicong/LSPosed-Irena](https://github.com/feicong/LSPosed-Irena)
   > Useless LSPosed Framework Fork
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) to [feicong/ZygiskNext](https://github.com/feicong/ZygiskNext)
+  > Standalone implementation of Zygisk
 
 ### [fishso](https://github.com/fishso)
 - 🌟 👤 [fishso](https://github.com/fishso) Starred [Domilopment/apk-extractor](https://github.com/Domilopment/apk-extractor)
@@ -731,5 +733,5 @@
 
 
 ---
-*最后更新于 2025-09-22 14:44:53 UTC*
+*最后更新于 2025-09-22 15:24:41 UTC*
 *历史记录保存在 `archive` 目录中。*
