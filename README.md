@@ -63,6 +63,10 @@
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [SecurityBrewery/catalyst](https://github.com/SecurityBrewery/catalyst)
   > ⚡️ Catalyst is a self-hosted, open source incident response platform and ticket system that helps to...
 
+### [KpLi0rn](https://github.com/KpLi0rn)
+- 🌟 👤 [KpLi0rn](https://github.com/KpLi0rn) Starred [github/spec-kit](https://github.com/github/spec-kit)
+  > 💫 Toolkit to help you get started with Spec-Driven Development
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits)
   > This project describes Telegram limitations
@@ -142,11 +146,6 @@
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [zodiacon/WindowsInternals](https://github.com/zodiacon/WindowsInternals)
   > Windows Internals Book 7th edition Tools
 
-### [THISISAGOODNAME](https://github.com/THISISAGOODNAME)
-- 🌟 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Starred [mrRay/ISFMSLKit](https://github.com/mrRay/ISFMSLKit)
-- 🌟 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Starred [mrRay/ISF_Spec](https://github.com/mrRay/ISF_Spec)
-  > ISF (Interactive Shader Format) Specification
-
 ### [ThatNotEasy](https://github.com/ThatNotEasy)
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [Hintay/py-enigma](https://github.com/Hintay/py-enigma)
   > The Enigma Protector API for Python
@@ -189,9 +188,6 @@
   > 🧩 Patches for ReVanced
 - 🍴 👤 [ahkehra](https://github.com/ahkehra) Forked [brahmkshatriya/echo-extension-template](https://github.com/brahmkshatriya/echo-extension-template) to [ahkehra/echo-extension-template](https://github.com/ahkehra/echo-extension-template)
   > A template repo, for creating Extensions for Echo
-
-### [alset0326](https://github.com/alset0326)
-- 🌟 👤 [alset0326](https://github.com/alset0326) Starred [CsomePro/easy-pwn-env](https://github.com/CsomePro/easy-pwn-env)
 
 ### [answer-huang](https://github.com/answer-huang)
 - 🌟 👤 [answer-huang](https://github.com/answer-huang) Starred [riddleling/iOS-OCR-Server](https://github.com/riddleling/iOS-OCR-Server)
@@ -320,6 +316,12 @@
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [LSPosed/LSPlt](https://github.com/LSPosed/LSPlt) to [feicong/LSPlt](https://github.com/feicong/LSPlt)
   > Simple PLT hook for Android
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [leptos-null/ClassDumpRuntime](https://github.com/leptos-null/ClassDumpRuntime) to [fengjixuchui/ClassDumpRuntime](https://github.com/fengjixuchui/ClassDumpRuntime)
+  > Library to parse Objective-C classes at runtime
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [LabGuy94/Diskjacker](https://github.com/LabGuy94/Diskjacker) to [fengjixuchui/Diskjacker](https://github.com/fengjixuchui/Diskjacker)
+  > Runtime Hyper-V Hijacking with DDMA
+
 ### [fishso](https://github.com/fishso)
 - 🌟 👤 [fishso](https://github.com/fishso) Starred [Domilopment/apk-extractor](https://github.com/Domilopment/apk-extractor)
   > A Simple Modern APK Extractor App
@@ -405,8 +407,6 @@
   > The memoires of Duane H. Klepel
 
 ### [jianglin-code](https://github.com/jianglin-code)
-- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [openbmc/openbmc](https://github.com/openbmc/openbmc)
-  > OpenBMC Distribution
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [robotlearning123/awesome-isaac-gym](https://github.com/robotlearning123/awesome-isaac-gym)
   > A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
@@ -424,6 +424,10 @@
 
 ### [jpillora](https://github.com/jpillora)
 - 🌟 👤 [jpillora](https://github.com/jpillora) Starred [Ohjelmistofriikit/contract-generator](https://github.com/Ohjelmistofriikit/contract-generator)
+
+### [k0mraid3](https://github.com/k0mraid3)
+- 🌟 👤 [k0mraid3](https://github.com/k0mraid3) Starred [exiftool/exiftool](https://github.com/exiftool/exiftool)
+  > ExifTool meta information reader/writer
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp)
@@ -494,6 +498,8 @@
   > Serial flasher utility for Espressif SoCs and modules based on esptool.py
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
   > Template generation tool to create no_std applications targeting Espressif's chips.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [espressif/esptool](https://github.com/espressif/esptool)
+  > Serial utility for flashing, provisioning, and interacting with Espressif SoCs
 
 ### [nzcv](https://github.com/nzcv)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [Guru-raghav3245/QuickMath_Kids](https://github.com/Guru-raghav3245/QuickMath_Kids) to [nzcv/QuickMath_Kids](https://github.com/nzcv/QuickMath_Kids)
@@ -643,10 +649,6 @@
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [fitzgen/bindgen-tutorial-bzip2-sys](https://github.com/fitzgen/bindgen-tutorial-bzip2-sys)
   > A tutorial/example crate for generating C/C++ bindings on-the-fly with libbindgen
 
-### [v9d0g](https://github.com/v9d0g)
-- 🌟 👤 [v9d0g](https://github.com/v9d0g) Starred [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
-  > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [other-blowsnow/n8n-i18n-chinese](https://github.com/other-blowsnow/n8n-i18n-chinese)
   > n8n 配置多语言
@@ -712,5 +714,5 @@
 
 
 ---
-*最后更新于 2025-09-22 20:24:42 UTC*
+*最后更新于 2025-09-22 20:42:01 UTC*
 *历史记录保存在 `archive` 目录中。*
