@@ -22,6 +22,11 @@
 ### [Benjamin-Dobell](https://github.com/Benjamin-Dobell)
 - ✨ 👤 [Benjamin-Dobell](https://github.com/Benjamin-Dobell) Created new repo [BreakaClub/tsgo-bug-pkg1](https://github.com/BreakaClub/tsgo-bug-pkg1)
 
+### [BlackHole1](https://github.com/BlackHole1)
+- 🌟 👤 [BlackHole1](https://github.com/BlackHole1) Starred [bspk/mkjwk.org](https://github.com/bspk/mkjwk.org)
+- 🌟 👤 [BlackHole1](https://github.com/BlackHole1) Starred [MicahParks/keyfunc](https://github.com/MicahParks/keyfunc)
+  > Create a jwt.Keyfunc for JWT parsing with a JWK Set or given cryptographic keys (like HMAC) in Golan...
+
 ### [CyberMonitor](https://github.com/CyberMonitor)
 - 🌟 👤 [CyberMonitor](https://github.com/CyberMonitor) Starred [Bin4ry/free-dog-sdk](https://github.com/Bin4ry/free-dog-sdk)
 - 🍴 👤 [CyberMonitor](https://github.com/CyberMonitor) Forked [Bin4ry/free-dog-sdk](https://github.com/Bin4ry/free-dog-sdk) to [CyberMonitor/free-dog-sdk](https://github.com/CyberMonitor/free-dog-sdk)
@@ -338,18 +343,6 @@
   > A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy e...
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [TwoSevenOneT/SparringRAT](https://github.com/TwoSevenOneT/SparringRAT) to [gmh5225/SparringRAT](https://github.com/gmh5225/SparringRAT)
-  > A simple tool simulating the operation of a RAT used in phishing. Customized to be executable with d...
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [KristofferKarlAxelEkstrand/AKWF-FREE](https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE) to [gmh5225/AKWF-FREE](https://github.com/gmh5225/AKWF-FREE)
-  > Adventure Kid Wave Forms are a collection of sampled one cycle waveforms for use in synthesizers and...
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Acucarinho/havoc-obfuscator](https://github.com/Acucarinho/havoc-obfuscator) to [gmh5225/havoc-obfuscator](https://github.com/gmh5225/havoc-obfuscator)
-  > Automated script for obfuscating, rebranding and renaming the Havoc C2 Framework to evade AV/EDR and...
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [megadose/ignorant](https://github.com/megadose/ignorant) to [gmh5225/ignorant](https://github.com/gmh5225/ignorant)
-  > ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [KrishnaSSH/GopherTube](https://github.com/KrishnaSSH/GopherTube) to [gmh5225/GopherTube](https://github.com/gmh5225/GopherTube)
-  > A modern terminal user interface for searching and watching  YouTube videos using mpv and chafa
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [anthropics/claude-code-sdk-demos](https://github.com/anthropics/claude-code-sdk-demos) to [gmh5225/claude-code-sdk-demos](https://github.com/gmh5225/claude-code-sdk-demos)
-  > Claude Code SDK Demos
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [tijme/angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner) to [gmh5225/angularjs-csti-scanner](https://github.com/gmh5225/angularjs-csti-scanner)
   > Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NorthwaveSecurity/fridax](https://github.com/NorthwaveSecurity/fridax) to [gmh5225/fridax](https://github.com/gmh5225/fridax)
@@ -390,7 +383,7 @@
   > Reverse engineering CTFs.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cywr/android-malware](https://github.com/cywr/android-malware) to [gmh5225/android-malware](https://github.com/gmh5225/android-malware)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Scale3-Labs/dspyground](https://github.com/Scale3-Labs/dspyground) to [gmh5225/dspyground](https://github.com/gmh5225/dspyground)
-  > A tool kit for generating high quality prompts for AISDK using DSPy GEPA optimizer
+  > A tool kit for generating high quality prompts using DSPy GEPA optimizer
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [browseros-ai/BrowserOS-agent](https://github.com/browseros-ai/BrowserOS-agent) to [gmh5225/BrowserOS-agent](https://github.com/gmh5225/BrowserOS-agent)
   > This is just the submodule of browserOS agent; MAIN REPO: https://github.com/browseros-ai/BrowserOS
 
@@ -418,8 +411,6 @@
   > 这是一个 n8n nl2sql 的工作流，将自然语言问题转化为可执行的 SQL 查询。以一个智能数据助手嵌入 web 系统中，能查询数据库，并为数据提供可视化图表。
 
 ### [hyuunnn](https://github.com/hyuunnn)
-- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation)
-  > A curated list of awesome privilege escalation
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [learnyouahaskell/learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io)
   > A community version of the renowned "Learn You a Haskell" (LYAH) tutorials collection!
 
@@ -450,6 +441,8 @@
   > Efficient Reasoning Vision Language Models （NeurIPS 2025)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [LIU42/TrafficRules](https://github.com/LIU42/TrafficRules)
   > 基于 YOLO11 的路口交通信号灯通行规则识别。
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [google/blockly](https://github.com/google/blockly)
+  > The web-based visual programming editor.
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [elvishew/xLog](https://github.com/elvishew/xLog)
@@ -596,6 +589,12 @@
   > Runtime Hyper-V Hijacking with DDMA
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [maoabc/nmmp](https://github.com/maoabc/nmmp)
   > dex-vm used to protect the android classes.dex file
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [BlackINT3/symcn-site](https://github.com/BlackINT3/symcn-site)
+  > Windows符号服务器镜像节点，用于国内加速
+
+### [sakana164](https://github.com/sakana164)
+- 🌟 👤 [sakana164](https://github.com/sakana164) Starred [adlered/CSDNGreener](https://github.com/adlered/CSDNGreener)
+  > 《专 业 团 队》🕺🏿 🕺🏿 🕺🏿 🕺🏿 ⚰️🕺🏿 🕺🏿 🕺🏿 🕺🏿 | 专治 CSDN 广告与各种灵魂打击 | 🐵 油猴脚本 | TamperMonkey | Chrome | FireFox | ...
 
 ### [shadow3aaa](https://github.com/shadow3aaa)
 - ✨ 👤 [shadow3aaa](https://github.com/shadow3aaa) Created new repo [shadow3aaa/prism-player](https://github.com/shadow3aaa/prism-player)
@@ -671,6 +670,10 @@
 ### [wh1te4ever](https://github.com/wh1te4ever)
 - 🌟 👤 [wh1te4ever](https://github.com/wh1te4ever) Starred [wh1te4ever/xnu_1day_practice](https://github.com/wh1te4ever/xnu_1day_practice)
 
+### [wonderkun](https://github.com/wonderkun)
+- 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [QilinPTA/Qilin](https://github.com/QilinPTA/Qilin)
+  > Qilin: A New Framework for Supporting Fine-Grained Context-Sensitivity in Java Pointer Analysis
+
 ### [wwh1004](https://github.com/wwh1004)
 - 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
   > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
@@ -733,5 +736,5 @@
 
 
 ---
-*最后更新于 2025-09-22 15:42:05 UTC*
+*最后更新于 2025-09-22 16:29:31 UTC*
 *历史记录保存在 `archive` 目录中。*
