@@ -70,6 +70,10 @@
 - 🌟 👤 [SeanCline](https://github.com/SeanCline) Starred [rxi/microui](https://github.com/rxi/microui)
   > A tiny immediate-mode UI library
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [yan5xu/ququ](https://github.com/yan5xu/ququ)
+  > 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
+
 ### [SmartKeyerror](https://github.com/SmartKeyerror)
 - 🌟 👤 [SmartKeyerror](https://github.com/SmartKeyerror) Starred [warehouse-pg/warehouse-pg](https://github.com/warehouse-pg/warehouse-pg)
   > An Open Source alternative to the Greenplum® Database
@@ -101,8 +105,16 @@
 - 🌟 👤 [Tokeii0](https://github.com/Tokeii0) Starred [EdikKing/hexhub](https://github.com/EdikKing/hexhub)
   > Hexhub 是一款开源的SSH、SFTP、数据库管理客户端，数据库管理模块目前还在开发之中
 
+### [VonChange](https://github.com/VonChange)
+- 🌟 👤 [VonChange](https://github.com/VonChange) Starred [VonChange/utao-gecko](https://github.com/VonChange/utao-gecko)
+  > 油桃TV火狐版
+
 ### [alset0326](https://github.com/alset0326)
 - 🌟 👤 [alset0326](https://github.com/alset0326) Starred [CsomePro/easy-pwn-env](https://github.com/CsomePro/easy-pwn-env)
+
+### [answer-huang](https://github.com/answer-huang)
+- 🌟 👤 [answer-huang](https://github.com/answer-huang) Starred [riddleling/iOS-OCR-Server](https://github.com/riddleling/iOS-OCR-Server)
+  > iOS OCR Server, using Apple's Vision Framework API.
 
 ### [apkunpacker](https://github.com/apkunpacker)
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [ZeroMemoryEx/CVE-2025-26125](https://github.com/ZeroMemoryEx/CVE-2025-26125)
@@ -146,6 +158,16 @@
   > ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
   > Information gathering framework for phone numbers
+
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [yan5xu/ququ](https://github.com/yan5xu/ququ)
+  > 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
+- 🍴 👤 [everettjf](https://github.com/everettjf) Forked [yan5xu/ququ](https://github.com/yan5xu/ququ) to [everettjf/ququ](https://github.com/everettjf/ququ)
+  > 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
+
+### [fanzhidongyzby](https://github.com/fanzhidongyzby)
+- 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
+  > Tongyi Deep Research, the Leading Open-source Deep Research Agent
 
 ### [fei-ke](https://github.com/fei-ke)
 - 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [lasting-yang/frida_dump](https://github.com/lasting-yang/frida_dump)
@@ -290,6 +312,9 @@
 ### [nzcv](https://github.com/nzcv)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [Iankkkk/QuizFoot](https://github.com/Iankkkk/QuizFoot) to [nzcv/QuizFoot](https://github.com/nzcv/QuizFoot)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [abuanwar072/Quiz-App-Flutter](https://github.com/abuanwar072/Quiz-App-Flutter) to [nzcv/Quiz-App-Flutter](https://github.com/nzcv/Quiz-App-Flutter)
+- 🍴 👤 [nzcv](https://github.com/nzcv) Forked [Guru-raghav3245/QuickMath_Kids](https://github.com/Guru-raghav3245/QuickMath_Kids) to [nzcv/QuickMath_Kids](https://github.com/nzcv/QuickMath_Kids)
+  > Repo for Quick Math Kids, a math quiz app with a twist
+- 🍴 👤 [nzcv](https://github.com/nzcv) Forked [parvathyAM/kids_quiz](https://github.com/parvathyAM/kids_quiz) to [nzcv/kids_quiz](https://github.com/nzcv/kids_quiz)
 
 ### [pinwhell](https://github.com/pinwhell)
 - ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/mm](https://github.com/pinwhell/mm)
@@ -307,6 +332,10 @@
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [SnowCity233/exercise](https://github.com/SnowCity233/exercise)
   > 高中数学之旅习题集
 
+### [reveng007](https://github.com/reveng007)
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [RussianPanda95/Yara-Rules](https://github.com/RussianPanda95/Yara-Rules)
+  > Repository of Yara Rules
+
 ### [riusksk](https://github.com/riusksk)
 - 🌟 👤 [riusksk](https://github.com/riusksk) Starred [agno-agi/agno](https://github.com/agno-agi/agno)
   > High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems i...
@@ -314,6 +343,10 @@
 ### [roadwy](https://github.com/roadwy)
 - 🌟 👤 [roadwy](https://github.com/roadwy) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
   > A headless, extendable, multi-session, IDA Pro MCP framework.
+
+### [std-microblock](https://github.com/std-microblock)
+- 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend)
+  > FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。
 
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [wl56012102/PicoKVM](https://github.com/wl56012102/PicoKVM)
@@ -371,6 +404,10 @@
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
   > Decompiler written in Rust
 
+### [zhangyoufu](https://github.com/zhangyoufu)
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [BillyCurtis/Intel-I226-V-NVM-Firmware](https://github.com/BillyCurtis/Intel-I226-V-NVM-Firmware)
+  > Intel I225-V / I226-V NVM Firmware
+
 ### [zhaotianff](https://github.com/zhaotianff)
 - 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
   > Wan: Open and Advanced Large-Scale Video Generative Models
@@ -380,5 +417,5 @@
 
 
 ---
-*最后更新于 2025-09-22 05:41:37 UTC*
+*最后更新于 2025-09-22 06:35:52 UTC*
 *历史记录保存在 `archive` 目录中。*
