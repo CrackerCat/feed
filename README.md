@@ -60,10 +60,6 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits)
   > This project describes Telegram limitations
 
-### [LabGuy94](https://github.com/LabGuy94)
-- 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [SamuelTulach/LightHook](https://github.com/SamuelTulach/LightHook)
-  > Single-header, minimalistic, cross-platform hook library written in pure C
-
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
   > Wan: Open and Advanced Large-Scale Video Generative Models
@@ -138,10 +134,6 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [yan5xu/ququ](https://github.com/yan5xu/ququ)
   > 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
-
-### [SmartKeyerror](https://github.com/SmartKeyerror)
-- 🌟 👤 [SmartKeyerror](https://github.com/SmartKeyerror) Starred [warehouse-pg/warehouse-pg](https://github.com/warehouse-pg/warehouse-pg)
-  > An Open Source alternative to the Greenplum® Database
 
 ### [Sndav](https://github.com/Sndav)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [zodiacon/WindowsInternals](https://github.com/zodiacon/WindowsInternals)
@@ -343,16 +335,6 @@
   > A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy e...
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [tijme/angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner) to [gmh5225/angularjs-csti-scanner](https://github.com/gmh5225/angularjs-csti-scanner)
-  > Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NorthwaveSecurity/fridax](https://github.com/NorthwaveSecurity/fridax) to [gmh5225/fridax](https://github.com/gmh5225/fridax)
-  > Fridax enables you to read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compil...
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [MilesPhoka/IP-Vortex](https://github.com/MilesPhoka/IP-Vortex) to [gmh5225/IP-Vortex](https://github.com/gmh5225/IP-Vortex)
-  > This tool provides a sophisticated yet easy-to-use solution for maintaining anonymity during securit...
-- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [pytorch/torchtitan](https://github.com/pytorch/torchtitan)
-  > A PyTorch native platform for training generative AI models
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) to [gmh5225/BrowserOS](https://github.com/gmh5225/BrowserOS)
-  > BrowserOS is an open-source agentic web browser.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mattgodbolt/cppcon-2025-some-assembly-required](https://github.com/mattgodbolt/cppcon-2025-some-assembly-required) to [gmh5225/cppcon-2025-some-assembly-required](https://github.com/gmh5225/cppcon-2025-some-assembly-required)
   > Slides for a my CppCon 2025 talk
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg) to [gmh5225/kreuzberg](https://github.com/gmh5225/kreuzberg)
@@ -425,6 +407,10 @@
   > 💫 Toolkit to help you get started with Spec-Driven Development
 - 🌟 👤 [icew4y](https://github.com/icew4y) Starred [github/spec-kit](https://github.com/github/spec-kit)
   > 💫 Toolkit to help you get started with Spec-Driven Development
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HelixDB/helix-db](https://github.com/HelixDB/helix-db)
+  > HelixDB is a database built from scratch to be the backend for any AI application.
 
 ### [israel-dryer](https://github.com/israel-dryer)
 - ✨ 👤 [israel-dryer](https://github.com/israel-dryer) Created new repo [israel-dryer/adventures-in-faith](https://github.com/israel-dryer/adventures-in-faith)
@@ -736,5 +722,5 @@
 
 
 ---
-*最后更新于 2025-09-22 16:29:31 UTC*
+*最后更新于 2025-09-22 16:46:52 UTC*
 *历史记录保存在 `archive` 目录中。*
