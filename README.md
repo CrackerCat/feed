@@ -8,6 +8,10 @@
 - 🌟 👤 [AD1024](https://github.com/AD1024) Starred [sambanova/toolbench](https://github.com/sambanova/toolbench)
   > ToolBench, an evaluation suite for LLM tool manipulation capabilities. 
 
+### [AshenOneYe](https://github.com/AshenOneYe)
+- 🌟 👤 [AshenOneYe](https://github.com/AshenOneYe) Starred [bluesadi/Pluto](https://github.com/bluesadi/Pluto)
+  > Obfuscator based on LLVM 14.0.6
+
 ### [Benjamin-Dobell](https://github.com/Benjamin-Dobell)
 - ✨ 👤 [Benjamin-Dobell](https://github.com/Benjamin-Dobell) Created new repo [BreakaClub/tsgo-bug-pkg1](https://github.com/BreakaClub/tsgo-bug-pkg1)
 
@@ -118,6 +122,10 @@
 ### [VonChange](https://github.com/VonChange)
 - 🌟 👤 [VonChange](https://github.com/VonChange) Starred [VonChange/utao-gecko](https://github.com/VonChange/utao-gecko)
   > 油桃TV火狐版
+
+### [ZephrFish](https://github.com/ZephrFish)
+- 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [boku7/injectEtwBypass](https://github.com/boku7/injectEtwBypass)
+  > CobaltStrike BOF - Inject ETW Bypass into Remote Process via Syscalls (HellsGate|HalosGate)
 
 ### [ahkehra](https://github.com/ahkehra)
 - 🍴 👤 [ahkehra](https://github.com/ahkehra) Forked [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches) to [ahkehra/revanced-patches](https://github.com/ahkehra/revanced-patches)
@@ -343,6 +351,10 @@
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
   > Efficient Reasoning Vision Language Models （NeurIPS 2025)
 
+### [jpacg](https://github.com/jpacg)
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [elvishew/xLog](https://github.com/elvishew/xLog)
+  > Android logger, pretty, powerful and flexible, log to everywhere, save to file, all you want is here...
+
 ### [jweny](https://github.com/jweny)
 - 🌟 👤 [jweny](https://github.com/jweny) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
@@ -380,6 +392,10 @@
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [LiEnby/psvita-elfs](https://github.com/LiEnby/psvita-elfs)
   > PSVita Decrypted ELFS for various firmwares (For reversing)
 
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal)
+  > no_std Hardware Abstraction Layers for ESP32 microcontrollers
+
 ### [nzcv](https://github.com/nzcv)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [Iankkkk/QuizFoot](https://github.com/Iankkkk/QuizFoot) to [nzcv/QuizFoot](https://github.com/nzcv/QuizFoot)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [abuanwar072/Quiz-App-Flutter](https://github.com/abuanwar072/Quiz-App-Flutter) to [nzcv/Quiz-App-Flutter](https://github.com/nzcv/Quiz-App-Flutter)
@@ -415,6 +431,8 @@
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [RussianPanda95/Yara-Rules](https://github.com/RussianPanda95/Yara-Rules)
   > Repository of Yara Rules
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [SlimKQL/Hunting-Queries-Detection-Rules](https://github.com/SlimKQL/Hunting-Queries-Detection-Rules)
+  > KQL Queries. Microsoft Defender, Microsoft Sentinel
 
 ### [riusksk](https://github.com/riusksk)
 - 🌟 👤 [riusksk](https://github.com/riusksk) Starred [agno-agi/agno](https://github.com/agno-agi/agno)
@@ -423,6 +441,14 @@
 ### [roadwy](https://github.com/roadwy)
 - 🌟 👤 [roadwy](https://github.com/roadwy) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
   > A headless, extendable, multi-session, IDA Pro MCP framework.
+
+### [shadow3aaa](https://github.com/shadow3aaa)
+- ✨ 👤 [shadow3aaa](https://github.com/shadow3aaa) Created new repo [shadow3aaa/prism-player](https://github.com/shadow3aaa/prism-player)
+- 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [shadow3aaa/prism-player](https://github.com/shadow3aaa/prism-player)
+
+### [ssfdust](https://github.com/ssfdust)
+- 🌟 👤 [ssfdust](https://github.com/ssfdust) Starred [lilydjwg/pacfiles](https://github.com/lilydjwg/pacfiles)
+  > A pacman -F alternative that runs blazingly fast
 
 ### [std-microblock](https://github.com/std-microblock)
 - 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend)
@@ -456,6 +482,8 @@
   > Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs)
   > Rust library for build scripts to compile C/C++ code into a Rust library
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [fitzgen/bindgen-tutorial-bzip2-sys](https://github.com/fitzgen/bindgen-tutorial-bzip2-sys)
+  > A tutorial/example crate for generating C/C++ bindings on-the-fly with libbindgen
 
 ### [v9d0g](https://github.com/v9d0g)
 - 🌟 👤 [v9d0g](https://github.com/v9d0g) Starred [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
@@ -478,6 +506,9 @@
 ### [wxhzhwxhzh](https://github.com/wxhzhwxhzh)
 - ✨ 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Created new repo [wxhzhwxhzh/nav](https://github.com/wxhzhwxhzh/nav)
   > 导航网站
+
+### [ydf0509](https://github.com/ydf0509)
+- ✨ 👤 [ydf0509](https://github.com/ydf0509) Created new repo [ydf0509/funboost_git_pages](https://github.com/ydf0509/funboost_git_pages)
 
 ### [yichen115](https://github.com/yichen115)
 - 🌟 👤 [yichen115](https://github.com/yichen115) Starred [Bin4ry/UniPwn](https://github.com/Bin4ry/UniPwn)
@@ -511,5 +542,5 @@
 
 
 ---
-*最后更新于 2025-09-22 08:31:54 UTC*
+*最后更新于 2025-09-22 09:27:52 UTC*
 *历史记录保存在 `archive` 目录中。*
