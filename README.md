@@ -74,6 +74,10 @@
 - 🌟 👤 [SmartKeyerror](https://github.com/SmartKeyerror) Starred [warehouse-pg/warehouse-pg](https://github.com/warehouse-pg/warehouse-pg)
   > An Open Source alternative to the Greenplum® Database
 
+### [Sndav](https://github.com/Sndav)
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [zodiacon/WindowsInternals](https://github.com/zodiacon/WindowsInternals)
+  > Windows Internals Book 7th edition Tools
+
 ### [THISISAGOODNAME](https://github.com/THISISAGOODNAME)
 - 🌟 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Starred [LiangliangNan/Easy3D](https://github.com/LiangliangNan/Easy3D)
   > A lightweight, easy-to-use, and efficient library for processing and rendering 3D data (C++ & Python...
@@ -130,6 +134,8 @@
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [antiwork/mediaconverter](https://github.com/antiwork/mediaconverter)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go)
+  > Fault tolerance and resilience patterns for Go
 
 ### [fei-ke](https://github.com/fei-ke)
 - 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [lasting-yang/frida_dump](https://github.com/lasting-yang/frida_dump)
@@ -209,6 +215,14 @@
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [a2aproject/a2a-samples](https://github.com/a2aproject/a2a-samples)
   > Samples using the Agent2Agent (A2A) Protocol
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [makeplane/plane](https://github.com/makeplane/plane)
+  > 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, ep...
+
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop)
+  > Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [Wilsonoonn/n8n_nl2sql](https://github.com/Wilsonoonn/n8n_nl2sql)
+  > 这是一个 n8n nl2sql 的工作流，将自然语言问题转化为可执行的 SQL 查询。以一个智能数据助手嵌入 web 系统中，能查询数据库，并为数据提供可视化图表。
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation)
@@ -233,6 +247,10 @@
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - 🌟 👤 [jweny](https://github.com/jweny) Starred [AidenZuk/cursor_rules](https://github.com/AidenZuk/cursor_rules)
   > 自己用的好用的cursor 规则，每个项目我都会先加上这个
+
+### [leavesCZY](https://github.com/leavesCZY)
+- 🌟 👤 [leavesCZY](https://github.com/leavesCZY) Starred [eglfiv/typora-activation](https://github.com/eglfiv/typora-activation)
+  > Typora最新的激活破解方案，三步即激活。 😊实时更新中/👩‍🎓学生党必备，有条件支持正版的请不要点开🔞🈲️。Activate Typora
 
 ### [lgw1995](https://github.com/lgw1995)
 - ✨ 👤 [lgw1995](https://github.com/lgw1995) Created new repo [lgw1995/mermaid-](https://github.com/lgw1995/mermaid-)
@@ -308,6 +326,10 @@
 - 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [tklengyel/drakvuf](https://github.com/tklengyel/drakvuf)
   > DRAKVUF Black-box Binary Analysis
 
+### [wxhzhwxhzh](https://github.com/wxhzhwxhzh)
+- ✨ 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Created new repo [wxhzhwxhzh/nav](https://github.com/wxhzhwxhzh/nav)
+  > 导航网站
+
 ### [yichen115](https://github.com/yichen115)
 - 🌟 👤 [yichen115](https://github.com/yichen115) Starred [Bin4ry/UniPwn](https://github.com/Bin4ry/UniPwn)
 
@@ -328,5 +350,5 @@
 
 
 ---
-*最后更新于 2025-09-22 04:27:25 UTC*
+*最后更新于 2025-09-22 04:44:36 UTC*
 *历史记录保存在 `archive` 目录中。*
