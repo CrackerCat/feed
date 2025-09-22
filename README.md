@@ -11,6 +11,8 @@
 ### [AshenOneYe](https://github.com/AshenOneYe)
 - 🌟 👤 [AshenOneYe](https://github.com/AshenOneYe) Starred [bluesadi/Pluto](https://github.com/bluesadi/Pluto)
   > Obfuscator based on LLVM 14.0.6
+- 🌟 👤 [AshenOneYe](https://github.com/AshenOneYe) Starred [heroims/obfuscator](https://github.com/heroims/obfuscator)
+  > ollvm，base on llvm-clang 5.0.2, 6.0.1 , 7.0.1,8.0,9.0,9.0.1,10.x,11.x,12.x,13.x,14.x,swift-llvm-clan...
 
 ### [Benjamin-Dobell](https://github.com/Benjamin-Dobell)
 - ✨ 👤 [Benjamin-Dobell](https://github.com/Benjamin-Dobell) Created new repo [BreakaClub/tsgo-bug-pkg1](https://github.com/BreakaClub/tsgo-bug-pkg1)
@@ -28,6 +30,10 @@
   > Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.
 - 🍴 👤 [FANGG3](https://github.com/FANGG3) Forked [Magisk-Modules-Alt-Repo/mkshrc](https://github.com/Magisk-Modules-Alt-Repo/mkshrc) to [FANGG3/mkshrc](https://github.com/FANGG3/mkshrc)
   > Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.
+
+### [FBLeee](https://github.com/FBLeee)
+- 🌟 👤 [FBLeee](https://github.com/FBLeee) Starred [taisuii/rusda](https://github.com/taisuii/rusda)
+  > 对frida 16.2.1的patch
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits)
@@ -205,6 +211,8 @@
   > ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
   > Information gathering framework for phone numbers
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [erlang/otp](https://github.com/erlang/otp)
+  > Erlang/OTP
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [killbill/killbill](https://github.com/killbill/killbill)
@@ -441,6 +449,8 @@
 ### [roadwy](https://github.com/roadwy)
 - 🌟 👤 [roadwy](https://github.com/roadwy) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
   > A headless, extendable, multi-session, IDA Pro MCP framework.
+- 🌟 👤 [roadwy](https://github.com/roadwy) Starred [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
+  > A collection of links related to Linux kernel security and exploitation
 
 ### [shadow3aaa](https://github.com/shadow3aaa)
 - ✨ 👤 [shadow3aaa](https://github.com/shadow3aaa) Created new repo [shadow3aaa/prism-player](https://github.com/shadow3aaa/prism-player)
@@ -542,5 +552,5 @@
 
 
 ---
-*最后更新于 2025-09-22 09:27:52 UTC*
+*最后更新于 2025-09-22 09:45:03 UTC*
 *历史记录保存在 `archive` 目录中。*
