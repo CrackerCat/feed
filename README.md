@@ -108,6 +108,10 @@
 - 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [SamuelTulach/LightHook](https://github.com/SamuelTulach/LightHook)
   > Single-header, minimalistic, cross-platform hook library written in pure C
 
+### [No-Github](https://github.com/No-Github)
+- 🍴 👤 [No-Github](https://github.com/No-Github) Forked [kucherenko/jscpd](https://github.com/kucherenko/jscpd) to [No-Github/jscpd](https://github.com/No-Github/jscpd)
+  > Copy/paste detector for programming source code.
+
 ### [PIKACHUIM](https://github.com/PIKACHUIM)
 - 🌟 👤 [PIKACHUIM](https://github.com/PIKACHUIM) Starred [Suxiaoqinx/Netease_url](https://github.com/Suxiaoqinx/Netease_url)
   > 网易云无损解析
@@ -535,6 +539,8 @@
 ### [pen4uin](https://github.com/pen4uin)
 - 🌟 👤 [pen4uin](https://github.com/pen4uin) Starred [wietze/HijackLibs](https://github.com/wietze/HijackLibs)
   > Project for tracking publicly disclosed DLL Hijacking opportunities.
+- 🌟 👤 [pen4uin](https://github.com/pen4uin) Starred [wietze/ArgFuscator.net](https://github.com/wietze/ArgFuscator.net)
+  > ArgFuscator.net is an open-source, stand-alone web application that helps generate obfuscated comman...
 
 ### [pilgun](https://github.com/pilgun)
 - 🌟 👤 [pilgun](https://github.com/pilgun) Starred [lolo-io/OneList](https://github.com/lolo-io/OneList)
@@ -725,5 +731,5 @@
 
 
 ---
-*最后更新于 2025-09-22 14:24:07 UTC*
+*最后更新于 2025-09-22 14:44:53 UTC*
 *历史记录保存在 `archive` 目录中。*
