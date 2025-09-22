@@ -144,6 +144,8 @@
   > Fault tolerance and resilience patterns for Go
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [megadose/ignorant](https://github.com/megadose/ignorant)
   > ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
+  > Information gathering framework for phone numbers
 
 ### [fei-ke](https://github.com/fei-ke)
 - 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [lasting-yang/frida_dump](https://github.com/lasting-yang/frida_dump)
@@ -237,6 +239,10 @@
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation)
   > A curated list of awesome privilege escalation
+
+### [icew4y](https://github.com/icew4y)
+- 🍴 👤 [icew4y](https://github.com/icew4y) Forked [github/spec-kit](https://github.com/github/spec-kit) to [icew4y/spec-kit](https://github.com/icew4y/spec-kit)
+  > 💫 Toolkit to help you get started with Spec-Driven Development
 
 ### [israel-dryer](https://github.com/israel-dryer)
 - ✨ 👤 [israel-dryer](https://github.com/israel-dryer) Created new repo [israel-dryer/adventures-in-faith](https://github.com/israel-dryer/adventures-in-faith)
@@ -374,5 +380,5 @@
 
 
 ---
-*最后更新于 2025-09-22 05:22:34 UTC*
+*最后更新于 2025-09-22 05:41:37 UTC*
 *历史记录保存在 `archive` 目录中。*
