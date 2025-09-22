@@ -19,6 +19,12 @@
 - 🌟 👤 [CyberSecurityUP](https://github.com/CyberSecurityUP) Starred [cywr/android-re-ctfs](https://github.com/cywr/android-re-ctfs)
   > Reverse engineering CTFs.
 
+### [FANGG3](https://github.com/FANGG3)
+- 🌟 👤 [FANGG3](https://github.com/FANGG3) Starred [Magisk-Modules-Alt-Repo/mkshrc](https://github.com/Magisk-Modules-Alt-Repo/mkshrc)
+  > Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.
+- 🍴 👤 [FANGG3](https://github.com/FANGG3) Forked [Magisk-Modules-Alt-Repo/mkshrc](https://github.com/Magisk-Modules-Alt-Repo/mkshrc) to [FANGG3/mkshrc](https://github.com/FANGG3/mkshrc)
+  > Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits)
   > This project describes Telegram limitations
@@ -95,6 +101,10 @@
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [Hintay/py-enigma](https://github.com/Hintay/py-enigma)
   > The Enigma Protector API for Python
 
+### [TheKingOfDuck](https://github.com/TheKingOfDuck)
+- 🌟 👤 [TheKingOfDuck](https://github.com/TheKingOfDuck) Starred [TheKingOfDuck/xlogger](https://github.com/TheKingOfDuck/xlogger)
+  > Log all keyboard and terminal input/output for any app 记录任意程序的键盘输入和终端输入输出
+
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme)
   > 🎨 A secure boot compatible in-memory UxTheme patcher
@@ -148,8 +158,19 @@
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [kerbyj/goLazagne](https://github.com/kerbyj/goLazagne)
   > Go library for credentials recovery 
 
+### [cd-Crypton](https://github.com/cd-Crypton)
+- 🍴 👤 [cd-Crypton](https://github.com/cd-Crypton) Forked [SavedByLight/android_kernel_samsung_m55xq](https://github.com/SavedByLight/android_kernel_samsung_m55xq) to [cd-Crypton/kernel_samsung_m55xq](https://github.com/cd-Crypton/kernel_samsung_m55xq)
+
+### [cn-kali-team](https://github.com/cn-kali-team)
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [openai/openai-go](https://github.com/openai/openai-go)
+  > The official Go library for the OpenAI API
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [openai/codex](https://github.com/openai/codex)
+  > Lightweight coding agent that runs in your terminal
+
 ### [coderstory](https://github.com/coderstory)
 - 🍴 👤 [coderstory](https://github.com/coderstory) Forked [ShirkNeko/GKI_KernelSU_SUSFS](https://github.com/ShirkNeko/GKI_KernelSU_SUSFS) to [coderstory/GKI_KernelSU_SUSFS](https://github.com/coderstory/GKI_KernelSU_SUSFS)
+  > 使用 SukiSU 和 SUSFS 的 GKI 内核
+- 🍴 👤 [coderstory](https://github.com/coderstory) Forked [elysias123/GKI_KernelSU_SUSFS](https://github.com/elysias123/GKI_KernelSU_SUSFS) to [coderstory/GKI_KernelSU_SUSFS](https://github.com/coderstory/GKI_KernelSU_SUSFS)
   > 使用 SukiSU 和 SUSFS 的 GKI 内核
 
 ### [codingsf](https://github.com/codingsf)
@@ -186,6 +207,8 @@
   > 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
 - 🍴 👤 [everettjf](https://github.com/everettjf) Forked [yan5xu/ququ](https://github.com/yan5xu/ququ) to [everettjf/ququ](https://github.com/everettjf/ququ)
   > 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [hydropix/TranslateBookWithLLM](https://github.com/hydropix/TranslateBookWithLLM)
+  > A python script designed to translate large amounts of text with an LLM and the Ollama API
 
 ### [fanzhidongyzby](https://github.com/fanzhidongyzby)
 - 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
@@ -200,6 +223,8 @@
   > Google H*ck is a module designed to bypass play integrity checks, especially for China Roms, and off...
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) to [feicong/PlayIntegrityFork](https://github.com/feicong/PlayIntegrityFork)
   > Fix Play Integrity <A13 verdicts, allowing custom fields and props
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) to [feicong/LSPosed-Irena](https://github.com/feicong/LSPosed-Irena)
+  > Useless LSPosed Framework Fork
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
@@ -273,6 +298,12 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cywr/android-malware](https://github.com/cywr/android-malware) to [gmh5225/android-malware](https://github.com/gmh5225/android-malware)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Scale3-Labs/dspyground](https://github.com/Scale3-Labs/dspyground) to [gmh5225/dspyground](https://github.com/gmh5225/dspyground)
   > A tool kit for generating high quality prompts for AISDK using DSPy GEPA optimizer
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [browseros-ai/BrowserOS-agent](https://github.com/browseros-ai/BrowserOS-agent) to [gmh5225/BrowserOS-agent](https://github.com/gmh5225/BrowserOS-agent)
+  > This is just the submodule of browserOS agent; MAIN REPO: https://github.com/browseros-ai/BrowserOS
+
+### [h4sh5](https://github.com/h4sh5)
+- 🌟 👤 [h4sh5](https://github.com/h4sh5) Starred [rxi/sj.h](https://github.com/rxi/sj.h)
+  > A tiny little JSON parsing library
 
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [a2aproject/a2a-samples](https://github.com/a2aproject/a2a-samples)
@@ -329,6 +360,10 @@
 ### [lgw1995](https://github.com/lgw1995)
 - ✨ 👤 [lgw1995](https://github.com/lgw1995) Created new repo [lgw1995/mermaid-](https://github.com/lgw1995/mermaid-)
 
+### [merlinxcy](https://github.com/merlinxcy)
+- 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [CoinQuanta/awesome-crypto-api](https://github.com/CoinQuanta/awesome-crypto-api)
+  > A collaborative list of cryptocurrency APIs
+
 ### [mos9527](https://github.com/mos9527)
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [DNedic/lockfree](https://github.com/DNedic/lockfree)
   > A collection of lock-free data structures written in standard C++11
@@ -361,6 +396,10 @@
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
   > Decompiler written in Rust
 
+### [pwh-pwh](https://github.com/pwh-pwh)
+- 🌟 👤 [pwh-pwh](https://github.com/pwh-pwh) Starred [pwh-pwh/walrus_store](https://github.com/pwh-pwh/walrus_store)
+  > Walrus 云盘客户端
+
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [leaningtech/webvm](https://github.com/leaningtech/webvm)
   > Virtual Machine for the Web
@@ -368,6 +407,10 @@
   > Metamorphic cross-compilation of C++ & C-code to PIC, BOF & EXE. 
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [SnowCity233/exercise](https://github.com/SnowCity233/exercise)
   > 高中数学之旅习题集
+
+### [rbaron](https://github.com/rbaron)
+- 🌟 👤 [rbaron](https://github.com/rbaron) Starred [rxi/sj.h](https://github.com/rxi/sj.h)
+  > A tiny little JSON parsing library
 
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [RussianPanda95/Yara-Rules](https://github.com/RussianPanda95/Yara-Rules)
@@ -443,9 +486,17 @@
 - 🌟 👤 [yulate](https://github.com/yulate) Starred [pascal-lab/NullPath](https://github.com/pascal-lab/NullPath)
   > NullPath: A static analysis tool for detecting NullPointerException (NPE) issues in Java code, built...
 
+### [yux1azhengye](https://github.com/yux1azhengye)
+- 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
+  > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
   > Decompiler written in Rust
+
+### [zhangnew](https://github.com/zhangnew)
+- 🍴 👤 [zhangnew](https://github.com/zhangnew) Forked [CrackerCat/Portal](https://github.com/CrackerCat/Portal) to [zhangnew/AndroidPortal](https://github.com/zhangnew/AndroidPortal)
+  > Android Lab Fake Location Service
 
 ### [zhangyoufu](https://github.com/zhangyoufu)
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [BillyCurtis/Intel-I226-V-NVM-Firmware](https://github.com/BillyCurtis/Intel-I226-V-NVM-Firmware)
@@ -460,5 +511,5 @@
 
 
 ---
-*最后更新于 2025-09-22 07:40:31 UTC*
+*最后更新于 2025-09-22 08:31:54 UTC*
 *历史记录保存在 `archive` 目录中。*
