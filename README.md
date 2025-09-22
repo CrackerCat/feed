@@ -519,6 +519,10 @@
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [compio-rs/compio](https://github.com/compio-rs/compio)
   > A thread-per-core Rust runtime with IOCP/io_uring/polling.
 
+### [oureveryday](https://github.com/oureveryday)
+- 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [hyperium/hyper](https://github.com/hyperium/hyper)
+  > An HTTP library for Rust
+
 ### [paradiseduo](https://github.com/paradiseduo)
 - 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [tzmax/V2RayXS](https://github.com/tzmax/V2RayXS)
   > GUI for xray-core on macOS
@@ -551,8 +555,6 @@
   > An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer...
 
 ### [rankalpha](https://github.com/rankalpha)
-- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [tijme/dittobytes](https://github.com/tijme/dittobytes) to [rankalpha/dittobytes](https://github.com/rankalpha/dittobytes)
-  > Metamorphic cross-compilation of C++ & C-code to PIC, BOF & EXE. 
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [SnowCity233/exercise](https://github.com/SnowCity233/exercise)
   > 高中数学之旅习题集
 
@@ -720,5 +722,5 @@
 
 
 ---
-*最后更新于 2025-09-22 22:20:28 UTC*
+*最后更新于 2025-09-22 22:40:28 UTC*
 *历史记录保存在 `archive` 目录中。*
