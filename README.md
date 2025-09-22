@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [0x3f97](https://github.com/0x3f97)
+- 🌟 👤 [0x3f97](https://github.com/0x3f97) Starred [accretion-xyz/solana-data-reverser](https://github.com/accretion-xyz/solana-data-reverser)
+
 ### [AD1024](https://github.com/AD1024)
 - 🌟 👤 [AD1024](https://github.com/AD1024) Starred [sambanova/toolbench](https://github.com/sambanova/toolbench)
   > ToolBench, an evaluation suite for LLM tool manipulation capabilities. 
@@ -25,6 +28,14 @@
 - 🌟 👤 [CyberSecurityUP](https://github.com/CyberSecurityUP) Starred [cywr/android-re-ctfs](https://github.com/cywr/android-re-ctfs)
   > Reverse engineering CTFs.
 
+### [Datalux](https://github.com/Datalux)
+- 🌟 👤 [Datalux](https://github.com/Datalux) Starred [marcellomaugeri/BenGQL](https://github.com/marcellomaugeri/BenGQL)
+  > [ASE'25 Tool Track] BenGQL provides a benchmarking framework for automated testing of GraphQL applic...
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [roundedrectangle/harbour-streamfish](https://github.com/roundedrectangle/harbour-streamfish)
+  > A simple IPTV streaming application for SailfishOS
+
 ### [FANGG3](https://github.com/FANGG3)
 - 🌟 👤 [FANGG3](https://github.com/FANGG3) Starred [Magisk-Modules-Alt-Repo/mkshrc](https://github.com/Magisk-Modules-Alt-Repo/mkshrc)
   > Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.
@@ -42,6 +53,10 @@
 ### [LabGuy94](https://github.com/LabGuy94)
 - 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [SamuelTulach/LightHook](https://github.com/SamuelTulach/LightHook)
   > Single-header, minimalistic, cross-platform hook library written in pure C
+
+### [M0Rf30](https://github.com/M0Rf30)
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
+  > Wan: Open and Advanced Large-Scale Video Generative Models
 
 ### [MartinKayJr](https://github.com/MartinKayJr)
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [shouzhong/Scanner](https://github.com/shouzhong/Scanner)
@@ -272,6 +287,10 @@
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) to [feicong/LSPosed-Irena](https://github.com/feicong/LSPosed-Irena)
   > Useless LSPosed Framework Fork
 
+### [fishso](https://github.com/fishso)
+- 🌟 👤 [fishso](https://github.com/fishso) Starred [Domilopment/apk-extractor](https://github.com/Domilopment/apk-extractor)
+  > A Simple Modern APK Extractor App
+
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
   > Just like TextEdit on Mac but dedicated to Markdown.
@@ -363,6 +382,8 @@
   > 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, ep...
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
   > Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the d...
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [flipperzero-rs/flipperzero-template](https://github.com/flipperzero-rs/flipperzero-template)
+  > A template for starting a flipperzero-rs project for the Flipper Zero🐬
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop)
@@ -373,6 +394,10 @@
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation)
   > A curated list of awesome privilege escalation
+
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [pedrolcl/VMPK](https://github.com/pedrolcl/VMPK) to [hzqst/VMPK](https://github.com/hzqst/VMPK)
+  > Virtual MIDI Piano Keyboard (Mirror)
 
 ### [icew4y](https://github.com/icew4y)
 - 🍴 👤 [icew4y](https://github.com/icew4y) Forked [github/spec-kit](https://github.com/github/spec-kit) to [icew4y/spec-kit](https://github.com/icew4y/spec-kit)
@@ -393,6 +418,8 @@
   > A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [dvlab-research/VisionThink](https://github.com/dvlab-research/VisionThink)
   > Efficient Reasoning Vision Language Models （NeurIPS 2025)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [LIU42/TrafficRules](https://github.com/LIU42/TrafficRules)
+  > 基于 YOLO11 的路口交通信号灯通行规则识别。
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [elvishew/xLog](https://github.com/elvishew/xLog)
@@ -403,6 +430,10 @@
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - 🌟 👤 [jweny](https://github.com/jweny) Starred [AidenZuk/cursor_rules](https://github.com/AidenZuk/cursor_rules)
   > 自己用的好用的cursor 规则，每个项目我都会先加上这个
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp)
+  > A simple, locally hosted Web Search MCP server for use with Local LLMs
 
 ### [kingking888](https://github.com/kingking888)
 - 🌟 👤 [kingking888](https://github.com/kingking888) Starred [wrlu/jebmcp](https://github.com/wrlu/jebmcp)
@@ -444,6 +475,10 @@
   > The Rust bits in mitmproxy. 🦀
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [PyO3/maturin](https://github.com/PyO3/maturin)
   > Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python pack...
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [enetx/surf](https://github.com/enetx/surf)
+  > SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerpri...
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [enetx/g](https://github.com/enetx/g)
+  > Functional programming framework for Golang.
 
 ### [ntpopgetdope](https://github.com/ntpopgetdope)
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [LiEnby/psvita-elfs](https://github.com/LiEnby/psvita-elfs)
@@ -468,6 +503,10 @@
 ### [paradiseduo](https://github.com/paradiseduo)
 - 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [tzmax/V2RayXS](https://github.com/tzmax/V2RayXS)
   > GUI for xray-core on macOS
+- 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [yaoguen/IDAHook](https://github.com/yaoguen/IDAHook)
+  > 专为 Windows 平台设计的 API Hook 与汉化框架
+- 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
+  > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
 ### [pinwhell](https://github.com/pinwhell)
 - ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/mm](https://github.com/pinwhell/mm)
@@ -512,6 +551,8 @@
 ### [rogxo](https://github.com/rogxo)
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [276793422/MicrosoftSymbolServerProxy](https://github.com/276793422/MicrosoftSymbolServerProxy)
   > 微软符号服务器的一个跳板
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [LabGuy94/Diskjacker](https://github.com/LabGuy94/Diskjacker)
+  > Runtime Hyper-V Hijacking with DDMA
 
 ### [shadow3aaa](https://github.com/shadow3aaa)
 - ✨ 👤 [shadow3aaa](https://github.com/shadow3aaa) Created new repo [shadow3aaa/prism-player](https://github.com/shadow3aaa/prism-player)
@@ -585,10 +626,16 @@
   > This is the loader that supports running a program with Protected Process Light (PPL) protection fun...
 - 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [tklengyel/drakvuf](https://github.com/tklengyel/drakvuf)
   > DRAKVUF Black-box Binary Analysis
+- 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
+  > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
 ### [wxhzhwxhzh](https://github.com/wxhzhwxhzh)
 - ✨ 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Created new repo [wxhzhwxhzh/nav](https://github.com/wxhzhwxhzh/nav)
   > 导航网站
+
+### [xyxdaily](https://github.com/xyxdaily)
+- 🍴 👤 [xyxdaily](https://github.com/xyxdaily) Forked [AndroidCrypto/Android_HCE_Beginner_App](https://github.com/AndroidCrypto/Android_HCE_Beginner_App) to [xyxdaily/Android_HCE_Beginner_App](https://github.com/xyxdaily/Android_HCE_Beginner_App)
+  > The app includes a Host-Based Card Emulated (HCE) NFC tag and the associated NFC reader. You learn h...
 
 ### [ydf0509](https://github.com/ydf0509)
 - ✨ 👤 [ydf0509](https://github.com/ydf0509) Created new repo [ydf0509/funboost_git_pages](https://github.com/ydf0509/funboost_git_pages)
@@ -634,5 +681,5 @@
 
 
 ---
-*最后更新于 2025-09-22 11:39:42 UTC*
+*最后更新于 2025-09-22 12:49:15 UTC*
 *历史记录保存在 `archive` 目录中。*
