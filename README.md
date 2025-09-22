@@ -131,6 +131,8 @@
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [Makememo/MemoAI](https://github.com/Makememo/MemoAI)
   > MemoAI Video to translated text, subtitles and notes made easy.
+- 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc)
+  > 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [byt3n33dl3/thc-jennifer](https://github.com/byt3n33dl3/thc-jennifer)
@@ -174,6 +176,10 @@
   > ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
   > Information gathering framework for phone numbers
+
+### [easychen](https://github.com/easychen)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [killbill/killbill](https://github.com/killbill/killbill)
+  > Open-Source Subscription Billing & Payments Platform
 
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [yan5xu/ququ](https://github.com/yan5xu/ququ)
@@ -289,6 +295,8 @@
 ### [icew4y](https://github.com/icew4y)
 - 🍴 👤 [icew4y](https://github.com/icew4y) Forked [github/spec-kit](https://github.com/github/spec-kit) to [icew4y/spec-kit](https://github.com/icew4y/spec-kit)
   > 💫 Toolkit to help you get started with Spec-Driven Development
+- 🌟 👤 [icew4y](https://github.com/icew4y) Starred [github/spec-kit](https://github.com/github/spec-kit)
+  > 💫 Toolkit to help you get started with Spec-Driven Development
 
 ### [israel-dryer](https://github.com/israel-dryer)
 - ✨ 👤 [israel-dryer](https://github.com/israel-dryer) Created new repo [israel-dryer/adventures-in-faith](https://github.com/israel-dryer/adventures-in-faith)
@@ -343,6 +351,7 @@
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [Guru-raghav3245/QuickMath_Kids](https://github.com/Guru-raghav3245/QuickMath_Kids) to [nzcv/QuickMath_Kids](https://github.com/nzcv/QuickMath_Kids)
   > Repo for Quick Math Kids, a math quiz app with a twist
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [parvathyAM/kids_quiz](https://github.com/parvathyAM/kids_quiz) to [nzcv/kids_quiz](https://github.com/nzcv/kids_quiz)
+- 🍴 👤 [nzcv](https://github.com/nzcv) Forked [widget-404/quiz_kidoo](https://github.com/widget-404/quiz_kidoo) to [nzcv/quiz_kidoo](https://github.com/nzcv/quiz_kidoo)
 
 ### [pinwhell](https://github.com/pinwhell)
 - ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/mm](https://github.com/pinwhell/mm)
@@ -451,5 +460,5 @@
 
 
 ---
-*最后更新于 2025-09-22 07:23:50 UTC*
+*最后更新于 2025-09-22 07:40:31 UTC*
 *历史记录保存在 `archive` 目录中。*
