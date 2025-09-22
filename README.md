@@ -88,6 +88,8 @@
 ### [ThatNotEasy](https://github.com/ThatNotEasy)
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [alphaSeclab/injection-stuff](https://github.com/alphaSeclab/injection-stuff)
   > PE Injection、DLL Injection、Process Injection、Thread Injection、Code Injection、Shellcode Injection、ELF...
+- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [Hintay/py-enigma](https://github.com/Hintay/py-enigma)
+  > The Enigma Protector API for Python
 
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme)
@@ -120,6 +122,10 @@
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [kerbyj/goLazagne](https://github.com/kerbyj/goLazagne)
   > Go library for credentials recovery 
 
+### [coderstory](https://github.com/coderstory)
+- 🍴 👤 [coderstory](https://github.com/coderstory) Forked [ShirkNeko/GKI_KernelSU_SUSFS](https://github.com/ShirkNeko/GKI_KernelSU_SUSFS) to [coderstory/GKI_KernelSU_SUSFS](https://github.com/coderstory/GKI_KernelSU_SUSFS)
+  > 使用 SukiSU 和 SUSFS 的 GKI 内核
+
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [idapython/src](https://github.com/idapython/src)
   > IDAPython project for Hex-Ray's IDA Pro
@@ -136,6 +142,8 @@
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [antiwork/mediaconverter](https://github.com/antiwork/mediaconverter)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go)
   > Fault tolerance and resilience patterns for Go
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [megadose/ignorant](https://github.com/megadose/ignorant)
+  > ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.
 
 ### [fei-ke](https://github.com/fei-ke)
 - 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [lasting-yang/frida_dump](https://github.com/lasting-yang/frida_dump)
@@ -217,6 +225,8 @@
   > Samples using the Agent2Agent (A2A) Protocol
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [makeplane/plane](https://github.com/makeplane/plane)
   > 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, ep...
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)
+  > Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the d...
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop)
@@ -248,12 +258,20 @@
 - 🌟 👤 [jweny](https://github.com/jweny) Starred [AidenZuk/cursor_rules](https://github.com/AidenZuk/cursor_rules)
   > 自己用的好用的cursor 规则，每个项目我都会先加上这个
 
+### [kingking888](https://github.com/kingking888)
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [wrlu/jebmcp](https://github.com/wrlu/jebmcp)
+  > A quick-and-dirty MCP server & Plugin for JEB Pro.
+
 ### [leavesCZY](https://github.com/leavesCZY)
 - 🌟 👤 [leavesCZY](https://github.com/leavesCZY) Starred [eglfiv/typora-activation](https://github.com/eglfiv/typora-activation)
   > Typora最新的激活破解方案，三步即激活。 😊实时更新中/👩‍🎓学生党必备，有条件支持正版的请不要点开🔞🈲️。Activate Typora
 
 ### [lgw1995](https://github.com/lgw1995)
 - ✨ 👤 [lgw1995](https://github.com/lgw1995) Created new repo [lgw1995/mermaid-](https://github.com/lgw1995/mermaid-)
+
+### [natsumerinchan](https://github.com/natsumerinchan)
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [Justype/RPGMakerUtils](https://github.com/Justype/RPGMakerUtils)
+  > RPG Maker MV MZ Helper Tools
 
 ### [netxfly](https://github.com/netxfly)
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [mitmproxy/mitmproxy_rs](https://github.com/mitmproxy/mitmproxy_rs)
@@ -266,6 +284,10 @@
 ### [nzcv](https://github.com/nzcv)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [Iankkkk/QuizFoot](https://github.com/Iankkkk/QuizFoot) to [nzcv/QuizFoot](https://github.com/nzcv/QuizFoot)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [abuanwar072/Quiz-App-Flutter](https://github.com/abuanwar072/Quiz-App-Flutter) to [nzcv/Quiz-App-Flutter](https://github.com/nzcv/Quiz-App-Flutter)
+
+### [pinwhell](https://github.com/pinwhell)
+- ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/mm](https://github.com/pinwhell/mm)
+  > A minimal, single-header arena-based memory allocator for C.
 
 ### [plusls](https://github.com/plusls)
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
@@ -307,6 +329,8 @@
   > Minimal rust dll with DllMain
 - ✨ 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Created new repo [un4ckn0wl3z/csv_streaming](https://github.com/un4ckn0wl3z/csv_streaming)
   > csv_streaming
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [Jakobzs/minhook](https://github.com/Jakobzs/minhook)
+  > A Rust wrapper for the MinHook library
 
 ### [v9d0g](https://github.com/v9d0g)
 - 🌟 👤 [v9d0g](https://github.com/v9d0g) Starred [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
@@ -350,5 +374,5 @@
 
 
 ---
-*最后更新于 2025-09-22 04:44:36 UTC*
+*最后更新于 2025-09-22 05:22:34 UTC*
 *历史记录保存在 `archive` 目录中。*
