@@ -9,6 +9,10 @@
 - 🌟 👤 [0x3f97](https://github.com/0x3f97) Starred [Ackee-Blockchain/trident](https://github.com/Ackee-Blockchain/trident)
   > Rust-based framework to Fuzz Solana programs, designed to help you ship secure code.
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools)
+  > A collection of Azure AD/Entra tools for offensive and defensive security purposes
+
 ### [76op](https://github.com/76op)
 - 🌟 👤 [76op](https://github.com/76op) Starred [emilk/egui](https://github.com/emilk/egui)
   > egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
@@ -228,6 +232,10 @@
 - 🌟 👤 [chenwen1126](https://github.com/chenwen1126) Starred [chenwen1126/Qss](https://github.com/chenwen1126/Qss)
   > Qt Style Sheets Library With Custom TitleBar!!!
 
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [cerisier/toolchains_llvm_bootstrapped](https://github.com/cerisier/toolchains_llvm_bootstrapped)
+  > A zero sysroot, fully hermetic C/C++ cross compilation toolchain for Bazel based on LLVM.
+
 ### [chizhanyuefeng](https://github.com/chizhanyuefeng)
 - 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [EvolvingLMMs-Lab/open-r1-multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
   > A fork to add multimodal model training to open-r1
@@ -331,8 +339,6 @@
   > A Simple Modern APK Extractor App
 
 ### [fjh658](https://github.com/fjh658)
-- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
-  > Just like TextEdit on Mac but dedicated to Markdown.
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [MarkEdit-app/MarkEdit-preview](https://github.com/MarkEdit-app/MarkEdit-preview)
   > Markdown preview for MarkEdit.
 
@@ -545,8 +551,6 @@
   > An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer...
 
 ### [rankalpha](https://github.com/rankalpha)
-- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [leaningtech/webvm](https://github.com/leaningtech/webvm)
-  > Virtual Machine for the Web
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [tijme/dittobytes](https://github.com/tijme/dittobytes) to [rankalpha/dittobytes](https://github.com/rankalpha/dittobytes)
   > Metamorphic cross-compilation of C++ & C-code to PIC, BOF & EXE. 
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [SnowCity233/exercise](https://github.com/SnowCity233/exercise)
@@ -716,5 +720,5 @@
 
 
 ---
-*最后更新于 2025-09-22 21:37:58 UTC*
+*最后更新于 2025-09-22 22:20:28 UTC*
 *历史记录保存在 `archive` 目录中。*
