@@ -161,6 +161,10 @@
 - 🌟 👤 [VonChange](https://github.com/VonChange) Starred [VonChange/utao-gecko](https://github.com/VonChange/utao-gecko)
   > 油桃TV火狐版
 
+### [YuKongA](https://github.com/YuKongA)
+- 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [UE4SS-RE/RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS)
+  > Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for...
+
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [boku7/injectEtwBypass](https://github.com/boku7/injectEtwBypass)
   > CobaltStrike BOF - Inject ETW Bypass into Remote Process via Syscalls (HellsGate|HalosGate)
@@ -251,6 +255,8 @@
 ### [duanluan](https://github.com/duanluan)
 - 🌟 👤 [duanluan](https://github.com/duanluan) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+- 🌟 👤 [duanluan](https://github.com/duanluan) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+  > The open-source CapCut alternative
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [antiwork/mediaconverter](https://github.com/antiwork/mediaconverter)
@@ -307,6 +313,8 @@
   > Useless LSPosed Framework Fork
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) to [feicong/ZygiskNext](https://github.com/feicong/ZygiskNext)
   > Standalone implementation of Zygisk
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [LSPosed/LSPlt](https://github.com/LSPosed/LSPlt) to [feicong/LSPlt](https://github.com/feicong/LSPlt)
+  > Simple PLT hook for Android
 
 ### [fishso](https://github.com/fishso)
 - 🌟 👤 [fishso](https://github.com/fishso) Starred [Domilopment/apk-extractor](https://github.com/Domilopment/apk-extractor)
@@ -333,12 +341,6 @@
   > A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy e...
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [kaixxx/Teleprompter-Footswitch](https://github.com/kaixxx/Teleprompter-Footswitch) to [gmh5225/Teleprompter-Footswitch](https://github.com/gmh5225/Teleprompter-Footswitch)
-  > Arduino controlled footswitch for the Imaginary Teleprompter App
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [openjdk/loom](https://github.com/openjdk/loom) to [gmh5225/loom](https://github.com/gmh5225/loom)
-  > https://openjdk.org/projects/loom
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [openjdk/valhalla](https://github.com/openjdk/valhalla) to [gmh5225/valhalla-](https://github.com/gmh5225/valhalla-)
-  > https://openjdk.org/projects/valhalla
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cywr/android-re-ctfs](https://github.com/cywr/android-re-ctfs) to [gmh5225/android-re-ctfs](https://github.com/gmh5225/android-re-ctfs)
   > Reverse engineering CTFs.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cywr/android-malware](https://github.com/cywr/android-malware) to [gmh5225/android-malware](https://github.com/gmh5225/android-malware)
@@ -416,6 +418,9 @@
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [elvishew/xLog](https://github.com/elvishew/xLog)
   > Android logger, pretty, powerful and flexible, log to everywhere, save to file, all you want is here...
 
+### [jpillora](https://github.com/jpillora)
+- 🌟 👤 [jpillora](https://github.com/jpillora) Starred [Ohjelmistofriikit/contract-generator](https://github.com/Ohjelmistofriikit/contract-generator)
+
 ### [jweny](https://github.com/jweny)
 - 🌟 👤 [jweny](https://github.com/jweny) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
@@ -487,6 +492,8 @@
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal)
   > no_std Hardware Abstraction Layers for ESP32 microcontrollers
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [esp-rs/espflash](https://github.com/esp-rs/espflash)
+  > Serial flasher utility for Espressif SoCs and modules based on esptool.py
 
 ### [nzcv](https://github.com/nzcv)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [abuanwar072/Quiz-App-Flutter](https://github.com/abuanwar072/Quiz-App-Flutter) to [nzcv/Quiz-App-Flutter](https://github.com/nzcv/Quiz-App-Flutter)
@@ -645,10 +652,6 @@
   > Qilin: A New Framework for Supporting Fine-Grained Context-Sensitivity in Java Pointer Analysis
 
 ### [wwh1004](https://github.com/wwh1004)
-- 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
-  > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
-- 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [TwoSevenOneT/CreateProcessAsPPL](https://github.com/TwoSevenOneT/CreateProcessAsPPL)
-  > This is the loader that supports running a program with Protected Process Light (PPL) protection fun...
 - 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [tklengyel/drakvuf](https://github.com/tklengyel/drakvuf)
   > DRAKVUF Black-box Binary Analysis
 - 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
@@ -709,5 +712,5 @@
 
 
 ---
-*最后更新于 2025-09-22 18:30:57 UTC*
+*最后更新于 2025-09-22 19:17:59 UTC*
 *历史记录保存在 `archive` 目录中。*
