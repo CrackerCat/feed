@@ -57,6 +57,12 @@
 - 🌟 👤 [FBLeee](https://github.com/FBLeee) Starred [taisuii/rusda](https://github.com/taisuii/rusda)
   > 对frida 16.2.1的patch
 
+### [FunnyWolf](https://github.com/FunnyWolf)
+- 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [dfir-iris/iris-web](https://github.com/dfir-iris/iris-web)
+  > Collaborative Incident Response platform
+- 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [SecurityBrewery/catalyst](https://github.com/SecurityBrewery/catalyst)
+  > ⚡️ Catalyst is a self-hosted, open source incident response platform and ticket system that helps to...
+
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits)
   > This project describes Telegram limitations
@@ -137,8 +143,6 @@
   > Windows Internals Book 7th edition Tools
 
 ### [THISISAGOODNAME](https://github.com/THISISAGOODNAME)
-- 🌟 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Starred [LiangliangNan/Easy3D](https://github.com/LiangliangNan/Easy3D)
-  > A lightweight, easy-to-use, and efficient library for processing and rendering 3D data (C++ & Python...
 - 🌟 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Starred [mrRay/ISFMSLKit](https://github.com/mrRay/ISFMSLKit)
 - 🌟 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Starred [mrRay/ISF_Spec](https://github.com/mrRay/ISF_Spec)
   > ISF (Interactive Shader Format) Specification
@@ -421,12 +425,6 @@
 ### [jpillora](https://github.com/jpillora)
 - 🌟 👤 [jpillora](https://github.com/jpillora) Starred [Ohjelmistofriikit/contract-generator](https://github.com/Ohjelmistofriikit/contract-generator)
 
-### [jweny](https://github.com/jweny)
-- 🌟 👤 [jweny](https://github.com/jweny) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
-  > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-- 🌟 👤 [jweny](https://github.com/jweny) Starred [AidenZuk/cursor_rules](https://github.com/AidenZuk/cursor_rules)
-  > 自己用的好用的cursor 规则，每个项目我都会先加上这个
-
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp)
   > A simple, locally hosted Web Search MCP server for use with Local LLMs
@@ -494,9 +492,10 @@
   > no_std Hardware Abstraction Layers for ESP32 microcontrollers
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [esp-rs/espflash](https://github.com/esp-rs/espflash)
   > Serial flasher utility for Espressif SoCs and modules based on esptool.py
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+  > Template generation tool to create no_std applications targeting Espressif's chips.
 
 ### [nzcv](https://github.com/nzcv)
-- 🍴 👤 [nzcv](https://github.com/nzcv) Forked [abuanwar072/Quiz-App-Flutter](https://github.com/abuanwar072/Quiz-App-Flutter) to [nzcv/Quiz-App-Flutter](https://github.com/nzcv/Quiz-App-Flutter)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [Guru-raghav3245/QuickMath_Kids](https://github.com/Guru-raghav3245/QuickMath_Kids) to [nzcv/QuickMath_Kids](https://github.com/nzcv/QuickMath_Kids)
   > Repo for Quick Math Kids, a math quiz app with a twist
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [parvathyAM/kids_quiz](https://github.com/parvathyAM/kids_quiz) to [nzcv/kids_quiz](https://github.com/nzcv/kids_quiz)
@@ -582,6 +581,10 @@
   > Bot detection library that runs in the browser. Detects automation tools and frameworks. No server r...
 - 🍴 👤 [smallfawn](https://github.com/smallfawn) Forked [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) to [smallfawn/BotD](https://github.com/smallfawn/BotD)
   > Bot detection library that runs in the browser. Detects automation tools and frameworks. No server r...
+- 🌟 👤 [smallfawn](https://github.com/smallfawn) Starred [theajack/disable-devtool](https://github.com/theajack/disable-devtool)
+  > Disable web developer tools from the f12 button, right-click and browser menu
+- 🍴 👤 [smallfawn](https://github.com/smallfawn) Forked [theajack/disable-devtool](https://github.com/theajack/disable-devtool) to [smallfawn/disable-devtool](https://github.com/smallfawn/disable-devtool)
+  > Disable web developer tools from the f12 button, right-click and browser menu
 
 ### [ssfdust](https://github.com/ssfdust)
 - 🌟 👤 [ssfdust](https://github.com/ssfdust) Starred [lilydjwg/pacfiles](https://github.com/lilydjwg/pacfiles)
@@ -611,6 +614,10 @@
   > Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus...
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
   > An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging...
+
+### [timscriptov](https://github.com/timscriptov)
+- 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2)
+  > High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 
 ### [titonax](https://github.com/titonax)
 - 🌟 👤 [titonax](https://github.com/titonax) Starred [CrackerCat/IDA-patcher](https://github.com/CrackerCat/IDA-patcher)
@@ -652,10 +659,10 @@
   > Qilin: A New Framework for Supporting Fine-Grained Context-Sensitivity in Java Pointer Analysis
 
 ### [wwh1004](https://github.com/wwh1004)
-- 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [tklengyel/drakvuf](https://github.com/tklengyel/drakvuf)
-  > DRAKVUF Black-box Binary Analysis
 - 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+- 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [Mattiwatti/EfiGuard](https://github.com/Mattiwatti/EfiGuard)
+  > Disable PatchGuard and Driver Signature Enforcement at boot time
 
 ### [wxhzhwxhzh](https://github.com/wxhzhwxhzh)
 - ✨ 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Created new repo [wxhzhwxhzh/nav](https://github.com/wxhzhwxhzh/nav)
@@ -697,13 +704,6 @@
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [BillyCurtis/Intel-I226-V-NVM-Firmware](https://github.com/BillyCurtis/Intel-I226-V-NVM-Firmware)
   > Intel I225-V / I226-V NVM Firmware
 
-### [zhaotianff](https://github.com/zhaotianff)
-- 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
-  > Wan: Open and Advanced Large-Scale Video Generative Models
-- 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
-  > Tongyi Deep Research, the Leading Open-source Deep Research Agent
-- 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [OpenHarmony-NET/OpenHarmony.Avalonia](https://github.com/OpenHarmony-NET/OpenHarmony.Avalonia)
-
 ### [zjw-swun](https://github.com/zjw-swun)
 - 🌟 👤 [zjw-swun](https://github.com/zjw-swun) Starred [Ibotta/gradle-aspectj-pipeline-plugin](https://github.com/Ibotta/gradle-aspectj-pipeline-plugin)
   > A Gradle plugin for Android projects which performs AspectJ weaving using Android's bytcode manipula...
@@ -712,5 +712,5 @@
 
 
 ---
-*最后更新于 2025-09-22 19:39:27 UTC*
+*最后更新于 2025-09-22 20:24:42 UTC*
 *历史记录保存在 `archive` 目录中。*
