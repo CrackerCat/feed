@@ -9,6 +9,10 @@
 - 🌟 👤 [0x3f97](https://github.com/0x3f97) Starred [Ackee-Blockchain/trident](https://github.com/Ackee-Blockchain/trident)
   > Rust-based framework to Fuzz Solana programs, designed to help you ship secure code.
 
+### [76op](https://github.com/76op)
+- 🌟 👤 [76op](https://github.com/76op) Starred [emilk/egui](https://github.com/emilk/egui)
+  > egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+
 ### [AD1024](https://github.com/AD1024)
 - 🌟 👤 [AD1024](https://github.com/AD1024) Starred [sambanova/toolbench](https://github.com/sambanova/toolbench)
   > ToolBench, an evaluation suite for LLM tool manipulation capabilities. 
@@ -52,9 +56,6 @@
 ### [FBLeee](https://github.com/FBLeee)
 - 🌟 👤 [FBLeee](https://github.com/FBLeee) Starred [taisuii/rusda](https://github.com/taisuii/rusda)
   > 对frida 16.2.1的patch
-
-### [HackerYunen](https://github.com/HackerYunen)
-- 🌟 👤 [HackerYunen](https://github.com/HackerYunen) Starred [wavestone-cdt/EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast)
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits)
@@ -147,8 +148,6 @@
   > ISF (Interactive Shader Format) Specification
 
 ### [ThatNotEasy](https://github.com/ThatNotEasy)
-- 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [alphaSeclab/injection-stuff](https://github.com/alphaSeclab/injection-stuff)
-  > PE Injection、DLL Injection、Process Injection、Thread Injection、Code Injection、Shellcode Injection、ELF...
 - 🌟 👤 [ThatNotEasy](https://github.com/ThatNotEasy) Starred [Hintay/py-enigma](https://github.com/Hintay/py-enigma)
   > The Enigma Protector API for Python
 
@@ -335,14 +334,6 @@
   > A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy e...
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mattgodbolt/cppcon-2025-some-assembly-required](https://github.com/mattgodbolt/cppcon-2025-some-assembly-required) to [gmh5225/cppcon-2025-some-assembly-required](https://github.com/gmh5225/cppcon-2025-some-assembly-required)
-  > Slides for a my CppCon 2025 talk
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg) to [gmh5225/kreuzberg](https://github.com/gmh5225/kreuzberg)
-  > Document intelligence framework for Python - Extract text, metadata, and structured data   from PDFs...
-- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [K2SOsint/Legendary_Crypto](https://github.com/K2SOsint/Legendary_Crypto)
-  > A resource full of Crypto/OSINT tools, techniques and training courses for CTI, AML, and forensic in...
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [K2SOsint/Bookmarklets](https://github.com/K2SOsint/Bookmarklets) to [gmh5225/Bookmarklets](https://github.com/gmh5225/Bookmarklets)
-  > A small collection of bookmarklets that are useful for OSINT, including ones for e-mail addresses, F...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [K2SOsint/Legendary_Crypto](https://github.com/K2SOsint/Legendary_Crypto) to [gmh5225/Legendary_Crypto](https://github.com/gmh5225/Legendary_Crypto)
   > A resource full of Crypto/OSINT tools, techniques and training courses for CTI, AML, and forensic in...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [petrukha-ivan/mlx-swift-structured](https://github.com/petrukha-ivan/mlx-swift-structured) to [gmh5225/mlx-swift-structured](https://github.com/gmh5225/mlx-swift-structured)
@@ -368,6 +359,10 @@
   > A tool kit for generating high quality prompts using DSPy GEPA optimizer
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [browseros-ai/BrowserOS-agent](https://github.com/browseros-ai/BrowserOS-agent) to [gmh5225/BrowserOS-agent](https://github.com/gmh5225/BrowserOS-agent)
   > This is just the submodule of browserOS agent; MAIN REPO: https://github.com/browseros-ai/BrowserOS
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) to [gmh5225/web-search-mcp](https://github.com/gmh5225/web-search-mcp)
+  > A simple, locally hosted Web Search MCP server for use with Local LLMs
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mrkrsl/Double-Docs](https://github.com/mrkrsl/Double-Docs) to [gmh5225/Double-Docs](https://github.com/gmh5225/Double-Docs)
+  > A simple two-up, single-window Google Docs editor built in Electron.
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - 🌟 👤 [goatmilkkk](https://github.com/goatmilkkk) Starred [synacktiv/php_filter_chain_generator](https://github.com/synacktiv/php_filter_chain_generator)
@@ -429,6 +424,8 @@
   > 基于 YOLO11 的路口交通信号灯通行规则识别。
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [google/blockly](https://github.com/google/blockly)
   > The web-based visual programming editor.
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [google/cadvisor](https://github.com/google/cadvisor)
+  > Analyzes resource usage and performance characteristics of running containers.
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [elvishew/xLog](https://github.com/elvishew/xLog)
@@ -558,10 +555,6 @@
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [SlimKQL/Hunting-Queries-Detection-Rules](https://github.com/SlimKQL/Hunting-Queries-Detection-Rules)
   > KQL Queries. Microsoft Defender, Microsoft Sentinel
 
-### [riusksk](https://github.com/riusksk)
-- 🌟 👤 [riusksk](https://github.com/riusksk) Starred [agno-agi/agno](https://github.com/agno-agi/agno)
-  > High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems i...
-
 ### [roadwy](https://github.com/roadwy)
 - 🌟 👤 [roadwy](https://github.com/roadwy) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
   > A headless, extendable, multi-session, IDA Pro MCP framework.
@@ -678,6 +671,10 @@
 - 🍴 👤 [xyxdaily](https://github.com/xyxdaily) Forked [AndroidCrypto/Android_HCE_Beginner_App](https://github.com/AndroidCrypto/Android_HCE_Beginner_App) to [xyxdaily/Android_HCE_Beginner_App](https://github.com/xyxdaily/Android_HCE_Beginner_App)
   > The app includes a Host-Based Card Emulated (HCE) NFC tag and the associated NFC reader. You learn h...
 
+### [y9nhjy](https://github.com/y9nhjy)
+- 🌟 👤 [y9nhjy](https://github.com/y9nhjy) Starred [klezVirus/SysWhispers3](https://github.com/klezVirus/SysWhispers3)
+  > SysWhispers on Steroids - AV/EDR evasion via direct system calls. 
+
 ### [ydf0509](https://github.com/ydf0509)
 - ✨ 👤 [ydf0509](https://github.com/ydf0509) Created new repo [ydf0509/funboost_git_pages](https://github.com/ydf0509/funboost_git_pages)
 
@@ -691,10 +688,6 @@
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-
-### [zer0yu](https://github.com/zer0yu)
-- 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
-  > Decompiler written in Rust
 
 ### [zhangkanqi](https://github.com/zhangkanqi)
 - 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [o2lab/afc-crs-all-you-need-is-a-fuzzing-brain](https://github.com/o2lab/afc-crs-all-you-need-is-a-fuzzing-brain)
@@ -722,5 +715,5 @@
 
 
 ---
-*最后更新于 2025-09-22 16:46:52 UTC*
+*最后更新于 2025-09-22 17:17:45 UTC*
 *历史记录保存在 `archive` 目录中。*
