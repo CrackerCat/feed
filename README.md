@@ -64,6 +64,12 @@
   > ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [luomor-ai/yolo-onnx-java](https://github.com/luomor-ai/yolo-onnx-java)
 
+### [Mati365](https://github.com/Mati365)
+- 🌟 👤 [Mati365](https://github.com/Mati365) Starred [bramus/specificity](https://github.com/bramus/specificity)
+  > JavaScript Package to calculate the Specificity of CSS Selectors
+- 🌟 👤 [Mati365](https://github.com/Mati365) Starred [keeganstreet/specificity](https://github.com/keeganstreet/specificity)
+  > A JavaScript module for calculating the specificity of CSS selectors
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [mity/md4c](https://github.com/mity/md4c)
   > C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
@@ -229,6 +235,10 @@
   > Golang HTTP Cache-Control Parser and Interpretation
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [unixisevil/barrier](https://github.com/unixisevil/barrier)
   > golang implement  pthread_barrier_t    sematic   barrier 
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+  > The Mullvad VPN client app for desktop and mobile
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [elysiajs/elysia](https://github.com/elysiajs/elysia)
+  > Ergonomic Framework for Humans
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [killbill/killbill](https://github.com/killbill/killbill)
@@ -401,6 +411,10 @@
 ### [lgw1995](https://github.com/lgw1995)
 - ✨ 👤 [lgw1995](https://github.com/lgw1995) Created new repo [lgw1995/mermaid-](https://github.com/lgw1995/mermaid-)
 
+### [maskelihileci](https://github.com/maskelihileci)
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng)
+  > D810-ng (Next Generation) is an updated, tested, refactored, and optimized IDA Pro plugin used to de...
+
 ### [merlinxcy](https://github.com/merlinxcy)
 - 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [CoinQuanta/awesome-crypto-api](https://github.com/CoinQuanta/awesome-crypto-api)
   > A collaborative list of cryptocurrency APIs
@@ -411,6 +425,7 @@
 
 ### [mq1n](https://github.com/mq1n)
 - 🍴 👤 [mq1n](https://github.com/mq1n) Forked [d1str4ught/m2dev-client-src](https://github.com/d1str4ught/m2dev-client-src) to [mq1n/m2dev-client-src](https://github.com/mq1n/m2dev-client-src)
+- 🍴 👤 [mq1n](https://github.com/mq1n) Forked [d1str4ught/m2dev-server-src](https://github.com/d1str4ught/m2dev-server-src) to [mq1n/m2dev-server-src](https://github.com/mq1n/m2dev-server-src)
 
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [Justype/RPGMakerUtils](https://github.com/Justype/RPGMakerUtils)
@@ -545,6 +560,10 @@
 - 🌟 👤 [v9d0g](https://github.com/v9d0g) Starred [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
   > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
+### [vipstone](https://github.com/vipstone)
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [other-blowsnow/n8n-i18n-chinese](https://github.com/other-blowsnow/n8n-i18n-chinese)
+  > n8n 配置多语言
+
 ### [wa1ki0g](https://github.com/wa1ki0g)
 - 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [anchore/syft](https://github.com/anchore/syft)
   > CLI tool and library for generating a Software Bill of Materials from container images and filesyste...
@@ -607,5 +626,5 @@
 
 
 ---
-*最后更新于 2025-09-22 10:45:49 UTC*
+*最后更新于 2025-09-22 11:19:32 UTC*
 *历史记录保存在 `archive` 目录中。*
