@@ -83,6 +83,8 @@
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
   > ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [luomor-ai/yolo-onnx-java](https://github.com/luomor-ai/yolo-onnx-java)
+- 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [zeusees/License-Plate-Detector](https://github.com/zeusees/License-Plate-Detector)
+  > 基于Yolov5车牌检测,更快更准.
 
 ### [Mati365](https://github.com/Mati365)
 - 🌟 👤 [Mati365](https://github.com/Mati365) Starred [bramus/specificity](https://github.com/bramus/specificity)
@@ -97,6 +99,10 @@
 ### [MuggleWei](https://github.com/MuggleWei)
 - 🌟 👤 [MuggleWei](https://github.com/MuggleWei) Starred [mmulet/term.everything](https://github.com/mmulet/term.everything)
   > Run any GUI app in the terminal❗
+
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+  > The open-source CapCut alternative
 
 ### [NeoMaster831](https://github.com/NeoMaster831)
 - 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [SamuelTulach/LightHook](https://github.com/SamuelTulach/LightHook)
@@ -169,6 +175,12 @@
 
 ### [ZeroMemoryEx](https://github.com/ZeroMemoryEx)
 - 🌟 👤 [ZeroMemoryEx](https://github.com/ZeroMemoryEx) Starred [RedPanda-Seguranca-Ofensiva/XSS-Mime-Type-Fuzzer](https://github.com/RedPanda-Seguranca-Ofensiva/XSS-Mime-Type-Fuzzer)
+
+### [abdullahc5850-ux](https://github.com/abdullahc5850-ux)
+- 🌟 👤 [abdullahc5850-ux](https://github.com/abdullahc5850-ux) Starred [CrackerCat/VMOSPro_ROM](https://github.com/CrackerCat/VMOSPro_ROM)
+  > ROMs ported from VMOS Pro server, including GEEK and LITE. Added some changes and removed Chinese ke...
+- 🍴 👤 [abdullahc5850-ux](https://github.com/abdullahc5850-ux) Forked [CrackerCat/VMOSPro_ROM](https://github.com/CrackerCat/VMOSPro_ROM) to [abdullahc5850-ux/VMOSPro_ROM](https://github.com/abdullahc5850-ux/VMOSPro_ROM)
+  > ROMs ported from VMOS Pro server, including GEEK and LITE. Added some changes and removed Chinese ke...
 
 ### [ahkehra](https://github.com/ahkehra)
 - 🍴 👤 [ahkehra](https://github.com/ahkehra) Forked [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches) to [ahkehra/revanced-patches](https://github.com/ahkehra/revanced-patches)
@@ -520,6 +532,10 @@
 - 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
+### [pen4uin](https://github.com/pen4uin)
+- 🌟 👤 [pen4uin](https://github.com/pen4uin) Starred [wietze/HijackLibs](https://github.com/wietze/HijackLibs)
+  > Project for tracking publicly disclosed DLL Hijacking opportunities.
+
 ### [pilgun](https://github.com/pilgun)
 - 🌟 👤 [pilgun](https://github.com/pilgun) Starred [lolo-io/OneList](https://github.com/lolo-io/OneList)
 - 🌟 👤 [pilgun](https://github.com/pilgun) Starred [cywr/android-re-ctfs](https://github.com/cywr/android-re-ctfs)
@@ -709,5 +725,5 @@
 
 
 ---
-*最后更新于 2025-09-22 13:31:54 UTC*
+*最后更新于 2025-09-22 14:24:07 UTC*
 *历史记录保存在 `archive` 目录中。*
