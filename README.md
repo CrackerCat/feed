@@ -334,12 +334,6 @@
   > A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy e...
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [K2SOsint/Legendary_Crypto](https://github.com/K2SOsint/Legendary_Crypto) to [gmh5225/Legendary_Crypto](https://github.com/gmh5225/Legendary_Crypto)
-  > A resource full of Crypto/OSINT tools, techniques and training courses for CTI, AML, and forensic in...
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [petrukha-ivan/mlx-swift-structured](https://github.com/petrukha-ivan/mlx-swift-structured) to [gmh5225/mlx-swift-structured](https://github.com/gmh5225/mlx-swift-structured)
-  > Structured output generation in Swift
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [maxDcb/C2TeamServer](https://github.com/maxDcb/C2TeamServer) to [gmh5225/C2TeamServer](https://github.com/gmh5225/C2TeamServer)
-  > TeamServer and Client of Exploration Command and Control Framework
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [lethain/extraction](https://github.com/lethain/extraction) to [gmh5225/extraction](https://github.com/gmh5225/extraction)
   > A Python library for extracting titles, images, descriptions and canonical urls from HTML.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [trinib/ZORG-Jailbreak-Prompt-Text](https://github.com/trinib/ZORG-Jailbreak-Prompt-Text) to [gmh5225/ZORG-Jailbreak-Prompt-Text](https://github.com/gmh5225/ZORG-Jailbreak-Prompt-Text)
@@ -460,6 +454,10 @@
 - 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [CoinQuanta/awesome-crypto-api](https://github.com/CoinQuanta/awesome-crypto-api)
   > A collaborative list of cryptocurrency APIs
 
+### [mkr-infinity](https://github.com/mkr-infinity)
+- ✨ 👤 [mkr-infinity](https://github.com/mkr-infinity) Created new repo [mkr-infinity/PhonePe-in-rooted-device](https://github.com/mkr-infinity/PhonePe-in-rooted-device)
+  > Guide to run PhonePe in rooted devices. I have tested this method in Samsung Galaxy J810G 32-Bit. Lo...
+
 ### [mos9527](https://github.com/mos9527)
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [DNedic/lockfree](https://github.com/DNedic/lockfree)
   > A collection of lock-free data structures written in standard C++11
@@ -529,13 +527,13 @@
 - ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/mm](https://github.com/pinwhell/mm)
   > A minimal, single-header arena-based memory allocator for C.
 
-### [plusls](https://github.com/plusls)
-- 🌟 👤 [plusls](https://github.com/plusls) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
-  > Decompiler written in Rust
-
 ### [pwh-pwh](https://github.com/pwh-pwh)
 - 🌟 👤 [pwh-pwh](https://github.com/pwh-pwh) Starred [pwh-pwh/walrus_store](https://github.com/pwh-pwh/walrus_store)
   > Walrus 云盘客户端
+
+### [qi4L](https://github.com/qi4L)
+- 🌟 👤 [qi4L](https://github.com/qi4L) Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+  > An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer...
 
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [leaningtech/webvm](https://github.com/leaningtech/webvm)
@@ -578,6 +576,12 @@
 ### [shadow3aaa](https://github.com/shadow3aaa)
 - ✨ 👤 [shadow3aaa](https://github.com/shadow3aaa) Created new repo [shadow3aaa/prism-player](https://github.com/shadow3aaa/prism-player)
 - 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [shadow3aaa/prism-player](https://github.com/shadow3aaa/prism-player)
+
+### [smallfawn](https://github.com/smallfawn)
+- 🌟 👤 [smallfawn](https://github.com/smallfawn) Starred [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD)
+  > Bot detection library that runs in the browser. Detects automation tools and frameworks. No server r...
+- 🍴 👤 [smallfawn](https://github.com/smallfawn) Forked [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) to [smallfawn/BotD](https://github.com/smallfawn/BotD)
+  > Bot detection library that runs in the browser. Detects automation tools and frameworks. No server r...
 
 ### [ssfdust](https://github.com/ssfdust)
 - 🌟 👤 [ssfdust](https://github.com/ssfdust) Starred [lilydjwg/pacfiles](https://github.com/lilydjwg/pacfiles)
@@ -715,5 +719,5 @@
 
 
 ---
-*最后更新于 2025-09-22 17:17:45 UTC*
+*最后更新于 2025-09-22 17:39:47 UTC*
 *历史记录保存在 `archive` 目录中。*
