@@ -6,6 +6,8 @@
 
 ### [0x3f97](https://github.com/0x3f97)
 - 🌟 👤 [0x3f97](https://github.com/0x3f97) Starred [accretion-xyz/solana-data-reverser](https://github.com/accretion-xyz/solana-data-reverser)
+- 🌟 👤 [0x3f97](https://github.com/0x3f97) Starred [Ackee-Blockchain/trident](https://github.com/Ackee-Blockchain/trident)
+  > Rust-based framework to Fuzz Solana programs, designed to help you ship secure code.
 
 ### [AD1024](https://github.com/AD1024)
 - 🌟 👤 [AD1024](https://github.com/AD1024) Starred [sambanova/toolbench](https://github.com/sambanova/toolbench)
@@ -45,6 +47,9 @@
 ### [FBLeee](https://github.com/FBLeee)
 - 🌟 👤 [FBLeee](https://github.com/FBLeee) Starred [taisuii/rusda](https://github.com/taisuii/rusda)
   > 对frida 16.2.1的patch
+
+### [HackerYunen](https://github.com/HackerYunen)
+- 🌟 👤 [HackerYunen](https://github.com/HackerYunen) Starred [wavestone-cdt/EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast)
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits)
@@ -161,6 +166,9 @@
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [boku7/injectEtwBypass](https://github.com/boku7/injectEtwBypass)
   > CobaltStrike BOF - Inject ETW Bypass into Remote Process via Syscalls (HellsGate|HalosGate)
+
+### [ZeroMemoryEx](https://github.com/ZeroMemoryEx)
+- 🌟 👤 [ZeroMemoryEx](https://github.com/ZeroMemoryEx) Starred [RedPanda-Seguranca-Ofensiva/XSS-Mime-Type-Fuzzer](https://github.com/RedPanda-Seguranca-Ofensiva/XSS-Mime-Type-Fuzzer)
 
 ### [ahkehra](https://github.com/ahkehra)
 - 🍴 👤 [ahkehra](https://github.com/ahkehra) Forked [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches) to [ahkehra/revanced-patches](https://github.com/ahkehra/revanced-patches)
@@ -394,10 +402,14 @@
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation)
   > A curated list of awesome privilege escalation
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [learnyouahaskell/learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io)
+  > A community version of the renowned "Learn You a Haskell" (LYAH) tutorials collection!
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [pedrolcl/VMPK](https://github.com/pedrolcl/VMPK) to [hzqst/VMPK](https://github.com/hzqst/VMPK)
   > Virtual MIDI Piano Keyboard (Mirror)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) to [hzqst/aqtinstall](https://github.com/hzqst/aqtinstall)
+  > aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
 
 ### [icew4y](https://github.com/icew4y)
 - 🍴 👤 [icew4y](https://github.com/icew4y) Forked [github/spec-kit](https://github.com/github/spec-kit) to [icew4y/spec-kit](https://github.com/icew4y/spec-kit)
@@ -508,6 +520,11 @@
 - 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
+### [pilgun](https://github.com/pilgun)
+- 🌟 👤 [pilgun](https://github.com/pilgun) Starred [lolo-io/OneList](https://github.com/lolo-io/OneList)
+- 🌟 👤 [pilgun](https://github.com/pilgun) Starred [cywr/android-re-ctfs](https://github.com/cywr/android-re-ctfs)
+  > Reverse engineering CTFs.
+
 ### [pinwhell](https://github.com/pinwhell)
 - ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/mm](https://github.com/pinwhell/mm)
   > A minimal, single-header arena-based memory allocator for C.
@@ -553,6 +570,8 @@
   > 微软符号服务器的一个跳板
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [LabGuy94/Diskjacker](https://github.com/LabGuy94/Diskjacker)
   > Runtime Hyper-V Hijacking with DDMA
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [maoabc/nmmp](https://github.com/maoabc/nmmp)
+  > dex-vm used to protect the android classes.dex file
 
 ### [shadow3aaa](https://github.com/shadow3aaa)
 - ✨ 👤 [shadow3aaa](https://github.com/shadow3aaa) Created new repo [shadow3aaa/prism-player](https://github.com/shadow3aaa/prism-player)
@@ -570,6 +589,8 @@
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [wl56012102/PicoKVM](https://github.com/wl56012102/PicoKVM)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [jetkvm/kvm](https://github.com/jetkvm/kvm)
   > JetKVM - Control any computer remotely
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [pikvm/pikvm](https://github.com/pikvm/pikvm)
+  > Open and inexpensive DIY IP-KVM based on Raspberry Pi
 
 ### [survivalizeed](https://github.com/survivalizeed)
 - 🍴 👤 [survivalizeed](https://github.com/survivalizeed) Forked [weak1337/Alcatraz](https://github.com/weak1337/Alcatraz) to [survivalizeed/Alcatraz](https://github.com/survivalizeed/Alcatraz)
@@ -584,6 +605,10 @@
   > Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus...
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
   > An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging...
+
+### [titonax](https://github.com/titonax)
+- 🌟 👤 [titonax](https://github.com/titonax) Starred [CrackerCat/IDA-patcher](https://github.com/CrackerCat/IDA-patcher)
+  > generates ida pro license keys
 
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [agalwood/Motrix](https://github.com/agalwood/Motrix)
@@ -618,6 +643,9 @@
   > CLI tool and library for generating a Software Bill of Materials from container images and filesyste...
 - 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
   > 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+
+### [wh1te4ever](https://github.com/wh1te4ever)
+- 🌟 👤 [wh1te4ever](https://github.com/wh1te4ever) Starred [wh1te4ever/xnu_1day_practice](https://github.com/wh1te4ever/xnu_1day_practice)
 
 ### [wwh1004](https://github.com/wwh1004)
 - 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
@@ -681,5 +709,5 @@
 
 
 ---
-*最后更新于 2025-09-22 12:49:15 UTC*
+*最后更新于 2025-09-22 13:31:54 UTC*
 *历史记录保存在 `archive` 目录中。*
