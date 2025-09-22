@@ -109,6 +109,14 @@
 - 🌟 👤 [VonChange](https://github.com/VonChange) Starred [VonChange/utao-gecko](https://github.com/VonChange/utao-gecko)
   > 油桃TV火狐版
 
+### [ahkehra](https://github.com/ahkehra)
+- 🍴 👤 [ahkehra](https://github.com/ahkehra) Forked [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches) to [ahkehra/revanced-patches](https://github.com/ahkehra/revanced-patches)
+  > 🧩 Patches for ReVanced
+- 🍴 👤 [ahkehra](https://github.com/ahkehra) Forked [anddea/revanced-patches](https://github.com/anddea/revanced-patches) to [ahkehra/revancedx-patches](https://github.com/ahkehra/revancedx-patches)
+  > 🧩 Patches for ReVanced
+- 🍴 👤 [ahkehra](https://github.com/ahkehra) Forked [brahmkshatriya/echo-extension-template](https://github.com/brahmkshatriya/echo-extension-template) to [ahkehra/echo-extension-template](https://github.com/ahkehra/echo-extension-template)
+  > A template repo, for creating Extensions for Echo
+
 ### [alset0326](https://github.com/alset0326)
 - 🌟 👤 [alset0326](https://github.com/alset0326) Starred [CsomePro/easy-pwn-env](https://github.com/CsomePro/easy-pwn-env)
 
@@ -119,6 +127,10 @@
 ### [apkunpacker](https://github.com/apkunpacker)
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [ZeroMemoryEx/CVE-2025-26125](https://github.com/ZeroMemoryEx/CVE-2025-26125)
   > (0day) Local Privilege Escalation in IObit Malware Fighter
+
+### [ba0gu0](https://github.com/ba0gu0)
+- 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [Makememo/MemoAI](https://github.com/Makememo/MemoAI)
+  > MemoAI Video to translated text, subtitles and notes made easy.
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [byt3n33dl3/thc-jennifer](https://github.com/byt3n33dl3/thc-jennifer)
@@ -141,6 +153,10 @@
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [idapython/src](https://github.com/idapython/src)
   > IDAPython project for Hex-Ray's IDA Pro
+
+### [darbra](https://github.com/darbra)
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [moyuwa/ApkCheckPack](https://github.com/moyuwa/ApkCheckPack)
+  > apk加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，全网最全开源加固特征，支持40个厂商的加固检测，欢迎大家提交无法识别的app
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [moyuwa/ApkCheckPack](https://github.com/moyuwa/ApkCheckPack)
@@ -172,6 +188,12 @@
 ### [fei-ke](https://github.com/fei-ke)
 - 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [lasting-yang/frida_dump](https://github.com/lasting-yang/frida_dump)
   > frida dump dex, frida dump so
+
+### [feicong](https://github.com/feicong)
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [tryigit/PlayIntegrityFix](https://github.com/tryigit/PlayIntegrityFix) to [feicong/PlayIntegrityFix](https://github.com/feicong/PlayIntegrityFix)
+  > Google H*ck is a module designed to bypass play integrity checks, especially for China Roms, and off...
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) to [feicong/PlayIntegrityFork](https://github.com/feicong/PlayIntegrityFork)
+  > Fix Play Integrity <A13 verdicts, allowing custom fields and props
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit)
@@ -243,6 +265,8 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cywr/android-re-ctfs](https://github.com/cywr/android-re-ctfs) to [gmh5225/android-re-ctfs](https://github.com/gmh5225/android-re-ctfs)
   > Reverse engineering CTFs.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cywr/android-malware](https://github.com/cywr/android-malware) to [gmh5225/android-malware](https://github.com/gmh5225/android-malware)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Scale3-Labs/dspyground](https://github.com/Scale3-Labs/dspyground) to [gmh5225/dspyground](https://github.com/gmh5225/dspyground)
+  > A tool kit for generating high quality prompts for AISDK using DSPy GEPA optimizer
 
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [a2aproject/a2a-samples](https://github.com/a2aproject/a2a-samples)
@@ -296,6 +320,10 @@
 
 ### [lgw1995](https://github.com/lgw1995)
 - ✨ 👤 [lgw1995](https://github.com/lgw1995) Created new repo [lgw1995/mermaid-](https://github.com/lgw1995/mermaid-)
+
+### [mos9527](https://github.com/mos9527)
+- 🌟 👤 [mos9527](https://github.com/mos9527) Starred [DNedic/lockfree](https://github.com/DNedic/lockfree)
+  > A collection of lock-free data structures written in standard C++11
 
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [Justype/RPGMakerUtils](https://github.com/Justype/RPGMakerUtils)
@@ -370,6 +398,12 @@
   > csv_streaming
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [Jakobzs/minhook](https://github.com/Jakobzs/minhook)
   > A Rust wrapper for the MinHook library
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [YaLTeR/minhook-sys](https://github.com/YaLTeR/minhook-sys)
+  > Rust bindings to MinHook.
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen)
+  > Automatically generates Rust FFI bindings to C (and some C++) libraries.
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs)
+  > Rust library for build scripts to compile C/C++ code into a Rust library
 
 ### [v9d0g](https://github.com/v9d0g)
 - 🌟 👤 [v9d0g](https://github.com/v9d0g) Starred [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
@@ -417,5 +451,5 @@
 
 
 ---
-*最后更新于 2025-09-22 06:35:52 UTC*
+*最后更新于 2025-09-22 07:23:50 UTC*
 *历史记录保存在 `archive` 目录中。*
