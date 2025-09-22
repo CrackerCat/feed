@@ -332,10 +332,6 @@
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [everywall/ladder](https://github.com/everywall/ladder)
   > Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS he...
 
-### [geekonion](https://github.com/geekonion)
-- 🌟 👤 [geekonion](https://github.com/geekonion) Starred [blacktop/ipsw-diffs](https://github.com/blacktop/ipsw-diffs)
-  > IPSW Diffs
-
 ### [genius158](https://github.com/genius158)
 - 🌟 👤 [genius158](https://github.com/genius158) Starred [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
   > A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy e...
@@ -683,6 +679,8 @@
 ### [xyxdaily](https://github.com/xyxdaily)
 - 🍴 👤 [xyxdaily](https://github.com/xyxdaily) Forked [AndroidCrypto/Android_HCE_Beginner_App](https://github.com/AndroidCrypto/Android_HCE_Beginner_App) to [xyxdaily/Android_HCE_Beginner_App](https://github.com/xyxdaily/Android_HCE_Beginner_App)
   > The app includes a Host-Based Card Emulated (HCE) NFC tag and the associated NFC reader. You learn h...
+- 🍴 👤 [xyxdaily](https://github.com/xyxdaily) Forked [AndroidCrypto/TalkToYourCreditCardPart7](https://github.com/AndroidCrypto/TalkToYourCreditCardPart7) to [xyxdaily/TalkToYourCreditCardPart7](https://github.com/xyxdaily/TalkToYourCreditCardPart7)
+  > This is (the final) part 7 of the Talk to your Credit Card series
 
 ### [y9nhjy](https://github.com/y9nhjy)
 - 🌟 👤 [y9nhjy](https://github.com/y9nhjy) Starred [klezVirus/SysWhispers3](https://github.com/klezVirus/SysWhispers3)
@@ -718,5 +716,5 @@
 
 
 ---
-*最后更新于 2025-09-22 23:19:44 UTC*
+*最后更新于 2025-09-22 23:38:49 UTC*
 *历史记录保存在 `archive` 目录中。*
