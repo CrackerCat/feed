@@ -223,6 +223,12 @@
   > Erlang/OTP
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [docker/cagent](https://github.com/docker/cagent)
   > Agent Builder and Runtime by Docker Engineering
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale)
+  > A highly experimental exploration of integrating Tailscale and Caddy.
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [pquerna/cachecontrol](https://github.com/pquerna/cachecontrol)
+  > Golang HTTP Cache-Control Parser and Interpretation
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [unixisevil/barrier](https://github.com/unixisevil/barrier)
+  > golang implement  pthread_barrier_t    sematic   barrier 
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [killbill/killbill](https://github.com/killbill/killbill)
@@ -436,6 +442,10 @@
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [parvathyAM/kids_quiz](https://github.com/parvathyAM/kids_quiz) to [nzcv/kids_quiz](https://github.com/nzcv/kids_quiz)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [widget-404/quiz_kidoo](https://github.com/widget-404/quiz_kidoo) to [nzcv/quiz_kidoo](https://github.com/nzcv/quiz_kidoo)
 
+### [paradiseduo](https://github.com/paradiseduo)
+- 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [tzmax/V2RayXS](https://github.com/tzmax/V2RayXS)
+  > GUI for xray-core on macOS
+
 ### [pinwhell](https://github.com/pinwhell)
 - ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/mm](https://github.com/pinwhell/mm)
   > A minimal, single-header arena-based memory allocator for C.
@@ -597,5 +607,5 @@
 
 
 ---
-*最后更新于 2025-09-22 10:25:57 UTC*
+*最后更新于 2025-09-22 10:45:49 UTC*
 *历史记录保存在 `archive` 目录中。*
