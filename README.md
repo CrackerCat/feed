@@ -63,6 +63,10 @@
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [SecurityBrewery/catalyst](https://github.com/SecurityBrewery/catalyst)
   > ⚡️ Catalyst is a self-hosted, open source incident response platform and ticket system that helps to...
 
+### [Gegenbauer](https://github.com/Gegenbauer)
+- ✨ 👤 [Gegenbauer](https://github.com/Gegenbauer) Created new repo [Gegenbauer/NotePics](https://github.com/Gegenbauer/NotePics)
+  > store pictures used in markdown
+
 ### [KpLi0rn](https://github.com/KpLi0rn)
 - 🌟 👤 [KpLi0rn](https://github.com/KpLi0rn) Starred [github/spec-kit](https://github.com/github/spec-kit)
   > 💫 Toolkit to help you get started with Spec-Driven Development
@@ -333,8 +337,6 @@
   > Markdown preview for MarkEdit.
 
 ### [fynch3r](https://github.com/fynch3r)
-- 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
-  > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [everywall/ladder](https://github.com/everywall/ladder)
   > Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS he...
 
@@ -714,5 +716,5 @@
 
 
 ---
-*最后更新于 2025-09-22 20:42:01 UTC*
+*最后更新于 2025-09-22 21:19:09 UTC*
 *历史记录保存在 `archive` 目录中。*
