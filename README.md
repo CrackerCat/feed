@@ -64,9 +64,17 @@
   > ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [luomor-ai/yolo-onnx-java](https://github.com/luomor-ai/yolo-onnx-java)
 
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [mity/md4c](https://github.com/mity/md4c)
+  > C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
+
 ### [MuggleWei](https://github.com/MuggleWei)
 - 🌟 👤 [MuggleWei](https://github.com/MuggleWei) Starred [mmulet/term.everything](https://github.com/mmulet/term.everything)
   > Run any GUI app in the terminal❗
+
+### [NeoMaster831](https://github.com/NeoMaster831)
+- 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [SamuelTulach/LightHook](https://github.com/SamuelTulach/LightHook)
+  > Single-header, minimalistic, cross-platform hook library written in pure C
 
 ### [PIKACHUIM](https://github.com/PIKACHUIM)
 - 🌟 👤 [PIKACHUIM](https://github.com/PIKACHUIM) Starred [Suxiaoqinx/Netease_url](https://github.com/Suxiaoqinx/Netease_url)
@@ -213,6 +221,8 @@
   > Information gathering framework for phone numbers
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [erlang/otp](https://github.com/erlang/otp)
   > Erlang/OTP
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [docker/cagent](https://github.com/docker/cagent)
+  > Agent Builder and Runtime by Docker Engineering
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [killbill/killbill](https://github.com/killbill/killbill)
@@ -251,6 +261,8 @@
 ### [fynch3r](https://github.com/fynch3r)
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+- 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [everywall/ladder](https://github.com/everywall/ladder)
+  > Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS he...
 
 ### [geekonion](https://github.com/geekonion)
 - 🌟 👤 [geekonion](https://github.com/geekonion) Starred [blacktop/ipsw-diffs](https://github.com/blacktop/ipsw-diffs)
@@ -316,6 +328,9 @@
   > A tool kit for generating high quality prompts for AISDK using DSPy GEPA optimizer
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [browseros-ai/BrowserOS-agent](https://github.com/browseros-ai/BrowserOS-agent) to [gmh5225/BrowserOS-agent](https://github.com/gmh5225/BrowserOS-agent)
   > This is just the submodule of browserOS agent; MAIN REPO: https://github.com/browseros-ai/BrowserOS
+
+### [goatmilkkk](https://github.com/goatmilkkk)
+- 🌟 👤 [goatmilkkk](https://github.com/goatmilkkk) Starred [synacktiv/php_filter_chain_generator](https://github.com/synacktiv/php_filter_chain_generator)
 
 ### [h4sh5](https://github.com/h4sh5)
 - 🌟 👤 [h4sh5](https://github.com/h4sh5) Starred [rxi/sj.h](https://github.com/rxi/sj.h)
@@ -388,13 +403,22 @@
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [DNedic/lockfree](https://github.com/DNedic/lockfree)
   > A collection of lock-free data structures written in standard C++11
 
+### [mq1n](https://github.com/mq1n)
+- 🍴 👤 [mq1n](https://github.com/mq1n) Forked [d1str4ught/m2dev-client-src](https://github.com/d1str4ught/m2dev-client-src) to [mq1n/m2dev-client-src](https://github.com/mq1n/m2dev-client-src)
+
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [Justype/RPGMakerUtils](https://github.com/Justype/RPGMakerUtils)
   > RPG Maker MV MZ Helper Tools
 
+### [nbxiglk0](https://github.com/nbxiglk0)
+- 🍴 👤 [nbxiglk0](https://github.com/nbxiglk0) Forked [l3yx/jdwp-codeifier](https://github.com/l3yx/jdwp-codeifier) to [nbxiglk0/jdwp-codeifier](https://github.com/nbxiglk0/jdwp-codeifier)
+  > 基于 jdwp-shellifier 的进阶JDWP漏洞利用脚本（动态执行Java/Js代码并获得回显）
+
 ### [netxfly](https://github.com/netxfly)
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [mitmproxy/mitmproxy_rs](https://github.com/mitmproxy/mitmproxy_rs)
   > The Rust bits in mitmproxy. 🦀
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [PyO3/maturin](https://github.com/PyO3/maturin)
+  > Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python pack...
 
 ### [ntpopgetdope](https://github.com/ntpopgetdope)
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [LiEnby/psvita-elfs](https://github.com/LiEnby/psvita-elfs)
@@ -452,6 +476,10 @@
 - 🌟 👤 [roadwy](https://github.com/roadwy) Starred [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
   > A collection of links related to Linux kernel security and exploitation
 
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [276793422/MicrosoftSymbolServerProxy](https://github.com/276793422/MicrosoftSymbolServerProxy)
+  > 微软符号服务器的一个跳板
+
 ### [shadow3aaa](https://github.com/shadow3aaa)
 - ✨ 👤 [shadow3aaa](https://github.com/shadow3aaa) Created new repo [shadow3aaa/prism-player](https://github.com/shadow3aaa/prism-player)
 - 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [shadow3aaa/prism-player](https://github.com/shadow3aaa/prism-player)
@@ -469,6 +497,10 @@
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [jetkvm/kvm](https://github.com/jetkvm/kvm)
   > JetKVM - Control any computer remotely
 
+### [survivalizeed](https://github.com/survivalizeed)
+- 🍴 👤 [survivalizeed](https://github.com/survivalizeed) Forked [weak1337/Alcatraz](https://github.com/weak1337/Alcatraz) to [survivalizeed/Alcatraz](https://github.com/survivalizeed/Alcatraz)
+  > x64 binary obfuscator
+
 ### [suzhelan](https://github.com/suzhelan)
 - 🌟 👤 [suzhelan](https://github.com/suzhelan) Starred [sqldelight/sqldelight](https://github.com/sqldelight/sqldelight)
   > SQLDelight - Generates typesafe Kotlin APIs from SQL
@@ -478,6 +510,10 @@
   > Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus...
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio)
   > An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging...
+
+### [topcoco](https://github.com/topcoco)
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [agalwood/Motrix](https://github.com/agalwood/Motrix)
+  > A full-featured download manager.
 
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [X-rays5/rust_win32_dllmain](https://github.com/X-rays5/rust_win32_dllmain)
@@ -535,6 +571,9 @@
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
   > Decompiler written in Rust
 
+### [zhangkanqi](https://github.com/zhangkanqi)
+- 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [o2lab/afc-crs-all-you-need-is-a-fuzzing-brain](https://github.com/o2lab/afc-crs-all-you-need-is-a-fuzzing-brain)
+
 ### [zhangnew](https://github.com/zhangnew)
 - 🍴 👤 [zhangnew](https://github.com/zhangnew) Forked [CrackerCat/Portal](https://github.com/CrackerCat/Portal) to [zhangnew/AndroidPortal](https://github.com/zhangnew/AndroidPortal)
   > Android Lab Fake Location Service
@@ -550,7 +589,13 @@
   > Tongyi Deep Research, the Leading Open-source Deep Research Agent
 - 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [OpenHarmony-NET/OpenHarmony.Avalonia](https://github.com/OpenHarmony-NET/OpenHarmony.Avalonia)
 
+### [zjw-swun](https://github.com/zjw-swun)
+- 🌟 👤 [zjw-swun](https://github.com/zjw-swun) Starred [Ibotta/gradle-aspectj-pipeline-plugin](https://github.com/Ibotta/gradle-aspectj-pipeline-plugin)
+  > A Gradle plugin for Android projects which performs AspectJ weaving using Android's bytcode manipula...
+- 🍴 👤 [zjw-swun](https://github.com/zjw-swun) Forked [Ibotta/gradle-aspectj-pipeline-plugin](https://github.com/Ibotta/gradle-aspectj-pipeline-plugin) to [zjw-swun/gradle-aspectj-pipeline-plugin](https://github.com/zjw-swun/gradle-aspectj-pipeline-plugin)
+  > A Gradle plugin for Android projects which performs AspectJ weaving using Android's bytcode manipula...
+
 
 ---
-*最后更新于 2025-09-22 09:45:03 UTC*
+*最后更新于 2025-09-22 10:25:57 UTC*
 *历史记录保存在 `archive` 目录中。*
