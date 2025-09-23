@@ -115,6 +115,10 @@
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xricksanchez/like-dbg](https://github.com/0xricksanchez/like-dbg)
   > Fully dockerized Linux kernel debugging environment
 
+### [lemuellew](https://github.com/lemuellew)
+- 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [usestrix/strix](https://github.com/usestrix/strix)
+  > ✨ Open-source AI hackers for your apps 👨🏻‍💻 
+
 ### [ni-qiuqiu](https://github.com/ni-qiuqiu)
 - 🌟 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
@@ -172,5 +176,5 @@
 
 
 ---
-*最后更新于 2025-09-23 15:24:20 UTC*
+*最后更新于 2025-09-23 15:42:25 UTC*
 *历史记录保存在 `archive` 目录中。*
