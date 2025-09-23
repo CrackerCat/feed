@@ -28,6 +28,10 @@
 - 🍴 👤 [GaoYuCan](https://github.com/GaoYuCan) Forked [r3kapig/r3kapig.github.io](https://github.com/r3kapig/r3kapig.github.io) to [GaoYuCan/r3kapig.github.io](https://github.com/GaoYuCan/r3kapig.github.io)
   > r3kapig website 
 
+### [Keyird](https://github.com/Keyird)
+- 🌟 👤 [Keyird](https://github.com/Keyird) Starred [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy)
+  > LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
+
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [dark-kingA/cloudTools](https://github.com/dark-kingA/cloudTools)
   > 云资产管理工具 目前工具定位是云安全相关工具，目前是两个模块 云存储工具、云服务工具， 云存储工具主要是针对oss存储、查看、删除、上传、下载、预览等等 云服务工具主要是针对rds、服务器的管理，查看...
@@ -49,6 +53,10 @@
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [adysec/meilisearch-dumper](https://github.com/adysec/meilisearch-dumper)
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [adysec/meilisearch-importer](https://github.com/adysec/meilisearch-importer)
   > A CLI to import massive CSV and NdJson into Meilisearch
+
+### [asLody](https://github.com/asLody)
+- 🌟 👤 [asLody](https://github.com/asLody) Starred [Sainan/steam-pics](https://github.com/Sainan/steam-pics)
+  > Not pictures.
 
 ### [chizhanyuefeng](https://github.com/chizhanyuefeng)
 - 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo)
@@ -75,6 +83,8 @@
 ### [hhhaiai](https://github.com/hhhaiai)
 - ✨ 👤 [hhhaiai](https://github.com/hhhaiai) Created new repo [hhhaiai/--bananaface](https://github.com/hhhaiai/--bananaface)
   > https://aistudio.google.com/apps/drive/1lGVhGS4MiVhq5TMMUQ3oB77JuPPrpK3t?showPreview=true&showAssist...
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [idinging/freemail](https://github.com/idinging/freemail)
+  > Cloudflare 域名邮箱系统搭建 domain mail tempmail
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [iszhanjiawei/indexTTS2](https://github.com/iszhanjiawei/indexTTS2)
@@ -184,5 +194,5 @@
 
 
 ---
-*最后更新于 2025-09-23 16:29:04 UTC*
+*最后更新于 2025-09-23 16:48:52 UTC*
 *历史记录保存在 `archive` 目录中。*
