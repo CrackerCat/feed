@@ -39,6 +39,8 @@
 ### [Keyird](https://github.com/Keyird)
 - 🌟 👤 [Keyird](https://github.com/Keyird) Starred [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy)
   > LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
+- 🌟 👤 [Keyird](https://github.com/Keyird) Starred [terobox/ChatGPT-API-Faucet](https://github.com/terobox/ChatGPT-API-Faucet)
+  > AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品
 
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [dark-kingA/cloudTools](https://github.com/dark-kingA/cloudTools)
@@ -83,6 +85,10 @@
   > :gear: A GitHub Action to download an artifact associated with given workflow and commit or other cr...
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [oprypin/nightly.link](https://github.com/oprypin/nightly.link)
   > Downloads the latest "nightly" build/artifact from a continuous testing workflow
+
+### [es3n1n](https://github.com/es3n1n)
+- ✨ 👤 [es3n1n](https://github.com/es3n1n) Created new repo [ctf-mt/finals.2025.ctf.mt](https://github.com/ctf-mt/finals.2025.ctf.mt)
+  > An archived version of finals.2025.ctf.mt
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [dre4merp/HeavenGate](https://github.com/dre4merp/HeavenGate) to [fengjixuchui/HeavenGate](https://github.com/fengjixuchui/HeavenGate)
@@ -227,8 +233,18 @@
   > A simple HTML5, YouTube and Vimeo player
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [videojs/video.js](https://github.com/videojs/video.js)
   > Video.js - open source HTML5 video player
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [ChathuraGH/videojs-skinmaster](https://github.com/ChathuraGH/videojs-skinmaster)
+  > The ultimate skin management plugin for Video.js with 30+ professionally designed skins, live previe...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [ZapprTV/videojs-plyr](https://github.com/ZapprTV/videojs-plyr)
+  > A skin for Video.js that makes it look like Plyr.
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [vidstack/player](https://github.com/vidstack/player)
+  > UI components and hooks for building video/audio players on the web. Robust, customizable, and acces...
+
+### [zu1kbackup](https://github.com/zu1kbackup)
+- 🍴 👤 [zu1kbackup](https://github.com/zu1kbackup) Forked [ZapprTV/videojs-plyr](https://github.com/ZapprTV/videojs-plyr) to [zu1kbackup/videojs-plyr](https://github.com/zu1kbackup/videojs-plyr)
+  > A skin for Video.js that makes it look like Plyr.
 
 
 ---
-*最后更新于 2025-09-23 20:25:17 UTC*
+*最后更新于 2025-09-23 20:42:00 UTC*
 *历史记录保存在 `archive` 目录中。*
