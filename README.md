@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [7etsuo](https://github.com/7etsuo)
+- 🌟 👤 [7etsuo](https://github.com/7etsuo) Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
+  > Wan: Open and Advanced Large-Scale Video Generative Models
+
 ### [Asabeneh](https://github.com/Asabeneh)
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [iamkun/dayjs](https://github.com/iamkun/dayjs)
   > ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
@@ -118,5 +122,5 @@
 
 
 ---
-*最后更新于 2025-09-23 11:18:45 UTC*
+*最后更新于 2025-09-23 11:39:20 UTC*
 *历史记录保存在 `archive` 目录中。*
