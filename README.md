@@ -54,6 +54,10 @@
 - 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)
   > 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
+  > Program for determining types of files for Windows, Linux and MacOS.
+
 ### [xiandanin](https://github.com/xiandanin)
 - 🌟 👤 [xiandanin](https://github.com/xiandanin) Starred [winfunc/opcode](https://github.com/winfunc/opcode)
   > A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Cod...
@@ -66,5 +70,5 @@
 
 
 ---
-*最后更新于 2025-09-23 09:24:51 UTC*
+*最后更新于 2025-09-23 09:42:01 UTC*
 *历史记录保存在 `archive` 目录中。*
