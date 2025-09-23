@@ -12,6 +12,10 @@
 - 🍴 👤 [GaoYuCan](https://github.com/GaoYuCan) Forked [r3kapig/r3kapig.github.io](https://github.com/r3kapig/r3kapig.github.io) to [GaoYuCan/r3kapig.github.io](https://github.com/GaoYuCan/r3kapig.github.io)
   > r3kapig website 
 
+### [No-Github](https://github.com/No-Github)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [dark-kingA/cloudTools](https://github.com/dark-kingA/cloudTools)
+  > 云资产管理工具 目前工具定位是云安全相关工具，目前是两个模块 云存储工具、云服务工具， 云存储工具主要是针对oss存储、查看、删除、上传、下载、预览等等 云服务工具主要是针对rds、服务器的管理，查看...
+
 ### [adysec](https://github.com/adysec)
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [adysec/meilisearch-dumper](https://github.com/adysec/meilisearch-dumper)
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [adysec/meilisearch-importer](https://github.com/adysec/meilisearch-importer)
@@ -58,6 +62,10 @@
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
   > Program for determining types of files for Windows, Linux and MacOS.
 
+### [wishihab](https://github.com/wishihab)
+- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [robotframework/robotframework](https://github.com/robotframework/robotframework)
+  > Generic automation framework for acceptance testing and RPA
+
 ### [xiandanin](https://github.com/xiandanin)
 - 🌟 👤 [xiandanin](https://github.com/xiandanin) Starred [winfunc/opcode](https://github.com/winfunc/opcode)
   > A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Cod...
@@ -70,5 +78,5 @@
 
 
 ---
-*最后更新于 2025-09-23 09:42:01 UTC*
+*最后更新于 2025-09-23 10:23:50 UTC*
 *历史记录保存在 `archive` 目录中。*
