@@ -119,6 +119,10 @@
 - 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > ✨ Open-source AI hackers for your apps 👨🏻‍💻 
 
+### [lixiaoliu666](https://github.com/lixiaoliu666)
+- 🌟 👤 [lixiaoliu666](https://github.com/lixiaoliu666) Starred [AtkCore/ForgeHook](https://github.com/AtkCore/ForgeHook)
+  > ForgeHook 🎣 Hook script for randomizing hardware values in VMID.conf
+
 ### [ni-qiuqiu](https://github.com/ni-qiuqiu)
 - 🌟 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
@@ -140,6 +144,10 @@
 ### [r00tuser111](https://github.com/r00tuser111)
 - 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)
   > 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
+
+### [r0eXpeR](https://github.com/r0eXpeR)
+- 🌟 👤 [r0eXpeR](https://github.com/r0eXpeR) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
+  > Decompiler written in Rust
 
 ### [redbearder](https://github.com/redbearder)
 - 🌟 👤 [redbearder](https://github.com/redbearder) Starred [sinanejadebrahim/grafana-alert-template](https://github.com/sinanejadebrahim/grafana-alert-template)
@@ -176,5 +184,5 @@
 
 
 ---
-*最后更新于 2025-09-23 15:42:25 UTC*
+*最后更新于 2025-09-23 16:29:04 UTC*
 *历史记录保存在 `archive` 目录中。*
