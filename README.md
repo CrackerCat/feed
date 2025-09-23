@@ -79,6 +79,10 @@
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [Sainan/steam-pics](https://github.com/Sainan/steam-pics)
   > Not pictures.
 
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium)
+  > Build your personal knowledge base with Trilium Notes
+
 ### [chizhanyuefeng](https://github.com/chizhanyuefeng)
 - 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo)
   > MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
@@ -102,13 +106,23 @@
   > An archived version of finals.2025.ctf.mt
 - ✨ 👤 [es3n1n](https://github.com/es3n1n) Created new repo [ctf-mt/maltactf-2025-finals](https://github.com/ctf-mt/maltactf-2025-finals)
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [enetx/surf](https://github.com/enetx/surf)
+  > SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerpri...
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [dre4merp/HeavenGate](https://github.com/dre4merp/HeavenGate) to [fengjixuchui/HeavenGate](https://github.com/fengjixuchui/HeavenGate)
   > Heaven's Gate
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [rxi/sj.h](https://github.com/rxi/sj.h) to [fengjixuchui/sj.h](https://github.com/fengjixuchui/sj.h)
+  > A tiny little JSON parsing library
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [containerscrew/rootisnaked](https://github.com/containerscrew/rootisnaked) to [fengjixuchui/rootisnaked](https://github.com/fengjixuchui/rootisnaked)
+  > Simple root privilege escalation detection using eBPF 🐝
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch)
   > 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [rizinorg/rizin](https://github.com/rizinorg/rizin)
+  > UNIX-like reverse engineering framework and command-line toolset.
 
 ### [fjqisba](https://github.com/fjqisba)
 - 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [gzerveas/mvts_transformer](https://github.com/gzerveas/mvts_transformer)
@@ -149,6 +163,10 @@
 ### [ignis-sec](https://github.com/ignis-sec)
 - 🌟 👤 [ignis-sec](https://github.com/ignis-sec) Starred [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
   > ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video genera...
+
+### [infosecn1nja](https://github.com/infosecn1nja)
+- 🌟 👤 [infosecn1nja](https://github.com/infosecn1nja) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
+  > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [iszhanjiawei/indexTTS2](https://github.com/iszhanjiawei/indexTTS2)
@@ -238,6 +256,14 @@
 - 🍴 👤 [rxwx](https://github.com/rxwx) Forked [mdsteele/rust-cfb](https://github.com/mdsteele/rust-cfb) to [rxwx/rust-cfb](https://github.com/rxwx/rust-cfb)
   > Rust library for reading/writing Compound File Binary (structured storage) files
 
+### [sh1ma](https://github.com/sh1ma)
+- 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [coinbase/x402](https://github.com/coinbase/x402)
+  > A payments protocol for the internet. Built on HTTP.
+- 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [AdnaneKhan/gato-x](https://github.com/AdnaneKhan/gato-x)
+  > GitHub Attack Toolkit - Extreme Edition - A static analysis and exploit toolkit for GitHub Actions.
+- 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
+  > Static analysis for GitHub Actions
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
   > Program for determining types of files for Windows, Linux and MacOS.
@@ -282,5 +308,5 @@
 
 
 ---
-*最后更新于 2025-09-23 22:40:33 UTC*
+*最后更新于 2025-09-23 23:19:11 UTC*
 *历史记录保存在 `archive` 目录中。*
