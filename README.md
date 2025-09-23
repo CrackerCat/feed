@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [76op](https://github.com/76op)
+- 🌟 👤 [76op](https://github.com/76op) Starred [sxqsfun/fcitx5-sogou-themes](https://github.com/sxqsfun/fcitx5-sogou-themes)
+  > 几款 极简风 搜狗皮肤转换的 fcitx5主题😄️😄️😄️
+
 ### [7etsuo](https://github.com/7etsuo)
 - 🌟 👤 [7etsuo](https://github.com/7etsuo) Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
   > Wan: Open and Advanced Large-Scale Video Generative Models
+
+### [AEnjoy](https://github.com/AEnjoy)
+- ✨ 👤 [AEnjoy](https://github.com/AEnjoy) Created new repo [TogetherForStudy/.github](https://github.com/TogetherForStudy/.github)
+  > About Together For Study
 
 ### [Asabeneh](https://github.com/Asabeneh)
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [iamkun/dayjs](https://github.com/iamkun/dayjs)
@@ -29,6 +37,9 @@
   > Standalone HVNC Client & Server | Written in C++ (Modified Tinynuke)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [qwqdanchun/HVNC](https://github.com/qwqdanchun/HVNC)
   > 基于Tinynuke修复得到的HVNC
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [lyscf/FlowSage](https://github.com/lyscf/FlowSage)
+  > 一款专为 CTF 竞赛设计的智能流量分析工具，支持多协议解析与自动化 Flag 提取，助力快速解题。
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2)
 
 ### [adysec](https://github.com/adysec)
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [adysec/meilisearch-dumper](https://github.com/adysec/meilisearch-dumper)
@@ -39,6 +50,12 @@
 - 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo)
   > MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
 
+### [elllusion](https://github.com/elllusion)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [dawidd6/action-download-artifact](https://github.com/dawidd6/action-download-artifact)
+  > :gear: A GitHub Action to download an artifact associated with given workflow and commit or other cr...
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [oprypin/nightly.link](https://github.com/oprypin/nightly.link)
+  > Downloads the latest "nightly" build/artifact from a continuous testing workflow
+
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch)
   > 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
@@ -46,6 +63,10 @@
 ### [fjqisba](https://github.com/fjqisba)
 - 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [gzerveas/mvts_transformer](https://github.com/gzerveas/mvts_transformer)
   > Multivariate Time Series Transformer, public version
+
+### [gh0stkey](https://github.com/gh0stkey)
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
+  > TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - ✨ 👤 [hhhaiai](https://github.com/hhhaiai) Created new repo [hhhaiai/--bananaface](https://github.com/hhhaiai/--bananaface)
@@ -75,6 +96,20 @@
   > Red Team reporting and analytics platform
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg)
   > Open source image background removal model
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
+  > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xsp-SRD/ZigStrike](https://github.com/0xsp-SRD/ZigStrike)
+  > ZigStrike, a powerful Payload Delivery Pipeline developed in Zig, offering a variety of injection te...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [microsoft/AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs)
+  > AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [d0ge/WebSocketTurboIntruder](https://github.com/d0ge/WebSocketTurboIntruder)
+  > Fuzz WebSockets with custom Python code
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
+  > Wan: Open and Advanced Large-Scale Video Generative Models
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ofkm/arcane](https://github.com/ofkm/arcane)
+  > Modern Docker Management, Designed for Everyone
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xricksanchez/like-dbg](https://github.com/0xricksanchez/like-dbg)
+  > Fully dockerized Linux kernel debugging environment
 
 ### [ni-qiuqiu](https://github.com/ni-qiuqiu)
 - 🌟 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
@@ -97,6 +132,13 @@
 ### [r00tuser111](https://github.com/r00tuser111)
 - 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)
   > 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
+
+### [redbearder](https://github.com/redbearder)
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [sinanejadebrahim/grafana-alert-template](https://github.com/sinanejadebrahim/grafana-alert-template)
+  > Grafana Alert Template Made in Heaven :D
+
+### [rogxo](https://github.com/rogxo)
+- ✨ 👤 [rogxo](https://github.com/rogxo) Created new repo [rogxo/pdb_proxy](https://github.com/rogxo/pdb_proxy)
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
@@ -126,5 +168,5 @@
 
 
 ---
-*最后更新于 2025-09-23 13:31:35 UTC*
+*最后更新于 2025-09-23 14:23:02 UTC*
 *历史记录保存在 `archive` 目录中。*
