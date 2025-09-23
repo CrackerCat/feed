@@ -42,6 +42,10 @@
 - 🌟 👤 [Keyird](https://github.com/Keyird) Starred [terobox/ChatGPT-API-Faucet](https://github.com/terobox/ChatGPT-API-Faucet)
   > AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品
 
+### [LaPhilosophie](https://github.com/LaPhilosophie)
+- 🌟 👤 [LaPhilosophie](https://github.com/LaPhilosophie) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
+  > Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, ...
+
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [dark-kingA/cloudTools](https://github.com/dark-kingA/cloudTools)
   > 云资产管理工具 目前工具定位是云安全相关工具，目前是两个模块 云存储工具、云服务工具， 云存储工具主要是针对oss存储、查看、删除、上传、下载、预览等等 云服务工具主要是针对rds、服务器的管理，查看...
@@ -59,6 +63,9 @@
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara)
   > IDA pro plugin to find crypto constants (and more)
 
+### [WooyunDota](https://github.com/WooyunDota)
+- 🌟 👤 [WooyunDota](https://github.com/WooyunDota) Starred [ZJUAISafety/DeepSeek-R1-Safe](https://github.com/ZJUAISafety/DeepSeek-R1-Safe)
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [4sval/FModel](https://github.com/4sval/FModel)
   > Unreal Engine Archives Explorer
@@ -75,6 +82,10 @@
 ### [chizhanyuefeng](https://github.com/chizhanyuefeng)
 - 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo)
   > MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
+
+### [cweijan](https://github.com/cweijan)
+- 🌟 👤 [cweijan](https://github.com/cweijan) Starred [chroming/pdfdir](https://github.com/chroming/pdfdir)
+  > PDF导航（大纲/目录）添加工具
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [piqoni/vogte](https://github.com/piqoni/vogte)
@@ -202,6 +213,10 @@
 ### [rogxo](https://github.com/rogxo)
 - ✨ 👤 [rogxo](https://github.com/rogxo) Created new repo [rogxo/pdb_proxy](https://github.com/rogxo/pdb_proxy)
 
+### [rxwx](https://github.com/rxwx)
+- 🍴 👤 [rxwx](https://github.com/rxwx) Forked [mdsteele/rust-cfb](https://github.com/mdsteele/rust-cfb) to [rxwx/rust-cfb](https://github.com/rxwx/rust-cfb)
+  > Rust library for reading/writing Compound File Binary (structured storage) files
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
   > Program for determining types of files for Windows, Linux and MacOS.
@@ -246,5 +261,5 @@
 
 
 ---
-*最后更新于 2025-09-23 20:42:00 UTC*
+*最后更新于 2025-09-23 21:19:33 UTC*
 *历史记录保存在 `archive` 目录中。*
