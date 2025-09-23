@@ -19,6 +19,8 @@
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [dark-kingA/cloudTools](https://github.com/dark-kingA/cloudTools)
   > 云资产管理工具 目前工具定位是云安全相关工具，目前是两个模块 云存储工具、云服务工具， 云存储工具主要是针对oss存储、查看、删除、上传、下载、预览等等 云服务工具主要是针对rds、服务器的管理，查看...
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [MaangoTaachyon/SelfDeletion-Updated](https://github.com/MaangoTaachyon/SelfDeletion-Updated)
+  > Updated version of a long known self deletion technique to work with 24H2. 
 
 ### [adysec](https://github.com/adysec)
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [adysec/meilisearch-dumper](https://github.com/adysec/meilisearch-dumper)
@@ -32,6 +34,14 @@
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch)
   > 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
+
+### [fjqisba](https://github.com/fjqisba)
+- 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [gzerveas/mvts_transformer](https://github.com/gzerveas/mvts_transformer)
+  > Multivariate Time Series Transformer, public version
+
+### [hhhaiai](https://github.com/hhhaiai)
+- ✨ 👤 [hhhaiai](https://github.com/hhhaiai) Created new repo [hhhaiai/--bananaface](https://github.com/hhhaiai/--bananaface)
+  > https://aistudio.google.com/apps/drive/1lGVhGS4MiVhq5TMMUQ3oB77JuPPrpK3t?showPreview=true&showAssist...
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [iszhanjiawei/indexTTS2](https://github.com/iszhanjiawei/indexTTS2)
@@ -108,5 +118,5 @@
 
 
 ---
-*最后更新于 2025-09-23 10:43:29 UTC*
+*最后更新于 2025-09-23 11:18:45 UTC*
 *历史记录保存在 `archive` 目录中。*
