@@ -8,6 +8,10 @@
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [iamkun/dayjs](https://github.com/iamkun/dayjs)
   > ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 
+### [Cc28256](https://github.com/Cc28256)
+- 🌟 👤 [Cc28256](https://github.com/Cc28256) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
+  > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
+
 ### [GaoYuCan](https://github.com/GaoYuCan)
 - 🍴 👤 [GaoYuCan](https://github.com/GaoYuCan) Forked [r3kapig/r3kapig.github.io](https://github.com/r3kapig/r3kapig.github.io) to [GaoYuCan/r3kapig.github.io](https://github.com/GaoYuCan/r3kapig.github.io)
   > r3kapig website 
@@ -25,6 +29,10 @@
 - 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo)
   > MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
 
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch)
+  > 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [iszhanjiawei/indexTTS2](https://github.com/iszhanjiawei/indexTTS2)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [varun-r-mallya/Python-BPF](https://github.com/varun-r-mallya/Python-BPF)
@@ -40,6 +48,16 @@
 - 🌟 👤 [jweny](https://github.com/jweny) Starred [cloudwego/eino-ext](https://github.com/cloudwego/eino-ext)
   > Various extensions for the Eino framework: https://github.com/cloudwego/eino
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [lkrg-org/lkrg](https://github.com/lkrg-org/lkrg)
+  > Linux Kernel Runtime Guard
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [lkrg-org/lkrg](https://github.com/lkrg-org/lkrg) to [killvxk/lkrg](https://github.com/killvxk/lkrg)
+  > Linux Kernel Runtime Guard
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [initstring/TTPx](https://github.com/initstring/TTPx)
+  > Red Team reporting and analytics platform
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [withoutbg/withoutbg](https://github.com/withoutbg/withoutbg)
+  > Open source image background removal model
+
 ### [ni-qiuqiu](https://github.com/ni-qiuqiu)
 - 🌟 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
@@ -54,6 +72,10 @@
 - 🌟 👤 [phith0n](https://github.com/phith0n) Starred [tufanbarisyildirim/gonginx](https://github.com/tufanbarisyildirim/gonginx)
   >  Nginx configuration parser helps you to parse, edit, regenerate your nginx config in your go applic...
 
+### [qtfreet00](https://github.com/qtfreet00)
+- 🌟 👤 [qtfreet00](https://github.com/qtfreet00) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
+  > A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
 ### [r00tuser111](https://github.com/r00tuser111)
 - 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)
   > 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
@@ -62,9 +84,17 @@
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
   > Program for determining types of files for Windows, Linux and MacOS.
 
+### [tzp4439](https://github.com/tzp4439)
+- 🍴 👤 [tzp4439](https://github.com/tzp4439) Forked [CrackerCat/Assists](https://github.com/CrackerCat/Assists) to [tzp4439/Assists](https://github.com/tzp4439/Assists)
+  > 🔥Android无障碍服务（AccessibilityService）开发框架，Android自动化脚本框架，快速开发复杂自动化任务、远程协助、监听等
+
 ### [wishihab](https://github.com/wishihab)
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [robotframework/robotframework](https://github.com/robotframework/robotframework)
   > Generic automation framework for acceptance testing and RPA
+
+### [xbyl1234](https://github.com/xbyl1234)
+- 🍴 👤 [xbyl1234](https://github.com/xbyl1234) Forked [rednaga/APKiD](https://github.com/rednaga/APKiD) to [xbyl1234/APKiD](https://github.com/xbyl1234/APKiD)
+  > Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
 
 ### [xiandanin](https://github.com/xiandanin)
 - 🌟 👤 [xiandanin](https://github.com/xiandanin) Starred [winfunc/opcode](https://github.com/winfunc/opcode)
@@ -78,5 +108,5 @@
 
 
 ---
-*最后更新于 2025-09-23 10:23:50 UTC*
+*最后更新于 2025-09-23 10:43:29 UTC*
 *历史记录保存在 `archive` 目录中。*
