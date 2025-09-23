@@ -109,6 +109,8 @@
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [enetx/surf](https://github.com/enetx/surf)
   > SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerpri...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [danielgtaylor/huma](https://github.com/danielgtaylor/huma)
+  > Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [dre4merp/HeavenGate](https://github.com/dre4merp/HeavenGate) to [fengjixuchui/HeavenGate](https://github.com/fengjixuchui/HeavenGate)
@@ -308,5 +310,5 @@
 
 
 ---
-*最后更新于 2025-09-23 23:19:11 UTC*
+*最后更新于 2025-09-23 23:38:54 UTC*
 *历史记录保存在 `archive` 目录中。*
