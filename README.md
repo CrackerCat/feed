@@ -8,6 +8,10 @@
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [iamkun/dayjs](https://github.com/iamkun/dayjs)
   > ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 
+### [GaoYuCan](https://github.com/GaoYuCan)
+- 🍴 👤 [GaoYuCan](https://github.com/GaoYuCan) Forked [r3kapig/r3kapig.github.io](https://github.com/r3kapig/r3kapig.github.io) to [GaoYuCan/r3kapig.github.io](https://github.com/GaoYuCan/r3kapig.github.io)
+  > r3kapig website 
+
 ### [adysec](https://github.com/adysec)
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [adysec/meilisearch-dumper](https://github.com/adysec/meilisearch-dumper)
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [adysec/meilisearch-importer](https://github.com/adysec/meilisearch-importer)
@@ -19,6 +23,10 @@
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [iszhanjiawei/indexTTS2](https://github.com/iszhanjiawei/indexTTS2)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [varun-r-mallya/Python-BPF](https://github.com/varun-r-mallya/Python-BPF)
+  > Python Frontend to LLVM IR for eBPF programs in Pure Python
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [openwrt/openwrt](https://github.com/openwrt/openwrt)
+  > This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only ...
 
 ### [jiushill](https://github.com/jiushill)
 - 🌟 👤 [jiushill](https://github.com/jiushill) Starred [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub)
@@ -31,6 +39,12 @@
 ### [ni-qiuqiu](https://github.com/ni-qiuqiu)
 - 🌟 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
+### [pen4uin](https://github.com/pen4uin)
+- 🌟 👤 [pen4uin](https://github.com/pen4uin) Starred [CyborgSecurity/PoisonApple](https://github.com/CyborgSecurity/PoisonApple)
+  > macOS persistence tool
+- 🌟 👤 [pen4uin](https://github.com/pen4uin) Starred [D00MFist/PersistentJXA](https://github.com/D00MFist/PersistentJXA)
+  > Collection of macOS persistence methods and miscellaneous tools in JXA
 
 ### [phith0n](https://github.com/phith0n)
 - 🌟 👤 [phith0n](https://github.com/phith0n) Starred [tufanbarisyildirim/gonginx](https://github.com/tufanbarisyildirim/gonginx)
@@ -47,8 +61,10 @@
 ### [zinja-coder](https://github.com/zinja-coder)
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification)
   > A Frida script that disables Flutter's TLS verification
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [raise-isayan/TunProxy](https://github.com/raise-isayan/TunProxy)
+  > Android VPN interceptor to send HTTP and HTTPS traffic to a proxy
 
 
 ---
-*最后更新于 2025-09-23 08:49:51 UTC*
+*最后更新于 2025-09-23 09:24:51 UTC*
 *历史记录保存在 `archive` 目录中。*
