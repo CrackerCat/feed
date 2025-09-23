@@ -100,6 +100,7 @@
 ### [es3n1n](https://github.com/es3n1n)
 - ✨ 👤 [es3n1n](https://github.com/es3n1n) Created new repo [ctf-mt/finals.2025.ctf.mt](https://github.com/ctf-mt/finals.2025.ctf.mt)
   > An archived version of finals.2025.ctf.mt
+- ✨ 👤 [es3n1n](https://github.com/es3n1n) Created new repo [ctf-mt/maltactf-2025-finals](https://github.com/ctf-mt/maltactf-2025-finals)
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [dre4merp/HeavenGate](https://github.com/dre4merp/HeavenGate) to [fengjixuchui/HeavenGate](https://github.com/fengjixuchui/HeavenGate)
@@ -142,6 +143,8 @@
   > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdow...
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [chen08209/FlClash-fdroid-repo](https://github.com/chen08209/FlClash-fdroid-repo)
   > FlClash fdroid repo
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [AllenDang/wxDragon](https://github.com/AllenDang/wxDragon)
+  > Cross-platform GUI development with wxWidgets and Rust.
 
 ### [ignis-sec](https://github.com/ignis-sec)
 - 🌟 👤 [ignis-sec](https://github.com/ignis-sec) Starred [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
@@ -279,5 +282,5 @@
 
 
 ---
-*最后更新于 2025-09-23 22:20:19 UTC*
+*最后更新于 2025-09-23 22:40:33 UTC*
 *历史记录保存在 `archive` 目录中。*
