@@ -113,9 +113,19 @@
 - 🌟 👤 [fjqisba](https://github.com/fjqisba) Starred [gzerveas/mvts_transformer](https://github.com/gzerveas/mvts_transformer)
   > Multivariate Time Series Transformer, public version
 
+### [fynch3r](https://github.com/fynch3r)
+- 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io)
+  > GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions i...
+
 ### [gh0stkey](https://github.com/gh0stkey)
 - 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
   > TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+
+### [gmh5225](https://github.com/gmh5225)
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [vllm-project/llm-compressor](https://github.com/vllm-project/llm-compressor)
+  > Transformers-compatible library for applying various compression algorithms to LLMs for optimized de...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [vllm-project/recipes](https://github.com/vllm-project/recipes) to [gmh5225/recipes-vllm](https://github.com/gmh5225/recipes-vllm)
+  > Common recipes to run vLLM
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - ✨ 👤 [hhhaiai](https://github.com/hhhaiai) Created new repo [hhhaiai/--bananaface](https://github.com/hhhaiai/--bananaface)
@@ -124,6 +134,14 @@
   > Cloudflare 域名邮箱系统搭建 domain mail tempmail
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)
   > AIClient2API：模拟Gemini CLI，Qwen Code和Kiro 客户端请求，兼容OpenAI API。可每日千次Gemini模型请求， 免费使用Kiro内置Claude模型。通过AP...
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [jgraph/drawio-libs](https://github.com/jgraph/drawio-libs)
+  > Libraries for draw.io
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [jgraph/mermaid](https://github.com/jgraph/mermaid)
+  > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdow...
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+  > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdow...
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [chen08209/FlClash-fdroid-repo](https://github.com/chen08209/FlClash-fdroid-repo)
+  > FlClash fdroid repo
 
 ### [ignis-sec](https://github.com/ignis-sec)
 - 🌟 👤 [ignis-sec](https://github.com/ignis-sec) Starred [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
@@ -261,5 +279,5 @@
 
 
 ---
-*最后更新于 2025-09-23 21:38:34 UTC*
+*最后更新于 2025-09-23 22:20:19 UTC*
 *历史记录保存在 `archive` 目录中。*
