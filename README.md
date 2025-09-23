@@ -105,6 +105,8 @@
   > https://aistudio.google.com/apps/drive/1lGVhGS4MiVhq5TMMUQ3oB77JuPPrpK3t?showPreview=true&showAssist...
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [idinging/freemail](https://github.com/idinging/freemail)
   > Cloudflare 域名邮箱系统搭建 domain mail tempmail
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)
+  > AIClient2API：模拟Gemini CLI，Qwen Code和Kiro 客户端请求，兼容OpenAI API。可每日千次Gemini模型请求， 免费使用Kiro内置Claude模型。通过AP...
 
 ### [ignis-sec](https://github.com/ignis-sec)
 - 🌟 👤 [ignis-sec](https://github.com/ignis-sec) Starred [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
@@ -220,7 +222,13 @@
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [raise-isayan/TunProxy](https://github.com/raise-isayan/TunProxy)
   > Android VPN interceptor to send HTTP and HTTPS traffic to a proxy
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [sampotts/plyr](https://github.com/sampotts/plyr)
+  > A simple HTML5, YouTube and Vimeo player
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [videojs/video.js](https://github.com/videojs/video.js)
+  > Video.js - open source HTML5 video player
+
 
 ---
-*最后更新于 2025-09-23 19:38:58 UTC*
+*最后更新于 2025-09-23 20:25:17 UTC*
 *历史记录保存在 `archive` 目录中。*
