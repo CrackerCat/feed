@@ -16,6 +16,10 @@
 - ✨ 👤 [AEnjoy](https://github.com/AEnjoy) Created new repo [TogetherForStudy/.github](https://github.com/TogetherForStudy/.github)
   > About Together For Study
 
+### [AnkioTomas](https://github.com/AnkioTomas)
+- ✨ 👤 [AnkioTomas](https://github.com/AnkioTomas) Created new repo [NovaPHPOrg/nova-mcp](https://github.com/NovaPHPOrg/nova-mcp)
+  > mcp支持
+
 ### [Asabeneh](https://github.com/Asabeneh)
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [iamkun/dayjs](https://github.com/iamkun/dayjs)
   > ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
@@ -23,6 +27,10 @@
 ### [Cc28256](https://github.com/Cc28256)
 - 🌟 👤 [Cc28256](https://github.com/Cc28256) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
   > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [KingOfTheNOPs/Get-NetNTLM](https://github.com/KingOfTheNOPs/Get-NetNTLM)
+  > Internal Monologue BOF
 
 ### [GaoYuCan](https://github.com/GaoYuCan)
 - 🍴 👤 [GaoYuCan](https://github.com/GaoYuCan) Forked [r3kapig/r3kapig.github.io](https://github.com/r3kapig/r3kapig.github.io) to [GaoYuCan/r3kapig.github.io](https://github.com/GaoYuCan/r3kapig.github.io)
@@ -49,6 +57,10 @@
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara)
   > IDA pro plugin to find crypto constants (and more)
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [4sval/FModel](https://github.com/4sval/FModel)
+  > Unreal Engine Archives Explorer
+
 ### [adysec](https://github.com/adysec)
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [adysec/meilisearch-dumper](https://github.com/adysec/meilisearch-dumper)
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [adysec/meilisearch-importer](https://github.com/adysec/meilisearch-importer)
@@ -61,6 +73,10 @@
 ### [chizhanyuefeng](https://github.com/chizhanyuefeng)
 - 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo)
   > MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
+
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [piqoni/vogte](https://github.com/piqoni/vogte)
+  > The Agentic TUI for Go codebases
 
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [dawidd6/action-download-artifact](https://github.com/dawidd6/action-download-artifact)
@@ -194,5 +210,5 @@
 
 
 ---
-*最后更新于 2025-09-23 16:48:52 UTC*
+*最后更新于 2025-09-23 17:27:11 UTC*
 *历史记录保存在 `archive` 目录中。*
