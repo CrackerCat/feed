@@ -25,6 +25,10 @@
   > 云资产管理工具 目前工具定位是云安全相关工具，目前是两个模块 云存储工具、云服务工具， 云存储工具主要是针对oss存储、查看、删除、上传、下载、预览等等 云服务工具主要是针对rds、服务器的管理，查看...
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [MaangoTaachyon/SelfDeletion-Updated](https://github.com/MaangoTaachyon/SelfDeletion-Updated)
   > Updated version of a long known self deletion technique to work with 24H2. 
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [Meltedd/HVNC](https://github.com/Meltedd/HVNC)
+  > Standalone HVNC Client & Server | Written in C++ (Modified Tinynuke)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [qwqdanchun/HVNC](https://github.com/qwqdanchun/HVNC)
+  > 基于Tinynuke修复得到的HVNC
 
 ### [adysec](https://github.com/adysec)
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [adysec/meilisearch-dumper](https://github.com/adysec/meilisearch-dumper)
@@ -122,5 +126,5 @@
 
 
 ---
-*最后更新于 2025-09-23 11:39:20 UTC*
+*最后更新于 2025-09-23 12:47:00 UTC*
 *历史记录保存在 `archive` 目录中。*
