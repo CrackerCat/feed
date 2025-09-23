@@ -41,6 +41,10 @@
   > 一款专为 CTF 竞赛设计的智能流量分析工具，支持多协议解析与自动化 Flag 提取，助力快速解题。
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2)
 
+### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
+- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara)
+  > IDA pro plugin to find crypto constants (and more)
+
 ### [adysec](https://github.com/adysec)
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [adysec/meilisearch-dumper](https://github.com/adysec/meilisearch-dumper)
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [adysec/meilisearch-importer](https://github.com/adysec/meilisearch-importer)
@@ -168,5 +172,5 @@
 
 
 ---
-*最后更新于 2025-09-23 14:23:02 UTC*
+*最后更新于 2025-09-23 14:44:35 UTC*
 *历史记录保存在 `archive` 目录中。*
