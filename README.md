@@ -102,6 +102,10 @@
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [idinging/freemail](https://github.com/idinging/freemail)
   > Cloudflare 域名邮箱系统搭建 domain mail tempmail
 
+### [ignis-sec](https://github.com/ignis-sec)
+- 🌟 👤 [ignis-sec](https://github.com/ignis-sec) Starred [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
+  > ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video genera...
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [iszhanjiawei/indexTTS2](https://github.com/iszhanjiawei/indexTTS2)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [varun-r-mallya/Python-BPF](https://github.com/varun-r-mallya/Python-BPF)
@@ -210,5 +214,5 @@
 
 
 ---
-*最后更新于 2025-09-23 17:27:11 UTC*
+*最后更新于 2025-09-23 17:39:23 UTC*
 *历史记录保存在 `archive` 目录中。*
