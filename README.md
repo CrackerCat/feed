@@ -210,6 +210,8 @@
 ### [daisixuan](https://github.com/daisixuan)
 - 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [sucsand/sucsand](https://github.com/sucsand/sucsand)
   > Inject gadget.so into target app via Zygisk. Only supports arm64
+- 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [Tencent/matrix](https://github.com/Tencent/matrix)
+  > Matrix is a plugin style, non-invasive APM system developed by WeChat.
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [docker/docker-bench-security](https://github.com/docker/docker-bench-security)
@@ -436,5 +438,5 @@
 
 
 ---
-*最后更新于 2025-09-24 23:20:22 UTC*
+*最后更新于 2025-09-24 23:38:52 UTC*
 *历史记录保存在 `archive` 目录中。*
