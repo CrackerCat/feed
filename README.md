@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [DerekSelander](https://github.com/DerekSelander)
+- 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [SongXiaoXi/Reductant](https://github.com/SongXiaoXi/Reductant)
+  > Translate and patch arm64e binaries or macOS arm64 binaries to run on an arm64 iPhone at runtime.
+
 ### [FlyingYu-Z](https://github.com/FlyingYu-Z)
 - 🌟 👤 [FlyingYu-Z](https://github.com/FlyingYu-Z) Starred [linebender/xilem](https://github.com/linebender/xilem)
   > An experimental Rust native UI framework
@@ -16,6 +20,12 @@
 
 ### [KuLiPai](https://github.com/KuLiPai)
 - 🍴 👤 [KuLiPai](https://github.com/KuLiPai) Forked [1pd17nK/FCK](https://github.com/1pd17nK/FCK) to [KuLiPai/FCK](https://github.com/KuLiPai/FCK)
+
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [ImGuiNET/ImGui.NET-nativebuild](https://github.com/ImGuiNET/ImGui.NET-nativebuild)
+  > Windows/macOS/Linux/iOS/Android build automation for cimgui. Used to package up ImGui.NET.
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [psydack/uimgui](https://github.com/psydack/uimgui)
+  > UImGui (Unity ImGui) is an UPM package for the immediate mode GUI library using ImGui.NET. This proj...
 
 ### [Le1a](https://github.com/Le1a)
 - 🌟 👤 [Le1a](https://github.com/Le1a) Starred [learnerLj/geth-analyze](https://github.com/learnerLj/geth-analyze)
@@ -61,6 +71,10 @@
 - 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [YOLOP0wn/yolo-mssqlclient](https://github.com/YOLOP0wn/yolo-mssqlclient)
   > custom impacket mssqlclient
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [yuuouu/ColorOS-CVE-2025-10184](https://github.com/yuuouu/ColorOS-CVE-2025-10184)
+  > ColorOS短信漏洞
+
 ### [SherlockChiang](https://github.com/SherlockChiang)
 - 🌟 👤 [SherlockChiang](https://github.com/SherlockChiang) Starred [AXEVO/Clash-MIX](https://github.com/AXEVO/Clash-MIX)
 
@@ -98,6 +112,8 @@
 ### [cozis](https://github.com/cozis)
 - 🚀 👤 [cozis](https://github.com/cozis) Made [cozis/cWEB](https://github.com/cozis/cWEB) public
   > A zero-dependency web development framework in a single C header file
+- 🌟 👤 [cozis](https://github.com/cozis) Starred [jorisvink/kore](https://github.com/jorisvink/kore)
+  > An easy to use, scalable and secure web application framework for writing web APIs in C or Python. |...
 
 ### [daisixuan](https://github.com/daisixuan)
 - 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [sucsand/sucsand](https://github.com/sucsand/sucsand)
@@ -230,6 +246,8 @@
   > Initial Access and Post-Exploitation Tool for AAD and O365 with a browser-based GUI
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [denniskniep/DeviceCodePhishing](https://github.com/denniskniep/DeviceCodePhishing)
   > This is a novel technique that leverages the well-known Device Code phishing approach. It dynamicall...
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [SpecterOps/AzureHound](https://github.com/SpecterOps/AzureHound)
+  > Azure Data Exporter for BloodHound
 
 ### [rifsxd](https://github.com/rifsxd)
 - 🍴 👤 [rifsxd](https://github.com/rifsxd) Forked [peridot-dev/android_kernel_xiaomi_sm8635](https://github.com/peridot-dev/android_kernel_xiaomi_sm8635) to [rifsxd/android_kernel_xiaomi_sm8635](https://github.com/rifsxd/android_kernel_xiaomi_sm8635)
@@ -237,6 +255,10 @@
 ### [rogxo](https://github.com/rogxo)
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [nefarius/WinDbgSymbolsCachingProxy](https://github.com/nefarius/WinDbgSymbolsCachingProxy)
   > WinDbg Symbols Caching Proxy.
+
+### [sion-codin](https://github.com/sion-codin)
+- 🍴 👤 [sion-codin](https://github.com/sion-codin) Forked [tree-sitter/swift-tree-sitter](https://github.com/tree-sitter/swift-tree-sitter) to [sion-codin/swift-tree-sitter](https://github.com/sion-codin/swift-tree-sitter)
+  > Swift API for the tree-sitter incremental parsing system
 
 ### [sky-co](https://github.com/sky-co)
 - ✨ 👤 [sky-co](https://github.com/sky-co) Created new repo [sky-co/cpp_performance_tunning](https://github.com/sky-co/cpp_performance_tunning)
@@ -263,6 +285,12 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor)
   > Powerful android apk editor - aapt/aapt2 independent
 
+### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [yourtion/30dayMakeOS](https://github.com/yourtion/30dayMakeOS)
+  > 《30天自制操作系统》源码中文版。自己制作一个操作系统（OSASK）的过程
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [uchan-nos/mikanos](https://github.com/uchan-nos/mikanos)
+  > Educational Operating System
+
 ### [willnjohnson](https://github.com/willnjohnson)
 - 🌟 👤 [willnjohnson](https://github.com/willnjohnson) Starred [CrackerCat/IDA-Patcher-](https://github.com/CrackerCat/IDA-Patcher-)
   > IDA Pro Patcher & License Generator
@@ -285,5 +313,5 @@
 
 
 ---
-*最后更新于 2025-09-24 19:38:42 UTC*
+*最后更新于 2025-09-24 20:26:09 UTC*
 *历史记录保存在 `archive` 目录中。*
