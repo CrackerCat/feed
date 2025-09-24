@@ -61,6 +61,9 @@
 - 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [YOLOP0wn/yolo-mssqlclient](https://github.com/YOLOP0wn/yolo-mssqlclient)
   > custom impacket mssqlclient
 
+### [SherlockChiang](https://github.com/SherlockChiang)
+- 🌟 👤 [SherlockChiang](https://github.com/SherlockChiang) Starred [AXEVO/Clash-MIX](https://github.com/AXEVO/Clash-MIX)
+
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [voidvxvt/HellBunny](https://github.com/voidvxvt/HellBunny)
   > Malleable shellcode loader written in C and Assembly utilizing direct or indirect syscalls for evadi...
@@ -208,6 +211,17 @@
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) to [rankalpha/tun2proxy](https://github.com/rankalpha/tun2proxy)
   > Tunnel (TUN) interface for SOCKS and HTTP proxies
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [nefarius/WinDbgSymbolsCachingProxy](https://github.com/nefarius/WinDbgSymbolsCachingProxy)
+  > WinDbg Symbols Caching Proxy.
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [imartemy1524/vk_captcha](https://github.com/imartemy1524/vk_captcha)
+  > Vk Captcha solver
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [Exponefrv1/univk_audio](https://github.com/Exponefrv1/univk_audio)
+  > An easy-to-use library that allows you to search and download audio from VK, bypassing the restricti...
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [PurpleHorrorRus/EasyVK-AudioAPI](https://github.com/PurpleHorrorRus/EasyVK-AudioAPI)
+  > An unofficial VK Audio API
+
+### [re-zero001](https://github.com/re-zero001)
+- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [pomelohan/HanAttestationDemo](https://github.com/pomelohan/HanAttestationDemo)
 
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [Malcrove/SeamlessPass](https://github.com/Malcrove/SeamlessPass)
@@ -271,5 +285,5 @@
 
 
 ---
-*最后更新于 2025-09-24 19:18:18 UTC*
+*最后更新于 2025-09-24 19:38:42 UTC*
 *历史记录保存在 `archive` 目录中。*
