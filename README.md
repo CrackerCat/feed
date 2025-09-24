@@ -194,6 +194,10 @@
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [Lake1059/FFmpegFreeUI](https://github.com/Lake1059/FFmpegFreeUI)
   > 3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使用环境，让普通人也能够轻松压制视频和转换格式。
 
+### [krnlyng](https://github.com/krnlyng)
+- 🌟 👤 [krnlyng](https://github.com/krnlyng) Starred [rgerganov/footswitch](https://github.com/rgerganov/footswitch)
+  > Command-line utility for PCsensor and Scythe foot switches
+
 ### [ledccn](https://github.com/ledccn)
 - 🚀 👤 [ledccn](https://github.com/ledccn) Made [ledccn/iyuunet](https://github.com/ledccn/iyuunet) public
   > IYUU.net 是一个使用 go 语言开发的高性能代理服务器，通过将 HTTP/JSON-RPC 请求桥接到中国电子口岸 UKey 硬件，提供 179加签、CEB报文加签、身份验证、请求跟踪 和 W...
@@ -303,6 +307,10 @@
 - 🍴 👤 [xypron](https://github.com/xypron) Forked [coin-or/DyLP](https://github.com/coin-or/DyLP) to [xypron/DyLP](https://github.com/xypron/DyLP)
   > Dynamic Simplex solver
 
+### [xyxdaily](https://github.com/xyxdaily)
+- 🍴 👤 [xyxdaily](https://github.com/xyxdaily) Forked [Ackites/Nrfr](https://github.com/Ackites/Nrfr) to [xyxdaily/Nrfr](https://github.com/xyxdaily/Nrfr)
+  > 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
+
 ### [yhs0602](https://github.com/yhs0602)
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer)
   > Create Minecraft bots with a powerful, stable, and high level JavaScript API.
@@ -315,5 +323,5 @@
 
 
 ---
-*最后更新于 2025-09-24 20:40:18 UTC*
+*最后更新于 2025-09-24 21:19:28 UTC*
 *历史记录保存在 `archive` 目录中。*
