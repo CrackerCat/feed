@@ -27,6 +27,10 @@
 - 🌟 👤 [Mivik](https://github.com/Mivik) Starred [pest-parser/pest](https://github.com/pest-parser/pest)
   > The Elegant Parser
 
+### [MolotovCherry](https://github.com/MolotovCherry)
+- 🍴 👤 [MolotovCherry](https://github.com/MolotovCherry) Forked [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) to [MolotovCherry/Sandboxie](https://github.com/MolotovCherry/Sandboxie)
+  > Sandboxie Plus & Classic
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [reqable/tun2proxy-android](https://github.com/reqable/tun2proxy-android)
   > Tunnel (TUN) interface for SOCKS and HTTP proxies
@@ -116,6 +120,10 @@
   > Lightweight transaction explorer for the OP Stack.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mackron/miniaudio](https://github.com/mackron/miniaudio) to [gmh5225/miniaudio](https://github.com/gmh5225/miniaudio)
   > Audio playback and capture library written in C, in a single source file.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) to [gmh5225/gcping](https://github.com/gmh5225/gcping)
+  > The source for the CLI and web app at gcping.com
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [OpenModelica/OpenModelica](https://github.com/OpenModelica/OpenModelica) to [gmh5225/OpenModelica](https://github.com/gmh5225/OpenModelica)
+  > OpenModelica is an open-source Modelica-based modeling and simulation environment intended for indus...
 
 ### [gnahz77](https://github.com/gnahz77)
 - 🌟 👤 [gnahz77](https://github.com/gnahz77) Starred [noties/Markwon](https://github.com/noties/Markwon)
@@ -225,5 +233,5 @@
 
 
 ---
-*最后更新于 2025-09-24 17:20:27 UTC*
+*最后更新于 2025-09-24 17:41:29 UTC*
 *历史记录保存在 `archive` 目录中。*
