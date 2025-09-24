@@ -46,9 +46,20 @@
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [wackymaker/psexec2](https://github.com/wackymaker/psexec2)
 - 🍴 👤 [No-Github](https://github.com/No-Github) Forked [wackymaker/psexec2](https://github.com/wackymaker/psexec2) to [No-Github/psexec2](https://github.com/No-Github/psexec2)
 
+### [NyanSatan](https://github.com/NyanSatan)
+- 🚀 👤 [NyanSatan](https://github.com/NyanSatan) Made [NyanSatan/polinaserial](https://github.com/NyanSatan/polinaserial) public
+  > Serial port monitor program for Mac OS X with lolcat, iBoot logs deobfuscation & much more
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [mt6572-mainline/u-boot-da](https://github.com/mt6572-mainline/u-boot-da)
   > Let's boot U-Boot as DA (without mtkclient)
+
+### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [ScorpionesLabs/MSSqlPwner](https://github.com/ScorpionesLabs/MSSqlPwner)
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [ScorpionesLabs/DVS](https://github.com/ScorpionesLabs/DVS)
+  > D(COM) V(ulnerability) S(canner) AKA Devious swiss army knife - Lateral movement using DCOM Objects
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [YOLOP0wn/yolo-mssqlclient](https://github.com/YOLOP0wn/yolo-mssqlclient)
+  > custom impacket mssqlclient
 
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [voidvxvt/HellBunny](https://github.com/voidvxvt/HellBunny)
@@ -57,6 +68,8 @@
   > Stealthily inject shellcode into an executable
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [SecFathy/CrystalLens](https://github.com/SecFathy/CrystalLens)
   > CrystalLens is a social media screening and analysis platform that collects posts from multiple sour...
+- 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [SpecterOps/BloodHoundQueryLibrary](https://github.com/SpecterOps/BloodHoundQueryLibrary)
+  > A community-driven collection of BloodHound queries 
 
 ### [aadog](https://github.com/aadog)
 - ✨ 👤 [aadog](https://github.com/aadog) Created new repo [aadog/HxTagHelpers](https://github.com/aadog/HxTagHelpers)
@@ -78,6 +91,10 @@
 ### [biggerstar](https://github.com/biggerstar)
 - 🌟 👤 [biggerstar](https://github.com/biggerstar) Starred [clashdownload/Clash](https://github.com/clashdownload/Clash)
   > Clash官网各版本Clash下载地址及备份下载地址
+
+### [cozis](https://github.com/cozis)
+- 🚀 👤 [cozis](https://github.com/cozis) Made [cozis/cWEB](https://github.com/cozis/cWEB) public
+  > A zero-dependency web development framework in a single C header file
 
 ### [daisixuan](https://github.com/daisixuan)
 - 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [sucsand/sucsand](https://github.com/sucsand/sucsand)
@@ -188,6 +205,10 @@
 - 🌟 👤 [penguin-wwy](https://github.com/penguin-wwy) Starred [TsinghuaC3I/Awesome-RL-for-LRMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)
   > A Survey of Reinforcement Learning for Large Reasoning Models
 
+### [rankalpha](https://github.com/rankalpha)
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) to [rankalpha/tun2proxy](https://github.com/rankalpha/tun2proxy)
+  > Tunnel (TUN) interface for SOCKS and HTTP proxies
+
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [Malcrove/SeamlessPass](https://github.com/Malcrove/SeamlessPass)
   > A tool leveraging Kerberos tickets to get Microsoft 365 access tokens using Seamless SSO
@@ -221,6 +242,9 @@
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [slemire/WSPCoerce](https://github.com/slemire/WSPCoerce)
   > PoC to coerce authentication from Windows hosts using MS-WSP
 
+### [thatstraw](https://github.com/thatstraw)
+- ✨ 👤 [thatstraw](https://github.com/thatstraw) Created new repo [thatstraw/fswl-technical-review](https://github.com/thatstraw/fswl-technical-review)
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor)
   > Powerful android apk editor - aapt/aapt2 independent
@@ -247,5 +271,5 @@
 
 
 ---
-*最后更新于 2025-09-24 18:30:42 UTC*
+*最后更新于 2025-09-24 19:18:18 UTC*
 *历史记录保存在 `archive` 目录中。*
