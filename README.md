@@ -29,6 +29,7 @@
   > https://github.com/CocoHall/xiaSql 的魔改版
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [No-Github/xiasqlpro](https://github.com/No-Github/xiasqlpro)
   > https://github.com/CocoHall/xiaSql 的魔改版
+- 🚀 👤 [No-Github](https://github.com/No-Github) Made [No-Github/DelSelf24h2](https://github.com/No-Github/DelSelf24h2) public
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [mt6572-mainline/u-boot-da](https://github.com/mt6572-mainline/u-boot-da)
@@ -94,6 +95,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mackron/miniaudio](https://github.com/mackron/miniaudio) to [gmh5225/miniaudio](https://github.com/gmh5225/miniaudio)
   > Audio playback and capture library written in C, in a single source file.
 
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [gin-gonic/gin](https://github.com/gin-gonic/gin)
+  > Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with ...
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [pandaadir05/re-architect](https://github.com/pandaadir05/re-architect)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HowToFind-bot/osint-tools](https://github.com/HowToFind-bot/osint-tools)
@@ -106,6 +111,10 @@
 ### [jiushill](https://github.com/jiushill)
 - 🌟 👤 [jiushill](https://github.com/jiushill) Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
   > VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
+
+### [ledccn](https://github.com/ledccn)
+- 🚀 👤 [ledccn](https://github.com/ledccn) Made [ledccn/iyuunet](https://github.com/ledccn/iyuunet) public
+  > IYUU.net 是一个使用 go 语言开发的高性能代理服务器，通过将 HTTP/JSON-RPC 请求桥接到中国电子口岸 UKey 硬件，提供 179加签、CEB报文加签、身份验证、请求跟踪 和 W...
 
 ### [longf2011](https://github.com/longf2011)
 - 🌟 👤 [longf2011](https://github.com/longf2011) Starred [BeneficialCode/WinArk](https://github.com/BeneficialCode/WinArk)
@@ -169,5 +178,5 @@
 
 
 ---
-*最后更新于 2025-09-24 14:20:14 UTC*
+*最后更新于 2025-09-24 14:42:36 UTC*
 *历史记录保存在 `archive` 目录中。*
