@@ -20,6 +20,10 @@
 - ✨ 👤 [affggh](https://github.com/affggh) Created new repo [affggh/android_kernel_zte_sm7250](https://github.com/affggh/android_kernel_zte_sm7250)
   > ZTE Kernel merged with lineage sm8250 for A31/S30Pro
 
+### [biggerstar](https://github.com/biggerstar)
+- 🌟 👤 [biggerstar](https://github.com/biggerstar) Starred [clashdownload/Clash](https://github.com/clashdownload/Clash)
+  > Clash官网各版本Clash下载地址及备份下载地址
+
 ### [feicong](https://github.com/feicong)
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) to [feicong/dart_simple_live](https://github.com/feicong/dart_simple_live)
   > 简简单单的看直播
@@ -33,7 +37,11 @@
 - 🌟 👤 [jiushill](https://github.com/jiushill) Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
   > VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
 
+### [longf2011](https://github.com/longf2011)
+- 🌟 👤 [longf2011](https://github.com/longf2011) Starred [BeneficialCode/WinArk](https://github.com/BeneficialCode/WinArk)
+  > Windows Anti-Rootkit Tool
+
 
 ---
-*最后更新于 2025-09-24 11:18:26 UTC*
+*最后更新于 2025-09-24 11:39:12 UTC*
 *历史记录保存在 `archive` 目录中。*
