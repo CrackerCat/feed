@@ -290,6 +290,8 @@
   > 《30天自制操作系统》源码中文版。自己制作一个操作系统（OSASK）的过程
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [uchan-nos/mikanos](https://github.com/uchan-nos/mikanos)
   > Educational Operating System
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [uchan-nos/os-from-zero](https://github.com/uchan-nos/os-from-zero)
+  > 『ゼロからのOS自作入門』（内田公太著、マイナビ出版）のサポートサイトです
 
 ### [willnjohnson](https://github.com/willnjohnson)
 - 🌟 👤 [willnjohnson](https://github.com/willnjohnson) Starred [CrackerCat/IDA-Patcher-](https://github.com/CrackerCat/IDA-Patcher-)
@@ -313,5 +315,5 @@
 
 
 ---
-*最后更新于 2025-09-24 20:26:09 UTC*
+*最后更新于 2025-09-24 20:40:18 UTC*
 *历史记录保存在 `archive` 目录中。*
