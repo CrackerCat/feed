@@ -86,6 +86,10 @@
 ### [SherlockChiang](https://github.com/SherlockChiang)
 - 🌟 👤 [SherlockChiang](https://github.com/SherlockChiang) Starred [AXEVO/Clash-MIX](https://github.com/AXEVO/Clash-MIX)
 
+### [TomAPU](https://github.com/TomAPU)
+- 🌟 👤 [TomAPU](https://github.com/TomAPU) Starred [kzall0c/vock](https://github.com/kzall0c/vock)
+  > A lightweight, wrapper-based kernel coverage viewer for any command, powered by kcov and LD_PRELOAD.
+
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [voidvxvt/HellBunny](https://github.com/voidvxvt/HellBunny)
   > Malleable shellcode loader written in C and Assembly utilizing direct or indirect syscalls for evadi...
@@ -192,6 +196,10 @@
   > Dump lsass using only NTAPI functions by hand-crafting Minidump files (without MiniDumpWriteDump!!!)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [RistBS/Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet)
   > Red Team Cheatsheet in constant expansion.
+
+### [chriskaliX](https://github.com/chriskaliX)
+- 🌟 👤 [chriskaliX](https://github.com/chriskaliX) Starred [h2-stack/LL-RASP](https://github.com/h2-stack/LL-RASP)
+  > Low-level RASP: Protecting Applications Implemented in High-level Programming Languages
 
 ### [cozis](https://github.com/cozis)
 - 🚀 👤 [cozis](https://github.com/cozis) Made [cozis/cWEB](https://github.com/cozis/cWEB) public
@@ -428,5 +436,5 @@
 
 
 ---
-*最后更新于 2025-09-24 22:39:01 UTC*
+*最后更新于 2025-09-24 23:20:22 UTC*
 *历史记录保存在 `archive` 目录中。*
