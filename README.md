@@ -296,6 +296,8 @@
   > Educational Operating System
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [uchan-nos/os-from-zero](https://github.com/uchan-nos/os-from-zero)
   > 『ゼロからのOS自作入門』（内田公太著、マイナビ出版）のサポートサイトです
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [Kenta11/x86-emulator-book-Manjaro](https://github.com/Kenta11/x86-emulator-book-Manjaro)
+  > 『自作エミュレータで学ぶx86アーキテクチャ』の Manjaro 向けサンプルコード
 
 ### [willnjohnson](https://github.com/willnjohnson)
 - 🌟 👤 [willnjohnson](https://github.com/willnjohnson) Starred [CrackerCat/IDA-Patcher-](https://github.com/CrackerCat/IDA-Patcher-)
@@ -310,6 +312,8 @@
 ### [xyxdaily](https://github.com/xyxdaily)
 - 🍴 👤 [xyxdaily](https://github.com/xyxdaily) Forked [Ackites/Nrfr](https://github.com/Ackites/Nrfr) to [xyxdaily/Nrfr](https://github.com/xyxdaily/Nrfr)
   > 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
+- 🍴 👤 [xyxdaily](https://github.com/xyxdaily) Forked [okanatas/NFCCardEmulator](https://github.com/okanatas/NFCCardEmulator) to [xyxdaily/NFCCardEmulator](https://github.com/xyxdaily/NFCCardEmulator)
+  > Host-Based Card Emulator App
 
 ### [yhs0602](https://github.com/yhs0602)
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer)
@@ -323,5 +327,5 @@
 
 
 ---
-*最后更新于 2025-09-24 21:19:28 UTC*
+*最后更新于 2025-09-24 21:38:48 UTC*
 *历史记录保存在 `archive` 目录中。*
