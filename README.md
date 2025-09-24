@@ -30,6 +30,8 @@
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [No-Github/xiasqlpro](https://github.com/No-Github/xiasqlpro)
   > https://github.com/CocoHall/xiaSql 的魔改版
 - 🚀 👤 [No-Github](https://github.com/No-Github) Made [No-Github/DelSelf24h2](https://github.com/No-Github/DelSelf24h2) public
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [wackymaker/shadowlnk](https://github.com/wackymaker/shadowlnk)
+  > Windows shortcut hijacking tool to execute custom payloads stealthily before launching the original ...
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [mt6572-mainline/u-boot-da](https://github.com/mt6572-mainline/u-boot-da)
@@ -76,6 +78,10 @@
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) to [feicong/dart_simple_live](https://github.com/feicong/dart_simple_live)
   > 简简单单的看直播
 
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [basecamp/omarchy](https://github.com/basecamp/omarchy)
+  > Opinionated Arch/Hyprland Setup
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [pandaadir05/re-architect](https://github.com/pandaadir05/re-architect) to [gmh5225/re-architect](https://github.com/gmh5225/re-architect)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [HowToFind-bot/osint-tools](https://github.com/HowToFind-bot/osint-tools) to [gmh5225/osint-tools-](https://github.com/gmh5225/osint-tools-)
@@ -112,6 +118,10 @@
 - 🌟 👤 [jiushill](https://github.com/jiushill) Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
   > VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
 
+### [jpacg](https://github.com/jpacg)
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [Lake1059/FFmpegFreeUI](https://github.com/Lake1059/FFmpegFreeUI)
+  > 3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使用环境，让普通人也能够轻松压制视频和转换格式。
+
 ### [ledccn](https://github.com/ledccn)
 - 🚀 👤 [ledccn](https://github.com/ledccn) Made [ledccn/iyuunet](https://github.com/ledccn/iyuunet) public
   > IYUU.net 是一个使用 go 语言开发的高性能代理服务器，通过将 HTTP/JSON-RPC 请求桥接到中国电子口岸 UKey 硬件，提供 179加签、CEB报文加签、身份验证、请求跟踪 和 W...
@@ -143,6 +153,10 @@
 
 ### [rifsxd](https://github.com/rifsxd)
 - 🍴 👤 [rifsxd](https://github.com/rifsxd) Forked [peridot-dev/android_kernel_xiaomi_sm8635](https://github.com/peridot-dev/android_kernel_xiaomi_sm8635) to [rifsxd/android_kernel_xiaomi_sm8635](https://github.com/rifsxd/android_kernel_xiaomi_sm8635)
+
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [nefarius/WinDbgSymbolsCachingProxy](https://github.com/nefarius/WinDbgSymbolsCachingProxy)
+  > WinDbg Symbols Caching Proxy.
 
 ### [smallfawn](https://github.com/smallfawn)
 - ✨ 👤 [smallfawn](https://github.com/smallfawn) Created new repo [smallfawn/mrga](https://github.com/smallfawn/mrga)
@@ -178,5 +192,5 @@
 
 
 ---
-*最后更新于 2025-09-24 14:42:36 UTC*
+*最后更新于 2025-09-24 15:24:20 UTC*
 *历史记录保存在 `archive` 目录中。*
