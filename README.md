@@ -14,6 +14,9 @@
 - 🚀 👤 [GangJust](https://github.com/GangJust) Made [GangJust/dexkit-rs](https://github.com/GangJust/dexkit-rs) public
   > dexkit wrapper to dexkit-rs.
 
+### [KuLiPai](https://github.com/KuLiPai)
+- 🍴 👤 [KuLiPai](https://github.com/KuLiPai) Forked [1pd17nK/FCK](https://github.com/1pd17nK/FCK) to [KuLiPai/FCK](https://github.com/KuLiPai/FCK)
+
 ### [Le1a](https://github.com/Le1a)
 - 🌟 👤 [Le1a](https://github.com/Le1a) Starred [learnerLj/geth-analyze](https://github.com/learnerLj/geth-analyze)
   > go-ethereum source code analyzation under the perspective of smart contract security
@@ -32,6 +35,8 @@
 - 🚀 👤 [No-Github](https://github.com/No-Github) Made [No-Github/DelSelf24h2](https://github.com/No-Github/DelSelf24h2) public
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [wackymaker/shadowlnk](https://github.com/wackymaker/shadowlnk)
   > Windows shortcut hijacking tool to execute custom payloads stealthily before launching the original ...
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [wackymaker/psexec2](https://github.com/wackymaker/psexec2)
+- 🍴 👤 [No-Github](https://github.com/No-Github) Forked [wackymaker/psexec2](https://github.com/wackymaker/psexec2) to [No-Github/psexec2](https://github.com/No-Github/psexec2)
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [mt6572-mainline/u-boot-da](https://github.com/mt6572-mainline/u-boot-da)
@@ -136,6 +141,9 @@
 - 🌟 👤 [ltlly](https://github.com/ltlly) Starred [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
   > Free, open source crypto trading bot
 
+### [mandiant](https://github.com/mandiant)
+- 🚀 👤 [mandiant](https://github.com/mandiant) Made [mandiant/brickstorm-scanner](https://github.com/mandiant/brickstorm-scanner) public
+
 ### [mdcgqq](https://github.com/mdcgqq)
 - 🌟 👤 [mdcgqq](https://github.com/mdcgqq) Starred [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent)
   >  Mobile-Agent: The Powerful GUI Agent Family
@@ -192,5 +200,5 @@
 
 
 ---
-*最后更新于 2025-09-24 15:24:20 UTC*
+*最后更新于 2025-09-24 15:42:23 UTC*
 *历史记录保存在 `archive` 目录中。*
