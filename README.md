@@ -50,6 +50,9 @@
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [SecFathy/CrystalLens](https://github.com/SecFathy/CrystalLens)
   > CrystalLens is a social media screening and analysis platform that collects posts from multiple sour...
 
+### [aadog](https://github.com/aadog)
+- ✨ 👤 [aadog](https://github.com/aadog) Created new repo [aadog/HxTagHelpers](https://github.com/aadog/HxTagHelpers)
+
 ### [affggh](https://github.com/affggh)
 - ✨ 👤 [affggh](https://github.com/affggh) Created new repo [affggh/android_kernel_zte_sm7250](https://github.com/affggh/android_kernel_zte_sm7250)
   > ZTE Kernel merged with lineage sm8250 for A31/S30Pro
@@ -106,6 +109,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mackron/miniaudio](https://github.com/mackron/miniaudio) to [gmh5225/miniaudio](https://github.com/gmh5225/miniaudio)
   > Audio playback and capture library written in C, in a single source file.
 
+### [gnahz77](https://github.com/gnahz77)
+- 🌟 👤 [gnahz77](https://github.com/gnahz77) Starred [noties/Markwon](https://github.com/noties/Markwon)
+  > Android markdown library (no WebView)
+
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [gin-gonic/gin](https://github.com/gin-gonic/gin)
   > Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with ...
@@ -152,6 +159,10 @@
 ### [overfl0](https://github.com/overfl0)
 - 🌟 👤 [overfl0](https://github.com/overfl0) Starred [kweatherman/IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn)
   > IDA ClassInformer PlugIn
+
+### [penguin-wwy](https://github.com/penguin-wwy)
+- 🌟 👤 [penguin-wwy](https://github.com/penguin-wwy) Starred [TsinghuaC3I/Awesome-RL-for-LRMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)
+  > A Survey of Reinforcement Learning for Large Reasoning Models
 
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [Malcrove/SeamlessPass](https://github.com/Malcrove/SeamlessPass)
@@ -200,5 +211,5 @@
 
 
 ---
-*最后更新于 2025-09-24 15:42:23 UTC*
+*最后更新于 2025-09-24 16:29:45 UTC*
 *历史记录保存在 `archive` 目录中。*
