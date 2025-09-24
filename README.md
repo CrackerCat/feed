@@ -7,6 +7,8 @@
 ### [FlyingYu-Z](https://github.com/FlyingYu-Z)
 - 🌟 👤 [FlyingYu-Z](https://github.com/FlyingYu-Z) Starred [linebender/xilem](https://github.com/linebender/xilem)
   > An experimental Rust native UI framework
+- 🌟 👤 [FlyingYu-Z](https://github.com/FlyingYu-Z) Starred [khonsulabs/bonsaidb](https://github.com/khonsulabs/bonsaidb)
+  > A developer-friendly document database that grows with you, written in Rust
 
 ### [Le1a](https://github.com/Le1a)
 - 🌟 👤 [Le1a](https://github.com/Le1a) Starred [learnerLj/geth-analyze](https://github.com/learnerLj/geth-analyze)
@@ -77,6 +79,12 @@
   > ethdebug.py is a debugger-side implementation of the EthDebug format
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [argotorg/sourcify](https://github.com/argotorg/sourcify) to [gmh5225/sourcify](https://github.com/gmh5225/sourcify)
   > Source code verification service for Ethereum smart contracts
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [walnuthq/stylusdb](https://github.com/walnuthq/stylusdb) to [gmh5225/stylusdb](https://github.com/gmh5225/stylusdb)
+  > LLDB based debugger for Arbitrum Stylus
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [walnuthq/super-scan](https://github.com/walnuthq/super-scan) to [gmh5225/super-scan](https://github.com/gmh5225/super-scan)
+  > Lightweight transaction explorer for the OP Stack.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mackron/miniaudio](https://github.com/mackron/miniaudio) to [gmh5225/miniaudio](https://github.com/gmh5225/miniaudio)
+  > Audio playback and capture library written in C, in a single source file.
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [pandaadir05/re-architect](https://github.com/pandaadir05/re-architect)
@@ -100,9 +108,24 @@
   >  Mobile-Agent: The Powerful GUI Agent Family
 - 🌟 👤 [mdcgqq](https://github.com/mdcgqq) Starred [MagicAgent-GUI/MagicGUI](https://github.com/MagicAgent-GUI/MagicGUI)
 
+### [reveng007](https://github.com/reveng007)
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [Malcrove/SeamlessPass](https://github.com/Malcrove/SeamlessPass)
+  > A tool leveraging Kerberos tickets to get Microsoft 365 access tokens using Seamless SSO
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [RedByte1337/GraphSpy](https://github.com/RedByte1337/GraphSpy)
+  > Initial Access and Post-Exploitation Tool for AAD and O365 with a browser-based GUI
+
+### [rifsxd](https://github.com/rifsxd)
+- 🍴 👤 [rifsxd](https://github.com/rifsxd) Forked [peridot-dev/android_kernel_xiaomi_sm8635](https://github.com/peridot-dev/android_kernel_xiaomi_sm8635) to [rifsxd/android_kernel_xiaomi_sm8635](https://github.com/rifsxd/android_kernel_xiaomi_sm8635)
+
 ### [smallfawn](https://github.com/smallfawn)
 - ✨ 👤 [smallfawn](https://github.com/smallfawn) Created new repo [smallfawn/mrga](https://github.com/smallfawn/mrga)
   > 让逆向再次伟大！
+
+### [stong](https://github.com/stong)
+- 🌟 👤 [stong](https://github.com/stong) Starred [edb-rs/edb](https://github.com/edb-rs/edb)
+  > EDB: The EVM Project Debugger
+- 🍴 👤 [stong](https://github.com/stong) Forked [ithacaxyz/account](https://github.com/ithacaxyz/account) to [stong/account](https://github.com/stong/account)
+  > All you need account for authentication and payments on the web.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor)
@@ -112,7 +135,13 @@
 - 🌟 👤 [xypron](https://github.com/xypron) Starred [canonical/risc-v-gadget](https://github.com/canonical/risc-v-gadget)
   > Gadget definitions for RISC-V images
 
+### [yhs0602](https://github.com/yhs0602)
+- 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer)
+  > Create Minecraft bots with a powerful, stable, and high level JavaScript API.
+- 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
+  > Parse and serialize minecraft packets, plus authentication and encryption.
+
 
 ---
-*最后更新于 2025-09-24 12:47:55 UTC*
+*最后更新于 2025-09-24 13:31:38 UTC*
 *历史记录保存在 `archive` 目录中。*
