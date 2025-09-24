@@ -79,6 +79,10 @@
 - 🌟 👤 [biggerstar](https://github.com/biggerstar) Starred [clashdownload/Clash](https://github.com/clashdownload/Clash)
   > Clash官网各版本Clash下载地址及备份下载地址
 
+### [daisixuan](https://github.com/daisixuan)
+- 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [sucsand/sucsand](https://github.com/sucsand/sucsand)
+  > Inject gadget.so into target app via Zygisk. Only supports arm64
+
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [docker/docker-bench-security](https://github.com/docker/docker-bench-security)
   > The Docker Bench for Security is a script that checks for dozens of common best-practices around dep...
@@ -128,6 +132,10 @@
 ### [gnahz77](https://github.com/gnahz77)
 - 🌟 👤 [gnahz77](https://github.com/gnahz77) Starred [noties/Markwon](https://github.com/noties/Markwon)
   > Android markdown library (no WebView)
+
+### [h0li3](https://github.com/h0li3)
+- 🌟 👤 [h0li3](https://github.com/h0li3) Starred [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime)
+  > WebAssembly Micro Runtime (WAMR)
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [gin-gonic/gin](https://github.com/gin-gonic/gin)
@@ -224,6 +232,8 @@
 ### [xypron](https://github.com/xypron)
 - 🌟 👤 [xypron](https://github.com/xypron) Starred [canonical/risc-v-gadget](https://github.com/canonical/risc-v-gadget)
   > Gadget definitions for RISC-V images
+- 🍴 👤 [xypron](https://github.com/xypron) Forked [coin-or/DyLP](https://github.com/coin-or/DyLP) to [xypron/DyLP](https://github.com/xypron/DyLP)
+  > Dynamic Simplex solver
 
 ### [yhs0602](https://github.com/yhs0602)
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer)
@@ -231,7 +241,11 @@
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
   > Parse and serialize minecraft packets, plus authentication and encryption.
 
+### [yohanes](https://github.com/yohanes)
+- 🌟 👤 [yohanes](https://github.com/yohanes) Starred [bytedance/Dolphin](https://github.com/bytedance/Dolphin)
+  > The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 202...
+
 
 ---
-*最后更新于 2025-09-24 17:41:29 UTC*
+*最后更新于 2025-09-24 18:30:42 UTC*
 *历史记录保存在 `archive` 目录中。*
