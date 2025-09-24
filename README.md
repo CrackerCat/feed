@@ -10,6 +10,10 @@
 - 🌟 👤 [FlyingYu-Z](https://github.com/FlyingYu-Z) Starred [khonsulabs/bonsaidb](https://github.com/khonsulabs/bonsaidb)
   > A developer-friendly document database that grows with you, written in Rust
 
+### [GangJust](https://github.com/GangJust)
+- 🚀 👤 [GangJust](https://github.com/GangJust) Made [GangJust/dexkit-rs](https://github.com/GangJust/dexkit-rs) public
+  > dexkit wrapper to dexkit-rs.
+
 ### [Le1a](https://github.com/Le1a)
 - 🌟 👤 [Le1a](https://github.com/Le1a) Starred [learnerLj/geth-analyze](https://github.com/learnerLj/geth-analyze)
   > go-ethereum source code analyzation under the perspective of smart contract security
@@ -25,6 +29,10 @@
   > https://github.com/CocoHall/xiaSql 的魔改版
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [No-Github/xiasqlpro](https://github.com/No-Github/xiasqlpro)
   > https://github.com/CocoHall/xiaSql 的魔改版
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [mt6572-mainline/u-boot-da](https://github.com/mt6572-mainline/u-boot-da)
+  > Let's boot U-Boot as DA (without mtkclient)
 
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [voidvxvt/HellBunny](https://github.com/voidvxvt/HellBunny)
@@ -103,10 +111,20 @@
 - 🌟 👤 [longf2011](https://github.com/longf2011) Starred [BeneficialCode/WinArk](https://github.com/BeneficialCode/WinArk)
   > Windows Anti-Rootkit Tool
 
+### [ltlly](https://github.com/ltlly)
+- 🌟 👤 [ltlly](https://github.com/ltlly) Starred [banbox/banbot](https://github.com/banbox/banbot)
+  > a high-performance, easy-to-use, multi-symbol, multi-strategy, multi-period, multi-account event-dri...
+- 🌟 👤 [ltlly](https://github.com/ltlly) Starred [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
+  > Free, open source crypto trading bot
+
 ### [mdcgqq](https://github.com/mdcgqq)
 - 🌟 👤 [mdcgqq](https://github.com/mdcgqq) Starred [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent)
   >  Mobile-Agent: The Powerful GUI Agent Family
 - 🌟 👤 [mdcgqq](https://github.com/mdcgqq) Starred [MagicAgent-GUI/MagicGUI](https://github.com/MagicAgent-GUI/MagicGUI)
+
+### [overfl0](https://github.com/overfl0)
+- 🌟 👤 [overfl0](https://github.com/overfl0) Starred [kweatherman/IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn)
+  > IDA ClassInformer PlugIn
 
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [Malcrove/SeamlessPass](https://github.com/Malcrove/SeamlessPass)
@@ -127,9 +145,17 @@
 - 🍴 👤 [stong](https://github.com/stong) Forked [ithacaxyz/account](https://github.com/ithacaxyz/account) to [stong/account](https://github.com/stong/account)
   > All you need account for authentication and payments on the web.
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [slemire/WSPCoerce](https://github.com/slemire/WSPCoerce)
+  > PoC to coerce authentication from Windows hosts using MS-WSP
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor)
   > Powerful android apk editor - aapt/aapt2 independent
+
+### [willnjohnson](https://github.com/willnjohnson)
+- 🌟 👤 [willnjohnson](https://github.com/willnjohnson) Starred [CrackerCat/IDA-Patcher-](https://github.com/CrackerCat/IDA-Patcher-)
+  > IDA Pro Patcher & License Generator
 
 ### [xypron](https://github.com/xypron)
 - 🌟 👤 [xypron](https://github.com/xypron) Starred [canonical/risc-v-gadget](https://github.com/canonical/risc-v-gadget)
@@ -143,5 +169,5 @@
 
 
 ---
-*最后更新于 2025-09-24 13:31:38 UTC*
+*最后更新于 2025-09-24 14:20:14 UTC*
 *历史记录保存在 `archive` 目录中。*
