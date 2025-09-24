@@ -18,6 +18,14 @@
 - 🚀 👤 [GangJust](https://github.com/GangJust) Made [GangJust/dexkit-rs](https://github.com/GangJust/dexkit-rs) public
   > dexkit wrapper to dexkit-rs.
 
+### [HackingLZ](https://github.com/HackingLZ)
+- ✨ 👤 [HackingLZ](https://github.com/HackingLZ) Created new repo [HackingLZ/svg_phishing_tools](https://github.com/HackingLZ/svg_phishing_tools)
+  > SVG Analysis and generation tools for commonly seen SVG attachment phishing
+
+### [J0o1ey](https://github.com/J0o1ey)
+- 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+  > Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit...
+
 ### [KuLiPai](https://github.com/KuLiPai)
 - 🍴 👤 [KuLiPai](https://github.com/KuLiPai) Forked [1pd17nK/FCK](https://github.com/1pd17nK/FCK) to [KuLiPai/FCK](https://github.com/KuLiPai/FCK)
 
@@ -108,6 +116,70 @@
 ### [biggerstar](https://github.com/biggerstar)
 - 🌟 👤 [biggerstar](https://github.com/biggerstar) Starred [clashdownload/Clash](https://github.com/clashdownload/Clash)
   > Clash官网各版本Clash下载地址及备份下载地址
+
+### [byt3n33dl3](https://github.com/byt3n33dl3)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Veil-Framework/Veil](https://github.com/Veil-Framework/Veil)
+  > Veil 3.1.X (Check version info in Veil at runtime)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Damien-The-Unbeliever/ProjectedFileSystem](https://github.com/Damien-The-Unbeliever/ProjectedFileSystem)
+  > An incomplete binding for .NET to the Windows projected file system
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [adamplonka/RegFs-csharp](https://github.com/adamplonka/RegFs-csharp)
+  > RegFS, a sample project ported to C# language
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [AlmondOffSec/PassTheCert](https://github.com/AlmondOffSec/PassTheCert)
+  > Proof-of-Concept tool to authenticate to an LDAP/S server with a certificate through Schannel
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0xsp-SRD/callback_injection-Csharp](https://github.com/0xsp-SRD/callback_injection-Csharp)
+  > this repo is to cover the other undocumented or published / in different langaue to achieve shellcod...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [monoxgas/Koppeling](https://github.com/monoxgas/Koppeling)
+  > Adaptive DLL hijacking / dynamic export forwarding
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [ajpc500/BOFs](https://github.com/ajpc500/BOFs)
+  > Collection of Beacon Object Files
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [ChrisTruncer/PenTestScripts](https://github.com/ChrisTruncer/PenTestScripts)
+  > Scripts that are useful for me on pen tests
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [RedSiege/EyeWitness](https://github.com/RedSiege/EyeWitness)
+  > EyeWitness is designed to take screenshots of websites, provide some server header info, and identif...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [rasta-mouse/ExternalC2.NET](https://github.com/rasta-mouse/ExternalC2.NET)
+  > .NET implementation of Cobalt Strike's External C2 Spec
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [fortra/nanodump](https://github.com/fortra/nanodump)
+  > The swiss army knife of LSASS dumping
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [phith0n/collision-webshell](https://github.com/phith0n/collision-webshell)
+  > A webshell and a normal file that have the same MD5
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [antonioCoco/RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
+  > Windows Privilege Escalation from User to Domain Admin.
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [logangoins/SOAPy](https://github.com/logangoins/SOAPy)
+  > SOAPy is a Proof of Concept (PoC) tool for conducting offensive interaction with Active Directory We...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [zblurx/dploot](https://github.com/zblurx/dploot)
+  > DPAPI looting remotely and locally in Python
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [ozelis/winrmexec](https://github.com/ozelis/winrmexec)
+  > Impack-only implementation of WinRM protocol with support for NTLM and Kerberos auth
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [FalconForceTeam/SOAPHound](https://github.com/FalconForceTeam/SOAPHound)
+  > SOAPHound is a custom-developed .NET data collector tool which can be used to enumerate Active Direc...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng)
+  > An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor)
+  > A customizable and powerful penetration testing reporting platform for offensive security profession...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [skelsec/winacl](https://github.com/skelsec/winacl)
+  > Platform independent library for interfacing windows security descriptors
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [samuela/nixos-up](https://github.com/samuela/nixos-up)
+  > The fastest NixOS install there is! 🏎️🏁
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  > Nix Packages collection & NixOS
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [sbidy/pywizlight](https://github.com/sbidy/pywizlight)
+  > A python connector for WiZ devices
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [audius/audiness](https://github.com/audius/audiness)
+  > CLI tool to interact with Nessus
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf)
+  > Modern styles and controls for your WPF applications
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [dokan-dev/dokany](https://github.com/dokan-dev/dokany)
+  > User mode file system library for windows with FUSE Wrapper
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [filipnavara/dotnet-hotrewatch](https://github.com/filipnavara/dotnet-hotrewatch)
+  > dotnet watch we always wanted
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [cxxrev0to1dev/appstore_ios10_win](https://github.com/cxxrev0to1dev/appstore_ios10_win)
+  > windows fake ios appstore protocol using iTunes algorithm
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [danielpaulus/quicktime_video_hack](https://github.com/danielpaulus/quicktime_video_hack)
+  > Record iOS device audio and video
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Gregwar/fatcat](https://github.com/Gregwar/fatcat)
+  > FAT filesystems explore, extract, repair, and forensic tool
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [LeanVel/iInject](https://github.com/LeanVel/iInject)
+  > Tool to automate the process of embedding dynamic libraries into iOS applications from GNU/Linux
 
 ### [cozis](https://github.com/cozis)
 - 🚀 👤 [cozis](https://github.com/cozis) Made [cozis/cWEB](https://github.com/cozis/cWEB) public
@@ -220,6 +292,10 @@
   >  Mobile-Agent: The Powerful GUI Agent Family
 - 🌟 👤 [mdcgqq](https://github.com/mdcgqq) Starred [MagicAgent-GUI/MagicGUI](https://github.com/MagicAgent-GUI/MagicGUI)
 
+### [ntpopgetdope](https://github.com/ntpopgetdope)
+- 🍴 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Forked [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator) to [ntpopgetdope/styx-emulator](https://github.com/ntpopgetdope/styx-emulator)
+  > Multi-architecture emulation for the modern era.
+
 ### [overfl0](https://github.com/overfl0)
 - 🌟 👤 [overfl0](https://github.com/overfl0) Starred [kweatherman/IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn)
   > IDA ClassInformer PlugIn
@@ -278,6 +354,10 @@
 - 🍴 👤 [stong](https://github.com/stong) Forked [ithacaxyz/account](https://github.com/ithacaxyz/account) to [stong/account](https://github.com/stong/account)
   > All you need account for authentication and payments on the web.
 
+### [strazzere](https://github.com/strazzere)
+- 🌟 👤 [strazzere](https://github.com/strazzere) Starred [badhive/stitch](https://github.com/badhive/stitch)
+  > Rewrite and obfuscate code in compiled binaries
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [slemire/WSPCoerce](https://github.com/slemire/WSPCoerce)
   > PoC to coerce authentication from Windows hosts using MS-WSP
@@ -303,6 +383,10 @@
 - 🌟 👤 [willnjohnson](https://github.com/willnjohnson) Starred [CrackerCat/IDA-Patcher-](https://github.com/CrackerCat/IDA-Patcher-)
   > IDA Pro Patcher & License Generator
 
+### [xbyl1234](https://github.com/xbyl1234)
+- 🍴 👤 [xbyl1234](https://github.com/xbyl1234) Forked [suifei/asm2hex2](https://github.com/suifei/asm2hex2) to [xbyl1234/asm2hex2](https://github.com/xbyl1234/asm2hex2)
+  > The new version is refactored using C++ (cpp), while the original version was developed using Golang...
+
 ### [xypron](https://github.com/xypron)
 - 🌟 👤 [xypron](https://github.com/xypron) Starred [canonical/risc-v-gadget](https://github.com/canonical/risc-v-gadget)
   > Gadget definitions for RISC-V images
@@ -327,5 +411,5 @@
 
 
 ---
-*最后更新于 2025-09-24 21:38:48 UTC*
+*最后更新于 2025-09-24 22:20:40 UTC*
 *历史记录保存在 `archive` 目录中。*
