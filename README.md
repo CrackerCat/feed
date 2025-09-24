@@ -180,6 +180,18 @@
   > FAT filesystems explore, extract, repair, and forensic tool
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [LeanVel/iInject](https://github.com/LeanVel/iInject)
   > Tool to automate the process of embedding dynamic libraries into iOS applications from GNU/Linux
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [giuspen/cherrytree](https://github.com/giuspen/cherrytree)
+  > cherrytree
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Ridter/netsync](https://github.com/Ridter/netsync)
+  > Use the Netlogon Remote Protocol (MS-NRPC) to dump the target hash.
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [blacklanternsecurity/TREVORspray](https://github.com/blacklanternsecurity/TREVORspray)
+  > TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [gtworek/Priv2Admin](https://github.com/gtworek/Priv2Admin)
+  > Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [ricardojoserf/NativeDump](https://github.com/ricardojoserf/NativeDump)
+  > Dump lsass using only NTAPI functions by hand-crafting Minidump files (without MiniDumpWriteDump!!!)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [RistBS/Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet)
+  > Red Team Cheatsheet in constant expansion.
 
 ### [cozis](https://github.com/cozis)
 - 🚀 👤 [cozis](https://github.com/cozis) Made [cozis/cWEB](https://github.com/cozis/cWEB) public
@@ -283,6 +295,11 @@
   > a high-performance, easy-to-use, multi-symbol, multi-strategy, multi-period, multi-account event-dri...
 - 🌟 👤 [ltlly](https://github.com/ltlly) Starred [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
   > Free, open source crypto trading bot
+
+### [mahmoudimus](https://github.com/mahmoudimus)
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [pandaadir05/re-architect](https://github.com/pandaadir05/re-architect)
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
+  > Multi-architecture emulation for the modern era.
 
 ### [mandiant](https://github.com/mandiant)
 - 🚀 👤 [mandiant](https://github.com/mandiant) Made [mandiant/brickstorm-scanner](https://github.com/mandiant/brickstorm-scanner) public
@@ -411,5 +428,5 @@
 
 
 ---
-*最后更新于 2025-09-24 22:20:40 UTC*
+*最后更新于 2025-09-24 22:39:01 UTC*
 *历史记录保存在 `archive` 目录中。*
