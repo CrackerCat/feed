@@ -241,6 +241,10 @@
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)
   > Next generation web scanner
 
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+  > Production-Grade Container Scheduling and Management
+
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
@@ -262,6 +266,10 @@
   > Chat over SSH.
 - 🌟 👤 [lordidiot](https://github.com/lordidiot) Starred [gliderlabs/ssh](https://github.com/gliderlabs/ssh)
   > Easy SSH servers in Golang
+
+### [m0n0ph1](https://github.com/m0n0ph1)
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [lark-parser/lark](https://github.com/lark-parser/lark)
+  > Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 
 ### [mborgerson](https://github.com/mborgerson)
 - 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)
@@ -310,6 +318,14 @@
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [mandiant/ADFSpoof](https://github.com/mandiant/ADFSpoof)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [mandiant/Mandiant-Azure-AD-Investigator](https://github.com/mandiant/Mandiant-Azure-AD-Investigator)
 
+### [revercc](https://github.com/revercc)
+- 🌟 👤 [revercc](https://github.com/revercc) Starred [NiTianErXing666/SmallVmp](https://github.com/NiTianErXing666/SmallVmp)
+  > 简单的基于llvm实现vmp保护
+
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [fuqiuluo/ovo](https://github.com/fuqiuluo/ovo)
+  > Android aarch64 kernel driver module providing efficient memory operations, touch simulation and IPC...
+
 ### [safe6Sec](https://github.com/safe6Sec)
 - 🌟 👤 [safe6Sec](https://github.com/safe6Sec) Starred [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace)
   > 三网回程路由测试
@@ -335,6 +351,10 @@
   > Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other...
 - 🌟 👤 [tlaceby](https://github.com/tlaceby) Starred [cztomczak/cef2go](https://github.com/cztomczak/cef2go)
   > Go lang bindings for the Chromium Embedded Framework (CEF)
+
+### [ttttmr](https://github.com/ttttmr)
+- 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+  > Chrome DevTools for coding agents
 
 ### [wangshub](https://github.com/wangshub)
 - 🌟 👤 [wangshub](https://github.com/wangshub) Starred [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
@@ -392,5 +412,5 @@
 
 
 ---
-*最后更新于 2025-09-25 17:19:29 UTC*
+*最后更新于 2025-09-25 17:40:23 UTC*
 *历史记录保存在 `archive` 目录中。*
