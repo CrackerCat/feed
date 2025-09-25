@@ -46,6 +46,8 @@
 ### [Dawnnnnnn](https://github.com/Dawnnnnnn)
 - 🌟 👤 [Dawnnnnnn](https://github.com/Dawnnnnnn) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
+- 🌟 👤 [Dawnnnnnn](https://github.com/Dawnnnnnn) Starred [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot)
+  > ✅ No execution ✅ Pyarmor 8.0 - latest 9.1.x ✅ Universal ✅ Statically convert obfuscated scripts to d...
 
 ### [DeHby](https://github.com/DeHby)
 - 🌟 👤 [DeHby](https://github.com/DeHby) Starred [kam800/MachObfuscator](https://github.com/kam800/MachObfuscator)
@@ -83,6 +85,10 @@
 - 🌟 👤 [Le1a](https://github.com/Le1a) Starred [xixu-me/Xget](https://github.com/xixu-me/Xget)
   > 超高性能、安全的一站式开发者资源访问加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 | Ultra-hig...
 
+### [Margular](https://github.com/Margular)
+- 🌟 👤 [Margular](https://github.com/Margular) Starred [cgohlke/python-ldap-build](https://github.com/cgohlke/python-ldap-build)
+  > Build python-ldap wheels for Windows.
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [NiTianErXing666/Small-Trace](https://github.com/NiTianErXing666/Small-Trace)
   > 对目标函数进行trace 只适用于 arm64
@@ -106,6 +112,8 @@
   > Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - 🍴 👤 [No-Github](https://github.com/No-Github) Forked [vaycore/OneScan](https://github.com/vaycore/OneScan) to [No-Github/OneScan](https://github.com/No-Github/OneScan)
   > OneScan 是一款用于递归目录扫描的 BurpSuite 插件
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [adysec/nuclei_poc](https://github.com/adysec/nuclei_poc)
+  > Nuclei POC，每日更新 | 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC，保存已被删除的POC。通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放...
 
 ### [PIKACHUIM](https://github.com/PIKACHUIM)
 - 🌟 👤 [PIKACHUIM](https://github.com/PIKACHUIM) Starred [PIKACHUIM/DockerProxys](https://github.com/PIKACHUIM/DockerProxys)
@@ -166,6 +174,8 @@
 
 ### [Tardis07](https://github.com/Tardis07)
 - 🌟 👤 [Tardis07](https://github.com/Tardis07) Starred [embedi/Huawei-firewall-tools](https://github.com/embedi/Huawei-firewall-tools)
+- 🌟 👤 [Tardis07](https://github.com/Tardis07) Starred [satan1a/TheRoadOfSO](https://github.com/satan1a/TheRoadOfSO)
+  > 学习安全运营的记录 | The knowledge base of security operation
 
 ### [TheKingOfDuck](https://github.com/TheKingOfDuck)
 - 🌟 👤 [TheKingOfDuck](https://github.com/TheKingOfDuck) Starred [PentestPad/subzy](https://github.com/PentestPad/subzy)
@@ -244,6 +254,8 @@
   > menubarX for windows
 - 🍴 👤 [duanluan](https://github.com/duanluan) Forked [index-tts/index-tts](https://github.com/index-tts/index-tts) to [duanluan/index-tts](https://github.com/duanluan/index-tts)
   > An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
+- 🌟 👤 [duanluan](https://github.com/duanluan) Starred [Ksuriuri/index-tts-vllm](https://github.com/Ksuriuri/index-tts-vllm)
+  > Added vLLM support to IndexTTS for faster inference.
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [modular/modular](https://github.com/modular/modular)
@@ -293,6 +305,8 @@
   > Bash Script To Build Kernels With Debian
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mephistolist/pfpb](https://github.com/mephistolist/pfpb) to [gmh5225/pfpb](https://github.com/gmh5225/pfpb)
   > Packet Filter Peer Blocker
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Wh0am123/MCP-Kali-Server](https://github.com/Wh0am123/MCP-Kali-Server) to [gmh5225/MCP-Kali-Server](https://github.com/gmh5225/MCP-Kali-Server)
+  > MCP configuration to connect AI agent to a Linux machine.
 
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
@@ -306,6 +320,9 @@
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)
   > Next generation web scanner
 
+### [hhhaiai](https://github.com/hhhaiai)
+- ✨ 👤 [hhhaiai](https://github.com/hhhaiai) Created new repo [hhhaiai/testpkg](https://github.com/hhhaiai/testpkg)
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
   > Production-Grade Container Scheduling and Management
@@ -318,9 +335,21 @@
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template)
   > Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
 
+### [jpacg](https://github.com/jpacg)
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [yan5xu/ququ](https://github.com/yan5xu/ququ)
+  > 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
+
 ### [kentcdodds](https://github.com/kentcdodds)
 - 🌟 👤 [kentcdodds](https://github.com/kentcdodds) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
+
+### [kkent030315](https://github.com/kkent030315)
+- ✨ 👤 [kkent030315](https://github.com/kkent030315) Created new repo [kkent030315/windows-eco](https://github.com/kkent030315/windows-eco)
+  > A safe, idiomatic Rust wrapper for the Windows Power Throttling API.
+
+### [konieshadow](https://github.com/konieshadow)
+- 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [oraios/serena](https://github.com/oraios/serena)
+  > A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & ...
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl)
@@ -372,6 +401,10 @@
 
 ### [nzcv](https://github.com/nzcv)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [karamih/QuizApp](https://github.com/karamih/QuizApp) to [nzcv/QuizApp](https://github.com/nzcv/QuizApp)
+
+### [pcy190](https://github.com/pcy190)
+- 🍴 👤 [pcy190](https://github.com/pcy190) Forked [edb-rs/edb](https://github.com/edb-rs/edb) to [pcy190/edb](https://github.com/pcy190/edb)
+  > EDB: The EVM Project Debugger
 
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [yuuouu/ColorOS-CVE-2025-10184](https://github.com/yuuouu/ColorOS-CVE-2025-10184)
@@ -493,5 +526,5 @@
 
 
 ---
-*最后更新于 2025-09-25 18:33:20 UTC*
+*最后更新于 2025-09-25 19:18:43 UTC*
 *历史记录保存在 `archive` 目录中。*
