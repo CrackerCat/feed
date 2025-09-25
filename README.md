@@ -37,6 +37,8 @@
   > Becquerel is a Python package for analyzing nuclear spectroscopic measurements.
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [Juniper/py-junos-eznc](https://github.com/Juniper/py-junos-eznc)
   > Python library for Junos automation
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [aiogram/aiogram](https://github.com/aiogram/aiogram)
+  > aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using as...
 
 ### [AshenOneYe](https://github.com/AshenOneYe)
 - 🌟 👤 [AshenOneYe](https://github.com/AshenOneYe) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator)
@@ -230,6 +232,12 @@
 ### [alibaba](https://github.com/alibaba)
 - 🚀 👤 [alibaba](https://github.com/alibaba) Made [alibaba/SKYLENAGE-ReasoningMath](https://github.com/alibaba/SKYLENAGE-ReasoningMath) public
 
+### [apkunpacker](https://github.com/apkunpacker)
+- 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su)
+  > A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched mod...
+- 🍴 👤 [apkunpacker](https://github.com/apkunpacker) Forked [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su) to [apkunpacker/unisoc-su](https://github.com/apkunpacker/unisoc-su)
+  > A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched mod...
+
 ### [asmjmp0](https://github.com/asmjmp0)
 - 🌟 👤 [asmjmp0](https://github.com/asmjmp0) Starred [roothide/Dopamine2-roothide](https://github.com/roothide/Dopamine2-roothide)
   > Dopamine is a semi-untethered jailbreak for iOS 15 and 16
@@ -293,6 +301,8 @@
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [yan5xu/ququ](https://github.com/yan5xu/ququ)
   > 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)
+  > Generate a timeline of your day, automatically
 
 ### [duanluan](https://github.com/duanluan)
 - 🌟 👤 [duanluan](https://github.com/duanluan) Starred [cornradio/tray-chrome](https://github.com/cornradio/tray-chrome)
@@ -360,10 +370,25 @@
   > A repo for open research on building large reasoning models
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [LLM360/k2-train](https://github.com/LLM360/k2-train) to [gmh5225/k2-train](https://github.com/gmh5225/k2-train)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [LLM360/k2-data-prep](https://github.com/LLM360/k2-data-prep) to [gmh5225/k2-data-prep](https://github.com/gmh5225/k2-data-prep)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [C41M50N/smrz](https://github.com/C41M50N/smrz) to [gmh5225/smrz](https://github.com/gmh5225/smrz)
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [pancakeswap/pancake-swap-core](https://github.com/pancakeswap/pancake-swap-core)
+  > Core smart contracts 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [pancakeswap/pancake-swap-core](https://github.com/pancakeswap/pancake-swap-core) to [gmh5225/pancake-swap-core](https://github.com/gmh5225/pancake-swap-core)
+  > Core smart contracts 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [AikidoSec/intel](https://github.com/AikidoSec/intel) to [gmh5225/intel](https://github.com/gmh5225/intel)
+  > We track 5 million open-source packages, exposing vulnerabilities before they get CVE numbers. Many ...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [KarimJedda/cybergov](https://github.com/KarimJedda/cybergov) to [gmh5225/cybergov](https://github.com/gmh5225/cybergov)
+  > LLMs participating in Polkadot governance decisions 
 
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
   > No fortress, purely open ground.  OpenManus is Coming.
+
+### [h4sh5](https://github.com/h4sh5)
+- 🌟 👤 [h4sh5](https://github.com/h4sh5) Starred [ervanalb/keygen](https://github.com/ervanalb/keygen)
+  > OpenSCAD tools for generating physical keys
+- 🌟 👤 [h4sh5](https://github.com/h4sh5) Starred [zinongli/KeyCopier](https://github.com/zinongli/KeyCopier)
+  > Key Copier App for Flipper Zero
 
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
@@ -423,6 +448,10 @@
   > Chat over SSH.
 - 🌟 👤 [lordidiot](https://github.com/lordidiot) Starred [gliderlabs/ssh](https://github.com/gliderlabs/ssh)
   > Easy SSH servers in Golang
+
+### [lumia431](https://github.com/lumia431)
+- 🍴 👤 [lumia431](https://github.com/lumia431) Forked [microsoft/vcpkg](https://github.com/microsoft/vcpkg) to [lumia431/vcpkg](https://github.com/lumia431/vcpkg)
+  > C++ Library Manager for Windows, Linux, and MacOS
 
 ### [m0n0ph1](https://github.com/m0n0ph1)
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [lark-parser/lark](https://github.com/lark-parser/lark)
@@ -527,6 +556,10 @@
 - 🌟 👤 [thebabush](https://github.com/thebabush) Starred [emproof-com/nyxstone](https://github.com/emproof-com/nyxstone)
   > Nyxstone: assembly / disassembly library based on LLVM, implemented in C++ with Rust and Python bind...
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su)
+  > A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched mod...
+
 ### [tlaceby](https://github.com/tlaceby)
 - 🌟 👤 [tlaceby](https://github.com/tlaceby) Starred [chromiumembedded/cef](https://github.com/chromiumembedded/cef)
   > Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other...
@@ -617,5 +650,5 @@
 
 
 ---
-*最后更新于 2025-09-25 20:25:12 UTC*
+*最后更新于 2025-09-25 20:40:21 UTC*
 *历史记录保存在 `archive` 目录中。*
