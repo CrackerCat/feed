@@ -12,6 +12,10 @@
 - 🌟 👤 [AshenOneYe](https://github.com/AshenOneYe) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator)
   > Polaris: An LLVM-based obfuscator that protects software at various levels
 
+### [Dawnnnnnn](https://github.com/Dawnnnnnn)
+- 🌟 👤 [Dawnnnnnn](https://github.com/Dawnnnnnn) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+  > Chrome DevTools for coding agents
+
 ### [Drun1baby](https://github.com/Drun1baby)
 - 🌟 👤 [Drun1baby](https://github.com/Drun1baby) Starred [chainflag/ctf-blockchain-challenges](https://github.com/chainflag/ctf-blockchain-challenges)
   > Blockchain Challenges Collection(WIP)
@@ -19,6 +23,12 @@
 ### [Hzllaga](https://github.com/Hzllaga)
 - 🌟 👤 [Hzllaga](https://github.com/Hzllaga) Starred [nccgroup/SocksOverRDP](https://github.com/nccgroup/SocksOverRDP)
   > Socks5/4/4a Proxy support for Remote Desktop Protocol / Terminal Services / Citrix / XenApp / XenDes...
+
+### [J0o1ey](https://github.com/J0o1ey)
+- 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [lalajun/RMIDeserialize](https://github.com/lalajun/RMIDeserialize)
+  > RMI 反序列化环境 一步步
+- 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
+  > Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesf...
 
 ### [JunioJsv](https://github.com/JunioJsv)
 - 🍴 👤 [JunioJsv](https://github.com/JunioJsv) Forked [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) to [JunioJsv/tinyraytracer](https://github.com/JunioJsv/tinyraytracer)
@@ -60,6 +70,10 @@
 ### [SeanCline](https://github.com/SeanCline)
 - 🌟 👤 [SeanCline](https://github.com/SeanCline) Starred [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
   > A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to lear...
+
+### [Skulltrail192](https://github.com/Skulltrail192)
+- 🌟 👤 [Skulltrail192](https://github.com/Skulltrail192) Starred [Fuwn/xp](https://github.com/Fuwn/xp)
+  > 💻 Windows XP All Editions Universal Product Keys Collection
 
 ### [Sndav](https://github.com/Sndav)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [ScorpionesLabs/DVS](https://github.com/ScorpionesLabs/DVS)
@@ -150,6 +164,10 @@
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
   > 📚 从零开始的大语言模型原理与实践教程
 
+### [namename333](https://github.com/namename333)
+- 🍴 👤 [namename333](https://github.com/namename333) Forked [duckpigdog/Sec-Interview](https://github.com/duckpigdog/Sec-Interview) to [namename333/Sec-Interview](https://github.com/namename333/Sec-Interview)
+  > 全网首发！！！上万道网安面试题总结（涵盖护网、渗透、红队、逆向、密码、二进制、区块链、AI、云）
+
 ### [nbxiglk0](https://github.com/nbxiglk0)
 - 🌟 👤 [nbxiglk0](https://github.com/nbxiglk0) Starred [ctf-wiki/ctf-tools](https://github.com/ctf-wiki/ctf-tools)
   > CTF 工具集合
@@ -193,6 +211,10 @@
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [vfsfitvnm/frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge)
   > A Frida module to dump, trace or hijack any IL2CPP application at runtime, without needing the globa...
 
+### [wangshub](https://github.com/wangshub)
+- 🌟 👤 [wangshub](https://github.com/wangshub) Starred [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+  > An MCP-based chatbot | 一个基于MCP的聊天机器人
+
 ### [wxhzhwxhzh](https://github.com/wxhzhwxhzh)
 - 🌟 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Starred [airene/vitepress-blog-pure](https://github.com/airene/vitepress-blog-pure)
   > a vitepress theme for blog, demo ↓
@@ -227,7 +249,11 @@
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [The-Lynx-Team/OSCP](https://github.com/The-Lynx-Team/OSCP)
   > Our OSCP repo: from popping shells to mental health.
 
+### [zjw-swun](https://github.com/zjw-swun)
+- 🌟 👤 [zjw-swun](https://github.com/zjw-swun) Starred [antgroup/FluidMarkdown](https://github.com/antgroup/FluidMarkdown)
+- 🍴 👤 [zjw-swun](https://github.com/zjw-swun) Forked [antgroup/FluidMarkdown](https://github.com/antgroup/FluidMarkdown) to [zjw-swun/FluidMarkdown](https://github.com/zjw-swun/FluidMarkdown)
+
 
 ---
-*最后更新于 2025-09-25 14:23:27 UTC*
+*最后更新于 2025-09-25 14:45:32 UTC*
 *历史记录保存在 `archive` 目录中。*
