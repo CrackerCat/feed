@@ -12,13 +12,37 @@
 - 🌟 👤 [AshenOneYe](https://github.com/AshenOneYe) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator)
   > Polaris: An LLVM-based obfuscator that protects software at various levels
 
+### [Drun1baby](https://github.com/Drun1baby)
+- 🌟 👤 [Drun1baby](https://github.com/Drun1baby) Starred [chainflag/ctf-blockchain-challenges](https://github.com/chainflag/ctf-blockchain-challenges)
+  > Blockchain Challenges Collection(WIP)
+
+### [Hzllaga](https://github.com/Hzllaga)
+- 🌟 👤 [Hzllaga](https://github.com/Hzllaga) Starred [nccgroup/SocksOverRDP](https://github.com/nccgroup/SocksOverRDP)
+  > Socks5/4/4a Proxy support for Remote Desktop Protocol / Terminal Services / Citrix / XenApp / XenDes...
+
+### [JunioJsv](https://github.com/JunioJsv)
+- 🍴 👤 [JunioJsv](https://github.com/JunioJsv) Forked [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) to [JunioJsv/tinyraytracer](https://github.com/JunioJsv/tinyraytracer)
+  > A brief computer graphics / rendering course
+
 ### [LabGuy94](https://github.com/LabGuy94)
 - 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [revng/revng](https://github.com/revng/revng)
   > revng: the core repository of the rev.ng project
+- 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [can1357/ThePerfectInjector](https://github.com/can1357/ThePerfectInjector)
+  > Literally, the perfect injector.
+
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [NiTianErXing666/Small-Trace](https://github.com/NiTianErXing666/Small-Trace)
+  > 对目标函数进行trace 只适用于 arm64
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [komari-monitor/komari](https://github.com/komari-monitor/komari)
+  > A simple server monitor tool.
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [spaansba/ForesightJS](https://github.com/spaansba/ForesightJS)
   > Lightweight JavaScript library that predicts user intent based on mouse movements and keyboard navig...
+
+### [NeoMaster831](https://github.com/NeoMaster831)
+- 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack)
+  > SetupHijack is a security research tool that exploits race conditions and insecure file handling in ...
 
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [depycode/burpsuite_hack](https://github.com/depycode/burpsuite_hack)
@@ -37,6 +61,16 @@
 - 🌟 👤 [SeanCline](https://github.com/SeanCline) Starred [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
   > A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to lear...
 
+### [Sndav](https://github.com/Sndav)
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [ScorpionesLabs/DVS](https://github.com/ScorpionesLabs/DVS)
+  > D(COM) V(ulnerability) S(canner) AKA Devious swiss army knife - Lateral movement using DCOM Objects
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack)
+  > SetupHijack is a security research tool that exploits race conditions and insecure file handling in ...
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [Octoberfest7/ThreadCPUAssignment_POC](https://github.com/Octoberfest7/ThreadCPUAssignment_POC)
+  > A small experiment on assigning a processes threads a specific CPU and then blocking it with a high ...
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [M1ndo/WerDump](https://github.com/M1ndo/WerDump)
+  > A Beacon Object File (BOF) for Havoc/CS to Bypass PPL and Dump Lsass
+
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [imxiaoc996/DeviceWarLock](https://github.com/imxiaoc996/DeviceWarLock)
   > 这是一个Android Project，具备设备指纹采集，设备安全检测的能力
@@ -47,6 +81,12 @@
 
 ### [Tardis07](https://github.com/Tardis07)
 - 🌟 👤 [Tardis07](https://github.com/Tardis07) Starred [embedi/Huawei-firewall-tools](https://github.com/embedi/Huawei-firewall-tools)
+
+### [ThunderCls](https://github.com/ThunderCls)
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [krypted/ipasign](https://github.com/krypted/ipasign)
+  > Sign a previously signed .IPA with your provisioning profile
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [ROM-Knowledgeware/IPASign](https://github.com/ROM-Knowledgeware/IPASign)
+  > Tool to update the provisioning profile and resign the IPA file
 
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [boa-dev/temporal](https://github.com/boa-dev/temporal)
@@ -64,6 +104,10 @@
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [cloudflare/orange](https://github.com/cloudflare/orange)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [pubky/pkdns](https://github.com/pubky/pkdns)
   > DNS server resolving pkarr self-sovereign domains
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry)
+  > A community driven registry service for Model Context Protocol (MCP) servers.
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)
+  > Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within application...
 
 ### [darbra](https://github.com/darbra)
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [karust/openserp](https://github.com/karust/openserp)
@@ -110,6 +154,10 @@
 - 🌟 👤 [nbxiglk0](https://github.com/nbxiglk0) Starred [ctf-wiki/ctf-tools](https://github.com/ctf-wiki/ctf-tools)
   > CTF 工具集合
 
+### [netxfly](https://github.com/netxfly)
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [ansible/awx](https://github.com/ansible/awx)
+  > AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is on...
+
 ### [nshalabi](https://github.com/nshalabi)
 - 🌟 👤 [nshalabi](https://github.com/nshalabi) Starred [EtheaDev/DelphiShellExtensions](https://github.com/EtheaDev/DelphiShellExtensions)
   > A useful Template to build a Delphi Shell Extension
@@ -137,6 +185,14 @@
 - ✨ 👤 [sh1ma](https://github.com/sh1ma) Created new repo [sh1ma/sh1ma.dev](https://github.com/sh1ma/sh1ma.dev)
   > sh1maのポートフォリオサイト
 
+### [suzhelan](https://github.com/suzhelan)
+- ✨ 👤 [suzhelan](https://github.com/suzhelan) Created new repo [suzhelan/openads](https://github.com/suzhelan/openads)
+  > 聚合广告SDK架构设计简单示例/Simple example of syndication advertising SDK architecture design
+
+### [taisuii](https://github.com/taisuii)
+- 🌟 👤 [taisuii](https://github.com/taisuii) Starred [vfsfitvnm/frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge)
+  > A Frida module to dump, trace or hijack any IL2CPP application at runtime, without needing the globa...
+
 ### [wxhzhwxhzh](https://github.com/wxhzhwxhzh)
 - 🌟 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Starred [airene/vitepress-blog-pure](https://github.com/airene/vitepress-blog-pure)
   > a vitepress theme for blog, demo ↓
@@ -146,6 +202,14 @@
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [ClementTsang/bottom](https://github.com/ClementTsang/bottom)
   > Yet another cross-platform graphical process/system monitor.
+
+### [zhengjim](https://github.com/zhengjim)
+- 🌟 👤 [zhengjim](https://github.com/zhengjim) Starred [honmashironeko/ProxyCat](https://github.com/honmashironeko/ProxyCat)
+  > 一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用
+- 🌟 👤 [zhengjim](https://github.com/zhengjim) Starred [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+  > 📚 Collaborative cheatsheets for console commands
+- 🌟 👤 [zhengjim](https://github.com/zhengjim) Starred [cheat/cheat](https://github.com/cheat/cheat)
+  > cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to ...
 
 ### [zinja-coder](https://github.com/zinja-coder)
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [xsudoxx/OSCP](https://github.com/xsudoxx/OSCP)
@@ -165,5 +229,5 @@
 
 
 ---
-*最后更新于 2025-09-25 13:32:21 UTC*
+*最后更新于 2025-09-25 14:23:27 UTC*
 *历史记录保存在 `archive` 目录中。*
