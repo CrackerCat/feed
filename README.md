@@ -25,6 +25,12 @@
   > SoTA open-source TTS
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
   > Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Eng...
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+  > Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a J...
+
+### [AnkioTomas](https://github.com/AnkioTomas)
+- 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [syssec-utd/pylingual](https://github.com/syssec-utd/pylingual)
+  > Python decompiler for modern Python versions.
 
 ### [AshenOneYe](https://github.com/AshenOneYe)
 - 🌟 👤 [AshenOneYe](https://github.com/AshenOneYe) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator)
@@ -33,9 +39,17 @@
 ### [BlackHole1](https://github.com/BlackHole1)
 - 🌟 👤 [BlackHole1](https://github.com/BlackHole1) Starred [oomol-lab/epub2speech](https://github.com/oomol-lab/epub2speech)
 
+### [Cossack9989](https://github.com/Cossack9989)
+- 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [semgrep/mcp](https://github.com/semgrep/mcp)
+  > A MCP server for using Semgrep to scan code for security vulnerabilities.
+
 ### [Dawnnnnnn](https://github.com/Dawnnnnnn)
 - 🌟 👤 [Dawnnnnnn](https://github.com/Dawnnnnnn) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
+
+### [DeHby](https://github.com/DeHby)
+- 🌟 👤 [DeHby](https://github.com/DeHby) Starred [kam800/MachObfuscator](https://github.com/kam800/MachObfuscator)
+  > MachObfuscator is a programming-language-agnostic Mach-O apps obfuscator for Apple platforms.
 
 ### [Drun1baby](https://github.com/Drun1baby)
 - 🌟 👤 [Drun1baby](https://github.com/Drun1baby) Starred [chainflag/ctf-blockchain-challenges](https://github.com/chainflag/ctf-blockchain-challenges)
@@ -90,6 +104,8 @@
   > 一款代理扫描器
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [langflow-ai/langflow](https://github.com/langflow-ai/langflow)
   > Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+- 🍴 👤 [No-Github](https://github.com/No-Github) Forked [vaycore/OneScan](https://github.com/vaycore/OneScan) to [No-Github/OneScan](https://github.com/No-Github/OneScan)
+  > OneScan 是一款用于递归目录扫描的 BurpSuite 插件
 
 ### [PIKACHUIM](https://github.com/PIKACHUIM)
 - 🌟 👤 [PIKACHUIM](https://github.com/PIKACHUIM) Starred [PIKACHUIM/DockerProxys](https://github.com/PIKACHUIM/DockerProxys)
@@ -109,6 +125,18 @@
 ### [SeanCline](https://github.com/SeanCline)
 - 🌟 👤 [SeanCline](https://github.com/SeanCline) Starred [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
   > A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to lear...
+
+### [Sec-Fork](https://github.com/Sec-Fork)
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [Tokeii0/VolatilityPro](https://github.com/Tokeii0/VolatilityPro) to [Sec-Fork/VolatilityPro](https://github.com/Sec-Fork/VolatilityPro)
+  > 一款用于自动化处理内存取证的Python脚本，并提供GUI界面
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack) to [Sec-Fork/SetupHijack](https://github.com/Sec-Fork/SetupHijack)
+  > SetupHijack is a security research tool that exploits race conditions and insecure file handling in ...
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze) to [Sec-Fork/EDR-Freeze](https://github.com/Sec-Fork/EDR-Freeze)
+  > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze) to [Sec-Fork/EDR-Freeze-2](https://github.com/Sec-Fork/EDR-Freeze-2)
+  > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [M1ndo/WerDump](https://github.com/M1ndo/WerDump) to [Sec-Fork/WerDump](https://github.com/Sec-Fork/WerDump)
+  > A Beacon Object File (BOF) for Havoc/CS to Bypass PPL and Dump Lsass
 
 ### [Skulltrail192](https://github.com/Skulltrail192)
 - 🌟 👤 [Skulltrail192](https://github.com/Skulltrail192) Starred [Fuwn/xp](https://github.com/Fuwn/xp)
@@ -153,6 +181,10 @@
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [davincifans101/pinduoduo_backdoor_detailed_report](https://github.com/davincifans101/pinduoduo_backdoor_detailed_report)
   > Maybe the most detailed analysis of pdd  backdoors
 
+### [aRe00t](https://github.com/aRe00t)
+- 🌟 👤 [aRe00t](https://github.com/aRe00t) Starred [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)
+  > The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Cu...
+
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [EndCredits/xuexitong_crawler](https://github.com/EndCredits/xuexitong_crawler)
   > 某不知名石家庄市双非斗支学校超星学习通课后题爬取小工具
@@ -175,6 +207,11 @@
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [boa-dev/temporal](https://github.com/boa-dev/temporal)
   > A Rust implementation of ECMAScript's Temporal API
 
+### [chickendrop89](https://github.com/chickendrop89)
+- 🌟 👤 [chickendrop89](https://github.com/chickendrop89) Starred [javl/image2cpp](https://github.com/javl/image2cpp)
+- 🌟 👤 [chickendrop89](https://github.com/chickendrop89) Starred [ropg/truetype2gfx](https://github.com/ropg/truetype2gfx)
+  > Converting fonts from TrueType to Adafruit GFX
+
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [A9T9/RPA](https://github.com/A9T9/RPA)
   > Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use/LLM. Selenium ...
@@ -191,6 +228,10 @@
   > A community driven registry service for Model Context Protocol (MCP) servers.
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)
   > Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within application...
+
+### [cryzlasm](https://github.com/cryzlasm)
+- 🌟 👤 [cryzlasm](https://github.com/cryzlasm) Starred [cd555yong/web-claudecode](https://github.com/cd555yong/web-claudecode)
+  > 把claude code 接入web
 
 ### [darbra](https://github.com/darbra)
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [karust/openserp](https://github.com/karust/openserp)
@@ -212,6 +253,12 @@
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms)
   > MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and R...
 
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI)
+  > 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single...
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+  > The open-source CapCut alternative
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack) to [gmh5225/SetupHijack](https://github.com/gmh5225/SetupHijack)
   > SetupHijack is a security research tool that exploits race conditions and insecure file handling in ...
@@ -228,6 +275,24 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [aenoshrajora/OSINTel-Dashboard](https://github.com/aenoshrajora/OSINTel-Dashboard) to [gmh5225/OSINTel-Dashboard](https://github.com/gmh5225/OSINTel-Dashboard)
   > A dynamic, Flask-based web application providing a centralized interface for executing various open-...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mandiant/brickstorm-scanner](https://github.com/mandiant/brickstorm-scanner) to [gmh5225/brickstorm-scanner](https://github.com/gmh5225/brickstorm-scanner)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [lin-ycv/EverythingCommandPalette](https://github.com/lin-ycv/EverythingCommandPalette) to [gmh5225/EverythingCommandPalette](https://github.com/gmh5225/EverythingCommandPalette)
+  > Everything search extension for Command Palette
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mephistolist/Mao](https://github.com/mephistolist/Mao) to [gmh5225/Mao](https://github.com/gmh5225/Mao)
+  > A protracted people's rootkit.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [caradoc-org/caradoc](https://github.com/caradoc-org/caradoc) to [gmh5225/caradoc](https://github.com/gmh5225/caradoc)
+  > A PDF parser and validator
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [mephistolist/Mao](https://github.com/mephistolist/Mao)
+  > A protracted people's rootkit.
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [mephistolist/hoxha](https://github.com/mephistolist/hoxha)
+  > A userland rootkit 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mephistolist/hoxha](https://github.com/mephistolist/hoxha) to [gmh5225/hoxha](https://github.com/gmh5225/hoxha)
+  > A userland rootkit 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mephistolist/lockjaw](https://github.com/mephistolist/lockjaw) to [gmh5225/lockjaw](https://github.com/gmh5225/lockjaw)
+  >  A web spider in Rust that helps locate forms and hide tracks.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mephistolist/kernup](https://github.com/mephistolist/kernup) to [gmh5225/kernup](https://github.com/gmh5225/kernup)
+  > Bash Script To Build Kernels With Debian
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mephistolist/pfpb](https://github.com/mephistolist/pfpb) to [gmh5225/pfpb](https://github.com/gmh5225/pfpb)
+  > Packet Filter Peer Blocker
 
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
@@ -244,6 +309,8 @@
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
   > Production-Grade Container Scheduling and Management
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [sgl-project/genai-bench](https://github.com/sgl-project/genai-bench)
+  > Genai-bench is a powerful benchmark tool designed for comprehensive token-level performance evaluati...
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
@@ -325,6 +392,10 @@
 ### [rogxo](https://github.com/rogxo)
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [fuqiuluo/ovo](https://github.com/fuqiuluo/ovo)
   > Android aarch64 kernel driver module providing efficient memory operations, touch simulation and IPC...
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [fuqiuluo/android-wuwa](https://github.com/fuqiuluo/android-wuwa)
+  > Android aarch64 rootkit
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [Ylarod/ddk](https://github.com/Ylarod/ddk)
+  > 内核驱动开发工具包 (Kernel Driver Development Kit)
 
 ### [safe6Sec](https://github.com/safe6Sec)
 - 🌟 👤 [safe6Sec](https://github.com/safe6Sec) Starred [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace)
@@ -390,6 +461,16 @@
 - 🌟 👤 [zhengjim](https://github.com/zhengjim) Starred [cheat/cheat](https://github.com/cheat/cheat)
   > cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to ...
 
+### [zhzyker](https://github.com/zhzyker)
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [Tokeii0/VolatilityPro](https://github.com/Tokeii0/VolatilityPro)
+  > 一款用于自动化处理内存取证的Python脚本，并提供GUI界面
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack)
+  > SetupHijack is a security research tool that exploits race conditions and insecure file handling in ...
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
+  > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [M1ndo/WerDump](https://github.com/M1ndo/WerDump)
+  > A Beacon Object File (BOF) for Havoc/CS to Bypass PPL and Dump Lsass
+
 ### [zinja-coder](https://github.com/zinja-coder)
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [xsudoxx/OSCP](https://github.com/xsudoxx/OSCP)
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [six2dez/OSCP-Human-Guide](https://github.com/six2dez/OSCP-Human-Guide)
@@ -412,5 +493,5 @@
 
 
 ---
-*最后更新于 2025-09-25 17:40:23 UTC*
+*最后更新于 2025-09-25 18:33:20 UTC*
 *历史记录保存在 `archive` 目录中。*
