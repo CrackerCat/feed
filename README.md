@@ -41,6 +41,8 @@
   > aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using as...
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [naskio/n8n-nodes-python](https://github.com/naskio/n8n-nodes-python)
   > Run Python code on n8n
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [mahmoud/boltons](https://github.com/mahmoud/boltons)
+  > 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothi...
 
 ### [AshenOneYe](https://github.com/AshenOneYe)
 - 🌟 👤 [AshenOneYe](https://github.com/AshenOneYe) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator)
@@ -120,6 +122,10 @@
   > 对目标函数进行trace 只适用于 arm64
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [komari-monitor/komari](https://github.com/komari-monitor/komari)
   > A simple server monitor tool.
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [garywill/linux-router](https://github.com/garywill/linux-router)
+  > Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also...
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su)
+  > A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched mod...
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [spaansba/ForesightJS](https://github.com/spaansba/ForesightJS)
@@ -426,6 +432,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [AikidoSec/zen-0-days](https://github.com/AikidoSec/zen-0-days) to [gmh5225/zen-0-days](https://github.com/gmh5225/zen-0-days)
   > The repository holds a collection of CVE including proof-of-concept code. Aikido Zen deflects these ...
 
+### [goxr3plus](https://github.com/goxr3plus)
+- 🌟 👤 [goxr3plus](https://github.com/goxr3plus) Starred [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
+  > React Native's Animated library reimplemented
+
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
   > No fortress, purely open ground.  OpenManus is Coming.
@@ -586,6 +596,10 @@
 - 🍴 👤 [shadow3aaa](https://github.com/shadow3aaa) Forked [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) to [shadow3aaa/rikkahub](https://github.com/shadow3aaa/rikkahub)
   > RikkaHub is a Android APP that supports for multiple LLM providers.
 
+### [sotasan](https://github.com/sotasan)
+- 🍴 👤 [sotasan](https://github.com/sotasan) Forked [joinmisskey/api](https://github.com/joinmisskey/api) to [sotasan/api](https://github.com/sotasan/api)
+  > joinmisskey instances' information api
+
 ### [ssut](https://github.com/ssut)
 - 🌟 👤 [ssut](https://github.com/ssut) Starred [bhpark1013/Snaplicator](https://github.com/bhpark1013/Snaplicator)
   > in-time logical replication with CoW file system
@@ -704,5 +718,5 @@
 
 
 ---
-*最后更新于 2025-09-25 21:18:55 UTC*
+*最后更新于 2025-09-25 21:39:01 UTC*
 *历史记录保存在 `archive` 目录中。*
