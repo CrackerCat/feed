@@ -47,6 +47,10 @@
 - 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [can1357/ThePerfectInjector](https://github.com/can1357/ThePerfectInjector)
   > Literally, the perfect injector.
 
+### [Le1a](https://github.com/Le1a)
+- 🌟 👤 [Le1a](https://github.com/Le1a) Starred [xixu-me/Xget](https://github.com/xixu-me/Xget)
+  > 超高性能、安全的一站式开发者资源访问加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 | Ultra-hig...
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [NiTianErXing666/Small-Trace](https://github.com/NiTianErXing666/Small-Trace)
   > 对目标函数进行trace 只适用于 arm64
@@ -60,6 +64,8 @@
 ### [NeoMaster831](https://github.com/NeoMaster831)
 - 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack)
   > SetupHijack is a security research tool that exploits race conditions and insecure file handling in ...
+- 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [vmcall/dxgkrnl_hook](https://github.com/vmcall/dxgkrnl_hook)
+  > C++ graphics kernel subsystem hook
 
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [depycode/burpsuite_hack](https://github.com/depycode/burpsuite_hack)
@@ -117,6 +123,20 @@
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [ROM-Knowledgeware/IPASign](https://github.com/ROM-Knowledgeware/IPASign)
   > Tool to update the provisioning profile and resign the IPA file
 
+### [affggh](https://github.com/affggh)
+- 🌟 👤 [affggh](https://github.com/affggh) Starred [EndCredits/xuexitong_crawler](https://github.com/EndCredits/xuexitong_crawler)
+  > 某不知名石家庄市双非斗支学校超星学习通课后题爬取小工具
+
+### [b1gcat](https://github.com/b1gcat)
+- 🌟 👤 [b1gcat](https://github.com/b1gcat) Starred [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
+  > HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) a...
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [wasmer-examples/python-fastapi-websockets](https://github.com/wasmer-examples/python-fastapi-websockets)
+  > Python FastAPI + Websockets example for Wasmer Edge.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [JosephTLucas/wasm-plotly](https://github.com/JosephTLucas/wasm-plotly)
+  > Demo of using WASM to sandbox Plotly execution
+
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [boa-dev/temporal](https://github.com/boa-dev/temporal)
   > A Rust implementation of ECMAScript's Temporal API
@@ -167,11 +187,19 @@
   > A dynamic, Flask-based web application providing a centralized interface for executing various open-...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mandiant/brickstorm-scanner](https://github.com/mandiant/brickstorm-scanner) to [gmh5225/brickstorm-scanner](https://github.com/gmh5225/brickstorm-scanner)
 
+### [hahwul](https://github.com/hahwul)
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+  > Virtual whiteboard for sketching hand-drawn like diagrams
+
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template)
   > Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
+
+### [kentcdodds](https://github.com/kentcdodds)
+- 🌟 👤 [kentcdodds](https://github.com/kentcdodds) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+  > Chrome DevTools for coding agents
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl)
@@ -185,9 +213,17 @@
 - 🌟 👤 [lordidiot](https://github.com/lordidiot) Starred [gliderlabs/ssh](https://github.com/gliderlabs/ssh)
   > Easy SSH servers in Golang
 
+### [mborgerson](https://github.com/mborgerson)
+- 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)
+  > Generate a timeline of your day, automatically
+
 ### [namename333](https://github.com/namename333)
 - 🍴 👤 [namename333](https://github.com/namename333) Forked [duckpigdog/Sec-Interview](https://github.com/duckpigdog/Sec-Interview) to [namename333/Sec-Interview](https://github.com/namename333/Sec-Interview)
   > 全网首发！！！上万道网安面试题总结（涵盖护网、渗透、红队、逆向、密码、二进制、区块链、AI、云）
+
+### [natsumerinchan](https://github.com/natsumerinchan)
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [ZQF-ReVN/RxValkyria](https://github.com/ZQF-ReVN/RxValkyria)
+  > Valkyria's Engine Tools. |  .sdt .dat .mg2
 
 ### [nbxiglk0](https://github.com/nbxiglk0)
 - 🌟 👤 [nbxiglk0](https://github.com/nbxiglk0) Starred [ctf-wiki/ctf-tools](https://github.com/ctf-wiki/ctf-tools)
@@ -216,9 +252,17 @@
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [yuuouu/ColorOS-CVE-2025-10184](https://github.com/yuuouu/ColorOS-CVE-2025-10184)
   > ColorOS短信漏洞
 
+### [retme7](https://github.com/retme7)
+- 🌟 👤 [retme7](https://github.com/retme7) Starred [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+  > LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers...
+
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [mandiant/ADFSpoof](https://github.com/mandiant/ADFSpoof)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [mandiant/Mandiant-Azure-AD-Investigator](https://github.com/mandiant/Mandiant-Azure-AD-Investigator)
+
+### [safe6Sec](https://github.com/safe6Sec)
+- 🌟 👤 [safe6Sec](https://github.com/safe6Sec) Starred [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace)
+  > 三网回程路由测试
 
 ### [sh1ma](https://github.com/sh1ma)
 - ✨ 👤 [sh1ma](https://github.com/sh1ma) Created new repo [sh1ma/sh1ma.dev](https://github.com/sh1ma/sh1ma.dev)
@@ -249,6 +293,8 @@
   > a vitepress theme for blog, demo ↓
 - 🌟 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Starred [Kele-Bingtang/vitepress-theme-teek](https://github.com/Kele-Bingtang/vitepress-theme-teek)
   > ✨一个轻量、简洁高效、灵活配置、易于扩展的 VitePress 主题
+- ✨ 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Created new repo [wxhzhwxhzh/teek2](https://github.com/wxhzhwxhzh/teek2)
+  > dp teek  vitepress
 
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [ClementTsang/bottom](https://github.com/ClementTsang/bottom)
@@ -284,5 +330,5 @@
 
 
 ---
-*最后更新于 2025-09-25 15:43:17 UTC*
+*最后更新于 2025-09-25 16:28:42 UTC*
 *历史记录保存在 `archive` 目录中。*
