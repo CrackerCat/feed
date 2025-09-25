@@ -39,6 +39,8 @@
   > Python library for Junos automation
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [aiogram/aiogram](https://github.com/aiogram/aiogram)
   > aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using as...
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [naskio/n8n-nodes-python](https://github.com/naskio/n8n-nodes-python)
+  > Run Python code on n8n
 
 ### [AshenOneYe](https://github.com/AshenOneYe)
 - 🌟 👤 [AshenOneYe](https://github.com/AshenOneYe) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator)
@@ -52,6 +54,10 @@
 ### [Cossack9989](https://github.com/Cossack9989)
 - 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [semgrep/mcp](https://github.com/semgrep/mcp)
   > A MCP server for using Semgrep to scan code for security vulnerabilities.
+
+### [Dado1513](https://github.com/Dado1513)
+- 🌟 👤 [Dado1513](https://github.com/Dado1513) Starred [Bert-JanP/Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)
+  > KQL Queries. Defender For Endpoint and Azure Sentinel Hunting and Detection Queries in KQL. Out of t...
 
 ### [Dawnnnnnn](https://github.com/Dawnnnnnn)
 - 🌟 👤 [Dawnnnnnn](https://github.com/Dawnnnnnn) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
@@ -154,6 +160,14 @@
 - 🌟 👤 [RedHoodsDream](https://github.com/RedHoodsDream) Starred [CrackerCat/CVE-2024-35250](https://github.com/CrackerCat/CVE-2024-35250)
   > PoC for the Untrusted Pointer Dereference in the ks.sys driver
 
+### [SakuraKoi](https://github.com/SakuraKoi)
+- 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [DeNA/DeClang](https://github.com/DeNA/DeClang)
+  > An anti-hacking compiler forked from the ollvm (https://github.com/obfuscator-llvm/obfuscator)
+- 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator)
+  > Polaris: An LLVM-based obfuscator that protects software at various levels
+- 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [za233/NeacController](https://github.com/za233/NeacController)
+  > Exploit vulnerabilities in NeacSafe64.sys to achieve privilege escalation and kernel-mode shellcode ...
+
 ### [SeanCline](https://github.com/SeanCline)
 - 🌟 👤 [SeanCline](https://github.com/SeanCline) Starred [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
   > A :baby: buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to lear...
@@ -225,6 +239,10 @@
 - 🌟 👤 [aRe00t](https://github.com/aRe00t) Starred [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)
   > The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Cu...
 
+### [aadog](https://github.com/aadog)
+- 🌟 👤 [aadog](https://github.com/aadog) Starred [dotnetcore/FlubuCore](https://github.com/dotnetcore/FlubuCore)
+  > A cross platform build and deployment automation system for building projects and executing deployme...
+
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [EndCredits/xuexitong_crawler](https://github.com/EndCredits/xuexitong_crawler)
   > 某不知名石家庄市双非斗支学校超星学习通课后题爬取小工具
@@ -287,6 +305,8 @@
   > Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within application...
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [ac3ss0r/obfusheader.h](https://github.com/ac3ss0r/obfusheader.h)
   > Obfusheader.h is a portable header file for C++14 compile-time obfuscation.
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [microsandbox/rxtui](https://github.com/microsandbox/rxtui)
+  > Reactive terminal interfaces for Rust. Because CLIs deserve better.
 
 ### [cryzlasm](https://github.com/cryzlasm)
 - 🌟 👤 [cryzlasm](https://github.com/cryzlasm) Starred [cd555yong/web-claudecode](https://github.com/cd555yong/web-claudecode)
@@ -297,6 +317,8 @@
   > Get [Google, Yandex, Baidu, Bing] search results via API for free 🎉
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [NiTianErXing666/Small-Trace](https://github.com/NiTianErXing666/Small-Trace)
   > 对目标函数进行trace 只适用于 arm64
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
+  > 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [yan5xu/ququ](https://github.com/yan5xu/ququ)
@@ -327,6 +349,14 @@
   > The open-source CapCut alternative
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news)
   > 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [primefaces/primereact](https://github.com/primefaces/primereact)
+  > The Most Complete React UI Component Library
+
+### [gh0stkey](https://github.com/gh0stkey)
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [imputnet/helium-macos](https://github.com/imputnet/helium-macos)
+  > Helium Browser for macOS
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack) to [gmh5225/SetupHijack](https://github.com/gmh5225/SetupHijack)
@@ -379,6 +409,22 @@
   > We track 5 million open-source packages, exposing vulnerabilities before they get CVE numbers. Many ...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [KarimJedda/cybergov](https://github.com/KarimJedda/cybergov) to [gmh5225/cybergov](https://github.com/gmh5225/cybergov)
   > LLMs participating in Polkadot governance decisions 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [bytedance/SALMONN](https://github.com/bytedance/SALMONN) to [gmh5225/SALMONN](https://github.com/gmh5225/SALMONN)
+  > SALMONN family: A suite of advanced multi-modal LLMs
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [shashank-priyadarshi/joustlm](https://github.com/shashank-priyadarshi/joustlm) to [gmh5225/joustlm](https://github.com/gmh5225/joustlm)
+  > Task: LLM Knowledge Extractor
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Skorpion96/MTKClient-Root-Menu](https://github.com/Skorpion96/MTKClient-Root-Menu) to [gmh5225/MTKClient-Root-Menu](https://github.com/gmh5225/MTKClient-Root-Menu)
+  > An alternative to MTKClient GUI that isn't in python and doesn't require any dependencies
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Skorpion96/KernelSU-APatch-Manager-for-Recovery-Mode](https://github.com/Skorpion96/KernelSU-APatch-Manager-for-Recovery-Mode) to [gmh5225/KernelSU-APatch-Manager-for-Recovery-Mode](https://github.com/gmh5225/KernelSU-APatch-Manager-for-Recovery-Mode)
+  > A fork of https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode and https://github.com/Magisk-...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [primefaces/primereact](https://github.com/primefaces/primereact) to [gmh5225/primereact](https://github.com/gmh5225/primereact)
+  > The Most Complete React UI Component Library
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [rxerium/CVE-2025-26399](https://github.com/rxerium/CVE-2025-26399) to [gmh5225/CVE-2025-26399](https://github.com/gmh5225/CVE-2025-26399)
+  > Detection for CVE-2025-26399
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [HackingLZ/svg_phishing_tools](https://github.com/HackingLZ/svg_phishing_tools) to [gmh5225/svg_phishing_tools](https://github.com/gmh5225/svg_phishing_tools)
+  > SVG Analysis and generation tools for commonly seen SVG attachment phishing
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [AikidoSec/zen-0-days](https://github.com/AikidoSec/zen-0-days) to [gmh5225/zen-0-days](https://github.com/gmh5225/zen-0-days)
+  > The repository holds a collection of CVE including proof-of-concept code. Aikido Zen deflects these ...
 
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
@@ -504,6 +550,10 @@
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [yuuouu/ColorOS-CVE-2025-10184](https://github.com/yuuouu/ColorOS-CVE-2025-10184)
   > ColorOS短信漏洞
 
+### [redbearder](https://github.com/redbearder)
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [czerwonk/ping_exporter](https://github.com/czerwonk/ping_exporter)
+  > Prometheus exporter for ICMP echo requests using https://github.com/digineo/go-ping
+
 ### [retme7](https://github.com/retme7)
 - 🌟 👤 [retme7](https://github.com/retme7) Starred [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
   > LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers...
@@ -610,6 +660,10 @@
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [AIR-hl/llm-interview-code](https://github.com/AIR-hl/llm-interview-code)
   > LLM面试常见手撕合集
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [repnz/apc-research](https://github.com/repnz/apc-research)
+  > APC Internals Research Code
+
 ### [zhengjim](https://github.com/zhengjim)
 - 🌟 👤 [zhengjim](https://github.com/zhengjim) Starred [honmashironeko/ProxyCat](https://github.com/honmashironeko/ProxyCat)
   > 一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用
@@ -650,5 +704,5 @@
 
 
 ---
-*最后更新于 2025-09-25 20:40:21 UTC*
+*最后更新于 2025-09-25 21:18:55 UTC*
 *历史记录保存在 `archive` 目录中。*
