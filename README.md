@@ -12,9 +12,26 @@
 - 🌟 👤 [AshenOneYe](https://github.com/AshenOneYe) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator)
   > Polaris: An LLVM-based obfuscator that protects software at various levels
 
+### [LabGuy94](https://github.com/LabGuy94)
+- 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [revng/revng](https://github.com/revng/revng)
+  > revng: the core repository of the rev.ng project
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [spaansba/ForesightJS](https://github.com/spaansba/ForesightJS)
   > Lightweight JavaScript library that predicts user intent based on mouse movements and keyboard navig...
+
+### [No-Github](https://github.com/No-Github)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [depycode/burpsuite_hack](https://github.com/depycode/burpsuite_hack)
+  > 一款代理扫描器
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [langflow-ai/langflow](https://github.com/langflow-ai/langflow)
+  > Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+
+### [PoomSmart](https://github.com/PoomSmart)
+- 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [opa334/ApolloCrashFix](https://github.com/opa334/ApolloCrashFix)
+
+### [QingYuan688](https://github.com/QingYuan688)
+- 🍴 👤 [QingYuan688](https://github.com/QingYuan688) Forked [Numbersf/Action-Build](https://github.com/Numbersf/Action-Build) to [QingYuan688/Action-Build](https://github.com/QingYuan688/Action-Build)
+  > Build OnePlus SukiSU Ultra KPM+VFS+LZ4KD Kernel
 
 ### [SeanCline](https://github.com/SeanCline)
 - 🌟 👤 [SeanCline](https://github.com/SeanCline) Starred [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy)
@@ -24,12 +41,29 @@
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [imxiaoc996/DeviceWarLock](https://github.com/imxiaoc996/DeviceWarLock)
   > 这是一个Android Project，具备设备指纹采集，设备安全检测的能力
 
+### [Steesha](https://github.com/Steesha)
+- 🌟 👤 [Steesha](https://github.com/Steesha) Starred [Naton1/jvm-explorer](https://github.com/Naton1/jvm-explorer)
+  > JVM Explorer is a Java desktop application for browsing loaded class files inside locally running Ja...
+
 ### [Tardis07](https://github.com/Tardis07)
 - 🌟 👤 [Tardis07](https://github.com/Tardis07) Starred [embedi/Huawei-firewall-tools](https://github.com/embedi/Huawei-firewall-tools)
 
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [boa-dev/temporal](https://github.com/boa-dev/temporal)
   > A Rust implementation of ECMAScript's Temporal API
+
+### [cn-kali-team](https://github.com/cn-kali-team)
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [A9T9/RPA](https://github.com/A9T9/RPA)
+  > Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use/LLM. Selenium ...
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [robotframework/robotframework](https://github.com/robotframework/robotframework)
+  > Generic automation framework for acceptance testing and RPA
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [rmqtt/rmqtt](https://github.com/rmqtt/rmqtt)
+  > MQTT Server/MQTT Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [zerotier/zeronsd](https://github.com/zerotier/zeronsd)
+  > A DNS server for ZeroTier users
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [cloudflare/orange](https://github.com/cloudflare/orange)
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [pubky/pkdns](https://github.com/pubky/pkdns)
+  > DNS server resolving pkarr self-sovereign domains
 
 ### [darbra](https://github.com/darbra)
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [karust/openserp](https://github.com/karust/openserp)
@@ -91,6 +125,10 @@
 ### [nzcv](https://github.com/nzcv)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [karamih/QuizApp](https://github.com/karamih/QuizApp) to [nzcv/QuizApp](https://github.com/nzcv/QuizApp)
 
+### [rankalpha](https://github.com/rankalpha)
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [yuuouu/ColorOS-CVE-2025-10184](https://github.com/yuuouu/ColorOS-CVE-2025-10184)
+  > ColorOS短信漏洞
+
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [mandiant/ADFSpoof](https://github.com/mandiant/ADFSpoof)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [mandiant/Mandiant-Azure-AD-Investigator](https://github.com/mandiant/Mandiant-Azure-AD-Investigator)
@@ -104,6 +142,10 @@
   > a vitepress theme for blog, demo ↓
 - 🌟 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Starred [Kele-Bingtang/vitepress-theme-teek](https://github.com/Kele-Bingtang/vitepress-theme-teek)
   > ✨一个轻量、简洁高效、灵活配置、易于扩展的 VitePress 主题
+
+### [xiaoweigege](https://github.com/xiaoweigege)
+- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [ClementTsang/bottom](https://github.com/ClementTsang/bottom)
+  > Yet another cross-platform graphical process/system monitor.
 
 ### [zinja-coder](https://github.com/zinja-coder)
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [xsudoxx/OSCP](https://github.com/xsudoxx/OSCP)
@@ -123,5 +165,5 @@
 
 
 ---
-*最后更新于 2025-09-25 12:49:45 UTC*
+*最后更新于 2025-09-25 13:32:21 UTC*
 *历史记录保存在 `archive` 目录中。*
