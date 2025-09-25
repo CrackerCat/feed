@@ -12,6 +12,9 @@
 - 🌟 👤 [34306](https://github.com/34306) Starred [NyanSatan/polinaserial](https://github.com/NyanSatan/polinaserial)
   > Serial port monitor program for Mac OS X with lolcat, iBoot logs deobfuscation & much more
 
+### [AlbatrossHook](https://github.com/AlbatrossHook)
+- ✨ 👤 [AlbatrossHook](https://github.com/AlbatrossHook) Created new repo [AlbatrossHook/HideApp](https://github.com/AlbatrossHook/HideApp)
+
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [cloudflare/capnweb](https://github.com/cloudflare/capnweb)
   > JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
@@ -67,6 +70,9 @@
 - 🌟 👤 [Dawnnnnnn](https://github.com/Dawnnnnnn) Starred [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot)
   > ✅ No execution ✅ Pyarmor 8.0 - latest 9.1.x ✅ Universal ✅ Statically convert obfuscated scripts to d...
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [sasagawa888/lisp1.5](https://github.com/sasagawa888/lisp1.5)
+
 ### [DeHby](https://github.com/DeHby)
 - 🌟 👤 [DeHby](https://github.com/DeHby) Starred [kam800/MachObfuscator](https://github.com/kam800/MachObfuscator)
   > MachObfuscator is a programming-language-agnostic Mach-O apps obfuscator for Apple platforms.
@@ -113,6 +119,10 @@
 - 🌟 👤 [Le1a](https://github.com/Le1a) Starred [xixu-me/Xget](https://github.com/xixu-me/Xget)
   > 超高性能、安全的一站式开发者资源访问加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 | Ultra-hig...
 
+### [MBRO95](https://github.com/MBRO95)
+- 🌟 👤 [MBRO95](https://github.com/MBRO95) Starred [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+  > A collection of (mostly) technical things every software developer should know about
+
 ### [Margular](https://github.com/Margular)
 - 🌟 👤 [Margular](https://github.com/Margular) Starred [cgohlke/python-ldap-build](https://github.com/cgohlke/python-ldap-build)
   > Build python-ldap wheels for Windows.
@@ -134,6 +144,10 @@
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [emmanuel-ferdman/gh-gonest](https://github.com/emmanuel-ferdman/gh-gonest)
   > :octocat: GitHub CLI extension that automatically detects and removes ghost notifications from banne...
+
+### [Neo23x0](https://github.com/Neo23x0)
+- 🍴 👤 [Neo23x0](https://github.com/Neo23x0) Forked [google/threat-team](https://github.com/google/threat-team) to [Neo23x0/threat-team](https://github.com/Neo23x0/threat-team)
+  > IOCs from Google Threat Intelligence Group
 
 ### [NeoMaster831](https://github.com/NeoMaster831)
 - 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack)
@@ -485,6 +499,12 @@
 - 🌟 👤 [kentcdodds](https://github.com/kentcdodds) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [obitouka/InstagramPrivSniffer](https://github.com/obitouka/InstagramPrivSniffer)
+  > Views Instagram private account's media without login
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+  > Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+
 ### [kkent030315](https://github.com/kkent030315)
 - ✨ 👤 [kkent030315](https://github.com/kkent030315) Created new repo [kkent030315/windows-eco](https://github.com/kkent030315/windows-eco)
   > A safe, idiomatic Rust wrapper for the Windows Power Throttling API.
@@ -512,6 +532,10 @@
 ### [m0n0ph1](https://github.com/m0n0ph1)
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [lark-parser/lark](https://github.com/lark-parser/lark)
   > Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [eunuchs/unix-archive](https://github.com/eunuchs/unix-archive)
+  > The Unix Archive (The Unix Heritage Society)
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [eunuchs/tsh](https://github.com/eunuchs/tsh)
+  > The Thompson shell (the very first!) 
 
 ### [mborgerson](https://github.com/mborgerson)
 - 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)
@@ -634,6 +658,12 @@
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
 
+### [w00tzenheimer](https://github.com/w00tzenheimer)
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [BunnyWay/es-wasm-application](https://github.com/BunnyWay/es-wasm-application)
+  > WASM Application template for Bunny Scripts
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+  > The beautiful & flexible React.js docs framework.
+
 ### [wangshub](https://github.com/wangshub)
 - 🌟 👤 [wangshub](https://github.com/wangshub) Starred [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
   > An MCP-based chatbot | 一个基于MCP的聊天机器人
@@ -711,6 +741,8 @@
   > OSCP 2023 Preparation Guide | Courses, Tricks, Tutorials, Exercises, Machines
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [The-Lynx-Team/OSCP](https://github.com/The-Lynx-Team/OSCP)
   > Our OSCP repo: from popping shells to mental health.
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
+  > game of active directory
 
 ### [zjw-swun](https://github.com/zjw-swun)
 - 🌟 👤 [zjw-swun](https://github.com/zjw-swun) Starred [antgroup/FluidMarkdown](https://github.com/antgroup/FluidMarkdown)
@@ -718,5 +750,5 @@
 
 
 ---
-*最后更新于 2025-09-25 21:39:01 UTC*
+*最后更新于 2025-09-25 22:18:49 UTC*
 *历史记录保存在 `archive` 目录中。*
