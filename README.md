@@ -12,6 +12,9 @@
 - 🌟 👤 [AshenOneYe](https://github.com/AshenOneYe) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator)
   > Polaris: An LLVM-based obfuscator that protects software at various levels
 
+### [BlackHole1](https://github.com/BlackHole1)
+- 🌟 👤 [BlackHole1](https://github.com/BlackHole1) Starred [oomol-lab/epub2speech](https://github.com/oomol-lab/epub2speech)
+
 ### [Dawnnnnnn](https://github.com/Dawnnnnnn)
 - 🌟 👤 [Dawnnnnnn](https://github.com/Dawnnnnnn) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
@@ -19,6 +22,10 @@
 ### [Drun1baby](https://github.com/Drun1baby)
 - 🌟 👤 [Drun1baby](https://github.com/Drun1baby) Starred [chainflag/ctf-blockchain-challenges](https://github.com/chainflag/ctf-blockchain-challenges)
   > Blockchain Challenges Collection(WIP)
+
+### [Hackerl](https://github.com/Hackerl)
+- 🌟 👤 [Hackerl](https://github.com/Hackerl) Starred [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle)
+  > A software update framework for macOS
 
 ### [Hzllaga](https://github.com/Hzllaga)
 - 🌟 👤 [Hzllaga](https://github.com/Hzllaga) Starred [nccgroup/SocksOverRDP](https://github.com/nccgroup/SocksOverRDP)
@@ -96,6 +103,10 @@
 ### [Tardis07](https://github.com/Tardis07)
 - 🌟 👤 [Tardis07](https://github.com/Tardis07) Starred [embedi/Huawei-firewall-tools](https://github.com/embedi/Huawei-firewall-tools)
 
+### [TheKingOfDuck](https://github.com/TheKingOfDuck)
+- 🌟 👤 [TheKingOfDuck](https://github.com/TheKingOfDuck) Starred [PentestPad/subzy](https://github.com/PentestPad/subzy)
+  > Subdomain takeover vulnerability checker
+
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [krypted/ipasign](https://github.com/krypted/ipasign)
   > Sign a previously signed .IPA with your provisioning profile
@@ -164,6 +175,12 @@
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
   > 📚 从零开始的大语言模型原理与实践教程
 
+### [lordidiot](https://github.com/lordidiot)
+- 🌟 👤 [lordidiot](https://github.com/lordidiot) Starred [shazow/ssh-chat](https://github.com/shazow/ssh-chat)
+  > Chat over SSH.
+- 🌟 👤 [lordidiot](https://github.com/lordidiot) Starred [gliderlabs/ssh](https://github.com/gliderlabs/ssh)
+  > Easy SSH servers in Golang
+
 ### [namename333](https://github.com/namename333)
 - 🍴 👤 [namename333](https://github.com/namename333) Forked [duckpigdog/Sec-Interview](https://github.com/duckpigdog/Sec-Interview) to [namename333/Sec-Interview](https://github.com/namename333/Sec-Interview)
   > 全网首发！！！上万道网安面试题总结（涵盖护网、渗透、红队、逆向、密码、二进制、区块链、AI、云）
@@ -203,6 +220,10 @@
 - ✨ 👤 [sh1ma](https://github.com/sh1ma) Created new repo [sh1ma/sh1ma.dev](https://github.com/sh1ma/sh1ma.dev)
   > sh1maのポートフォリオサイト
 
+### [shadow3aaa](https://github.com/shadow3aaa)
+- 🍴 👤 [shadow3aaa](https://github.com/shadow3aaa) Forked [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) to [shadow3aaa/rikkahub](https://github.com/shadow3aaa/rikkahub)
+  > RikkaHub is a Android APP that supports for multiple LLM providers.
+
 ### [suzhelan](https://github.com/suzhelan)
 - ✨ 👤 [suzhelan](https://github.com/suzhelan) Created new repo [suzhelan/openads](https://github.com/suzhelan/openads)
   > 聚合广告SDK架构设计简单示例/Simple example of syndication advertising SDK architecture design
@@ -214,6 +235,10 @@
 ### [wangshub](https://github.com/wangshub)
 - 🌟 👤 [wangshub](https://github.com/wangshub) Starred [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
   > An MCP-based chatbot | 一个基于MCP的聊天机器人
+
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [Tencent-TDS/KuiklyBase-platform](https://github.com/Tencent-TDS/KuiklyBase-platform)
+- 🍴 👤 [waruqi](https://github.com/waruqi) Forked [Tencent-TDS/KuiklyBase-platform](https://github.com/Tencent-TDS/KuiklyBase-platform) to [waruqi/KuiklyBase-platform](https://github.com/waruqi/KuiklyBase-platform)
 
 ### [wxhzhwxhzh](https://github.com/wxhzhwxhzh)
 - 🌟 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Starred [airene/vitepress-blog-pure](https://github.com/airene/vitepress-blog-pure)
@@ -255,5 +280,5 @@
 
 
 ---
-*最后更新于 2025-09-25 14:45:32 UTC*
+*最后更新于 2025-09-25 15:24:46 UTC*
 *历史记录保存在 `archive` 目录中。*
