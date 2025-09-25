@@ -32,6 +32,10 @@
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [syssec-utd/pylingual](https://github.com/syssec-utd/pylingual)
   > Python decompiler for modern Python versions.
 
+### [Asabeneh](https://github.com/Asabeneh)
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [lbl-anp/becquerel](https://github.com/lbl-anp/becquerel)
+  > Becquerel is a Python package for analyzing nuclear spectroscopic measurements.
+
 ### [AshenOneYe](https://github.com/AshenOneYe)
 - 🌟 👤 [AshenOneYe](https://github.com/AshenOneYe) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator)
   > Polaris: An LLVM-based obfuscator that protects software at various levels
@@ -199,6 +203,13 @@
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [EndCredits/xuexitong_crawler](https://github.com/EndCredits/xuexitong_crawler)
   > 某不知名石家庄市双非斗支学校超星学习通课后题爬取小工具
 
+### [alibaba](https://github.com/alibaba)
+- 🚀 👤 [alibaba](https://github.com/alibaba) Made [alibaba/SKYLENAGE-ReasoningMath](https://github.com/alibaba/SKYLENAGE-ReasoningMath) public
+
+### [aystshen](https://github.com/aystshen)
+- 🌟 👤 [aystshen](https://github.com/aystshen) Starred [AimRT/AimRT](https://github.com/AimRT/AimRT)
+  > A high-performance runtime framework for modern robotics.
+
 ### [b1gcat](https://github.com/b1gcat)
 - 🌟 👤 [b1gcat](https://github.com/b1gcat) Starred [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
   > HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) a...
@@ -270,6 +281,8 @@
   > 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single...
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
   > The open-source CapCut alternative
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news)
+  > 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack) to [gmh5225/SetupHijack](https://github.com/gmh5225/SetupHijack)
@@ -307,6 +320,12 @@
   > Packet Filter Peer Blocker
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Wh0am123/MCP-Kali-Server](https://github.com/Wh0am123/MCP-Kali-Server) to [gmh5225/MCP-Kali-Server](https://github.com/gmh5225/MCP-Kali-Server)
   > MCP configuration to connect AI agent to a Linux machine.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [MBZUAI-IFM/K2-Think-Inference](https://github.com/MBZUAI-IFM/K2-Think-Inference) to [gmh5225/K2-Think-Inference](https://github.com/gmh5225/K2-Think-Inference)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [MBZUAI-IFM/K2-Think-SFT](https://github.com/MBZUAI-IFM/K2-Think-SFT) to [gmh5225/K2-Think-SFT](https://github.com/gmh5225/K2-Think-SFT)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [LLM360/Reasoning360](https://github.com/LLM360/Reasoning360) to [gmh5225/Reasoning360](https://github.com/gmh5225/Reasoning360)
+  > A repo for open research on building large reasoning models
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [LLM360/k2-train](https://github.com/LLM360/k2-train) to [gmh5225/k2-train](https://github.com/gmh5225/k2-train)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [LLM360/k2-data-prep](https://github.com/LLM360/k2-data-prep) to [gmh5225/k2-data-prep](https://github.com/gmh5225/k2-data-prep)
 
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
@@ -334,6 +353,10 @@
   > Chrome DevTools for coding agents
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template)
   > Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
+
+### [jiushill](https://github.com/jiushill)
+- 🌟 👤 [jiushill](https://github.com/jiushill) Starred [gmh5225/Honkai-StarRail-ACE-B](https://github.com/gmh5225/Honkai-StarRail-ACE-B)
+  > This repository provides code and instructions for bypassing the anti-cheat system in Honkai Star Ra...
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [yan5xu/ququ](https://github.com/yan5xu/ququ)
@@ -442,6 +465,10 @@
 - 🍴 👤 [shadow3aaa](https://github.com/shadow3aaa) Forked [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) to [shadow3aaa/rikkahub](https://github.com/shadow3aaa/rikkahub)
   > RikkaHub is a Android APP that supports for multiple LLM providers.
 
+### [ssut](https://github.com/ssut)
+- 🌟 👤 [ssut](https://github.com/ssut) Starred [bhpark1013/Snaplicator](https://github.com/bhpark1013/Snaplicator)
+  > in-time logical replication with CoW file system
+
 ### [suzhelan](https://github.com/suzhelan)
 - ✨ 👤 [suzhelan](https://github.com/suzhelan) Created new repo [suzhelan/openads](https://github.com/suzhelan/openads)
   > 聚合广告SDK架构设计简单示例/Simple example of syndication advertising SDK architecture design
@@ -467,6 +494,12 @@
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [Tencent-TDS/KuiklyBase-platform](https://github.com/Tencent-TDS/KuiklyBase-platform)
 - 🍴 👤 [waruqi](https://github.com/waruqi) Forked [Tencent-TDS/KuiklyBase-platform](https://github.com/Tencent-TDS/KuiklyBase-platform) to [waruqi/KuiklyBase-platform](https://github.com/waruqi/KuiklyBase-platform)
+
+### [wwh1004](https://github.com/wwh1004)
+- 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [hfiref0x/UACME](https://github.com/hfiref0x/UACME)
+  > Defeating Windows User Account Control
+- 🍴 👤 [wwh1004](https://github.com/wwh1004) Forked [hfiref0x/UACME](https://github.com/hfiref0x/UACME) to [wwh1004/UACME](https://github.com/wwh1004/UACME)
+  > Defeating Windows User Account Control
 
 ### [wxhzhwxhzh](https://github.com/wxhzhwxhzh)
 - 🌟 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Starred [airene/vitepress-blog-pure](https://github.com/airene/vitepress-blog-pure)
@@ -526,5 +559,5 @@
 
 
 ---
-*最后更新于 2025-09-25 19:18:43 UTC*
+*最后更新于 2025-09-25 19:38:48 UTC*
 *历史记录保存在 `archive` 目录中。*
