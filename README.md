@@ -12,6 +12,10 @@
 - 🌟 👤 [34306](https://github.com/34306) Starred [NyanSatan/polinaserial](https://github.com/NyanSatan/polinaserial)
   > Serial port monitor program for Mac OS X with lolcat, iBoot logs deobfuscation & much more
 
+### [A200K](https://github.com/A200K)
+- 🍴 👤 [A200K](https://github.com/A200K) Forked [dayanch96/YTLite](https://github.com/dayanch96/YTLite) to [A200K/YTLite](https://github.com/A200K/YTLite)
+  > A flexible enhancer for YouTube on iOS
+
 ### [AlbatrossHook](https://github.com/AlbatrossHook)
 - ✨ 👤 [AlbatrossHook](https://github.com/AlbatrossHook) Created new repo [AlbatrossHook/HideApp](https://github.com/AlbatrossHook/HideApp)
 
@@ -60,6 +64,10 @@
 - 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [semgrep/mcp](https://github.com/semgrep/mcp)
   > A MCP server for using Semgrep to scan code for security vulnerabilities.
 
+### [CyberMonitor](https://github.com/CyberMonitor)
+- 🌟 👤 [CyberMonitor](https://github.com/CyberMonitor) Starred [stevenyu113228/multi-agent-chat](https://github.com/stevenyu113228/multi-agent-chat)
+- 🍴 👤 [CyberMonitor](https://github.com/CyberMonitor) Forked [stevenyu113228/multi-agent-chat](https://github.com/stevenyu113228/multi-agent-chat) to [CyberMonitor/multi-agent-chat](https://github.com/CyberMonitor/multi-agent-chat)
+
 ### [Dado1513](https://github.com/Dado1513)
 - 🌟 👤 [Dado1513](https://github.com/Dado1513) Starred [Bert-JanP/Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)
   > KQL Queries. Defender For Endpoint and Azure Sentinel Hunting and Detection Queries in KQL. Out of t...
@@ -90,6 +98,10 @@
 ### [Hackerl](https://github.com/Hackerl)
 - 🌟 👤 [Hackerl](https://github.com/Hackerl) Starred [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle)
   > A software update framework for macOS
+
+### [Hexorg](https://github.com/Hexorg)
+- 🌟 👤 [Hexorg](https://github.com/Hexorg) Starred [teabound/egui-cfg](https://github.com/teabound/egui-cfg)
+  > egui library for displaying control flow graphs using petgraph.
 
 ### [Hzllaga](https://github.com/Hzllaga)
 - 🌟 👤 [Hzllaga](https://github.com/Hzllaga) Starred [nccgroup/SocksOverRDP](https://github.com/nccgroup/SocksOverRDP)
@@ -750,5 +762,5 @@
 
 
 ---
-*最后更新于 2025-09-25 22:39:56 UTC*
+*最后更新于 2025-09-25 23:19:43 UTC*
 *历史记录保存在 `archive` 目录中。*
