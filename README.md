@@ -41,6 +41,8 @@
   > The best way to get AI to solve hard problems in complex codebases.
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [MaineKuehn/usim](https://github.com/MaineKuehn/usim)
   > Lightweight Python Simulation Framework
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [sveltejs/svelte](https://github.com/sveltejs/svelte)
+  > web development for the rest of us
 
 ### [CC11001100](https://github.com/CC11001100)
 - 🌟 👤 [CC11001100](https://github.com/CC11001100) Starred [scagogogo/cwe](https://github.com/scagogogo/cwe)
@@ -403,6 +405,8 @@
   > Keep track of used ports
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
   > RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge...
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+  > OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 
 ### [nothing-2333](https://github.com/nothing-2333)
 - 🌟 👤 [nothing-2333](https://github.com/nothing-2333) Starred [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)
@@ -466,6 +470,10 @@
   > smalidea is a smali language plugin for IntelliJ IDEA
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [hi-dhl/DebugApkSmali](https://github.com/hi-dhl/DebugApkSmali) to [rankalpha/DebugApkSmali](https://github.com/rankalpha/DebugApkSmali)
   > 基于Smali文件 Android Studio 动态调试 APP
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [86maid/ddddocr](https://github.com/86maid/ddddocr) to [rankalpha/ddddocr](https://github.com/rankalpha/ddddocr)
+  > ddddocr rust 版本，ocr_api_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，AI MCP 支持，a simple OCR API ser...
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) to [rankalpha/chrome-devtools-mcp](https://github.com/rankalpha/chrome-devtools-mcp)
+  > Chrome DevTools for coding agents
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🍴 👤 [ravindu644](https://github.com/ravindu644) Forked [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) to [ravindu644/bootloader-unlock-wall-of-shame](https://github.com/ravindu644/bootloader-unlock-wall-of-shame)
@@ -478,6 +486,7 @@
   > 基于eBPF的堆栈追踪工具
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [KyuubiRan/EzXHelper](https://github.com/KyuubiRan/EzXHelper)
   > A library to make Xposed modules development easily.
+- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [hudra0/qosmate](https://github.com/hudra0/qosmate)
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [panda-re/panda](https://github.com/panda-re/panda)
@@ -622,5 +631,5 @@
 
 
 ---
-*最后更新于 2025-09-26 14:41:48 UTC*
+*最后更新于 2025-09-26 15:23:43 UTC*
 *历史记录保存在 `archive` 目录中。*
