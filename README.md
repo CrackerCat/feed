@@ -63,6 +63,10 @@
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Mr-xn/CVE-2025-54424](https://github.com/Mr-xn/CVE-2025-54424)
   > CVE-2025-54424：1Panel 客户端证书绕过RCE漏洞 一体化工具 (扫描+利用)
 
+### [DerekSelander](https://github.com/DerekSelander)
+- 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [khanhduytran0/Sim26Booter](https://github.com/khanhduytran0/Sim26Booter)
+  > Attempt to boot iOS 26 simulator on iOS 16 (WIP, does not work yet)
+
 ### [EgeBalci](https://github.com/EgeBalci)
 - 🌟 👤 [EgeBalci](https://github.com/EgeBalci) Starred [zrax/pycdc](https://github.com/zrax/pycdc)
   > C++ python bytecode disassembler and decompiler
@@ -119,6 +123,10 @@
 ### [NS-Sp4ce](https://github.com/NS-Sp4ce)
 - 🌟 👤 [NS-Sp4ce](https://github.com/NS-Sp4ce) Starred [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
   > 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
+  > Windows protocol library, including SMB and RPC implementations, among others.
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker)
@@ -207,8 +215,44 @@
 - 🌟 👤 [bingwin](https://github.com/bingwin) Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
   > Wan: Open and Advanced Large-Scale Video Generative Models
 
+### [byt3n33dl3](https://github.com/byt3n33dl3)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS)
+  > :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to co...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Jguer/yay](https://github.com/Jguer/yay)
+  > Yet another Yogurt - An AUR Helper written in Go
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+  > Cross-platform, fast, feature-rich, GPU based terminal
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [ktr0731/evans](https://github.com/ktr0731/evans)
+  > Evans: more expressive universal gRPC client
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [kubernetes/minikube](https://github.com/kubernetes/minikube)
+  > Run Kubernetes locally
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [atifaziz/NCrontab](https://github.com/atifaziz/NCrontab)
+  > Crontab for .NET
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [HangfireIO/Cronos](https://github.com/HangfireIO/Cronos)
+  > A fully-featured .NET library for working with Cron expressions. Built with time zones in mind and i...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [fyne-io/fyne](https://github.com/fyne-io/fyne)
+  > Cross platform GUI toolkit in Go inspired by Material Design
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
+  > A curated list of awesome actions to use on GitHub
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [gin-gonic/gin](https://github.com/gin-gonic/gin)
+  > Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with ...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [gomlx/gomlx](https://github.com/gomlx/gomlx)
+  > GoMLX: An Accelerated Machine Learning Framework For Go
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [gomlx/gemma](https://github.com/gomlx/gemma)
+  > GoMLX implementation of Google's Gemma models
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [achille-roussel/sqlrange](https://github.com/achille-roussel/sqlrange)
+  > Go 1.23 range functions with database/sql
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)
+  > Next generation web scanner
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+  > Virtual whiteboard for sketching hand-drawn like diagrams
+
 ### [codehz](https://github.com/codehz)
 - ✨ 👤 [codehz](https://github.com/codehz) Created new repo [codehz/autoapi](https://github.com/codehz/autoapi)
+
+### [codingsf](https://github.com/codingsf)
+- 🌟 👤 [codingsf](https://github.com/codingsf) Starred [Yuliang-Liu/MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
+  > A lightweight LMM-based Document Parsing Model
 
 ### [cozis](https://github.com/cozis)
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [degradka/mc-preclassic-c](https://github.com/degradka/mc-preclassic-c)
@@ -505,6 +549,9 @@
 - 🌟 👤 [pengwei1024](https://github.com/pengwei1024) Starred [little51/dinov3-samples](https://github.com/little51/dinov3-samples)
   > dinov3例子
 
+### [plumk97](https://github.com/plumk97)
+- ✨ 👤 [plumk97](https://github.com/plumk97) Created new repo [plumk97/gnews](https://github.com/plumk97/gnews)
+
 ### [plusls](https://github.com/plusls)
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [joerick/pyinstrument](https://github.com/joerick/pyinstrument)
   > 🚴 Call stack profiler for Python. Shows you why your code is slow!
@@ -654,6 +701,9 @@
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [esfelurm/android-ransomware](https://github.com/esfelurm/android-ransomware)
   > A ransomware for Android!  
 
+### [wizardforcel](https://github.com/wizardforcel)
+- 🌟 👤 [wizardforcel](https://github.com/wizardforcel) Starred [OpenDocCN/freelearn-mobi-zh](https://github.com/OpenDocCN/freelearn-mobi-zh)
+
 ### [wonderkun](https://github.com/wonderkun)
 - 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
   > ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video genera...
@@ -728,5 +778,5 @@
 
 
 ---
-*最后更新于 2025-09-26 19:38:55 UTC*
+*最后更新于 2025-09-26 20:23:54 UTC*
 *历史记录保存在 `archive` 目录中。*
