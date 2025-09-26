@@ -22,6 +22,10 @@
 - 🌟 👤 [AlphabugX](https://github.com/AlphabugX) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
+### [Asabeneh](https://github.com/Asabeneh)
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [devopshq/artifactory](https://github.com/devopshq/artifactory)
+  > dohq-artifactory: a Python client for Artifactory
+
 ### [CC11001100](https://github.com/CC11001100)
 - 🌟 👤 [CC11001100](https://github.com/CC11001100) Starred [scagogogo/cwe](https://github.com/scagogogo/cwe)
 
@@ -64,6 +68,11 @@
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
   > The open-source CapCut alternative
 
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [FerryAr/lhroot-repo](https://github.com/FerryAr/lhroot-repo)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [FerryAr/lhroot](https://github.com/FerryAr/lhroot)
+  > Linux Chroot Installer & Bootscript Magisk Module.
+
 ### [NeoMaster831](https://github.com/NeoMaster831)
 - 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [mandiant/xrefer](https://github.com/mandiant/xrefer)
   > FLARE Team's Binary Navigator
@@ -105,6 +114,8 @@
 ### [THISISAGOODNAME](https://github.com/THISISAGOODNAME)
 - ✨ 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Created new repo [CU-Production/test_tinycc](https://github.com/CU-Production/test_tinycc)
   > a libtcc demo
+- ✨ 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Created new repo [CU-Production/Mini-C-IDE](https://github.com/CU-Production/Mini-C-IDE)
+  > a single exe c ide with libtcc & imgui
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [HexRaysSA/goomba](https://github.com/HexRaysSA/goomba)
@@ -172,6 +183,10 @@
   > Private, fast, and honest web browser
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt)
   > Disk encryption with strong security based on TrueCrypt
+
+### [iamr0s](https://github.com/iamr0s)
+- 🍴 👤 [iamr0s](https://github.com/iamr0s) Forked [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) to [iamr0s/EasyTier](https://github.com/iamr0s/EasyTier)
+  > A simple, decentralized mesh VPN with WireGuard support.
 
 ### [jayli](https://github.com/jayli)
 - 🌟 👤 [jayli](https://github.com/jayli) Starred [jayli/copilot.nvim](https://github.com/jayli/copilot.nvim)
@@ -251,9 +266,17 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [reqable/tun2proxy-android](https://github.com/reqable/tun2proxy-android)
   > Tunnel (TUN) interface for SOCKS and HTTP proxies
 
+### [oureveryday](https://github.com/oureveryday)
+- 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [chausner/vcxproj2cmake](https://github.com/chausner/vcxproj2cmake)
+  > Tool to convert Microsoft Visual C++ projects and solutions to CMake
+
 ### [overfl0](https://github.com/overfl0)
 - 🍴 👤 [overfl0](https://github.com/overfl0) Forked [kweatherman/IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn) to [overfl0/IDA_ClassInformer_PlugIn](https://github.com/overfl0/IDA_ClassInformer_PlugIn)
   > IDA ClassInformer PlugIn
+
+### [plusls](https://github.com/plusls)
+- 🌟 👤 [plusls](https://github.com/plusls) Starred [joerick/pyinstrument](https://github.com/joerick/pyinstrument)
+  > 🚴 Call stack profiler for Python. Shows you why your code is slow!
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Shreyas-Penkar/CVE-2024-38399](https://github.com/Shreyas-Penkar/CVE-2024-38399)
@@ -273,6 +296,14 @@
   > Android Security Suite for in-depth reconnaissance and static bytecode analysis based on Ghera bench...
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [bollwarm/SecToolSet](https://github.com/bollwarm/SecToolSet)
   > The security tool(project) Set from github。github安全项目工具集合 
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [TechnoIndian/ApkPatcher](https://github.com/TechnoIndian/ApkPatcher) to [rankalpha/ApkPatcher](https://github.com/rankalpha/ApkPatcher)
+  > Smali Patcher ( Bypass 𒁍 SSL & Flutter SSL, VPN, USB Debugging, Screen Restrict, One Device Login, S...
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [gast04/JDB-plus-plus](https://github.com/gast04/JDB-plus-plus) to [rankalpha/JDB-plus-plus](https://github.com/rankalpha/JDB-plus-plus)
+  > JDB++ an jdb extension for easily debugging through smali code
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [JesusFreke/smalidea](https://github.com/JesusFreke/smalidea) to [rankalpha/smalidea](https://github.com/rankalpha/smalidea)
+  > smalidea is a smali language plugin for IntelliJ IDEA
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [hi-dhl/DebugApkSmali](https://github.com/hi-dhl/DebugApkSmali) to [rankalpha/DebugApkSmali](https://github.com/rankalpha/DebugApkSmali)
+  > 基于Smali文件 Android Studio 动态调试 APP
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🍴 👤 [ravindu644](https://github.com/ravindu644) Forked [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) to [ravindu644/bootloader-unlock-wall-of-shame](https://github.com/ravindu644/bootloader-unlock-wall-of-shame)
@@ -303,6 +334,10 @@
 - 🍴 👤 [twogoat](https://github.com/twogoat) Forked [lzz0403/A1CTF](https://github.com/lzz0403/A1CTF) to [twogoat/A1CTF](https://github.com/twogoat/A1CTF)
   > A CTF platform designed for A1natas.
 
+### [uknowsec](https://github.com/uknowsec)
+- 🌟 👤 [uknowsec](https://github.com/uknowsec) Starred [0xfnzero/parser-proxy-ws](https://github.com/0xfnzero/parser-proxy-ws)
+  > A WebSocket proxy server for Solana DEX events based on sol-parser-sdk. Real-time monitoring of DEX ...
+
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload)
   > 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
@@ -324,6 +359,17 @@
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [mascanho/RustySEO](https://github.com/mascanho/RustySEO)
   > An SEO/GEO toolkit to analyse, crawl, parse and optimise websites & logs (Nginx & Apache)
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [houhongxu/zeropress](https://github.com/houhongxu/zeropress)
+  > 0 配置的 ssg 框架
+
+### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
+- ✨ 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Created new repo [yizhiyonggangdexiaojia/lspsoed_skip](https://github.com/yizhiyonggangdexiaojia/lspsoed_skip)
+- ✨ 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Created new repo [yizhiyonggangdexiaojia/lsplant_skip](https://github.com/yizhiyonggangdexiaojia/lsplant_skip)
+  > Skip relevant detection logic when executing application-level apps
+
+### [zhanghecn](https://github.com/zhanghecn)
+- 🍴 👤 [zhanghecn](https://github.com/zhanghecn) Forked [Laffinty/wbazi.js](https://github.com/Laffinty/wbazi.js) to [zhanghecn/wbazi.js](https://github.com/zhanghecn/wbazi.js)
+  > 八字命理工具集
 
 ### [zhangkanqi](https://github.com/zhangkanqi)
 - 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [facebookresearch/cwm](https://github.com/facebookresearch/cwm)
@@ -343,5 +389,5 @@
 
 
 ---
-*最后更新于 2025-09-26 06:33:42 UTC*
+*最后更新于 2025-09-26 07:22:06 UTC*
 *历史记录保存在 `archive` 目录中。*
