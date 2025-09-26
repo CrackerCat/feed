@@ -95,13 +95,15 @@
 - 🌟 👤 [LaPhilosophie](https://github.com/LaPhilosophie) Starred [roadwy/cve-search_mcp](https://github.com/roadwy/cve-search_mcp)
   > A Model Context Protocol (MCP) server for querying the CVE-Search API
 
+### [Lakr233](https://github.com/Lakr233)
+- 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [martinhoeller/NSWindowPlayground](https://github.com/martinhoeller/NSWindowPlayground)
+  > A small utility app to test out various NSWindow style settings.
+- 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [NyanSatan/polinaserial](https://github.com/NyanSatan/polinaserial)
+  > Serial port monitor program for Mac OS X with lolcat, iBoot logs deobfuscation & much more
+
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect)
   > Catch unnecessary React useEffect hooks to make your code simpler, faster, and safer.
-
-### [MartinKayJr](https://github.com/MartinKayJr)
-- 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-  > The open-source CapCut alternative
 
 ### [MegatronKing](https://github.com/MegatronKing)
 - 🌟 👤 [MegatronKing](https://github.com/MegatronKing) Starred [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg)
@@ -189,15 +191,6 @@
 ### [Y4er](https://github.com/Y4er)
 - 🌟 👤 [Y4er](https://github.com/Y4er) Starred [imzyb/MiSub](https://github.com/imzyb/MiSub)
   > 测试站，密码admin
-
-### [Ylarod](https://github.com/Ylarod)
-- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [HexRaysSA/goomba](https://github.com/HexRaysSA/goomba)
-  > gooMBA is a Hex-Rays Decompiler plugin to simplify Mixed Boolean-Arithmetic (MBA) expressions
-- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [joydo/d810](https://github.com/joydo/d810)
-
-### [YuKongA](https://github.com/YuKongA)
-- 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [hegaojian/JetpackMvvm](https://github.com/hegaojian/JetpackMvvm)
-  > :chicken::basketball:一个Jetpack结合MVVM的快速开发框架，基于MVVM模式集成谷歌官方推荐的JetPack组件库：LiveData、ViewModel、Lifecycle...
 
 ### [ZiJianTao](https://github.com/ZiJianTao)
 - 🌟 👤 [ZiJianTao](https://github.com/ZiJianTao) Starred [CrackerCat/AndroidKillerx](https://github.com/CrackerCat/AndroidKillerx)
@@ -296,6 +289,10 @@
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp)
   > 文颜 MCP Server 可以让 AI 自动将 Markdown 文章排版后发布至微信公众号。
 
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [modelscope/FunASR](https://github.com/modelscope/FunASR)
+  > A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporti...
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [coinbase/x402](https://github.com/coinbase/x402)
   > A payments protocol for the internet. Built on HTTP.
@@ -311,10 +308,7 @@
   > SetupHijack is a security research tool that exploits race conditions and insecure file handling in ...
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [EinTim23/hiddriver360](https://github.com/EinTim23/hiddriver360) to [fengjixuchui/hiddriver360](https://github.com/fengjixuchui/hiddriver360)
   > Xbox 360 HID controller driver
-
-### [fgenesis](https://github.com/fgenesis)
-- 🌟 👤 [fgenesis](https://github.com/fgenesis) Starred [frank2/packer-tutorial](https://github.com/frank2/packer-tutorial)
-  > A tutorial on how to write a packer for Windows!
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [EinTim23/hyperfent](https://github.com/EinTim23/hyperfent) to [fengjixuchui/hyperfent](https://github.com/fengjixuchui/hyperfent)
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [doronz88/DeveloperDiskImage](https://github.com/doronz88/DeveloperDiskImage)
@@ -396,6 +390,10 @@
   > 基于实战沉淀下的各种弱口令字典
 - 🍴 👤 [jk8881mz33](https://github.com/jk8881mz33) Forked [CrackerCat/SuperWordlist](https://github.com/CrackerCat/SuperWordlist) to [jk8881mz33/SuperWordlist](https://github.com/jk8881mz33/SuperWordlist)
   > 基于实战沉淀下的各种弱口令字典
+
+### [joyafa](https://github.com/joyafa)
+- 🍴 👤 [joyafa](https://github.com/joyafa) Forked [microsoft/markitdown](https://github.com/microsoft/markitdown) to [joyafa/markitdown](https://github.com/joyafa/markitdown)
+  > Python tool for converting files and office documents to Markdown.
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [whillhill/mcpstore](https://github.com/whillhill/mcpstore)
@@ -499,10 +497,6 @@
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [goudvuur/sonshell](https://github.com/goudvuur/sonshell)
   > An effort to "ssh into my Sony camera"
 
-### [neil-wu](https://github.com/neil-wu)
-- 🌟 👤 [neil-wu](https://github.com/neil-wu) Starred [DargonLee/LookinRootless](https://github.com/DargonLee/LookinRootless)
-  > 基于 Dopamine 无根越狱实现的插件，该插件可以调试 iOS 的 UI 界面
-
 ### [netxfly](https://github.com/netxfly)
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [crocofied/PortNote](https://github.com/crocofied/PortNote)
   > Keep track of used ports
@@ -542,13 +536,13 @@
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [joerick/pyinstrument](https://github.com/joerick/pyinstrument)
   > 🚴 Call stack profiler for Python. Shows you why your code is slow!
 
+### [psifertex](https://github.com/psifertex)
+- ✨ 👤 [psifertex](https://github.com/psifertex) Created new repo [psifertex/translation-plugin](https://github.com/psifertex/translation-plugin)
+  > Binary Ninja Plugin for translating strings and symbols in binaries
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Shreyas-Penkar/CVE-2024-38399](https://github.com/Shreyas-Penkar/CVE-2024-38399)
   > PoC for CVE-2024-38399
-
-### [qi4L](https://github.com/qi4L)
-- 🌟 👤 [qi4L](https://github.com/qi4L) Starred [vulhub/java-chains](https://github.com/vulhub/java-chains)
-  > Vulhub Vulnerability Reproduction Designated Platform
 
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su)
@@ -768,5 +762,5 @@
 
 
 ---
-*最后更新于 2025-09-26 21:38:30 UTC*
+*最后更新于 2025-09-26 22:19:36 UTC*
 *历史记录保存在 `archive` 目录中。*
