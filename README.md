@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [0x3f97](https://github.com/0x3f97)
+- 🌟 👤 [0x3f97](https://github.com/0x3f97) Starred [Zellic/EVM-trackooor](https://github.com/Zellic/EVM-trackooor)
+  > A modular tool to track anything on the EVM chain, including real-time tracking and alerts.
+
 ### [1c7](https://github.com/1c7)
 - 🌟 👤 [1c7](https://github.com/1c7) Starred [mokeyish/obsidian-enhancing-export](https://github.com/mokeyish/obsidian-enhancing-export)
   > This is an enhancing export plugin base on Pandoc for Obsidian (https://obsidian.md/ ). It's allow y...
+
+### [AabyssZG](https://github.com/AabyssZG)
+- 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+  > A collection of awesome readme templates to display on your profile
 
 ### [Aira-Sakuranomiya](https://github.com/Aira-Sakuranomiya)
 - 🌟 👤 [Aira-Sakuranomiya](https://github.com/Aira-Sakuranomiya) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
@@ -27,6 +35,10 @@
   > dohq-artifactory: a Python client for Artifactory
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [webscopeio/license.sh](https://github.com/webscopeio/license.sh)
   > License checker tool - We're in a beta phase, any help is appreciated, especially reporting issues
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [line/line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)
+  > LINE Messaging API SDK for Python
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
+  > The best way to get AI to solve hard problems in complex codebases.
 
 ### [CC11001100](https://github.com/CC11001100)
 - 🌟 👤 [CC11001100](https://github.com/CC11001100) Starred [scagogogo/cwe](https://github.com/scagogogo/cwe)
@@ -139,6 +151,10 @@
 ### [android1337](https://github.com/android1337)
 - 🚀 👤 [android1337](https://github.com/android1337) Made [android1337/rickyservices-crack](https://github.com/android1337/rickyservices-crack) public
 
+### [cozis](https://github.com/cozis)
+- 🌟 👤 [cozis](https://github.com/cozis) Starred [degradka/mc-preclassic-c](https://github.com/degradka/mc-preclassic-c)
+  > RubyDung (aka MC Preclassic) rewritten as God intended
+
 ### [cwuom](https://github.com/cwuom)
 - 🌟 👤 [cwuom](https://github.com/cwuom) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
   > The open-source CapCut alternative
@@ -187,6 +203,11 @@
   > Unified emacs interface for Claude Code, Gemini CLI, and OpenAI Codex
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Shreyas-Penkar/CVE-2024-38399](https://github.com/Shreyas-Penkar/CVE-2024-38399) to [gmh5225/CVE-2024-38399](https://github.com/gmh5225/CVE-2024-38399)
   > PoC for CVE-2024-38399
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [KalyanKS-NLP/LLM-Survey-Papers-Collection](https://github.com/KalyanKS-NLP/LLM-Survey-Papers-Collection) to [gmh5225/LLM-Survey-Papers-Collection](https://github.com/gmh5225/LLM-Survey-Papers-Collection)
+  > A category wise collection of 200+ LLM survey papers.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [inclusionAI/Ring-V2](https://github.com/inclusionAI/Ring-V2) to [gmh5225/Ring-V2](https://github.com/gmh5225/Ring-V2)
+  > Ring-V2 is a reasoning MoE LLM provided and open-sourced by InclusionAI.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [arieldk1212/agenty-cpp](https://github.com/arieldk1212/agenty-cpp) to [gmh5225/agenty-cpp](https://github.com/gmh5225/agenty-cpp)
 
 ### [hackerhouse-opensource](https://github.com/hackerhouse-opensource)
 - 🌟 👤 [hackerhouse-opensource](https://github.com/hackerhouse-opensource) Starred [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack)
@@ -220,6 +241,10 @@
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
   > A cross-platform network monitoring terminal UI tool built with Rust.
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [syswonder/hvisor](https://github.com/syswonder/hvisor)
+  > minimal type-1 Rust Hypervisor for edge devices
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [rcore-os/RVM1.5](https://github.com/rcore-os/RVM1.5)
+  > A Type-1.5 hypervisor written in Rust.
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [aigem/comfyui_gemini_nano_banana](https://github.com/aigem/comfyui_gemini_nano_banana)
@@ -234,6 +259,16 @@
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [Tencent/tdesign](https://github.com/Tencent/tdesign)
   > Enterprise Design System
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [GNOME/gimp](https://github.com/GNOME/gimp)
+  > Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
+  > Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [penpot/penpot](https://github.com/penpot/penpot)
+  > Penpot: The open-source design tool for design and code collaboration
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [polotno-project/polotno-studio](https://github.com/polotno-project/polotno-studio)
+  > Free online Design Editor.
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [cfour-hi/sky](https://github.com/cfour-hi/sky)
+  > 图片编辑器，PSD 解析、还原、图层交互。@稿定设计
 
 ### [lmhMike](https://github.com/lmhMike)
 - 🌟 👤 [lmhMike](https://github.com/lmhMike) Starred [feicong/android-rom-book](https://github.com/feicong/android-rom-book)
@@ -266,6 +301,10 @@
 ### [mos9527](https://github.com/mos9527)
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [jkuhlmann/cgltf](https://github.com/jkuhlmann/cgltf)
   > :diamond_shape_with_a_dot_inside: Single-file glTF 2.0 loader and writer written in C99
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mahmoudimus/ida-sigmaker](https://github.com/mahmoudimus/ida-sigmaker)
+  > sigmaker is a zero-dependency IDA Pro 9.0+ cross-platform signature maker plugin with optional SIMD ...
 
 ### [mstfknn](https://github.com/mstfknn)
 - 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
@@ -351,6 +390,10 @@
   > 让 LSPosed 失效并恢复所有被 LSPlant hook 的方法
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)
   > 基于eBPF的堆栈追踪工具
+
+### [safe6Sec](https://github.com/safe6Sec)
+- 🌟 👤 [safe6Sec](https://github.com/safe6Sec) Starred [0x727/ChkApi_0x727](https://github.com/0x727/ChkApi_0x727)
+  > 辅助甲方安全人员巡检网站资产，发现并分析API安全问题
 
 ### [samwafgo](https://github.com/samwafgo)
 - ✨ 👤 [samwafgo](https://github.com/samwafgo) Created new repo [samwafgo/proxy_protocol_tester](https://github.com/samwafgo/proxy_protocol_tester)
@@ -448,5 +491,5 @@
 
 
 ---
-*最后更新于 2025-09-26 08:30:59 UTC*
+*最后更新于 2025-09-26 09:24:51 UTC*
 *历史记录保存在 `archive` 目录中。*
