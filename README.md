@@ -39,6 +39,8 @@
   > LINE Messaging API SDK for Python
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
   > The best way to get AI to solve hard problems in complex codebases.
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [MaineKuehn/usim](https://github.com/MaineKuehn/usim)
+  > Lightweight Python Simulation Framework
 
 ### [CC11001100](https://github.com/CC11001100)
 - 🌟 👤 [CC11001100](https://github.com/CC11001100) Starred [scagogogo/cwe](https://github.com/scagogogo/cwe)
@@ -203,6 +205,10 @@
 ### [foxmaid](https://github.com/foxmaid)
 - 🌟 👤 [foxmaid](https://github.com/foxmaid) Starred [CrackerCat/Portal](https://github.com/CrackerCat/Portal)
   > Android Lab Fake Location Service
+
+### [fr0zenrain](https://github.com/fr0zenrain)
+- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor)
+  > PyInstaller Extractor
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) to [gmh5225/nexa-sdk](https://github.com/gmh5225/nexa-sdk)
@@ -422,6 +428,10 @@
 ### [samwafgo](https://github.com/samwafgo)
 - ✨ 👤 [samwafgo](https://github.com/samwafgo) Created new repo [samwafgo/proxy_protocol_tester](https://github.com/samwafgo/proxy_protocol_tester)
 
+### [std-microblock](https://github.com/std-microblock)
+- 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [86maid/ddddocr](https://github.com/86maid/ddddocr)
+  > ddddocr rust 版本，ocr_api_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，AI MCP 支持，a simple OCR API ser...
+
 ### [su-vikas](https://github.com/su-vikas)
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
   > Multi-architecture emulation for the modern era.
@@ -525,5 +535,5 @@
 
 
 ---
-*最后更新于 2025-09-26 10:24:10 UTC*
+*最后更新于 2025-09-26 10:43:15 UTC*
 *历史记录保存在 `archive` 目录中。*
