@@ -20,6 +20,10 @@
 - 🌟 👤 [Aira-Sakuranomiya](https://github.com/Aira-Sakuranomiya) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
   > The open-source CapCut alternative
 
+### [AlexAltea](https://github.com/AlexAltea)
+- 🌟 👤 [AlexAltea](https://github.com/AlexAltea) Starred [blacktop/ipsw](https://github.com/blacktop/ipsw)
+  > iOS/macOS Research Swiss Army Knife
+
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [finanalyzer/openbb_tushare](https://github.com/finanalyzer/openbb_tushare)
   > OpenBB extension for Tushare
@@ -71,10 +75,6 @@
 - 🌟 👤 [EkiXu](https://github.com/EkiXu) Starred [Team-Atlanta/aixcc-afc-atlantis](https://github.com/Team-Atlanta/aixcc-afc-atlantis)
 - 🌟 👤 [EkiXu](https://github.com/EkiXu) Starred [secure-foundations/vest](https://github.com/secure-foundations/vest)
   > High-assurance and performant Rust-based parsing and serialization of binary data formats verified i...
-
-### [H3rmesk1t](https://github.com/H3rmesk1t)
-- 🌟 👤 [H3rmesk1t](https://github.com/H3rmesk1t) Starred [jd-opensource/JoySafety](https://github.com/jd-opensource/JoySafety)
-  > JoySafety
 
 ### [HanSolo](https://github.com/HanSolo)
 - 🌟 👤 [HanSolo](https://github.com/HanSolo) Starred [hcoles/voices](https://github.com/hcoles/voices)
@@ -262,8 +262,6 @@
   > A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered s...
 
 ### [dstmath](https://github.com/dstmath)
-- 🌟 👤 [dstmath](https://github.com/dstmath) Starred [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su)
-  > A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched mod...
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [Guardsquare/proguard](https://github.com/Guardsquare/proguard)
   > ProGuard, Java optimizer and obfuscator
 
@@ -303,8 +301,6 @@
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [EinTim23/hyperfent](https://github.com/EinTim23/hyperfent) to [fengjixuchui/hyperfent](https://github.com/fengjixuchui/hyperfent)
 
 ### [fjh658](https://github.com/fjh658)
-- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [doronz88/DeveloperDiskImage](https://github.com/doronz88/DeveloperDiskImage)
-  > Home for both DeveloperDiskImage files (iOS < 17.0) and Personalized files (iOS >= 17.0)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [doronz88/ida-scripts](https://github.com/doronz88/ida-scripts)
 
 ### [foxmaid](https://github.com/foxmaid)
@@ -463,8 +459,6 @@
   > egui library for displaying control flow graphs using petgraph.
 
 ### [miunasu](https://github.com/miunasu)
-- 🌟 👤 [miunasu](https://github.com/miunasu) Starred [joxeankoret/diaphora](https://github.com/joxeankoret/diaphora)
-  > Diaphora, the most advanced Free and Open Source program diffing tool.
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [jesparza/peepdf](https://github.com/jesparza/peepdf)
   > Powerful Python tool to analyze PDF documents
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [digitalsleuth/peepdf-3](https://github.com/digitalsleuth/peepdf-3)
@@ -575,8 +569,6 @@
   > Keeping track of companies that "care about your data 🥺"
 
 ### [re-zero001](https://github.com/re-zero001)
-- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [eirv/DisableLSPosed](https://github.com/eirv/DisableLSPosed)
-  > 让 LSPosed 失效并恢复所有被 LSPlant hook 的方法
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)
   > 基于eBPF的堆栈追踪工具
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [KyuubiRan/EzXHelper](https://github.com/KyuubiRan/EzXHelper)
@@ -606,6 +598,10 @@
 - 🌟 👤 [sidex15](https://github.com/sidex15) Starred [ALTaleX531/OpenGlass](https://github.com/ALTaleX531/OpenGlass)
   > Aero Glass For Windows 10+
 
+### [skylot](https://github.com/skylot)
+- 🌟 👤 [skylot](https://github.com/skylot) Starred [jygzyc/jiap](https://github.com/jygzyc/jiap)
+  > JIAP - Java Intelligence Analysis Platform
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [tomrus88/OpenLumina](https://github.com/tomrus88/OpenLumina)
   > IDA plugin that allows connecting to third party Lumina servers
@@ -623,6 +619,8 @@
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router)
   > A simple NAT Router for the ESP32
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [jonask1337/esp-idf-nat-example](https://github.com/jonask1337/esp-idf-nat-example)
+  > ESP-IDF example project with NAT setup.
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [roboflow/supervision](https://github.com/roboflow/supervision)
@@ -664,6 +662,8 @@
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [asagi4/comfyui-prompt-control](https://github.com/asagi4/comfyui-prompt-control)
   > ComfyUI nodes for prompt editing and LoRA control
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [Phhofm/models](https://github.com/Phhofm/models)
+  > All my self trained & released AI upscaling models. After gathering and applying over 600 different ...
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [roboflow/supervision](https://github.com/roboflow/supervision)
@@ -758,5 +758,5 @@
 
 
 ---
-*最后更新于 2025-09-26 22:40:15 UTC*
+*最后更新于 2025-09-26 23:19:25 UTC*
 *历史记录保存在 `archive` 目录中。*
