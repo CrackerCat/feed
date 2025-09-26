@@ -67,6 +67,9 @@
 - 🌟 👤 [EgeBalci](https://github.com/EgeBalci) Starred [zrax/pycdc](https://github.com/zrax/pycdc)
   > C++ python bytecode disassembler and decompiler
 
+### [EkiXu](https://github.com/EkiXu)
+- 🌟 👤 [EkiXu](https://github.com/EkiXu) Starred [Team-Atlanta/aixcc-afc-atlantis](https://github.com/Team-Atlanta/aixcc-afc-atlantis)
+
 ### [H3rmesk1t](https://github.com/H3rmesk1t)
 - 🌟 👤 [H3rmesk1t](https://github.com/H3rmesk1t) Starred [jd-opensource/JoySafety](https://github.com/jd-opensource/JoySafety)
   > JoySafety
@@ -111,6 +114,10 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [86maid/ddddocr](https://github.com/86maid/ddddocr)
   > ddddocr rust 版本，ocr_api_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，AI MCP 支持，a simple OCR API ser...
 
+### [NS-Sp4ce](https://github.com/NS-Sp4ce)
+- 🌟 👤 [NS-Sp4ce](https://github.com/NS-Sp4ce) Starred [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+  > 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker)
   > Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automa...
@@ -136,6 +143,10 @@
 ### [RicardoJiang](https://github.com/RicardoJiang)
 - 🌟 👤 [RicardoJiang](https://github.com/RicardoJiang) Starred [crowforkotlin/mordecaix](https://github.com/crowforkotlin/mordecaix)
   > 🐦‍⬛ mordecaix is compose multiplatform application
+
+### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [horizon3ai/CVE-2023-27532](https://github.com/horizon3ai/CVE-2023-27532)
+  > POC for Veeam Backup and Replication CVE-2023-27532
 
 ### [SakuraKoi](https://github.com/SakuraKoi)
 - 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [haraldk/TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys)
@@ -209,6 +220,12 @@
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [github/awesome-copilot](https://github.com/github/awesome-copilot)
   > Community-contributed instructions, prompts, and configurations to help you make the most of GitHub ...
 
+### [eastmountyxz](https://github.com/eastmountyxz)
+- 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI)
+  > A powerful tool for automated LLM fuzzing. It is designed to help developers and security researcher...
+- 🍴 👤 [eastmountyxz](https://github.com/eastmountyxz) Forked [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) to [eastmountyxz/FuzzyAI](https://github.com/eastmountyxz/FuzzyAI)
+  > A powerful tool for automated LLM fuzzing. It is designed to help developers and security researcher...
+
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp)
   > 文颜 MCP Server 可以让 AI 自动将 Markdown 文章排版后发布至微信公众号。
@@ -249,6 +266,10 @@
 ### [geekonion](https://github.com/geekonion)
 - 🌟 👤 [geekonion](https://github.com/geekonion) Starred [doronz88/ida-scripts](https://github.com/doronz88/ida-scripts)
 - 🍴 👤 [geekonion](https://github.com/geekonion) Forked [doronz88/ida-scripts](https://github.com/doronz88/ida-scripts) to [geekonion/ida-scripts](https://github.com/geekonion/ida-scripts)
+
+### [gh0stkey](https://github.com/gh0stkey)
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
+  > A cross-platform network monitoring terminal UI tool built with Rust.
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) to [gmh5225/nexa-sdk](https://github.com/gmh5225/nexa-sdk)
@@ -309,6 +330,16 @@
   > 基于实战沉淀下的各种弱口令字典
 - 🍴 👤 [jk8881mz33](https://github.com/jk8881mz33) Forked [CrackerCat/SuperWordlist](https://github.com/CrackerCat/SuperWordlist) to [jk8881mz33/SuperWordlist](https://github.com/jk8881mz33/SuperWordlist)
   > 基于实战沉淀下的各种弱口令字典
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [whillhill/mcpstore](https://github.com/whillhill/mcpstore)
+  > 开盒即用的优雅管理mcp服务 | 结合Agent框架 | 作者听劝 | 已发布pypi | Vue页面demo 
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [x007xyz/flycut-caption](https://github.com/x007xyz/flycut-caption)
+  > A complete video subtitle editing React component with AI-powered speech recognition and visual edit...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd)
+  > x-cmd: Bootstrap 1000+ command line tools in seconds.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [iKeepLearn/db-back-tool](https://github.com/iKeepLearn/db-back-tool)
+  > postgresql、mysql数据库备份并上传到腾讯云或者阿里云或兼容S3协议的其他云存储，同时可列出、删除云上存储的备份文件。
 
 ### [konieshadow](https://github.com/konieshadow)
 - 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [UfoMiao/zcf](https://github.com/UfoMiao/zcf)
@@ -482,6 +513,10 @@
   > A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered s...
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [rortega/insmali](https://github.com/rortega/insmali) to [rankalpha/insmali](https://github.com/rankalpha/insmali)
   > Tool used to inject existing SMALI code used for profiling and debugging 
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [mitmproxy/android-unpinner](https://github.com/mitmproxy/android-unpinner) to [rankalpha/android-unpinner](https://github.com/rankalpha/android-unpinner)
+  > Remove Certificate Pinning from APKs
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware) to [rankalpha/VMAware](https://github.com/rankalpha/VMAware)
+  > Advanced VM detection library and tool
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🍴 👤 [ravindu644](https://github.com/ravindu644) Forked [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) to [ravindu644/bootloader-unlock-wall-of-shame](https://github.com/ravindu644/bootloader-unlock-wall-of-shame)
@@ -567,6 +602,10 @@
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [asagi4/comfyui-prompt-control](https://github.com/asagi4/comfyui-prompt-control)
   > ComfyUI nodes for prompt editing and LoRA control
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [roboflow/supervision](https://github.com/roboflow/supervision)
+  > We write your reusable computer vision tools. 💜
+
 ### [wingring](https://github.com/wingring)
 - 🌟 👤 [wingring](https://github.com/wingring) Starred [CrackerCat/Sec-Interview](https://github.com/CrackerCat/Sec-Interview)
   > 全网首发！！！上万道网安面试题总结（涵盖护网、渗透、红队、逆向、密码、二进制、区块链、AI、云）
@@ -639,5 +678,5 @@
 
 
 ---
-*最后更新于 2025-09-26 15:40:53 UTC*
+*最后更新于 2025-09-26 16:28:32 UTC*
 *历史记录保存在 `archive` 目录中。*
