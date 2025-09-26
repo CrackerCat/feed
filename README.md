@@ -132,10 +132,6 @@
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker)
   > Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automa...
 
-### [NeoMaster831](https://github.com/NeoMaster831)
-- 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [mandiant/xrefer](https://github.com/mandiant/xrefer)
-  > FLARE Team's Binary Navigator
-
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [gocolly/colly](https://github.com/gocolly/colly)
   > Elegant Scraper and Crawler Framework for Golang
@@ -267,6 +263,8 @@
 ### [cozis](https://github.com/cozis)
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [degradka/mc-preclassic-c](https://github.com/degradka/mc-preclassic-c)
   > RubyDung (aka MC Preclassic) rewritten as God intended
+- 🌟 👤 [cozis](https://github.com/cozis) Starred [vkuznecovas/mouthful](https://github.com/vkuznecovas/mouthful)
+  > Mouthful is a self-hosted alternative to Disqus
 
 ### [cwuom](https://github.com/cwuom)
 - 🌟 👤 [cwuom](https://github.com/cwuom) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
@@ -357,6 +355,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [inclusionAI/Ring-V2](https://github.com/inclusionAI/Ring-V2) to [gmh5225/Ring-V2](https://github.com/gmh5225/Ring-V2)
   > Ring-V2 is a reasoning MoE LLM provided and open-sourced by InclusionAI.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [arieldk1212/agenty-cpp](https://github.com/arieldk1212/agenty-cpp) to [gmh5225/agenty-cpp](https://github.com/gmh5225/agenty-cpp)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [snowsnowsnows/iemu](https://github.com/snowsnowsnows/iemu) to [gmh5225/iemu](https://github.com/gmh5225/iemu)
+  > icicle-emu based emulator plugin for Binary Ninja.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [DarknessFX/RaylibUE](https://github.com/DarknessFX/RaylibUE) to [gmh5225/RaylibUE](https://github.com/gmh5225/RaylibUE)
+  > Bridge Raylib's easy-to-use drawing API with Unreal Engine's intuitive Blueprint nodes.
 
 ### [hackerhouse-opensource](https://github.com/hackerhouse-opensource)
 - 🌟 👤 [hackerhouse-opensource](https://github.com/hackerhouse-opensource) Starred [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack)
@@ -497,10 +499,6 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mahmoudimus/ida-sigmaker](https://github.com/mahmoudimus/ida-sigmaker)
   > sigmaker is a zero-dependency IDA Pro 9.0+ cross-platform signature maker plugin with optional SIMD ...
 
-### [mstfknn](https://github.com/mstfknn)
-- 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
-  > Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activ...
-
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [0vercl0k/rp](https://github.com/0vercl0k/rp)
   > rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
@@ -524,18 +522,6 @@
 ### [nothing-2333](https://github.com/nothing-2333)
 - 🌟 👤 [nothing-2333](https://github.com/nothing-2333) Starred [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)
   > :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
-
-### [nzcv](https://github.com/nzcv)
-- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [kprprivate/EAC-CR3-BYPASS](https://github.com/kprprivate/EAC-CR3-BYPASS)
-  > A simple UM + KM example of how to bypass EAC CR3 
-- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor)
-  > Powerful android apk editor - aapt/aapt2 independent
-- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Ylarod/ddk](https://github.com/Ylarod/ddk)
-  > 内核驱动开发工具包 (Kernel Driver Development Kit)
-- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [SoyBeanMilkx/DevInfoModifier](https://github.com/SoyBeanMilkx/DevInfoModifier)
-  > kernel module for modifying device information...
-- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [reqable/tun2proxy-android](https://github.com/reqable/tun2proxy-android)
-  > Tunnel (TUN) interface for SOCKS and HTTP proxies
 
 ### [oureveryday](https://github.com/oureveryday)
 - 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [chausner/vcxproj2cmake](https://github.com/chausner/vcxproj2cmake)
@@ -716,6 +702,10 @@
 - 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [cSuk1/FireWall](https://github.com/cSuk1/FireWall)
   > 基于Netfilter的包过滤状态防火墙
 
+### [wszqkzqk](https://github.com/wszqkzqk)
+- 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [canonical/dqlite](https://github.com/canonical/dqlite) to [wszqkzqk/dqlite](https://github.com/wszqkzqk/dqlite)
+  > Embeddable, replicated and fault-tolerant SQL engine.
+
 ### [y9nhjy](https://github.com/y9nhjy)
 - 🌟 👤 [y9nhjy](https://github.com/y9nhjy) Starred [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide)
   > Hiding kernel-driver for x86/x64.
@@ -784,5 +774,5 @@
 
 
 ---
-*最后更新于 2025-09-26 20:40:51 UTC*
+*最后更新于 2025-09-26 21:18:59 UTC*
 *历史记录保存在 `archive` 目录中。*
