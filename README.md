@@ -633,6 +633,10 @@
 - ✨ 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Created new repo [yizhiyonggangdexiaojia/lsplant_skip](https://github.com/yizhiyonggangdexiaojia/lsplant_skip)
   > Skip relevant detection logic when executing application-level apps
 
+### [ymdzq](https://github.com/ymdzq)
+- 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [Xposed-Modules-Repo/top.hookvip.pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro)
+  > NewHookVip
+
 ### [yulate](https://github.com/yulate)
 - 🌟 👤 [yulate](https://github.com/yulate) Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
   > Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus...
@@ -678,5 +682,5 @@
 
 
 ---
-*最后更新于 2025-09-26 16:28:32 UTC*
+*最后更新于 2025-09-26 16:47:14 UTC*
 *历史记录保存在 `archive` 目录中。*
