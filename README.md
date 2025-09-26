@@ -253,10 +253,6 @@
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [vkuznecovas/mouthful](https://github.com/vkuznecovas/mouthful)
   > Mouthful is a self-hosted alternative to Disqus
 
-### [cwuom](https://github.com/cwuom)
-- 🌟 👤 [cwuom](https://github.com/cwuom) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-  > The open-source CapCut alternative
-
 ### [dionaka](https://github.com/dionaka)
 - 🌟 👤 [dionaka](https://github.com/dionaka) Starred [CrackerCat/unidbg-fetch-qsign](https://github.com/CrackerCat/unidbg-fetch-qsign)
   > 获取QQSign通过Unidbg
@@ -284,10 +280,6 @@
   > A powerful tool for automated LLM fuzzing. It is designed to help developers and security researcher...
 - 🍴 👤 [eastmountyxz](https://github.com/eastmountyxz) Forked [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) to [eastmountyxz/FuzzyAI](https://github.com/eastmountyxz/FuzzyAI)
   > A powerful tool for automated LLM fuzzing. It is designed to help developers and security researcher...
-
-### [einverne](https://github.com/einverne)
-- 🌟 👤 [einverne](https://github.com/einverne) Starred [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp)
-  > 文颜 MCP Server 可以让 AI 自动将 Markdown 文章排版后发布至微信公众号。
 
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [modelscope/FunASR](https://github.com/modelscope/FunASR)
@@ -413,6 +405,9 @@
 - 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp)
   > A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tool...
 
+### [leanprover](https://github.com/leanprover)
+- 🚀 👤 [leanprover](https://github.com/leanprover) Made [leanprover/comparator](https://github.com/leanprover/comparator) public
+
 ### [lemuellew](https://github.com/lemuellew)
 - 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [antgroup/YASA-Engine](https://github.com/antgroup/YASA-Engine)
   >  YASA is an open-source static program analysis project. Its core innovation lies in a unified inter...
@@ -444,10 +439,6 @@
   > 图片编辑器，PSD 解析、还原、图层交互。@稿定设计
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
   > Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, ...
-
-### [lmhMike](https://github.com/lmhMike)
-- 🌟 👤 [lmhMike](https://github.com/lmhMike) Starred [feicong/android-rom-book](https://github.com/feicong/android-rom-book)
-  > 安卓系统定制：从入门到实践 开源图书🔥
 
 ### [longf2011](https://github.com/longf2011)
 - 🌟 👤 [longf2011](https://github.com/longf2011) Starred [oakboat/HyperCE](https://github.com/oakboat/HyperCE)
@@ -629,6 +620,10 @@
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
   > Multi-architecture emulation for the modern era.
 
+### [suifei](https://github.com/suifei)
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router)
+  > A simple NAT Router for the ESP32
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [roboflow/supervision](https://github.com/roboflow/supervision)
   > We write your reusable computer vision tools. 💜
@@ -649,6 +644,9 @@
 - 🍴 👤 [twogoat](https://github.com/twogoat) Forked [lzz0403/A1CTF](https://github.com/lzz0403/A1CTF) to [twogoat/A1CTF](https://github.com/twogoat/A1CTF)
   > A CTF platform designed for A1natas.
 
+### [tyron12233](https://github.com/tyron12233)
+- ✨ 👤 [tyron12233](https://github.com/tyron12233) Created new repo [tyron12233/midterms-aswang-hunter](https://github.com/tyron12233/midterms-aswang-hunter)
+
 ### [uknowsec](https://github.com/uknowsec)
 - 🌟 👤 [uknowsec](https://github.com/uknowsec) Starred [0xfnzero/parser-proxy-ws](https://github.com/0xfnzero/parser-proxy-ws)
   > A WebSocket proxy server for Solana DEX events based on sol-parser-sdk. Real-time monitoring of DEX ...
@@ -662,10 +660,6 @@
   > PoC for CVE-2024-38399
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su)
   > A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched mod...
-
-### [vipstone](https://github.com/vipstone)
-- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload)
-  > 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [asagi4/comfyui-prompt-control](https://github.com/asagi4/comfyui-prompt-control)
@@ -755,6 +749,8 @@
   > Cheatsheet for the commands learned in Attack and Defense Active Directory Lab
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [Aefyr/SAI](https://github.com/Aefyr/SAI)
   > Android split APKs installer
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [jcldf/ultimate-hardware-hacking-gear-guide-](https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-)
+  > Unlock Exclusive Insights! 🚀📖 Download My FREE E-Zine Now ➡️  Over 170 Pages of Essential Content! E...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [HelixDB/helix-db](https://github.com/HelixDB/helix-db)
@@ -762,5 +758,5 @@
 
 
 ---
-*最后更新于 2025-09-26 22:19:36 UTC*
+*最后更新于 2025-09-26 22:40:15 UTC*
 *历史记录保存在 `archive` 目录中。*
