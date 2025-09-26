@@ -33,6 +33,10 @@
 - 🌟 👤 [H3rmesk1t](https://github.com/H3rmesk1t) Starred [jd-opensource/JoySafety](https://github.com/jd-opensource/JoySafety)
   > JoySafety
 
+### [HanSolo](https://github.com/HanSolo)
+- 🌟 👤 [HanSolo](https://github.com/HanSolo) Starred [hcoles/voices](https://github.com/hcoles/voices)
+  > Fast, in-process text to speech for Java
+
 ### [Keyird](https://github.com/Keyird)
 - 🌟 👤 [Keyird](https://github.com/Keyird) Starred [MMMU-Benchmark/MMMU](https://github.com/MMMU-Benchmark/MMMU)
   > This repo contains evaluation code for the paper "MMMU: A Massive Multi-discipline Multimodal Unders...
@@ -283,5 +287,5 @@
 
 
 ---
-*最后更新于 2025-09-26 05:22:08 UTC*
+*最后更新于 2025-09-26 05:41:46 UTC*
 *历史记录保存在 `archive` 目录中。*
