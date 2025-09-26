@@ -53,6 +53,10 @@
 - 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [Fraunhofer-AISEC/cpg](https://github.com/Fraunhofer-AISEC/cpg)
   > A library to extract Code Property Graphs from C/C++, Java, Go, Python, Ruby and every other languag...
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [HiPhish/nvim-cmp-vlime](https://github.com/HiPhish/nvim-cmp-vlime)
+  > (Mirror) Completion source for nvim-cmp using Vlime for Common Lisp completions.
+
 ### [DeEpinGh0st](https://github.com/DeEpinGh0st)
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Mr-xn/CVE-2025-54424](https://github.com/Mr-xn/CVE-2025-54424)
   > CVE-2025-54424：1Panel 客户端证书绕过RCE漏洞 一体化工具 (扫描+利用)
@@ -96,6 +100,14 @@
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [FerryAr/lhroot-repo](https://github.com/FerryAr/lhroot-repo)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [FerryAr/lhroot](https://github.com/FerryAr/lhroot)
   > Linux Chroot Installer & Bootscript Magisk Module.
+
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [86maid/ddddocr](https://github.com/86maid/ddddocr)
+  > ddddocr rust 版本，ocr_api_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，AI MCP 支持，a simple OCR API ser...
+
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker)
+  > Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automa...
 
 ### [NeoMaster831](https://github.com/NeoMaster831)
 - 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [mandiant/xrefer](https://github.com/mandiant/xrefer)
@@ -157,6 +169,10 @@
 ### [android1337](https://github.com/android1337)
 - 🚀 👤 [android1337](https://github.com/android1337) Made [android1337/rickyservices-crack](https://github.com/android1337/rickyservices-crack) public
 
+### [bingwin](https://github.com/bingwin)
+- 🌟 👤 [bingwin](https://github.com/bingwin) Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
+  > Wan: Open and Advanced Large-Scale Video Generative Models
+
 ### [cozis](https://github.com/cozis)
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [degradka/mc-preclassic-c](https://github.com/degradka/mc-preclassic-c)
   > RubyDung (aka MC Preclassic) rewritten as God intended
@@ -186,6 +202,12 @@
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp)
   > 文颜 MCP Server 可以让 AI 自动将 Markdown 文章排版后发布至微信公众号。
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [coinbase/x402](https://github.com/coinbase/x402)
+  > A payments protocol for the internet. Built on HTTP.
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+  > Open Source AI Platform - AI Chat with advanced features that works with every LLM
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack) to [fengjixuchui/SetupHijack](https://github.com/fengjixuchui/SetupHijack)
@@ -263,6 +285,12 @@
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [aigem/comfyui_gemini_nano_banana](https://github.com/aigem/comfyui_gemini_nano_banana)
   > 支持Gemini原生格式的 Nano Banana ComfyUI API 节点【附实惠稳定API用法】
+
+### [jk8881mz33](https://github.com/jk8881mz33)
+- 🌟 👤 [jk8881mz33](https://github.com/jk8881mz33) Starred [CrackerCat/SuperWordlist](https://github.com/CrackerCat/SuperWordlist)
+  > 基于实战沉淀下的各种弱口令字典
+- 🍴 👤 [jk8881mz33](https://github.com/jk8881mz33) Forked [CrackerCat/SuperWordlist](https://github.com/CrackerCat/SuperWordlist) to [jk8881mz33/SuperWordlist](https://github.com/jk8881mz33/SuperWordlist)
+  > 基于实战沉淀下的各种弱口令字典
 
 ### [lemuellew](https://github.com/lemuellew)
 - 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [antgroup/YASA-Engine](https://github.com/antgroup/YASA-Engine)
@@ -428,6 +456,10 @@
 ### [samwafgo](https://github.com/samwafgo)
 - ✨ 👤 [samwafgo](https://github.com/samwafgo) Created new repo [samwafgo/proxy_protocol_tester](https://github.com/samwafgo/proxy_protocol_tester)
 
+### [sidex15](https://github.com/sidex15)
+- 🌟 👤 [sidex15](https://github.com/sidex15) Starred [ALTaleX531/OpenGlass](https://github.com/ALTaleX531/OpenGlass)
+  > Aero Glass For Windows 10+
+
 ### [std-microblock](https://github.com/std-microblock)
 - 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [86maid/ddddocr](https://github.com/86maid/ddddocr)
   > ddddocr rust 版本，ocr_api_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，AI MCP 支持，a simple OCR API ser...
@@ -487,6 +519,8 @@
 ### [wonderkun](https://github.com/wonderkun)
 - 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
   > ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video genera...
+- 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [cSuk1/FireWall](https://github.com/cSuk1/FireWall)
+  > 基于Netfilter的包过滤状态防火墙
 
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [mascanho/RustySEO](https://github.com/mascanho/RustySEO)
@@ -532,8 +566,10 @@
   > Building an Active Directory domain and hacking it
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [christophetd/Adaz](https://github.com/christophetd/Adaz)
   > :wrench: Deploy customizable Active Directory labs in Azure - automatically.
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [alebov/AD-lab](https://github.com/alebov/AD-lab)
+  > An active directory laboratory for penetration testing.
 
 
 ---
-*最后更新于 2025-09-26 10:43:15 UTC*
+*最后更新于 2025-09-26 11:18:29 UTC*
 *历史记录保存在 `archive` 目录中。*
