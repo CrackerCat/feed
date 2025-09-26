@@ -61,6 +61,10 @@
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Mr-xn/CVE-2025-54424](https://github.com/Mr-xn/CVE-2025-54424)
   > CVE-2025-54424：1Panel 客户端证书绕过RCE漏洞 一体化工具 (扫描+利用)
 
+### [EgeBalci](https://github.com/EgeBalci)
+- 🌟 👤 [EgeBalci](https://github.com/EgeBalci) Starred [zrax/pycdc](https://github.com/zrax/pycdc)
+  > C++ python bytecode disassembler and decompiler
+
 ### [H3rmesk1t](https://github.com/H3rmesk1t)
 - 🌟 👤 [H3rmesk1t](https://github.com/H3rmesk1t) Starred [jd-opensource/JoySafety](https://github.com/jd-opensource/JoySafety)
   > JoySafety
@@ -185,6 +189,10 @@
 - 🌟 👤 [dionaka](https://github.com/dionaka) Starred [CrackerCat/unidbg-fetch-qsign](https://github.com/CrackerCat/unidbg-fetch-qsign)
   > 获取QQSign通过Unidbg
 
+### [dodola](https://github.com/dodola)
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel)
+  > A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered s...
+
 ### [dstmath](https://github.com/dstmath)
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su)
   > A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched mod...
@@ -209,6 +217,10 @@
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
   > Open Source AI Platform - AI Chat with advanced features that works with every LLM
 
+### [fanzhidongyzby](https://github.com/fanzhidongyzby)
+- 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent)
+  > Build effective agents using Model Context Protocol and simple workflow patterns
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack) to [fengjixuchui/SetupHijack](https://github.com/fengjixuchui/SetupHijack)
   > SetupHijack is a security research tool that exploits race conditions and insecure file handling in ...
@@ -231,6 +243,10 @@
 ### [fr0zenrain](https://github.com/fr0zenrain)
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor)
   > PyInstaller Extractor
+
+### [geekonion](https://github.com/geekonion)
+- 🌟 👤 [geekonion](https://github.com/geekonion) Starred [doronz88/ida-scripts](https://github.com/doronz88/ida-scripts)
+- 🍴 👤 [geekonion](https://github.com/geekonion) Forked [doronz88/ida-scripts](https://github.com/doronz88/ida-scripts) to [geekonion/ida-scripts](https://github.com/geekonion/ida-scripts)
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) to [gmh5225/nexa-sdk](https://github.com/gmh5225/nexa-sdk)
@@ -448,6 +464,16 @@
   > 让 LSPosed 失效并恢复所有被 LSPlant hook 的方法
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)
   > 基于eBPF的堆栈追踪工具
+- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [KyuubiRan/EzXHelper](https://github.com/KyuubiRan/EzXHelper)
+  > A library to make Xposed modules development easily.
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [panda-re/panda](https://github.com/panda-re/panda)
+  > Platform for Architecture-Neutral Dynamic Analysis
+
+### [reveng007](https://github.com/reveng007)
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [xpn/mythic_mcp](https://github.com/xpn/mythic_mcp)
+  > A simple POC to expose Mythic as a MCP server
 
 ### [safe6Sec](https://github.com/safe6Sec)
 - 🌟 👤 [safe6Sec](https://github.com/safe6Sec) Starred [0x727/ChkApi_0x727](https://github.com/0x727/ChkApi_0x727)
@@ -467,6 +493,10 @@
 ### [su-vikas](https://github.com/su-vikas)
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
   > Multi-architecture emulation for the modern era.
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [roboflow/supervision](https://github.com/roboflow/supervision)
+  > We write your reusable computer vision tools. 💜
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [yan5xu/ququ](https://github.com/yan5xu/ququ)
@@ -549,6 +579,8 @@
 - 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > Open-source AI hackers to find and fix your app’s vulnerabilities
 - 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [SYSUSELab/FeedbackEval](https://github.com/SYSUSELab/FeedbackEval)
+- 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [tongye98/Awesome-Code-Benchmark](https://github.com/tongye98/Awesome-Code-Benchmark)
+  > A comprehensive code domain benchmark review of LLM researches.
 
 ### [zhzyker](https://github.com/zhzyker)
 - 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [florylsk/SignatureGate](https://github.com/florylsk/SignatureGate)
@@ -572,7 +604,11 @@
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [0xJs/CRTP-cheatsheet](https://github.com/0xJs/CRTP-cheatsheet)
   > Cheatsheet for the commands learned in Attack and Defense Active Directory Lab
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [HelixDB/helix-db](https://github.com/HelixDB/helix-db)
+  > HelixDB is a database built from scratch to be the backend for any AI application.
+
 
 ---
-*最后更新于 2025-09-26 11:38:52 UTC*
+*最后更新于 2025-09-26 12:48:08 UTC*
 *历史记录保存在 `archive` 目录中。*
