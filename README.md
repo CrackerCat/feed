@@ -397,6 +397,10 @@
 - 🌟 👤 [lurenman](https://github.com/lurenman) Starred [byxiaorun/Ruru](https://github.com/byxiaorun/Ruru)
   > An android sample app of detecting suspicious apps like magisk manager
 
+### [meowette](https://github.com/meowette)
+- 🌟 👤 [meowette](https://github.com/meowette) Starred [teabound/egui-cfg](https://github.com/teabound/egui-cfg)
+  > egui library for displaying control flow graphs using petgraph.
+
 ### [miunasu](https://github.com/miunasu)
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [joxeankoret/diaphora](https://github.com/joxeankoret/diaphora)
   > Diaphora, the most advanced Free and Open Source program diffing tool.
@@ -620,6 +624,10 @@
 - 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [cSuk1/FireWall](https://github.com/cSuk1/FireWall)
   > 基于Netfilter的包过滤状态防火墙
 
+### [y9nhjy](https://github.com/y9nhjy)
+- 🌟 👤 [y9nhjy](https://github.com/y9nhjy) Starred [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide)
+  > Hiding kernel-driver for x86/x64.
+
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [mascanho/RustySEO](https://github.com/mascanho/RustySEO)
   > An SEO/GEO toolkit to analyse, crawl, parse and optimise websites & logs (Nginx & Apache)
@@ -682,5 +690,5 @@
 
 
 ---
-*最后更新于 2025-09-26 16:47:14 UTC*
+*最后更新于 2025-09-26 17:19:05 UTC*
 *历史记录保存在 `archive` 目录中。*
