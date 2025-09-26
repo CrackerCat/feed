@@ -566,6 +566,10 @@
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [xpn/mythic_mcp](https://github.com/xpn/mythic_mcp)
   > A simple POC to expose Mythic as a MCP server
 
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [codedefender-io/pdbgen3](https://github.com/codedefender-io/pdbgen3)
+  > Generate a new PDB file given a CodeDefender debug file, the original PDB, and the obfuscated PE fil...
+
 ### [safe6Sec](https://github.com/safe6Sec)
 - 🌟 👤 [safe6Sec](https://github.com/safe6Sec) Starred [0x727/ChkApi_0x727](https://github.com/0x727/ChkApi_0x727)
   > 辅助甲方安全人员巡检网站资产，发现并分析API安全问题
@@ -721,5 +725,5 @@
 
 
 ---
-*最后更新于 2025-09-26 18:30:25 UTC*
+*最后更新于 2025-09-26 19:17:18 UTC*
 *历史记录保存在 `archive` 目录中。*
