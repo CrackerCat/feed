@@ -395,6 +395,8 @@
 ### [netxfly](https://github.com/netxfly)
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [crocofied/PortNote](https://github.com/crocofied/PortNote)
   > Keep track of used ports
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+  > RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge...
 
 ### [nothing-2333](https://github.com/nothing-2333)
 - 🌟 👤 [nothing-2333](https://github.com/nothing-2333) Starred [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)
@@ -419,6 +421,10 @@
 ### [overfl0](https://github.com/overfl0)
 - 🍴 👤 [overfl0](https://github.com/overfl0) Forked [kweatherman/IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn) to [overfl0/IDA_ClassInformer_PlugIn](https://github.com/overfl0/IDA_ClassInformer_PlugIn)
   > IDA ClassInformer PlugIn
+
+### [paradiseduo](https://github.com/paradiseduo)
+- 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker)
+  > Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automa...
 
 ### [pengwei1024](https://github.com/pengwei1024)
 - 🌟 👤 [pengwei1024](https://github.com/pengwei1024) Starred [little51/dinov3-samples](https://github.com/little51/dinov3-samples)
@@ -610,5 +616,5 @@
 
 
 ---
-*最后更新于 2025-09-26 12:48:08 UTC*
+*最后更新于 2025-09-26 13:30:39 UTC*
 *历史记录保存在 `archive` 目录中。*
