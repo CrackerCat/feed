@@ -59,10 +59,6 @@
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [HiPhish/nvim-cmp-vlime](https://github.com/HiPhish/nvim-cmp-vlime)
   > (Mirror) Completion source for nvim-cmp using Vlime for Common Lisp completions.
 
-### [DeEpinGh0st](https://github.com/DeEpinGh0st)
-- 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Mr-xn/CVE-2025-54424](https://github.com/Mr-xn/CVE-2025-54424)
-  > CVE-2025-54424：1Panel 客户端证书绕过RCE漏洞 一体化工具 (扫描+利用)
-
 ### [DerekSelander](https://github.com/DerekSelander)
 - 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [khanhduytran0/Sim26Booter](https://github.com/khanhduytran0/Sim26Booter)
   > Attempt to boot iOS 26 simulator on iOS 16 (WIP, does not work yet)
@@ -146,10 +142,6 @@
 - 🌟 👤 [Resery](https://github.com/Resery) Starred [Shreyas-Penkar/CVE-2024-38399](https://github.com/Shreyas-Penkar/CVE-2024-38399)
   > PoC for CVE-2024-38399
 
-### [RicardoJiang](https://github.com/RicardoJiang)
-- 🌟 👤 [RicardoJiang](https://github.com/RicardoJiang) Starred [crowforkotlin/mordecaix](https://github.com/crowforkotlin/mordecaix)
-  > 🐦‍⬛ mordecaix is compose multiplatform application
-
 ### [RicterZ](https://github.com/RicterZ)
 - 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [OikuraAmatsume/mapannai-public](https://github.com/OikuraAmatsume/mapannai-public) to [RicterZ/mapannai-public](https://github.com/RicterZ/mapannai-public)
   > マップ案内 - 交互式地图编辑器
@@ -157,6 +149,8 @@
 ### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
 - 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [horizon3ai/CVE-2023-27532](https://github.com/horizon3ai/CVE-2023-27532)
   > POC for Veeam Backup and Replication CVE-2023-27532
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
+  > Windows protocol library, including SMB and RPC implementations, among others.
 
 ### [SakuraKoi](https://github.com/SakuraKoi)
 - 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [haraldk/TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys)
@@ -360,10 +354,6 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [DarknessFX/RaylibUE](https://github.com/DarknessFX/RaylibUE) to [gmh5225/RaylibUE](https://github.com/gmh5225/RaylibUE)
   > Bridge Raylib's easy-to-use drawing API with Unreal Engine's intuitive Blueprint nodes.
 
-### [hackerhouse-opensource](https://github.com/hackerhouse-opensource)
-- 🌟 👤 [hackerhouse-opensource](https://github.com/hackerhouse-opensource) Starred [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack)
-  > SetupHijack is a security research tool that exploits race conditions and insecure file handling in ...
-
 ### [heeeeen](https://github.com/heeeeen)
 - 🌟 👤 [heeeeen](https://github.com/heeeeen) Starred [foundryzero/binder-trace](https://github.com/foundryzero/binder-trace)
   > Binder Trace is a tool for intercepting and parsing Android Binder messages. Think of it as "Wiresha...
@@ -416,6 +406,8 @@
   > x-cmd: Bootstrap 1000+ command line tools in seconds.
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [iKeepLearn/db-back-tool](https://github.com/iKeepLearn/db-back-tool)
   > postgresql、mysql数据库备份并上传到腾讯云或者阿里云或兼容S3协议的其他云存储，同时可列出、删除云上存储的备份文件。
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [crocofied/PortNote](https://github.com/crocofied/PortNote)
+  > Keep track of used ports
 
 ### [konieshadow](https://github.com/konieshadow)
 - 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [UfoMiao/zcf](https://github.com/UfoMiao/zcf)
@@ -588,6 +580,10 @@
   > Remove Certificate Pinning from APKs
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware) to [rankalpha/VMAware](https://github.com/rankalpha/VMAware)
   > Advanced VM detection library and tool
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [ShivamKumarJha/android_tools](https://github.com/ShivamKumarJha/android_tools)
+  > Bash scripts for ROM development stuff.
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [codedefender-io/pdbgen3](https://github.com/codedefender-io/pdbgen3)
+  > Generate a new PDB file given a CodeDefender debug file, the original PDB, and the obfuscated PE fil...
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🍴 👤 [ravindu644](https://github.com/ravindu644) Forked [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) to [ravindu644/bootloader-unlock-wall-of-shame](https://github.com/ravindu644/bootloader-unlock-wall-of-shame)
@@ -697,8 +693,6 @@
 - 🌟 👤 [wizardforcel](https://github.com/wizardforcel) Starred [OpenDocCN/freelearn-mobi-zh](https://github.com/OpenDocCN/freelearn-mobi-zh)
 
 ### [wonderkun](https://github.com/wonderkun)
-- 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
-  > ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video genera...
 - 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [cSuk1/FireWall](https://github.com/cSuk1/FireWall)
   > 基于Netfilter的包过滤状态防火墙
 
@@ -774,5 +768,5 @@
 
 
 ---
-*最后更新于 2025-09-26 21:18:59 UTC*
+*最后更新于 2025-09-26 21:38:30 UTC*
 *历史记录保存在 `archive` 目录中。*
