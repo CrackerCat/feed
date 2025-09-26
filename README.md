@@ -308,6 +308,12 @@
 - 🍴 👤 [jk8881mz33](https://github.com/jk8881mz33) Forked [CrackerCat/SuperWordlist](https://github.com/CrackerCat/SuperWordlist) to [jk8881mz33/SuperWordlist](https://github.com/jk8881mz33/SuperWordlist)
   > 基于实战沉淀下的各种弱口令字典
 
+### [konieshadow](https://github.com/konieshadow)
+- 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [UfoMiao/zcf](https://github.com/UfoMiao/zcf)
+  > Zero-Config Claude-Code Flow
+- 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp)
+  > A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tool...
+
 ### [lemuellew](https://github.com/lemuellew)
 - 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [antgroup/YASA-Engine](https://github.com/antgroup/YASA-Engine)
   >  YASA is an open-source static program analysis project. Its core innovation lies in a unified inter...
@@ -616,5 +622,5 @@
 
 
 ---
-*最后更新于 2025-09-26 13:30:39 UTC*
+*最后更新于 2025-09-26 14:19:53 UTC*
 *历史记录保存在 `archive` 目录中。*
