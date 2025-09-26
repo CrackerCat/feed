@@ -140,12 +140,10 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor)
   > Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 15
 
-### [Resery](https://github.com/Resery)
-- 🌟 👤 [Resery](https://github.com/Resery) Starred [Shreyas-Penkar/CVE-2024-38399](https://github.com/Shreyas-Penkar/CVE-2024-38399)
-  > PoC for CVE-2024-38399
-
 ### [RicterZ](https://github.com/RicterZ)
 - 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [OikuraAmatsume/mapannai-public](https://github.com/OikuraAmatsume/mapannai-public) to [RicterZ/mapannai-public](https://github.com/RicterZ/mapannai-public)
+  > マップ案内 - 交互式地图编辑器
+- 🌟 👤 [RicterZ](https://github.com/RicterZ) Starred [OikuraAmatsume/mapannai-public](https://github.com/OikuraAmatsume/mapannai-public)
   > マップ案内 - 交互式地图编辑器
 
 ### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
@@ -187,6 +185,8 @@
 ### [XayahSuSuSu](https://github.com/XayahSuSuSu)
 - 🌟 👤 [XayahSuSuSu](https://github.com/XayahSuSuSu) Starred [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass)
   > Jetpack Compose Liquid Glass library
+- 🌟 👤 [XayahSuSuSu](https://github.com/XayahSuSuSu) Starred [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin)
+  > Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
 
 ### [Y4er](https://github.com/Y4er)
 - 🌟 👤 [Y4er](https://github.com/Y4er) Starred [imzyb/MiSub](https://github.com/imzyb/MiSub)
@@ -261,10 +261,6 @@
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel)
   > A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered s...
 
-### [dstmath](https://github.com/dstmath)
-- 🌟 👤 [dstmath](https://github.com/dstmath) Starred [Guardsquare/proguard](https://github.com/Guardsquare/proguard)
-  > ProGuard, Java optimizer and obfuscator
-
 ### [duanluan](https://github.com/duanluan)
 - 🌟 👤 [duanluan](https://github.com/duanluan) Starred [georgmangold/console](https://github.com/georgmangold/console)
   > Console is a  Admin UI for MinIO® Object Storage Server :desktop_computer:
@@ -321,7 +317,7 @@
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) to [gmh5225/nexa-sdk](https://github.com/gmh5225/nexa-sdk)
-  > On device AI inference in minutes—now for MLX & GGUF and Qualcomm NPU, with Android and iOS coming s...
+  > Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iO...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [tninja/ai-code-interface.el](https://github.com/tninja/ai-code-interface.el) to [gmh5225/ai-code-interface.el](https://github.com/gmh5225/ai-code-interface.el)
   > Unified emacs interface for Claude Code, Gemini CLI, and OpenAI Codex
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Shreyas-Penkar/CVE-2024-38399](https://github.com/Shreyas-Penkar/CVE-2024-38399) to [gmh5225/CVE-2024-38399](https://github.com/gmh5225/CVE-2024-38399)
@@ -382,6 +378,8 @@
 ### [joyafa](https://github.com/joyafa)
 - 🍴 👤 [joyafa](https://github.com/joyafa) Forked [microsoft/markitdown](https://github.com/microsoft/markitdown) to [joyafa/markitdown](https://github.com/joyafa/markitdown)
   > Python tool for converting files and office documents to Markdown.
+- 🍴 👤 [joyafa](https://github.com/joyafa) Forked [openAUTOSAR/classic-platform](https://github.com/openAUTOSAR/classic-platform) to [joyafa/classic-platform](https://github.com/joyafa/classic-platform)
+  > Open source AUTOSAR classic platform forked from the Arctic Core
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [whillhill/mcpstore](https://github.com/whillhill/mcpstore)
@@ -497,10 +495,6 @@
 ### [oureveryday](https://github.com/oureveryday)
 - 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [chausner/vcxproj2cmake](https://github.com/chausner/vcxproj2cmake)
   > Tool to convert Microsoft Visual C++ projects and solutions to CMake
-
-### [overfl0](https://github.com/overfl0)
-- 🍴 👤 [overfl0](https://github.com/overfl0) Forked [kweatherman/IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn) to [overfl0/IDA_ClassInformer_PlugIn](https://github.com/overfl0/IDA_ClassInformer_PlugIn)
-  > IDA ClassInformer PlugIn
 
 ### [paradiseduo](https://github.com/paradiseduo)
 - 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker)
@@ -638,10 +632,6 @@
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)
   > Generate a timeline of your day, automatically
 
-### [twogoat](https://github.com/twogoat)
-- 🍴 👤 [twogoat](https://github.com/twogoat) Forked [lzz0403/A1CTF](https://github.com/lzz0403/A1CTF) to [twogoat/A1CTF](https://github.com/twogoat/A1CTF)
-  > A CTF platform designed for A1natas.
-
 ### [tyron12233](https://github.com/tyron12233)
 - ✨ 👤 [tyron12233](https://github.com/tyron12233) Created new repo [tyron12233/midterms-aswang-hunter](https://github.com/tyron12233/midterms-aswang-hunter)
 
@@ -758,5 +748,5 @@
 
 
 ---
-*最后更新于 2025-09-26 23:19:25 UTC*
+*最后更新于 2025-09-26 23:38:17 UTC*
 *历史记录保存在 `archive` 目录中。*
