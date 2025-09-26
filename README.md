@@ -211,6 +211,8 @@
 ### [longf2011](https://github.com/longf2011)
 - 🌟 👤 [longf2011](https://github.com/longf2011) Starred [oakboat/HyperCE](https://github.com/oakboat/HyperCE)
   > Bypass protection and hide CE via VT-x hypervisor and ept hook to use cheat engine .
+- 🌟 👤 [longf2011](https://github.com/longf2011) Starred [jonomango/hv](https://github.com/jonomango/hv)
+  > Lightweight Intel VT-x Hypervisor.
 
 ### [lqqyt2423](https://github.com/lqqyt2423)
 - 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [iKeepLearn/db-back-tool](https://github.com/iKeepLearn/db-back-tool)
@@ -273,6 +275,10 @@
 ### [overfl0](https://github.com/overfl0)
 - 🍴 👤 [overfl0](https://github.com/overfl0) Forked [kweatherman/IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn) to [overfl0/IDA_ClassInformer_PlugIn](https://github.com/overfl0/IDA_ClassInformer_PlugIn)
   > IDA ClassInformer PlugIn
+
+### [pengwei1024](https://github.com/pengwei1024)
+- 🌟 👤 [pengwei1024](https://github.com/pengwei1024) Starred [little51/dinov3-samples](https://github.com/little51/dinov3-samples)
+  > dinov3例子
 
 ### [plusls](https://github.com/plusls)
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [joerick/pyinstrument](https://github.com/joerick/pyinstrument)
@@ -352,6 +358,10 @@
 - 🌟 👤 [wingring](https://github.com/wingring) Starred [CrackerCat/Sec-Interview](https://github.com/CrackerCat/Sec-Interview)
   > 全网首发！！！上万道网安面试题总结（涵盖护网、渗透、红队、逆向、密码、二进制、区块链、AI、云）
 
+### [wishihab](https://github.com/wishihab)
+- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [esfelurm/android-ransomware](https://github.com/esfelurm/android-ransomware)
+  > A ransomware for Android!  
+
 ### [wonderkun](https://github.com/wonderkun)
 - 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
   > ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video genera...
@@ -361,6 +371,8 @@
   > An SEO/GEO toolkit to analyse, crawl, parse and optimise websites & logs (Nginx & Apache)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [houhongxu/zeropress](https://github.com/houhongxu/zeropress)
   > 0 配置的 ssg 框架
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [Xmorinori/Cerberus_V1](https://github.com/Xmorinori/Cerberus_V1)
+  > Passive aggressive scanning CLI tools for finding vulnerability
 
 ### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
 - ✨ 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Created new repo [yizhiyonggangdexiaojia/lspsoed_skip](https://github.com/yizhiyonggangdexiaojia/lspsoed_skip)
@@ -389,5 +401,5 @@
 
 
 ---
-*最后更新于 2025-09-26 07:22:06 UTC*
+*最后更新于 2025-09-26 07:39:37 UTC*
 *历史记录保存在 `archive` 目录中。*
