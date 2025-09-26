@@ -69,6 +69,8 @@
 
 ### [EkiXu](https://github.com/EkiXu)
 - 🌟 👤 [EkiXu](https://github.com/EkiXu) Starred [Team-Atlanta/aixcc-afc-atlantis](https://github.com/Team-Atlanta/aixcc-afc-atlantis)
+- 🌟 👤 [EkiXu](https://github.com/EkiXu) Starred [secure-foundations/vest](https://github.com/secure-foundations/vest)
+  > High-assurance and performant Rust-based parsing and serialization of binary data formats verified i...
 
 ### [H3rmesk1t](https://github.com/H3rmesk1t)
 - 🌟 👤 [H3rmesk1t](https://github.com/H3rmesk1t) Starred [jd-opensource/JoySafety](https://github.com/jd-opensource/JoySafety)
@@ -164,6 +166,10 @@
 - 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [keecth/FakeCryptoJS](https://github.com/keecth/FakeCryptoJS) to [Sec-Fork/FakeCryptoJS](https://github.com/Sec-Fork/FakeCryptoJS)
   > CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位置(无视混淆)。SRC和常规渗透神器
 
+### [Sndav](https://github.com/Sndav)
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
+  > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
+
 ### [THISISAGOODNAME](https://github.com/THISISAGOODNAME)
 - ✨ 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Created new repo [CU-Production/test_tinycc](https://github.com/CU-Production/test_tinycc)
   > a libtcc demo
@@ -174,6 +180,14 @@
 - 🌟 👤 [TheKingOfDuck](https://github.com/TheKingOfDuck) Starred [maxDcb/C2TeamServer](https://github.com/maxDcb/C2TeamServer)
   > TeamServer and Client of Exploration Command and Control Framework
 
+### [XayahSuSuSu](https://github.com/XayahSuSuSu)
+- 🌟 👤 [XayahSuSuSu](https://github.com/XayahSuSuSu) Starred [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass)
+  > Jetpack Compose Liquid Glass library
+
+### [Y4er](https://github.com/Y4er)
+- 🌟 👤 [Y4er](https://github.com/Y4er) Starred [imzyb/MiSub](https://github.com/imzyb/MiSub)
+  > 测试站，密码admin
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [HexRaysSA/goomba](https://github.com/HexRaysSA/goomba)
   > gooMBA is a Hex-Rays Decompiler plugin to simplify Mixed Boolean-Arithmetic (MBA) expressions
@@ -182,6 +196,9 @@
 ### [YuKongA](https://github.com/YuKongA)
 - 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [hegaojian/JetpackMvvm](https://github.com/hegaojian/JetpackMvvm)
   > :chicken::basketball:一个Jetpack结合MVVM的快速开发框架，基于MVVM模式集成谷歌官方推荐的JetPack组件库：LiveData、ViewModel、Lifecycle...
+
+### [acheong08](https://github.com/acheong08)
+- ✨ 👤 [acheong08](https://github.com/acheong08) Created new repo [acheong08/bcachefs-tools](https://github.com/acheong08/bcachefs-tools)
 
 ### [android1337](https://github.com/android1337)
 - 🚀 👤 [android1337](https://github.com/android1337) Made [android1337/rickyservices-crack](https://github.com/android1337/rickyservices-crack) public
@@ -219,6 +236,8 @@
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [github/awesome-copilot](https://github.com/github/awesome-copilot)
   > Community-contributed instructions, prompts, and configurations to help you make the most of GitHub ...
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [changhongyan123/context_aware_mia](https://github.com/changhongyan123/context_aware_mia)
+  > Official code for the paper "Context-aware Membership Inference Attacks against Pre-trained Models",...
 
 ### [eastmountyxz](https://github.com/eastmountyxz)
 - 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI)
@@ -397,6 +416,10 @@
 - 🌟 👤 [lurenman](https://github.com/lurenman) Starred [byxiaorun/Ruru](https://github.com/byxiaorun/Ruru)
   > An android sample app of detecting suspicious apps like magisk manager
 
+### [marcan](https://github.com/marcan)
+- 🍴 👤 [marcan](https://github.com/marcan) Forked [home-assistant/core](https://github.com/home-assistant/core) to [marcan/homeassistant](https://github.com/marcan/homeassistant)
+  > :house_with_garden: Open source home automation that puts local control and privacy first.
+
 ### [meowette](https://github.com/meowette)
 - 🌟 👤 [meowette](https://github.com/meowette) Starred [teabound/egui-cfg](https://github.com/teabound/egui-cfg)
   > egui library for displaying control flow graphs using petgraph.
@@ -554,6 +577,12 @@
 - 🌟 👤 [sidex15](https://github.com/sidex15) Starred [ALTaleX531/OpenGlass](https://github.com/ALTaleX531/OpenGlass)
   > Aero Glass For Windows 10+
 
+### [sonyps5201314](https://github.com/sonyps5201314)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [tomrus88/OpenLumina](https://github.com/tomrus88/OpenLumina)
+  > IDA plugin that allows connecting to third party Lumina servers
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [naim94a/lumen](https://github.com/naim94a/lumen)
+  > A private Lumina server for IDA Pro
+
 ### [std-microblock](https://github.com/std-microblock)
 - 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [86maid/ddddocr](https://github.com/86maid/ddddocr)
   > ddddocr rust 版本，ocr_api_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，AI MCP 支持，a simple OCR API ser...
@@ -683,6 +712,8 @@
   > An active directory laboratory for penetration testing.
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [0xJs/CRTP-cheatsheet](https://github.com/0xJs/CRTP-cheatsheet)
   > Cheatsheet for the commands learned in Attack and Defense Active Directory Lab
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [Aefyr/SAI](https://github.com/Aefyr/SAI)
+  > Android split APKs installer
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [HelixDB/helix-db](https://github.com/HelixDB/helix-db)
@@ -690,5 +721,5 @@
 
 
 ---
-*最后更新于 2025-09-26 17:40:44 UTC*
+*最后更新于 2025-09-26 18:30:25 UTC*
 *历史记录保存在 `archive` 目录中。*
