@@ -8,6 +8,10 @@
 - 🌟 👤 [1c7](https://github.com/1c7) Starred [mokeyish/obsidian-enhancing-export](https://github.com/mokeyish/obsidian-enhancing-export)
   > This is an enhancing export plugin base on Pandoc for Obsidian (https://obsidian.md/ ). It's allow y...
 
+### [Aira-Sakuranomiya](https://github.com/Aira-Sakuranomiya)
+- 🌟 👤 [Aira-Sakuranomiya](https://github.com/Aira-Sakuranomiya) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+  > The open-source CapCut alternative
+
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [finanalyzer/openbb_tushare](https://github.com/finanalyzer/openbb_tushare)
   > OpenBB extension for Tushare
@@ -24,6 +28,10 @@
 ### [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut)
 - 🌟 👤 [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut) Starred [Shreyas-Penkar/CVE-2024-38399](https://github.com/Shreyas-Penkar/CVE-2024-38399)
   > PoC for CVE-2024-38399
+
+### [Cossack9989](https://github.com/Cossack9989)
+- 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [Fraunhofer-AISEC/cpg](https://github.com/Fraunhofer-AISEC/cpg)
+  > A library to extract Code Property Graphs from C/C++, Java, Go, Python, Ruby and every other languag...
 
 ### [DeEpinGh0st](https://github.com/DeEpinGh0st)
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Mr-xn/CVE-2025-54424](https://github.com/Mr-xn/CVE-2025-54424)
@@ -82,6 +90,18 @@
 - 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [haraldk/TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys)
   > TwelveMonkeys ImageIO: Additional plug-ins and extensions for Java's ImageIO
 
+### [Sec-Fork](https://github.com/Sec-Fork)
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [florylsk/SignatureGate](https://github.com/florylsk/SignatureGate) to [Sec-Fork/SignatureGate](https://github.com/Sec-Fork/SignatureGate)
+  > Weaponized HellsGate/SigFlip
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [outflanknl/edr-internals](https://github.com/outflanknl/edr-internals) to [Sec-Fork/edr-internals](https://github.com/Sec-Fork/edr-internals)
+  > Tools for analyzing EDR agents
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [pathtofile/bad-bpf](https://github.com/pathtofile/bad-bpf) to [Sec-Fork/bad-bpf](https://github.com/Sec-Fork/bad-bpf)
+  > A collection of eBPF programs demonstrating bad behavior, presented at DEF CON 29 
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [Mah3Sec/JSHawk](https://github.com/Mah3Sec/JSHawk) to [Sec-Fork/JSHawk](https://github.com/Sec-Fork/JSHawk)
+  > JSHawk is a powerful, context-aware JavaScript security scanner that hunts for exposed credentials, ...
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [keecth/FakeCryptoJS](https://github.com/keecth/FakeCryptoJS) to [Sec-Fork/FakeCryptoJS](https://github.com/Sec-Fork/FakeCryptoJS)
+  > CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位置(无视混淆)。SRC和常规渗透神器
+
 ### [THISISAGOODNAME](https://github.com/THISISAGOODNAME)
 - ✨ 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Created new repo [CU-Production/test_tinycc](https://github.com/CU-Production/test_tinycc)
   > a libtcc demo
@@ -136,6 +156,8 @@
   > On device AI inference in minutes—now for MLX & GGUF and Qualcomm NPU, with Android and iOS coming s...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [tninja/ai-code-interface.el](https://github.com/tninja/ai-code-interface.el) to [gmh5225/ai-code-interface.el](https://github.com/gmh5225/ai-code-interface.el)
   > Unified emacs interface for Claude Code, Gemini CLI, and OpenAI Codex
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Shreyas-Penkar/CVE-2024-38399](https://github.com/Shreyas-Penkar/CVE-2024-38399) to [gmh5225/CVE-2024-38399](https://github.com/gmh5225/CVE-2024-38399)
+  > PoC for CVE-2024-38399
 
 ### [hackerhouse-opensource](https://github.com/hackerhouse-opensource)
 - 🌟 👤 [hackerhouse-opensource](https://github.com/hackerhouse-opensource) Starred [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack)
@@ -241,6 +263,17 @@
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [vulhub/java-chains](https://github.com/vulhub/java-chains)
   > Vulhub Vulnerability Reproduction Designated Platform
 
+### [rankalpha](https://github.com/rankalpha)
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su)
+  > A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched mod...
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [HexRaysSA/goomba](https://github.com/HexRaysSA/goomba) to [rankalpha/goomba](https://github.com/rankalpha/goomba)
+  > gooMBA is a Hex-Rays Decompiler plugin to simplify Mixed Boolean-Arithmetic (MBA) expressions
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [joydo/d810](https://github.com/joydo/d810) to [rankalpha/d810](https://github.com/rankalpha/d810)
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [abhi-r3v0/Adhrit](https://github.com/abhi-r3v0/Adhrit)
+  > Android Security Suite for in-depth reconnaissance and static bytecode analysis based on Ghera bench...
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [bollwarm/SecToolSet](https://github.com/bollwarm/SecToolSet)
+  > The security tool(project) Set from github。github安全项目工具集合 
+
 ### [ravindu644](https://github.com/ravindu644)
 - 🍴 👤 [ravindu644](https://github.com/ravindu644) Forked [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) to [ravindu644/bootloader-unlock-wall-of-shame](https://github.com/ravindu644/bootloader-unlock-wall-of-shame)
   > Keeping track of companies that "care about your data 🥺"
@@ -251,9 +284,16 @@
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)
   > 基于eBPF的堆栈追踪工具
 
+### [samwafgo](https://github.com/samwafgo)
+- ✨ 👤 [samwafgo](https://github.com/samwafgo) Created new repo [samwafgo/proxy_protocol_tester](https://github.com/samwafgo/proxy_protocol_tester)
+
 ### [su-vikas](https://github.com/su-vikas)
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
   > Multi-architecture emulation for the modern era.
+
+### [topcoco](https://github.com/topcoco)
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor)
+  > Powerful android apk editor - aapt/aapt2 independent
 
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)
@@ -281,11 +321,27 @@
 - 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
   > ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video genera...
 
+### [yanyaoli](https://github.com/yanyaoli)
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [mascanho/RustySEO](https://github.com/mascanho/RustySEO)
+  > An SEO/GEO toolkit to analyse, crawl, parse and optimise websites & logs (Nginx & Apache)
+
 ### [zhangkanqi](https://github.com/zhangkanqi)
 - 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [facebookresearch/cwm](https://github.com/facebookresearch/cwm)
   > Research code artifacts for Code World Model (CWM) including inference tools, reproducibility, and d...
 
+### [zhzyker](https://github.com/zhzyker)
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [florylsk/SignatureGate](https://github.com/florylsk/SignatureGate)
+  > Weaponized HellsGate/SigFlip
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [outflanknl/edr-internals](https://github.com/outflanknl/edr-internals)
+  > Tools for analyzing EDR agents
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [pathtofile/bad-bpf](https://github.com/pathtofile/bad-bpf)
+  > A collection of eBPF programs demonstrating bad behavior, presented at DEF CON 29 
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [Mah3Sec/JSHawk](https://github.com/Mah3Sec/JSHawk)
+  > JSHawk is a powerful, context-aware JavaScript security scanner that hunts for exposed credentials, ...
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [keecth/FakeCryptoJS](https://github.com/keecth/FakeCryptoJS)
+  > CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位置(无视混淆)。SRC和常规渗透神器
+
 
 ---
-*最后更新于 2025-09-26 05:41:46 UTC*
+*最后更新于 2025-09-26 06:33:42 UTC*
 *历史记录保存在 `archive` 目录中。*
