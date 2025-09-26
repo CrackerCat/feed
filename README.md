@@ -17,6 +17,10 @@
 ### [CC11001100](https://github.com/CC11001100)
 - 🌟 👤 [CC11001100](https://github.com/CC11001100) Starred [scagogogo/cwe](https://github.com/scagogogo/cwe)
 
+### [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut)
+- 🌟 👤 [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut) Starred [Shreyas-Penkar/CVE-2024-38399](https://github.com/Shreyas-Penkar/CVE-2024-38399)
+  > PoC for CVE-2024-38399
+
 ### [DeEpinGh0st](https://github.com/DeEpinGh0st)
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Mr-xn/CVE-2025-54424](https://github.com/Mr-xn/CVE-2025-54424)
   > CVE-2025-54424：1Panel 客户端证书绕过RCE漏洞 一体化工具 (扫描+利用)
@@ -31,6 +35,10 @@
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [gorla/appmining](https://github.com/gorla/appmining)
+
+### [LaPhilosophie](https://github.com/LaPhilosophie)
+- 🌟 👤 [LaPhilosophie](https://github.com/LaPhilosophie) Starred [roadwy/cve-search_mcp](https://github.com/roadwy/cve-search_mcp)
+  > A Model Context Protocol (MCP) server for querying the CVE-Search API
 
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect)
@@ -47,6 +55,12 @@
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [gocolly/colly](https://github.com/gocolly/colly)
   > Elegant Scraper and Crawler Framework for Golang
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [adeljck/PassGet](https://github.com/adeljck/PassGet)
+  > Post-exploitation Tool For Windows
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor)
+  > Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 15
 
 ### [Resery](https://github.com/Resery)
 - 🌟 👤 [Resery](https://github.com/Resery) Starred [Shreyas-Penkar/CVE-2024-38399](https://github.com/Shreyas-Penkar/CVE-2024-38399)
@@ -55,6 +69,14 @@
 ### [RicardoJiang](https://github.com/RicardoJiang)
 - 🌟 👤 [RicardoJiang](https://github.com/RicardoJiang) Starred [crowforkotlin/mordecaix](https://github.com/crowforkotlin/mordecaix)
   > 🐦‍⬛ mordecaix is compose multiplatform application
+
+### [SakuraKoi](https://github.com/SakuraKoi)
+- 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [haraldk/TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys)
+  > TwelveMonkeys ImageIO: Additional plug-ins and extensions for Java's ImageIO
+
+### [THISISAGOODNAME](https://github.com/THISISAGOODNAME)
+- ✨ 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Created new repo [CU-Production/test_tinycc](https://github.com/CU-Production/test_tinycc)
+  > a libtcc demo
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [HexRaysSA/goomba](https://github.com/HexRaysSA/goomba)
@@ -94,6 +116,12 @@
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [doronz88/DeveloperDiskImage](https://github.com/doronz88/DeveloperDiskImage)
   > Home for both DeveloperDiskImage files (iOS < 17.0) and Personalized files (iOS >= 17.0)
 
+### [gmh5225](https://github.com/gmh5225)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) to [gmh5225/nexa-sdk](https://github.com/gmh5225/nexa-sdk)
+  > On device AI inference in minutes—now for MLX & GGUF and Qualcomm NPU, with Android and iOS coming s...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [tninja/ai-code-interface.el](https://github.com/tninja/ai-code-interface.el) to [gmh5225/ai-code-interface.el](https://github.com/gmh5225/ai-code-interface.el)
+  > Unified emacs interface for Claude Code, Gemini CLI, and OpenAI Codex
+
 ### [hackerhouse-opensource](https://github.com/hackerhouse-opensource)
 - 🌟 👤 [hackerhouse-opensource](https://github.com/hackerhouse-opensource) Starred [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack)
   > SetupHijack is a security research tool that exploits race conditions and insecure file handling in ...
@@ -102,6 +130,14 @@
 - 🌟 👤 [heeeeen](https://github.com/heeeeen) Starred [foundryzero/binder-trace](https://github.com/foundryzero/binder-trace)
   > Binder Trace is a tool for intercepting and parsing Android Binder messages. Think of it as "Wiresha...
 
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [imputnet/helium](https://github.com/imputnet/helium)
+  > Private, fast, and honest web browser
+
+### [jayli](https://github.com/jayli)
+- 🌟 👤 [jayli](https://github.com/jayli) Starred [jayli/copilot.nvim](https://github.com/jayli/copilot.nvim)
+  > ai coding complete puglin for nvim
+
 ### [jialeicui](https://github.com/jialeicui)
 - 🌟 👤 [jialeicui](https://github.com/jialeicui) Starred [github/copilot-cli](https://github.com/github/copilot-cli)
   > GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
@@ -109,6 +145,10 @@
 ### [lmhMike](https://github.com/lmhMike)
 - 🌟 👤 [lmhMike](https://github.com/lmhMike) Starred [feicong/android-rom-book](https://github.com/feicong/android-rom-book)
   > 安卓系统定制：从入门到实践 开源图书🔥
+
+### [longf2011](https://github.com/longf2011)
+- 🌟 👤 [longf2011](https://github.com/longf2011) Starred [oakboat/HyperCE](https://github.com/oakboat/HyperCE)
+  > Bypass protection and hide CE via VT-x hypervisor and ept hook to use cheat engine .
 
 ### [lqqyt2423](https://github.com/lqqyt2423)
 - 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [iKeepLearn/db-back-tool](https://github.com/iKeepLearn/db-back-tool)
@@ -123,6 +163,14 @@
   > Diaphora, the most advanced Free and Open Source program diffing tool.
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [jesparza/peepdf](https://github.com/jesparza/peepdf)
   > Powerful Python tool to analyze PDF documents
+- 🌟 👤 [miunasu](https://github.com/miunasu) Starred [digitalsleuth/peepdf-3](https://github.com/digitalsleuth/peepdf-3)
+  > A Python 3 upgrade to Peepdf
+- 🌟 👤 [miunasu](https://github.com/miunasu) Starred [DidierStevens/DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite)
+  > Please no pull requests for this repository. Thanks!
+
+### [mos9527](https://github.com/mos9527)
+- 🌟 👤 [mos9527](https://github.com/mos9527) Starred [jkuhlmann/cgltf](https://github.com/jkuhlmann/cgltf)
+  > :diamond_shape_with_a_dot_inside: Single-file glTF 2.0 loader and writer written in C99
 
 ### [mstfknn](https://github.com/mstfknn)
 - 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
@@ -131,6 +179,10 @@
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [0vercl0k/rp](https://github.com/0vercl0k/rp)
   > rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
+
+### [mzfr](https://github.com/mzfr)
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [goudvuur/sonshell](https://github.com/goudvuur/sonshell)
+  > An effort to "ssh into my Sony camera"
 
 ### [neil-wu](https://github.com/neil-wu)
 - 🌟 👤 [neil-wu](https://github.com/neil-wu) Starred [DargonLee/LookinRootless](https://github.com/DargonLee/LookinRootless)
@@ -163,6 +215,8 @@
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [eirv/DisableLSPosed](https://github.com/eirv/DisableLSPosed)
   > 让 LSPosed 失效并恢复所有被 LSPlant hook 的方法
+- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)
+  > 基于eBPF的堆栈追踪工具
 
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)
@@ -182,6 +236,10 @@
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [asagi4/comfyui-prompt-control](https://github.com/asagi4/comfyui-prompt-control)
   > ComfyUI nodes for prompt editing and LoRA control
 
+### [wingring](https://github.com/wingring)
+- 🌟 👤 [wingring](https://github.com/wingring) Starred [CrackerCat/Sec-Interview](https://github.com/CrackerCat/Sec-Interview)
+  > 全网首发！！！上万道网安面试题总结（涵盖护网、渗透、红队、逆向、密码、二进制、区块链、AI、云）
+
 ### [wonderkun](https://github.com/wonderkun)
 - 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
   > ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video genera...
@@ -192,5 +250,5 @@
 
 
 ---
-*最后更新于 2025-09-26 03:02:31 UTC*
+*最后更新于 2025-09-26 03:47:59 UTC*
 *历史记录保存在 `archive` 目录中。*
