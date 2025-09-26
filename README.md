@@ -142,6 +142,10 @@
 - 🌟 👤 [jialeicui](https://github.com/jialeicui) Starred [github/copilot-cli](https://github.com/github/copilot-cli)
   > GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 
+### [jiji262](https://github.com/jiji262)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [aigem/comfyui_gemini_nano_banana](https://github.com/aigem/comfyui_gemini_nano_banana)
+  > 支持Gemini原生格式的 Nano Banana ComfyUI API 节点【附实惠稳定API用法】
+
 ### [lmhMike](https://github.com/lmhMike)
 - 🌟 👤 [lmhMike](https://github.com/lmhMike) Starred [feicong/android-rom-book](https://github.com/feicong/android-rom-book)
   > 安卓系统定制：从入门到实践 开源图书🔥
@@ -208,9 +212,17 @@
 - 🍴 👤 [overfl0](https://github.com/overfl0) Forked [kweatherman/IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn) to [overfl0/IDA_ClassInformer_PlugIn](https://github.com/overfl0/IDA_ClassInformer_PlugIn)
   > IDA ClassInformer PlugIn
 
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [Shreyas-Penkar/CVE-2024-38399](https://github.com/Shreyas-Penkar/CVE-2024-38399)
+  > PoC for CVE-2024-38399
+
 ### [qi4L](https://github.com/qi4L)
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [vulhub/java-chains](https://github.com/vulhub/java-chains)
   > Vulhub Vulnerability Reproduction Designated Platform
+
+### [ravindu644](https://github.com/ravindu644)
+- 🍴 👤 [ravindu644](https://github.com/ravindu644) Forked [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) to [ravindu644/bootloader-unlock-wall-of-shame](https://github.com/ravindu644/bootloader-unlock-wall-of-shame)
+  > Keeping track of companies that "care about your data 🥺"
 
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [eirv/DisableLSPosed](https://github.com/eirv/DisableLSPosed)
@@ -250,5 +262,5 @@
 
 
 ---
-*最后更新于 2025-09-26 04:26:58 UTC*
+*最后更新于 2025-09-26 04:44:03 UTC*
 *历史记录保存在 `archive` 目录中。*
