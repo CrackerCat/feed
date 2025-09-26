@@ -25,6 +25,8 @@
 ### [Asabeneh](https://github.com/Asabeneh)
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [devopshq/artifactory](https://github.com/devopshq/artifactory)
   > dohq-artifactory: a Python client for Artifactory
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [webscopeio/license.sh](https://github.com/webscopeio/license.sh)
+  > License checker tool - We're in a beta phase, any help is appreciated, especially reporting issues
 
 ### [CC11001100](https://github.com/CC11001100)
 - 🌟 👤 [CC11001100](https://github.com/CC11001100) Starred [scagogogo/cwe](https://github.com/scagogogo/cwe)
@@ -67,6 +69,10 @@
 ### [MartinKayJr](https://github.com/MartinKayJr)
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
   > The open-source CapCut alternative
+
+### [MegatronKing](https://github.com/MegatronKing)
+- 🌟 👤 [MegatronKing](https://github.com/MegatronKing) Starred [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg)
+  > Create a good-looking DMG for your macOS app in seconds
 
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [FerryAr/lhroot-repo](https://github.com/FerryAr/lhroot-repo)
@@ -117,6 +123,10 @@
 - ✨ 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Created new repo [CU-Production/Mini-C-IDE](https://github.com/CU-Production/Mini-C-IDE)
   > a single exe c ide with libtcc & imgui
 
+### [TheKingOfDuck](https://github.com/TheKingOfDuck)
+- 🌟 👤 [TheKingOfDuck](https://github.com/TheKingOfDuck) Starred [maxDcb/C2TeamServer](https://github.com/maxDcb/C2TeamServer)
+  > TeamServer and Client of Exploration Command and Control Framework
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [HexRaysSA/goomba](https://github.com/HexRaysSA/goomba)
   > gooMBA is a Hex-Rays Decompiler plugin to simplify Mixed Boolean-Arithmetic (MBA) expressions
@@ -132,6 +142,10 @@
 ### [cwuom](https://github.com/cwuom)
 - 🌟 👤 [cwuom](https://github.com/cwuom) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
   > The open-source CapCut alternative
+
+### [dionaka](https://github.com/dionaka)
+- 🌟 👤 [dionaka](https://github.com/dionaka) Starred [CrackerCat/unidbg-fetch-qsign](https://github.com/CrackerCat/unidbg-fetch-qsign)
+  > 获取QQSign通过Unidbg
 
 ### [dstmath](https://github.com/dstmath)
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su)
@@ -162,6 +176,10 @@
   > Home for both DeveloperDiskImage files (iOS < 17.0) and Personalized files (iOS >= 17.0)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [doronz88/ida-scripts](https://github.com/doronz88/ida-scripts)
 
+### [foxmaid](https://github.com/foxmaid)
+- 🌟 👤 [foxmaid](https://github.com/foxmaid) Starred [CrackerCat/Portal](https://github.com/CrackerCat/Portal)
+  > Android Lab Fake Location Service
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) to [gmh5225/nexa-sdk](https://github.com/gmh5225/nexa-sdk)
   > On device AI inference in minutes—now for MLX & GGUF and Qualcomm NPU, with Android and iOS coming s...
@@ -188,6 +206,9 @@
 - 🍴 👤 [iamr0s](https://github.com/iamr0s) Forked [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) to [iamr0s/EasyTier](https://github.com/iamr0s/EasyTier)
   > A simple, decentralized mesh VPN with WireGuard support.
 
+### [imlk0](https://github.com/imlk0)
+- 🌟 👤 [imlk0](https://github.com/imlk0) Starred [airockchip/rknn-llm](https://github.com/airockchip/rknn-llm)
+
 ### [jayli](https://github.com/jayli)
 - 🌟 👤 [jayli](https://github.com/jayli) Starred [jayli/copilot.nvim](https://github.com/jayli/copilot.nvim)
   > ai coding complete puglin for nvim
@@ -203,6 +224,16 @@
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [aigem/comfyui_gemini_nano_banana](https://github.com/aigem/comfyui_gemini_nano_banana)
   > 支持Gemini原生格式的 Nano Banana ComfyUI API 节点【附实惠稳定API用法】
+
+### [libra146](https://github.com/libra146)
+- 🌟 👤 [libra146](https://github.com/libra146) Starred [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
+  > A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as ...
+- 🌟 👤 [libra146](https://github.com/libra146) Starred [pbatard/rufus](https://github.com/pbatard/rufus)
+  > The Reliable USB Formatting Utility
+
+### [linxid](https://github.com/linxid)
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [Tencent/tdesign](https://github.com/Tencent/tdesign)
+  > Enterprise Design System
 
 ### [lmhMike](https://github.com/lmhMike)
 - 🌟 👤 [lmhMike](https://github.com/lmhMike) Starred [feicong/android-rom-book](https://github.com/feicong/android-rom-book)
@@ -328,6 +359,10 @@
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
   > Multi-architecture emulation for the modern era.
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [yan5xu/ququ](https://github.com/yan5xu/ququ)
+  > 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
+
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor)
   > Powerful android apk editor - aapt/aapt2 independent
@@ -343,6 +378,16 @@
 ### [uknowsec](https://github.com/uknowsec)
 - 🌟 👤 [uknowsec](https://github.com/uknowsec) Starred [0xfnzero/parser-proxy-ws](https://github.com/0xfnzero/parser-proxy-ws)
   > A WebSocket proxy server for Solana DEX events based on sol-parser-sdk. Real-time monitoring of DEX ...
+
+### [veaba](https://github.com/veaba)
+- 🌟 👤 [veaba](https://github.com/veaba) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+  > The open-source CapCut alternative
+
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [Shreyas-Penkar/CVE-2024-38399](https://github.com/Shreyas-Penkar/CVE-2024-38399)
+  > PoC for CVE-2024-38399
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su)
+  > A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched mod...
 
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload)
@@ -386,6 +431,8 @@
 ### [zhangkanqi](https://github.com/zhangkanqi)
 - 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [facebookresearch/cwm](https://github.com/facebookresearch/cwm)
   > Research code artifacts for Code World Model (CWM) including inference tools, reproducibility, and d...
+- 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [usestrix/strix](https://github.com/usestrix/strix)
+  > Open-source AI hackers to find and fix your app’s vulnerabilities
 
 ### [zhzyker](https://github.com/zhzyker)
 - 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [florylsk/SignatureGate](https://github.com/florylsk/SignatureGate)
@@ -401,5 +448,5 @@
 
 
 ---
-*最后更新于 2025-09-26 07:39:37 UTC*
+*最后更新于 2025-09-26 08:30:59 UTC*
 *历史记录保存在 `archive` 目录中。*
