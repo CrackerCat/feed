@@ -548,6 +548,7 @@
   > Research code artifacts for Code World Model (CWM) including inference tools, reproducibility, and d...
 - 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > Open-source AI hackers to find and fix your app’s vulnerabilities
+- 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [SYSUSELab/FeedbackEval](https://github.com/SYSUSELab/FeedbackEval)
 
 ### [zhzyker](https://github.com/zhzyker)
 - 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [florylsk/SignatureGate](https://github.com/florylsk/SignatureGate)
@@ -568,8 +569,10 @@
   > :wrench: Deploy customizable Active Directory labs in Azure - automatically.
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [alebov/AD-lab](https://github.com/alebov/AD-lab)
   > An active directory laboratory for penetration testing.
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [0xJs/CRTP-cheatsheet](https://github.com/0xJs/CRTP-cheatsheet)
+  > Cheatsheet for the commands learned in Attack and Defense Active Directory Lab
 
 
 ---
-*最后更新于 2025-09-26 11:18:29 UTC*
+*最后更新于 2025-09-26 11:38:52 UTC*
 *历史记录保存在 `archive` 目录中。*
