@@ -436,6 +436,10 @@
 - 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker)
   > Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automa...
 
+### [pcy190](https://github.com/pcy190)
+- 🌟 👤 [pcy190](https://github.com/pcy190) Starred [Ackee-Blockchain/trident](https://github.com/Ackee-Blockchain/trident)
+  > Rust-based framework to Fuzz Solana programs, designed to help you ship secure code.
+
 ### [pengwei1024](https://github.com/pengwei1024)
 - 🌟 👤 [pengwei1024](https://github.com/pengwei1024) Starred [little51/dinov3-samples](https://github.com/little51/dinov3-samples)
   > dinov3例子
@@ -474,6 +478,10 @@
   > ddddocr rust 版本，ocr_api_server rust 版本，二进制版本，验证码识别，不依赖 opencv 库，跨平台运行，AI MCP 支持，a simple OCR API ser...
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) to [rankalpha/chrome-devtools-mcp](https://github.com/rankalpha/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel)
+  > A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered s...
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [rortega/insmali](https://github.com/rortega/insmali) to [rankalpha/insmali](https://github.com/rankalpha/insmali)
+  > Tool used to inject existing SMALI code used for profiling and debugging 
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🍴 👤 [ravindu644](https://github.com/ravindu644) Forked [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) to [ravindu644/bootloader-unlock-wall-of-shame](https://github.com/ravindu644/bootloader-unlock-wall-of-shame)
@@ -631,5 +639,5 @@
 
 
 ---
-*最后更新于 2025-09-26 15:23:43 UTC*
+*最后更新于 2025-09-26 15:40:53 UTC*
 *历史记录保存在 `archive` 目录中。*
