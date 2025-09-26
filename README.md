@@ -63,6 +63,10 @@
 - 🌟 👤 [HanSolo](https://github.com/HanSolo) Starred [hcoles/voices](https://github.com/hcoles/voices)
   > Fast, in-process text to speech for Java
 
+### [Idov31](https://github.com/Idov31)
+- 🌟 👤 [Idov31](https://github.com/Idov31) Starred [comsec-group/phoenix](https://github.com/comsec-group/phoenix)
+  > Artifacts for "Phoenix: Rowhammer Attacks on DDR5 with Self-Correcting Synchronization" (IEEE S&P '2...
+
 ### [Keyird](https://github.com/Keyird)
 - 🌟 👤 [Keyird](https://github.com/Keyird) Starred [MMMU-Benchmark/MMMU](https://github.com/MMMU-Benchmark/MMMU)
   > This repo contains evaluation code for the paper "MMMU: A Massive Multi-discipline Multimodal Unders...
@@ -169,6 +173,10 @@
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [Guardsquare/proguard](https://github.com/Guardsquare/proguard)
   > ProGuard, Java optimizer and obfuscator
 
+### [duanluan](https://github.com/duanluan)
+- 🌟 👤 [duanluan](https://github.com/duanluan) Starred [georgmangold/console](https://github.com/georgmangold/console)
+  > Console is a  Admin UI for MinIO® Object Storage Server :desktop_computer:
+
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [github/awesome-copilot](https://github.com/github/awesome-copilot)
   > Community-contributed instructions, prompts, and configurations to help you make the most of GitHub ...
@@ -263,6 +271,8 @@
   > The Reliable USB Formatting Utility
 - 🌟 👤 [libra146](https://github.com/libra146) Starred [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
   > Scripts to build a trimmed-down Windows 11 image.
+- 🌟 👤 [libra146](https://github.com/libra146) Starred [gravesoft/msdl](https://github.com/gravesoft/msdl)
+  > Microsoft Software Download Listing
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [Tencent/tdesign](https://github.com/Tencent/tdesign)
@@ -292,7 +302,7 @@
 
 ### [lqqyt2423](https://github.com/lqqyt2423)
 - 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [iKeepLearn/db-back-tool](https://github.com/iKeepLearn/db-back-tool)
-  > postgresql、mysql数据库备份并上传到腾讯云或者阿里云，同时可列出、删除云上存储的备份文件。
+  > postgresql、mysql数据库备份并上传到腾讯云或者阿里云或兼容S3协议的其他云存储，同时可列出、删除云上存储的备份文件。
 
 ### [lurenman](https://github.com/lurenman)
 - 🌟 👤 [lurenman](https://github.com/lurenman) Starred [byxiaorun/Ruru](https://github.com/byxiaorun/Ruru)
@@ -335,6 +345,10 @@
 ### [netxfly](https://github.com/netxfly)
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [crocofied/PortNote](https://github.com/crocofied/PortNote)
   > Keep track of used ports
+
+### [nothing-2333](https://github.com/nothing-2333)
+- 🌟 👤 [nothing-2333](https://github.com/nothing-2333) Starred [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)
+  > :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [kprprivate/EAC-CR3-BYPASS](https://github.com/kprprivate/EAC-CR3-BYPASS)
@@ -503,7 +517,13 @@
 - 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [keecth/FakeCryptoJS](https://github.com/keecth/FakeCryptoJS)
   > CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位置(无视混淆)。SRC和常规渗透神器
 
+### [zinja-coder](https://github.com/zinja-coder)
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [chryzsh/DarthSidious](https://github.com/chryzsh/DarthSidious)
+  > Building an Active Directory domain and hacking it
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [christophetd/Adaz](https://github.com/christophetd/Adaz)
+  > :wrench: Deploy customizable Active Directory labs in Azure - automatically.
+
 
 ---
-*最后更新于 2025-09-26 09:41:37 UTC*
+*最后更新于 2025-09-26 10:24:10 UTC*
 *历史记录保存在 `archive` 目录中。*
