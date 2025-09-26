@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [1c7](https://github.com/1c7)
+- 🌟 👤 [1c7](https://github.com/1c7) Starred [mokeyish/obsidian-enhancing-export](https://github.com/mokeyish/obsidian-enhancing-export)
+  > This is an enhancing export plugin base on Pandoc for Obsidian (https://obsidian.md/ ). It's allow y...
+
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [finanalyzer/openbb_tushare](https://github.com/finanalyzer/openbb_tushare)
   > OpenBB extension for Tushare
@@ -108,6 +112,12 @@
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp)
   > 文颜 MCP Server 可以让 AI 自动将 Markdown 文章排版后发布至微信公众号。
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack) to [fengjixuchui/SetupHijack](https://github.com/fengjixuchui/SetupHijack)
+  > SetupHijack is a security research tool that exploits race conditions and insecure file handling in ...
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [EinTim23/hiddriver360](https://github.com/EinTim23/hiddriver360) to [fengjixuchui/hiddriver360](https://github.com/fengjixuchui/hiddriver360)
+  > Xbox 360 HID controller driver
+
 ### [fgenesis](https://github.com/fgenesis)
 - 🌟 👤 [fgenesis](https://github.com/fgenesis) Starred [frank2/packer-tutorial](https://github.com/frank2/packer-tutorial)
   > A tutorial on how to write a packer for Windows!
@@ -115,6 +125,7 @@
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [doronz88/DeveloperDiskImage](https://github.com/doronz88/DeveloperDiskImage)
   > Home for both DeveloperDiskImage files (iOS < 17.0) and Personalized files (iOS >= 17.0)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [doronz88/ida-scripts](https://github.com/doronz88/ida-scripts)
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) to [gmh5225/nexa-sdk](https://github.com/gmh5225/nexa-sdk)
@@ -133,6 +144,8 @@
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [imputnet/helium](https://github.com/imputnet/helium)
   > Private, fast, and honest web browser
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt)
+  > Disk encryption with strong security based on TrueCrypt
 
 ### [jayli](https://github.com/jayli)
 - 🌟 👤 [jayli](https://github.com/jayli) Starred [jayli/copilot.nvim](https://github.com/jayli/copilot.nvim)
@@ -141,6 +154,10 @@
 ### [jialeicui](https://github.com/jialeicui)
 - 🌟 👤 [jialeicui](https://github.com/jialeicui) Starred [github/copilot-cli](https://github.com/github/copilot-cli)
   > GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
+
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
+  > A cross-platform network monitoring terminal UI tool built with Rust.
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [aigem/comfyui_gemini_nano_banana](https://github.com/aigem/comfyui_gemini_nano_banana)
@@ -230,6 +247,10 @@
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)
   > 基于eBPF的堆栈追踪工具
 
+### [su-vikas](https://github.com/su-vikas)
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
+  > Multi-architecture emulation for the modern era.
+
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)
   > Generate a timeline of your day, automatically
@@ -262,5 +283,5 @@
 
 
 ---
-*最后更新于 2025-09-26 04:44:03 UTC*
+*最后更新于 2025-09-26 05:22:08 UTC*
 *历史记录保存在 `archive` 目录中。*
