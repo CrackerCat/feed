@@ -250,11 +250,19 @@
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [aigem/comfyui_gemini_nano_banana](https://github.com/aigem/comfyui_gemini_nano_banana)
   > 支持Gemini原生格式的 Nano Banana ComfyUI API 节点【附实惠稳定API用法】
 
+### [lemuellew](https://github.com/lemuellew)
+- 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [antgroup/YASA-Engine](https://github.com/antgroup/YASA-Engine)
+  >  YASA is an open-source static program analysis project. Its core innovation lies in a unified inter...
+- 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [antgroup/YASA-UAST](https://github.com/antgroup/YASA-UAST)
+  > YASA-UAST is an intermediate representation structure for multi-language program analysis. The UAST-...
+
 ### [libra146](https://github.com/libra146)
 - 🌟 👤 [libra146](https://github.com/libra146) Starred [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
   > A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as ...
 - 🌟 👤 [libra146](https://github.com/libra146) Starred [pbatard/rufus](https://github.com/pbatard/rufus)
   > The Reliable USB Formatting Utility
+- 🌟 👤 [libra146](https://github.com/libra146) Starred [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+  > Scripts to build a trimmed-down Windows 11 image.
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [Tencent/tdesign](https://github.com/Tencent/tdesign)
@@ -269,6 +277,8 @@
   > Free online Design Editor.
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [cfour-hi/sky](https://github.com/cfour-hi/sky)
   > 图片编辑器，PSD 解析、还原、图层交互。@稿定设计
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+  > Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, ...
 
 ### [lmhMike](https://github.com/lmhMike)
 - 🌟 👤 [lmhMike](https://github.com/lmhMike) Starred [feicong/android-rom-book](https://github.com/feicong/android-rom-book)
@@ -467,6 +477,10 @@
 - ✨ 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Created new repo [yizhiyonggangdexiaojia/lsplant_skip](https://github.com/yizhiyonggangdexiaojia/lsplant_skip)
   > Skip relevant detection logic when executing application-level apps
 
+### [yulate](https://github.com/yulate)
+- 🌟 👤 [yulate](https://github.com/yulate) Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
+  > Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus...
+
 ### [zhanghecn](https://github.com/zhanghecn)
 - 🍴 👤 [zhanghecn](https://github.com/zhanghecn) Forked [Laffinty/wbazi.js](https://github.com/Laffinty/wbazi.js) to [zhanghecn/wbazi.js](https://github.com/zhanghecn/wbazi.js)
   > 八字命理工具集
@@ -491,5 +505,5 @@
 
 
 ---
-*最后更新于 2025-09-26 09:24:51 UTC*
+*最后更新于 2025-09-26 09:41:37 UTC*
 *历史记录保存在 `archive` 目录中。*
