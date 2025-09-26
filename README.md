@@ -154,6 +154,10 @@
 - 🌟 👤 [RicardoJiang](https://github.com/RicardoJiang) Starred [crowforkotlin/mordecaix](https://github.com/crowforkotlin/mordecaix)
   > 🐦‍⬛ mordecaix is compose multiplatform application
 
+### [RicterZ](https://github.com/RicterZ)
+- 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [OikuraAmatsume/mapannai-public](https://github.com/OikuraAmatsume/mapannai-public) to [RicterZ/mapannai-public](https://github.com/RicterZ/mapannai-public)
+  > マップ案内 - 交互式地图编辑器
+
 ### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
 - 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [horizon3ai/CVE-2023-27532](https://github.com/horizon3ai/CVE-2023-27532)
   > POC for Veeam Backup and Replication CVE-2023-27532
@@ -204,6 +208,12 @@
 ### [YuKongA](https://github.com/YuKongA)
 - 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [hegaojian/JetpackMvvm](https://github.com/hegaojian/JetpackMvvm)
   > :chicken::basketball:一个Jetpack结合MVVM的快速开发框架，基于MVVM模式集成谷歌官方推荐的JetPack组件库：LiveData、ViewModel、Lifecycle...
+
+### [ZiJianTao](https://github.com/ZiJianTao)
+- 🌟 👤 [ZiJianTao](https://github.com/ZiJianTao) Starred [CrackerCat/AndroidKillerx](https://github.com/CrackerCat/AndroidKillerx)
+  > 基于Android killer 1.3.1 修改
+- 🌟 👤 [ZiJianTao](https://github.com/ZiJianTao) Starred [CrackerCat/Rootsmart-v2.0](https://github.com/CrackerCat/Rootsmart-v2.0)
+  > Android Ransomware Development - AES256 encryption + CVE-2019-2215 (reverse root shell) + Data Exfil...
 
 ### [acheong08](https://github.com/acheong08)
 - ✨ 👤 [acheong08](https://github.com/acheong08) Created new repo [acheong08/bcachefs-tools](https://github.com/acheong08/bcachefs-tools)
@@ -281,8 +291,6 @@
   > Console is a  Admin UI for MinIO® Object Storage Server :desktop_computer:
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
-- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [github/awesome-copilot](https://github.com/github/awesome-copilot)
-  > Community-contributed instructions, prompts, and configurations to help you make the most of GitHub ...
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [changhongyan123/context_aware_mia](https://github.com/changhongyan123/context_aware_mia)
   > Official code for the paper "Context-aware Membership Inference Attacks against Pre-trained Models",...
 
@@ -684,8 +692,6 @@
   > 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [damian0815/compel](https://github.com/damian0815/compel)
-  > A prompting enhancement library for transformers-type text embedding systems
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [asagi4/comfyui-prompt-control](https://github.com/asagi4/comfyui-prompt-control)
   > ComfyUI nodes for prompt editing and LoRA control
 
@@ -778,5 +784,5 @@
 
 
 ---
-*最后更新于 2025-09-26 20:23:54 UTC*
+*最后更新于 2025-09-26 20:40:51 UTC*
 *历史记录保存在 `archive` 目录中。*
