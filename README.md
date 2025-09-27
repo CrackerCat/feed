@@ -96,6 +96,10 @@
 - 🍴 👤 [Hexorg](https://github.com/Hexorg) Forked [teabound/egui-cfg](https://github.com/teabound/egui-cfg) to [Hexorg/egui-cfg](https://github.com/Hexorg/egui-cfg)
   > egui library for displaying control flow graphs using petgraph.
 
+### [Howard20181](https://github.com/Howard20181)
+- 🌟 👤 [Howard20181](https://github.com/Howard20181) Starred [supremegamers/vendor_google_proprietary_ndk_translation-prebuilt](https://github.com/supremegamers/vendor_google_proprietary_ndk_translation-prebuilt)
+  > Prebuilt of Google's ndk_translation native bridge
+
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [maxDcb/C2TeamServer](https://github.com/maxDcb/C2TeamServer)
   > TeamServer and Client of Exploration Command and Control Framework
@@ -137,6 +141,10 @@
   > A WIP World Converter and Parser for Minecraft 3DS
 - 🌟 👤 [N3rdL0rd](https://github.com/N3rdL0rd) Starred [MC3DS-Save-Research/MC3DS-Save-Analysis](https://github.com/MC3DS-Save-Research/MC3DS-Save-Analysis)
   > Preliminary analysis on the extra data save files for Minecraft: New Nintendo 3DS Edition
+
+### [NepMods](https://github.com/NepMods)
+- ✨ 👤 [NepMods](https://github.com/NepMods) Created new repo [NepMods/echo](https://github.com/NepMods/echo)
+  > A Shazam Algorithm Recreation (Tried Whatever i could) in pure c. 
 
 ### [Nero22k](https://github.com/Nero22k)
 - 🌟 👤 [Nero22k](https://github.com/Nero22k) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
@@ -236,7 +244,7 @@
 
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
-  > The best way to get AI to solve hard problems in complex codebases.
+  > The best way to get AI coding agents to solve hard problems in complex codebases.
 
 ### [chickendrop89](https://github.com/chickendrop89)
 - 🌟 👤 [chickendrop89](https://github.com/chickendrop89) Starred [BepInEx/BepInEx](https://github.com/BepInEx/BepInEx)
@@ -287,6 +295,9 @@
 ### [elnormous](https://github.com/elnormous)
 - 🌟 👤 [elnormous](https://github.com/elnormous) Starred [Alucard24/Rope](https://github.com/Alucard24/Rope)
   > GUI-focused roop
+
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [antgroup/FluidMarkdown](https://github.com/antgroup/FluidMarkdown)
 
 ### [evets007](https://github.com/evets007)
 - ✨ 👤 [evets007](https://github.com/evets007) Created new repo [Aqualia/context](https://github.com/Aqualia/context)
@@ -404,6 +415,12 @@
   > postgresql、mysql数据库备份并上传到腾讯云或者阿里云或兼容S3协议的其他云存储，同时可列出、删除云上存储的备份文件。
 - 🌟 👤 [lightless233](https://github.com/lightless233) Starred [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
   > A cross-platform network monitoring terminal UI tool built with Rust.
+
+### [likle](https://github.com/likle)
+- 🌟 👤 [likle](https://github.com/likle) Starred [fabiencro/knmt](https://github.com/fabiencro/knmt)
+  > A Neural Machine Translation implementation in Chainer
+- 🌟 👤 [likle](https://github.com/likle) Starred [mptre/knfmt](https://github.com/mptre/knfmt)
+  > kernel normal form formatter
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [morningsky/NTU-ReinforcementLearning-Notes](https://github.com/morningsky/NTU-ReinforcementLearning-Notes)
@@ -557,6 +574,9 @@
 - 🌟 👤 [safe6Sec](https://github.com/safe6Sec) Starred [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)
   > Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Troja...
 
+### [sion-codin](https://github.com/sion-codin)
+- ✨ 👤 [sion-codin](https://github.com/sion-codin) Created new repo [cuts-app/cuts-releases](https://github.com/cuts-app/cuts-releases)
+
 ### [smallzhong](https://github.com/smallzhong)
 - 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
   > 人人都能用英语
@@ -616,7 +636,7 @@
 
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
-  > The best way to get AI to solve hard problems in complex codebases.
+  > The best way to get AI coding agents to solve hard problems in complex codebases.
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [apple/ml-simplefold](https://github.com/apple/ml-simplefold)
 
 ### [wonderkun](https://github.com/wonderkun)
@@ -657,5 +677,5 @@
 
 
 ---
-*最后更新于 2025-09-27 20:22:14 UTC*
+*最后更新于 2025-09-27 20:39:57 UTC*
 *历史记录保存在 `archive` 目录中。*
