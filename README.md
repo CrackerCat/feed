@@ -166,8 +166,6 @@
 - ✨ 👤 [NtDallas](https://github.com/NtDallas) Created new repo [NtDallas/Kernel-Evasion](https://github.com/NtDallas/Kernel-Evasion)
 
 ### [P4nda0s](https://github.com/P4nda0s)
-- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [smallkirby/kernelpwn](https://github.com/smallkirby/kernelpwn)
-  > kernel-pwn and writeup collection
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [labring/laf](https://github.com/labring/laf)
   > Laf is a vibrant cloud development platform that provides essential tools like cloud functions, data...
 
@@ -225,6 +223,10 @@
 ### [aadog](https://github.com/aadog)
 - ✨ 👤 [aadog](https://github.com/aadog) Created new repo [aadog/aadog.DevExtreme.AspNet.Core](https://github.com/aadog/aadog.DevExtreme.AspNet.Core)
 - ✨ 👤 [aadog](https://github.com/aadog) Created new repo [aadog/aadog.Identity.UI](https://github.com/aadog/aadog.Identity.UI)
+
+### [abdihaikal](https://github.com/abdihaikal)
+- 🌟 👤 [abdihaikal](https://github.com/abdihaikal) Starred [redis/go-redis](https://github.com/redis/go-redis)
+  > Redis Go client
 
 ### [alternoegraha](https://github.com/alternoegraha)
 - 🌟 👤 [alternoegraha](https://github.com/alternoegraha) Starred [imputnet/helium](https://github.com/imputnet/helium)
@@ -363,6 +365,7 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [SalesforceAIResearch/UserRL](https://github.com/SalesforceAIResearch/UserRL) to [gmh5225/UserRL](https://github.com/gmh5225/UserRL)
   > The raw UserRL repo under construction
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [CAU-ISS-Lab/AIGT-Detection-Evade-Detection](https://github.com/CAU-ISS-Lab/AIGT-Detection-Evade-Detection) to [gmh5225/AIGT-Detection-Evade-Detection](https://github.com/gmh5225/AIGT-Detection-Evade-Detection)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [storycraft/GetKakaoField](https://github.com/storycraft/GetKakaoField) to [gmh5225/GetKakaoField](https://github.com/gmh5225/GetKakaoField)
 
 ### [h3xduck](https://github.com/h3xduck)
 - 🌟 👤 [h3xduck](https://github.com/h3xduck) Starred [iamavu/vr-rev-jobs](https://github.com/iamavu/vr-rev-jobs)
@@ -402,6 +405,7 @@
 
 ### [jaywcjlove](https://github.com/jaywcjlove)
 - ✨ 👤 [jaywcjlove](https://github.com/jaywcjlove) Created new repo [jaywcjlove/vidwall-hub](https://github.com/jaywcjlove/vidwall-hub)
+- 🌟 👤 [jaywcjlove](https://github.com/jaywcjlove) Starred [jaywcjlove/vidwall-hub](https://github.com/jaywcjlove/vidwall-hub)
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
@@ -573,15 +577,13 @@
   > Cross-platform instrumentation and introspection library written in C
 
 ### [reveng007](https://github.com/reveng007)
-- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [drb-ra/C2IntelFeeds](https://github.com/drb-ra/C2IntelFeeds)
-  > Automatically created C2 Feeds
-- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [mthcht/Purpleteam](https://github.com/mthcht/Purpleteam)
-  > Purpleteam scripts simulation & Detection - trigger events for SOC detections
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack)
   > SetupHijack is a security research tool that exploits race conditions and insecure file handling in ...
 
 ### [ricardojoserf](https://github.com/ricardojoserf)
 - 🌟 👤 [ricardojoserf](https://github.com/ricardojoserf) Starred [CCob/Volumiser](https://github.com/CCob/Volumiser)
+- 🌟 👤 [ricardojoserf](https://github.com/ricardojoserf) Starred [docusealco/docuseal](https://github.com/docusealco/docuseal)
+  > Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 
 ### [rushiiMachine](https://github.com/rushiiMachine)
 - 🍴 👤 [rushiiMachine](https://github.com/rushiiMachine) Forked [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) to [rushiiMachine/Discord3rdparties](https://github.com/rushiiMachine/Discord3rdparties)
@@ -702,5 +704,5 @@
 
 
 ---
-*最后更新于 2025-09-27 21:38:53 UTC*
+*最后更新于 2025-09-27 22:19:13 UTC*
 *历史记录保存在 `archive` 目录中。*
