@@ -35,6 +35,8 @@
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [SiriusArc7/TD2_GARL](https://github.com/SiriusArc7/TD2_GARL)
   > test repository
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [WFCD/warframe.rs](https://github.com/WFCD/warframe.rs)
+  > An async crate to interact with the warframestat.us and the warframe.market API.
 
 ### [DerekSelander](https://github.com/DerekSelander)
 - 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [kormax/apple-vas](https://github.com/kormax/apple-vas)
@@ -48,6 +50,10 @@
 
 ### [FunnyWolf](https://github.com/FunnyWolf)
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [SiriusScan/Sirius](https://github.com/SiriusScan/Sirius)
+
+### [Grigory-Rylov](https://github.com/Grigory-Rylov)
+- 🍴 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Forked [greengrocer98/keyatura_split](https://github.com/greengrocer98/keyatura_split) to [Grigory-Rylov/keyatura_split](https://github.com/Grigory-Rylov/keyatura_split)
+  > ZMK config for keyatura split
 
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [maxDcb/C2TeamServer](https://github.com/maxDcb/C2TeamServer)
@@ -186,6 +192,10 @@
 - 🌟 👤 [kernelzeroday](https://github.com/kernelzeroday) Starred [UlfarErl/lampgpt](https://github.com/UlfarErl/lampgpt)
   > An LLM-enchanced Infocom Experience
 
+### [laozig](https://github.com/laozig)
+- 🌟 👤 [laozig](https://github.com/laozig) Starred [lkmvip/netflix-4K-DDplus](https://github.com/lkmvip/netflix-4K-DDplus)
+  > MicrosoftEdge(Chromium core) extension to play Netflix in 4K（Restricted）and DDplus audio
+
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [morningsky/NTU-ReinforcementLearning-Notes](https://github.com/morningsky/NTU-ReinforcementLearning-Notes)
   > 国立台湾大学李宏毅老师讲解的深度强化学习学习笔记
@@ -274,6 +284,8 @@
   > Process Android Memory Dumper
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [freakishfox/xAnSo](https://github.com/freakishfox/xAnSo) to [rankalpha/xAnSo](https://github.com/rankalpha/xAnSo)
   > Android So文件浏览修复工具
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) to [rankalpha/linux-insides-zh](https://github.com/rankalpha/linux-insides-zh)
+  > Linux 内核揭秘
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [ltsdw/gofile-downloader](https://github.com/ltsdw/gofile-downloader)
@@ -290,6 +302,8 @@
   > Automatically created C2 Feeds
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [mthcht/Purpleteam](https://github.com/mthcht/Purpleteam)
   > Purpleteam scripts simulation & Detection - trigger events for SOC detections
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [hackerhouse-opensource/SetupHijack](https://github.com/hackerhouse-opensource/SetupHijack)
+  > SetupHijack is a security research tool that exploits race conditions and insecure file handling in ...
 
 ### [ricardojoserf](https://github.com/ricardojoserf)
 - 🌟 👤 [ricardojoserf](https://github.com/ricardojoserf) Starred [CCob/Volumiser](https://github.com/CCob/Volumiser)
@@ -334,6 +348,9 @@
 - 🌟 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Starred [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
   > 中国程序员容易发音错误的单词
 
+### [xiaolai](https://github.com/xiaolai)
+- ✨ 👤 [xiaolai](https://github.com/xiaolai) Created new repo [xiaolai/tepub](https://github.com/xiaolai/tepub)
+
 ### [yhs0602](https://github.com/yhs0602)
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [mrkite/TerraFirma](https://github.com/mrkite/TerraFirma)
   > Mapping for Terraria
@@ -348,5 +365,5 @@
 
 
 ---
-*最后更新于 2025-09-27 16:25:35 UTC*
+*最后更新于 2025-09-27 16:42:16 UTC*
 *历史记录保存在 `archive` 目录中。*
