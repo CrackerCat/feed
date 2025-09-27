@@ -4,11 +4,18 @@
 
 ## 今日动态
 
+### [AnkioTomas](https://github.com/AnkioTomas)
+- 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+  > The open-source CapCut alternative
+
 ### [FlyingYu-Z](https://github.com/FlyingYu-Z)
 - 🌟 👤 [FlyingYu-Z](https://github.com/FlyingYu-Z) Starred [jamesmth/llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs)
   > Out-of-tree LLVM passes in Rust
 - 🌟 👤 [FlyingYu-Z](https://github.com/FlyingYu-Z) Starred [vizia/vizia](https://github.com/vizia/vizia)
   > A declarative GUI library written in Rust
+
+### [FunnyWolf](https://github.com/FunnyWolf)
+- 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [SiriusScan/Sirius](https://github.com/SiriusScan/Sirius)
 
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [maxDcb/C2TeamServer](https://github.com/maxDcb/C2TeamServer)
@@ -24,6 +31,10 @@
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [Super12138/ToDo](https://github.com/Super12138/ToDo)
   > 一个简单的、遵循 Material Design 3 的待办应用，使用 Jetpack Compose 编写 | A simple to-do app that follows Material De...
 
+### [X1r0z](https://github.com/X1r0z)
+- 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [LandGrey/copagent](https://github.com/LandGrey/copagent)
+  > java memory web shell extracting tool
+
 ### [alternoegraha](https://github.com/alternoegraha)
 - 🌟 👤 [alternoegraha](https://github.com/alternoegraha) Starred [imputnet/helium](https://github.com/imputnet/helium)
   > Private, fast, and honest web browser
@@ -36,9 +47,17 @@
 - 🌟 👤 [apsun](https://github.com/apsun) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
   > LLM inference in C/C++
 
+### [boy-hack](https://github.com/boy-hack)
+- 🌟 👤 [boy-hack](https://github.com/boy-hack) Starred [cloudwego/eino](https://github.com/cloudwego/eino)
+  > The ultimate LLM/AI application development framework in Golang.
+
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [zesterer/flume](https://github.com/zesterer/flume)
   > A safe and fast multi-producer, multi-consumer channel.
+
+### [codingsf](https://github.com/codingsf)
+- 🌟 👤 [codingsf](https://github.com/codingsf) Starred [ansible/ansible](https://github.com/ansible/ansible)
+  > Ansible is a radically simple IT automation platform that makes your applications and systems easier...
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [oop7/YTSage](https://github.com/oop7/YTSage)
@@ -63,6 +82,13 @@
   > 🚥 Native-looking window controls for Tauri 2. React, Solid, Vue, Svelte+Tailwind.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [agmmnn/turkish-nlp-resources](https://github.com/agmmnn/turkish-nlp-resources) to [gmh5225/turkish-nlp-resources](https://github.com/gmh5225/turkish-nlp-resources)
   > 🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish NLP.
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)
+  > Open Source TypeScript AI Agent Framework
+
+### [huoji120](https://github.com/huoji120)
+- 🌟 👤 [huoji120](https://github.com/huoji120) Starred [lotsofs/livesplit-asl](https://github.com/lotsofs/livesplit-asl)
+  > asl files for livesplit (autosplitters, load removal, whatnot)
+- 🌟 👤 [huoji120](https://github.com/huoji120) Starred [changlan/Age_of_Empires_II_Definitive-Edition-SDK](https://github.com/changlan/Age_of_Empires_II_Definitive-Edition-SDK)
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
@@ -125,6 +151,10 @@
   > State-of-the-art native debugging tools
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [idyll5988/APatch-KSU-Partition-Read-Write](https://github.com/idyll5988/APatch-KSU-Partition-Read-Write) to [rankalpha/APatch-KSU-Partition-Read-Write](https://github.com/rankalpha/APatch-KSU-Partition-Read-Write)
   > APatch and KSU make direct modification of system partitions readable and writable via OverlayFS
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [YasserNull/img-flasher](https://github.com/YasserNull/img-flasher) to [rankalpha/img-flasher](https://github.com/rankalpha/img-flasher)
+  > Img Flasher : flash , extract , unpack , repack img files
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [paazmaya/shuji](https://github.com/paazmaya/shuji)
+  > Reverse engineering JavaScript and CSS sources from sourcemaps
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [frida/frida-gum](https://github.com/frida/frida-gum)
@@ -153,5 +183,5 @@
 
 
 ---
-*最后更新于 2025-09-27 13:23:32 UTC*
+*最后更新于 2025-09-27 13:38:36 UTC*
 *历史记录保存在 `archive` 目录中。*
