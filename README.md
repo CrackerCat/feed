@@ -16,6 +16,10 @@
 - ✨ 👤 [Alex313031](https://github.com/Alex313031) Created new repo [Alex313031/win7-samples](https://github.com/Alex313031/win7-samples)
   > Win7 Sample C++ Win32 code from https://github.com/microsoft/Windows-classic-samples
 
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [iChochy/NCE](https://github.com/iChochy/NCE)
+  > 《新概念英语》全四册在线课文朗读、单句点读
+
 ### [AnkioTomas](https://github.com/AnkioTomas)
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
   > The open-source CapCut alternative
@@ -64,6 +68,12 @@
   > TeamServer and Client of Exploration Command and Control Framework
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [soot-oss/soot](https://github.com/soot-oss/soot)
   > Soot - A Java optimization framework
+
+### [KingJA](https://github.com/KingJA)
+- 🌟 👤 [KingJA](https://github.com/KingJA) Starred [msterzhang/onelist](https://github.com/msterzhang/onelist)
+  > 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
+- 🌟 👤 [KingJA](https://github.com/KingJA) Starred [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot)
+  > NAS媒体库自动化管理工具
 
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - ✨ 👤 [Moe-hacker](https://github.com/Moe-hacker) Created new repo [RuriOSS/rurima-aio](https://github.com/RuriOSS/rurima-aio)
@@ -201,6 +211,10 @@
 ### [kernelzeroday](https://github.com/kernelzeroday)
 - 🌟 👤 [kernelzeroday](https://github.com/kernelzeroday) Starred [UlfarErl/lampgpt](https://github.com/UlfarErl/lampgpt)
   > An LLM-enchanced Infocom Experience
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [iamthefrogy/frogy2.0](https://github.com/iamthefrogy/frogy2.0)
+  > Frogy 2.0 is an automated external reconnaissance and Attack Surface Management (ASM) toolkit
 
 ### [laozig](https://github.com/laozig)
 - 🌟 👤 [laozig](https://github.com/laozig) Starred [lkmvip/netflix-4K-DDplus](https://github.com/lkmvip/netflix-4K-DDplus)
@@ -349,6 +363,10 @@
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma)
   > Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with c...
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [capstone-rust/capstone-rs](https://github.com/capstone-rust/capstone-rs)
+  > High-level Capstone system bindings for Rust
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [wargio/r2dec-js](https://github.com/wargio/r2dec-js)
+  > r2dec-js is a JavaScript-based decompiler that converts assembly code into pseudo-C. It aids users i...
 
 ### [tranleduy2000](https://github.com/tranleduy2000)
 - 🌟 👤 [tranleduy2000](https://github.com/tranleduy2000) Starred [instantX-research/InstantStyle](https://github.com/instantX-research/InstantStyle)
@@ -385,5 +403,5 @@
 
 
 ---
-*最后更新于 2025-09-27 17:17:00 UTC*
+*最后更新于 2025-09-27 17:38:00 UTC*
 *历史记录保存在 `archive` 目录中。*
