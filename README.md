@@ -26,6 +26,9 @@
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [iChochy/NCE](https://github.com/iChochy/NCE)
   > 《新概念英语》全四册在线课文朗读、单句点读
 
+### [And42](https://github.com/And42)
+- ✨ 👤 [And42](https://github.com/And42) Created new repo [And42/v8-android](https://github.com/And42/v8-android)
+
 ### [AnkioTomas](https://github.com/AnkioTomas)
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
   > The open-source CapCut alternative
@@ -125,6 +128,12 @@
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [uutils/coreutils](https://github.com/uutils/coreutils)
   > Cross-platform Rust rewrite of the GNU coreutils
 
+### [N3rdL0rd](https://github.com/N3rdL0rd)
+- 🌟 👤 [N3rdL0rd](https://github.com/N3rdL0rd) Starred [MC3DS-Save-Research/3DS-Chunker](https://github.com/MC3DS-Save-Research/3DS-Chunker)
+  > A WIP World Converter and Parser for Minecraft 3DS
+- 🌟 👤 [N3rdL0rd](https://github.com/N3rdL0rd) Starred [MC3DS-Save-Research/MC3DS-Save-Analysis](https://github.com/MC3DS-Save-Research/MC3DS-Save-Analysis)
+  > Preliminary analysis on the extra data save files for Minecraft: New Nintendo 3DS Edition
+
 ### [Nero22k](https://github.com/Nero22k)
 - 🌟 👤 [Nero22k](https://github.com/Nero22k) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
   > Windows protocol library, including SMB and RPC implementations, among others.
@@ -163,6 +172,14 @@
 - 🌟 👤 [U039b](https://github.com/U039b) Starred [FiloSottile/age](https://github.com/FiloSottile/age)
   > A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config opt...
 
+### [VonChange](https://github.com/VonChange)
+- 🌟 👤 [VonChange](https://github.com/VonChange) Starred [nightmare-space/adb_kit](https://github.com/nightmare-space/adb_kit)
+  > A Better ADB GUI and More Than a ADB GUI
+- 🌟 👤 [VonChange](https://github.com/VonChange) Starred [cgutman/AdbLib](https://github.com/cgutman/AdbLib)
+  > A Java library implementation of the ADB network protocol
+- 🌟 👤 [VonChange](https://github.com/VonChange) Starred [Jellepepe/flutter_adb](https://github.com/Jellepepe/flutter_adb)
+  > Native dart implementation of a network ADB (Android Debug Bridge) client.
+
 ### [X1r0z](https://github.com/X1r0z)
 - 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [LandGrey/copagent](https://github.com/LandGrey/copagent)
   > java memory web shell extracting tool
@@ -171,6 +188,7 @@
 
 ### [aadog](https://github.com/aadog)
 - ✨ 👤 [aadog](https://github.com/aadog) Created new repo [aadog/aadog.DevExtreme.AspNet.Core](https://github.com/aadog/aadog.DevExtreme.AspNet.Core)
+- ✨ 👤 [aadog](https://github.com/aadog) Created new repo [aadog/aadog.Identity.UI](https://github.com/aadog/aadog.Identity.UI)
 
 ### [alternoegraha](https://github.com/alternoegraha)
 - 🌟 👤 [alternoegraha](https://github.com/alternoegraha) Starred [imputnet/helium](https://github.com/imputnet/helium)
@@ -237,6 +255,10 @@
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools)
   > A bazel BUILD file formatter and editor
+
+### [elnormous](https://github.com/elnormous)
+- 🌟 👤 [elnormous](https://github.com/elnormous) Starred [Alucard24/Rope](https://github.com/Alucard24/Rope)
+  > GUI-focused roop
 
 ### [evets007](https://github.com/evets007)
 - ✨ 👤 [evets007](https://github.com/evets007) Created new repo [Aqualia/context](https://github.com/Aqualia/context)
@@ -382,6 +404,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nkanaev/yarr](https://github.com/nkanaev/yarr)
   > yet another rss reader
 
+### [mudongliang](https://github.com/mudongliang)
+- 🌟 👤 [mudongliang](https://github.com/mudongliang) Starred [hust-open-atom-club/software-security-materials](https://github.com/hust-open-atom-club/software-security-materials)
+  > Materials related to Software Security Courses at HUST CSE
+
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [sdex/ActivityManager](https://github.com/sdex/ActivityManager)
   > Launch any application activity
@@ -413,6 +439,10 @@
 ### [pengwei1024](https://github.com/pengwei1024)
 - 🌟 👤 [pengwei1024](https://github.com/pengwei1024) Starred [wentiancanye/clipboardcli](https://github.com/wentiancanye/clipboardcli)
   > 命令行剪贴板管理工具
+
+### [qwq233](https://github.com/qwq233)
+- 🌟 👤 [qwq233](https://github.com/qwq233) Starred [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
+  > Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure...
 
 ### [r00tuser111](https://github.com/r00tuser111)
 - 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
@@ -564,6 +594,10 @@
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [mrkite/TerraFirma](https://github.com/mrkite/TerraFirma)
   > Mapping for Terraria
 
+### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
+- 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [yizhiyonggangdexiaojia/lsplant_skip](https://github.com/yizhiyonggangdexiaojia/lsplant_skip)
+  > Skip relevant detection logic when executing application-level apps
+
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust)
   > Cap'n Proto for Rust
@@ -578,5 +612,5 @@
 
 
 ---
-*最后更新于 2025-09-27 19:16:12 UTC*
+*最后更新于 2025-09-27 19:38:42 UTC*
 *历史记录保存在 `archive` 目录中。*
