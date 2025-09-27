@@ -266,6 +266,10 @@
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [typst/typst](https://github.com/typst/typst)
   > A new markup-based typesetting system that is powerful and easy to learn.
 
+### [dahvidhill](https://github.com/dahvidhill)
+- 🌟 👤 [dahvidhill](https://github.com/dahvidhill) Starred [CrackerCat/video_decrypter](https://github.com/CrackerCat/video_decrypter)
+  > Decrypt video from a streaming site with MPEG-DASH Widevine DRM encryption.
+
 ### [darkskygit](https://github.com/darkskygit)
 - 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [pmndrs/koota](https://github.com/pmndrs/koota)
   > 🌎 Performant real-time state management for React and TypeScript
@@ -281,6 +285,10 @@
 ### [dstmath](https://github.com/dstmath)
 - 🍴 👤 [dstmath](https://github.com/dstmath) Forked [qianshe/augment-token-manager-worker](https://github.com/qianshe/augment-token-manager-worker) to [dstmath/augment-token-manager-worker](https://github.com/dstmath/augment-token-manager-worker)
   > cf可部署的augManager
+
+### [duanluan](https://github.com/duanluan)
+- 🌟 👤 [duanluan](https://github.com/duanluan) Starred [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
+  > PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL...
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [antlr/grammars-v4](https://github.com/antlr/grammars-v4)
@@ -298,6 +306,7 @@
 
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [antgroup/FluidMarkdown](https://github.com/antgroup/FluidMarkdown)
+- 🍴 👤 [everettjf](https://github.com/everettjf) Forked [antgroup/FluidMarkdown](https://github.com/antgroup/FluidMarkdown) to [everettjf/FluidMarkdown](https://github.com/everettjf/FluidMarkdown)
 
 ### [evets007](https://github.com/evets007)
 - ✨ 👤 [evets007](https://github.com/evets007) Created new repo [Aqualia/context](https://github.com/Aqualia/context)
@@ -349,6 +358,7 @@
   > SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [SalesforceAIResearch/UserRL](https://github.com/SalesforceAIResearch/UserRL) to [gmh5225/UserRL](https://github.com/gmh5225/UserRL)
   > The raw UserRL repo under construction
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [CAU-ISS-Lab/AIGT-Detection-Evade-Detection](https://github.com/CAU-ISS-Lab/AIGT-Detection-Evade-Detection) to [gmh5225/AIGT-Detection-Evade-Detection](https://github.com/gmh5225/AIGT-Detection-Evade-Detection)
 
 ### [h3xduck](https://github.com/h3xduck)
 - 🌟 👤 [h3xduck](https://github.com/h3xduck) Starred [iamavu/vr-rev-jobs](https://github.com/iamavu/vr-rev-jobs)
@@ -385,6 +395,9 @@
 ### [iAklis](https://github.com/iAklis)
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [rk8s-dev/rk8s](https://github.com/rk8s-dev/rk8s)
   > A Lite Version of Kubernetes in Rust
+
+### [jaywcjlove](https://github.com/jaywcjlove)
+- ✨ 👤 [jaywcjlove](https://github.com/jaywcjlove) Created new repo [jaywcjlove/vidwall-hub](https://github.com/jaywcjlove/vidwall-hub)
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
@@ -677,5 +690,5 @@
 
 
 ---
-*最后更新于 2025-09-27 20:39:57 UTC*
+*最后更新于 2025-09-27 21:17:59 UTC*
 *历史记录保存在 `archive` 目录中。*
