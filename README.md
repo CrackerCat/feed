@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [AabyssZG](https://github.com/AabyssZG)
+- 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports)
+  > Top disclosed reports from HackerOne
+
 ### [Ackites](https://github.com/Ackites)
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd)
   > x-cmd: Bootstrap 1000+ command line tools in seconds.
@@ -21,6 +25,8 @@
   > A conda tool to work with multiple projects in development mode.
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [adamchainz/apig-wsgi](https://github.com/adamchainz/apig-wsgi)
   > Wrap a WSGI application in an AWS Lambda handler function for running on API Gateway or an ALB.
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [jbradberry/universe](https://github.com/jbradberry/universe)
+  > A space 4X turn-based strategy game
 
 ### [CTF-Archives](https://github.com/CTF-Archives)
 - 🚀 👤 [CTF-Archives](https://github.com/CTF-Archives) Made [CTF-Archives/2025-SDNISC-haixuan](https://github.com/CTF-Archives/2025-SDNISC-haixuan) public
@@ -58,6 +64,8 @@
   > 收集最新漏洞POC（Yaml\Python）
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [eclipse-mat/mat](https://github.com/eclipse-mat/mat)
   > The Eclipse Memory Analyzer is a fast and feature-rich Java heap dump analyzer that helps you find m...
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [aws/amazon-ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector)
+  > A CLI tool and go library which recommends instance types based on resource criteria like vcpus and ...
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [smallkirby/kernelpwn](https://github.com/smallkirby/kernelpwn)
@@ -67,6 +75,9 @@
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [khanhduytran0/Sim26Booter](https://github.com/khanhduytran0/Sim26Booter)
   > Attempt to boot iOS 26 simulator on iOS 16 (WIP)
 
+### [PushpenderIndia](https://github.com/PushpenderIndia)
+- ✨ 👤 [PushpenderIndia](https://github.com/PushpenderIndia) Created new repo [PushpenderIndia/test](https://github.com/PushpenderIndia/test)
+
 ### [Super12138](https://github.com/Super12138)
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [Super12138/ToDo](https://github.com/Super12138/ToDo)
   > 一个简单的、遵循 Material Design 3 的待办应用，使用 Jetpack Compose 编写 | A simple to-do app that follows Material De...
@@ -74,6 +85,9 @@
 ### [X1r0z](https://github.com/X1r0z)
 - 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [LandGrey/copagent](https://github.com/LandGrey/copagent)
   > java memory web shell extracting tool
+
+### [aadog](https://github.com/aadog)
+- ✨ 👤 [aadog](https://github.com/aadog) Created new repo [aadog/aadog.DevExtreme.AspNet.Core](https://github.com/aadog/aadog.DevExtreme.AspNet.Core)
 
 ### [alternoegraha](https://github.com/alternoegraha)
 - 🌟 👤 [alternoegraha](https://github.com/alternoegraha) Starred [imputnet/helium](https://github.com/imputnet/helium)
@@ -145,6 +159,10 @@
 - 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)
   > Open Source TypeScript AI Agent Framework
 
+### [h3xduck](https://github.com/h3xduck)
+- 🌟 👤 [h3xduck](https://github.com/h3xduck) Starred [iamavu/vr-rev-jobs](https://github.com/iamavu/vr-rev-jobs)
+  > list of organizations offering vulnerability research/reverse engineering jobs
+
 ### [huoji120](https://github.com/huoji120)
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [lotsofs/livesplit-asl](https://github.com/lotsofs/livesplit-asl)
   > asl files for livesplit (autosplitters, load removal, whatnot)
@@ -200,6 +218,10 @@
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [KlparetlR/Bgi_asdis](https://github.com/KlparetlR/Bgi_asdis)
   > Binary Script File Disassembler (Similar to disassembly) and Assembler for BGI (Buriko General Inter...
+- ✨ 👤 [natsumerinchan](https://github.com/natsumerinchan) Created new repo [natsumerinchan/GPTDictEditor](https://github.com/natsumerinchan/GPTDictEditor)
+  > Galgame AI翻译用 项目GPT字典编辑转换器
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [natsumerinchan/GPTDictEditor](https://github.com/natsumerinchan/GPTDictEditor)
+  > Galgame AI翻译用 项目GPT字典编辑转换器
 
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [klezVirus/SysWhispers3](https://github.com/klezVirus/SysWhispers3)
@@ -326,5 +348,5 @@
 
 
 ---
-*最后更新于 2025-09-27 15:38:34 UTC*
+*最后更新于 2025-09-27 16:25:35 UTC*
 *历史记录保存在 `archive` 目录中。*
