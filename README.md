@@ -37,6 +37,30 @@
   > Wrap a WSGI application in an AWS Lambda handler function for running on API Gateway or an ALB.
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [jbradberry/universe](https://github.com/jbradberry/universe)
   > A space 4X turn-based strategy game
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+  > Open Source AI Platform - AI Chat with advanced features that works with every LLM
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)
+  > "RAG-Anything: All-in-One RAG Framework"
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [gin-gonic/gin](https://github.com/gin-gonic/gin)
+  > Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with ...
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+  > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
+  > A list of AI autonomous agents
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+  > AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provi...
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
+  > Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intellige...
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
+  > The official Python SDK for Model Context Protocol servers and clients
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [streamlit/streamlit](https://github.com/streamlit/streamlit)
+  > Streamlit — A faster way to build and share data apps.
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python)
+  > A model-driven approach to building AI agents in just a few lines of code.
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent)
+  > 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More...
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+  > real time face swap and one-click video deepfake with only a single image
 
 ### [CTF-Archives](https://github.com/CTF-Archives)
 - 🚀 👤 [CTF-Archives](https://github.com/CTF-Archives) Made [CTF-Archives/2025-SDNISC-haixuan](https://github.com/CTF-Archives/2025-SDNISC-haixuan) public
@@ -74,6 +98,12 @@
   > TeamServer and Client of Exploration Command and Control Framework
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [soot-oss/soot](https://github.com/soot-oss/soot)
   > Soot - A Java optimization framework
+
+### [KickedDroid](https://github.com/KickedDroid)
+- 🌟 👤 [KickedDroid](https://github.com/KickedDroid) Starred [nezhar/wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose)
+  > Easy Wordpress development with Docker and Docker Compose
+- 🍴 👤 [KickedDroid](https://github.com/KickedDroid) Forked [nezhar/wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) to [KickedDroid/wordpress-docker-compose](https://github.com/KickedDroid/wordpress-docker-compose)
+  > Easy Wordpress development with Docker and Docker Compose
 
 ### [KingJA](https://github.com/KingJA)
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [msterzhang/onelist](https://github.com/msterzhang/onelist)
@@ -119,6 +149,7 @@
 ### [Super12138](https://github.com/Super12138)
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [Super12138/ToDo](https://github.com/Super12138/ToDo)
   > 一个简单的、遵循 Material Design 3 的待办应用，使用 Jetpack Compose 编写 | A simple to-do app that follows Material De...
+- 🌟 👤 [Super12138](https://github.com/Super12138) Starred [lvonasek/3DLiveScanner](https://github.com/lvonasek/3DLiveScanner)
 
 ### [U039b](https://github.com/U039b)
 - 🌟 👤 [U039b](https://github.com/U039b) Starred [FiloSottile/age](https://github.com/FiloSottile/age)
@@ -127,6 +158,8 @@
 ### [X1r0z](https://github.com/X1r0z)
 - 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [LandGrey/copagent](https://github.com/LandGrey/copagent)
   > java memory web shell extracting tool
+- 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [satan1a/TheRoadOfSO](https://github.com/satan1a/TheRoadOfSO)
+  > 学习安全运营的记录 | The knowledge base of security operation
 
 ### [aadog](https://github.com/aadog)
 - ✨ 👤 [aadog](https://github.com/aadog) Created new repo [aadog/aadog.DevExtreme.AspNet.Core](https://github.com/aadog/aadog.DevExtreme.AspNet.Core)
@@ -193,6 +226,10 @@
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools)
   > A bazel BUILD file formatter and editor
 
+### [evets007](https://github.com/evets007)
+- ✨ 👤 [evets007](https://github.com/evets007) Created new repo [Aqualia/context](https://github.com/Aqualia/context)
+  > Context File is a standardized, multi-modal file format for packaging context to be used by AI agent...
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [imputnet/helium](https://github.com/imputnet/helium)
   > Private, fast, and honest web browser
@@ -220,6 +257,10 @@
 ### [h3xduck](https://github.com/h3xduck)
 - 🌟 👤 [h3xduck](https://github.com/h3xduck) Starred [iamavu/vr-rev-jobs](https://github.com/iamavu/vr-rev-jobs)
   > list of organizations offering vulnerability research/reverse engineering jobs
+
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [darbra/sperm](https://github.com/darbra/sperm)
+  > 浏览过的精彩逆向文章汇总，值得一看
 
 ### [huoji120](https://github.com/huoji120)
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [lotsofs/livesplit-asl](https://github.com/lotsofs/livesplit-asl)
@@ -407,6 +448,8 @@
   > STM32 lwIP networking via USB
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [vadimgrn/usbip-win2](https://github.com/vadimgrn/usbip-win2)
   > USB/IP Client for Windows
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [beriberikix/usbipd-mac](https://github.com/beriberikix/usbipd-mac)
+  > A macOS implementation of the USB/IP protocol.
 
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma)
@@ -415,6 +458,8 @@
   > High-level Capstone system bindings for Rust
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [wargio/r2dec-js](https://github.com/wargio/r2dec-js)
   > r2dec-js is a JavaScript-based decompiler that converts assembly code into pseudo-C. It aids users i...
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [avast/retdec](https://github.com/avast/retdec)
+  > RetDec is a retargetable machine-code decompiler based on LLVM.
 
 ### [tranleduy2000](https://github.com/tranleduy2000)
 - 🌟 👤 [tranleduy2000](https://github.com/tranleduy2000) Starred [instantX-research/InstantStyle](https://github.com/instantX-research/InstantStyle)
@@ -451,11 +496,15 @@
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust)
   > Cap'n Proto for Rust
 
+### [zhanghecn](https://github.com/zhanghecn)
+- 🌟 👤 [zhanghecn](https://github.com/zhanghecn) Starred [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp)
+  > A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tool...
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [apache/arrow](https://github.com/apache/arrow)
   > Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange a...
 
 
 ---
-*最后更新于 2025-09-27 18:28:37 UTC*
+*最后更新于 2025-09-27 18:45:44 UTC*
 *历史记录保存在 `archive` 目录中。*
