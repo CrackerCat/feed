@@ -4,9 +4,21 @@
 
 ## 今日动态
 
+### [Ackites](https://github.com/Ackites)
+- 🌟 👤 [Ackites](https://github.com/Ackites) Starred [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd)
+  > x-cmd: Bootstrap 1000+ command line tools in seconds.
+
 ### [AnkioTomas](https://github.com/AnkioTomas)
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
   > The open-source CapCut alternative
+
+### [CTF-Archives](https://github.com/CTF-Archives)
+- 🚀 👤 [CTF-Archives](https://github.com/CTF-Archives) Made [CTF-Archives/2025-SDNISC-haixuan](https://github.com/CTF-Archives/2025-SDNISC-haixuan) public
+  > “鹏云杯”第十二届山东省大学生网络安全技能大赛网络安全技术爱好者线上选拔赛
+
+### [DerekSelander](https://github.com/DerekSelander)
+- 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [kormax/apple-vas](https://github.com/kormax/apple-vas)
+  > Researching Apple VAS protocol
 
 ### [FlyingYu-Z](https://github.com/FlyingYu-Z)
 - 🌟 👤 [FlyingYu-Z](https://github.com/FlyingYu-Z) Starred [jamesmth/llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs)
@@ -89,6 +101,8 @@
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [lotsofs/livesplit-asl](https://github.com/lotsofs/livesplit-asl)
   > asl files for livesplit (autosplitters, load removal, whatnot)
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [changlan/Age_of_Empires_II_Definitive-Edition-SDK](https://github.com/changlan/Age_of_Empires_II_Definitive-Edition-SDK)
+- 🌟 👤 [huoji120](https://github.com/huoji120) Starred [FLWL/aoe2-ai-module](https://github.com/FLWL/aoe2-ai-module)
+  > Library to extend AI scripting capabilities in Age of Empires 2.
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
@@ -126,6 +140,10 @@
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [KlparetlR/Bgi_asdis](https://github.com/KlparetlR/Bgi_asdis)
   > Binary Script File Disassembler (Similar to disassembly) and Assembler for BGI (Buriko General Inter...
 
+### [nek0y4nsu](https://github.com/nek0y4nsu)
+- 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [klezVirus/SysWhispers3](https://github.com/klezVirus/SysWhispers3)
+  > SysWhispers on Steroids - AV/EDR evasion via direct system calls. 
+
 ### [oobbb](https://github.com/oobbb)
 - 🌟 👤 [oobbb](https://github.com/oobbb) Starred [badhive/stitch](https://github.com/badhive/stitch)
   > Rewrite and obfuscate code in compiled binaries
@@ -133,6 +151,10 @@
 ### [peiqiF4ck](https://github.com/peiqiF4ck)
 - 🌟 👤 [peiqiF4ck](https://github.com/peiqiF4ck) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
   > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
+
+### [r00tuser111](https://github.com/r00tuser111)
+- 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+  > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) to [rankalpha/APKEditor](https://github.com/rankalpha/APKEditor)
@@ -155,6 +177,26 @@
   > Img Flasher : flash , extract , unpack , repack img files
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [paazmaya/shuji](https://github.com/paazmaya/shuji)
   > Reverse engineering JavaScript and CSS sources from sourcemaps
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [ylcangel/crack_dexhelper](https://github.com/ylcangel/crack_dexhelper) to [rankalpha/crack_dexhelper](https://github.com/rankalpha/crack_dexhelper)
+  > 梆梆企业加固详细逆向分析过程， 包含两种对该加固的脱壳机（直接解密classes0.jar和基于frida hook）
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [WindySha/Poros](https://github.com/WindySha/Poros) to [rankalpha/Poros](https://github.com/rankalpha/Poros)
+  > This is a dynamic instrumentation tool that can inject xposed module into any appliation on rooted A...
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [WindySha/FridaXposedModule](https://github.com/WindySha/FridaXposedModule) to [rankalpha/FridaXposedModule](https://github.com/rankalpha/FridaXposedModule)
+  > This is a Xposed module for using Frida in non-root device.
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [panhongwei/AndroidMethodHook](https://github.com/panhongwei/AndroidMethodHook) to [rankalpha/AndroidMethodHook](https://github.com/rankalpha/AndroidMethodHook)
+  > android art hook like Sophix
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [erfur/linjector-rs](https://github.com/erfur/linjector-rs) to [rankalpha/linjector-rs](https://github.com/rankalpha/linjector-rs)
+  > Code injection on Android without ptrace
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [BryanGIG/PADumper](https://github.com/BryanGIG/PADumper) to [rankalpha/PADumper](https://github.com/rankalpha/PADumper)
+  > Process Android Memory Dumper
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [freakishfox/xAnSo](https://github.com/freakishfox/xAnSo) to [rankalpha/xAnSo](https://github.com/rankalpha/xAnSo)
+  > Android So文件浏览修复工具
+
+### [ravindu644](https://github.com/ravindu644)
+- 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [ltsdw/gofile-downloader](https://github.com/ltsdw/gofile-downloader)
+  > Download files from https://gofile.io
+- 🍴 👤 [ravindu644](https://github.com/ravindu644) Forked [ltsdw/gofile-downloader](https://github.com/ltsdw/gofile-downloader) to [ravindu644/gofile-downloader](https://github.com/ravindu644/gofile-downloader)
+  > Download files from https://gofile.io
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [frida/frida-gum](https://github.com/frida/frida-gum)
@@ -170,8 +212,26 @@
 - 🌟 👤 [s045pd](https://github.com/s045pd) Starred [roboflow/supervision](https://github.com/roboflow/supervision)
   > We write your reusable computer vision tools. 💜
 
+### [smallzhong](https://github.com/smallzhong)
+- 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
+  > 人人都能用英语
+- 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) to [smallzhong/everyone-can-use-english](https://github.com/smallzhong/everyone-can-use-english)
+  > 人人都能用英语
+
+### [suifei](https://github.com/suifei)
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [george-hopkins/usbip-windows](https://github.com/george-hopkins/usbip-windows)
+  > USB/IP for Windows
+
+### [tranleduy2000](https://github.com/tranleduy2000)
+- 🌟 👤 [tranleduy2000](https://github.com/tranleduy2000) Starred [instantX-research/InstantStyle](https://github.com/instantX-research/InstantStyle)
+  > InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥
+
 ### [uvbs](https://github.com/uvbs)
 - 🍴 👤 [uvbs](https://github.com/uvbs) Forked [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) to [uvbs/AuroraStore](https://github.com/uvbs/AuroraStore)
+
+### [yhs0602](https://github.com/yhs0602)
+- 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [mrkite/TerraFirma](https://github.com/mrkite/TerraFirma)
+  > Mapping for Terraria
 
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust)
@@ -183,5 +243,5 @@
 
 
 ---
-*最后更新于 2025-09-27 13:38:36 UTC*
+*最后更新于 2025-09-27 14:18:01 UTC*
 *历史记录保存在 `archive` 目录中。*
