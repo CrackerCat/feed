@@ -115,6 +115,10 @@
 - 🌟 👤 [Krietz7](https://github.com/Krietz7) Starred [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox)
   > A cross-platform launcher that simply works
 
+### [M0Rf30](https://github.com/M0Rf30)
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [Arize-ai/openinference](https://github.com/Arize-ai/openinference)
+  > OpenTelemetry Instrumentation for AI Observability
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - ✨ 👤 [Moe-hacker](https://github.com/Moe-hacker) Created new repo [RuriOSS/rurima-aio](https://github.com/RuriOSS/rurima-aio)
   > (aarch64/src) Binary pack for rurima with dependents
@@ -145,6 +149,10 @@
 
 ### [PushpenderIndia](https://github.com/PushpenderIndia)
 - ✨ 👤 [PushpenderIndia](https://github.com/PushpenderIndia) Created new repo [PushpenderIndia/test](https://github.com/PushpenderIndia/test)
+
+### [SPuerBRead](https://github.com/SPuerBRead)
+- 🌟 👤 [SPuerBRead](https://github.com/SPuerBRead) Starred [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
+  > Tongyi Deep Research, the Leading Open-source Deep Research Agent
 
 ### [Super12138](https://github.com/Super12138)
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [Super12138/ToDo](https://github.com/Super12138/ToDo)
@@ -216,6 +224,10 @@
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [quinn-rs/quinn](https://github.com/quinn-rs/quinn)
   > Async-friendly QUIC implementation in Rust
 
+### [dstmath](https://github.com/dstmath)
+- 🍴 👤 [dstmath](https://github.com/dstmath) Forked [qianshe/augment-token-manager-worker](https://github.com/qianshe/augment-token-manager-worker) to [dstmath/augment-token-manager-worker](https://github.com/dstmath/augment-token-manager-worker)
+  > cf可部署的augManager
+
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [antlr/grammars-v4](https://github.com/antlr/grammars-v4)
   > Grammars written for ANTLR v4; expectation that the grammars are free of actions.
@@ -235,6 +247,7 @@
   > Private, fast, and honest web browser
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [apache/kvrocks](https://github.com/apache/kvrocks)
   > Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is ...
+- ✨ 👤 [extremecoders-re](https://github.com/extremecoders-re) Created new repo [extremecoders-re/cf-guacamole-rdp](https://github.com/extremecoders-re/cf-guacamole-rdp)
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [PRO-2684/OnePlus13-Boots](https://github.com/PRO-2684/OnePlus13-Boots)
@@ -253,14 +266,45 @@
   > 🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish NLP.
 - 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)
   > Open Source TypeScript AI Agent Framework
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nkanaev/yarr](https://github.com/nkanaev/yarr) to [gmh5225/yarr](https://github.com/gmh5225/yarr)
+  > yet another rss reader
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [davinci01010/pinduoduo_backdoor_x](https://github.com/davinci01010/pinduoduo_backdoor_x) to [gmh5225/pinduoduo_backdoor_x](https://github.com/gmh5225/pinduoduo_backdoor_x)
+  > 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [davinci01010/pinduoduo_backdoor_recorder](https://github.com/davinci01010/pinduoduo_backdoor_recorder) to [gmh5225/pinduoduo_backdoor_recorder](https://github.com/gmh5225/pinduoduo_backdoor_recorder)
+  > 拼多多利用漏洞攻击用户手机材料汇总&存证
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [davinci01010/pinduoduo_backdoor_unpacker](https://github.com/davinci01010/pinduoduo_backdoor_unpacker) to [gmh5225/pinduoduo_backdoor_unpacker](https://github.com/gmh5225/pinduoduo_backdoor_unpacker)
+  > Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [apache/arrow-dotnet](https://github.com/apache/arrow-dotnet) to [gmh5225/arrow-dotnet](https://github.com/gmh5225/arrow-dotnet)
+  > Official .NET implementation of Apache Arrow
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [apache/maven-site](https://github.com/apache/maven-site) to [gmh5225/maven-site](https://github.com/gmh5225/maven-site)
+  > Apache Maven site
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [apache/openserverless-admin-api](https://github.com/apache/openserverless-admin-api) to [gmh5225/openserverless-admin-api](https://github.com/gmh5225/openserverless-admin-api)
+  > OpenServerless Admin API
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [apache/maven-artifact-plugin](https://github.com/apache/maven-artifact-plugin) to [gmh5225/maven-artifact-plugin](https://github.com/gmh5225/maven-artifact-plugin)
+  > Apache Maven Artifact Plugin
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [apache/tomee-site-pub](https://github.com/apache/tomee-site-pub) to [gmh5225/tomee-site-pub](https://github.com/gmh5225/tomee-site-pub)
+  > Apache TomEE published website
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [apache/seatunnel](https://github.com/apache/seatunnel) to [gmh5225/seatunnel](https://github.com/gmh5225/seatunnel)
+  > SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
 
 ### [h3xduck](https://github.com/h3xduck)
 - 🌟 👤 [h3xduck](https://github.com/h3xduck) Starred [iamavu/vr-rev-jobs](https://github.com/iamavu/vr-rev-jobs)
   > list of organizations offering vulnerability research/reverse engineering jobs
 
+### [hanbings](https://github.com/hanbings)
+- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [illusory0x0/illu-lexer.mbt](https://github.com/illusory0x0/illu-lexer.mbt)
+- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [illusory0x0/illu-quote.mbt](https://github.com/illusory0x0/illu-quote.mbt)
+
+### [heroims](https://github.com/heroims)
+- ✨ 👤 [heroims](https://github.com/heroims) Created new repo [heroims/openai-gemini](https://github.com/heroims/openai-gemini)
+
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [darbra/sperm](https://github.com/darbra/sperm)
   > 浏览过的精彩逆向文章汇总，值得一看
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [openChatGpts/z.ai2api_deno](https://github.com/openChatGpts/z.ai2api_deno)
+  > https://dash.deno.com/projects/my2ldgg
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [github/copilot-cli](https://github.com/github/copilot-cli)
+  > GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 
 ### [huoji120](https://github.com/huoji120)
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [lotsofs/livesplit-asl](https://github.com/lotsofs/livesplit-asl)
@@ -268,6 +312,8 @@
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [changlan/Age_of_Empires_II_Definitive-Edition-SDK](https://github.com/changlan/Age_of_Empires_II_Definitive-Edition-SDK)
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [FLWL/aoe2-ai-module](https://github.com/FLWL/aoe2-ai-module)
   > Library to extend AI scripting capabilities in Age of Empires 2.
+- 🌟 👤 [huoji120](https://github.com/huoji120) Starred [SystematicSkid/Age-of-Empires-3-DE-Lua](https://github.com/SystematicSkid/Age-of-Empires-3-DE-Lua)
+  > A lua engine built for Age of Empires 3: Definitive Edition
 
 ### [i64](https://github.com/i64)
 - 🌟 👤 [i64](https://github.com/i64) Starred [sqliteai/sqlite-vector](https://github.com/sqliteai/sqlite-vector)
@@ -309,6 +355,10 @@
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
   > This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."
 
+### [ltlly](https://github.com/ltlly)
+- 🌟 👤 [ltlly](https://github.com/ltlly) Starred [elliottech/lighter-python](https://github.com/elliottech/lighter-python)
+  > Public Python SDK for Lighter
+
 ### [luckyzyx](https://github.com/luckyzyx)
 - 🌟 👤 [luckyzyx](https://github.com/luckyzyx) Starred [KOWX712/PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix)
   > Fix Play Integrity verdicts.
@@ -348,6 +398,10 @@
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [klezVirus/SysWhispers3](https://github.com/klezVirus/SysWhispers3)
   > SysWhispers on Steroids - AV/EDR evasion via direct system calls. 
 
+### [ntpopgetdope](https://github.com/ntpopgetdope)
+- 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [syssec-utd/pylingual](https://github.com/syssec-utd/pylingual)
+  > Python decompiler for modern Python versions.
+
 ### [oobbb](https://github.com/oobbb)
 - 🌟 👤 [oobbb](https://github.com/oobbb) Starred [badhive/stitch](https://github.com/badhive/stitch)
   > Rewrite and obfuscate code in compiled binaries
@@ -355,6 +409,10 @@
 ### [peiqiF4ck](https://github.com/peiqiF4ck)
 - 🌟 👤 [peiqiF4ck](https://github.com/peiqiF4ck) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
   > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
+
+### [pengwei1024](https://github.com/pengwei1024)
+- 🌟 👤 [pengwei1024](https://github.com/pengwei1024) Starred [wentiancanye/clipboardcli](https://github.com/wentiancanye/clipboardcli)
+  > 命令行剪贴板管理工具
 
 ### [r00tuser111](https://github.com/r00tuser111)
 - 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
@@ -439,6 +497,12 @@
 - 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [un4ckn0wl3z/i386-emulator](https://github.com/un4ckn0wl3z/i386-emulator)
   > An experimental i386 CPU Real Mode Emulator
 
+### [smartinstaller](https://github.com/smartinstaller)
+- 🌟 👤 [smartinstaller](https://github.com/smartinstaller) Starred [CrackerCat/strongR-frida-android](https://github.com/CrackerCat/strongR-frida-android)
+  > An anti detection version frida-server for android.
+- 🌟 👤 [smartinstaller](https://github.com/smartinstaller) Starred [CrackerCat/SetupHijack](https://github.com/CrackerCat/SetupHijack)
+  > SetupHijack is a security research tool that exploits race conditions and insecure file handling in ...
+
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [george-hopkins/usbip-windows](https://github.com/george-hopkins/usbip-windows)
   > USB/IP for Windows
@@ -464,6 +528,10 @@
 ### [tranleduy2000](https://github.com/tranleduy2000)
 - 🌟 👤 [tranleduy2000](https://github.com/tranleduy2000) Starred [instantX-research/InstantStyle](https://github.com/instantX-research/InstantStyle)
   > InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥
+- 🌟 👤 [tranleduy2000](https://github.com/tranleduy2000) Starred [instantX-research/InstantID](https://github.com/instantX-research/InstantID)
+  > InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥
+- 🌟 👤 [tranleduy2000](https://github.com/tranleduy2000) Starred [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)
+  > PhotoMaker [CVPR 2024]
 
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - ✨ 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Created new repo [un4ckn0wl3z/i386-emulator](https://github.com/un4ckn0wl3z/i386-emulator)
@@ -475,6 +543,10 @@
 
 ### [uvbs](https://github.com/uvbs)
 - 🍴 👤 [uvbs](https://github.com/uvbs) Forked [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) to [uvbs/AuroraStore](https://github.com/uvbs/AuroraStore)
+
+### [wonderkun](https://github.com/wonderkun)
+- 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [Chion82/kcptun-raw](https://github.com/Chion82/kcptun-raw)
+  > Kcptun with raw socket and fake TCP headers.
 
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🌟 👤 [wszqkzqk](https://github.com/wszqkzqk) Starred [apple/ml-simplefold](https://github.com/apple/ml-simplefold)
@@ -506,5 +578,5 @@
 
 
 ---
-*最后更新于 2025-09-27 18:45:44 UTC*
+*最后更新于 2025-09-27 19:16:12 UTC*
 *历史记录保存在 `archive` 目录中。*
