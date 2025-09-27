@@ -122,6 +122,10 @@
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [Arize-ai/openinference](https://github.com/Arize-ai/openinference)
   > OpenTelemetry Instrumentation for AI Observability
 
+### [MikeWang000000](https://github.com/MikeWang000000)
+- 🍴 👤 [MikeWang000000](https://github.com/MikeWang000000) Forked [cross-tools/musl-cross](https://github.com/cross-tools/musl-cross) to [MikeWang000000/musl-cross](https://github.com/MikeWang000000/musl-cross)
+  > Cross-compile toolchain with musl libc
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - ✨ 👤 [Moe-hacker](https://github.com/Moe-hacker) Created new repo [RuriOSS/rurima-aio](https://github.com/RuriOSS/rurima-aio)
   > (aarch64/src) Binary pack for rurima with dependents
@@ -146,6 +150,9 @@
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [aws/amazon-ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector)
   > A CLI tool and go library which recommends instance types based on resource criteria like vcpus and ...
 
+### [NtDallas](https://github.com/NtDallas)
+- ✨ 👤 [NtDallas](https://github.com/NtDallas) Created new repo [NtDallas/Kernel-Evasion](https://github.com/NtDallas/Kernel-Evasion)
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [smallkirby/kernelpwn](https://github.com/smallkirby/kernelpwn)
   > kernel-pwn and writeup collection
@@ -159,14 +166,29 @@
 ### [PushpenderIndia](https://github.com/PushpenderIndia)
 - ✨ 👤 [PushpenderIndia](https://github.com/PushpenderIndia) Created new repo [PushpenderIndia/test](https://github.com/PushpenderIndia/test)
 
+### [QingYuan688](https://github.com/QingYuan688)
+- 🍴 👤 [QingYuan688](https://github.com/QingYuan688) Forked [Numbersf/Action-Build](https://github.com/Numbersf/Action-Build) to [QingYuan688/Action-Build](https://github.com/QingYuan688/Action-Build)
+  > Build OnePlus SukiSU Ultra KPM+VFS+LZ4KD Kernel
+
 ### [SPuerBRead](https://github.com/SPuerBRead)
 - 🌟 👤 [SPuerBRead](https://github.com/SPuerBRead) Starred [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
   > Tongyi Deep Research, the Leading Open-source Deep Research Agent
+
+### [SpriteOvO](https://github.com/SpriteOvO)
+- 🍴 👤 [SpriteOvO](https://github.com/SpriteOvO) Forked [mmstick/numtoa](https://github.com/mmstick/numtoa) to [SpriteOvO/numtoa](https://github.com/SpriteOvO/numtoa)
+  > An efficient method of heaplessly converting numbers into their string representations, storing the ...
 
 ### [Super12138](https://github.com/Super12138)
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [Super12138/ToDo](https://github.com/Super12138/ToDo)
   > 一个简单的、遵循 Material Design 3 的待办应用，使用 Jetpack Compose 编写 | A simple to-do app that follows Material De...
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [lvonasek/3DLiveScanner](https://github.com/lvonasek/3DLiveScanner)
+
+### [TheCrazyT](https://github.com/TheCrazyT)
+- 🍴 👤 [TheCrazyT](https://github.com/TheCrazyT) Forked [huanglin/hl_1_18](https://github.com/huanglin/hl_1_18) to [TheCrazyT/hl_1_18](https://github.com/TheCrazyT/hl_1_18)
+
+### [TheNetAdmin](https://github.com/TheNetAdmin)
+- 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term)
+  > 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
 
 ### [U039b](https://github.com/U039b)
 - 🌟 👤 [U039b](https://github.com/U039b) Starred [FiloSottile/age](https://github.com/FiloSottile/age)
@@ -179,6 +201,8 @@
   > A Java library implementation of the ADB network protocol
 - 🌟 👤 [VonChange](https://github.com/VonChange) Starred [Jellepepe/flutter_adb](https://github.com/Jellepepe/flutter_adb)
   > Native dart implementation of a network ADB (Android Debug Bridge) client.
+- 🌟 👤 [VonChange](https://github.com/VonChange) Starred [flyfishxu/Kadb](https://github.com/flyfishxu/Kadb)
+  > A Kotlin Multiplatform library to connect Android devices directly without ADB binary file.
 
 ### [X1r0z](https://github.com/X1r0z)
 - 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [LandGrey/copagent](https://github.com/LandGrey/copagent)
@@ -213,6 +237,10 @@
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
   > The best way to get AI to solve hard problems in complex codebases.
+
+### [chickendrop89](https://github.com/chickendrop89)
+- 🌟 👤 [chickendrop89](https://github.com/chickendrop89) Starred [BepInEx/BepInEx](https://github.com/BepInEx/BepInEx)
+  > Unity / XNA game patcher and plugin framework
 
 ### [chsbuffer](https://github.com/chsbuffer)
 - 🍴 👤 [chsbuffer](https://github.com/chsbuffer) Forked [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) to [chsbuffer/revanced-patches](https://github.com/chsbuffer/revanced-patches)
@@ -308,6 +336,8 @@
   > Apache TomEE published website
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [apache/seatunnel](https://github.com/apache/seatunnel) to [gmh5225/seatunnel](https://github.com/gmh5225/seatunnel)
   > SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [SalesforceAIResearch/UserRL](https://github.com/SalesforceAIResearch/UserRL) to [gmh5225/UserRL](https://github.com/gmh5225/UserRL)
+  > The raw UserRL repo under construction
 
 ### [h3xduck](https://github.com/h3xduck)
 - 🌟 👤 [h3xduck](https://github.com/h3xduck) Starred [iamavu/vr-rev-jobs](https://github.com/iamavu/vr-rev-jobs)
@@ -340,6 +370,10 @@
 ### [i64](https://github.com/i64)
 - 🌟 👤 [i64](https://github.com/i64) Starred [sqliteai/sqlite-vector](https://github.com/sqliteai/sqlite-vector)
   > SQLite-Vector is a cross-platform, ultra-efficient SQLite extension that brings vector search capabi...
+
+### [iAklis](https://github.com/iAklis)
+- 🌟 👤 [iAklis](https://github.com/iAklis) Starred [rk8s-dev/rk8s](https://github.com/rk8s-dev/rk8s)
+  > A Lite Version of Kubernetes in Rust
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
@@ -427,6 +461,10 @@
 ### [ntpopgetdope](https://github.com/ntpopgetdope)
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [syssec-utd/pylingual](https://github.com/syssec-utd/pylingual)
   > Python decompiler for modern Python versions.
+
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [francoismichel/ssh3](https://github.com/francoismichel/ssh3)
+  > SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/23...
 
 ### [oobbb](https://github.com/oobbb)
 - 🌟 👤 [oobbb](https://github.com/oobbb) Starred [badhive/stitch](https://github.com/badhive/stitch)
@@ -544,6 +582,8 @@
   > USB/IP Client for Windows
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [beriberikix/usbipd-mac](https://github.com/beriberikix/usbipd-mac)
   > A macOS implementation of the USB/IP protocol.
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [ChongZhiJie0216/usbip-webui](https://github.com/ChongZhiJie0216/usbip-webui)
+  > A usb over ip using webui control based by python
 
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma)
@@ -573,6 +613,11 @@
 
 ### [uvbs](https://github.com/uvbs)
 - 🍴 👤 [uvbs](https://github.com/uvbs) Forked [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) to [uvbs/AuroraStore](https://github.com/uvbs/AuroraStore)
+
+### [w00tzenheimer](https://github.com/w00tzenheimer)
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
+  > The best way to get AI to solve hard problems in complex codebases.
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [apple/ml-simplefold](https://github.com/apple/ml-simplefold)
 
 ### [wonderkun](https://github.com/wonderkun)
 - 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [Chion82/kcptun-raw](https://github.com/Chion82/kcptun-raw)
@@ -612,5 +657,5 @@
 
 
 ---
-*最后更新于 2025-09-27 19:38:42 UTC*
+*最后更新于 2025-09-27 20:22:14 UTC*
 *历史记录保存在 `archive` 目录中。*
