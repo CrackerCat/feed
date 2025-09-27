@@ -112,12 +112,18 @@
   > Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract au...
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube)
   > HomeTube is a friendly video downloader managing single video URL into organized content structure f...
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [quinn-rs/quinn](https://github.com/quinn-rs/quinn)
+  > Async-friendly QUIC implementation in Rust
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [antlr/grammars-v4](https://github.com/antlr/grammars-v4)
   > Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [MrTurvey/flareprox](https://github.com/MrTurvey/flareprox)
   > Use Cloudflare to create HTTP pass-through proxies for unique IP rotation, similar to fireprox
+
+### [elllusion](https://github.com/elllusion)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools)
+  > A bazel BUILD file formatter and editor
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [imputnet/helium](https://github.com/imputnet/helium)
@@ -186,6 +192,10 @@
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui)
   > 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Svelte...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nkanaev/yarr](https://github.com/nkanaev/yarr)
+  > yet another rss reader
 
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [KlparetlR/Bgi_asdis](https://github.com/KlparetlR/Bgi_asdis)
@@ -281,6 +291,8 @@
   > CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedd...
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [IntergatedCircuits/IPoverUSB](https://github.com/IntergatedCircuits/IPoverUSB)
   > STM32 lwIP networking via USB
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [vadimgrn/usbip-win2](https://github.com/vadimgrn/usbip-win2)
+  > USB/IP Client for Windows
 
 ### [tranleduy2000](https://github.com/tranleduy2000)
 - 🌟 👤 [tranleduy2000](https://github.com/tranleduy2000) Starred [instantX-research/InstantStyle](https://github.com/instantX-research/InstantStyle)
@@ -314,5 +326,5 @@
 
 
 ---
-*最后更新于 2025-09-27 15:19:17 UTC*
+*最后更新于 2025-09-27 15:38:34 UTC*
 *历史记录保存在 `archive` 目录中。*
