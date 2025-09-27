@@ -79,12 +79,6 @@
 - 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [kormax/apple-vas](https://github.com/kormax/apple-vas)
   > Researching Apple VAS protocol
 
-### [FlyingYu-Z](https://github.com/FlyingYu-Z)
-- 🌟 👤 [FlyingYu-Z](https://github.com/FlyingYu-Z) Starred [jamesmth/llvm-plugin-rs](https://github.com/jamesmth/llvm-plugin-rs)
-  > Out-of-tree LLVM passes in Rust
-- 🌟 👤 [FlyingYu-Z](https://github.com/FlyingYu-Z) Starred [vizia/vizia](https://github.com/vizia/vizia)
-  > A declarative GUI library written in Rust
-
 ### [FunnyWolf](https://github.com/FunnyWolf)
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [SiriusScan/Sirius](https://github.com/SiriusScan/Sirius)
 
@@ -252,6 +246,10 @@
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
   > The best way to get AI coding agents to solve hard problems in complex codebases.
 
+### [chenxiaolong](https://github.com/chenxiaolong)
+- 🌟 👤 [chenxiaolong](https://github.com/chenxiaolong) Starred [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel)
+  > A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.
+
 ### [chickendrop89](https://github.com/chickendrop89)
 - 🌟 👤 [chickendrop89](https://github.com/chickendrop89) Starred [BepInEx/BepInEx](https://github.com/BepInEx/BepInEx)
   > Unity / XNA game patcher and plugin framework
@@ -259,10 +257,6 @@
 ### [chsbuffer](https://github.com/chsbuffer)
 - 🍴 👤 [chsbuffer](https://github.com/chsbuffer) Forked [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) to [chsbuffer/revanced-patches](https://github.com/chsbuffer/revanced-patches)
   > 🧩 Patches for ReVanced
-
-### [cn-kali-team](https://github.com/cn-kali-team)
-- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [zesterer/flume](https://github.com/zesterer/flume)
-  > A safe and fast multi-producer, multi-consumer channel.
 
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [ansible/ansible](https://github.com/ansible/ansible)
@@ -281,8 +275,6 @@
   > 🌎 Performant real-time state management for React and TypeScript
 
 ### [dodola](https://github.com/dodola)
-- 🌟 👤 [dodola](https://github.com/dodola) Starred [oop7/YTSage](https://github.com/oop7/YTSage)
-  > Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract au...
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube)
   > HomeTube is a friendly video downloader managing single video URL into organized content structure f...
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [quinn-rs/quinn](https://github.com/quinn-rs/quinn)
@@ -370,6 +362,10 @@
 ### [h3xduck](https://github.com/h3xduck)
 - 🌟 👤 [h3xduck](https://github.com/h3xduck) Starred [iamavu/vr-rev-jobs](https://github.com/iamavu/vr-rev-jobs)
   > list of organizations offering vulnerability research/reverse engineering jobs
+
+### [h4sh5](https://github.com/h4sh5)
+- 🌟 👤 [h4sh5](https://github.com/h4sh5) Starred [francoismichel/ssh3](https://github.com/francoismichel/ssh3)
+  > SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/23...
 
 ### [hanbings](https://github.com/hanbings)
 - 🌟 👤 [hanbings](https://github.com/hanbings) Starred [illusory0x0/illu-lexer.mbt](https://github.com/illusory0x0/illu-lexer.mbt)
@@ -485,8 +481,6 @@
   > Launch any application activity
 
 ### [natsumerinchan](https://github.com/natsumerinchan)
-- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [KlparetlR/Bgi_asdis](https://github.com/KlparetlR/Bgi_asdis)
-  > Binary Script File Disassembler (Similar to disassembly) and Assembler for BGI (Buriko General Inter...
 - ✨ 👤 [natsumerinchan](https://github.com/natsumerinchan) Created new repo [natsumerinchan/GPTDictEditor](https://github.com/natsumerinchan/GPTDictEditor)
   > Galgame AI翻译用 项目GPT字典编辑转换器
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [natsumerinchan/GPTDictEditor](https://github.com/natsumerinchan/GPTDictEditor)
@@ -690,13 +684,13 @@
 - 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [yizhiyonggangdexiaojia/lsplant_skip](https://github.com/yizhiyonggangdexiaojia/lsplant_skip)
   > Skip relevant detection logic when executing application-level apps
 
-### [zer0yu](https://github.com/zer0yu)
-- 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust)
-  > Cap'n Proto for Rust
-
 ### [zhanghecn](https://github.com/zhanghecn)
 - 🌟 👤 [zhanghecn](https://github.com/zhanghecn) Starred [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp)
   > A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tool...
+
+### [zinja-coder](https://github.com/zinja-coder)
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+  > Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [apache/arrow](https://github.com/apache/arrow)
@@ -704,5 +698,5 @@
 
 
 ---
-*最后更新于 2025-09-27 22:39:35 UTC*
+*最后更新于 2025-09-27 23:19:14 UTC*
 *历史记录保存在 `archive` 目录中。*
