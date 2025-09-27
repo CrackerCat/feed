@@ -55,6 +55,10 @@
 - 🍴 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Forked [greengrocer98/keyatura_split](https://github.com/greengrocer98/keyatura_split) to [Grigory-Rylov/keyatura_split](https://github.com/Grigory-Rylov/keyatura_split)
   > ZMK config for keyatura split
 
+### [Hexorg](https://github.com/Hexorg)
+- 🍴 👤 [Hexorg](https://github.com/Hexorg) Forked [teabound/egui-cfg](https://github.com/teabound/egui-cfg) to [Hexorg/egui-cfg](https://github.com/Hexorg/egui-cfg)
+  > egui library for displaying control flow graphs using petgraph.
+
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [maxDcb/C2TeamServer](https://github.com/maxDcb/C2TeamServer)
   > TeamServer and Client of Exploration Command and Control Framework
@@ -76,6 +80,8 @@
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [smallkirby/kernelpwn](https://github.com/smallkirby/kernelpwn)
   > kernel-pwn and writeup collection
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [labring/laf](https://github.com/labring/laf)
+  > Laf is a vibrant cloud development platform that provides essential tools like cloud functions, data...
 
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [khanhduytran0/Sim26Booter](https://github.com/khanhduytran0/Sim26Booter)
@@ -126,6 +132,10 @@
 ### [cozis](https://github.com/cozis)
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [typst/typst](https://github.com/typst/typst)
   > A new markup-based typesetting system that is powerful and easy to learn.
+
+### [darkskygit](https://github.com/darkskygit)
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [pmndrs/koota](https://github.com/pmndrs/koota)
+  > 🌎 Performant real-time state management for React and TypeScript
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [oop7/YTSage](https://github.com/oop7/YTSage)
@@ -225,6 +235,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nkanaev/yarr](https://github.com/nkanaev/yarr)
   > yet another rss reader
 
+### [mzfr](https://github.com/mzfr)
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [sdex/ActivityManager](https://github.com/sdex/ActivityManager)
+  > Launch any application activity
+
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [KlparetlR/Bgi_asdis](https://github.com/KlparetlR/Bgi_asdis)
   > Binary Script File Disassembler (Similar to disassembly) and Assembler for BGI (Buriko General Inter...
@@ -248,6 +262,8 @@
 ### [r00tuser111](https://github.com/r00tuser111)
 - 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
   > An open-source AI agent that brings the power of Gemini directly into your terminal.
+- 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [adryfish/llm-web-api](https://github.com/adryfish/llm-web-api)
+  > 将ChatGPT网页转换成API接口。ChatGPT Web to API.
 
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) to [rankalpha/APKEditor](https://github.com/rankalpha/APKEditor)
@@ -330,6 +346,10 @@
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [vadimgrn/usbip-win2](https://github.com/vadimgrn/usbip-win2)
   > USB/IP Client for Windows
 
+### [topcoco](https://github.com/topcoco)
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma)
+  > Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with c...
+
 ### [tranleduy2000](https://github.com/tranleduy2000)
 - 🌟 👤 [tranleduy2000](https://github.com/tranleduy2000) Starred [instantX-research/InstantStyle](https://github.com/instantX-research/InstantStyle)
   > InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥
@@ -365,5 +385,5 @@
 
 
 ---
-*最后更新于 2025-09-27 16:42:16 UTC*
+*最后更新于 2025-09-27 17:17:00 UTC*
 *历史记录保存在 `archive` 目录中。*
