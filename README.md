@@ -10,9 +10,19 @@
 - 🌟 👤 [FlyingYu-Z](https://github.com/FlyingYu-Z) Starred [vizia/vizia](https://github.com/vizia/vizia)
   > A declarative GUI library written in Rust
 
+### [J0o1ey](https://github.com/J0o1ey)
+- 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [maxDcb/C2TeamServer](https://github.com/maxDcb/C2TeamServer)
+  > TeamServer and Client of Exploration Command and Control Framework
+- 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [soot-oss/soot](https://github.com/soot-oss/soot)
+  > Soot - A Java optimization framework
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [smallkirby/kernelpwn](https://github.com/smallkirby/kernelpwn)
   > kernel-pwn and writeup collection
+
+### [Super12138](https://github.com/Super12138)
+- 🌟 👤 [Super12138](https://github.com/Super12138) Starred [Super12138/ToDo](https://github.com/Super12138/ToDo)
+  > 一个简单的、遵循 Material Design 3 的待办应用，使用 Jetpack Compose 编写 | A simple to-do app that follows Material De...
 
 ### [alternoegraha](https://github.com/alternoegraha)
 - 🌟 👤 [alternoegraha](https://github.com/alternoegraha) Starred [imputnet/helium](https://github.com/imputnet/helium)
@@ -33,6 +43,20 @@
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [oop7/YTSage](https://github.com/oop7/YTSage)
   > Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract au...
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube)
+  > HomeTube is a friendly video downloader managing single video URL into organized content structure f...
+
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [antlr/grammars-v4](https://github.com/antlr/grammars-v4)
+  > Grammars written for ANTLR v4; expectation that the grammars are free of actions.
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [MrTurvey/flareprox](https://github.com/MrTurvey/flareprox)
+  > Use Cloudflare to create HTTP pass-through proxies for unique IP rotation, similar to fireprox
+
+### [feicong](https://github.com/feicong)
+- 🌟 👤 [feicong](https://github.com/feicong) Starred [PRO-2684/OnePlus13-Boots](https://github.com/PRO-2684/OnePlus13-Boots)
+  > 🥾 `boot`, `init_boot` & `vendor_boot` images for OnePlus 13
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [PRO-2684/OnePlus13-Boots](https://github.com/PRO-2684/OnePlus13-Boots) to [feicong/OnePlus13-Boots](https://github.com/feicong/OnePlus13-Boots)
+  > 🥾 `boot`, `init_boot` & `vendor_boot` images for OnePlus 13
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [agmmnn/tauri-controls](https://github.com/agmmnn/tauri-controls) to [gmh5225/tauri-controls](https://github.com/gmh5225/tauri-controls)
@@ -52,6 +76,10 @@
 - 🌟 👤 [jpillora](https://github.com/jpillora) Starred [quic-go/webtransport-go](https://github.com/quic-go/webtransport-go)
   > WebTransport implementation based on quic-go (https://datatracker.ietf.org/doc/draft-ietf-webtrans-h...
 
+### [kernelzeroday](https://github.com/kernelzeroday)
+- 🌟 👤 [kernelzeroday](https://github.com/kernelzeroday) Starred [UlfarErl/lampgpt](https://github.com/UlfarErl/lampgpt)
+  > An LLM-enchanced Infocom Experience
+
 ### [luckyzyx](https://github.com/luckyzyx)
 - 🌟 👤 [luckyzyx](https://github.com/luckyzyx) Starred [KOWX712/PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix)
   > Fix Play Integrity verdicts.
@@ -64,6 +92,10 @@
 - 🌟 👤 [mistymntncop](https://github.com/mistymntncop) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
   > Decompiler written in Rust
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui)
+  > 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Svelte...
+
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [KlparetlR/Bgi_asdis](https://github.com/KlparetlR/Bgi_asdis)
   > Binary Script File Disassembler (Similar to disassembly) and Assembler for BGI (Buriko General Inter...
@@ -75,6 +107,24 @@
 ### [peiqiF4ck](https://github.com/peiqiF4ck)
 - 🌟 👤 [peiqiF4ck](https://github.com/peiqiF4ck) Starred [TwoSevenOneT/EDR-Freeze](https://github.com/TwoSevenOneT/EDR-Freeze)
   > EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state.
+
+### [rankalpha](https://github.com/rankalpha)
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) to [rankalpha/APKEditor](https://github.com/rankalpha/APKEditor)
+  > Powerful android apk editor - aapt/aapt2 independent
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver)
+  > Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop ...
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [hang666/JustTrustMePro](https://github.com/hang666/JustTrustMePro) to [rankalpha/JustTrustMePro](https://github.com/rankalpha/JustTrustMePro)
+  > An xposed module that disables SSL certificate checking for the purposes of auditing an app with cer...
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [Nitsuya/AADisplay](https://github.com/Nitsuya/AADisplay)
+  > 让Android Auto显示任意应用, 基于VirtualDisplay的套娃方案
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [LLeavesG/eBPFDexDumper](https://github.com/LLeavesG/eBPFDexDumper) to [rankalpha/eBPFDexDumper](https://github.com/rankalpha/eBPFDexDumper)
+  > DexDumper based eBPF on Android Platform
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [openatx/uiautomator2](https://github.com/openatx/uiautomator2) to [rankalpha/uiautomator2](https://github.com/rankalpha/uiautomator2)
+  > Android Uiautomator2 Python Wrapper
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg)
+  > State-of-the-art native debugging tools
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [idyll5988/APatch-KSU-Partition-Read-Write](https://github.com/idyll5988/APatch-KSU-Partition-Read-Write) to [rankalpha/APatch-KSU-Partition-Read-Write](https://github.com/rankalpha/APatch-KSU-Partition-Read-Write)
+  > APatch and KSU make direct modification of system partitions readable and writable via OverlayFS
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [frida/frida-gum](https://github.com/frida/frida-gum)
@@ -90,6 +140,9 @@
 - 🌟 👤 [s045pd](https://github.com/s045pd) Starred [roboflow/supervision](https://github.com/roboflow/supervision)
   > We write your reusable computer vision tools. 💜
 
+### [uvbs](https://github.com/uvbs)
+- 🍴 👤 [uvbs](https://github.com/uvbs) Forked [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) to [uvbs/AuroraStore](https://github.com/uvbs/AuroraStore)
+
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust)
   > Cap'n Proto for Rust
@@ -100,5 +153,5 @@
 
 
 ---
-*最后更新于 2025-09-27 12:40:59 UTC*
+*最后更新于 2025-09-27 13:23:32 UTC*
 *历史记录保存在 `archive` 目录中。*
