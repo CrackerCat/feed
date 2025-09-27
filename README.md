@@ -26,6 +26,10 @@
 - 🚀 👤 [CTF-Archives](https://github.com/CTF-Archives) Made [CTF-Archives/2025-SDNISC-haixuan](https://github.com/CTF-Archives/2025-SDNISC-haixuan) public
   > “鹏云杯”第十二届山东省大学生网络安全技能大赛网络安全技术爱好者线上选拔赛
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [SiriusArc7/TD2_GARL](https://github.com/SiriusArc7/TD2_GARL)
+  > test repository
+
 ### [DerekSelander](https://github.com/DerekSelander)
 - 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [kormax/apple-vas](https://github.com/kormax/apple-vas)
   > Researching Apple VAS protocol
@@ -45,9 +49,15 @@
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [soot-oss/soot](https://github.com/soot-oss/soot)
   > Soot - A Java optimization framework
 
+### [Moe-hacker](https://github.com/Moe-hacker)
+- ✨ 👤 [Moe-hacker](https://github.com/Moe-hacker) Created new repo [RuriOSS/rurima-aio](https://github.com/RuriOSS/rurima-aio)
+  > (aarch64/src) Binary pack for rurima with dependents
+
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [onewinner/POCS](https://github.com/onewinner/POCS)
   > 收集最新漏洞POC（Yaml\Python）
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [eclipse-mat/mat](https://github.com/eclipse-mat/mat)
+  > The Eclipse Memory Analyzer is a fast and feature-rich Java heap dump analyzer that helps you find m...
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [smallkirby/kernelpwn](https://github.com/smallkirby/kernelpwn)
@@ -81,6 +91,10 @@
 - 🌟 👤 [boy-hack](https://github.com/boy-hack) Starred [cloudwego/eino](https://github.com/cloudwego/eino)
   > The ultimate LLM/AI application development framework in Golang.
 
+### [breaking153](https://github.com/breaking153)
+- 🌟 👤 [breaking153](https://github.com/breaking153) Starred [acidicoala/SmokeAPI](https://github.com/acidicoala/SmokeAPI)
+  > Legit DLC Unlocker for Steamworks
+
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [zesterer/flume](https://github.com/zesterer/flume)
   > A safe and fast multi-producer, multi-consumer channel.
@@ -88,6 +102,10 @@
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [ansible/ansible](https://github.com/ansible/ansible)
   > Ansible is a radically simple IT automation platform that makes your applications and systems easier...
+
+### [cozis](https://github.com/cozis)
+- 🌟 👤 [cozis](https://github.com/cozis) Starred [typst/typst](https://github.com/typst/typst)
+  > A new markup-based typesetting system that is powerful and easy to learn.
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [oop7/YTSage](https://github.com/oop7/YTSage)
@@ -144,9 +162,18 @@
 - 🌟 👤 [kernelzeroday](https://github.com/kernelzeroday) Starred [UlfarErl/lampgpt](https://github.com/UlfarErl/lampgpt)
   > An LLM-enchanced Infocom Experience
 
+### [linxid](https://github.com/linxid)
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [morningsky/NTU-ReinforcementLearning-Notes](https://github.com/morningsky/NTU-ReinforcementLearning-Notes)
+  > 国立台湾大学李宏毅老师讲解的深度强化学习学习笔记
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+  > This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."
+
 ### [luckyzyx](https://github.com/luckyzyx)
 - 🌟 👤 [luckyzyx](https://github.com/luckyzyx) Starred [KOWX712/PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix)
   > Fix Play Integrity verdicts.
+- 🌟 👤 [luckyzyx](https://github.com/luckyzyx) Starred [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)
+  > Fix Play Integrity <A13 verdicts, allowing custom fields and props
+- 🌟 👤 [luckyzyx](https://github.com/luckyzyx) Starred [qwq233/TrickyStore](https://github.com/qwq233/TrickyStore)
 
 ### [mav8557](https://github.com/mav8557)
 - 🌟 👤 [mav8557](https://github.com/mav8557) Starred [davidlattimore/wild](https://github.com/davidlattimore/wild)
@@ -232,6 +259,9 @@
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [mthcht/Purpleteam](https://github.com/mthcht/Purpleteam)
   > Purpleteam scripts simulation & Detection - trigger events for SOC detections
 
+### [ricardojoserf](https://github.com/ricardojoserf)
+- 🌟 👤 [ricardojoserf](https://github.com/ricardojoserf) Starred [CCob/Volumiser](https://github.com/CCob/Volumiser)
+
 ### [s045pd](https://github.com/s045pd)
 - 🌟 👤 [s045pd](https://github.com/s045pd) Starred [roboflow/supervision](https://github.com/roboflow/supervision)
   > We write your reusable computer vision tools. 💜
@@ -241,10 +271,16 @@
   > 人人都能用英语
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) to [smallzhong/everyone-can-use-english](https://github.com/smallzhong/everyone-can-use-english)
   > 人人都能用英语
+- 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [un4ckn0wl3z/i386-emulator](https://github.com/un4ckn0wl3z/i386-emulator)
+  > An experimental i386 CPU Real Mode Emulator
 
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [george-hopkins/usbip-windows](https://github.com/george-hopkins/usbip-windows)
   > USB/IP for Windows
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [cherry-embedded/CherryUSB](https://github.com/cherry-embedded/CherryUSB)
+  > CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedd...
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [IntergatedCircuits/IPoverUSB](https://github.com/IntergatedCircuits/IPoverUSB)
+  > STM32 lwIP networking via USB
 
 ### [tranleduy2000](https://github.com/tranleduy2000)
 - 🌟 👤 [tranleduy2000](https://github.com/tranleduy2000) Starred [instantX-research/InstantStyle](https://github.com/instantX-research/InstantStyle)
@@ -260,6 +296,10 @@
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🌟 👤 [wszqkzqk](https://github.com/wszqkzqk) Starred [apple/ml-simplefold](https://github.com/apple/ml-simplefold)
 
+### [wxhzhwxhzh](https://github.com/wxhzhwxhzh)
+- 🌟 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Starred [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+  > 中国程序员容易发音错误的单词
+
 ### [yhs0602](https://github.com/yhs0602)
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [mrkite/TerraFirma](https://github.com/mrkite/TerraFirma)
   > Mapping for Terraria
@@ -274,5 +314,5 @@
 
 
 ---
-*最后更新于 2025-09-27 14:38:46 UTC*
+*最后更新于 2025-09-27 15:19:17 UTC*
 *历史记录保存在 `archive` 目录中。*
