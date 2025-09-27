@@ -4,9 +4,15 @@
 
 ## 今日动态
 
+### [19h](https://github.com/19h)
+- ✨ 👤 [19h](https://github.com/19h) Created new repo [19h/paq9a-rs](https://github.com/19h/paq9a-rs)
+  > Port of paq9a to idiomatic, modern Rust
+
 ### [AabyssZG](https://github.com/AabyssZG)
 - 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports)
   > Top disclosed reports from HackerOne
+- 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [SleepingBag945/frpCracker](https://github.com/SleepingBag945/frpCracker)
+  > 一款golang编写的，批量检测frp server未授权访问、弱token的工具
 
 ### [Ackites](https://github.com/Ackites)
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd)
@@ -75,9 +81,19 @@
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot)
   > NAS媒体库自动化管理工具
 
+### [Krietz7](https://github.com/Krietz7)
+- 🌟 👤 [Krietz7](https://github.com/Krietz7) Starred [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox)
+  > A cross-platform launcher that simply works
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - ✨ 👤 [Moe-hacker](https://github.com/Moe-hacker) Created new repo [RuriOSS/rurima-aio](https://github.com/RuriOSS/rurima-aio)
   > (aarch64/src) Binary pack for rurima with dependents
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [uutils/coreutils](https://github.com/uutils/coreutils)
+  > Cross-platform Rust rewrite of the GNU coreutils
+
+### [Nero22k](https://github.com/Nero22k)
+- 🌟 👤 [Nero22k](https://github.com/Nero22k) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
+  > Windows protocol library, including SMB and RPC implementations, among others.
 
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [onewinner/POCS](https://github.com/onewinner/POCS)
@@ -103,6 +119,10 @@
 ### [Super12138](https://github.com/Super12138)
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [Super12138/ToDo](https://github.com/Super12138/ToDo)
   > 一个简单的、遵循 Material Design 3 的待办应用，使用 Jetpack Compose 编写 | A simple to-do app that follows Material De...
+
+### [U039b](https://github.com/U039b)
+- 🌟 👤 [U039b](https://github.com/U039b) Starred [FiloSottile/age](https://github.com/FiloSottile/age)
+  > A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config opt...
 
 ### [X1r0z](https://github.com/X1r0z)
 - 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [LandGrey/copagent](https://github.com/LandGrey/copagent)
@@ -130,6 +150,14 @@
 ### [breaking153](https://github.com/breaking153)
 - 🌟 👤 [breaking153](https://github.com/breaking153) Starred [acidicoala/SmokeAPI](https://github.com/acidicoala/SmokeAPI)
   > Legit DLC Unlocker for Steamworks
+
+### [chancerly](https://github.com/chancerly)
+- 🌟 👤 [chancerly](https://github.com/chancerly) Starred [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
+  > The best way to get AI to solve hard problems in complex codebases.
+
+### [chsbuffer](https://github.com/chsbuffer)
+- 🍴 👤 [chsbuffer](https://github.com/chsbuffer) Forked [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) to [chsbuffer/revanced-patches](https://github.com/chsbuffer/revanced-patches)
+  > 🧩 Patches for ReVanced
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [zesterer/flume](https://github.com/zesterer/flume)
@@ -177,6 +205,10 @@
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [PRO-2684/OnePlus13-Boots](https://github.com/PRO-2684/OnePlus13-Boots) to [feicong/OnePlus13-Boots](https://github.com/feicong/OnePlus13-Boots)
   > 🥾 `boot`, `init_boot` & `vendor_boot` images for OnePlus 13
 
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [iChochy/NCE](https://github.com/iChochy/NCE)
+  > 《新概念英语》全四册在线课文朗读、单句点读
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [agmmnn/tauri-controls](https://github.com/agmmnn/tauri-controls) to [gmh5225/tauri-controls](https://github.com/gmh5225/tauri-controls)
   > 🚥 Native-looking window controls for Tauri 2. React, Solid, Vue, Svelte+Tailwind.
@@ -195,6 +227,10 @@
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [changlan/Age_of_Empires_II_Definitive-Edition-SDK](https://github.com/changlan/Age_of_Empires_II_Definitive-Edition-SDK)
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [FLWL/aoe2-ai-module](https://github.com/FLWL/aoe2-ai-module)
   > Library to extend AI scripting capabilities in Age of Empires 2.
+
+### [i64](https://github.com/i64)
+- 🌟 👤 [i64](https://github.com/i64) Starred [sqliteai/sqlite-vector](https://github.com/sqliteai/sqlite-vector)
+  > SQLite-Vector is a cross-platform, ultra-efficient SQLite extension that brings vector search capabi...
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
@@ -219,6 +255,12 @@
 ### [laozig](https://github.com/laozig)
 - 🌟 👤 [laozig](https://github.com/laozig) Starred [lkmvip/netflix-4K-DDplus](https://github.com/lkmvip/netflix-4K-DDplus)
   > MicrosoftEdge(Chromium core) extension to play Netflix in 4K（Restricted）and DDplus audio
+
+### [lightless233](https://github.com/lightless233)
+- 🌟 👤 [lightless233](https://github.com/lightless233) Starred [iKeepLearn/db-back-tool](https://github.com/iKeepLearn/db-back-tool)
+  > postgresql、mysql数据库备份并上传到腾讯云或者阿里云或兼容S3协议的其他云存储，同时可列出、删除云上存储的备份文件。
+- 🌟 👤 [lightless233](https://github.com/lightless233) Starred [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
+  > A cross-platform network monitoring terminal UI tool built with Rust.
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [morningsky/NTU-ReinforcementLearning-Notes](https://github.com/morningsky/NTU-ReinforcementLearning-Notes)
@@ -316,6 +358,8 @@
   > Android So文件浏览修复工具
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) to [rankalpha/linux-insides-zh](https://github.com/rankalpha/linux-insides-zh)
   > Linux 内核揭秘
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [Exo1i/MagiskHluda](https://github.com/Exo1i/MagiskHluda) to [rankalpha/MagiskHluda](https://github.com/rankalpha/MagiskHluda)
+  > Run a more undetectable frida server on boot using magisk 🔐✅
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [ltsdw/gofile-downloader](https://github.com/ltsdw/gofile-downloader)
@@ -341,6 +385,10 @@
 ### [s045pd](https://github.com/s045pd)
 - 🌟 👤 [s045pd](https://github.com/s045pd) Starred [roboflow/supervision](https://github.com/roboflow/supervision)
   > We write your reusable computer vision tools. 💜
+
+### [safe6Sec](https://github.com/safe6Sec)
+- 🌟 👤 [safe6Sec](https://github.com/safe6Sec) Starred [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)
+  > Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Troja...
 
 ### [smallzhong](https://github.com/smallzhong)
 - 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
@@ -376,6 +424,10 @@
 - ✨ 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Created new repo [un4ckn0wl3z/i386-emulator](https://github.com/un4ckn0wl3z/i386-emulator)
   > An experimental i386 CPU Real Mode Emulator
 
+### [unixpickle](https://github.com/unixpickle)
+- ✨ 👤 [unixpickle](https://github.com/unixpickle) Created new repo [unixpickle/learn-parsers](https://github.com/unixpickle/learn-parsers)
+  > Parsers based on context free grammars
+
 ### [uvbs](https://github.com/uvbs)
 - 🍴 👤 [uvbs](https://github.com/uvbs) Forked [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) to [uvbs/AuroraStore](https://github.com/uvbs/AuroraStore)
 
@@ -385,6 +437,8 @@
 ### [wxhzhwxhzh](https://github.com/wxhzhwxhzh)
 - 🌟 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Starred [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
   > 中国程序员容易发音错误的单词
+- 🌟 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+  > Chrome DevTools for coding agents
 
 ### [xiaolai](https://github.com/xiaolai)
 - ✨ 👤 [xiaolai](https://github.com/xiaolai) Created new repo [xiaolai/tepub](https://github.com/xiaolai/tepub)
@@ -403,5 +457,5 @@
 
 
 ---
-*最后更新于 2025-09-27 17:38:00 UTC*
+*最后更新于 2025-09-27 18:28:37 UTC*
 *历史记录保存在 `archive` 目录中。*
