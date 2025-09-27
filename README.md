@@ -126,6 +126,10 @@
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [Arize-ai/openinference](https://github.com/Arize-ai/openinference)
   > OpenTelemetry Instrumentation for AI Observability
 
+### [MatheuZSecurity](https://github.com/MatheuZSecurity)
+- 🌟 👤 [MatheuZSecurity](https://github.com/MatheuZSecurity) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
+  > LKM rootkit for modern kernels (6x)
+
 ### [MikeWang000000](https://github.com/MikeWang000000)
 - 🍴 👤 [MikeWang000000](https://github.com/MikeWang000000) Forked [cross-tools/musl-cross](https://github.com/cross-tools/musl-cross) to [MikeWang000000/musl-cross](https://github.com/MikeWang000000/musl-cross)
   > Cross-compile toolchain with musl libc
@@ -579,6 +583,10 @@
 ### [ricardojoserf](https://github.com/ricardojoserf)
 - 🌟 👤 [ricardojoserf](https://github.com/ricardojoserf) Starred [CCob/Volumiser](https://github.com/CCob/Volumiser)
 
+### [rushiiMachine](https://github.com/rushiiMachine)
+- 🍴 👤 [rushiiMachine](https://github.com/rushiiMachine) Forked [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) to [rushiiMachine/Discord3rdparties](https://github.com/rushiiMachine/Discord3rdparties)
+  > A non-exhaustive collection of third-party clients and mods for Discord.
+
 ### [s045pd](https://github.com/s045pd)
 - 🌟 👤 [s045pd](https://github.com/s045pd) Starred [roboflow/supervision](https://github.com/roboflow/supervision)
   > We write your reusable computer vision tools. 💜
@@ -659,6 +667,10 @@
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🌟 👤 [wszqkzqk](https://github.com/wszqkzqk) Starred [apple/ml-simplefold](https://github.com/apple/ml-simplefold)
 
+### [wszxl516](https://github.com/wszxl516)
+- 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [Vrtgs/thirtyfour](https://github.com/Vrtgs/thirtyfour)
+  > Selenium WebDriver client for Rust, for automated testing of websites
+
 ### [wxhzhwxhzh](https://github.com/wxhzhwxhzh)
 - 🌟 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Starred [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
   > 中国程序员容易发音错误的单词
@@ -690,5 +702,5 @@
 
 
 ---
-*最后更新于 2025-09-27 21:17:59 UTC*
+*最后更新于 2025-09-27 21:38:53 UTC*
 *历史记录保存在 `archive` 目录中。*
