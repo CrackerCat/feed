@@ -208,6 +208,9 @@
 - 🌟 👤 [VonChange](https://github.com/VonChange) Starred [flyfishxu/Kadb](https://github.com/flyfishxu/Kadb)
   > A Kotlin Multiplatform library to connect Android devices directly without ADB binary file.
 
+### [WildKernels](https://github.com/WildKernels)
+- 🚀 👤 [WildKernels](https://github.com/WildKernels) Made [WildKernels/SurfaceDuo2_KernelSU_SUSFS](https://github.com/WildKernels/SurfaceDuo2_KernelSU_SUSFS) public
+
 ### [X1r0z](https://github.com/X1r0z)
 - 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [LandGrey/copagent](https://github.com/LandGrey/copagent)
   > java memory web shell extracting tool
@@ -227,8 +230,8 @@
   > Private, fast, and honest web browser
 
 ### [anantshri](https://github.com/anantshri)
-- 🌟 👤 [anantshri](https://github.com/anantshri) Starred [cyfinoid/ghnavigator](https://github.com/cyfinoid/ghnavigator)
-  > Github navigator via ghtoken
+- ✨ 👤 [anantshri](https://github.com/anantshri) Created new repo [anantshri/hugo-techie-personal](https://github.com/anantshri/hugo-techie-personal)
+  > A timeline-based personal site theme designed specifically for tech professionals who love to share ...
 
 ### [apsun](https://github.com/apsun)
 - 🌟 👤 [apsun](https://github.com/apsun) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
@@ -301,6 +304,10 @@
 ### [elnormous](https://github.com/elnormous)
 - 🌟 👤 [elnormous](https://github.com/elnormous) Starred [Alucard24/Rope](https://github.com/Alucard24/Rope)
   > GUI-focused roop
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [NixOS/patchelf](https://github.com/NixOS/patchelf)
+  > A small utility to modify the dynamic linker and RPATH of ELF executables
 
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [antgroup/FluidMarkdown](https://github.com/antgroup/FluidMarkdown)
@@ -404,8 +411,6 @@
 - 🌟 👤 [jaywcjlove](https://github.com/jaywcjlove) Starred [jaywcjlove/vidwall-hub](https://github.com/jaywcjlove/vidwall-hub)
 
 ### [jianglin-code](https://github.com/jianglin-code)
-- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
-  > C++ Library Manager for Windows, Linux, and MacOS
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [DetectionTeamUCAS/RRPN_Faster-RCNN_Tensorflow](https://github.com/DetectionTeamUCAS/RRPN_Faster-RCNN_Tensorflow)
   > A tensorflow re-implementation of RRPN: Arbitrary-Oriented Scene Text Detection via Rotation Proposa...
 
@@ -450,8 +455,6 @@
   > Public Python SDK for Lighter
 
 ### [luckyzyx](https://github.com/luckyzyx)
-- 🌟 👤 [luckyzyx](https://github.com/luckyzyx) Starred [KOWX712/PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix)
-  > Fix Play Integrity verdicts.
 - 🌟 👤 [luckyzyx](https://github.com/luckyzyx) Starred [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)
   > Fix Play Integrity <A13 verdicts, allowing custom fields and props
 - 🌟 👤 [luckyzyx](https://github.com/luckyzyx) Starred [qwq233/TrickyStore](https://github.com/qwq233/TrickyStore)
@@ -621,6 +624,7 @@
   > A macOS implementation of the USB/IP protocol.
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [ChongZhiJie0216/usbip-webui](https://github.com/ChongZhiJie0216/usbip-webui)
   > A usb over ip using webui control based by python
+- ✨ 👤 [suifei](https://github.com/suifei) Created new repo [suifei/usbctl](https://github.com/suifei/usbctl)
 
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma)
@@ -698,5 +702,5 @@
 
 
 ---
-*最后更新于 2025-09-27 23:19:14 UTC*
+*最后更新于 2025-09-27 23:38:52 UTC*
 *历史记录保存在 `archive` 目录中。*
