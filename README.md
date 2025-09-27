@@ -8,9 +8,19 @@
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd)
   > x-cmd: Bootstrap 1000+ command line tools in seconds.
 
+### [Alex313031](https://github.com/Alex313031)
+- ✨ 👤 [Alex313031](https://github.com/Alex313031) Created new repo [Alex313031/win7-samples](https://github.com/Alex313031/win7-samples)
+  > Win7 Sample C++ Win32 code from https://github.com/microsoft/Windows-classic-samples
+
 ### [AnkioTomas](https://github.com/AnkioTomas)
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
   > The open-source CapCut alternative
+
+### [Asabeneh](https://github.com/Asabeneh)
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [ESSS/conda-devenv](https://github.com/ESSS/conda-devenv)
+  > A conda tool to work with multiple projects in development mode.
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [adamchainz/apig-wsgi](https://github.com/adamchainz/apig-wsgi)
+  > Wrap a WSGI application in an AWS Lambda handler function for running on API Gateway or an ALB.
 
 ### [CTF-Archives](https://github.com/CTF-Archives)
 - 🚀 👤 [CTF-Archives](https://github.com/CTF-Archives) Made [CTF-Archives/2025-SDNISC-haixuan](https://github.com/CTF-Archives/2025-SDNISC-haixuan) public
@@ -35,9 +45,17 @@
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [soot-oss/soot](https://github.com/soot-oss/soot)
   > Soot - A Java optimization framework
 
+### [No-Github](https://github.com/No-Github)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [onewinner/POCS](https://github.com/onewinner/POCS)
+  > 收集最新漏洞POC（Yaml\Python）
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [smallkirby/kernelpwn](https://github.com/smallkirby/kernelpwn)
   > kernel-pwn and writeup collection
+
+### [PoomSmart](https://github.com/PoomSmart)
+- 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [khanhduytran0/Sim26Booter](https://github.com/khanhduytran0/Sim26Booter)
+  > Attempt to boot iOS 26 simulator on iOS 16 (WIP)
 
 ### [Super12138](https://github.com/Super12138)
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [Super12138/ToDo](https://github.com/Super12138/ToDo)
@@ -82,6 +100,12 @@
   > Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [MrTurvey/flareprox](https://github.com/MrTurvey/flareprox)
   > Use Cloudflare to create HTTP pass-through proxies for unique IP rotation, similar to fireprox
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [imputnet/helium](https://github.com/imputnet/helium)
+  > Private, fast, and honest web browser
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [apache/kvrocks](https://github.com/apache/kvrocks)
+  > Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is ...
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [PRO-2684/OnePlus13-Boots](https://github.com/PRO-2684/OnePlus13-Boots)
@@ -226,8 +250,15 @@
 - 🌟 👤 [tranleduy2000](https://github.com/tranleduy2000) Starred [instantX-research/InstantStyle](https://github.com/instantX-research/InstantStyle)
   > InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥
 
+### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
+- ✨ 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Created new repo [un4ckn0wl3z/i386-emulator](https://github.com/un4ckn0wl3z/i386-emulator)
+  > An experimental i386 CPU Real Mode Emulator
+
 ### [uvbs](https://github.com/uvbs)
 - 🍴 👤 [uvbs](https://github.com/uvbs) Forked [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) to [uvbs/AuroraStore](https://github.com/uvbs/AuroraStore)
+
+### [wszqkzqk](https://github.com/wszqkzqk)
+- 🌟 👤 [wszqkzqk](https://github.com/wszqkzqk) Starred [apple/ml-simplefold](https://github.com/apple/ml-simplefold)
 
 ### [yhs0602](https://github.com/yhs0602)
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [mrkite/TerraFirma](https://github.com/mrkite/TerraFirma)
@@ -243,5 +274,5 @@
 
 
 ---
-*最后更新于 2025-09-27 14:18:01 UTC*
+*最后更新于 2025-09-27 14:38:46 UTC*
 *历史记录保存在 `archive` 目录中。*
