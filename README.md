@@ -29,6 +29,14 @@
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
   > FinceptTerminal is a modern finance application offering advanced market analytics, investment resea...
 
+### [AnkioTomas](https://github.com/AnkioTomas)
+- ✨ 👤 [AnkioTomas](https://github.com/AnkioTomas) Created new repo [NovaCrossLink/CPITP](https://github.com/NovaCrossLink/CPITP)
+  > Cross-Platform Information Transfer Protocol
+
+### [Avery-lab1](https://github.com/Avery-lab1)
+- 🌟 👤 [Avery-lab1](https://github.com/Avery-lab1) Starred [CrackerCat/strongR-frida-android](https://github.com/CrackerCat/strongR-frida-android)
+  > An anti detection version frida-server for android.
+
 ### [Konano](https://github.com/Konano)
 - 🌟 👤 [Konano](https://github.com/Konano) Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
   > Open Source AI coding assistant for planning, building, and fixing code. We frequently merge feature...
@@ -77,6 +85,12 @@
 ### [anantshri](https://github.com/anantshri)
 - 🍴 👤 [anantshri](https://github.com/anantshri) Forked [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) to [anantshri/hugoThemesSiteBuilder](https://github.com/anantshri/hugoThemesSiteBuilder)
   > The source for https://themes.gohugo.io
+
+### [byt3n33dl3](https://github.com/byt3n33dl3)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [antonioCoco/SharPyShell](https://github.com/antonioCoco/SharPyShell)
+  > SharPyShell - tiny and obfuscated ASP.NET webshell for C# web applications
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [antonioCoco/SspiUacBypass](https://github.com/antonioCoco/SspiUacBypass)
+  > Bypassing UAC with SSPI Datagram Contexts 
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [googleapis/go-genai](https://github.com/googleapis/go-genai)
@@ -188,6 +202,48 @@
 - 🌟 👤 [kmiit](https://github.com/kmiit) Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
   > The Fully Customizable Desktop Environment for Windows 10/11.
 
+### [kost](https://github.com/kost)
+- 🌟 👤 [kost](https://github.com/kost) Starred [tomcarver16/ADSearch](https://github.com/tomcarver16/ADSearch)
+  > A tool to help query AD via the LDAP protocol
+- 🌟 👤 [kost](https://github.com/kost) Starred [iknowjason/gpu-ai-playground](https://github.com/iknowjason/gpu-ai-playground)
+  > An AI Playground for self-hosted LLM + GPU and several tools with terraform IaC automation.  Hosted ...
+- 🌟 👤 [kost](https://github.com/kost) Starred [med0x2e/GadgetToJScript](https://github.com/med0x2e/GadgetToJScript)
+  > A tool for generating .NET serialized gadgets that can trigger .NET assembly load/execution when des...
+- 🌟 👤 [kost](https://github.com/kost) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+  > Chrome DevTools for coding agents
+- 🌟 👤 [kost](https://github.com/kost) Starred [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
+  > The best way to get AI coding agents to solve hard problems in complex codebases.
+- 🌟 👤 [kost](https://github.com/kost) Starred [ShareX/ShareX](https://github.com/ShareX/ShareX)
+  > ShareX is a free and open-source application that enables users to capture or record any area of the...
+- 🌟 👤 [kost](https://github.com/kost) Starred [rasta-mouse/Titanis](https://github.com/rasta-mouse/Titanis)
+  > Windows protocol library, including SMB and RPC implementations, among others.
+- 🌟 👤 [kost](https://github.com/kost) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
+  > Windows protocol library, including SMB and RPC implementations, among others.
+- 🌟 👤 [kost](https://github.com/kost) Starred [CompassSecurity/BloodHoundQueries](https://github.com/CompassSecurity/BloodHoundQueries)
+- 🌟 👤 [kost](https://github.com/kost) Starred [CompassSecurity/bloodhoundce-resources](https://github.com/CompassSecurity/bloodhoundce-resources)
+- 🌟 👤 [kost](https://github.com/kost) Starred [7h3w4lk3r/Kill-Floor](https://github.com/7h3w4lk3r/Kill-Floor)
+  > AV/EDR killer using BYOVD technique
+- 🌟 👤 [kost](https://github.com/kost) Starred [mr-pmillz/nmapTables](https://github.com/mr-pmillz/nmapTables)
+  > Program to create simple HTML tables for nmap services that can be imported into word
+- 🌟 👤 [kost](https://github.com/kost) Starred [gatariee/gocheck](https://github.com/gatariee/gocheck)
+  > Because AV evasion should be easy.
+- 🌟 👤 [kost](https://github.com/kost) Starred [zigpy/zigpy-cli](https://github.com/zigpy/zigpy-cli)
+  > Command line interface for zigpy
+- 🌟 👤 [kost](https://github.com/kost) Starred [MaorSabag/TrueSightKiller](https://github.com/MaorSabag/TrueSightKiller)
+  > CPP AV/EDR Killer
+- 🌟 👤 [kost](https://github.com/kost) Starred [SpaceTeddy/WireGuard-ESP32-Arduino](https://github.com/SpaceTeddy/WireGuard-ESP32-Arduino)
+  > WireGuard implementation for ESP32 Arduino
+- 🌟 👤 [kost](https://github.com/kost) Starred [kienvu58/WireGuard-ESP32-Arduino](https://github.com/kienvu58/WireGuard-ESP32-Arduino)
+  > WireGuard implementation for ESP32 Arduino
+- 🌟 👤 [kost](https://github.com/kost) Starred [DefensiveOrigins/DockerEngineAPI-EnumSensitive](https://github.com/DefensiveOrigins/DockerEngineAPI-EnumSensitive)
+  > a quick script to capture the environment variables from all docker containers
+- 🌟 👤 [kost](https://github.com/kost) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+- 🌟 👤 [kost](https://github.com/kost) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
+  > LKM rootkit for modern kernels (6x)
+- 🌟 👤 [kost](https://github.com/kost) Starred [thefLink/Hunt-Sleeping-Beacons](https://github.com/thefLink/Hunt-Sleeping-Beacons)
+  > Aims to identify sleeping beacons
+
 ### [ledccn](https://github.com/ledccn)
 - 🍴 👤 [ledccn](https://github.com/ledccn) Forked [symfony/dom-crawler](https://github.com/symfony/dom-crawler) to [ledccn/dom-crawler](https://github.com/ledccn/dom-crawler)
   > Eases DOM navigation for HTML and XML documents
@@ -244,6 +300,10 @@
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [Shreyas-Penkar/CVE-2024-38399](https://github.com/Shreyas-Penkar/CVE-2024-38399)
   > PoC for CVE-2024-38399
 
+### [qi4L](https://github.com/qi4L)
+- 🌟 👤 [qi4L](https://github.com/qi4L) Starred [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS)
+  > MemProcFS
+
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router)
   > A Unified MCP Server Management App
@@ -268,6 +328,10 @@
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap)
   > Binary Analysis Platform
 
+### [wa1ki0g](https://github.com/wa1ki0g)
+- 🍴 👤 [wa1ki0g](https://github.com/wa1ki0g) Forked [gloxec/CrossC2](https://github.com/gloxec/CrossC2) to [wa1ki0g/CrossC2](https://github.com/wa1ki0g/CrossC2)
+  > generate CobaltStrike's cross-platform payload
+
 ### [ymdzq](https://github.com/ymdzq)
 - 🍴 👤 [ymdzq](https://github.com/ymdzq) Forked [mlm-games/TWRP_OFOX_PBRP_SHRP_Recovery_Builder](https://github.com/mlm-games/TWRP_OFOX_PBRP_SHRP_Recovery_Builder) to [ymdzq/Recovery_Builder](https://github.com/ymdzq/Recovery_Builder)
   > Recovery Builder for TWRP, SHRP, Orangefox (OFOX), PBRP
@@ -278,5 +342,5 @@
 
 
 ---
-*最后更新于 2025-09-28 04:42:54 UTC*
+*最后更新于 2025-09-28 05:21:09 UTC*
 *历史记录保存在 `archive` 目录中。*
