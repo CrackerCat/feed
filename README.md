@@ -67,10 +67,6 @@
 - 🌟 👤 [Konano](https://github.com/Konano) Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
   > Open Source AI coding assistant for planning, building, and fixing code. We frequently merge feature...
 
-### [KuNgia09](https://github.com/KuNgia09)
-- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan)
-  > 机场推荐与机场评测
-
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT)
   > 现代化 Android & OpenHarmony 工具箱 | A Modern Toolbox for Android & OpenHarmony Devices
@@ -112,10 +108,6 @@
 ### [QingYuan688](https://github.com/QingYuan688)
 - 🌟 👤 [QingYuan688](https://github.com/QingYuan688) Starred [SukiSU-Ultra/SukiSU_KernelPatch_patch](https://github.com/SukiSU-Ultra/SukiSU_KernelPatch_patch)
 
-### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
-- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [Ccccccccvvm/DouYin_algorithm](https://github.com/Ccccccccvvm/DouYin_algorithm)
-  > Dy版本 26.0.0 算法分析
-
 ### [SummerSec](https://github.com/SummerSec)
 - 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
@@ -133,6 +125,10 @@
 - 🌟 👤 [Tokeii0](https://github.com/Tokeii0) Starred [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
   > 🚀 Awesome Tauri Apps, Plugins and Resources
 
+### [U039b](https://github.com/U039b)
+- 🌟 👤 [U039b](https://github.com/U039b) Starred [whad-team/whad-client](https://github.com/whad-team/whad-client)
+  > Wireless Hacking Devices Protocol client
+
 ### [Vaaaleeeraaa](https://github.com/Vaaaleeeraaa)
 - 🍴 👤 [Vaaaleeeraaa](https://github.com/Vaaaleeeraaa) Forked [CrackerCat/AIDE-Mods](https://github.com/CrackerCat/AIDE-Mods) to [Vaaaleeeraaa/AIDE-Mods](https://github.com/Vaaaleeeraaa/AIDE-Mods)
   > Works better than the original AIDE.
@@ -146,14 +142,6 @@
   > An Interactive Hex-Rays Microcode Explorer
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [Fireboyd78/lucid](https://github.com/Fireboyd78/lucid) to [Ylarod/lucid](https://github.com/Ylarod/lucid)
   > An Interactive Hex-Rays Microcode Explorer
-
-### [YunYouJun](https://github.com/YunYouJun)
-- 🍴 👤 [YunYouJun](https://github.com/YunYouJun) Forked [cocos/cocos-docs](https://github.com/cocos/cocos-docs) to [YunYouJun/cocos-docs](https://github.com/YunYouJun/cocos-docs)
-  > Manual docs content for Cocos Creator
-
-### [ZephrFish](https://github.com/ZephrFish)
-- 🚀 👤 [ZephrFish](https://github.com/ZephrFish) Made [ZephrFish/OmniProx](https://github.com/ZephrFish/OmniProx) public
-  > IP Rotation from different providers - Like FireProx but for GCP, Azure, Alibaba and CloudFlare
 
 ### [aadog](https://github.com/aadog)
 - 🌟 👤 [aadog](https://github.com/aadog) Starred [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs)
@@ -189,8 +177,6 @@
   > Free, no-nonsense, super fast blogging.
 
 ### [cxapython](https://github.com/cxapython)
-- 🌟 👤 [cxapython](https://github.com/cxapython) Starred [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor)
-  > Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 15
 - 🍴 👤 [cxapython](https://github.com/cxapython) Forked [skylot/jadx](https://github.com/skylot/jadx) to [cxapython/jadx](https://github.com/cxapython/jadx)
   > Dex to Java decompiler
 - 🍴 👤 [cxapython](https://github.com/cxapython) Forked [Mingyueyixi/MaskWechat](https://github.com/Mingyueyixi/MaskWechat) to [cxapython/MaskWechat](https://github.com/cxapython/MaskWechat)
@@ -508,6 +494,10 @@
   > List of environments and competitions for RL and AI training
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)
   > HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [qiwang067/awesome-visual-rl](https://github.com/qiwang067/awesome-visual-rl)
+  > A curated list of visual reinforcement learning resources
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [hiyouga/EasyR1](https://github.com/hiyouga/EasyR1)
+  > EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL
 
 ### [lqqyt2423](https://github.com/lqqyt2423)
 - 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
@@ -561,6 +551,10 @@
   > A Friend-to-Friend, decentralized and secure application for communication and sharing
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [RetroShare/RetroShare](https://github.com/RetroShare/RetroShare)
   > RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised commun...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
+  > The Bluesky Social application for Web, iOS, and Android
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [opencloud-eu/android](https://github.com/opencloud-eu/android)
+  > 🤖
 
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
@@ -574,13 +568,7 @@
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS)
   > MemProcFS
 
-### [re-zero001](https://github.com/re-zero001)
-- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [oraios/serena](https://github.com/oraios/serena)
-  > A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & ...
-
 ### [realoriginal](https://github.com/realoriginal)
-- 🚀 👤 [realoriginal](https://github.com/realoriginal) Made [realoriginal/pintool-example](https://github.com/realoriginal/pintool-example) public
-  > A sample cmake based project targeting Windows for Visual Studio to experiment with Intel PIN for fu...
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [root-project/cling](https://github.com/root-project/cling)
   > The cling C++ interpreter
 
@@ -602,6 +590,10 @@
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap)
   > Binary Analysis Platform
+
+### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [hikalium/wasabi](https://github.com/hikalium/wasabi)
+  > Toy web browser + OS in Rust = wasabi
 
 ### [wa1ki0g](https://github.com/wa1ki0g)
 - 🍴 👤 [wa1ki0g](https://github.com/wa1ki0g) Forked [gloxec/CrossC2](https://github.com/gloxec/CrossC2) to [wa1ki0g/CrossC2](https://github.com/wa1ki0g/CrossC2)
@@ -662,9 +654,12 @@
 - 🍴 👤 [ys1231](https://github.com/ys1231) Forked [lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida) to [ys1231/ZygiskFrida](https://github.com/ys1231/ZygiskFrida)
   > Injects frida gadget using zygisk to bypass anti-tamper checks.
 
-### [zhanghai](https://github.com/zhanghai)
-- 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [vvb2060/PackageInstaller](https://github.com/vvb2060/PackageInstaller)
-  > A lightweight yet powerful package installer for Android.
+### [yuan-xy](https://github.com/yuan-xy)
+- 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [am32-firmware/AM32](https://github.com/am32-firmware/AM32)
+
+### [zinja-coder](https://github.com/zinja-coder)
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [WhiteWinterWolf/wwwolf-php-webshell](https://github.com/WhiteWinterWolf/wwwolf-php-webshell)
+  > WhiteWinterWolf's PHP web shell
 
 ### [zy445566](https://github.com/zy445566)
 - 🌟 👤 [zy445566](https://github.com/zy445566) Starred [zy445566/ncpu-web](https://github.com/zy445566/ncpu-web)
@@ -674,5 +669,5 @@
 
 
 ---
-*最后更新于 2025-09-28 13:38:57 UTC*
+*最后更新于 2025-09-28 14:17:12 UTC*
 *历史记录保存在 `archive` 目录中。*
