@@ -89,10 +89,6 @@
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [Odizinne/QontrolPanel](https://github.com/Odizinne/QontrolPanel)
   > Custom windows sound panel
 
-### [MiroKaku](https://github.com/MiroKaku)
-- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT)
-  > 现代化 Android & OpenHarmony 工具箱 | A Modern Toolbox for Android & OpenHarmony Devices
-
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [tiawl/sedjutsu](https://github.com/tiawl/sedjutsu)
   > The most powerful jutsu mastered by GNU-sed ninjas to emulate standard utilities
@@ -177,10 +173,6 @@
 - 🌟 👤 [black-binary](https://github.com/black-binary) Starred [ikatson/rqbit](https://github.com/ikatson/rqbit)
   > A bittorrent client in Rust
 
-### [boy-hack](https://github.com/boy-hack)
-- 🌟 👤 [boy-hack](https://github.com/boy-hack) Starred [usestrix/strix](https://github.com/usestrix/strix)
-  > Open-source AI hackers to find and fix your app’s vulnerabilities
-
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [frida/frida](https://github.com/frida/frida)
   > Clone this repo to build Frida
@@ -206,10 +198,6 @@
 - 🌟 👤 [chai2010](https://github.com/chai2010) Starred [YosysHQ/nextpnr](https://github.com/YosysHQ/nextpnr)
   > nextpnr portable FPGA place and route tool
 
-### [cn-kali-team](https://github.com/cn-kali-team)
-- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [LukeGus/Termix](https://github.com/LukeGus/Termix)
-  > Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capa...
-
 ### [cozis](https://github.com/cozis)
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog)
   > Free, no-nonsense, super fast blogging.
@@ -228,13 +216,15 @@
 - 🍴 👤 [cxapython](https://github.com/cxapython) Forked [Mingyueyixi/MaskWechat](https://github.com/Mingyueyixi/MaskWechat) to [cxapython/MaskWechat](https://github.com/cxapython/MaskWechat)
   > 这是一个微信 Xposed 模块，她可以隐藏特定用户的聊天记录，防止私密的聊天被第三人偷看
 
-### [darbra](https://github.com/darbra)
-- 🌟 👤 [darbra](https://github.com/darbra) Starred [apankowski/doc88-downloader](https://github.com/apankowski/doc88-downloader)
-  > POC: download documents from doc88.com as images and convert them to searchable PDFs
-
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [khscience/OSkhQuant](https://github.com/khscience/OSkhQuant)
   > 看海量化回测系统（看海量化交易系统）开源代码，khQuant框架，实现A股可视化回测，全部开源。
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [UmairKhalid786/ComposeTv](https://github.com/UmairKhalid786/ComposeTv)
+  > Android TV App built using Jetpack Compose TV APIs
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [mpj1234/ncnn-yolov12-android](https://github.com/mpj1234/ncnn-yolov12-android)
+  > Yolov12 model supports android deployment.
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [android/tv-samples](https://github.com/android/tv-samples)
+  > Multiple samples showing best practices in app development on Android TV.
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
@@ -258,8 +248,6 @@
   > 允许您全局修改传感器的值，无需注入特定app以防被检测
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
-- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-  > A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identi...
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo)
   > A Datacenter Scale Distributed Inference Serving Framework
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk)
@@ -368,6 +356,40 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) to [gmh5225/cmux](https://github.com/gmh5225/cmux)
   > cmux lets you run Claude Code, Codex CLI, Cursor CLI, Gemini CLI, Amp, Opencode, and other coding ag...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [microchipgnu/mcpay](https://github.com/microchipgnu/mcpay) to [gmh5225/mcpay](https://github.com/gmh5225/mcpay)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [SafeBreach-Labs/DoubleDrive](https://github.com/SafeBreach-Labs/DoubleDrive) to [gmh5225/DoubleDrive](https://github.com/gmh5225/DoubleDrive)
+  > A fully-undetectable ransomware that utilizes OneDrive & Google Drive to encrypt target local files
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [anaskhan96/soup](https://github.com/anaskhan96/soup) to [gmh5225/soup](https://github.com/gmh5225/soup)
+  > Web Scraper in Go, similar to BeautifulSoup
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [iroco-co/aioimaplib](https://github.com/iroco-co/aioimaplib) to [gmh5225/aioimaplib](https://github.com/gmh5225/aioimaplib)
+  > Python asyncio IMAP4rev1 client library
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cloudyyoung/ms-account](https://github.com/cloudyyoung/ms-account) to [gmh5225/ms-account](https://github.com/gmh5225/ms-account)
+  > Microsoft Account spider notes...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [SparkyDev9339/BSVS-V59](https://github.com/SparkyDev9339/BSVS-V59) to [gmh5225/BSVS-V59](https://github.com/gmh5225/BSVS-V59)
+  > Release V59
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Sleepw4lker/TameMyCerts.WSTEP](https://github.com/Sleepw4lker/TameMyCerts.WSTEP) to [gmh5225/TameMyCerts.WSTEP](https://github.com/gmh5225/TameMyCerts.WSTEP)
+  > Certificate Autoenrollment Proxy using the MS-WSTEP protocol
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Gobot1234/steam.py](https://github.com/Gobot1234/steam.py) to [gmh5225/steam.py](https://github.com/gmh5225/steam.py)
+  > An async python wrapper to interact with the Steam API and its CMs
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Wikidepia/RektCAPTCHA](https://github.com/Wikidepia/RektCAPTCHA) to [gmh5225/RektCAPTCHA](https://github.com/gmh5225/RektCAPTCHA)
+  > Automatically Solve ReCAPTCHA with YOLOv5
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [seadhy/Cloudflare-Cookie-Bypass](https://github.com/seadhy/Cloudflare-Cookie-Bypass) to [gmh5225/Cloudflare-Cookie-Bypass](https://github.com/gmh5225/Cloudflare-Cookie-Bypass)
+  > Cloudflare __cf_bm cookie ( currently called cf_clearance ) bypass
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Kaliiiiiiiiii-Vinyzu/patchright-python](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python) to [gmh5225/patchright-python](https://github.com/gmh5225/patchright-python)
+  > Undetected Python version of the Playwright testing and automation library. 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Kaliiiiiiiiii-Vinyzu/patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs) to [gmh5225/patchright-nodejs](https://github.com/gmh5225/patchright-nodejs)
+  > Undetected NodeJS version of the Playwright testing and automation library. 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) to [gmh5225/patchright](https://github.com/gmh5225/patchright)
+  > Undetected version of the Playwright testing and automation library.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sourceincite/CVE-2021-24085](https://github.com/sourceincite/CVE-2021-24085) to [gmh5225/CVE-2021-24085](https://github.com/gmh5225/CVE-2021-24085)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ndekopon/overlaytools](https://github.com/ndekopon/overlaytools) to [gmh5225/overlaytools](https://github.com/gmh5225/overlaytools)
+  > ApexLegends overlay tools for custom match
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Mobeen-Ghaffar/Outlook_Encrpytion](https://github.com/Mobeen-Ghaffar/Outlook_Encrpytion) to [gmh5225/Outlook_Encrpytion](https://github.com/gmh5225/Outlook_Encrpytion)
+  > Outlook Password Encryption (To generate CipherValue)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [summer/mojang](https://github.com/summer/mojang) to [gmh5225/mojang](https://github.com/gmh5225/mojang)
+  > A wrapper for the Mojang API and Minecraft website
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [OpenXbox/xcloud-python](https://github.com/OpenXbox/xcloud-python) to [gmh5225/xcloud-python](https://github.com/gmh5225/xcloud-python)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [JakobDev/minecraft-launcher-lib](https://github.com/JakobDev/minecraft-launcher-lib) to [gmh5225/minecraft-launcher-lib](https://github.com/gmh5225/minecraft-launcher-lib)
+  > Official Mirror of the Codeberg Repo
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - ✨ 👤 [goatmilkkk](https://github.com/goatmilkkk) Created new repo [goatmilkkk/goatmilkkk.github.io](https://github.com/goatmilkkk/goatmilkkk.github.io)
@@ -403,10 +425,6 @@
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr)
   > 彩虹聚合DNS管理系统
 
-### [hzqst](https://github.com/hzqst)
-- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [libsdl-org/SDL](https://github.com/libsdl-org/SDL) to [hzqst/SDL](https://github.com/hzqst/SDL)
-  > Simple DirectMedia Layer
-
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)
   > A scrollable-tiling Wayland compositor.
@@ -436,8 +454,6 @@
   > tun2socks - powered by gVisor TCP/IP stack
 
 ### [killvxk](https://github.com/killvxk)
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [amimo/sim-trace](https://github.com/amimo/sim-trace)
-  > a poc implementation arm64 tracer based on simulation
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xflux/Wyrm](https://github.com/0xflux/Wyrm)
   >  The dragon in the dark. A red team post exploitation framework for testing security controls during...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Push3AX/USBAirborne](https://github.com/Push3AX/USBAirborne)
@@ -474,8 +490,6 @@
   > Generate Linux DRM panel kernel driver based on QCOM MDSS DSI device tree
 
 ### [kost](https://github.com/kost)
-- 🌟 👤 [kost](https://github.com/kost) Starred [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
-  > Free, local, open-source GUI app for Gemini CLI — Better Chat UI, File Management, AI image editing,...
 - 🌟 👤 [kost](https://github.com/kost) Starred [peterferrie/win-exec-calc-shellcode](https://github.com/peterferrie/win-exec-calc-shellcode)
   > A small, null-free Windows shellcode that executes calc.exe (x86/x64, all OS/SPs)
 - 🌟 👤 [kost](https://github.com/kost) Starred [nutanix/libvfio-user](https://github.com/nutanix/libvfio-user)
@@ -490,10 +504,6 @@
   > A Beacon Object File (BOF) for Havoc/CS to Bypass PPL and Dump Lsass
 - 🌟 👤 [kost](https://github.com/kost) Starred [L-codes/Neo-reGeorg](https://github.com/L-codes/Neo-reGeorg)
   > Neo-reGeorg is a project that seeks to aggressively refactor reGeorg
-
-### [lemuellew](https://github.com/lemuellew)
-- 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [qcri/llmxcpg](https://github.com/qcri/llmxcpg)
-  > Source code for LLMxCPG paper
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [qiwang067/awesome-visual-rl](https://github.com/qiwang067/awesome-visual-rl)
@@ -591,10 +601,6 @@
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [HexRaysSA/ida-sdk](https://github.com/HexRaysSA/ida-sdk)
   > This repository offers an open-source C++ SDK bindings for IDA, enabling custom plugin development a...
 
-### [smallevilbeast](https://github.com/smallevilbeast)
-- 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed)
-  > LSPosed Framework resuscitated
-
 ### [std-microblock](https://github.com/std-microblock)
 - 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [Ylarod/Florida](https://github.com/Ylarod/Florida)
   > 基础反检测 frida-server / Basic anti-detection frida-server
@@ -662,21 +668,12 @@
   > Test DPC is a sample device policy controller for use with Android Enterprise. It gives developers t...
 
 ### [xiaoweigege](https://github.com/xiaoweigege)
-- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-  > The open-source CapCut alternative
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
-
-### [xinruofuchen](https://github.com/xinruofuchen)
-- 🌟 👤 [xinruofuchen](https://github.com/xinruofuchen) Starred [xinruofuchen/TraceAR](https://github.com/xinruofuchen/TraceAR)
 
 ### [yhnu](https://github.com/yhnu)
 - 🌟 👤 [yhnu](https://github.com/yhnu) Starred [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
   > The universal proxy platform
-
-### [ys1231](https://github.com/ys1231)
-- 🍴 👤 [ys1231](https://github.com/ys1231) Forked [lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida) to [ys1231/ZygiskFrida](https://github.com/ys1231/ZygiskFrida)
-  > Injects frida gadget using zygisk to bypass anti-tamper checks.
 
 ### [yuan-xy](https://github.com/yuan-xy)
 - 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [am32-firmware/AM32](https://github.com/am32-firmware/AM32)
@@ -697,5 +694,5 @@
 
 
 ---
-*最后更新于 2025-09-28 20:39:36 UTC*
+*最后更新于 2025-09-28 21:18:02 UTC*
 *历史记录保存在 `archive` 目录中。*
