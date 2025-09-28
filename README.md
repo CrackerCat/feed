@@ -240,10 +240,24 @@
   > A comprehensive GenAI protection system designed to protect against malicious prompts, injection att...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [djyde/PandocX](https://github.com/djyde/PandocX) to [gmh5225/PandocX](https://github.com/gmh5225/PandocX)
   > File convertor
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Bifishone/GoogleFirefoxDomain](https://github.com/Bifishone/GoogleFirefoxDomain) to [gmh5225/GoogleFirefoxDomain](https://github.com/gmh5225/GoogleFirefoxDomain)
+  > 一款高效、强大的子域名爬取工具，结合 Google 和 Firefox 浏览器的优势，帮助安全研究者和渗透测试人员快速收集目标域名的子域名信息
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl) to [gmh5225/nixl](https://github.com/gmh5225/nixl)
+  > NVIDIA Inference Xfer Library (NIXL)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ai-dynamo/aiconfigurator](https://github.com/ai-dynamo/aiconfigurator) to [gmh5225/aiconfigurator](https://github.com/gmh5225/aiconfigurator)
+  > Offline optimization of your disaggregated Dynamo graph
+
+### [guanchao](https://github.com/guanchao)
+- 🌟 👤 [guanchao](https://github.com/guanchao) Starred [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)
+  > A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM a...
+- 🌟 👤 [guanchao](https://github.com/guanchao) Starred [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk)
+  > The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with...
 
 ### [heckerstone](https://github.com/heckerstone)
 - 🌟 👤 [heckerstone](https://github.com/heckerstone) Starred [CrackerCat/crack_dexhelper](https://github.com/CrackerCat/crack_dexhelper)
   > 梆梆企业加固详细逆向分析过程， 包含两种对该加固的脱壳机（直接解密classes0.jar和基于frida hook）
+- 🌟 👤 [heckerstone](https://github.com/heckerstone) Starred [CrackerCat/PackMyPayload](https://github.com/CrackerCat/PackMyPayload)
+  > A PoC that packages payloads into output containers to evade Mark-of-the-Web flag & demonstrate risk...
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [conda-forge/miniforge](https://github.com/conda-forge/miniforge)
@@ -355,6 +369,10 @@
 - 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [akto-api-security/akto](https://github.com/akto-api-security/akto)
   > Proactive, Open source API security → API discovery, API Security Posture, Testing in CI/CD, Test Li...
 
+### [miunasu](https://github.com/miunasu)
+- 🌟 👤 [miunasu](https://github.com/miunasu) Starred [adamyaxley/Obfuscate](https://github.com/adamyaxley/Obfuscate)
+  > Guaranteed compile-time string literal obfuscation header-only library for C++14
+
 ### [mo-xiaoxi](https://github.com/mo-xiaoxi)
 - 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [Olow304/memvid](https://github.com/Olow304/memvid)
   > Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semant...
@@ -428,9 +446,15 @@
 - 🍴 👤 [wa1ki0g](https://github.com/wa1ki0g) Forked [gloxec/CrossC2](https://github.com/gloxec/CrossC2) to [wa1ki0g/CrossC2](https://github.com/wa1ki0g/CrossC2)
   > generate CobaltStrike's cross-platform payload
 
+### [wishihab](https://github.com/wishihab)
+- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [hash3liZer/SillyRAT](https://github.com/hash3liZer/SillyRAT)
+  > A Python based RAT 🐀 (Remote Access Trojan) for getting reverse shell 🖥️
+
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
   > The open-source CapCut alternative
+- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+  > Chrome DevTools for coding agents
 
 ### [xinruofuchen](https://github.com/xinruofuchen)
 - 🌟 👤 [xinruofuchen](https://github.com/xinruofuchen) Starred [xinruofuchen/TraceAR](https://github.com/xinruofuchen/TraceAR)
@@ -457,5 +481,5 @@
 
 
 ---
-*最后更新于 2025-09-28 07:38:27 UTC*
+*最后更新于 2025-09-28 08:26:09 UTC*
 *历史记录保存在 `archive` 目录中。*
