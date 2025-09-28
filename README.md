@@ -47,12 +47,6 @@
 - 🌟 👤 [EvilAnne](https://github.com/EvilAnne) Starred [The-Hacker-Recipes/The-Hacker-Recipes](https://github.com/The-Hacker-Recipes/The-Hacker-Recipes)
   > This project is aimed at freely providing technical guides on various hacking topics.
 
-### [FeeiCN](https://github.com/FeeiCN)
-- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [usestrix/strix](https://github.com/usestrix/strix)
-  > Open-source AI hackers to find and fix your app’s vulnerabilities
-- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
-  > ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-
 ### [GaoYuCan](https://github.com/GaoYuCan)
 - 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [iGio90/Dwarf](https://github.com/iGio90/Dwarf)
   > Full featured multi arch/os debugger built on top of PyQt5 and frida
@@ -106,10 +100,6 @@
 ### [MrRoy09](https://github.com/MrRoy09)
 - 🚀 👤 [MrRoy09](https://github.com/MrRoy09) Made [MrRoy09/Iris](https://github.com/MrRoy09/Iris) public
   > An LLVM powered Toolkit for deobfuscating binaries
-
-### [Mufanc](https://github.com/Mufanc)
-- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [criwits/missing-web](https://github.com/criwits/missing-web)
-  > 你缺失的那门计算机课（网页版）| 一份适合电脑小白入门的电脑使用课程，一份面向今日与未来的信息时代指南
 
 ### [N3rdL0rd](https://github.com/N3rdL0rd)
 - 🌟 👤 [N3rdL0rd](https://github.com/N3rdL0rd) Starred [shellinvictus/GriffonAD](https://github.com/shellinvictus/GriffonAD)
@@ -253,6 +243,8 @@
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template)
   > Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [otelwasm/otelwasm](https://github.com/otelwasm/otelwasm)
+  > [EXPERIMENTAL] This project is a PoC for a WebAssembly (Wasm) based OpenTelemetry Collector plugins.
 
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance)
@@ -432,6 +424,8 @@
 ### [jiushill](https://github.com/jiushill)
 - 🌟 👤 [jiushill](https://github.com/jiushill) Starred [klezVirus/SysWhispers3](https://github.com/klezVirus/SysWhispers3)
   > SysWhispers on Steroids - AV/EDR evasion via direct system calls. 
+- 🌟 👤 [jiushill](https://github.com/jiushill) Starred [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win)
+  > Windows software for sharing locally connected USB devices to other machines, including Hyper-V gues...
 
 ### [joychic](https://github.com/joychic)
 - 🌟 👤 [joychic](https://github.com/joychic) Starred [facebook/infer](https://github.com/facebook/infer)
@@ -703,5 +697,5 @@
 
 
 ---
-*最后更新于 2025-09-28 20:22:30 UTC*
+*最后更新于 2025-09-28 20:39:36 UTC*
 *历史记录保存在 `archive` 目录中。*
