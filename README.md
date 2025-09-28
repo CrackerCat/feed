@@ -65,6 +65,10 @@
 ### [SummerSec](https://github.com/SummerSec)
 - 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
   > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+- 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+  > The open-source CapCut alternative
+- 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV)
+  > 一个基于MoonTV(LunaTV)二次开发的项目。
 
 ### [Yervant7](https://github.com/Yervant7)
 - 🌟 👤 [Yervant7](https://github.com/Yervant7) Starred [localdesktop/localdesktop](https://github.com/localdesktop/localdesktop)
@@ -181,6 +185,8 @@
   > Published security audits
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0xAIDR/AIDR-Bastion](https://github.com/0xAIDR/AIDR-Bastion) to [gmh5225/AIDR-Bastion](https://github.com/gmh5225/AIDR-Bastion)
   > A comprehensive GenAI protection system designed to protect against malicious prompts, injection att...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [djyde/PandocX](https://github.com/djyde/PandocX) to [gmh5225/PandocX](https://github.com/gmh5225/PandocX)
+  > File convertor
 
 ### [heckerstone](https://github.com/heckerstone)
 - 🌟 👤 [heckerstone](https://github.com/heckerstone) Starred [CrackerCat/crack_dexhelper](https://github.com/CrackerCat/crack_dexhelper)
@@ -287,6 +293,16 @@
 - 🌟 👤 [neil-wu](https://github.com/neil-wu) Starred [Olow304/memvid](https://github.com/Olow304/memvid)
   > Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semant...
 
+### [netxfly](https://github.com/netxfly)
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [typst/typst](https://github.com/typst/typst)
+  > A new markup-based typesetting system that is powerful and easy to learn.
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [contribsys/faktory](https://github.com/contribsys/faktory)
+  > Language-agnostic persistent background job server
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [projectdiscovery/tlsx](https://github.com/projectdiscovery/tlsx)
+  > Fast and configurable TLS grabber focused on TLS based data collection.
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [YuminosukeSato/pyproc](https://github.com/YuminosukeSato/pyproc)
+  > Call Python from Go without CGO or microservices - Unix domain socket based IPC for ML inference and...
+
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [apple/ml-simplefold](https://github.com/apple/ml-simplefold)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [zapek/Xeres](https://github.com/zapek/Xeres)
@@ -342,5 +358,5 @@
 
 
 ---
-*最后更新于 2025-09-28 05:21:09 UTC*
+*最后更新于 2025-09-28 05:40:29 UTC*
 *历史记录保存在 `archive` 目录中。*
