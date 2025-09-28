@@ -9,6 +9,10 @@
   > It can load and render cool animation effects
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [antgroup/FluidMarkdown](https://github.com/antgroup/FluidMarkdown)
 
+### [0xbug](https://github.com/0xbug)
+- 🌟 👤 [0xbug](https://github.com/0xbug) Starred [unovue/inspira-ui](https://github.com/unovue/inspira-ui)
+  > Build beautiful website using Vue & Nuxt.
+
 ### [4ESTSEC](https://github.com/4ESTSEC)
 - 🌟 👤 [4ESTSEC](https://github.com/4ESTSEC) Starred [ahmedkhlief/Ninja](https://github.com/ahmedkhlief/Ninja)
   >  Open source C2 server created for stealth red team operations
@@ -51,6 +55,8 @@
 - 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
   > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [ast-grep/ast-grep-mcp](https://github.com/ast-grep/ast-grep-mcp)
+- 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [ise-uiuc/KNighter](https://github.com/ise-uiuc/KNighter)
+  > [SOSP'25] Automatic checker synthesis for system-level static analysis
 
 ### [Dado1513](https://github.com/Dado1513)
 - 🌟 👤 [Dado1513](https://github.com/Dado1513) Starred [MrTurvey/flareprox](https://github.com/MrTurvey/flareprox)
@@ -203,6 +209,10 @@
   > 简历警察 🕵️‍♂️ 疯狂逮捕
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [khscience/OSkhQuant](https://github.com/khscience/OSkhQuant)
   > 看海量化回测系统（看海量化交易系统）开源代码，khQuant框架，实现A股可视化回测，全部开源。
+
+### [dqzg12300](https://github.com/dqzg12300)
+- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
+  > Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus...
 
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [indragiek/CocoaMarkdown](https://github.com/indragiek/CocoaMarkdown)
@@ -409,6 +419,20 @@
   > Aims to identify sleeping beacons
 - 🌟 👤 [kost](https://github.com/kost) Starred [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
   > Free, local, open-source GUI app for Gemini CLI — Better Chat UI, File Management, AI image editing,...
+- 🌟 👤 [kost](https://github.com/kost) Starred [peterferrie/win-exec-calc-shellcode](https://github.com/peterferrie/win-exec-calc-shellcode)
+  > A small, null-free Windows shellcode that executes calc.exe (x86/x64, all OS/SPs)
+- 🌟 👤 [kost](https://github.com/kost) Starred [nutanix/libvfio-user](https://github.com/nutanix/libvfio-user)
+  > framework for emulating devices in userspace
+- 🌟 👤 [kost](https://github.com/kost) Starred [D00Movenok/BounceBack](https://github.com/D00Movenok/BounceBack)
+  > ↕️🤫 Stealth redirector for your red team operation security
+- 🌟 👤 [kost](https://github.com/kost) Starred [gloxec/CrossC2](https://github.com/gloxec/CrossC2)
+  > generate CobaltStrike's cross-platform payload
+- 🌟 👤 [kost](https://github.com/kost) Starred [sensepost/ruler](https://github.com/sensepost/ruler)
+  > A tool to abuse Exchange services
+- 🌟 👤 [kost](https://github.com/kost) Starred [M1ndo/WerDump](https://github.com/M1ndo/WerDump)
+  > A Beacon Object File (BOF) for Havoc/CS to Bypass PPL and Dump Lsass
+- 🌟 👤 [kost](https://github.com/kost) Starred [L-codes/Neo-reGeorg](https://github.com/L-codes/Neo-reGeorg)
+  > Neo-reGeorg is a project that seeks to aggressively refactor reGeorg
 
 ### [ledccn](https://github.com/ledccn)
 - 🍴 👤 [ledccn](https://github.com/ledccn) Forked [symfony/dom-crawler](https://github.com/symfony/dom-crawler) to [ledccn/dom-crawler](https://github.com/ledccn/dom-crawler)
@@ -478,6 +502,8 @@
   > Fast and configurable TLS grabber focused on TLS based data collection.
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [YuminosukeSato/pyproc](https://github.com/YuminosukeSato/pyproc)
   > Call Python from Go without CGO or microservices - Unix domain socket based IPC for ML inference and...
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [Masterminds/semver](https://github.com/Masterminds/semver)
+  > Work with Semantic Versions in Go
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [apple/ml-simplefold](https://github.com/apple/ml-simplefold)
@@ -546,6 +572,10 @@
 - ✨ 👤 [wrlu](https://github.com/wrlu) Created new repo [wrlu/wrlu.github.io](https://github.com/wrlu/wrlu.github.io)
   > wrlu.github.io
 
+### [xiaobfly](https://github.com/xiaobfly)
+- 🌟 👤 [xiaobfly](https://github.com/xiaobfly) Starred [gracicot/kangaru](https://github.com/gracicot/kangaru)
+  > 🦘 A dependency injection container for C++11, C++14 and later
+
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
   > The open-source CapCut alternative
@@ -583,5 +613,5 @@
 
 
 ---
-*最后更新于 2025-09-28 09:38:29 UTC*
+*最后更新于 2025-09-28 10:20:40 UTC*
 *历史记录保存在 `archive` 目录中。*
