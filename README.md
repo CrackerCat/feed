@@ -121,6 +121,10 @@
 - 🍴 👤 [anantshri](https://github.com/anantshri) Forked [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) to [anantshri/hugoThemesSiteBuilder](https://github.com/anantshri/hugoThemesSiteBuilder)
   > The source for https://themes.gohugo.io
 
+### [boy-hack](https://github.com/boy-hack)
+- 🌟 👤 [boy-hack](https://github.com/boy-hack) Starred [usestrix/strix](https://github.com/usestrix/strix)
+  > Open-source AI hackers to find and fix your app’s vulnerabilities
+
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [antonioCoco/SharPyShell](https://github.com/antonioCoco/SharPyShell)
   > SharPyShell - tiny and obfuscated ASP.NET webshell for C# web applications
@@ -156,6 +160,12 @@
   > Markdown parsing and rendering for iOS and OS X
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [noties/Markwon](https://github.com/noties/Markwon)
   > Android markdown library (no WebView)
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+  > A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identi...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo)
+  > A Datacenter Scale Distributed Inference Serving Framework
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [z789/HIPS](https://github.com/z789/HIPS) to [fengjixuchui/HIPS](https://github.com/fengjixuchui/HIPS)
@@ -447,5 +457,5 @@
 
 
 ---
-*最后更新于 2025-09-28 07:18:42 UTC*
+*最后更新于 2025-09-28 07:38:27 UTC*
 *历史记录保存在 `archive` 目录中。*
