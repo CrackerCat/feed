@@ -16,6 +16,8 @@
 ### [521xueweihan](https://github.com/521xueweihan)
 - 🌟 👤 [521xueweihan](https://github.com/521xueweihan) Starred [hexianWeb/CubeCity](https://github.com/hexianWeb/CubeCity)
   > A city waiting to be built by you 🏙️🔨✨. Threejs Version (一个等着被你建造的城市)
+- 🌟 👤 [521xueweihan](https://github.com/521xueweihan) Starred [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland)
+  > 一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
 
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [siderolabs/talos](https://github.com/siderolabs/talos)
@@ -26,6 +28,10 @@
   > BleachBit system cleaner for Windows and Linux
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
   > FinceptTerminal is a modern finance application offering advanced market analytics, investment resea...
+
+### [Konano](https://github.com/Konano)
+- 🌟 👤 [Konano](https://github.com/Konano) Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
+  > Open Source AI coding assistant for planning, building, and fixing code. We frequently merge feature...
 
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan)
@@ -75,6 +81,10 @@
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [googleapis/go-genai](https://github.com/googleapis/go-genai)
   > Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models in...
+
+### [codingsf](https://github.com/codingsf)
+- 🌟 👤 [codingsf](https://github.com/codingsf) Starred [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)
+  > Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtua...
 
 ### [cxapython](https://github.com/cxapython)
 - 🌟 👤 [cxapython](https://github.com/cxapython) Starred [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor)
@@ -155,6 +165,8 @@
   > 🚀 Optimizes neural networks with Leo, a fast and efficient optimizer using Lion momentum and element...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [anza-xyz/security-audits](https://github.com/anza-xyz/security-audits) to [gmh5225/security-audits](https://github.com/gmh5225/security-audits)
   > Published security audits
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0xAIDR/AIDR-Bastion](https://github.com/0xAIDR/AIDR-Bastion) to [gmh5225/AIDR-Bastion](https://github.com/gmh5225/AIDR-Bastion)
+  > A comprehensive GenAI protection system designed to protect against malicious prompts, injection att...
 
 ### [heckerstone](https://github.com/heckerstone)
 - 🌟 👤 [heckerstone](https://github.com/heckerstone) Starred [CrackerCat/crack_dexhelper](https://github.com/CrackerCat/crack_dexhelper)
@@ -163,6 +175,8 @@
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [conda-forge/miniforge](https://github.com/conda-forge/miniforge)
   > A conda-forge distribution.
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [frida/frida](https://github.com/frida/frida)
+  > Clone this repo to build Frida
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [arceos-hypervisor/axvisor](https://github.com/arceos-hypervisor/axvisor)
@@ -179,6 +193,8 @@
   > Eases DOM navigation for HTML and XML documents
 - 🍴 👤 [ledccn](https://github.com/ledccn) Forked [allinssl/allinssl](https://github.com/allinssl/allinssl) to [ledccn/allinssl](https://github.com/ledccn/allinssl)
   > AllinSSL 是一个集证书申请、管理、部署和监控于一体的SSL证书全生命周期管理工具。AllinSSL is an all-in-one SSL certificate lifecycle man...
+- 🍴 👤 [ledccn](https://github.com/ledccn) Forked [julxxy/chinaport-data-signature](https://github.com/julxxy/chinaport-data-signature) to [ledccn/chinaport-data-signature](https://github.com/ledccn/chinaport-data-signature)
+  > China E-Port Data Signature — Free, open-source solution for CEBXxxMessage & Customs 179 data signin...
 
 ### [lemuellew](https://github.com/lemuellew)
 - 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [ise-uiuc/KNighter](https://github.com/ise-uiuc/KNighter)
@@ -189,6 +205,8 @@
   > LIMI: Less is More for Agency
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [TIGER-AI-Lab/verl-tool](https://github.com/TIGER-AI-Lab/verl-tool)
   > A version of verl to support diverse tool use
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [Pi3AI/ScholarWiki](https://github.com/Pi3AI/ScholarWiki)
+  > Collect 56k+ papers with code, automatically update everyday. http://scholarwiki.ai
 
 ### [merces](https://github.com/merces)
 - 🌟 👤 [merces](https://github.com/merces) Starred [gyscos/cursive](https://github.com/gyscos/cursive)
@@ -203,6 +221,13 @@
 ### [mo-xiaoxi](https://github.com/mo-xiaoxi)
 - 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [Olow304/memvid](https://github.com/Olow304/memvid)
   > Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semant...
+
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [apple/ml-simplefold](https://github.com/apple/ml-simplefold)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [zapek/Xeres](https://github.com/zapek/Xeres)
+  > A Friend-to-Friend, decentralized and secure application for communication and sharing
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [RetroShare/RetroShare](https://github.com/RetroShare/RetroShare)
+  > RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised commun...
 
 ### [plusls](https://github.com/plusls)
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su)
@@ -240,5 +265,5 @@
 
 
 ---
-*最后更新于 2025-09-28 03:50:56 UTC*
+*最后更新于 2025-09-28 04:26:23 UTC*
 *历史记录保存在 `archive` 目录中。*
