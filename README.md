@@ -93,6 +93,10 @@
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [tiawl/sedjutsu](https://github.com/tiawl/sedjutsu)
   > The most powerful jutsu mastered by GNU-sed ninjas to emulate standard utilities
 
+### [MrIkso](https://github.com/MrIkso)
+- 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [bartlomiejduda/ImageHeat](https://github.com/bartlomiejduda/ImageHeat)
+  > ImageHeat is a program for viewing encoded textures.
+
 ### [MrRoy09](https://github.com/MrRoy09)
 - 🚀 👤 [MrRoy09](https://github.com/MrRoy09) Made [MrRoy09/Iris](https://github.com/MrRoy09/Iris) public
   > An LLVM powered Toolkit for deobfuscating binaries
@@ -254,6 +258,10 @@
 - 🌟 👤 [fanfeilong](https://github.com/fanfeilong) Starred [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py)
   > Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now i...
 
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow)
+  > Generate a timeline of your day, automatically
+
 ### [foyaga](https://github.com/foyaga)
 - 🌟 👤 [foyaga](https://github.com/foyaga) Starred [CrackerCat/strongR-frida-android](https://github.com/CrackerCat/strongR-frida-android)
   > An anti detection version frida-server for android.
@@ -263,8 +271,6 @@
   > Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ai-dynamo/aiconfigurator](https://github.com/ai-dynamo/aiconfigurator) to [gmh5225/aiconfigurator](https://github.com/gmh5225/aiconfigurator)
-  > Offline optimization of your disaggregated Dynamo graph
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [coffinxp/Image-EXIF-Data](https://github.com/coffinxp/Image-EXIF-Data) to [gmh5225/Image-EXIF-Data](https://github.com/gmh5225/Image-EXIF-Data)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [dafthunk-com/dafthunk](https://github.com/dafthunk-com/dafthunk) to [gmh5225/dafthunk](https://github.com/gmh5225/dafthunk)
   > A workflow execution platform built on top of the fantastic Cloudflare infrastructure.
@@ -524,9 +530,9 @@
 - 🌟 👤 [mav8557](https://github.com/mav8557) Starred [basecamp/omarchy](https://github.com/basecamp/omarchy)
   > Opinionated Arch/Hyprland Setup
 
-### [miunasu](https://github.com/miunasu)
-- 🌟 👤 [miunasu](https://github.com/miunasu) Starred [adamyaxley/Obfuscate](https://github.com/adamyaxley/Obfuscate)
-  > Guaranteed compile-time string literal obfuscation header-only library for C++14
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ZephrFish/OmniProx](https://github.com/ZephrFish/OmniProx)
+  > IP Rotation from different providers - Like FireProx but for GCP, Azure, Alibaba and CloudFlare
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [imneme/pcg-cpp](https://github.com/imneme/pcg-cpp)
@@ -688,5 +694,5 @@
 
 
 ---
-*最后更新于 2025-09-28 21:38:45 UTC*
+*最后更新于 2025-09-28 22:19:26 UTC*
 *历史记录保存在 `archive` 目录中。*
