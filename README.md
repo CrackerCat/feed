@@ -207,6 +207,11 @@
   > A version of verl to support diverse tool use
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [Pi3AI/ScholarWiki](https://github.com/Pi3AI/ScholarWiki)
   > Collect 56k+ papers with code, automatically update everyday. http://scholarwiki.ai
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [openai/gym](https://github.com/openai/gym)
+  > A toolkit for developing and comparing reinforcement learning algorithms.
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [clvrai/awesome-rl-envs](https://github.com/clvrai/awesome-rl-envs)
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [dbobrenko/awesome-ai-environments](https://github.com/dbobrenko/awesome-ai-environments)
+  > List of environments and competitions for RL and AI training
 
 ### [merces](https://github.com/merces)
 - 🌟 👤 [merces](https://github.com/merces) Starred [gyscos/cursive](https://github.com/gyscos/cursive)
@@ -220,6 +225,10 @@
 
 ### [mo-xiaoxi](https://github.com/mo-xiaoxi)
 - 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [Olow304/memvid](https://github.com/Olow304/memvid)
+  > Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semant...
+
+### [neil-wu](https://github.com/neil-wu)
+- 🌟 👤 [neil-wu](https://github.com/neil-wu) Starred [Olow304/memvid](https://github.com/Olow304/memvid)
   > Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semant...
 
 ### [null-dev](https://github.com/null-dev)
@@ -255,6 +264,10 @@
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [sidex15/susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module)
   > An addon root hiding service for KernelSU
 
+### [topcoco](https://github.com/topcoco)
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap)
+  > Binary Analysis Platform
+
 ### [ymdzq](https://github.com/ymdzq)
 - 🍴 👤 [ymdzq](https://github.com/ymdzq) Forked [mlm-games/TWRP_OFOX_PBRP_SHRP_Recovery_Builder](https://github.com/mlm-games/TWRP_OFOX_PBRP_SHRP_Recovery_Builder) to [ymdzq/Recovery_Builder](https://github.com/ymdzq/Recovery_Builder)
   > Recovery Builder for TWRP, SHRP, Orangefox (OFOX), PBRP
@@ -265,5 +278,5 @@
 
 
 ---
-*最后更新于 2025-09-28 04:26:23 UTC*
+*最后更新于 2025-09-28 04:42:54 UTC*
 *历史记录保存在 `archive` 目录中。*
