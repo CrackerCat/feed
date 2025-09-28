@@ -349,6 +349,9 @@
   > Gutted SDL 2, CMake port of AntTweakBar (http://anttweakbar.sourceforge.net/doc/)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [SteamDatabase/SteamLinux](https://github.com/SteamDatabase/SteamLinux) to [gmh5225/SteamLinux](https://github.com/gmh5225/SteamLinux)
   > 🐧 The Big List of Steam Games on GNU/Linux
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [K2SOsint/Legendary_OSINT](https://github.com/K2SOsint/Legendary_OSINT) to [gmh5225/Legendary_OSINT](https://github.com/gmh5225/Legendary_OSINT)
+  > A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more. 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [wilsonliam/wilsonliam.github.io](https://github.com/wilsonliam/wilsonliam.github.io) to [gmh5225/wilsonliam.github.io](https://github.com/gmh5225/wilsonliam.github.io)
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - ✨ 👤 [goatmilkkk](https://github.com/goatmilkkk) Created new repo [goatmilkkk/goatmilkkk.github.io](https://github.com/goatmilkkk/goatmilkkk.github.io)
@@ -451,21 +454,11 @@
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts)
   > Elastic Security detection content for Endpoint
 
+### [kmiit](https://github.com/kmiit)
+- 🌟 👤 [kmiit](https://github.com/kmiit) Starred [msm8916-mainline/linux-mdss-dsi-panel-driver-generator](https://github.com/msm8916-mainline/linux-mdss-dsi-panel-driver-generator)
+  > Generate Linux DRM panel kernel driver based on QCOM MDSS DSI device tree
+
 ### [kost](https://github.com/kost)
-- 🌟 👤 [kost](https://github.com/kost) Starred [CompassSecurity/BloodHoundQueries](https://github.com/CompassSecurity/BloodHoundQueries)
-- 🌟 👤 [kost](https://github.com/kost) Starred [CompassSecurity/bloodhoundce-resources](https://github.com/CompassSecurity/bloodhoundce-resources)
-- 🌟 👤 [kost](https://github.com/kost) Starred [7h3w4lk3r/Kill-Floor](https://github.com/7h3w4lk3r/Kill-Floor)
-  > AV/EDR killer using BYOVD technique
-- 🌟 👤 [kost](https://github.com/kost) Starred [mr-pmillz/nmapTables](https://github.com/mr-pmillz/nmapTables)
-  > Program to create simple HTML tables for nmap services that can be imported into word
-- 🌟 👤 [kost](https://github.com/kost) Starred [gatariee/gocheck](https://github.com/gatariee/gocheck)
-  > Because AV evasion should be easy.
-- 🌟 👤 [kost](https://github.com/kost) Starred [zigpy/zigpy-cli](https://github.com/zigpy/zigpy-cli)
-  > Command line interface for zigpy
-- 🌟 👤 [kost](https://github.com/kost) Starred [MaorSabag/TrueSightKiller](https://github.com/MaorSabag/TrueSightKiller)
-  > CPP AV/EDR Killer
-- 🌟 👤 [kost](https://github.com/kost) Starred [SpaceTeddy/WireGuard-ESP32-Arduino](https://github.com/SpaceTeddy/WireGuard-ESP32-Arduino)
-  > WireGuard implementation for ESP32 Arduino
 - 🌟 👤 [kost](https://github.com/kost) Starred [kienvu58/WireGuard-ESP32-Arduino](https://github.com/kienvu58/WireGuard-ESP32-Arduino)
   > WireGuard implementation for ESP32 Arduino
 - 🌟 👤 [kost](https://github.com/kost) Starred [DefensiveOrigins/DockerEngineAPI-EnumSensitive](https://github.com/DefensiveOrigins/DockerEngineAPI-EnumSensitive)
@@ -588,6 +581,10 @@
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [ChiChou/GlobalWebInspect](https://github.com/ChiChou/GlobalWebInspect)
   > Enable WebView remote inspector for every app
 
+### [rdbo](https://github.com/rdbo)
+- 🌟 👤 [rdbo](https://github.com/rdbo) Starred [rust-cli/env_logger](https://github.com/rust-cli/env_logger)
+  > A logging implementation for `log` which is configured via an environment variable.
+
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [root-project/cling](https://github.com/root-project/cling)
   > The cling C++ interpreter
@@ -607,6 +604,10 @@
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [gjroots/esp32_nat_router_plus](https://github.com/gjroots/esp32_nat_router_plus)
   > A simple NAT Router for the ESP32 with some additional features
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [gautam-dev-maker/esp32_usb_repeater](https://github.com/gautam-dev-maker/esp32_usb_repeater)
+  > A Over the Wifi ESP32 USB Repeater
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [chegewara/esp32-usbip-poc](https://github.com/chegewara/esp32-usbip-poc)
+  > ESP32 S2/S3 USBIP proof of concept app
 
 ### [tennc](https://github.com/tennc)
 - 🌟 👤 [tennc](https://github.com/tennc) Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -693,5 +694,5 @@
 
 
 ---
-*最后更新于 2025-09-28 16:41:54 UTC*
+*最后更新于 2025-09-28 17:16:53 UTC*
 *历史记录保存在 `archive` 目录中。*
