@@ -37,6 +37,16 @@
 - 🌟 👤 [Avery-lab1](https://github.com/Avery-lab1) Starred [CrackerCat/strongR-frida-android](https://github.com/CrackerCat/strongR-frida-android)
   > An anti detection version frida-server for android.
 
+### [FeeiCN](https://github.com/FeeiCN)
+- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [usestrix/strix](https://github.com/usestrix/strix)
+  > Open-source AI hackers to find and fix your app’s vulnerabilities
+- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
+  > ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+
+### [GaoYuCan](https://github.com/GaoYuCan)
+- 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
+  > An MCP extension for Ghidra
+
 ### [Konano](https://github.com/Konano)
 - 🌟 👤 [Konano](https://github.com/Konano) Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
   > Open Source AI coding assistant for planning, building, and fixing code. We frequently merge feature...
@@ -49,11 +59,22 @@
 - 🌟 👤 [Le1a](https://github.com/Le1a) Starred [satan1a/TheRoadOfSO](https://github.com/satan1a/TheRoadOfSO)
   > 学习安全运营的记录 | The knowledge base of security operation
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [criwits/missing-web](https://github.com/criwits/missing-web)
+  > 你缺失的那门计算机课（网页版）| 一份适合电脑小白入门的电脑使用课程，一份面向今日与未来的信息时代指南
+
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [adeljck/YongYou-Exploit](https://github.com/adeljck/YongYou-Exploit)
   > YongYou U8C deserialization file upload exploit tool targeting IPFxxFileService and IFileTrans servi...
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [adeljck/QAX_VPN_Crack](https://github.com/adeljck/QAX_VPN_Crack)
   > 奇安信VPN任意用户密码重置
+
+### [PranavPurwar](https://github.com/PranavPurwar)
+- 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune)
+  > Enhanced YouTube Music client for Android With Material 3
+
+### [QingYuan688](https://github.com/QingYuan688)
+- 🌟 👤 [QingYuan688](https://github.com/QingYuan688) Starred [SukiSU-Ultra/SukiSU_KernelPatch_patch](https://github.com/SukiSU-Ultra/SukiSU_KernelPatch_patch)
 
 ### [Reginer](https://github.com/Reginer)
 - 🌟 👤 [Reginer](https://github.com/Reginer) Starred [ohos-decompiler/abc-decompiler](https://github.com/ohos-decompiler/abc-decompiler)
@@ -69,6 +90,12 @@
   > The open-source CapCut alternative
 - 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV)
   > 一个基于MoonTV(LunaTV)二次开发的项目。
+- 🍴 👤 [SummerSec](https://github.com/SummerSec) Forked [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) to [SummerSec/KatelyaTV](https://github.com/SummerSec/KatelyaTV)
+  > 一个基于MoonTV(LunaTV)二次开发的项目。
+
+### [Vaaaleeeraaa](https://github.com/Vaaaleeeraaa)
+- 🍴 👤 [Vaaaleeeraaa](https://github.com/Vaaaleeeraaa) Forked [CrackerCat/AIDE-Mods](https://github.com/CrackerCat/AIDE-Mods) to [Vaaaleeeraaa/AIDE-Mods](https://github.com/Vaaaleeeraaa/AIDE-Mods)
+  > Works better than the original AIDE.
 
 ### [Yervant7](https://github.com/Yervant7)
 - 🌟 👤 [Yervant7](https://github.com/Yervant7) Starred [localdesktop/localdesktop](https://github.com/localdesktop/localdesktop)
@@ -108,11 +135,21 @@
 - 🌟 👤 [cxapython](https://github.com/cxapython) Starred [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor)
   > Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 15
 
+### [darbra](https://github.com/darbra)
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [apankowski/doc88-downloader](https://github.com/apankowski/doc88-downloader)
+  > POC: download documents from doc88.com as images and convert them to searchable PDFs
+
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [Olow304/memvid](https://github.com/Olow304/memvid)
   > Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semant...
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice)
   > 简历警察 🕵️‍♂️ 疯狂逮捕
+
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [indragiek/CocoaMarkdown](https://github.com/indragiek/CocoaMarkdown)
+  > Markdown parsing and rendering for iOS and OS X
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [noties/Markwon](https://github.com/noties/Markwon)
+  > Android markdown library (no WebView)
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [z789/HIPS](https://github.com/z789/HIPS) to [fengjixuchui/HIPS](https://github.com/fengjixuchui/HIPS)
@@ -198,6 +235,9 @@
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [frida/frida](https://github.com/frida/frida)
   > Clone this repo to build Frida
 
+### [idkhidden](https://github.com/idkhidden)
+- ✨ 👤 [idkhidden](https://github.com/idkhidden) Created new repo [idkhidden/int3.club](https://github.com/idkhidden/int3.club)
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [arceos-hypervisor/axvisor](https://github.com/arceos-hypervisor/axvisor)
   > Unified modular arceos-hypervisor
@@ -261,6 +301,8 @@
 ### [lemuellew](https://github.com/lemuellew)
 - 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [ise-uiuc/KNighter](https://github.com/ise-uiuc/KNighter)
   > [SOSP'25] Automatic checker synthesis for system-level static analysis
+- 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [qcri/llmxcpg](https://github.com/qcri/llmxcpg)
+  > Source code for LLMxCPG paper
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [GAIR-NLP/LIMI](https://github.com/GAIR-NLP/LIMI)
@@ -274,6 +316,8 @@
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [clvrai/awesome-rl-envs](https://github.com/clvrai/awesome-rl-envs)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [dbobrenko/awesome-ai-environments](https://github.com/dbobrenko/awesome-ai-environments)
   > List of environments and competitions for RL and AI training
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)
+  > HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation
 
 ### [merces](https://github.com/merces)
 - 🌟 👤 [merces](https://github.com/merces) Starred [gyscos/cursive](https://github.com/gyscos/cursive)
@@ -316,6 +360,10 @@
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [Shreyas-Penkar/CVE-2024-38399](https://github.com/Shreyas-Penkar/CVE-2024-38399)
   > PoC for CVE-2024-38399
 
+### [prife](https://github.com/prife)
+- 🌟 👤 [prife](https://github.com/prife) Starred [bytedance/sonic](https://github.com/bytedance/sonic)
+  > A blazingly fast JSON serializing & deserializing library
+
 ### [qi4L](https://github.com/qi4L)
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS)
   > MemProcFS
@@ -329,6 +377,8 @@
 ### [realoriginal](https://github.com/realoriginal)
 - 🚀 👤 [realoriginal](https://github.com/realoriginal) Made [realoriginal/pintool-example](https://github.com/realoriginal/pintool-example) public
   > A sample cmake based project targeting Windows for Visual Studio to experiment with Intel PIN for fu...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [root-project/cling](https://github.com/root-project/cling)
+  > The cling C++ interpreter
 
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [ReversecLabs/leonidas](https://github.com/ReversecLabs/leonidas)
@@ -348,6 +398,14 @@
 - 🍴 👤 [wa1ki0g](https://github.com/wa1ki0g) Forked [gloxec/CrossC2](https://github.com/gloxec/CrossC2) to [wa1ki0g/CrossC2](https://github.com/wa1ki0g/CrossC2)
   > generate CobaltStrike's cross-platform payload
 
+### [yhnu](https://github.com/yhnu)
+- 🌟 👤 [yhnu](https://github.com/yhnu) Starred [Spuckwaffel/Dumpspace-API](https://github.com/Spuckwaffel/Dumpspace-API)
+  > Dumpspace website API to get your Games' infos directly.
+- 🌟 👤 [yhnu](https://github.com/yhnu) Starred [charliewolfe/Stealthy-Kernelmode-Injector](https://github.com/charliewolfe/Stealthy-Kernelmode-Injector)
+  > Manual mapper that uses PTE manipulation, Virtual Address Descriptor (VAD) manipulation, and forcefu...
+- 🌟 👤 [yhnu](https://github.com/yhnu) Starred [Liverus/Metamorph](https://github.com/Liverus/Metamorph)
+  > Kernel and Usermode Spoofer for SCP:SL
+
 ### [ymdzq](https://github.com/ymdzq)
 - 🍴 👤 [ymdzq](https://github.com/ymdzq) Forked [mlm-games/TWRP_OFOX_PBRP_SHRP_Recovery_Builder](https://github.com/mlm-games/TWRP_OFOX_PBRP_SHRP_Recovery_Builder) to [ymdzq/Recovery_Builder](https://github.com/ymdzq/Recovery_Builder)
   > Recovery Builder for TWRP, SHRP, Orangefox (OFOX), PBRP
@@ -358,5 +416,5 @@
 
 
 ---
-*最后更新于 2025-09-28 05:40:29 UTC*
+*最后更新于 2025-09-28 06:31:26 UTC*
 *历史记录保存在 `archive` 目录中。*
