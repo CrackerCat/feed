@@ -12,9 +12,9 @@
 - 🌟 👤 [36hours](https://github.com/36hours) Starred [keldaanCommunity/pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess)
   > Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon C...
 
-### [521xueweihan](https://github.com/521xueweihan)
-- 🌟 👤 [521xueweihan](https://github.com/521xueweihan) Starred [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland)
-  > 一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
+### [5mallFan-fork](https://github.com/5mallFan-fork)
+- 🍴 👤 [5mallFan-fork](https://github.com/5mallFan-fork) Forked [CrackerCat/PostConfluence](https://github.com/CrackerCat/PostConfluence) to [5mallFan-fork/PostConfluence](https://github.com/5mallFan-fork/PostConfluence)
+  > 哥斯拉Confluence后渗透插件  MakeToken SearchPage  ListAllUser AddAdminUser ListAllPage ........
 
 ### [AbhiTheModder](https://github.com/AbhiTheModder)
 - 🍴 👤 [AbhiTheModder](https://github.com/AbhiTheModder) Forked [P4nda0s/IDAFrida](https://github.com/P4nda0s/IDAFrida) to [AbhiTheModder/IDAFrida](https://github.com/AbhiTheModder/IDAFrida)
@@ -51,6 +51,10 @@
 - 🌟 👤 [Dado1513](https://github.com/Dado1513) Starred [MrTurvey/flareprox](https://github.com/MrTurvey/flareprox)
   > Use Cloudflare to create HTTP pass-through proxies for unique IP rotation, similar to fireprox
 
+### [EvilAnne](https://github.com/EvilAnne)
+- 🌟 👤 [EvilAnne](https://github.com/EvilAnne) Starred [The-Hacker-Recipes/The-Hacker-Recipes](https://github.com/The-Hacker-Recipes/The-Hacker-Recipes)
+  > This project is aimed at freely providing technical guides on various hacking topics.
+
 ### [FeeiCN](https://github.com/FeeiCN)
 - 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > Open-source AI hackers to find and fix your app’s vulnerabilities
@@ -60,6 +64,8 @@
 ### [GaoYuCan](https://github.com/GaoYuCan)
 - 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
   > An MCP extension for Ghidra
+- 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [iGio90/Dwarf](https://github.com/iGio90/Dwarf)
+  > Full featured multi arch/os debugger built on top of PyQt5 and frida
 
 ### [Idov31](https://github.com/Idov31)
 - 🌟 👤 [Idov31](https://github.com/Idov31) Starred [Oxygen1a1/InfinityHook_latest](https://github.com/Oxygen1a1/InfinityHook_latest)
@@ -90,12 +96,6 @@
 ### [N3rdL0rd](https://github.com/N3rdL0rd)
 - 🌟 👤 [N3rdL0rd](https://github.com/N3rdL0rd) Starred [shellinvictus/GriffonAD](https://github.com/shellinvictus/GriffonAD)
   > A new tool to exploit bad configurations in Active Directory
-
-### [No-Github](https://github.com/No-Github)
-- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [adeljck/YongYou-Exploit](https://github.com/adeljck/YongYou-Exploit)
-  > YongYou U8C deserialization file upload exploit tool targeting IPFxxFileService and IFileTrans servi...
-- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [adeljck/QAX_VPN_Crack](https://github.com/adeljck/QAX_VPN_Crack)
-  > 奇安信VPN任意用户密码重置
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sunmh207/AI-Codereview-Gitlab](https://github.com/sunmh207/AI-Codereview-Gitlab)
@@ -165,6 +165,21 @@
   > SharPyShell - tiny and obfuscated ASP.NET webshell for C# web applications
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [antonioCoco/SspiUacBypass](https://github.com/antonioCoco/SspiUacBypass)
   > Bypassing UAC with SSPI Datagram Contexts 
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [frida/frida](https://github.com/frida/frida)
+  > Clone this repo to build Frida
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [oleavr/frida-tool-example](https://github.com/oleavr/frida-tool-example)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [palera1n/palera1n](https://github.com/palera1n/palera1n)
+  > Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [alfiecg24/TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX)
+  > A TrollStore installer for iOS 14.0 - 16.6.1
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal)
+  > Linus learns analog circuits
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [google/go-querystring](https://github.com/google/go-querystring)
+  > go-querystring is Go library for encoding structs into URL query strings.
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+  > An Open Source Machine Learning Framework for Everyone
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [axios/axios](https://github.com/axios/axios)
+  > Promise based HTTP client for the browser and node.js
 
 ### [chai2010](https://github.com/chai2010)
 - 🌟 👤 [chai2010](https://github.com/chai2010) Starred [YosysHQ/nextpnr](https://github.com/YosysHQ/nextpnr)
@@ -181,6 +196,10 @@
 ### [cozis](https://github.com/cozis)
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog)
   > Free, no-nonsense, super fast blogging.
+
+### [cwuom](https://github.com/cwuom)
+- 🌟 👤 [cwuom](https://github.com/cwuom) Starred [0xHJK/music-dl](https://github.com/0xHJK/music-dl)
+  > search and download music 从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐、咪咕音乐等搜索和下载歌曲
 
 ### [cxapython](https://github.com/cxapython)
 - 🍴 👤 [cxapython](https://github.com/cxapython) Forked [skylot/jadx](https://github.com/skylot/jadx) to [cxapython/jadx](https://github.com/cxapython/jadx)
@@ -230,23 +249,6 @@
   > Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) to [gmh5225/ai-dev-tasks](https://github.com/gmh5225/ai-dev-tasks)
-  > A simple task management system for managing AI dev agents
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [SpecterOps/MSSQLHound](https://github.com/SpecterOps/MSSQLHound) to [gmh5225/MSSQLHound](https://github.com/gmh5225/MSSQLHound)
-  > PowerShell collector for adding MSSQL attack paths to BloodHound with OpenGraph
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [atopile/led_badge](https://github.com/atopile/led_badge) to [gmh5225/led_badge](https://github.com/gmh5225/led_badge)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [atopile/kicanvas](https://github.com/atopile/kicanvas) to [gmh5225/kicanvas](https://github.com/gmh5225/kicanvas)
-  > The KiCAD web viewer
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [trustedsec/Titanis](https://github.com/trustedsec/Titanis) to [gmh5225/Titanis](https://github.com/gmh5225/Titanis)
-  > Windows protocol library, including SMB and RPC implementations, among others.
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Jvynarat3VVb/Go-ETH-Contract](https://github.com/Jvynarat3VVb/Go-ETH-Contract) to [gmh5225/Go-ETH-Contract](https://github.com/gmh5225/Go-ETH-Contract)
-  > ETH arbitrage JS script with flashloans, passive income via smart contracts, local execution.
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gohee-goon/leo-optimizer](https://github.com/gohee-goon/leo-optimizer) to [gmh5225/leo-optimizer](https://github.com/gmh5225/leo-optimizer)
-  > 🚀 Optimizes neural networks with Leo, a fast and efficient optimizer using Lion momentum and element...
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [anza-xyz/security-audits](https://github.com/anza-xyz/security-audits) to [gmh5225/security-audits](https://github.com/gmh5225/security-audits)
-  > Published security audits
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0xAIDR/AIDR-Bastion](https://github.com/0xAIDR/AIDR-Bastion) to [gmh5225/AIDR-Bastion](https://github.com/gmh5225/AIDR-Bastion)
-  > A comprehensive GenAI protection system designed to protect against malicious prompts, injection att...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [djyde/PandocX](https://github.com/djyde/PandocX) to [gmh5225/PandocX](https://github.com/gmh5225/PandocX)
   > File convertor
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Bifishone/GoogleFirefoxDomain](https://github.com/Bifishone/GoogleFirefoxDomain) to [gmh5225/GoogleFirefoxDomain](https://github.com/gmh5225/GoogleFirefoxDomain)
@@ -325,6 +327,8 @@
   > Single file 2D graphics library written in C.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [dscharrer/AntTweakBar-sdl2](https://github.com/dscharrer/AntTweakBar-sdl2) to [gmh5225/AntTweakBar-sdl2](https://github.com/gmh5225/AntTweakBar-sdl2)
   > Gutted SDL 2, CMake port of AntTweakBar (http://anttweakbar.sourceforge.net/doc/)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [SteamDatabase/SteamLinux](https://github.com/SteamDatabase/SteamLinux) to [gmh5225/SteamLinux](https://github.com/gmh5225/SteamLinux)
+  > 🐧 The Big List of Steam Games on GNU/Linux
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - ✨ 👤 [goatmilkkk](https://github.com/goatmilkkk) Created new repo [goatmilkkk/goatmilkkk.github.io](https://github.com/goatmilkkk/goatmilkkk.github.io)
@@ -380,10 +384,6 @@
   > Repository ini berisi kumpulan tugas coding dari berbagai mata kuliah di semua semester. Dibuat untu...
 - ✨ 👤 [iyxan23](https://github.com/iyxan23) Created new repo [iyxan23/ums](https://github.com/iyxan23/ums)
   > things from my university's courses
-
-### [jianglin-code](https://github.com/jianglin-code)
-- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-  > Chrome DevTools for coding agents
 
 ### [jiushill](https://github.com/jiushill)
 - 🌟 👤 [jiushill](https://github.com/jiushill) Starred [klezVirus/SysWhispers3](https://github.com/klezVirus/SysWhispers3)
@@ -498,8 +498,6 @@
   > Source code for LLMxCPG paper
 
 ### [linxid](https://github.com/linxid)
-- 🌟 👤 [linxid](https://github.com/linxid) Starred [Pi3AI/ScholarWiki](https://github.com/Pi3AI/ScholarWiki)
-  > Collect 56k+ papers with code, automatically update everyday. http://scholarwiki.ai
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [openai/gym](https://github.com/openai/gym)
   > A toolkit for developing and comparing reinforcement learning algorithms.
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [clvrai/awesome-rl-envs](https://github.com/clvrai/awesome-rl-envs)
@@ -527,6 +525,10 @@
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [imneme/pcg-cpp](https://github.com/imneme/pcg-cpp)
   > PCG — C++ Implementation
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [tmetsch/python-dtrace](https://github.com/tmetsch/python-dtrace)
+  > A Python DTrace consumer using libdtrace - Now Python can be used as DTrace Provider and Consumer...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [tmetsch/dtrace-web-ide](https://github.com/tmetsch/dtrace-web-ide)
+  > Python based & web based IDE for DTrace with Data Visualizations
 
 ### [neil-wu](https://github.com/neil-wu)
 - 🌟 👤 [neil-wu](https://github.com/neil-wu) Starred [Olow304/memvid](https://github.com/Olow304/memvid)
@@ -559,6 +561,10 @@
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
   > Hunt down social media accounts by username across social networks
 
+### [omeraydindev](https://github.com/omeraydindev)
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise)
+  > stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives insi...
+
 ### [prife](https://github.com/prife)
 - 🌟 👤 [prife](https://github.com/prife) Starred [bytedance/sonic](https://github.com/bytedance/sonic)
   > A blazingly fast JSON serializing & deserializing library
@@ -566,6 +572,14 @@
 ### [qi4L](https://github.com/qi4L)
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS)
   > MemProcFS
+
+### [rankalpha](https://github.com/rankalpha)
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [wuxiaosu/XposedWechatHelper](https://github.com/wuxiaosu/XposedWechatHelper)
+  > Xposed 微信辅助模块，实现消息防撤回、模拟位置、运动步数修改、猜拳骰子游戏作弊、零钱余额修改、微信运动一键点赞。
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [xemu-project/xemu](https://github.com/xemu-project/xemu)
+  > Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [gaasedelen/lucid](https://github.com/gaasedelen/lucid)
+  > An Interactive Hex-Rays Microcode Explorer
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [root-project/cling](https://github.com/root-project/cling)
@@ -586,6 +600,10 @@
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [gjroots/esp32_nat_router_plus](https://github.com/gjroots/esp32_nat_router_plus)
   > A simple NAT Router for the ESP32 with some additional features
+
+### [tennc](https://github.com/tennc)
+- 🌟 👤 [tennc](https://github.com/tennc) Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+  > Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC)
@@ -651,10 +669,6 @@
 - 🌟 👤 [yhnu](https://github.com/yhnu) Starred [Liverus/Metamorph](https://github.com/Liverus/Metamorph)
   > Kernel and Usermode Spoofer for SCP:SL
 
-### [ymdzq](https://github.com/ymdzq)
-- 🍴 👤 [ymdzq](https://github.com/ymdzq) Forked [mlm-games/TWRP_OFOX_PBRP_SHRP_Recovery_Builder](https://github.com/mlm-games/TWRP_OFOX_PBRP_SHRP_Recovery_Builder) to [ymdzq/Recovery_Builder](https://github.com/ymdzq/Recovery_Builder)
-  > Recovery Builder for TWRP, SHRP, Orangefox (OFOX), PBRP
-
 ### [ys1231](https://github.com/ys1231)
 - 🍴 👤 [ys1231](https://github.com/ys1231) Forked [lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida) to [ys1231/ZygiskFrida](https://github.com/ys1231/ZygiskFrida)
   > Injects frida gadget using zygisk to bypass anti-tamper checks.
@@ -674,5 +688,5 @@
 
 
 ---
-*最后更新于 2025-09-28 15:18:44 UTC*
+*最后更新于 2025-09-28 15:38:15 UTC*
 *历史记录保存在 `archive` 目录中。*
