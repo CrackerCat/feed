@@ -23,6 +23,10 @@
 - ✨ 👤 [Alex313031](https://github.com/Alex313031) Created new repo [Alex313031/cbpp-configs](https://github.com/Alex313031/cbpp-configs)
   > Private repo for (IMO) optimal UI configs for CrunchBang++ Linux
 
+### [AlexAltea](https://github.com/AlexAltea)
+- 🌟 👤 [AlexAltea](https://github.com/AlexAltea) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
+  > A free, open source, and extensible speech-to-text application that works completely offline.
+
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [siderolabs/talos](https://github.com/siderolabs/talos)
   > Talos Linux is a modern Linux distribution built for Kubernetes.
@@ -306,12 +310,20 @@
   > minimalist claude code
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [xn1cklas/tokenlens](https://github.com/xn1cklas/tokenlens) to [gmh5225/tokenlens](https://github.com/gmh5225/tokenlens)
   > Typed model metadata and context/cost utilities that help AI apps answer: Does this fit? What will i...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [BA-CalderonMorales/terminal-jarvis-frankenstein](https://github.com/BA-CalderonMorales/terminal-jarvis-frankenstein) to [gmh5225/terminal-jarvis-frankenstein](https://github.com/gmh5225/terminal-jarvis-frankenstein)
+  > Open Lovable Clone - T.J. Integration
 
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)
   > A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM a...
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk)
   > The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with...
+
+### [gyyyy](https://github.com/gyyyy)
+- 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [cloudwego/eino](https://github.com/cloudwego/eino)
+  > The ultimate LLM/AI application development framework in Golang.
+- 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)
+  > A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM a...
 
 ### [heckerstone](https://github.com/heckerstone)
 - 🌟 👤 [heckerstone](https://github.com/heckerstone) Starred [CrackerCat/crack_dexhelper](https://github.com/CrackerCat/crack_dexhelper)
@@ -571,5 +583,5 @@
 
 
 ---
-*最后更新于 2025-09-28 09:20:13 UTC*
+*最后更新于 2025-09-28 09:38:29 UTC*
 *历史记录保存在 `archive` 目录中。*
