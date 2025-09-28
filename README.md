@@ -120,6 +120,8 @@
 ### [PranavPurwar](https://github.com/PranavPurwar)
 - 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune)
   > Enhanced YouTube Music client for Android With Material 3
+- 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [patrykandpatrick/vico](https://github.com/patrykandpatrick/vico)
+  > A powerful and extensible multiplatform chart library.
 
 ### [QingYuan688](https://github.com/QingYuan688)
 - 🌟 👤 [QingYuan688](https://github.com/QingYuan688) Starred [SukiSU-Ultra/SukiSU_KernelPatch_patch](https://github.com/SukiSU-Ultra/SukiSU_KernelPatch_patch)
@@ -129,8 +131,6 @@
   > TWRP device tree for the Amazon Echo Dot 2nd Gen (2015)
 
 ### [SummerSec](https://github.com/SummerSec)
-- 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-  > The open-source CapCut alternative
 - 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV)
   > 一个基于MoonTV(LunaTV)二次开发的项目。
 - 🍴 👤 [SummerSec](https://github.com/SummerSec) Forked [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) to [SummerSec/KatelyaTV](https://github.com/SummerSec/KatelyaTV)
@@ -139,9 +139,17 @@
 ### [Super12138](https://github.com/Super12138)
 - 🍴 👤 [Super12138](https://github.com/Super12138) Forked [lvonasek/3DLiveScanner](https://github.com/lvonasek/3DLiveScanner) to [Super12138/3DLiveScanner](https://github.com/Super12138/3DLiveScanner)
 
+### [Tharana](https://github.com/Tharana)
+- 🌟 👤 [Tharana](https://github.com/Tharana) Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
+  > A terminal for a more modern age
+
 ### [Tokeii0](https://github.com/Tokeii0)
 - 🌟 👤 [Tokeii0](https://github.com/Tokeii0) Starred [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
   > 🚀 Awesome Tauri Apps, Plugins and Resources
+
+### [TomAPU](https://github.com/TomAPU)
+- 🌟 👤 [TomAPU](https://github.com/TomAPU) Starred [upstash/context7](https://github.com/upstash/context7)
+  > Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 
 ### [U039b](https://github.com/U039b)
 - 🌟 👤 [U039b](https://github.com/U039b) Starred [whad-team/whad-client](https://github.com/whad-team/whad-client)
@@ -176,15 +184,15 @@
 - 🌟 👤 [astrelsky](https://github.com/astrelsky) Starred [FastFlowLM/FastFlowLM](https://github.com/FastFlowLM/FastFlowLM)
   > Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized...
 
+### [black-binary](https://github.com/black-binary)
+- 🌟 👤 [black-binary](https://github.com/black-binary) Starred [ikatson/rqbit](https://github.com/ikatson/rqbit)
+  > A bittorrent client in Rust
+
 ### [boy-hack](https://github.com/boy-hack)
 - 🌟 👤 [boy-hack](https://github.com/boy-hack) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > Open-source AI hackers to find and fix your app’s vulnerabilities
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [antonioCoco/SharPyShell](https://github.com/antonioCoco/SharPyShell)
-  > SharPyShell - tiny and obfuscated ASP.NET webshell for C# web applications
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [antonioCoco/SspiUacBypass](https://github.com/antonioCoco/SspiUacBypass)
-  > Bypassing UAC with SSPI Datagram Contexts 
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [frida/frida](https://github.com/frida/frida)
   > Clone this repo to build Frida
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [oleavr/frida-tool-example](https://github.com/oleavr/frida-tool-example)
@@ -243,6 +251,10 @@
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance)
   > Gemini polling proxy service （gemini轮询代理服务）
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [SoyBeanMilkx/FakeSensor](https://github.com/SoyBeanMilkx/FakeSensor)
+  > 允许您全局修改传感器的值，无需注入特定app以防被检测
+
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [indragiek/CocoaMarkdown](https://github.com/indragiek/CocoaMarkdown)
   > Markdown parsing and rendering for iOS and OS X
@@ -269,8 +281,6 @@
   > Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [djyde/PandocX](https://github.com/djyde/PandocX) to [gmh5225/PandocX](https://github.com/gmh5225/PandocX)
-  > File convertor
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Bifishone/GoogleFirefoxDomain](https://github.com/Bifishone/GoogleFirefoxDomain) to [gmh5225/GoogleFirefoxDomain](https://github.com/gmh5225/GoogleFirefoxDomain)
   > 一款高效、强大的子域名爬取工具，结合 Google 和 Firefox 浏览器的优势，帮助安全研究者和渗透测试人员快速收集目标域名的子域名信息
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl) to [gmh5225/nixl](https://github.com/gmh5225/nixl)
@@ -463,12 +473,6 @@
   > Generate Linux DRM panel kernel driver based on QCOM MDSS DSI device tree
 
 ### [kost](https://github.com/kost)
-- 🌟 👤 [kost](https://github.com/kost) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
-  > Cybersecurity AI (CAI), the framework for AI Security
-- 🌟 👤 [kost](https://github.com/kost) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
-  > LKM rootkit for modern kernels (6x)
-- 🌟 👤 [kost](https://github.com/kost) Starred [thefLink/Hunt-Sleeping-Beacons](https://github.com/thefLink/Hunt-Sleeping-Beacons)
-  > Aims to identify sleeping beacons
 - 🌟 👤 [kost](https://github.com/kost) Starred [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
   > Free, local, open-source GUI app for Gemini CLI — Better Chat UI, File Management, AI image editing,...
 - 🌟 👤 [kost](https://github.com/kost) Starred [peterferrie/win-exec-calc-shellcode](https://github.com/peterferrie/win-exec-calc-shellcode)
@@ -526,8 +530,6 @@
   > Python based & web based IDE for DTrace with Data Visualizations
 
 ### [netxfly](https://github.com/netxfly)
-- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [typst/typst](https://github.com/typst/typst)
-  > A new markup-based typesetting system that is powerful and easy to learn.
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [contribsys/faktory](https://github.com/contribsys/faktory)
   > Language-agnostic persistent background job server
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [projectdiscovery/tlsx](https://github.com/projectdiscovery/tlsx)
@@ -550,6 +552,8 @@
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
   > Hunt down social media accounts by username across social networks
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [LuckyTurtleDev/crab-hole](https://github.com/LuckyTurtleDev/crab-hole)
+  > 🦀 Pi-Hole clone written in rust using hickory-dns/trust-dns
 
 ### [omeraydindev](https://github.com/omeraydindev)
 - 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise)
@@ -558,6 +562,10 @@
   > Alternative Twitter front-end
 - 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)
   > A flexible distributed key-value database that is optimized for caching and other realtime workloads...
+
+### [pfalcon](https://github.com/pfalcon)
+- 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [finos/perspective](https://github.com/finos/perspective)
+  > A data visualization and analytics component, especially well-suited for large and/or streaming data...
 
 ### [prife](https://github.com/prife)
 - 🌟 👤 [prife](https://github.com/prife) Starred [bytedance/sonic](https://github.com/bytedance/sonic)
@@ -678,6 +686,10 @@
 ### [yuan-xy](https://github.com/yuan-xy)
 - 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [am32-firmware/AM32](https://github.com/am32-firmware/AM32)
 
+### [yurii-shchehliuk](https://github.com/yurii-shchehliuk)
+- 🌟 👤 [yurii-shchehliuk](https://github.com/yurii-shchehliuk) Starred [CrackerCat/IDA-Patcher-](https://github.com/CrackerCat/IDA-Patcher-)
+  > IDA Pro Patcher & License Generator
+
 ### [zinja-coder](https://github.com/zinja-coder)
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [WhiteWinterWolf/wwwolf-php-webshell](https://github.com/WhiteWinterWolf/wwwolf-php-webshell)
   > WhiteWinterWolf's PHP web shell
@@ -690,5 +702,5 @@
 
 
 ---
-*最后更新于 2025-09-28 17:38:09 UTC*
+*最后更新于 2025-09-28 18:28:42 UTC*
 *历史记录保存在 `archive` 目录中。*
