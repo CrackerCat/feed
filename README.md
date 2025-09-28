@@ -35,6 +35,12 @@
 - 🌟 👤 [Le1a](https://github.com/Le1a) Starred [satan1a/TheRoadOfSO](https://github.com/satan1a/TheRoadOfSO)
   > 学习安全运营的记录 | The knowledge base of security operation
 
+### [No-Github](https://github.com/No-Github)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [adeljck/YongYou-Exploit](https://github.com/adeljck/YongYou-Exploit)
+  > YongYou U8C deserialization file upload exploit tool targeting IPFxxFileService and IFileTrans servi...
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [adeljck/QAX_VPN_Crack](https://github.com/adeljck/QAX_VPN_Crack)
+  > 奇安信VPN任意用户密码重置
+
 ### [Reginer](https://github.com/Reginer)
 - 🌟 👤 [Reginer](https://github.com/Reginer) Starred [ohos-decompiler/abc-decompiler](https://github.com/ohos-decompiler/abc-decompiler)
 
@@ -126,6 +132,29 @@
   > Nexa SDK is a comprehensive toolkit for supporting GGML and ONNX models. It supports text generation...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [PABannier/bark.cpp](https://github.com/PABannier/bark.cpp) to [gmh5225/bark.cpp](https://github.com/gmh5225/bark.cpp)
   > Suno AI's Bark model in C/C++ for fast text-to-speech generation
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nkanaev/imgspy](https://github.com/nkanaev/imgspy) to [gmh5225/imgspy](https://github.com/gmh5225/imgspy)
+  > imgspy finds the metadata (type, size) of an image given its url by fetching as little as needed
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [humanlayer/genai-the-good-parts](https://github.com/humanlayer/genai-the-good-parts) to [gmh5225/genai-the-good-parts](https://github.com/gmh5225/genai-the-good-parts)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [onyx-dot-app/onyx-ui](https://github.com/onyx-dot-app/onyx-ui) to [gmh5225/onyx-ui](https://github.com/gmh5225/onyx-ui)
+  > Onyx UI Component Library
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [onyx-dot-app/vespa-helm-charts](https://github.com/onyx-dot-app/vespa-helm-charts) to [gmh5225/vespa-helm-charts](https://github.com/gmh5225/vespa-helm-charts)
+  > This will house vespa helm charts.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [onyx-dot-app/onyx-chrome-extension](https://github.com/onyx-dot-app/onyx-chrome-extension) to [gmh5225/onyx-chrome-extension](https://github.com/gmh5225/onyx-chrome-extension)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) to [gmh5225/ai-dev-tasks](https://github.com/gmh5225/ai-dev-tasks)
+  > A simple task management system for managing AI dev agents
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [SpecterOps/MSSQLHound](https://github.com/SpecterOps/MSSQLHound) to [gmh5225/MSSQLHound](https://github.com/gmh5225/MSSQLHound)
+  > PowerShell collector for adding MSSQL attack paths to BloodHound with OpenGraph
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [atopile/led_badge](https://github.com/atopile/led_badge) to [gmh5225/led_badge](https://github.com/gmh5225/led_badge)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [atopile/kicanvas](https://github.com/atopile/kicanvas) to [gmh5225/kicanvas](https://github.com/gmh5225/kicanvas)
+  > The KiCAD web viewer
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [trustedsec/Titanis](https://github.com/trustedsec/Titanis) to [gmh5225/Titanis](https://github.com/gmh5225/Titanis)
+  > Windows protocol library, including SMB and RPC implementations, among others.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Jvynarat3VVb/Go-ETH-Contract](https://github.com/Jvynarat3VVb/Go-ETH-Contract) to [gmh5225/Go-ETH-Contract](https://github.com/gmh5225/Go-ETH-Contract)
+  > ETH arbitrage JS script with flashloans, passive income via smart contracts, local execution.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gohee-goon/leo-optimizer](https://github.com/gohee-goon/leo-optimizer) to [gmh5225/leo-optimizer](https://github.com/gmh5225/leo-optimizer)
+  > 🚀 Optimizes neural networks with Leo, a fast and efficient optimizer using Lion momentum and element...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [anza-xyz/security-audits](https://github.com/anza-xyz/security-audits) to [gmh5225/security-audits](https://github.com/gmh5225/security-audits)
+  > Published security audits
 
 ### [heckerstone](https://github.com/heckerstone)
 - 🌟 👤 [heckerstone](https://github.com/heckerstone) Starred [CrackerCat/crack_dexhelper](https://github.com/CrackerCat/crack_dexhelper)
@@ -138,6 +167,8 @@
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [arceos-hypervisor/axvisor](https://github.com/arceos-hypervisor/axvisor)
   > Unified modular arceos-hypervisor
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+  > Chrome DevTools for coding agents
 
 ### [kmiit](https://github.com/kmiit)
 - 🌟 👤 [kmiit](https://github.com/kmiit) Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
@@ -146,6 +177,8 @@
 ### [ledccn](https://github.com/ledccn)
 - 🍴 👤 [ledccn](https://github.com/ledccn) Forked [symfony/dom-crawler](https://github.com/symfony/dom-crawler) to [ledccn/dom-crawler](https://github.com/ledccn/dom-crawler)
   > Eases DOM navigation for HTML and XML documents
+- 🍴 👤 [ledccn](https://github.com/ledccn) Forked [allinssl/allinssl](https://github.com/allinssl/allinssl) to [ledccn/allinssl](https://github.com/ledccn/allinssl)
+  > AllinSSL 是一个集证书申请、管理、部署和监控于一体的SSL证书全生命周期管理工具。AllinSSL is an all-in-one SSL certificate lifecycle man...
 
 ### [lemuellew](https://github.com/lemuellew)
 - 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [ise-uiuc/KNighter](https://github.com/ise-uiuc/KNighter)
@@ -197,11 +230,15 @@
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [sidex15/susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module)
   > An addon root hiding service for KernelSU
 
+### [ymdzq](https://github.com/ymdzq)
+- 🍴 👤 [ymdzq](https://github.com/ymdzq) Forked [mlm-games/TWRP_OFOX_PBRP_SHRP_Recovery_Builder](https://github.com/mlm-games/TWRP_OFOX_PBRP_SHRP_Recovery_Builder) to [ymdzq/Recovery_Builder](https://github.com/ymdzq/Recovery_Builder)
+  > Recovery Builder for TWRP, SHRP, Orangefox (OFOX), PBRP
+
 ### [zhanghai](https://github.com/zhanghai)
 - 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [vvb2060/PackageInstaller](https://github.com/vvb2060/PackageInstaller)
   > A lightweight yet powerful package installer for Android.
 
 
 ---
-*最后更新于 2025-09-28 03:11:26 UTC*
+*最后更新于 2025-09-28 03:50:56 UTC*
 *历史记录保存在 `archive` 目录中。*
