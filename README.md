@@ -13,6 +13,10 @@
 - 🌟 👤 [0xbug](https://github.com/0xbug) Starred [unovue/inspira-ui](https://github.com/unovue/inspira-ui)
   > Build beautiful website using Vue & Nuxt.
 
+### [36hours](https://github.com/36hours)
+- 🌟 👤 [36hours](https://github.com/36hours) Starred [keldaanCommunity/pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess)
+  > Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon C...
+
 ### [4ESTSEC](https://github.com/4ESTSEC)
 - 🌟 👤 [4ESTSEC](https://github.com/4ESTSEC) Starred [ahmedkhlief/Ninja](https://github.com/ahmedkhlief/Ninja)
   >  Open source C2 server created for stealth red team operations
@@ -383,6 +387,8 @@
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [amimo/sim-trace](https://github.com/amimo/sim-trace)
   > a poc implementation arm64 tracer based on simulation
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xflux/Wyrm](https://github.com/0xflux/Wyrm)
+  >  The dragon in the dark. A red team post exploitation framework for testing security controls during...
 
 ### [kmiit](https://github.com/kmiit)
 - 🌟 👤 [kmiit](https://github.com/kmiit) Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
@@ -633,5 +639,5 @@
 
 
 ---
-*最后更新于 2025-09-28 11:16:27 UTC*
+*最后更新于 2025-09-28 11:38:35 UTC*
 *历史记录保存在 `archive` 目录中。*
