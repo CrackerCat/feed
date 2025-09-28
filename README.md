@@ -84,6 +84,10 @@
   > A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [francoismichel/ssh3](https://github.com/francoismichel/ssh3)
   > SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/23...
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [autobrr/qui](https://github.com/autobrr/qui)
+  > Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React.
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [Odizinne/QontrolPanel](https://github.com/Odizinne/QontrolPanel)
+  > Custom windows sound panel
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT)
@@ -117,6 +121,10 @@
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [LuanRT/ump-inspector](https://github.com/LuanRT/ump-inspector)
   > Inspect and decode YouTube UMP requests in the browser.
 
+### [Ppsoft1991](https://github.com/Ppsoft1991)
+- 🌟 👤 [Ppsoft1991](https://github.com/Ppsoft1991) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
+  > Windows protocol library, including SMB and RPC implementations, among others.
+
 ### [PranavPurwar](https://github.com/PranavPurwar)
 - 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune)
   > Enhanced YouTube Music client for Android With Material 3
@@ -131,8 +139,6 @@
   > TWRP device tree for the Amazon Echo Dot 2nd Gen (2015)
 
 ### [SummerSec](https://github.com/SummerSec)
-- 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV)
-  > 一个基于MoonTV(LunaTV)二次开发的项目。
 - 🍴 👤 [SummerSec](https://github.com/SummerSec) Forked [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) to [SummerSec/KatelyaTV](https://github.com/SummerSec/KatelyaTV)
   > 一个基于MoonTV(LunaTV)二次开发的项目。
 
@@ -154,10 +160,6 @@
 ### [U039b](https://github.com/U039b)
 - 🌟 👤 [U039b](https://github.com/U039b) Starred [whad-team/whad-client](https://github.com/whad-team/whad-client)
   > Wireless Hacking Devices Protocol client
-
-### [Vaaaleeeraaa](https://github.com/Vaaaleeeraaa)
-- 🍴 👤 [Vaaaleeeraaa](https://github.com/Vaaaleeeraaa) Forked [CrackerCat/AIDE-Mods](https://github.com/CrackerCat/AIDE-Mods) to [Vaaaleeeraaa/AIDE-Mods](https://github.com/Vaaaleeeraaa/AIDE-Mods)
-  > Works better than the original AIDE.
 
 ### [X-White-Ray](https://github.com/X-White-Ray)
 - 🍴 👤 [X-White-Ray](https://github.com/X-White-Ray) Forked [CrackerCat/strongR-frida-android](https://github.com/CrackerCat/strongR-frida-android) to [X-White-Ray/strongR-frida-android](https://github.com/X-White-Ray/strongR-frida-android)
@@ -366,6 +368,11 @@
   > A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more. 
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [K2SOsint/Maltego_Machines](https://github.com/K2SOsint/Maltego_Machines) to [gmh5225/Maltego_Machines](https://github.com/gmh5225/Maltego_Machines)
   > This is a small repo that contains example machines that can be used in Maltego to automate certain ...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [aibtcdev/aibtcdev-frontend](https://github.com/aibtcdev/aibtcdev-frontend) to [gmh5225/aibtcdev-frontend](https://github.com/gmh5225/aibtcdev-frontend)
+  > Create, schedule, run, and chat with crews of agents that have their own wallets. Create and manage ...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [kingbootoshi/story-engine](https://github.com/kingbootoshi/story-engine) to [gmh5225/story-engine](https://github.com/gmh5225/story-engine)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) to [gmh5225/cmux](https://github.com/gmh5225/cmux)
+  > cmux lets you run Claude Code, Codex CLI, Cursor CLI, Gemini CLI, Amp, Opencode, and other coding ag...
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - ✨ 👤 [goatmilkkk](https://github.com/goatmilkkk) Created new repo [goatmilkkk/goatmilkkk.github.io](https://github.com/goatmilkkk/goatmilkkk.github.io)
@@ -530,12 +537,6 @@
   > Python based & web based IDE for DTrace with Data Visualizations
 
 ### [netxfly](https://github.com/netxfly)
-- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [contribsys/faktory](https://github.com/contribsys/faktory)
-  > Language-agnostic persistent background job server
-- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [projectdiscovery/tlsx](https://github.com/projectdiscovery/tlsx)
-  > Fast and configurable TLS grabber focused on TLS based data collection.
-- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [YuminosukeSato/pyproc](https://github.com/YuminosukeSato/pyproc)
-  > Call Python from Go without CGO or microservices - Unix domain socket based IPC for ML inference and...
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [Masterminds/semver](https://github.com/Masterminds/semver)
   > Work with Semantic Versions in Go
 
@@ -566,10 +567,6 @@
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [finos/perspective](https://github.com/finos/perspective)
   > A data visualization and analytics component, especially well-suited for large and/or streaming data...
-
-### [prife](https://github.com/prife)
-- 🌟 👤 [prife](https://github.com/prife) Starred [bytedance/sonic](https://github.com/bytedance/sonic)
-  > A blazingly fast JSON serializing & deserializing library
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [schibsted/WAAS](https://github.com/schibsted/WAAS)
@@ -702,5 +699,5 @@
 
 
 ---
-*最后更新于 2025-09-28 18:28:42 UTC*
+*最后更新于 2025-09-28 18:45:14 UTC*
 *历史记录保存在 `archive` 目录中。*
