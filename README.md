@@ -71,6 +71,10 @@
 - 🌟 👤 [Karmaz95](https://github.com/Karmaz95) Starred [K2SOsint/Legendary_OSINT](https://github.com/K2SOsint/Legendary_OSINT)
   > A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more. 
 
+### [KickedDroid](https://github.com/KickedDroid)
+- 🌟 👤 [KickedDroid](https://github.com/KickedDroid) Starred [0xflux/Wyrm](https://github.com/0xflux/Wyrm)
+  >  The dragon in the dark. A red team post exploitation framework for testing security controls during...
+
 ### [LukasOgunfeitimi](https://github.com/LukasOgunfeitimi)
 - 🌟 👤 [LukasOgunfeitimi](https://github.com/LukasOgunfeitimi) Starred [irrisolto/skyscanner](https://github.com/irrisolto/skyscanner)
   > A Python client library for interacting with the Skyscanner flight and car rental APIs
@@ -219,6 +223,10 @@
 ### [cozis](https://github.com/cozis)
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog)
   > Free, no-nonsense, super fast blogging.
+
+### [crvvdev](https://github.com/crvvdev)
+- 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [SunOner/sunone_aimbot](https://github.com/SunOner/sunone_aimbot)
+  > Aim-bot based on AI for all FPS games
 
 ### [cwuom](https://github.com/cwuom)
 - 🌟 👤 [cwuom](https://github.com/cwuom) Starred [0xHJK/music-dl](https://github.com/0xHJK/music-dl)
@@ -494,8 +502,6 @@
   > Source code for LLMxCPG paper
 
 ### [linxid](https://github.com/linxid)
-- 🌟 👤 [linxid](https://github.com/linxid) Starred [Tencent-Hunyuan/HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)
-  > HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [qiwang067/awesome-visual-rl](https://github.com/qiwang067/awesome-visual-rl)
   > A curated list of visual reinforcement learning resources
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [hiyouga/EasyR1](https://github.com/hiyouga/EasyR1)
@@ -531,6 +537,9 @@
 ### [netxfly](https://github.com/netxfly)
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [Masterminds/semver](https://github.com/Masterminds/semver)
   > Work with Semantic Versions in Go
+
+### [newbit1](https://github.com/newbit1)
+- ✨ 👤 [newbit1](https://github.com/newbit1) Created new repo [newbit1/tdlib-prebuilts](https://github.com/newbit1/tdlib-prebuilts)
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [bluesky-social/social-app](https://github.com/bluesky-social/social-app)
@@ -612,6 +621,9 @@
 - 🌟 👤 [theapache64](https://github.com/theapache64) Starred [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO)
   > How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handb...
 
+### [thebabush](https://github.com/thebabush)
+- 🌟 👤 [thebabush](https://github.com/thebabush) Starred [Team-Atlanta/aixcc-afc-p4](https://github.com/Team-Atlanta/aixcc-afc-p4)
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC)
 
@@ -665,12 +677,6 @@
 - 🌟 👤 [xinruofuchen](https://github.com/xinruofuchen) Starred [xinruofuchen/TraceAR](https://github.com/xinruofuchen/TraceAR)
 
 ### [yhnu](https://github.com/yhnu)
-- 🌟 👤 [yhnu](https://github.com/yhnu) Starred [Spuckwaffel/Dumpspace-API](https://github.com/Spuckwaffel/Dumpspace-API)
-  > Dumpspace website API to get your Games' infos directly.
-- 🌟 👤 [yhnu](https://github.com/yhnu) Starred [charliewolfe/Stealthy-Kernelmode-Injector](https://github.com/charliewolfe/Stealthy-Kernelmode-Injector)
-  > Manual mapper that uses PTE manipulation, Virtual Address Descriptor (VAD) manipulation, and forcefu...
-- 🌟 👤 [yhnu](https://github.com/yhnu) Starred [Liverus/Metamorph](https://github.com/Liverus/Metamorph)
-  > Kernel and Usermode Spoofer for SCP:SL
 - 🌟 👤 [yhnu](https://github.com/yhnu) Starred [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
   > The universal proxy platform
 
@@ -697,5 +703,5 @@
 
 
 ---
-*最后更新于 2025-09-28 19:38:27 UTC*
+*最后更新于 2025-09-28 20:22:30 UTC*
 *历史记录保存在 `archive` 目录中。*
