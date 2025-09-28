@@ -19,6 +19,10 @@
 - 🌟 👤 [521xueweihan](https://github.com/521xueweihan) Starred [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland)
   > 一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
 
+### [Alex313031](https://github.com/Alex313031)
+- ✨ 👤 [Alex313031](https://github.com/Alex313031) Created new repo [Alex313031/cbpp-configs](https://github.com/Alex313031/cbpp-configs)
+  > Private repo for (IMO) optimal UI configs for CrunchBang++ Linux
+
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [siderolabs/talos](https://github.com/siderolabs/talos)
   > Talos Linux is a modern Linux distribution built for Kubernetes.
@@ -36,6 +40,11 @@
 ### [Avery-lab1](https://github.com/Avery-lab1)
 - 🌟 👤 [Avery-lab1](https://github.com/Avery-lab1) Starred [CrackerCat/strongR-frida-android](https://github.com/CrackerCat/strongR-frida-android)
   > An anti detection version frida-server for android.
+
+### [Cossack9989](https://github.com/Cossack9989)
+- 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
+  > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [ast-grep/ast-grep-mcp](https://github.com/ast-grep/ast-grep-mcp)
 
 ### [FeeiCN](https://github.com/FeeiCN)
 - 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [usestrix/strix](https://github.com/usestrix/strix)
@@ -97,6 +106,10 @@
 - 🍴 👤 [SummerSec](https://github.com/SummerSec) Forked [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) to [SummerSec/KatelyaTV](https://github.com/SummerSec/KatelyaTV)
   > 一个基于MoonTV(LunaTV)二次开发的项目。
 
+### [Tokeii0](https://github.com/Tokeii0)
+- 🌟 👤 [Tokeii0](https://github.com/Tokeii0) Starred [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
+  > 🚀 Awesome Tauri Apps, Plugins and Resources
+
 ### [Vaaaleeeraaa](https://github.com/Vaaaleeeraaa)
 - 🍴 👤 [Vaaaleeeraaa](https://github.com/Vaaaleeeraaa) Forked [CrackerCat/AIDE-Mods](https://github.com/CrackerCat/AIDE-Mods) to [Vaaaleeeraaa/AIDE-Mods](https://github.com/Vaaaleeeraaa/AIDE-Mods)
   > Works better than the original AIDE.
@@ -116,6 +129,10 @@
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🚀 👤 [ZephrFish](https://github.com/ZephrFish) Made [ZephrFish/OmniProx](https://github.com/ZephrFish/OmniProx) public
   > IP Rotation from different providers - Like FireProx but for GCP, Azure, Alibaba and CloudFlare
+
+### [aadog](https://github.com/aadog)
+- 🌟 👤 [aadog](https://github.com/aadog) Starred [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs)
+  > Cross-browser QRCode generator for javascript
 
 ### [anantshri](https://github.com/anantshri)
 - 🍴 👤 [anantshri](https://github.com/anantshri) Forked [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) to [anantshri/hugoThemesSiteBuilder](https://github.com/anantshri/hugoThemesSiteBuilder)
@@ -140,6 +157,10 @@
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)
   > Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtua...
+
+### [cozis](https://github.com/cozis)
+- 🌟 👤 [cozis](https://github.com/cozis) Starred [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog)
+  > Free, no-nonsense, super fast blogging.
 
 ### [cxapython](https://github.com/cxapython)
 - 🌟 👤 [cxapython](https://github.com/cxapython) Starred [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor)
@@ -481,5 +502,5 @@
 
 
 ---
-*最后更新于 2025-09-28 08:26:09 UTC*
+*最后更新于 2025-09-28 08:42:46 UTC*
 *历史记录保存在 `archive` 目录中。*
