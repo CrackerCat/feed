@@ -54,8 +54,6 @@
   > ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 ### [GaoYuCan](https://github.com/GaoYuCan)
-- 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
-  > An MCP extension for Ghidra
 - 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [iGio90/Dwarf](https://github.com/iGio90/Dwarf)
   > Full featured multi arch/os debugger built on top of PyQt5 and frida
 
@@ -64,6 +62,10 @@
   > etw hook (syscall/infinity hook) compatible with the latest Windows version of PG
 - 🌟 👤 [Idov31](https://github.com/Idov31) Starred [qemu/qemu](https://github.com/qemu/qemu)
   > Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU....
+
+### [ItsVixano](https://github.com/ItsVixano)
+- ✨ 👤 [ItsVixano](https://github.com/ItsVixano) Created new repo [ItsVixano/android_external_liblhdc](https://github.com/ItsVixano/android_external_liblhdc)
+- ✨ 👤 [ItsVixano](https://github.com/ItsVixano) Created new repo [ItsVixano/android_external_liblhdcv5](https://github.com/ItsVixano/android_external_liblhdcv5)
 
 ### [Karmaz95](https://github.com/Karmaz95)
 - 🌟 👤 [Karmaz95](https://github.com/Karmaz95) Starred [K2SOsint/Legendary_OSINT](https://github.com/K2SOsint/Legendary_OSINT)
@@ -126,21 +128,12 @@
   > Windows protocol library, including SMB and RPC implementations, among others.
 
 ### [PranavPurwar](https://github.com/PranavPurwar)
-- 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune)
-  > Enhanced YouTube Music client for Android With Material 3
 - 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [patrykandpatrick/vico](https://github.com/patrykandpatrick/vico)
   > A powerful and extensible multiplatform chart library.
-
-### [QingYuan688](https://github.com/QingYuan688)
-- 🌟 👤 [QingYuan688](https://github.com/QingYuan688) Starred [SukiSU-Ultra/SukiSU_KernelPatch_patch](https://github.com/SukiSU-Ultra/SukiSU_KernelPatch_patch)
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - ✨ 👤 [R0rt1z2](https://github.com/R0rt1z2) Created new repo [R0rt1z2/twrp_device_amazon_biscuit](https://github.com/R0rt1z2/twrp_device_amazon_biscuit)
   > TWRP device tree for the Amazon Echo Dot 2nd Gen (2015)
-
-### [SummerSec](https://github.com/SummerSec)
-- 🍴 👤 [SummerSec](https://github.com/SummerSec) Forked [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) to [SummerSec/KatelyaTV](https://github.com/SummerSec/KatelyaTV)
-  > 一个基于MoonTV(LunaTV)二次开发的项目。
 
 ### [Super12138](https://github.com/Super12138)
 - 🍴 👤 [Super12138](https://github.com/Super12138) Forked [lvonasek/3DLiveScanner](https://github.com/lvonasek/3DLiveScanner) to [Super12138/3DLiveScanner](https://github.com/Super12138/3DLiveScanner)
@@ -249,17 +242,22 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
   > Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus...
 
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template)
+  > Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
+
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance)
   > Gemini polling proxy service （gemini轮询代理服务）
+
+### [elllusion](https://github.com/elllusion)
+- ✨ 👤 [elllusion](https://github.com/elllusion) Created new repo [elllusion/openroad-flow-scripts_actions](https://github.com/elllusion/openroad-flow-scripts_actions)
 
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [SoyBeanMilkx/FakeSensor](https://github.com/SoyBeanMilkx/FakeSensor)
   > 允许您全局修改传感器的值，无需注入特定app以防被检测
 
 ### [everettjf](https://github.com/everettjf)
-- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [indragiek/CocoaMarkdown](https://github.com/indragiek/CocoaMarkdown)
-  > Markdown parsing and rendering for iOS and OS X
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [noties/Markwon](https://github.com/noties/Markwon)
   > Android markdown library (no WebView)
 
@@ -373,6 +371,7 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [kingbootoshi/story-engine](https://github.com/kingbootoshi/story-engine) to [gmh5225/story-engine](https://github.com/gmh5225/story-engine)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) to [gmh5225/cmux](https://github.com/gmh5225/cmux)
   > cmux lets you run Claude Code, Codex CLI, Cursor CLI, Gemini CLI, Amp, Opencode, and other coding ag...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [microchipgnu/mcpay](https://github.com/microchipgnu/mcpay) to [gmh5225/mcpay](https://github.com/gmh5225/mcpay)
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - ✨ 👤 [goatmilkkk](https://github.com/goatmilkkk) Created new repo [goatmilkkk/goatmilkkk.github.io](https://github.com/goatmilkkk/goatmilkkk.github.io)
@@ -411,9 +410,6 @@
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [libsdl-org/SDL](https://github.com/libsdl-org/SDL) to [hzqst/SDL](https://github.com/hzqst/SDL)
   > Simple DirectMedia Layer
-
-### [idkhidden](https://github.com/idkhidden)
-- ✨ 👤 [idkhidden](https://github.com/idkhidden) Created new repo [idkhidden/int3.club](https://github.com/idkhidden/int3.club)
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)
@@ -563,6 +559,8 @@
   > Alternative Twitter front-end
 - 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)
   > A flexible distributed key-value database that is optimized for caching and other realtime workloads...
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira)
+  > Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find informati...
 
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [finos/perspective](https://github.com/finos/perspective)
@@ -582,13 +580,13 @@
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [ChiChou/GlobalWebInspect](https://github.com/ChiChou/GlobalWebInspect)
   > Enable WebView remote inspector for every app
 
+### [ravindu644](https://github.com/ravindu644)
+- 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [ukanth/afwall](https://github.com/ukanth/afwall)
+  > AFWall+ (Android Firewall +) - iptables based firewall for Android 
+
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [rust-cli/env_logger](https://github.com/rust-cli/env_logger)
   > A logging implementation for `log` which is configured via an environment variable.
-
-### [realoriginal](https://github.com/realoriginal)
-- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [root-project/cling](https://github.com/root-project/cling)
-  > The cling C++ interpreter
 
 ### [rogxo](https://github.com/rogxo)
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [HexRaysSA/ida-sdk](https://github.com/HexRaysSA/ida-sdk)
@@ -699,5 +697,5 @@
 
 
 ---
-*最后更新于 2025-09-28 18:45:14 UTC*
+*最后更新于 2025-09-28 19:16:22 UTC*
 *历史记录保存在 `archive` 目录中。*
