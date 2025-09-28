@@ -88,6 +88,10 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT)
   > 现代化 Android & OpenHarmony 工具箱 | A Modern Toolbox for Android & OpenHarmony Devices
 
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [tiawl/sedjutsu](https://github.com/tiawl/sedjutsu)
+  > The most powerful jutsu mastered by GNU-sed ninjas to emulate standard utilities
+
 ### [MrRoy09](https://github.com/MrRoy09)
 - 🚀 👤 [MrRoy09](https://github.com/MrRoy09) Made [MrRoy09/Iris](https://github.com/MrRoy09/Iris) public
   > An LLVM powered Toolkit for deobfuscating binaries
@@ -613,5 +617,5 @@
 
 
 ---
-*最后更新于 2025-09-28 10:20:40 UTC*
+*最后更新于 2025-09-28 10:41:03 UTC*
 *历史记录保存在 `archive` 目录中。*
