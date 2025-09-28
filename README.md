@@ -5,8 +5,6 @@
 ## 今日动态
 
 ### [0x1306a94](https://github.com/0x1306a94)
-- 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [galacean/effects-runtime](https://github.com/galacean/effects-runtime)
-  > It can load and render cool animation effects
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [antgroup/FluidMarkdown](https://github.com/antgroup/FluidMarkdown)
 
 ### [0xbug](https://github.com/0xbug)
@@ -16,10 +14,6 @@
 ### [36hours](https://github.com/36hours)
 - 🌟 👤 [36hours](https://github.com/36hours) Starred [keldaanCommunity/pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess)
   > Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon C...
-
-### [4ESTSEC](https://github.com/4ESTSEC)
-- 🌟 👤 [4ESTSEC](https://github.com/4ESTSEC) Starred [ahmedkhlief/Ninja](https://github.com/ahmedkhlief/Ninja)
-  >  Open source C2 server created for stealth red team operations
 
 ### [521xueweihan](https://github.com/521xueweihan)
 - 🌟 👤 [521xueweihan](https://github.com/521xueweihan) Starred [hexianWeb/CubeCity](https://github.com/hexianWeb/CubeCity)
@@ -96,6 +90,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [criwits/missing-web](https://github.com/criwits/missing-web)
   > 你缺失的那门计算机课（网页版）| 一份适合电脑小白入门的电脑使用课程，一份面向今日与未来的信息时代指南
 
+### [N3rdL0rd](https://github.com/N3rdL0rd)
+- 🌟 👤 [N3rdL0rd](https://github.com/N3rdL0rd) Starred [shellinvictus/GriffonAD](https://github.com/shellinvictus/GriffonAD)
+  > A new tool to exploit bad configurations in Active Directory
+
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [adeljck/YongYou-Exploit](https://github.com/adeljck/YongYou-Exploit)
   > YongYou U8C deserialization file upload exploit tool targeting IPFxxFileService and IFileTrans servi...
@@ -145,6 +143,12 @@
 ### [X-White-Ray](https://github.com/X-White-Ray)
 - 🍴 👤 [X-White-Ray](https://github.com/X-White-Ray) Forked [CrackerCat/strongR-frida-android](https://github.com/CrackerCat/strongR-frida-android) to [X-White-Ray/strongR-frida-android](https://github.com/X-White-Ray/strongR-frida-android)
   > An anti detection version frida-server for android.
+
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [Fireboyd78/lucid](https://github.com/Fireboyd78/lucid)
+  > An Interactive Hex-Rays Microcode Explorer
+- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [Fireboyd78/lucid](https://github.com/Fireboyd78/lucid) to [Ylarod/lucid](https://github.com/Ylarod/lucid)
+  > An Interactive Hex-Rays Microcode Explorer
 
 ### [YunYouJun](https://github.com/YunYouJun)
 - 🍴 👤 [YunYouJun](https://github.com/YunYouJun) Forked [cocos/cocos-docs](https://github.com/cocos/cocos-docs) to [YunYouJun/cocos-docs](https://github.com/YunYouJun/cocos-docs)
@@ -209,6 +213,10 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
   > Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus...
 
+### [einverne](https://github.com/einverne)
+- 🌟 👤 [einverne](https://github.com/einverne) Starred [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance)
+  > Gemini polling proxy service （gemini轮询代理服务）
+
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [indragiek/CocoaMarkdown](https://github.com/indragiek/CocoaMarkdown)
   > Markdown parsing and rendering for iOS and OS X
@@ -233,13 +241,7 @@
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
   > A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-imag...
 
-### [geekonion](https://github.com/geekonion)
-- 🌟 👤 [geekonion](https://github.com/geekonion) Starred [johnno1962/InjectionNext](https://github.com/johnno1962/InjectionNext)
-  > Fourth evolution of Code Injection for Xcode
-
 ### [gmh5225](https://github.com/gmh5225)
-- ✨ 👤 [gmh5225](https://github.com/gmh5225) Created new repo [gmh5225/cursorlearn2api](https://github.com/gmh5225/cursorlearn2api)
-  > Making LLM APIs accessible to everyone
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nkanaev/tipsy](https://github.com/nkanaev/tipsy) to [gmh5225/tipsy](https://github.com/gmh5225/tipsy)
   > tiny playstationy renderer
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nkanaev/zen101](https://github.com/nkanaev/zen101) to [gmh5225/zen101](https://github.com/gmh5225/zen101)
@@ -342,6 +344,10 @@
 - 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [spf13/viper](https://github.com/spf13/viper)
   > Go configuration with fangs
 
+### [hahwul](https://github.com/hahwul)
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [francoismichel/ssh3](https://github.com/francoismichel/ssh3)
+  > SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/23...
+
 ### [heckerstone](https://github.com/heckerstone)
 - 🌟 👤 [heckerstone](https://github.com/heckerstone) Starred [CrackerCat/PackMyPayload](https://github.com/CrackerCat/PackMyPayload)
   > A PoC that packages payloads into output containers to evade Mark-of-the-Web flag & demonstrate risk...
@@ -370,6 +376,8 @@
 ### [iyxan23](https://github.com/iyxan23)
 - 🌟 👤 [iyxan23](https://github.com/iyxan23) Starred [AhmaddAssegaff/tugas-kuliah](https://github.com/AhmaddAssegaff/tugas-kuliah)
   > Repository ini berisi kumpulan tugas coding dari berbagai mata kuliah di semua semester. Dibuat untu...
+- ✨ 👤 [iyxan23](https://github.com/iyxan23) Created new repo [iyxan23/ums](https://github.com/iyxan23/ums)
+  > things from my university's courses
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [arceos-hypervisor/axvisor](https://github.com/arceos-hypervisor/axvisor)
@@ -508,6 +516,10 @@
 - 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
   > A free, open source, and extensible speech-to-text application that works completely offline.
 
+### [lux-QAQ](https://github.com/lux-QAQ)
+- 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [spawner1145/wd14-inference-webui](https://github.com/spawner1145/wd14-inference-webui)
+  > 和webui分离开来的支持api调用的wd14
+
 ### [merces](https://github.com/merces)
 - 🌟 👤 [merces](https://github.com/merces) Starred [gyscos/cursive](https://github.com/gyscos/cursive)
   > A Text User Interface library for the Rust programming language
@@ -566,8 +578,6 @@
   > MemProcFS
 
 ### [re-zero001](https://github.com/re-zero001)
-- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router)
-  > A Unified MCP Server Management App
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [oraios/serena](https://github.com/oraios/serena)
   > A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & ...
 
@@ -667,5 +677,5 @@
 
 
 ---
-*最后更新于 2025-09-28 12:41:46 UTC*
+*最后更新于 2025-09-28 13:23:59 UTC*
 *历史记录保存在 `archive` 目录中。*
