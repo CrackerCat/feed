@@ -96,6 +96,8 @@
 ### [MrIkso](https://github.com/MrIkso)
 - 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [bartlomiejduda/ImageHeat](https://github.com/bartlomiejduda/ImageHeat)
   > ImageHeat is a program for viewing encoded textures.
+- 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [marco-calautti/Rainbow](https://github.com/marco-calautti/Rainbow)
+  > A texture format converter for different consoles' graphics formats.
 
 ### [MrRoy09](https://github.com/MrRoy09)
 - 🚀 👤 [MrRoy09](https://github.com/MrRoy09) Made [MrRoy09/Iris](https://github.com/MrRoy09/Iris) public
@@ -694,5 +696,5 @@
 
 
 ---
-*最后更新于 2025-09-28 22:39:48 UTC*
+*最后更新于 2025-09-28 23:19:30 UTC*
 *历史记录保存在 `archive` 目录中。*
