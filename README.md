@@ -63,6 +63,10 @@
 - 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
   > An MCP extension for Ghidra
 
+### [Idov31](https://github.com/Idov31)
+- 🌟 👤 [Idov31](https://github.com/Idov31) Starred [Oxygen1a1/InfinityHook_latest](https://github.com/Oxygen1a1/InfinityHook_latest)
+  > etw hook (syscall/infinity hook) compatible with the latest Windows version of PG
+
 ### [Konano](https://github.com/Konano)
 - 🌟 👤 [Konano](https://github.com/Konano) Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
   > Open Source AI coding assistant for planning, building, and fixing code. We frequently merge feature...
@@ -187,8 +191,6 @@
   > POC: download documents from doc88.com as images and convert them to searchable PDFs
 
 ### [dodola](https://github.com/dodola)
-- 🌟 👤 [dodola](https://github.com/dodola) Starred [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice)
-  > 简历警察 🕵️‍♂️ 疯狂逮捕
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [khscience/OSkhQuant](https://github.com/khscience/OSkhQuant)
   > 看海量化回测系统（看海量化交易系统）开源代码，khQuant框架，实现A股可视化回测，全部开源。
 
@@ -211,24 +213,21 @@
   > A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identi...
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo)
   > A Datacenter Scale Distributed Inference Serving Framework
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk)
 
 ### [fanfeilong](https://github.com/fanfeilong)
 - 🌟 👤 [fanfeilong](https://github.com/fanfeilong) Starred [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py)
   > Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now i...
 
-### [fengjixuchui](https://github.com/fengjixuchui)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [z789/HIPS](https://github.com/z789/HIPS) to [fengjixuchui/HIPS](https://github.com/fengjixuchui/HIPS)
-  > linux HIPS apptable
+### [foyaga](https://github.com/foyaga)
+- 🌟 👤 [foyaga](https://github.com/foyaga) Starred [CrackerCat/strongR-frida-android](https://github.com/CrackerCat/strongR-frida-android)
+  > An anti detection version frida-server for android.
 
 ### [fynch3r](https://github.com/fynch3r)
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
   > A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-imag...
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nkanaev/tipsy](https://github.com/nkanaev/tipsy) to [gmh5225/tipsy](https://github.com/gmh5225/tipsy)
-  > tiny playstationy renderer
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nkanaev/zen101](https://github.com/nkanaev/zen101) to [gmh5225/zen101](https://github.com/gmh5225/zen101)
-  > 101 Zen Stories
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [smartdec/DigitexConnectorCSharp](https://github.com/smartdec/DigitexConnectorCSharp) to [gmh5225/DigitexConnectorCSharp](https://github.com/gmh5225/DigitexConnectorCSharp)
   > C# library for connect to Digitex Futures Exchange.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ampleforth/token-geyser](https://github.com/ampleforth/token-geyser) to [gmh5225/token-geyser](https://github.com/gmh5225/token-geyser)
@@ -306,6 +305,13 @@
   > Typed model metadata and context/cost utilities that help AI apps answer: Does this fit? What will i...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [BA-CalderonMorales/terminal-jarvis-frankenstein](https://github.com/BA-CalderonMorales/terminal-jarvis-frankenstein) to [gmh5225/terminal-jarvis-frankenstein](https://github.com/gmh5225/terminal-jarvis-frankenstein)
   > Open Lovable Clone - T.J. Integration
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC) to [gmh5225/CVE-2025-10184_PoC](https://github.com/gmh5225/CVE-2025-10184_PoC)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cloudflare/cfssl_trust](https://github.com/cloudflare/cfssl_trust) to [gmh5225/cfssl_trust](https://github.com/gmh5225/cfssl_trust)
+  > CFSSL's CA trust store repository
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cloudflare/workerd-tools](https://github.com/cloudflare/workerd-tools) to [gmh5225/workerd-tools](https://github.com/gmh5225/workerd-tools)
+  > Prebuilt tools and utilities required for ongoing development in the workerd repo.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages) to [gmh5225/next-on-pages](https://github.com/gmh5225/next-on-pages)
+  > CLI to build and develop Next.js apps for Cloudflare Pages
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - ✨ 👤 [goatmilkkk](https://github.com/goatmilkkk) Created new repo [goatmilkkk/goatmilkkk.github.io](https://github.com/goatmilkkk/goatmilkkk.github.io)
@@ -363,8 +369,6 @@
   > things from my university's courses
 
 ### [jianglin-code](https://github.com/jianglin-code)
-- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [arceos-hypervisor/axvisor](https://github.com/arceos-hypervisor/axvisor)
-  > Unified modular arceos-hypervisor
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
 
@@ -479,8 +483,6 @@
   > China E-Port Data Signature — Free, open-source solution for CEBXxxMessage & Customs 179 data signin...
 
 ### [lemuellew](https://github.com/lemuellew)
-- 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [ise-uiuc/KNighter](https://github.com/ise-uiuc/KNighter)
-  > [SOSP'25] Automatic checker synthesis for system-level static analysis
 - 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [qcri/llmxcpg](https://github.com/qcri/llmxcpg)
   > Source code for LLMxCPG paper
 
@@ -506,10 +508,6 @@
 ### [lux-QAQ](https://github.com/lux-QAQ)
 - 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [spawner1145/wd14-inference-webui](https://github.com/spawner1145/wd14-inference-webui)
   > 和webui分离开来的支持api调用的wd14
-
-### [merces](https://github.com/merces)
-- 🌟 👤 [merces](https://github.com/merces) Starred [gyscos/cursive](https://github.com/gyscos/cursive)
-  > A Text User Interface library for the Rust programming language
 
 ### [merlinxcy](https://github.com/merlinxcy)
 - 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [openappsec/openappsec](https://github.com/openappsec/openappsec)
@@ -576,13 +574,13 @@
 - 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed)
   > LSPosed Framework resuscitated
 
+### [std-microblock](https://github.com/std-microblock)
+- 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [Ylarod/Florida](https://github.com/Ylarod/Florida)
+  > 基础反检测 frida-server / Basic anti-detection frida-server
+
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [gjroots/esp32_nat_router_plus](https://github.com/gjroots/esp32_nat_router_plus)
   > A simple NAT Router for the ESP32 with some additional features
-
-### [taisuii](https://github.com/taisuii)
-- 🌟 👤 [taisuii](https://github.com/taisuii) Starred [sidex15/susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module)
-  > An addon root hiding service for KernelSU
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC)
@@ -669,5 +667,5 @@
 
 
 ---
-*最后更新于 2025-09-28 14:17:12 UTC*
+*最后更新于 2025-09-28 14:38:01 UTC*
 *历史记录保存在 `archive` 目录中。*
