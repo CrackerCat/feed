@@ -23,6 +23,10 @@
 - 🌟 👤 [521xueweihan](https://github.com/521xueweihan) Starred [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland)
   > 一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
 
+### [AbhiTheModder](https://github.com/AbhiTheModder)
+- 🍴 👤 [AbhiTheModder](https://github.com/AbhiTheModder) Forked [P4nda0s/IDAFrida](https://github.com/P4nda0s/IDAFrida) to [AbhiTheModder/IDAFrida](https://github.com/AbhiTheModder/IDAFrida)
+  > IDA Frida Plugin for tracing something interesting.
+
 ### [Alex313031](https://github.com/Alex313031)
 - ✨ 👤 [Alex313031](https://github.com/Alex313031) Created new repo [Alex313031/cbpp-configs](https://github.com/Alex313031/cbpp-configs)
   > Private repo for (IMO) optimal UI configs for CrunchBang++ Linux
@@ -338,6 +342,10 @@
   > The ultimate LLM/AI application development framework in Golang.
 - 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go)
   > A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM a...
+- 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+  > Chrome DevTools for coding agents
+- 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [spf13/viper](https://github.com/spf13/viper)
+  > Go configuration with fangs
 
 ### [heckerstone](https://github.com/heckerstone)
 - 🌟 👤 [heckerstone](https://github.com/heckerstone) Starred [CrackerCat/crack_dexhelper](https://github.com/CrackerCat/crack_dexhelper)
@@ -516,6 +524,10 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [RetroShare/RetroShare](https://github.com/RetroShare/RetroShare)
   > RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised commun...
 
+### [oblique](https://github.com/oblique)
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+  > Hunt down social media accounts by username across social networks
+
 ### [plusls](https://github.com/plusls)
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su)
   > A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched mod...
@@ -551,6 +563,10 @@
 ### [smallevilbeast](https://github.com/smallevilbeast)
 - 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed)
   > LSPosed Framework resuscitated
+
+### [suifei](https://github.com/suifei)
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [gjroots/esp32_nat_router_plus](https://github.com/gjroots/esp32_nat_router_plus)
+  > A simple NAT Router for the ESP32 with some additional features
 
 ### [taisuii](https://github.com/taisuii)
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [sidex15/susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module)
@@ -617,5 +633,5 @@
 
 
 ---
-*最后更新于 2025-09-28 10:41:03 UTC*
+*最后更新于 2025-09-28 11:16:27 UTC*
 *历史记录保存在 `archive` 目录中。*
