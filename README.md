@@ -155,6 +155,10 @@
 - 🍴 👤 [X-White-Ray](https://github.com/X-White-Ray) Forked [CrackerCat/strongR-frida-android](https://github.com/CrackerCat/strongR-frida-android) to [X-White-Ray/strongR-frida-android](https://github.com/X-White-Ray/strongR-frida-android)
   > An anti detection version frida-server for android.
 
+### [XiaoliChan](https://github.com/XiaoliChan)
+- 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [0xthirteen/WMI_Proc_Dump](https://github.com/0xthirteen/WMI_Proc_Dump)
+  > Dump processes over WMI with MSFT_MTProcess
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [Fireboyd78/lucid](https://github.com/Fireboyd78/lucid)
   > An Interactive Hex-Rays Microcode Explorer
@@ -448,10 +452,6 @@
   > Elastic Security detection content for Endpoint
 
 ### [kost](https://github.com/kost)
-- 🌟 👤 [kost](https://github.com/kost) Starred [rasta-mouse/Titanis](https://github.com/rasta-mouse/Titanis)
-  > Windows protocol library, including SMB and RPC implementations, among others.
-- 🌟 👤 [kost](https://github.com/kost) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
-  > Windows protocol library, including SMB and RPC implementations, among others.
 - 🌟 👤 [kost](https://github.com/kost) Starred [CompassSecurity/BloodHoundQueries](https://github.com/CompassSecurity/BloodHoundQueries)
 - 🌟 👤 [kost](https://github.com/kost) Starred [CompassSecurity/bloodhoundce-resources](https://github.com/CompassSecurity/bloodhoundce-resources)
 - 🌟 👤 [kost](https://github.com/kost) Starred [7h3w4lk3r/Kill-Floor](https://github.com/7h3w4lk3r/Kill-Floor)
@@ -693,5 +693,5 @@
 
 
 ---
-*最后更新于 2025-09-28 16:24:36 UTC*
+*最后更新于 2025-09-28 16:41:54 UTC*
 *历史记录保存在 `archive` 目录中。*
