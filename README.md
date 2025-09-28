@@ -59,6 +59,10 @@
 - 🌟 👤 [Le1a](https://github.com/Le1a) Starred [satan1a/TheRoadOfSO](https://github.com/satan1a/TheRoadOfSO)
   > 学习安全运营的记录 | The knowledge base of security operation
 
+### [MiroKaku](https://github.com/MiroKaku)
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT)
+  > 现代化 Android & OpenHarmony 工具箱 | A Modern Toolbox for Android & OpenHarmony Devices
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [criwits/missing-web](https://github.com/criwits/missing-web)
   > 你缺失的那门计算机课（网页版）| 一份适合电脑小白入门的电脑使用课程，一份面向今日与未来的信息时代指南
@@ -126,6 +130,8 @@
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [googleapis/go-genai](https://github.com/googleapis/go-genai)
   > Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models in...
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [LukeGus/Termix](https://github.com/LukeGus/Termix)
+  > Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capa...
 
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)
@@ -235,6 +241,10 @@
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [frida/frida](https://github.com/frida/frida)
   > Clone this repo to build Frida
 
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [libsdl-org/SDL](https://github.com/libsdl-org/SDL) to [hzqst/SDL](https://github.com/hzqst/SDL)
+  > Simple DirectMedia Layer
+
 ### [idkhidden](https://github.com/idkhidden)
 - ✨ 👤 [idkhidden](https://github.com/idkhidden) Created new repo [idkhidden/int3.club](https://github.com/idkhidden/int3.club)
 
@@ -243,6 +253,10 @@
   > Unified modular arceos-hypervisor
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [amimo/sim-trace](https://github.com/amimo/sim-trace)
+  > a poc implementation arm64 tracer based on simulation
 
 ### [kmiit](https://github.com/kmiit)
 - 🌟 👤 [kmiit](https://github.com/kmiit) Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
@@ -289,6 +303,8 @@
   > LKM rootkit for modern kernels (6x)
 - 🌟 👤 [kost](https://github.com/kost) Starred [thefLink/Hunt-Sleeping-Beacons](https://github.com/thefLink/Hunt-Sleeping-Beacons)
   > Aims to identify sleeping beacons
+- 🌟 👤 [kost](https://github.com/kost) Starred [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
+  > Free, local, open-source GUI app for Gemini CLI — Better Chat UI, File Management, AI image editing,...
 
 ### [ledccn](https://github.com/ledccn)
 - 🍴 👤 [ledccn](https://github.com/ledccn) Forked [symfony/dom-crawler](https://github.com/symfony/dom-crawler) to [ledccn/dom-crawler](https://github.com/ledccn/dom-crawler)
@@ -386,6 +402,10 @@
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [ReversecLabs/damn-vulnerable-llm-agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [ReversecLabs/IAMGraph](https://github.com/ReversecLabs/IAMGraph)
 
+### [smallevilbeast](https://github.com/smallevilbeast)
+- 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed)
+  > LSPosed Framework resuscitated
+
 ### [taisuii](https://github.com/taisuii)
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [sidex15/susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module)
   > An addon root hiding service for KernelSU
@@ -397,6 +417,13 @@
 ### [wa1ki0g](https://github.com/wa1ki0g)
 - 🍴 👤 [wa1ki0g](https://github.com/wa1ki0g) Forked [gloxec/CrossC2](https://github.com/gloxec/CrossC2) to [wa1ki0g/CrossC2](https://github.com/wa1ki0g/CrossC2)
   > generate CobaltStrike's cross-platform payload
+
+### [xiaoweigege](https://github.com/xiaoweigege)
+- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+  > The open-source CapCut alternative
+
+### [xinruofuchen](https://github.com/xinruofuchen)
+- 🌟 👤 [xinruofuchen](https://github.com/xinruofuchen) Starred [xinruofuchen/TraceAR](https://github.com/xinruofuchen/TraceAR)
 
 ### [yhnu](https://github.com/yhnu)
 - 🌟 👤 [yhnu](https://github.com/yhnu) Starred [Spuckwaffel/Dumpspace-API](https://github.com/Spuckwaffel/Dumpspace-API)
@@ -410,11 +437,15 @@
 - 🍴 👤 [ymdzq](https://github.com/ymdzq) Forked [mlm-games/TWRP_OFOX_PBRP_SHRP_Recovery_Builder](https://github.com/mlm-games/TWRP_OFOX_PBRP_SHRP_Recovery_Builder) to [ymdzq/Recovery_Builder](https://github.com/ymdzq/Recovery_Builder)
   > Recovery Builder for TWRP, SHRP, Orangefox (OFOX), PBRP
 
+### [ys1231](https://github.com/ys1231)
+- 🍴 👤 [ys1231](https://github.com/ys1231) Forked [lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida) to [ys1231/ZygiskFrida](https://github.com/ys1231/ZygiskFrida)
+  > Injects frida gadget using zygisk to bypass anti-tamper checks.
+
 ### [zhanghai](https://github.com/zhanghai)
 - 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [vvb2060/PackageInstaller](https://github.com/vvb2060/PackageInstaller)
   > A lightweight yet powerful package installer for Android.
 
 
 ---
-*最后更新于 2025-09-28 06:31:26 UTC*
+*最后更新于 2025-09-28 07:18:42 UTC*
 *历史记录保存在 `archive` 目录中。*
