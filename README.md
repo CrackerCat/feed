@@ -257,10 +257,6 @@
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [SoyBeanMilkx/FakeSensor](https://github.com/SoyBeanMilkx/FakeSensor)
   > 允许您全局修改传感器的值，无需注入特定app以防被检测
 
-### [everettjf](https://github.com/everettjf)
-- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [noties/Markwon](https://github.com/noties/Markwon)
-  > Android markdown library (no WebView)
-
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
   > A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identi...
@@ -612,6 +608,10 @@
 - 🌟 👤 [tennc](https://github.com/tennc) Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
   > Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
+### [theapache64](https://github.com/theapache64)
+- 🌟 👤 [theapache64](https://github.com/theapache64) Starred [subhashchy/The-Accidental-CTO](https://github.com/subhashchy/The-Accidental-CTO)
+  > How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handb...
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC)
 
@@ -697,5 +697,5 @@
 
 
 ---
-*最后更新于 2025-09-28 19:16:22 UTC*
+*最后更新于 2025-09-28 19:38:27 UTC*
 *历史记录保存在 `archive` 目录中。*
