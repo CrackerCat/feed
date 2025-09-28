@@ -352,6 +352,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [K2SOsint/Legendary_OSINT](https://github.com/K2SOsint/Legendary_OSINT) to [gmh5225/Legendary_OSINT](https://github.com/gmh5225/Legendary_OSINT)
   > A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more. 
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [wilsonliam/wilsonliam.github.io](https://github.com/wilsonliam/wilsonliam.github.io) to [gmh5225/wilsonliam.github.io](https://github.com/gmh5225/wilsonliam.github.io)
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [K2SOsint/Legendary_OSINT](https://github.com/K2SOsint/Legendary_OSINT)
+  > A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more. 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [K2SOsint/Maltego_Machines](https://github.com/K2SOsint/Maltego_Machines) to [gmh5225/Maltego_Machines](https://github.com/gmh5225/Maltego_Machines)
+  > This is a small repo that contains example machines that can be used in Maltego to automate certain ...
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - ✨ 👤 [goatmilkkk](https://github.com/goatmilkkk) Created new repo [goatmilkkk/goatmilkkk.github.io](https://github.com/goatmilkkk/goatmilkkk.github.io)
@@ -459,10 +463,6 @@
   > Generate Linux DRM panel kernel driver based on QCOM MDSS DSI device tree
 
 ### [kost](https://github.com/kost)
-- 🌟 👤 [kost](https://github.com/kost) Starred [kienvu58/WireGuard-ESP32-Arduino](https://github.com/kienvu58/WireGuard-ESP32-Arduino)
-  > WireGuard implementation for ESP32 Arduino
-- 🌟 👤 [kost](https://github.com/kost) Starred [DefensiveOrigins/DockerEngineAPI-EnumSensitive](https://github.com/DefensiveOrigins/DockerEngineAPI-EnumSensitive)
-  > a quick script to capture the environment variables from all docker containers
 - 🌟 👤 [kost](https://github.com/kost) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 - 🌟 👤 [kost](https://github.com/kost) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
@@ -566,10 +566,6 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [schibsted/WAAS](https://github.com/schibsted/WAAS)
   > Whisper as a Service (GUI and API with queuing for OpenAI Whisper)
-
-### [qi4L](https://github.com/qi4L)
-- 🌟 👤 [qi4L](https://github.com/qi4L) Starred [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS)
-  > MemProcFS
 
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [wuxiaosu/XposedWechatHelper](https://github.com/wuxiaosu/XposedWechatHelper)
@@ -694,5 +690,5 @@
 
 
 ---
-*最后更新于 2025-09-28 17:16:53 UTC*
+*最后更新于 2025-09-28 17:38:09 UTC*
 *历史记录保存在 `archive` 目录中。*
