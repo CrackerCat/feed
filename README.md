@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xricksanchez](https://github.com/0xricksanchez)
+- 🌟 👤 [0xricksanchez](https://github.com/0xricksanchez) Starred [JakWai01/lurk](https://github.com/JakWai01/lurk)
+  > A pretty (simple) alternative to strace
+
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
   > 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at...
@@ -17,6 +21,10 @@
 ### [CyberCraftsmanx](https://github.com/CyberCraftsmanx)
 - 🌟 👤 [CyberCraftsmanx](https://github.com/CyberCraftsmanx) Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
   > A terminal for a more modern age
+
+### [EkiXu](https://github.com/EkiXu)
+- 🍴 👤 [EkiXu](https://github.com/EkiXu) Forked [is-a-dev/register](https://github.com/is-a-dev/register) to [EkiXu/is-dev-register](https://github.com/EkiXu/is-dev-register)
+  > Grab your own sweet-looking '.is-a.dev' subdomain.
 
 ### [FunnyWolf](https://github.com/FunnyWolf)
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [makeplane/plane](https://github.com/makeplane/plane)
@@ -33,6 +41,10 @@
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [mono/SkiaSharp](https://github.com/mono/SkiaSharp)
   > SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Lib...
+
+### [MrIkso](https://github.com/MrIkso)
+- 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [FanTranslatorsInternational/Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2)
+  > Kuriimu is a general purpose game translation project manager and toolkit for authors of fan transla...
 
 ### [Sec-Fork](https://github.com/Sec-Fork)
 - 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401) to [Sec-Fork/CVE-2024-36401](https://github.com/Sec-Fork/CVE-2024-36401)
@@ -64,6 +76,9 @@
 ### [ander1023](https://github.com/ander1023)
 - 🍴 👤 [ander1023](https://github.com/ander1023) Forked [CrackerCat/SuperWordlist](https://github.com/CrackerCat/SuperWordlist) to [ander1023/SuperWordlist](https://github.com/ander1023/SuperWordlist)
   > 基于实战沉淀下的各种弱口令字典
+
+### [ant4g0nist](https://github.com/ant4g0nist)
+- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [b1n4r1b01/n-days](https://github.com/b1n4r1b01/n-days)
 
 ### [asmjmp0](https://github.com/asmjmp0)
 - 🌟 👤 [asmjmp0](https://github.com/asmjmp0) Starred [tw11ty/NOP_for_ida90](https://github.com/tw11ty/NOP_for_ida90)
@@ -283,5 +298,5 @@
 
 
 ---
-*最后更新于 2025-09-29 05:23:01 UTC*
+*最后更新于 2025-09-29 05:42:33 UTC*
 *历史记录保存在 `archive` 目录中。*
