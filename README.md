@@ -84,6 +84,10 @@
 - ✨ 👤 [HanSolo](https://github.com/HanSolo) Created new repo [HanSolo/jdkupdaterfx](https://github.com/HanSolo/jdkupdaterfx)
   > JDKUpdaterFX is a tool to find updates for OpenJDK distributions installed on your machine
 
+### [HdShare](https://github.com/HdShare)
+- 🌟 👤 [HdShare](https://github.com/HdShare) Starred [CopyLibs/BeanShell-Android](https://github.com/CopyLibs/BeanShell-Android)
+  > BeanShell Support For Android
+
 ### [JasonWei512](https://github.com/JasonWei512)
 - 🌟 👤 [JasonWei512](https://github.com/JasonWei512) Starred [snowmeow2/Blue-arXiv-Theme](https://github.com/snowmeow2/Blue-arXiv-Theme)
   > Blue theme for arXiv website
@@ -178,6 +182,10 @@
 ### [XayahSuSuSu](https://github.com/XayahSuSuSu)
 - 🌟 👤 [XayahSuSuSu](https://github.com/XayahSuSuSu) Starred [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
   > More Expressive InstallerX !
+
+### [XiaoliChan](https://github.com/XiaoliChan)
+- 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
+  > Windows protocol library, including SMB and RPC implementations, among others.
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [allthingsida/qscripts](https://github.com/allthingsida/qscripts) to [Ylarod/qscripts](https://github.com/Ylarod/qscripts)
@@ -502,6 +510,14 @@
 - ✨ 👤 [yux1azhengye](https://github.com/yux1azhengye) Created new repo [yux1azhengye/exphub](https://github.com/yux1azhengye/exphub)
   > The goal of this project is to integrate more exploits to make it easier for security engineers to u...
 
+### [zhanghecn](https://github.com/zhanghecn)
+- 🌟 👤 [zhanghecn](https://github.com/zhanghecn) Starred [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
+  > 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+
+### [zhangyoufu](https://github.com/zhangyoufu)
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [Ivysauro/CNRT](https://github.com/Ivysauro/CNRT)
+  > 中国轨道交通数据库（非技术类） - 另一角度看地铁/ Data base of China Rail Transit (Non-tech) - Another view of Rail Transit
+
 ### [zhzyker](https://github.com/zhzyker)
 - 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401)
   > geoserver图形化漏洞利用工具
@@ -524,5 +540,5 @@
 
 
 ---
-*最后更新于 2025-09-29 17:19:58 UTC*
+*最后更新于 2025-09-29 17:38:49 UTC*
 *历史记录保存在 `archive` 目录中。*
