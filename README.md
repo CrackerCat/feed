@@ -262,8 +262,6 @@
   > Unfx Proxy Checker - Powerful proxy checker with huge features and beautiful design. Easy sorting an...
 
 ### [easychen](https://github.com/easychen)
-- 🌟 👤 [easychen](https://github.com/easychen) Starred [theopenco/llmgateway](https://github.com/theopenco/llmgateway)
-  > Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [alibaba/Logics-Parsing](https://github.com/alibaba/Logics-Parsing)
 
 ### [evilzhou](https://github.com/evilzhou)
@@ -419,6 +417,10 @@
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [franela/pocketci](https://github.com/franela/pocketci)
   > A dagger-based portable CI platform
 
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [hfiref0x/TDL](https://github.com/hfiref0x/TDL)
+  > Driver loader for bypassing Windows x64 Driver Signature Enforcement
+
 ### [rui314](https://github.com/rui314)
 - 🌟 👤 [rui314](https://github.com/rui314) Starred [StanfordPL/stoke](https://github.com/StanfordPL/stoke)
   > STOKE: A stochastic superoptimizer and program synthesizer
@@ -490,6 +492,8 @@
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [openai/automated-interpretability](https://github.com/openai/automated-interpretability)
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [Canner/WrenAI](https://github.com/Canner/WrenAI)
   > ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-S...
+- 🌟 👤 [xsser](https://github.com/xsser) Starred [chenningling/Redbook-Search-Comment-MCP2.0](https://github.com/chenningling/Redbook-Search-Comment-MCP2.0)
+  > 这是一款基于 Playwright 开发的小红书自动搜索和评论工具，作为 MCP Server，可通过特定配置接入 MCP Client（如Claude for Desktop），帮助用户自动完成登录...
 
 ### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
 - 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot)
@@ -519,5 +523,5 @@
 
 
 ---
-*最后更新于 2025-09-29 15:41:54 UTC*
+*最后更新于 2025-09-29 16:23:24 UTC*
 *历史记录保存在 `archive` 目录中。*
