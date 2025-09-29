@@ -48,10 +48,6 @@
 - 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)
   > Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management...
 
-### [EkiXu](https://github.com/EkiXu)
-- 🍴 👤 [EkiXu](https://github.com/EkiXu) Forked [is-a-good-dev/register](https://github.com/is-a-good-dev/register) to [EkiXu/register-is-a-good-dev](https://github.com/EkiXu/register-is-a-good-dev)
-  > Register for your is-a-good.dev domain!
-
 ### [GeekTR](https://github.com/GeekTR)
 - 🌟 👤 [GeekTR](https://github.com/GeekTR) Starred [jaaksi/pickerview](https://github.com/jaaksi/pickerview)
   > One very very user-friendly Picker library（内部提供两种常用类型的Picker：时间选择器（支持聚合）和联动选择器（支持不联动）。支持扩展自定义Picker。...
@@ -221,6 +217,8 @@
 ### [darkskygit](https://github.com/darkskygit)
 - 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [frostyplanet/crossfire-rs](https://github.com/frostyplanet/crossfire-rs)
   > A lockless mpmc/mpsc to support async base on crossbeam 
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [apple/app-store-server-library-node](https://github.com/apple/app-store-server-library-node)
+  > The Node.js server library for the App Store Server API and App Store Server Notifications.
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [alibaba/Logics-Parsing](https://github.com/alibaba/Logics-Parsing)
@@ -237,12 +235,6 @@
   > Refund Swatter Lite significantly reduces malicious refund risks by processing Apple's CONSUMPTION_R...
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [appdotbuild/agent](https://github.com/appdotbuild/agent) to [gmh5225/agent-build](https://github.com/gmh5225/agent-build)
-  > The agent that generates working apps (and maybe some other things)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [neur0map/manx](https://github.com/neur0map/manx) to [gmh5225/manx](https://github.com/gmh5225/manx)
-  > Blazing-fast CLI tool for developers to find documentation, code snippets, and answers instantly, on...
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sytelus/nanuGPT](https://github.com/sytelus/nanuGPT) to [gmh5225/nanuGPT](https://github.com/gmh5225/nanuGPT)
-  > Simple, reliable and well tested training code for quick experiments with transformer based models
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [epidemian/snake](https://github.com/epidemian/snake) to [gmh5225/snake](https://github.com/gmh5225/snake)
   > A silly snake game on the browser URL
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mostlygeek/path.to.sh](https://github.com/mostlygeek/path.to.sh) to [gmh5225/path.to.sh](https://github.com/gmh5225/path.to.sh)
@@ -327,6 +319,10 @@
 - 🌟 👤 [idanr1986](https://github.com/idanr1986) Starred [clearbluejar/pyghidra-mcp](https://github.com/clearbluejar/pyghidra-mcp)
   > Python Command-Line Ghidra MCP
 
+### [infosecn1nja](https://github.com/infosecn1nja)
+- 🌟 👤 [infosecn1nja](https://github.com/infosecn1nja) Starred [Yeeb1/SockTail](https://github.com/Yeeb1/SockTail)
+  > Lightweight binary that joins a device to a Tailscale network and exposes a local SOCKS5 proxy. Desi...
+
 ### [ioncodes](https://github.com/ioncodes)
 - ✨ 👤 [ioncodes](https://github.com/ioncodes) Created new repo [ioncodes/astro-blog](https://github.com/ioncodes/astro-blog)
 
@@ -351,6 +347,10 @@
 ### [lemuellew](https://github.com/lemuellew)
 - 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
   >  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Acceler...
+
+### [linxid](https://github.com/linxid)
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
+  > Tongyi Deep Research, the Leading Open-source Deep Research Agent
 
 ### [m0n0ph1](https://github.com/m0n0ph1)
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [eudoxia0/cmacro](https://github.com/eudoxia0/cmacro)
@@ -515,6 +515,10 @@
 - 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [abcz316/android-arm-adb](https://github.com/abcz316/android-arm-adb)
   > 编译ARM版本的ADB
 
+### [yuan-xy](https://github.com/yuan-xy)
+- 🍴 👤 [yuan-xy](https://github.com/yuan-xy) Forked [tvlad1234/tiny-rv32ima](https://github.com/tvlad1234/tiny-rv32ima) to [yuan-xy/tiny-rv32ima](https://github.com/yuan-xy/tiny-rv32ima)
+  > Platform-agnostic Linux-capable RISC-V virtual machine library
+
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - ✨ 👤 [yux1azhengye](https://github.com/yux1azhengye) Created new repo [yux1azhengye/exphub](https://github.com/yux1azhengye/exphub)
   > The goal of this project is to integrate more exploits to make it easier for security engineers to u...
@@ -537,5 +541,5 @@
 
 
 ---
-*最后更新于 2025-09-29 21:19:03 UTC*
+*最后更新于 2025-09-29 21:38:52 UTC*
 *历史记录保存在 `archive` 目录中。*
