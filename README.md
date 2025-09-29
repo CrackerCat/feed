@@ -55,10 +55,16 @@
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [mono/SkiaSharp](https://github.com/mono/SkiaSharp)
   > SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Lib...
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)
+  > ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
 
 ### [MrIkso](https://github.com/MrIkso)
 - 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [FanTranslatorsInternational/Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2)
   > Kuriimu is a general purpose game translation project manager and toolkit for authors of fan transla...
+
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [open-quantum-safe/oqs-provider](https://github.com/open-quantum-safe/oqs-provider)
+  > OpenSSL 3 provider containing post-quantum algorithms
 
 ### [Sec-Fork](https://github.com/Sec-Fork)
 - 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401) to [Sec-Fork/CVE-2024-36401](https://github.com/Sec-Fork/CVE-2024-36401)
@@ -115,6 +121,10 @@
 ### [daisixuan](https://github.com/daisixuan)
 - 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [yuchuangu85/Android_Framework_Source](https://github.com/yuchuangu85/Android_Framework_Source)
   > Android framework source with explain of Android pie 
+
+### [darbra](https://github.com/darbra)
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)
+  > :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [eclipse-zenoh/zenoh-cpp](https://github.com/eclipse-zenoh/zenoh-cpp)
@@ -211,6 +221,17 @@
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [github/spec-kit](https://github.com/github/spec-kit)
   > 💫 Toolkit to help you get started with Spec-Driven Development
 
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [t0thkr1s/allsafe-android](https://github.com/t0thkr1s/allsafe-android)
+  > Intentionally vulnerable Android application.
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts)
+  > A collection of my Frida instrumentation scripts for reverse engineering of mobile apps and more.
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [apkunpacker/FridaScripts](https://github.com/apkunpacker/FridaScripts)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida)
+  > Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/fri...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets)
+  > Hand-crafted Frida examples
+
 ### [imbaya2466](https://github.com/imbaya2466)
 - 🌟 👤 [imbaya2466](https://github.com/imbaya2466) Starred [Yuyz0112/claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse)
   > A Tool to Visualize Claude Code's LLM Interactions
@@ -241,6 +262,10 @@
 - 🌟 👤 [jiqiu2022](https://github.com/jiqiu2022) Starred [sunmh207/AI-Codereview-Gitlab](https://github.com/sunmh207/AI-Codereview-Gitlab)
   > 基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。
 
+### [mzfr](https://github.com/mzfr)
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout)
+  > jxscout superpowers JavaScript analysis for security researchers
+
 ### [netxfly](https://github.com/netxfly)
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [beam-cloud/beta9](https://github.com/beam-cloud/beta9)
   > Ultrafast serverless GPU inference, sandboxes, and background jobs
@@ -248,6 +273,10 @@
 ### [pengwei1024](https://github.com/pengwei1024)
 - 🌟 👤 [pengwei1024](https://github.com/pengwei1024) Starred [Intellindust-AI-Lab/DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2)
   > [DEIMv2] Real Time Object Detection Meets DINOv3 
+
+### [plusls](https://github.com/plusls)
+- 🌟 👤 [plusls](https://github.com/plusls) Starred [smallkirby/kernelpwn](https://github.com/smallkirby/kernelpwn)
+  > kernel-pwn and writeup collection
 
 ### [qi4L](https://github.com/qi4L)
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [AfterSnows/ApricusFindEvil](https://github.com/AfterSnows/ApricusFindEvil)
@@ -262,6 +291,10 @@
 ### [rui314](https://github.com/rui314)
 - 🌟 👤 [rui314](https://github.com/rui314) Starred [StanfordPL/stoke](https://github.com/StanfordPL/stoke)
   > STOKE: A stochastic superoptimizer and program synthesizer
+
+### [smallzhong](https://github.com/smallzhong)
+- 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [Bitmessage/PyBitmessage](https://github.com/Bitmessage/PyBitmessage) to [smallzhong/PyBitmessage](https://github.com/smallzhong/PyBitmessage)
+  > Reference client for Bitmessage: a P2P encrypted decentralised communication protocol:
 
 ### [suzhelan](https://github.com/suzhelan)
 - 🌟 👤 [suzhelan](https://github.com/suzhelan) Starred [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
@@ -315,6 +348,10 @@
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
   > 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual...
 
+### [xinruofuchen](https://github.com/xinruofuchen)
+- 🌟 👤 [xinruofuchen](https://github.com/xinruofuchen) Starred [ylw00/qxVm](https://github.com/ylw00/qxVm)
+  > qxVm补环境框架(纯js实现)
+
 ### [y9nhjy](https://github.com/y9nhjy)
 - 🌟 👤 [y9nhjy](https://github.com/y9nhjy) Starred [cutecatsandvirtualmachines/DmaProtect](https://github.com/cutecatsandvirtualmachines/DmaProtect)
   > Shows an example of how to implement VT-d/AMD-Vi on Windows
@@ -337,5 +374,5 @@
 
 
 ---
-*最后更新于 2025-09-29 06:36:25 UTC*
+*最后更新于 2025-09-29 07:23:19 UTC*
 *历史记录保存在 `archive` 目录中。*
