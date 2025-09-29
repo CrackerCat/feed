@@ -29,6 +29,8 @@
 ### [Asabeneh](https://github.com/Asabeneh)
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [fatiando/verde](https://github.com/fatiando/verde)
   > Processing and gridding spatial data, machine-learning style
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [msgpack/msgpack-python](https://github.com/msgpack/msgpack-python)
+  > MessagePack serializer implementation for Python msgpack.org[Python]
 
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
@@ -62,6 +64,10 @@
 - 🌟 👤 [GeekTR](https://github.com/GeekTR) Starred [jaaksi/pickerview](https://github.com/jaaksi/pickerview)
   > One very very user-friendly Picker library（内部提供两种常用类型的Picker：时间选择器（支持聚合）和联动选择器（支持不联动）。支持扩展自定义Picker。...
 
+### [Gracker](https://github.com/Gracker)
+- 🌟 👤 [Gracker](https://github.com/Gracker) Starred [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase)
+  > 大麦自动抢票，支持人员、城市、日期场次、价格选择
+
 ### [HATTER-LONG](https://github.com/HATTER-LONG)
 - 🍴 👤 [HATTER-LONG](https://github.com/HATTER-LONG) Forked [stdware/qwindowkit](https://github.com/stdware/qwindowkit) to [HATTER-LONG/qwindowkit](https://github.com/HATTER-LONG/qwindowkit)
   > Cross-platform frameless window framework for Qt. Support Windows, macOS, Linux.
@@ -69,6 +75,10 @@
 ### [Hexorg](https://github.com/Hexorg)
 - 🍴 👤 [Hexorg](https://github.com/Hexorg) Forked [zed-industries/zed](https://github.com/zed-industries/zed) to [Hexorg/zed](https://github.com/Hexorg/zed)
   > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
+
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [QBDI/QBDI](https://github.com/QBDI/QBDI)
+  > A Dynamic Binary Instrumentation framework based on LLVM.
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [mono/SkiaSharp](https://github.com/mono/SkiaSharp)
@@ -432,6 +442,10 @@
 - 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [yangliang1415/awesome-risk-control](https://github.com/yangliang1415/awesome-risk-control)
   > 风控知识总结
 
+### [wanttobeno](https://github.com/wanttobeno)
+- ✨ 👤 [wanttobeno](https://github.com/wanttobeno) Created new repo [wanttobeno/RemoteScreenViewer](https://github.com/wanttobeno/RemoteScreenViewer)
+  > Python Remote Screen Viewer
+
 ### [weizhiao](https://github.com/weizhiao)
 - 🌟 👤 [weizhiao](https://github.com/weizhiao) Starred [rui314/mold](https://github.com/rui314/mold)
   > mold: A Modern Linker 🦠
@@ -506,5 +520,5 @@
 
 
 ---
-*最后更新于 2025-09-29 10:44:57 UTC*
+*最后更新于 2025-09-29 11:19:02 UTC*
 *历史记录保存在 `archive` 目录中。*
