@@ -30,6 +30,9 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [mono/SkiaSharp](https://github.com/mono/SkiaSharp)
   > SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Lib...
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [ctrsploit/sploit-spec](https://github.com/ctrsploit/sploit-spec)
+
 ### [SherlockChiang](https://github.com/SherlockChiang)
 - 🌟 👤 [SherlockChiang](https://github.com/SherlockChiang) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
   > The open-source CapCut alternative
@@ -125,6 +128,8 @@
   > inject error in llm computation and eval
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jenhedg/deepseek-chatbot](https://github.com/jenhedg/deepseek-chatbot) to [gmh5225/deepseek-chatbot](https://github.com/gmh5225/deepseek-chatbot)
   > A simple chatbot app created with Python, Streamlit and DeepSeek-R1-Distill-Qwen-1.5B model
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0xJs/BYOVD_EDRKiller](https://github.com/0xJs/BYOVD_EDRKiller) to [gmh5225/BYOVD_EDRKiller](https://github.com/gmh5225/BYOVD_EDRKiller)
+  > Proof of Concepts code for Bring Your Own Vulnerable Driver techniques
 
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering)
@@ -133,6 +138,10 @@
   >  🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI syste...
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro)
   > Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work...
+
+### [hahwul](https://github.com/hahwul)
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [yamadashy/repomix](https://github.com/yamadashy/repomix)
+  > 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perf...
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [github/spec-kit](https://github.com/github/spec-kit)
@@ -222,6 +231,10 @@
 - 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [yangliang1415/awesome-risk-control](https://github.com/yangliang1415/awesome-risk-control)
   > 风控知识总结
 
+### [wishihab](https://github.com/wishihab)
+- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [go-kratos/blades](https://github.com/go-kratos/blades)
+  > Blades is a Go-based multimodal AI Agent framework.
+
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
   > Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎...
@@ -238,5 +251,5 @@
 
 
 ---
-*最后更新于 2025-09-29 04:28:09 UTC*
+*最后更新于 2025-09-29 04:45:53 UTC*
 *历史记录保存在 `archive` 目录中。*
