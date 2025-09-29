@@ -8,6 +8,18 @@
 - 🌟 👤 [0xricksanchez](https://github.com/0xricksanchez) Starred [JakWai01/lurk](https://github.com/JakWai01/lurk)
   > A pretty (simple) alternative to strace
 
+### [16hex-Dumb](https://github.com/16hex-Dumb)
+- 🌟 👤 [16hex-Dumb](https://github.com/16hex-Dumb) Starred [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection)
+  > A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Prote...
+
+### [34306](https://github.com/34306)
+- 🌟 👤 [34306](https://github.com/34306) Starred [khanhduytran0/Sim26Booter](https://github.com/khanhduytran0/Sim26Booter)
+  > Attempt to boot iOS 26 simulator on iOS 16 (WIP)
+
+### [3intermute](https://github.com/3intermute)
+- 🌟 👤 [3intermute](https://github.com/3intermute) Starred [d4rksystem/VBoxCloak](https://github.com/d4rksystem/VBoxCloak)
+  > A PowerShell script that attempts to help malware analysts hide their Windows VirtualBox Windows VM'...
+
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
   > 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at...
@@ -25,6 +37,8 @@
 ### [EkiXu](https://github.com/EkiXu)
 - 🍴 👤 [EkiXu](https://github.com/EkiXu) Forked [is-a-dev/register](https://github.com/is-a-dev/register) to [EkiXu/is-dev-register](https://github.com/EkiXu/is-dev-register)
   > Grab your own sweet-looking '.is-a.dev' subdomain.
+- 🍴 👤 [EkiXu](https://github.com/EkiXu) Forked [is-a-good-dev/register](https://github.com/is-a-good-dev/register) to [EkiXu/register-is-a-good-dev](https://github.com/EkiXu/register-is-a-good-dev)
+  > Register for your is-a-good.dev domain!
 
 ### [FunnyWolf](https://github.com/FunnyWolf)
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [makeplane/plane](https://github.com/makeplane/plane)
@@ -73,6 +87,10 @@
 - 🌟 👤 [WAY29](https://github.com/WAY29) Starred [miracleEverywhere/dst-management-platform-api](https://github.com/miracleEverywhere/dst-management-platform-api)
   > 饥荒管理平台(DMP)，满足一键开服、玩家管理、房间管理、数据统计、定时任务等功能
 
+### [abdihaikal](https://github.com/abdihaikal)
+- 🌟 👤 [abdihaikal](https://github.com/abdihaikal) Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+  > Warp is the agentic development environment, built for coding with multiple AI agents.
+
 ### [ander1023](https://github.com/ander1023)
 - 🍴 👤 [ander1023](https://github.com/ander1023) Forked [CrackerCat/SuperWordlist](https://github.com/CrackerCat/SuperWordlist) to [ander1023/SuperWordlist](https://github.com/ander1023/SuperWordlist)
   > 基于实战沉淀下的各种弱口令字典
@@ -83,6 +101,9 @@
 ### [asmjmp0](https://github.com/asmjmp0)
 - 🌟 👤 [asmjmp0](https://github.com/asmjmp0) Starred [tw11ty/NOP_for_ida90](https://github.com/tw11ty/NOP_for_ida90)
   > 能够在ida9.0对mips/x86架构应用进行nop操作。
+
+### [b1gcat](https://github.com/b1gcat)
+- ✨ 👤 [b1gcat](https://github.com/b1gcat) Created new repo [b1gcat/ATT.CK-mcp](https://github.com/b1gcat/ATT.CK-mcp)
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0x1BE/OSEE-Prep](https://github.com/0x1BE/OSEE-Prep)
@@ -161,6 +182,18 @@
   > A simple chatbot app created with Python, Streamlit and DeepSeek-R1-Distill-Qwen-1.5B model
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0xJs/BYOVD_EDRKiller](https://github.com/0xJs/BYOVD_EDRKiller) to [gmh5225/BYOVD_EDRKiller](https://github.com/gmh5225/BYOVD_EDRKiller)
   > Proof of Concepts code for Bring Your Own Vulnerable Driver techniques
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [StanfordPL/stoke](https://github.com/StanfordPL/stoke) to [gmh5225/stoke-](https://github.com/gmh5225/stoke-)
+  > STOKE: A stochastic superoptimizer and program synthesizer
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [rajtilak-2020/Portfolio-V4](https://github.com/rajtilak-2020/Portfolio-V4) to [gmh5225/Portfolio-V4](https://github.com/gmh5225/Portfolio-V4)
+  > This is my personal developer portfolio built with Next.js 14, Tailwind CSS, ShadCN/UI, and MDX. It ...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) to [gmh5225/MobileAgent](https://github.com/gmh5225/MobileAgent)
+  >  Mobile-Agent: The Powerful GUI Agent Family
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [appdotbuild/agent](https://github.com/appdotbuild/agent) to [gmh5225/agent-build](https://github.com/gmh5225/agent-build)
+  > The agent that generates working apps (and maybe some other things)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [neur0map/manx](https://github.com/neur0map/manx) to [gmh5225/manx](https://github.com/gmh5225/manx)
+  > Blazing-fast CLI tool for developers to find documentation, code snippets, and answers instantly, on...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sytelus/nanuGPT](https://github.com/sytelus/nanuGPT) to [gmh5225/nanuGPT](https://github.com/gmh5225/nanuGPT)
+  > Simple, reliable and well tested training code for quick experiments with transformer based models
 
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering)
@@ -239,6 +272,8 @@
 ### [swigger](https://github.com/swigger)
 - 🌟 👤 [swigger](https://github.com/swigger) Starred [wiresock/proxifyre](https://github.com/wiresock/proxifyre)
   > ProxiFyre: A Windows SOCKS5 proxifier leveraging NDISAPI to transparently route TCP and UDP traffic ...
+- 🍴 👤 [swigger](https://github.com/swigger) Forked [wiresock/proxifyre](https://github.com/wiresock/proxifyre) to [swigger/proxifyre](https://github.com/swigger/proxifyre)
+  > ProxiFyre: A Windows SOCKS5 proxifier leveraging NDISAPI to transparently route TCP and UDP traffic ...
 
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
@@ -296,7 +331,11 @@
 - 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [1r0BIT/TaskHound](https://github.com/1r0BIT/TaskHound)
   > Tool to enumerate privileged Scheduled Tasks on Remote Systems
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [astral-sh/ty](https://github.com/astral-sh/ty)
+  > An extremely fast Python type checker and language server, written in Rust.
+
 
 ---
-*最后更新于 2025-09-29 05:42:33 UTC*
+*最后更新于 2025-09-29 06:36:25 UTC*
 *历史记录保存在 `archive` 目录中。*
