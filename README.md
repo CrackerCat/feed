@@ -8,6 +8,10 @@
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [hnsecurity/kraken](https://github.com/hnsecurity/kraken) to [0xdea/kraken](https://github.com/0xdea/kraken)
   > Generate a report with charts and statistics about cracked passwords in XLSX format
 
+### [1c7](https://github.com/1c7)
+- 🚀 👤 [1c7](https://github.com/1c7) Made [1c7/my-supplements](https://github.com/1c7/my-supplements) public
+  > 我每天摄入的补剂清单（供你参考）（镁，锌，维生素 D3，等）
+
 ### [3intermute](https://github.com/3intermute)
 - 🌟 👤 [3intermute](https://github.com/3intermute) Starred [linuxmint/timeshift](https://github.com/linuxmint/timeshift)
   > System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshot...
@@ -80,8 +84,6 @@
   > A Dynamic Binary Instrumentation framework based on LLVM.
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)
-  > ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector)
   > 一个自定义注入so的脚手架,现在已经支持了界面化使用。
 
@@ -89,10 +91,14 @@
 - 🍴 👤 [Lakr233](https://github.com/Lakr233) Forked [huggingface/swift-transformers](https://github.com/huggingface/swift-transformers) to [Lakr233/swift-transformers](https://github.com/Lakr233/swift-transformers)
   > Swift Package to implement a transformers-like API in Swift
 - ✨ 👤 [Lakr233](https://github.com/Lakr233) Created new repo [Lakr233/tart-yolo-claude](https://github.com/Lakr233/tart-yolo-claude)
+- 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [apple/app-store-server-library-node](https://github.com/apple/app-store-server-library-node)
+  > The Node.js server library for the App Store Server API and App Store Server Notifications.
 
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [runs-on/runs-on](https://github.com/runs-on/runs-on)
   > Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited cach...
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [openbao/openbao](https://github.com/openbao/openbao)
+  > OpenBao exists to provide a software solution to manage, store, and distribute sensitive data includ...
 
 ### [MikeWang000000](https://github.com/MikeWang000000)
 - 🌟 👤 [MikeWang000000](https://github.com/MikeWang000000) Starred [mysql/mysql-server](https://github.com/mysql/mysql-server)
@@ -115,6 +121,10 @@
   > BetterGI·更好的原神 地图路径点位编辑器
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [huiyadanli/bettergi-map](https://github.com/huiyadanli/bettergi-map) to [NyaMisty/bettergi-map](https://github.com/NyaMisty/bettergi-map)
   > BetterGI·更好的原神 地图路径点位编辑器
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)
+  > 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 - UI A...
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) to [NyaMisty/better-genshin-impact](https://github.com/NyaMisty/better-genshin-impact)
+  > 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 - UI A...
 
 ### [Ridter](https://github.com/Ridter)
 - 🍴 👤 [Ridter](https://github.com/Ridter) Forked [NPC2000/elf_to_shellcode](https://github.com/NPC2000/elf_to_shellcode) to [Ridter/elf_to_shellcode](https://github.com/Ridter/elf_to_shellcode)
@@ -225,6 +235,10 @@
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [alibaba/Logics-Parsing](https://github.com/alibaba/Logics-Parsing)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [sqliteai/sqlite-vector](https://github.com/sqliteai/sqlite-vector)
+  > SQLite-Vector is a cross-platform, ultra-efficient SQLite extension that brings vector search capabi...
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [sqliteai/sqlite-sync](https://github.com/sqliteai/sqlite-sync)
+  > SQLiteSync is a local-first SQLite extension using CRDTs for seamless, conflict-free data sync and r...
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [argus-sight/refund-swatter-lite](https://github.com/argus-sight/refund-swatter-lite)
@@ -398,6 +412,11 @@
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [jevinskie/pcie-mitm](https://github.com/jevinskie/pcie-mitm)
   > LiteX-based PCIe MITM, sniffing, fuzzing, device emulation
 
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [lynn/flateview](https://github.com/lynn/flateview)
+  > Visualize DEFLATE (zlib) compression
+
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [BersisSe/feather](https://github.com/BersisSe/feather)
   > Feather🪶: A Rust web framework that does not use async 
@@ -485,10 +504,6 @@
 - ✨ 👤 [x-tools-author](https://github.com/x-tools-author) Created new repo [x-tools-author/xx-tools](https://github.com/x-tools-author/xx-tools)
   > A sets of debug tools base on Win32++......
 
-### [xinruofuchen](https://github.com/xinruofuchen)
-- 🌟 👤 [xinruofuchen](https://github.com/xinruofuchen) Starred [ylw00/qxVm](https://github.com/ylw00/qxVm)
-  > qxVm补环境框架(纯js实现)
-
 ### [xsser](https://github.com/xsser)
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [goodfire-ai/spd](https://github.com/goodfire-ai/spd)
   > Stochastic Parameter Decomposition
@@ -543,5 +558,5 @@
 
 
 ---
-*最后更新于 2025-09-29 22:38:34 UTC*
+*最后更新于 2025-09-29 23:20:08 UTC*
 *历史记录保存在 `archive` 目录中。*
