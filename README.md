@@ -152,6 +152,9 @@
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0x1BE/OSEE-Prep](https://github.com/0x1BE/OSEE-Prep)
 
+### [cg10036](https://github.com/cg10036)
+- ✨ 👤 [cg10036](https://github.com/cg10036) Created new repo [cg10036/discretemath](https://github.com/cg10036/discretemath)
+
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)
   > 🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various appl...
@@ -320,6 +323,10 @@
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [beam-cloud/beta9](https://github.com/beam-cloud/beta9)
   > Ultrafast serverless GPU inference, sandboxes, and background jobs
 
+### [onesss19](https://github.com/onesss19)
+- 🌟 👤 [onesss19](https://github.com/onesss19) Starred [MaaAssistantArknights/MaaTouch](https://github.com/MaaAssistantArknights/MaaTouch)
+  > Android native implementation of minitouch input protocol
+
 ### [pengwei1024](https://github.com/pengwei1024)
 - 🌟 👤 [pengwei1024](https://github.com/pengwei1024) Starred [Intellindust-AI-Lab/DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2)
   > [DEIMv2] Real Time Object Detection Meets DINOv3 
@@ -341,6 +348,10 @@
 ### [qq908323236](https://github.com/qq908323236)
 - 🌟 👤 [qq908323236](https://github.com/qq908323236) Starred [google/flatbuffers](https://github.com/google/flatbuffers)
   > FlatBuffers: Memory Efficient Serialization Library
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [dagger/dagger](https://github.com/dagger/dagger)
+  > An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 
 ### [rui314](https://github.com/rui314)
 - 🌟 👤 [rui314](https://github.com/rui314) Starred [StanfordPL/stoke](https://github.com/StanfordPL/stoke)
@@ -400,6 +411,10 @@
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [cursor/cursor](https://github.com/cursor/cursor)
   > The AI Code Editor
 
+### [x-tools-author](https://github.com/x-tools-author)
+- ✨ 👤 [x-tools-author](https://github.com/x-tools-author) Created new repo [x-tools-author/xx-tools](https://github.com/x-tools-author/xx-tools)
+  > A sets of debug tools base on Win32++......
+
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
   > Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎...
@@ -426,6 +441,10 @@
 - 🌟 👤 [y9nhjy](https://github.com/y9nhjy) Starred [cutecatsandvirtualmachines/DmaProtect](https://github.com/cutecatsandvirtualmachines/DmaProtect)
   > Shows an example of how to implement VT-d/AMD-Vi on Windows
 
+### [yux1azhengye](https://github.com/yux1azhengye)
+- ✨ 👤 [yux1azhengye](https://github.com/yux1azhengye) Created new repo [yux1azhengye/exphub](https://github.com/yux1azhengye/exphub)
+  > The goal of this project is to integrate more exploits to make it easier for security engineers to u...
+
 ### [zhzyker](https://github.com/zhzyker)
 - 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401)
   > geoserver图形化漏洞利用工具
@@ -444,5 +463,5 @@
 
 
 ---
-*最后更新于 2025-09-29 08:33:29 UTC*
+*最后更新于 2025-09-29 09:27:09 UTC*
 *历史记录保存在 `archive` 目录中。*
