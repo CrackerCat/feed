@@ -24,6 +24,10 @@
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
   > 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at...
 
+### [Cossack9989](https://github.com/Cossack9989)
+- 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)
+  > Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management...
+
 ### [Cxk4ng](https://github.com/Cxk4ng)
 - 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide)
   > Hiding kernel-driver for x86/x64.
@@ -44,6 +48,10 @@
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [makeplane/plane](https://github.com/makeplane/plane)
   > 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, ep...
 
+### [GeekTR](https://github.com/GeekTR)
+- 🌟 👤 [GeekTR](https://github.com/GeekTR) Starred [jaaksi/pickerview](https://github.com/jaaksi/pickerview)
+  > One very very user-friendly Picker library（内部提供两种常用类型的Picker：时间选择器（支持聚合）和联动选择器（支持不联动）。支持扩展自定义Picker。...
+
 ### [HATTER-LONG](https://github.com/HATTER-LONG)
 - 🍴 👤 [HATTER-LONG](https://github.com/HATTER-LONG) Forked [stdware/qwindowkit](https://github.com/stdware/qwindowkit) to [HATTER-LONG/qwindowkit](https://github.com/HATTER-LONG/qwindowkit)
   > Cross-platform frameless window framework for Qt. Support Windows, macOS, Linux.
@@ -57,6 +65,8 @@
   > SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Lib...
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)
   > ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector)
+  > 一个自定义注入so的脚手架,现在已经支持了界面化使用。
 
 ### [MrIkso](https://github.com/MrIkso)
 - 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [FanTranslatorsInternational/Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2)
@@ -65,6 +75,10 @@
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [open-quantum-safe/oqs-provider](https://github.com/open-quantum-safe/oqs-provider)
   > OpenSSL 3 provider containing post-quantum algorithms
+
+### [Ridter](https://github.com/Ridter)
+- 🍴 👤 [Ridter](https://github.com/Ridter) Forked [NPC2000/elf_to_shellcode](https://github.com/NPC2000/elf_to_shellcode) to [Ridter/elf_to_shellcode](https://github.com/Ridter/elf_to_shellcode)
+  > 将任何 elf 或命令转换为 shellcode
 
 ### [Sec-Fork](https://github.com/Sec-Fork)
 - 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401) to [Sec-Fork/CVE-2024-36401](https://github.com/Sec-Fork/CVE-2024-36401)
@@ -92,6 +106,10 @@
 ### [WAY29](https://github.com/WAY29)
 - 🌟 👤 [WAY29](https://github.com/WAY29) Starred [miracleEverywhere/dst-management-platform-api](https://github.com/miracleEverywhere/dst-management-platform-api)
   > 饥荒管理平台(DMP)，满足一键开服、玩家管理、房间管理、数据统计、定时任务等功能
+
+### [Ylarod](https://github.com/Ylarod)
+- 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [allthingsida/qscripts](https://github.com/allthingsida/qscripts) to [Ylarod/qscripts](https://github.com/Ylarod/qscripts)
+  > Programming productivity plugin for IDAPython and C++ development
 
 ### [abdihaikal](https://github.com/abdihaikal)
 - 🌟 👤 [abdihaikal](https://github.com/abdihaikal) Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
@@ -278,6 +296,10 @@
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [smallkirby/kernelpwn](https://github.com/smallkirby/kernelpwn)
   > kernel-pwn and writeup collection
 
+### [pwndorei](https://github.com/pwndorei)
+- 🌟 👤 [pwndorei](https://github.com/pwndorei) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
+  > Multi-architecture emulation for the modern era.
+
 ### [qi4L](https://github.com/qi4L)
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [AfterSnows/ApricusFindEvil](https://github.com/AfterSnows/ApricusFindEvil)
   > 检测查杀java内存马
@@ -352,6 +374,12 @@
 - 🌟 👤 [xinruofuchen](https://github.com/xinruofuchen) Starred [ylw00/qxVm](https://github.com/ylw00/qxVm)
   > qxVm补环境框架(纯js实现)
 
+### [xsser](https://github.com/xsser)
+- 🌟 👤 [xsser](https://github.com/xsser) Starred [goodfire-ai/spd](https://github.com/goodfire-ai/spd)
+  > Stochastic Parameter Decomposition
+- 🌟 👤 [xsser](https://github.com/xsser) Starred [goodfire-ai/goodfire-sdk](https://github.com/goodfire-ai/goodfire-sdk)
+  > Ember is a hosted API/SDK that lets you shape AI model behavior by directly controlling a model's in...
+
 ### [y9nhjy](https://github.com/y9nhjy)
 - 🌟 👤 [y9nhjy](https://github.com/y9nhjy) Starred [cutecatsandvirtualmachines/DmaProtect](https://github.com/cutecatsandvirtualmachines/DmaProtect)
   > Shows an example of how to implement VT-d/AMD-Vi on Windows
@@ -374,5 +402,5 @@
 
 
 ---
-*最后更新于 2025-09-29 07:23:19 UTC*
+*最后更新于 2025-09-29 07:41:01 UTC*
 *历史记录保存在 `archive` 目录中。*
