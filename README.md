@@ -47,6 +47,8 @@
   > a free and opensource app that lets you gain an unfair advantage
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [learningequality/kolibri](https://github.com/learningequality/kolibri)
   > Kolibri Learning Platform: the offline app for universal education
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [pypa/wheel](https://github.com/pypa/wheel)
+  > The official binary distribution format for Python
 
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
@@ -95,6 +97,8 @@
 ### [Konano](https://github.com/Konano)
 - 🌟 👤 [Konano](https://github.com/Konano) Starred [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)
 - 🍴 👤 [Konano](https://github.com/Konano) Forked [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) to [Konano/DeepSeek-V3.2-Exp](https://github.com/Konano/DeepSeek-V3.2-Exp)
+- 🌟 👤 [Konano](https://github.com/Konano) Starred [evansiroky/timezone-boundary-builder](https://github.com/evansiroky/timezone-boundary-builder)
+  > A tool to extract data from Open Street Map (OSM) to build the boundaries of the world's timezones.
 
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [QBDI/QBDI](https://github.com/QBDI/QBDI)
@@ -203,10 +207,6 @@
 - 🌟 👤 [aistra0528](https://github.com/aistra0528) Starred [aelurum/AssetStudio](https://github.com/aelurum/AssetStudio)
   > AssetStudioMod - modified version of Perfare's AssetStudio, mainly focused on UI optimization and so...
 
-### [ander1023](https://github.com/ander1023)
-- 🍴 👤 [ander1023](https://github.com/ander1023) Forked [CrackerCat/SuperWordlist](https://github.com/CrackerCat/SuperWordlist) to [ander1023/SuperWordlist](https://github.com/ander1023/SuperWordlist)
-  > 基于实战沉淀下的各种弱口令字典
-
 ### [ant4g0nist](https://github.com/ant4g0nist)
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [b1n4r1b01/n-days](https://github.com/b1n4r1b01/n-days)
 
@@ -242,10 +242,6 @@
 ### [coder-pig](https://github.com/coder-pig)
 - 🌟 👤 [coder-pig](https://github.com/coder-pig) Starred [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router)
   > A Unified MCP Server Management App
-
-### [daisixuan](https://github.com/daisixuan)
-- 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [yuchuangu85/Android_Framework_Source](https://github.com/yuchuangu85/Android_Framework_Source)
-  > Android framework source with explain of Android pie 
 
 ### [darbra](https://github.com/darbra)
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)
@@ -476,6 +472,10 @@
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [cursor/cursor](https://github.com/cursor/cursor)
   > The AI Code Editor
 
+### [wszqkzqk](https://github.com/wszqkzqk)
+- 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [simdjson/simdjson](https://github.com/simdjson/simdjson) to [wszqkzqk/simdjson](https://github.com/wszqkzqk/simdjson)
+  > Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse,...
+
 ### [x-Ai](https://github.com/x-Ai)
 - 🍴 👤 [x-Ai](https://github.com/x-Ai) Forked [synfron/ReshaperForBurp](https://github.com/synfron/ReshaperForBurp) to [x-Ai/ReshaperForBurp](https://github.com/x-Ai/ReshaperForBurp)
   > Burp Suite Extension - Trigger actions and reshape HTTP request/response and WebSocket traffic using...
@@ -540,5 +540,5 @@
 
 
 ---
-*最后更新于 2025-09-29 17:38:49 UTC*
+*最后更新于 2025-09-29 18:33:15 UTC*
 *历史记录保存在 `archive` 目录中。*
