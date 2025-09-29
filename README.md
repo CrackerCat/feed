@@ -60,10 +60,6 @@
 - 🍴 👤 [EkiXu](https://github.com/EkiXu) Forked [is-a-good-dev/register](https://github.com/is-a-good-dev/register) to [EkiXu/register-is-a-good-dev](https://github.com/EkiXu/register-is-a-good-dev)
   > Register for your is-a-good.dev domain!
 
-### [FunnyWolf](https://github.com/FunnyWolf)
-- 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [makeplane/plane](https://github.com/makeplane/plane)
-  > 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, ep...
-
 ### [GeekTR](https://github.com/GeekTR)
 - 🌟 👤 [GeekTR](https://github.com/GeekTR) Starred [jaaksi/pickerview](https://github.com/jaaksi/pickerview)
   > One very very user-friendly Picker library（内部提供两种常用类型的Picker：时间选择器（支持聚合）和联动选择器（支持不联动）。支持扩展自定义Picker。...
@@ -82,18 +78,21 @@
 
 ### [Konano](https://github.com/Konano)
 - 🌟 👤 [Konano](https://github.com/Konano) Starred [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)
+- 🍴 👤 [Konano](https://github.com/Konano) Forked [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) to [Konano/DeepSeek-V3.2-Exp](https://github.com/Konano/DeepSeek-V3.2-Exp)
 
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [QBDI/QBDI](https://github.com/QBDI/QBDI)
   > A Dynamic Binary Instrumentation framework based on LLVM.
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [mono/SkiaSharp](https://github.com/mono/SkiaSharp)
-  > SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Lib...
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)
   > ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector)
   > 一个自定义注入so的脚手架,现在已经支持了界面化使用。
+
+### [Lakr233](https://github.com/Lakr233)
+- 🍴 👤 [Lakr233](https://github.com/Lakr233) Forked [huggingface/swift-transformers](https://github.com/huggingface/swift-transformers) to [Lakr233/swift-transformers](https://github.com/Lakr233/swift-transformers)
+  > Swift Package to implement a transformers-like API in Swift
 
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [RuriOSS/rurima-aio](https://github.com/RuriOSS/rurima-aio)
@@ -211,6 +210,10 @@
 - 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [Shekswess/tiny-reasoning-language-model](https://github.com/Shekswess/tiny-reasoning-language-model)
   > Code repository dedicated to experimenting and research with tiny reasoning language model
 
+### [coder-pig](https://github.com/coder-pig)
+- 🌟 👤 [coder-pig](https://github.com/coder-pig) Starred [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router)
+  > A Unified MCP Server Management App
+
 ### [daisixuan](https://github.com/daisixuan)
 - 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [yuchuangu85/Android_Framework_Source](https://github.com/yuchuangu85/Android_Framework_Source)
   > Android framework source with explain of Android pie 
@@ -219,9 +222,14 @@
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)
   > :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 
+### [darkskygit](https://github.com/darkskygit)
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [frostyplanet/crossfire-rs](https://github.com/frostyplanet/crossfire-rs)
+  > A lockless mpmc/mpsc to support async base on crossbeam 
+
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [eclipse-zenoh/zenoh-cpp](https://github.com/eclipse-zenoh/zenoh-cpp)
   > C++ API for zenoh
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [alibaba/Logics-Parsing](https://github.com/alibaba/Logics-Parsing)
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [catatsuy/cache](https://github.com/catatsuy/cache)
@@ -230,10 +238,6 @@
   > Streamlining Text Processing
 
 ### [easychen](https://github.com/easychen)
-- 🌟 👤 [easychen](https://github.com/easychen) Starred [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch)
-  > Implement a reasoning LLM in PyTorch from scratch, step by step
-- 🌟 👤 [easychen](https://github.com/easychen) Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
-  > Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [theopenco/llmgateway](https://github.com/theopenco/llmgateway)
   > Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [alibaba/Logics-Parsing](https://github.com/alibaba/Logics-Parsing)
@@ -261,10 +265,6 @@
   > Neovate Code is a code agent to enhance your development. You can use it to generate code, fix bugs,...
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [zkpassport/zkpassport-packages](https://github.com/zkpassport/zkpassport-packages) to [gmh5225/zkpassport-packages](https://github.com/gmh5225/zkpassport-packages)
-  > ZKPassport Monorepo
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [zkpassport/circuits](https://github.com/zkpassport/circuits) to [gmh5225/circuits](https://github.com/gmh5225/circuits)
-  > ZKPassport circuits for generating passport and national ID zero-knowledge identity proofs
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [zkpassport/noir_rs](https://github.com/zkpassport/noir_rs) to [gmh5225/noir_rs](https://github.com/gmh5225/noir_rs)
   > Rust crate to generate and verify proofs for Noir circuits
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [msylvester/embedding_search](https://github.com/msylvester/embedding_search) to [gmh5225/embedding_search](https://github.com/gmh5225/embedding_search)
@@ -294,6 +294,9 @@
   > Blazing-fast CLI tool for developers to find documentation, code snippets, and answers instantly, on...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sytelus/nanuGPT](https://github.com/sytelus/nanuGPT) to [gmh5225/nanuGPT](https://github.com/gmh5225/nanuGPT)
   > Simple, reliable and well tested training code for quick experiments with transformer based models
+
+### [ha1vk](https://github.com/ha1vk)
+- 🍴 👤 [ha1vk](https://github.com/ha1vk) Forked [herosi/mzip2elf](https://github.com/herosi/mzip2elf) to [ha1vk/mzip2elf](https://github.com/ha1vk/mzip2elf)
 
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [yamadashy/repomix](https://github.com/yamadashy/repomix)
@@ -377,8 +380,6 @@
   > Multi-architecture emulation for the modern era.
 
 ### [qi4L](https://github.com/qi4L)
-- 🌟 👤 [qi4L](https://github.com/qi4L) Starred [AfterSnows/ApricusFindEvil](https://github.com/AfterSnows/ApricusFindEvil)
-  > 检测查杀java内存马
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [keecth/FakeCryptoJS](https://github.com/keecth/FakeCryptoJS)
   > CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位置(无视混淆)。SRC和常规渗透神器
 
@@ -509,5 +510,5 @@
 
 
 ---
-*最后更新于 2025-09-29 12:50:29 UTC*
+*最后更新于 2025-09-29 13:32:55 UTC*
 *历史记录保存在 `archive` 目录中。*
