@@ -46,6 +46,9 @@
 - 🌟 👤 [asmjmp0](https://github.com/asmjmp0) Starred [tw11ty/NOP_for_ida90](https://github.com/tw11ty/NOP_for_ida90)
   > 能够在ida9.0对mips/x86架构应用进行nop操作。
 
+### [byt3n33dl3](https://github.com/byt3n33dl3)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0x1BE/OSEE-Prep](https://github.com/0x1BE/OSEE-Prep)
+
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)
   > 🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various appl...
@@ -57,6 +60,12 @@
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [eclipse-zenoh/zenoh-cpp](https://github.com/eclipse-zenoh/zenoh-cpp)
   > C++ API for zenoh
+
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [catatsuy/cache](https://github.com/catatsuy/cache)
+  > Cache Library for Go
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [catatsuy/purl](https://github.com/catatsuy/purl)
+  > Streamlining Text Processing
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch)
@@ -70,9 +79,19 @@
 - 🍴 👤 [everettjf](https://github.com/everettjf) Forked [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) to [everettjf/InputSourcePro](https://github.com/everettjf/InputSourcePro)
   > Switch and track your input sources with ease ✨
 
+### [evilzhou](https://github.com/evilzhou)
+- 🌟 👤 [evilzhou](https://github.com/evilzhou) Starred [strace/strace](https://github.com/strace/strace)
+  > strace is a diagnostic, debugging and instructional userspace utility for Linux
+- 🌟 👤 [evilzhou](https://github.com/evilzhou) Starred [Magisk-Modules-Alt-Repo/chroot-distro](https://github.com/Magisk-Modules-Alt-Repo/chroot-distro)
+  > Install Gnu/Linux distributions on Android 
+
 ### [feicong](https://github.com/feicong)
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [KomiMoe/Hikari](https://github.com/KomiMoe/Hikari) to [feicong/Hikari](https://github.com/feicong/Hikari)
   > Yet another llvm based obfuscator based on goron.
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [TheMalwareGuardian/Exploit-the-Binary](https://github.com/TheMalwareGuardian/Exploit-the-Binary) to [fengjixuchui/Exploit-the-Binary](https://github.com/fengjixuchui/Exploit-the-Binary)
+  > A series of notes for my dear students to get started in the world of binary exploitation.
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod)
@@ -97,6 +116,7 @@
   > A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) to [gmh5225/Paper2Agent](https://github.com/gmh5225/Paper2Agent)
   > Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactiv...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [People-11/FuckGJZS](https://github.com/People-11/FuckGJZS) to [gmh5225/FuckGJZS](https://github.com/gmh5225/FuckGJZS)
 
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering)
@@ -105,6 +125,10 @@
   >  🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI syste...
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro)
   > Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work...
+
+### [imbaya2466](https://github.com/imbaya2466)
+- 🌟 👤 [imbaya2466](https://github.com/imbaya2466) Starred [Yuyz0112/claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse)
+  > A Tool to Visualize Claude Code's LLM Interactions
 
 ### [jadesnake](https://github.com/jadesnake)
 - 🌟 👤 [jadesnake](https://github.com/jadesnake) Starred [Visualize-ML/Book1_Python-For-Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners)
@@ -119,6 +143,10 @@
   > ”数学不难“  之  《线性代数不难》上下册，66话题完册；欢迎批评指正
 - 🌟 👤 [jadesnake](https://github.com/jadesnake) Starred [Visualize-ML/Probability-and-Statistics-Made-Easy---Learn-with-Python-and-Visualization](https://github.com/Visualize-ML/Probability-and-Statistics-Made-Easy---Learn-with-Python-and-Visualization)
   > ”数学不难“ 之 《概率统计不难》；先占个坑，请大家多支持，希望不弃坑
+
+### [jaywcjlove](https://github.com/jaywcjlove)
+- ✨ 👤 [jaywcjlove](https://github.com/jaywcjlove) Created new repo [jaywcjlove/video-wallpapers](https://github.com/jaywcjlove/video-wallpapers)
+  > Collection of my favorite video wallpapers
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [matlab-deep-learning/SciML-and-Physics-Informed-Machine-Learning-Examples](https://github.com/matlab-deep-learning/SciML-and-Physics-Informed-Machine-Learning-Examples)
@@ -145,6 +173,10 @@
 ### [qq908323236](https://github.com/qq908323236)
 - 🌟 👤 [qq908323236](https://github.com/qq908323236) Starred [google/flatbuffers](https://github.com/google/flatbuffers)
   > FlatBuffers: Memory Efficient Serialization Library
+
+### [rui314](https://github.com/rui314)
+- 🌟 👤 [rui314](https://github.com/rui314) Starred [StanfordPL/stoke](https://github.com/StanfordPL/stoke)
+  > STOKE: A stochastic superoptimizer and program synthesizer
 
 ### [suzhelan](https://github.com/suzhelan)
 - 🌟 👤 [suzhelan](https://github.com/suzhelan) Starred [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
@@ -190,5 +222,5 @@
 
 
 ---
-*最后更新于 2025-09-29 03:07:10 UTC*
+*最后更新于 2025-09-29 03:51:23 UTC*
 *历史记录保存在 `archive` 目录中。*
