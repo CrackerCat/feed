@@ -45,6 +45,8 @@
   > Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy)
   > a free and opensource app that lets you gain an unfair advantage
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [learningequality/kolibri](https://github.com/learningequality/kolibri)
+  > Kolibri Learning Platform: the offline app for universal education
 
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
@@ -103,6 +105,7 @@
 ### [Lakr233](https://github.com/Lakr233)
 - 🍴 👤 [Lakr233](https://github.com/Lakr233) Forked [huggingface/swift-transformers](https://github.com/huggingface/swift-transformers) to [Lakr233/swift-transformers](https://github.com/Lakr233/swift-transformers)
   > Swift Package to implement a transformers-like API in Swift
+- ✨ 👤 [Lakr233](https://github.com/Lakr233) Created new repo [Lakr233/tart-yolo-claude](https://github.com/Lakr233/tart-yolo-claude)
 
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [runs-on/runs-on](https://github.com/runs-on/runs-on)
@@ -130,6 +133,10 @@
 - 🍴 👤 [Ridter](https://github.com/Ridter) Forked [NPC2000/elf_to_shellcode](https://github.com/NPC2000/elf_to_shellcode) to [Ridter/elf_to_shellcode](https://github.com/Ridter/elf_to_shellcode)
   > 将任何 elf 或命令转换为 shellcode
 
+### [RohitVerma882](https://github.com/RohitVerma882)
+- 🌟 👤 [RohitVerma882](https://github.com/RohitVerma882) Starred [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
+  > Get Android app updates straight from the source.
+
 ### [Ryuchen](https://github.com/Ryuchen)
 - 🌟 👤 [Ryuchen](https://github.com/Ryuchen) Starred [alt3ri/WW_Asset](https://github.com/alt3ri/WW_Asset)
   > advanced one
@@ -150,10 +157,6 @@
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [ctrsploit/sploit-spec](https://github.com/ctrsploit/sploit-spec)
-
-### [SherlockChiang](https://github.com/SherlockChiang)
-- 🌟 👤 [SherlockChiang](https://github.com/SherlockChiang) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-  > The open-source CapCut alternative
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
@@ -198,10 +201,6 @@
 
 ### [ant4g0nist](https://github.com/ant4g0nist)
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [b1n4r1b01/n-days](https://github.com/b1n4r1b01/n-days)
-
-### [asmjmp0](https://github.com/asmjmp0)
-- 🌟 👤 [asmjmp0](https://github.com/asmjmp0) Starred [tw11ty/NOP_for_ida90](https://github.com/tw11ty/NOP_for_ida90)
-  > 能够在ida9.0对mips/x86架构应用进行nop操作。
 
 ### [b1gcat](https://github.com/b1gcat)
 - ✨ 👤 [b1gcat](https://github.com/b1gcat) Created new repo [b1gcat/ATT.CK-mcp](https://github.com/b1gcat/ATT.CK-mcp)
@@ -249,8 +248,6 @@
   > A lockless mpmc/mpsc to support async base on crossbeam 
 
 ### [dodola](https://github.com/dodola)
-- 🌟 👤 [dodola](https://github.com/dodola) Starred [eclipse-zenoh/zenoh-cpp](https://github.com/eclipse-zenoh/zenoh-cpp)
-  > C++ API for zenoh
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [alibaba/Logics-Parsing](https://github.com/alibaba/Logics-Parsing)
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
@@ -278,13 +275,7 @@
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [argus-sight/refund-swatter-lite](https://github.com/argus-sight/refund-swatter-lite)
   > Refund Swatter Lite significantly reduces malicious refund risks by processing Apple's CONSUMPTION_R...
 
-### [fynch3r](https://github.com/fynch3r)
-- 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [neovateai/neovate-code](https://github.com/neovateai/neovate-code)
-  > Neovate Code is a code agent to enhance your development. You can use it to generate code, fix bugs,...
-
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) to [gmh5225/Paper2Agent](https://github.com/gmh5225/Paper2Agent)
-  > Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactiv...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [People-11/FuckGJZS](https://github.com/People-11/FuckGJZS) to [gmh5225/FuckGJZS](https://github.com/gmh5225/FuckGJZS)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Higashi-Masafumi/llm-error-injection](https://github.com/Higashi-Masafumi/llm-error-injection) to [gmh5225/llm-error-injection](https://github.com/gmh5225/llm-error-injection)
   > inject error in llm computation and eval
@@ -378,6 +369,8 @@
 ### [nbqofficial](https://github.com/nbqofficial)
 - 🍴 👤 [nbqofficial](https://github.com/nbqofficial) Forked [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) to [nbqofficial/awesome-machine-learning](https://github.com/nbqofficial/awesome-machine-learning)
   > A curated list of awesome Machine Learning frameworks, libraries and software.
+- 🍴 👤 [nbqofficial](https://github.com/nbqofficial) Forked [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) to [nbqofficial/awesome-cpp](https://github.com/nbqofficial/awesome-cpp)
+  > A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by...
 
 ### [nex121](https://github.com/nex121)
 - 🌟 👤 [nex121](https://github.com/nex121) Starred [wa1ki0g/NoAuth](https://github.com/wa1ki0g/NoAuth)
@@ -414,6 +407,10 @@
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity) to [rankalpha/Singularity](https://github.com/rankalpha/Singularity)
   > LKM rootkit for modern kernels (6x)
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [MatheuZSecurity/Rootkit](https://github.com/MatheuZSecurity/Rootkit)
+  > Collection of codes focused on Linux rootkits
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [MatheuZSecurity/RootKits-List-Download](https://github.com/MatheuZSecurity/RootKits-List-Download)
+  > This is the list of all rootkits found so far on github and other sites. 
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [dagger/dagger](https://github.com/dagger/dagger)
@@ -450,10 +447,6 @@
   > Checksec
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [nixawk/checksec](https://github.com/nixawk/checksec)
   > A windbg extension for ASLR/DEP/SafeSEH check
-
-### [w00tzenheimer](https://github.com/w00tzenheimer)
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [PRIV-Creation/UniDiffusion](https://github.com/PRIV-Creation/UniDiffusion)
-  > A Diffusion training toolbox based on diffusers and existing SOTA methods, including Dreambooth, Tex...
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - ✨ 👤 [wanttobeno](https://github.com/wanttobeno) Created new repo [wanttobeno/RemoteScreenViewer](https://github.com/wanttobeno/RemoteScreenViewer)
@@ -521,11 +514,15 @@
 - 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [1r0BIT/TaskHound](https://github.com/1r0BIT/TaskHound)
   > Tool to enumerate privileged Scheduled Tasks on Remote Systems
 
+### [zinja-coder](https://github.com/zinja-coder)
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [merbanan/rtl_433](https://github.com/merbanan/rtl_433)
+  > Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [astral-sh/ty](https://github.com/astral-sh/ty)
   > An extremely fast Python type checker and language server, written in Rust.
 
 
 ---
-*最后更新于 2025-09-29 16:40:24 UTC*
+*最后更新于 2025-09-29 17:19:58 UTC*
 *历史记录保存在 `archive` 目录中。*
