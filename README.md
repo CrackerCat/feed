@@ -314,9 +314,11 @@
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [ksg97031/flipper](https://github.com/ksg97031/flipper)
   > A desktop debugging platform for mobile developers.
 
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [wailsapp/wails](https://github.com/wailsapp/wails)
+  > Create beautiful applications using Go
+
 ### [hyuunnn](https://github.com/hyuunnn)
-- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [t0thkr1s/allsafe-android](https://github.com/t0thkr1s/allsafe-android)
-  > Intentionally vulnerable Android application.
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts)
   > A collection of my Frida instrumentation scripts for reverse engineering of mobile apps and more.
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [apkunpacker/FridaScripts](https://github.com/apkunpacker/FridaScripts)
@@ -558,5 +560,5 @@
 
 
 ---
-*最后更新于 2025-09-29 23:20:08 UTC*
+*最后更新于 2025-09-29 23:39:02 UTC*
 *历史记录保存在 `archive` 目录中。*
