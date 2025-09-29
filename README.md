@@ -123,9 +123,14 @@
 - 🌟 👤 [Smooth-E](https://github.com/Smooth-E) Starred [maksimowiczm/FoodYou](https://github.com/maksimowiczm/FoodYou)
   > A free, open-source, and privacy-focused food diary and nutrition tracker
 
+### [TartanLlama](https://github.com/TartanLlama)
+- 🍴 👤 [TartanLlama](https://github.com/TartanLlama) Forked [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) to [TartanLlama/wasmtime](https://github.com/TartanLlama/wasmtime)
+  > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+
 ### [Udyz](https://github.com/Udyz)
 - ✨ 👤 [Udyz](https://github.com/Udyz) Created new repo [Udyz/wplace-griefer-monitor](https://github.com/Udyz/wplace-griefer-monitor)
   > Monitoring and detecting griefering on WPlace
+- ✨ 👤 [Udyz](https://github.com/Udyz) Created new repo [Udyz/wplacer](https://github.com/Udyz/wplacer)
 
 ### [WAY29](https://github.com/WAY29)
 - 🌟 👤 [WAY29](https://github.com/WAY29) Starred [miracleEverywhere/dst-management-platform-api](https://github.com/miracleEverywhere/dst-management-platform-api)
@@ -134,6 +139,10 @@
 ### [Ylarod](https://github.com/Ylarod)
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [allthingsida/qscripts](https://github.com/allthingsida/qscripts) to [Ylarod/qscripts](https://github.com/Ylarod/qscripts)
   > Programming productivity plugin for IDAPython and C++ development
+
+### [ZephrFish](https://github.com/ZephrFish)
+- 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [claffin/cloudproxy](https://github.com/claffin/cloudproxy)
+  > Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to ...
 
 ### [abdihaikal](https://github.com/abdihaikal)
 - 🌟 👤 [abdihaikal](https://github.com/abdihaikal) Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
@@ -152,6 +161,10 @@
 
 ### [b1gcat](https://github.com/b1gcat)
 - ✨ 👤 [b1gcat](https://github.com/b1gcat) Created new repo [b1gcat/ATT.CK-mcp](https://github.com/b1gcat/ATT.CK-mcp)
+
+### [ba0gu0](https://github.com/ba0gu0)
+- 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [jd-opensource/JoySafety](https://github.com/jd-opensource/JoySafety)
+  > JoySafety
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0x1BE/OSEE-Prep](https://github.com/0x1BE/OSEE-Prep)
@@ -493,5 +506,5 @@
 
 
 ---
-*最后更新于 2025-09-29 10:25:28 UTC*
+*最后更新于 2025-09-29 10:44:57 UTC*
 *历史记录保存在 `archive` 目录中。*
