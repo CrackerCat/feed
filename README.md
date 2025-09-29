@@ -270,10 +270,6 @@
 - 🌟 👤 [evilzhou](https://github.com/evilzhou) Starred [Magisk-Modules-Alt-Repo/chroot-distro](https://github.com/Magisk-Modules-Alt-Repo/chroot-distro)
   > Install Gnu/Linux distributions on Android 
 
-### [feicong](https://github.com/feicong)
-- 🍴 👤 [feicong](https://github.com/feicong) Forked [KomiMoe/Hikari](https://github.com/KomiMoe/Hikari) to [feicong/Hikari](https://github.com/feicong/Hikari)
-  > Yet another llvm based obfuscator based on goron.
-
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [TheMalwareGuardian/Exploit-the-Binary](https://github.com/TheMalwareGuardian/Exploit-the-Binary) to [fengjixuchui/Exploit-the-Binary](https://github.com/fengjixuchui/Exploit-the-Binary)
   > A series of notes for my dear students to get started in the world of binary exploitation.
@@ -387,6 +383,10 @@
 - 🌟 👤 [nex121](https://github.com/nex121) Starred [wa1ki0g/NoAuth](https://github.com/wa1ki0g/NoAuth)
   > java-web 自动化鉴权绕过
 
+### [ntpopgetdope](https://github.com/ntpopgetdope)
+- 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [jevinskie/pcie-mitm](https://github.com/jevinskie/pcie-mitm)
+  > LiteX-based PCIe MITM, sniffing, fuzzing, device emulation
+
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [BersisSe/feather](https://github.com/BersisSe/feather)
   > Feather🪶: A Rust web framework that does not use async 
@@ -410,6 +410,10 @@
 ### [qi4L](https://github.com/qi4L)
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [keecth/FakeCryptoJS](https://github.com/keecth/FakeCryptoJS)
   > CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位置(无视混淆)。SRC和常规渗透神器
+
+### [rankalpha](https://github.com/rankalpha)
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity) to [rankalpha/Singularity](https://github.com/rankalpha/Singularity)
+  > LKM rootkit for modern kernels (6x)
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [dagger/dagger](https://github.com/dagger/dagger)
@@ -523,5 +527,5 @@
 
 
 ---
-*最后更新于 2025-09-29 16:23:24 UTC*
+*最后更新于 2025-09-29 16:40:24 UTC*
 *历史记录保存在 `archive` 目录中。*
