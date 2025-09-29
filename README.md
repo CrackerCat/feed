@@ -14,6 +14,10 @@
 - 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide)
   > Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
 
+### [CyberCraftsmanx](https://github.com/CyberCraftsmanx)
+- 🌟 👤 [CyberCraftsmanx](https://github.com/CyberCraftsmanx) Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
+  > A terminal for a more modern age
+
 ### [FunnyWolf](https://github.com/FunnyWolf)
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [makeplane/plane](https://github.com/makeplane/plane)
   > 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, ep...
@@ -29,6 +33,18 @@
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [mono/SkiaSharp](https://github.com/mono/SkiaSharp)
   > SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Lib...
+
+### [Sec-Fork](https://github.com/Sec-Fork)
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401) to [Sec-Fork/CVE-2024-36401](https://github.com/Sec-Fork/CVE-2024-36401)
+  > geoserver图形化漏洞利用工具
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) to [Sec-Fork/SUDO_KILLER](https://github.com/Sec-Fork/SUDO_KILLER)
+  > A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like sys...
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [winway/domain2IP](https://github.com/winway/domain2IP) to [Sec-Fork/domain2IP](https://github.com/Sec-Fork/domain2IP)
+  > Get the ip set of a domain as many as possible and as soon as possible
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [trustedsec/Titanis](https://github.com/trustedsec/Titanis) to [Sec-Fork/Titanis](https://github.com/Sec-Fork/Titanis)
+  > Windows protocol library, including SMB and RPC implementations, among others.
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [1r0BIT/TaskHound](https://github.com/1r0BIT/TaskHound) to [Sec-Fork/TaskHound](https://github.com/Sec-Fork/TaskHound)
+  > Tool to enumerate privileged Scheduled Tasks on Remote Systems
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [ctrsploit/sploit-spec](https://github.com/ctrsploit/sploit-spec)
@@ -234,6 +250,10 @@
 ### [wishihab](https://github.com/wishihab)
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [go-kratos/blades](https://github.com/go-kratos/blades)
   > Blades is a Go-based multimodal AI Agent framework.
+- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [go-kratos/kratos](https://github.com/go-kratos/kratos)
+  > Your ultimate Go microservices framework for the cloud-native era.
+- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [cursor/cursor](https://github.com/cursor/cursor)
+  > The AI Code Editor
 
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
@@ -249,7 +269,19 @@
 - 🌟 👤 [y9nhjy](https://github.com/y9nhjy) Starred [cutecatsandvirtualmachines/DmaProtect](https://github.com/cutecatsandvirtualmachines/DmaProtect)
   > Shows an example of how to implement VT-d/AMD-Vi on Windows
 
+### [zhzyker](https://github.com/zhzyker)
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401)
+  > geoserver图形化漏洞利用工具
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER)
+  > A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like sys...
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [winway/domain2IP](https://github.com/winway/domain2IP)
+  > Get the ip set of a domain as many as possible and as soon as possible
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
+  > Windows protocol library, including SMB and RPC implementations, among others.
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [1r0BIT/TaskHound](https://github.com/1r0BIT/TaskHound)
+  > Tool to enumerate privileged Scheduled Tasks on Remote Systems
+
 
 ---
-*最后更新于 2025-09-29 04:45:53 UTC*
+*最后更新于 2025-09-29 05:23:01 UTC*
 *历史记录保存在 `archive` 目录中。*
