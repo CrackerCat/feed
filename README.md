@@ -26,6 +26,10 @@
 - 🌟 👤 [3intermute](https://github.com/3intermute) Starred [linuxmint/timeshift](https://github.com/linuxmint/timeshift)
   > System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshot...
 
+### [Asabeneh](https://github.com/Asabeneh)
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [fatiando/verde](https://github.com/fatiando/verde)
+  > Processing and gridding spatial data, machine-learning style
+
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
   > 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at...
@@ -192,6 +196,7 @@
   > Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [theopenco/llmgateway](https://github.com/theopenco/llmgateway)
   > Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [alibaba/Logics-Parsing](https://github.com/alibaba/Logics-Parsing)
 
 ### [everettjf](https://github.com/everettjf)
 - 🍴 👤 [everettjf](https://github.com/everettjf) Forked [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) to [everettjf/InputSourcePro](https://github.com/everettjf/InputSourcePro)
@@ -214,6 +219,8 @@
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod)
   > Turn your favorite Youtube channels into to podcast in the easiest and elegant way.
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [argus-sight/refund-swatter-lite](https://github.com/argus-sight/refund-swatter-lite)
+  > Refund Swatter Lite significantly reduces malicious refund risks by processing Apple's CONSUMPTION_R...
 
 ### [fynch3r](https://github.com/fynch3r)
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [neovateai/neovate-code](https://github.com/neovateai/neovate-code)
@@ -311,6 +318,10 @@
 - 🌟 👤 [jiqiu2022](https://github.com/jiqiu2022) Starred [sunmh207/AI-Codereview-Gitlab](https://github.com/sunmh207/AI-Codereview-Gitlab)
   > 基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。
 
+### [mo-xiaoxi](https://github.com/mo-xiaoxi)
+- ✨ 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Created new repo [mo-xiaoxi/LLM-First-Dev](https://github.com/mo-xiaoxi/LLM-First-Dev)
+  > 🤖 个人AI编程经验分享 | LLM-First开发实践 | 提示词模板 | Cursor配置  记录AI辅助开发的经验心得、提示词模板和工作流程，涵盖项目全生命周期的AI编程最佳实践。
+
 ### [mstfknn](https://github.com/mstfknn)
 - 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
   > A list of Free Software network services and web applications which can be hosted on your own server...
@@ -322,6 +333,14 @@
 ### [netxfly](https://github.com/netxfly)
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [beam-cloud/beta9](https://github.com/beam-cloud/beta9)
   > Ultrafast serverless GPU inference, sandboxes, and background jobs
+
+### [nex121](https://github.com/nex121)
+- 🌟 👤 [nex121](https://github.com/nex121) Starred [wa1ki0g/NoAuth](https://github.com/wa1ki0g/NoAuth)
+  > java-web 自动化鉴权绕过
+
+### [oblique](https://github.com/oblique)
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [BersisSe/feather](https://github.com/BersisSe/feather)
+  > Feather🪶: A Rust web framework that does not use async 
 
 ### [onesss19](https://github.com/onesss19)
 - 🌟 👤 [onesss19](https://github.com/onesss19) Starred [MaaAssistantArknights/MaaTouch](https://github.com/MaaAssistantArknights/MaaTouch)
@@ -449,6 +468,8 @@
 ### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
 - 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot)
   > 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch...
+- 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [abcz316/android-arm-adb](https://github.com/abcz316/android-arm-adb)
+  > 编译ARM版本的ADB
 
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - ✨ 👤 [yux1azhengye](https://github.com/yux1azhengye) Created new repo [yux1azhengye/exphub](https://github.com/yux1azhengye/exphub)
@@ -472,5 +493,5 @@
 
 
 ---
-*最后更新于 2025-09-29 09:44:22 UTC*
+*最后更新于 2025-09-29 10:25:28 UTC*
 *历史记录保存在 `archive` 目录中。*
