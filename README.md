@@ -78,6 +78,10 @@
 - ✨ 👤 [HanSolo](https://github.com/HanSolo) Created new repo [HanSolo/jdkupdaterfx](https://github.com/HanSolo/jdkupdaterfx)
   > JDKUpdaterFX is a tool to find updates for OpenJDK distributions installed on your machine
 
+### [JasonWei512](https://github.com/JasonWei512)
+- 🌟 👤 [JasonWei512](https://github.com/JasonWei512) Starred [snowmeow2/Blue-arXiv-Theme](https://github.com/snowmeow2/Blue-arXiv-Theme)
+  > Blue theme for arXiv website
+
 ### [Konano](https://github.com/Konano)
 - 🌟 👤 [Konano](https://github.com/Konano) Starred [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp)
 - 🍴 👤 [Konano](https://github.com/Konano) Forked [deepseek-ai/DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) to [Konano/DeepSeek-V3.2-Exp](https://github.com/Konano/DeepSeek-V3.2-Exp)
@@ -95,6 +99,10 @@
 ### [Lakr233](https://github.com/Lakr233)
 - 🍴 👤 [Lakr233](https://github.com/Lakr233) Forked [huggingface/swift-transformers](https://github.com/huggingface/swift-transformers) to [Lakr233/swift-transformers](https://github.com/Lakr233/swift-transformers)
   > Swift Package to implement a transformers-like API in Swift
+
+### [M0Rf30](https://github.com/M0Rf30)
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [runs-on/runs-on](https://github.com/runs-on/runs-on)
+  > Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited cach...
 
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [RuriOSS/rurima-aio](https://github.com/RuriOSS/rurima-aio)
@@ -163,6 +171,10 @@
 ### [WAY29](https://github.com/WAY29)
 - 🌟 👤 [WAY29](https://github.com/WAY29) Starred [miracleEverywhere/dst-management-platform-api](https://github.com/miracleEverywhere/dst-management-platform-api)
   > 饥荒管理平台(DMP)，满足一键开服、玩家管理、房间管理、数据统计、定时任务等功能
+
+### [XayahSuSuSu](https://github.com/XayahSuSuSu)
+- 🌟 👤 [XayahSuSuSu](https://github.com/XayahSuSuSu) Starred [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
+  > More Expressive InstallerX !
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [allthingsida/qscripts](https://github.com/allthingsida/qscripts) to [Ylarod/qscripts](https://github.com/Ylarod/qscripts)
@@ -334,6 +346,12 @@
 ### [jiushill](https://github.com/jiushill)
 - 🌟 👤 [jiushill](https://github.com/jiushill) Starred [whwlsfb/BurpCrypto](https://github.com/whwlsfb/BurpCrypto)
   > BurpCrypto is a collection of burpsuite encryption plug-ins, support AES/RSA/DES/ExecJs(execute JS e...
+- 🌟 👤 [jiushill](https://github.com/jiushill) Starred [duhirsch/MoveEdr](https://github.com/duhirsch/MoveEdr)
+  > Permanently disable EDRs as local admin
+
+### [lemuellew](https://github.com/lemuellew)
+- 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
+  >  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Acceler...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Yeeb1/SockTail](https://github.com/Yeeb1/SockTail)
@@ -356,10 +374,6 @@
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout)
   > jxscout superpowers JavaScript analysis for security researchers
-
-### [netxfly](https://github.com/netxfly)
-- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [beam-cloud/beta9](https://github.com/beam-cloud/beta9)
-  > Ultrafast serverless GPU inference, sandboxes, and background jobs
 
 ### [nex121](https://github.com/nex121)
 - 🌟 👤 [nex121](https://github.com/nex121) Starred [wa1ki0g/NoAuth](https://github.com/wa1ki0g/NoAuth)
@@ -421,17 +435,9 @@
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [nixawk/checksec](https://github.com/nixawk/checksec)
   > A windbg extension for ASLR/DEP/SafeSEH check
 
-### [virjar](https://github.com/virjar)
-- 🌟 👤 [virjar](https://github.com/virjar) Starred [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm)
-  > A course of building an LSM-Tree storage engine (database) in a week.
-
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [PRIV-Creation/UniDiffusion](https://github.com/PRIV-Creation/UniDiffusion)
   > A Diffusion training toolbox based on diffusers and existing SOTA methods, including Dreambooth, Tex...
-
-### [wa1ki0g](https://github.com/wa1ki0g)
-- 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [yangliang1415/awesome-risk-control](https://github.com/yangliang1415/awesome-risk-control)
-  > 风控知识总结
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - ✨ 👤 [wanttobeno](https://github.com/wanttobeno) Created new repo [wanttobeno/RemoteScreenViewer](https://github.com/wanttobeno/RemoteScreenViewer)
@@ -460,12 +466,6 @@
 ### [x-tools-author](https://github.com/x-tools-author)
 - ✨ 👤 [x-tools-author](https://github.com/x-tools-author) Created new repo [x-tools-author/xx-tools](https://github.com/x-tools-author/xx-tools)
   > A sets of debug tools base on Win32++......
-
-### [xiaoweigege](https://github.com/xiaoweigege)
-- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab)
-  > ⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Clou...
-- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-  > 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual...
 
 ### [xinruofuchen](https://github.com/xinruofuchen)
 - 🌟 👤 [xinruofuchen](https://github.com/xinruofuchen) Starred [ylw00/qxVm](https://github.com/ylw00/qxVm)
@@ -513,5 +513,5 @@
 
 
 ---
-*最后更新于 2025-09-29 14:23:28 UTC*
+*最后更新于 2025-09-29 14:44:10 UTC*
 *历史记录保存在 `archive` 目录中。*
