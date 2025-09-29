@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+  > 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at...
+
 ### [Cxk4ng](https://github.com/Cxk4ng)
 - 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide)
   > Hiding kernel-driver for x86/x64.
@@ -117,6 +121,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) to [gmh5225/Paper2Agent](https://github.com/gmh5225/Paper2Agent)
   > Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactiv...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [People-11/FuckGJZS](https://github.com/People-11/FuckGJZS) to [gmh5225/FuckGJZS](https://github.com/gmh5225/FuckGJZS)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Higashi-Masafumi/llm-error-injection](https://github.com/Higashi-Masafumi/llm-error-injection) to [gmh5225/llm-error-injection](https://github.com/gmh5225/llm-error-injection)
+  > inject error in llm computation and eval
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jenhedg/deepseek-chatbot](https://github.com/jenhedg/deepseek-chatbot) to [gmh5225/deepseek-chatbot](https://github.com/gmh5225/deepseek-chatbot)
+  > A simple chatbot app created with Python, Streamlit and DeepSeek-R1-Distill-Qwen-1.5B model
 
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering)
@@ -125,6 +133,10 @@
   >  🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI syste...
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro)
   > Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work...
+
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [github/spec-kit](https://github.com/github/spec-kit)
+  > 💫 Toolkit to help you get started with Spec-Driven Development
 
 ### [imbaya2466](https://github.com/imbaya2466)
 - 🌟 👤 [imbaya2466](https://github.com/imbaya2466) Starred [Yuyz0112/claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse)
@@ -184,6 +196,10 @@
 - 🌟 👤 [suzhelan](https://github.com/suzhelan) Starred [caprica/vlcj](https://github.com/caprica/vlcj)
   > Java framework for the vlc media player
 
+### [swigger](https://github.com/swigger)
+- 🌟 👤 [swigger](https://github.com/swigger) Starred [wiresock/proxifyre](https://github.com/wiresock/proxifyre)
+  > ProxiFyre: A Windows SOCKS5 proxifier leveraging NDISAPI to transparently route TCP and UDP traffic ...
+
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
   > 🔎 Open source distributed and RESTful search engine.
@@ -222,5 +238,5 @@
 
 
 ---
-*最后更新于 2025-09-29 03:51:23 UTC*
+*最后更新于 2025-09-29 04:28:09 UTC*
 *历史记录保存在 `archive` 目录中。*
