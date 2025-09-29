@@ -26,6 +26,10 @@
 - 🌟 👤 [3intermute](https://github.com/3intermute) Starred [linuxmint/timeshift](https://github.com/linuxmint/timeshift)
   > System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshot...
 
+### [AeonLucid](https://github.com/AeonLucid)
+- 🌟 👤 [AeonLucid](https://github.com/AeonLucid) Starred [btbd/access](https://github.com/btbd/access)
+  > Access without a real handle
+
 ### [Asabeneh](https://github.com/Asabeneh)
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [fatiando/verde](https://github.com/fatiando/verde)
   > Processing and gridding spatial data, machine-learning style
@@ -168,10 +172,6 @@
 - 🌟 👤 [ViRb3](https://github.com/ViRb3) Starred [hcloud-k8s/terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes)
   > Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner ...
 
-### [WAY29](https://github.com/WAY29)
-- 🌟 👤 [WAY29](https://github.com/WAY29) Starred [miracleEverywhere/dst-management-platform-api](https://github.com/miracleEverywhere/dst-management-platform-api)
-  > 饥荒管理平台(DMP)，满足一键开服、玩家管理、房间管理、数据统计、定时任务等功能
-
 ### [XayahSuSuSu](https://github.com/XayahSuSuSu)
 - 🌟 👤 [XayahSuSuSu](https://github.com/XayahSuSuSu) Starred [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
   > More Expressive InstallerX !
@@ -187,6 +187,10 @@
 ### [abdihaikal](https://github.com/abdihaikal)
 - 🌟 👤 [abdihaikal](https://github.com/abdihaikal) Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
   > Warp is the agentic development environment, built for coding with multiple AI agents.
+
+### [aistra0528](https://github.com/aistra0528)
+- 🌟 👤 [aistra0528](https://github.com/aistra0528) Starred [aelurum/AssetStudio](https://github.com/aelurum/AssetStudio)
+  > AssetStudioMod - modified version of Perfare's AssetStudio, mainly focused on UI optimization and so...
 
 ### [ander1023](https://github.com/ander1023)
 - 🍴 👤 [ander1023](https://github.com/ander1023) Forked [CrackerCat/SuperWordlist](https://github.com/CrackerCat/SuperWordlist) to [ander1023/SuperWordlist](https://github.com/ander1023/SuperWordlist)
@@ -254,6 +258,8 @@
   > Cache Library for Go
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [catatsuy/purl](https://github.com/catatsuy/purl)
   > Streamlining Text Processing
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [openproxyspace/unfx-proxy-checker](https://github.com/openproxyspace/unfx-proxy-checker)
+  > Unfx Proxy Checker - Powerful proxy checker with huge features and beautiful design. Easy sorting an...
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [theopenco/llmgateway](https://github.com/theopenco/llmgateway)
@@ -283,10 +289,6 @@
   > Neovate Code is a code agent to enhance your development. You can use it to generate code, fix bugs,...
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [trustedsec/ptf](https://github.com/trustedsec/ptf) to [gmh5225/ptf](https://github.com/gmh5225/ptf)
-  > The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [trustedsec/hate_crack](https://github.com/trustedsec/hate_crack) to [gmh5225/hate_crack](https://github.com/gmh5225/hate_crack)
-  > A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) to [gmh5225/Paper2Agent](https://github.com/gmh5225/Paper2Agent)
   > Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactiv...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [People-11/FuckGJZS](https://github.com/People-11/FuckGJZS) to [gmh5225/FuckGJZS](https://github.com/gmh5225/FuckGJZS)
@@ -349,6 +351,10 @@
 - 🌟 👤 [jiushill](https://github.com/jiushill) Starred [duhirsch/MoveEdr](https://github.com/duhirsch/MoveEdr)
   > Permanently disable EDRs as local admin
 
+### [keatonLiu](https://github.com/keatonLiu)
+- 🍴 👤 [keatonLiu](https://github.com/keatonLiu) Forked [rawandahmad698/noble-tls](https://github.com/rawandahmad698/noble-tls) to [keatonLiu/noble-tls](https://github.com/keatonLiu/noble-tls)
+  > TLS-Spoofing HTTP library, based on requests. Automatically updates JA3 fingerprints.
+
 ### [lemuellew](https://github.com/lemuellew)
 - 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
   >  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Acceler...
@@ -374,6 +380,10 @@
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout)
   > jxscout superpowers JavaScript analysis for security researchers
+
+### [nbqofficial](https://github.com/nbqofficial)
+- 🍴 👤 [nbqofficial](https://github.com/nbqofficial) Forked [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) to [nbqofficial/awesome-machine-learning](https://github.com/nbqofficial/awesome-machine-learning)
+  > A curated list of awesome Machine Learning frameworks, libraries and software.
 
 ### [nex121](https://github.com/nex121)
 - 🌟 👤 [nex121](https://github.com/nex121) Starred [wa1ki0g/NoAuth](https://github.com/wa1ki0g/NoAuth)
@@ -481,10 +491,6 @@
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [Canner/WrenAI](https://github.com/Canner/WrenAI)
   > ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-S...
 
-### [y9nhjy](https://github.com/y9nhjy)
-- 🌟 👤 [y9nhjy](https://github.com/y9nhjy) Starred [cutecatsandvirtualmachines/DmaProtect](https://github.com/cutecatsandvirtualmachines/DmaProtect)
-  > Shows an example of how to implement VT-d/AMD-Vi on Windows
-
 ### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
 - 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot)
   > 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch...
@@ -513,5 +519,5 @@
 
 
 ---
-*最后更新于 2025-09-29 14:44:10 UTC*
+*最后更新于 2025-09-29 15:23:51 UTC*
 *历史记录保存在 `archive` 目录中。*
