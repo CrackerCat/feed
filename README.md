@@ -352,10 +352,15 @@
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [dagger/dagger](https://github.com/dagger/dagger)
   > An open-source runtime for composable workflows. Great for AI agents and CI/CD.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [franela/pocketci](https://github.com/franela/pocketci)
+  > A dagger-based portable CI platform
 
 ### [rui314](https://github.com/rui314)
 - 🌟 👤 [rui314](https://github.com/rui314) Starred [StanfordPL/stoke](https://github.com/StanfordPL/stoke)
   > STOKE: A stochastic superoptimizer and program synthesizer
+
+### [sebastien-riou](https://github.com/sebastien-riou)
+- 🌟 👤 [sebastien-riou](https://github.com/sebastien-riou) Starred [vedadux/Three-Stage-AES](https://github.com/vedadux/Three-Stage-AES)
 
 ### [smallzhong](https://github.com/smallzhong)
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [Bitmessage/PyBitmessage](https://github.com/Bitmessage/PyBitmessage) to [smallzhong/PyBitmessage](https://github.com/smallzhong/PyBitmessage)
@@ -441,6 +446,10 @@
 - 🌟 👤 [y9nhjy](https://github.com/y9nhjy) Starred [cutecatsandvirtualmachines/DmaProtect](https://github.com/cutecatsandvirtualmachines/DmaProtect)
   > Shows an example of how to implement VT-d/AMD-Vi on Windows
 
+### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
+- 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot)
+  > 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch...
+
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - ✨ 👤 [yux1azhengye](https://github.com/yux1azhengye) Created new repo [yux1azhengye/exphub](https://github.com/yux1azhengye/exphub)
   > The goal of this project is to integrate more exploits to make it easier for security engineers to u...
@@ -463,5 +472,5 @@
 
 
 ---
-*最后更新于 2025-09-29 09:27:09 UTC*
+*最后更新于 2025-09-29 09:44:22 UTC*
 *历史记录保存在 `archive` 目录中。*
