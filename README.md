@@ -8,10 +8,6 @@
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [hnsecurity/kraken](https://github.com/hnsecurity/kraken) to [0xdea/kraken](https://github.com/0xdea/kraken)
   > Generate a report with charts and statistics about cracked passwords in XLSX format
 
-### [16hex-Dumb](https://github.com/16hex-Dumb)
-- 🌟 👤 [16hex-Dumb](https://github.com/16hex-Dumb) Starred [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection)
-  > A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Prote...
-
 ### [3intermute](https://github.com/3intermute)
 - 🌟 👤 [3intermute](https://github.com/3intermute) Starred [linuxmint/timeshift](https://github.com/linuxmint/timeshift)
   > System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshot...
@@ -114,10 +110,6 @@
 - 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [Shadowth117/DrSwizzler](https://github.com/Shadowth117/DrSwizzler)
   > A library for deswizzling and swizzling texture data for various game consoles.
 
-### [Naville](https://github.com/Naville)
-- 🌟 👤 [Naville](https://github.com/Naville) Starred [open-quantum-safe/oqs-provider](https://github.com/open-quantum-safe/oqs-provider)
-  > OpenSSL 3 provider containing post-quantum algorithms
-
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [huiyadanli/bettergi-map](https://github.com/huiyadanli/bettergi-map)
   > BetterGI·更好的原神 地图路径点位编辑器
@@ -206,13 +198,17 @@
 - 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [Shekswess/tiny-reasoning-language-model](https://github.com/Shekswess/tiny-reasoning-language-model)
   > Code repository dedicated to experimenting and research with tiny reasoning language model
 
+### [cn-kali-team](https://github.com/cn-kali-team)
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [moghtech/komodo](https://github.com/moghtech/komodo)
+  > 🦎 a tool to build and deploy software on many servers 🦎
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [xaitax/Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption)
+  > Fully decrypt App-Bound Encrypted (ABE) cookies, passwords & payment methods from Chromium-based bro...
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [rust-lang/reference](https://github.com/rust-lang/reference)
+  > The Rust Reference
+
 ### [coder-pig](https://github.com/coder-pig)
 - 🌟 👤 [coder-pig](https://github.com/coder-pig) Starred [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router)
   > A Unified MCP Server Management App
-
-### [darbra](https://github.com/darbra)
-- 🌟 👤 [darbra](https://github.com/darbra) Starred [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)
-  > :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 
 ### [darkskygit](https://github.com/darkskygit)
 - 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [frostyplanet/crossfire-rs](https://github.com/frostyplanet/crossfire-rs)
@@ -351,6 +347,8 @@
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)
   > Tongyi Deep Research, the Leading Open-source Deep Research Agent
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [rllm-org/rllm](https://github.com/rllm-org/rllm)
+  > Democratizing Reinforcement Learning for LLMs
 
 ### [m0n0ph1](https://github.com/m0n0ph1)
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [eudoxia0/cmacro](https://github.com/eudoxia0/cmacro)
@@ -412,10 +410,6 @@
 - 🌟 👤 [pengwei1024](https://github.com/pengwei1024) Starred [openatx/uiautomator2](https://github.com/openatx/uiautomator2)
   > Android Uiautomator2 Python Wrapper
 
-### [plusls](https://github.com/plusls)
-- 🌟 👤 [plusls](https://github.com/plusls) Starred [smallkirby/kernelpwn](https://github.com/smallkirby/kernelpwn)
-  > kernel-pwn and writeup collection
-
 ### [pwndorei](https://github.com/pwndorei)
 - 🌟 👤 [pwndorei](https://github.com/pwndorei) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
   > Multi-architecture emulation for the modern era.
@@ -448,9 +442,9 @@
 ### [sebastien-riou](https://github.com/sebastien-riou)
 - 🌟 👤 [sebastien-riou](https://github.com/sebastien-riou) Starred [vedadux/Three-Stage-AES](https://github.com/vedadux/Three-Stage-AES)
 
-### [smallzhong](https://github.com/smallzhong)
-- 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [Bitmessage/PyBitmessage](https://github.com/Bitmessage/PyBitmessage) to [smallzhong/PyBitmessage](https://github.com/smallzhong/PyBitmessage)
-  > Reference client for Bitmessage: a P2P encrypted decentralised communication protocol:
+### [thebabush](https://github.com/thebabush)
+- 🌟 👤 [thebabush](https://github.com/thebabush) Starred [ipetkov/crane](https://github.com/ipetkov/crane)
+  > A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 
 ### [trysec](https://github.com/trysec)
 - ✨ 👤 [trysec](https://github.com/trysec) Created new repo [trysec/scan.php](https://github.com/trysec/scan.php)
@@ -458,6 +452,8 @@
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [yan5xu/ququ](https://github.com/yan5xu/ququ)
   > 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
+- 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy)
+  >  A docker registry proxy run on cloudflare worker.
 
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [slimm609/checksec](https://github.com/slimm609/checksec)
@@ -509,6 +505,10 @@
 - 🍴 👤 [xtiankisutsa](https://github.com/xtiankisutsa) Forked [emproof-com/workshop_firmware_reverse_engineering](https://github.com/emproof-com/workshop_firmware_reverse_engineering) to [xtiankisutsa/workshop_firmware_reverse_engineering](https://github.com/xtiankisutsa/workshop_firmware_reverse_engineering)
   > Workshop on firmware reverse engineering
 
+### [yifengyou](https://github.com/yifengyou)
+- 🌟 👤 [yifengyou](https://github.com/yifengyou) Starred [ise-uiuc/KNighter](https://github.com/ise-uiuc/KNighter)
+  > [SOSP'25] Automatic checker synthesis for system-level static analysis
+
 ### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
 - 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot)
   > 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch...
@@ -518,6 +518,8 @@
 ### [yuan-xy](https://github.com/yuan-xy)
 - 🍴 👤 [yuan-xy](https://github.com/yuan-xy) Forked [tvlad1234/tiny-rv32ima](https://github.com/tvlad1234/tiny-rv32ima) to [yuan-xy/tiny-rv32ima](https://github.com/yuan-xy/tiny-rv32ima)
   > Platform-agnostic Linux-capable RISC-V virtual machine library
+- 🍴 👤 [yuan-xy](https://github.com/yuan-xy) Forked [tvlad1234/linux-ch32v003](https://github.com/tvlad1234/linux-ch32v003) to [yuan-xy/linux-ch32v003](https://github.com/yuan-xy/linux-ch32v003)
+  > Linux on a $0.15 RISC-V microcontroller
 
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - ✨ 👤 [yux1azhengye](https://github.com/yux1azhengye) Created new repo [yux1azhengye/exphub](https://github.com/yux1azhengye/exphub)
@@ -541,5 +543,5 @@
 
 
 ---
-*最后更新于 2025-09-29 21:38:52 UTC*
+*最后更新于 2025-09-29 22:18:34 UTC*
 *历史记录保存在 `archive` 目录中。*
