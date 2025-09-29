@@ -260,10 +260,6 @@
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [alibaba/Logics-Parsing](https://github.com/alibaba/Logics-Parsing)
 
-### [evilzhou](https://github.com/evilzhou)
-- 🌟 👤 [evilzhou](https://github.com/evilzhou) Starred [Magisk-Modules-Alt-Repo/chroot-distro](https://github.com/Magisk-Modules-Alt-Repo/chroot-distro)
-  > Install Gnu/Linux distributions on Android 
-
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [TheMalwareGuardian/Exploit-the-Binary](https://github.com/TheMalwareGuardian/Exploit-the-Binary) to [fengjixuchui/Exploit-the-Binary](https://github.com/fengjixuchui/Exploit-the-Binary)
   > A series of notes for my dear students to get started in the world of binary exploitation.
@@ -295,6 +291,8 @@
   > A silly snake game on the browser URL
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mostlygeek/path.to.sh](https://github.com/mostlygeek/path.to.sh) to [gmh5225/path.to.sh](https://github.com/gmh5225/path.to.sh)
   > make /path/to real.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [rawandahmad698/noble-tls](https://github.com/rawandahmad698/noble-tls) to [gmh5225/noble-tls](https://github.com/gmh5225/noble-tls)
+  > TLS-Spoofing HTTP library, based on requests. Automatically updates JA3 fingerprints.
 
 ### [ha1vk](https://github.com/ha1vk)
 - 🍴 👤 [ha1vk](https://github.com/ha1vk) Forked [herosi/mzip2elf](https://github.com/herosi/mzip2elf) to [ha1vk/mzip2elf](https://github.com/ha1vk/mzip2elf)
@@ -335,6 +333,10 @@
 - ✨ 👤 [jaywcjlove](https://github.com/jaywcjlove) Created new repo [jaywcjlove/video-wallpapers](https://github.com/jaywcjlove/video-wallpapers)
   > Collection of my favorite video wallpapers
 
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [intel/pti-gpu](https://github.com/intel/pti-gpu)
+  > Profiling Tools Interfaces for GPU (PTI for GPU) is a set of Getting Started Documentation and Tools...
+
 ### [jiushill](https://github.com/jiushill)
 - 🌟 👤 [jiushill](https://github.com/jiushill) Starred [whwlsfb/BurpCrypto](https://github.com/whwlsfb/BurpCrypto)
   > BurpCrypto is a collection of burpsuite encryption plug-ins, support AES/RSA/DES/ExecJs(execute JS e...
@@ -356,6 +358,10 @@
   > Translation of cowsay to Common Lisp
 - 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [goranmoomin/cl-cowsay](https://github.com/goranmoomin/cl-cowsay) to [m0n0ph1/cl-cowsay](https://github.com/m0n0ph1/cl-cowsay)
   > Translation of cowsay to Common Lisp
+
+### [marcosd4h](https://github.com/marcosd4h)
+- 🌟 👤 [marcosd4h](https://github.com/marcosd4h) Starred [emproof-com/workshop_firmware_reverse_engineering](https://github.com/emproof-com/workshop_firmware_reverse_engineering)
+  > Workshop on firmware reverse engineering
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Yeeb1/SockTail](https://github.com/Yeeb1/SockTail)
@@ -552,5 +558,5 @@
 
 
 ---
-*最后更新于 2025-09-29 19:18:18 UTC*
+*最后更新于 2025-09-29 19:38:59 UTC*
 *历史记录保存在 `archive` 目录中。*
