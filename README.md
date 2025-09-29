@@ -51,8 +51,6 @@
   > The official binary distribution format for Python
 
 ### [BeneficialCode](https://github.com/BeneficialCode)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
-  > 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at...
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert)
   > Command and Conquer: Red Alert
 
@@ -81,6 +79,7 @@
 ### [GtxFury](https://github.com/GtxFury)
 - 🌟 👤 [GtxFury](https://github.com/GtxFury) Starred [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android)
   > FlyClash Android
+- 🚀 👤 [GtxFury](https://github.com/GtxFury) Made [GtxFury/noneiptv](https://github.com/GtxFury/noneiptv) public
 
 ### [HanSolo](https://github.com/HanSolo)
 - ✨ 👤 [HanSolo](https://github.com/HanSolo) Created new repo [HanSolo/jdkupdaterfx](https://github.com/HanSolo/jdkupdaterfx)
@@ -119,6 +118,10 @@
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [runs-on/runs-on](https://github.com/runs-on/runs-on)
   > Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited cach...
 
+### [MikeWang000000](https://github.com/MikeWang000000)
+- 🌟 👤 [MikeWang000000](https://github.com/MikeWang000000) Starred [mysql/mysql-server](https://github.com/mysql/mysql-server)
+  > MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open so...
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [RuriOSS/rurima-aio](https://github.com/RuriOSS/rurima-aio)
   > (aarch64/src) Binary pack for rurima with dependents
@@ -152,19 +155,10 @@
   > A repository containing datamined data for the game Wuthering Waves
 
 ### [Sec-Fork](https://github.com/Sec-Fork)
-- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401) to [Sec-Fork/CVE-2024-36401](https://github.com/Sec-Fork/CVE-2024-36401)
-  > geoserver图形化漏洞利用工具
-- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) to [Sec-Fork/SUDO_KILLER](https://github.com/Sec-Fork/SUDO_KILLER)
-  > A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like sys...
-- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [winway/domain2IP](https://github.com/winway/domain2IP) to [Sec-Fork/domain2IP](https://github.com/Sec-Fork/domain2IP)
-  > Get the ip set of a domain as many as possible and as soon as possible
 - 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [trustedsec/Titanis](https://github.com/trustedsec/Titanis) to [Sec-Fork/Titanis](https://github.com/Sec-Fork/Titanis)
   > Windows protocol library, including SMB and RPC implementations, among others.
 - 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [1r0BIT/TaskHound](https://github.com/1r0BIT/TaskHound) to [Sec-Fork/TaskHound](https://github.com/Sec-Fork/TaskHound)
   > Tool to enumerate privileged Scheduled Tasks on Remote Systems
-
-### [SeeFlowerX](https://github.com/SeeFlowerX)
-- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [ctrsploit/sploit-spec](https://github.com/ctrsploit/sploit-spec)
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
@@ -227,6 +221,12 @@
 - 🍴 👤 [boy-hack](https://github.com/boy-hack) Forked [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) to [boy-hack/chatgpt-retrieval-plugin](https://github.com/boy-hack/chatgpt-retrieval-plugin)
   > The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in ...
 
+### [byt3n33dl3](https://github.com/byt3n33dl3)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [caido/caido](https://github.com/caido/caido)
+  > 🚀 Caido releases, wiki and roadmap
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [caido/documentation](https://github.com/caido/documentation)
+  > 📙 User documentation for Caido
+
 ### [cg10036](https://github.com/cg10036)
 - ✨ 👤 [cg10036](https://github.com/cg10036) Created new repo [cg10036/discretemath](https://github.com/cg10036/discretemath)
 
@@ -260,21 +260,11 @@
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [alibaba/Logics-Parsing](https://github.com/alibaba/Logics-Parsing)
 
-### [fengjixuchui](https://github.com/fengjixuchui)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [TheMalwareGuardian/Exploit-the-Binary](https://github.com/TheMalwareGuardian/Exploit-the-Binary) to [fengjixuchui/Exploit-the-Binary](https://github.com/fengjixuchui/Exploit-the-Binary)
-  > A series of notes for my dear students to get started in the world of binary exploitation.
-
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [argus-sight/refund-swatter-lite](https://github.com/argus-sight/refund-swatter-lite)
   > Refund Swatter Lite significantly reduces malicious refund risks by processing Apple's CONSUMPTION_R...
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Higashi-Masafumi/llm-error-injection](https://github.com/Higashi-Masafumi/llm-error-injection) to [gmh5225/llm-error-injection](https://github.com/gmh5225/llm-error-injection)
-  > inject error in llm computation and eval
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jenhedg/deepseek-chatbot](https://github.com/jenhedg/deepseek-chatbot) to [gmh5225/deepseek-chatbot](https://github.com/gmh5225/deepseek-chatbot)
-  > A simple chatbot app created with Python, Streamlit and DeepSeek-R1-Distill-Qwen-1.5B model
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0xJs/BYOVD_EDRKiller](https://github.com/0xJs/BYOVD_EDRKiller) to [gmh5225/BYOVD_EDRKiller](https://github.com/gmh5225/BYOVD_EDRKiller)
-  > Proof of Concepts code for Bring Your Own Vulnerable Driver techniques
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [StanfordPL/stoke](https://github.com/StanfordPL/stoke) to [gmh5225/stoke-](https://github.com/gmh5225/stoke-)
   > STOKE: A stochastic superoptimizer and program synthesizer
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [rajtilak-2020/Portfolio-V4](https://github.com/rajtilak-2020/Portfolio-V4) to [gmh5225/Portfolio-V4](https://github.com/gmh5225/Portfolio-V4)
@@ -293,19 +283,54 @@
   > make /path/to real.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [rawandahmad698/noble-tls](https://github.com/rawandahmad698/noble-tls) to [gmh5225/noble-tls](https://github.com/gmh5225/noble-tls)
   > TLS-Spoofing HTTP library, based on requests. Automatically updates JA3 fingerprints.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) to [gmh5225/BotD](https://github.com/gmh5225/BotD)
+  > Bot detection library that runs in the browser. Detects automation tools and frameworks. No server r...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [fingerprintjs/fingerprintjs-pro-server-api-node-sdk](https://github.com/fingerprintjs/fingerprintjs-pro-server-api-node-sdk) to [gmh5225/fingerprintjs-pro-server-api-node-sdk](https://github.com/gmh5225/fingerprintjs-pro-server-api-node-sdk)
+  > Node.js wrapper for FingerprintJS Server API 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [fingerprintjs/fingerprintjs-android](https://github.com/fingerprintjs/fingerprintjs-android) to [gmh5225/fingerprintjs-android](https://github.com/gmh5225/fingerprintjs-android)
+  > Swiss army knife for identifying and fingerprinting Android devices. MIT license, no restrictions on...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [fingerprintjs/fingerprintjs-pro-react](https://github.com/fingerprintjs/fingerprintjs-pro-react) to [gmh5225/fingerprintjs-pro-react](https://github.com/gmh5225/fingerprintjs-pro-react)
+  > Fingerprint Pro Wrapper for React Single Page Applications (SPA)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ioncodes/astro-blog](https://github.com/ioncodes/astro-blog) to [gmh5225/astro-blog](https://github.com/gmh5225/astro-blog)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [YaLTeR/vapoursynth-rs](https://github.com/YaLTeR/vapoursynth-rs) to [gmh5225/vapoursynth-rs](https://github.com/gmh5225/vapoursynth-rs)
+  > A safe Rust wrapper for VapourSynth.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [YaLTeR/SPTLib](https://github.com/YaLTeR/SPTLib) to [gmh5225/SPTLib](https://github.com/gmh5225/SPTLib)
+  > A hooking library used by SPT and Bunnymod XT.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [vially/wayland-explorer](https://github.com/vially/wayland-explorer) to [gmh5225/wayland-explorer](https://github.com/gmh5225/wayland-explorer)
+  > Easily browse and read Wayland protocols documentation
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [YaLTeR/wl-clipboard-rs](https://github.com/YaLTeR/wl-clipboard-rs) to [gmh5225/wl-clipboard-rs](https://github.com/gmh5225/wl-clipboard-rs)
+  > A safe Rust crate for working with the Wayland clipboard.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [YaLTeR/OpenAG](https://github.com/YaLTeR/OpenAG) to [gmh5225/OpenAG](https://github.com/gmh5225/OpenAG)
+  > An open-source reimplementation of Adrenaline Gamer's client library.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [YaLTeR/bxt-rs](https://github.com/YaLTeR/bxt-rs) to [gmh5225/bxt-rs](https://github.com/gmh5225/bxt-rs)
+  > Fastest video recording and TAS tools for Half-Life & mods.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [YaLTeR/BunnymodXT](https://github.com/YaLTeR/BunnymodXT) to [gmh5225/BunnymodXT](https://github.com/gmh5225/BunnymodXT)
+  > Speedrun and TAS tool for Half-Life & friends.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [YaLTeR/tracking-kirin](https://github.com/YaLTeR/tracking-kirin) to [gmh5225/tracking-kirin](https://github.com/gmh5225/tracking-kirin)
+  > Bot for fast osu! and Quaver score tracking.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [YaLTeR/BunnymodXT-Injector](https://github.com/YaLTeR/BunnymodXT-Injector) to [gmh5225/BunnymodXT-Injector](https://github.com/gmh5225/BunnymodXT-Injector)
+  > A small simple injector for Bunnymod XT.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [YaLTeR/circular-queue](https://github.com/YaLTeR/circular-queue) to [gmh5225/circular-queue](https://github.com/gmh5225/circular-queue)
+  > A circular buffer-like queue container.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [luin/readability](https://github.com/luin/readability) to [gmh5225/readability](https://github.com/gmh5225/readability)
+  > 📚 Turn any web page into a clean view
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [jsdom/jsdom](https://github.com/jsdom/jsdom)
+  > A JavaScript implementation of various web standards, for use with Node.js
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jsdom/whatwg-url](https://github.com/jsdom/whatwg-url) to [gmh5225/whatwg-url](https://github.com/gmh5225/whatwg-url)
+  > An implementation of the WHATWG URL Standard in JavaScript
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jsdom/cssstyle](https://github.com/jsdom/cssstyle) to [gmh5225/cssstyle](https://github.com/gmh5225/cssstyle)
+  > A Node.js implementation of the CSS Object Model CSSStyleDeclaration interface
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jsdom/js-symbol-tree](https://github.com/jsdom/js-symbol-tree) to [gmh5225/js-symbol-tree](https://github.com/gmh5225/js-symbol-tree)
+  > Turn any collection of objects into its own efficient tree or linked list using Symbol
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jsdom/webidl2js](https://github.com/jsdom/webidl2js) to [gmh5225/webidl2js](https://github.com/gmh5225/webidl2js)
+  > Auto-generate JS class structures for Web IDL specifications
 
 ### [ha1vk](https://github.com/ha1vk)
 - 🍴 👤 [ha1vk](https://github.com/ha1vk) Forked [herosi/mzip2elf](https://github.com/herosi/mzip2elf) to [ha1vk/mzip2elf](https://github.com/ha1vk/mzip2elf)
 
 ### [hahwul](https://github.com/hahwul)
-- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [yamadashy/repomix](https://github.com/yamadashy/repomix)
-  > 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perf...
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [ksg97031/flipper](https://github.com/ksg97031/flipper)
   > A desktop debugging platform for mobile developers.
-
-### [hhhaiai](https://github.com/hhhaiai)
-- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [github/spec-kit](https://github.com/github/spec-kit)
-  > 💫 Toolkit to help you get started with Spec-Driven Development
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [t0thkr1s/allsafe-android](https://github.com/t0thkr1s/allsafe-android)
@@ -322,16 +347,8 @@
 - 🌟 👤 [idanr1986](https://github.com/idanr1986) Starred [clearbluejar/pyghidra-mcp](https://github.com/clearbluejar/pyghidra-mcp)
   > Python Command-Line Ghidra MCP
 
-### [imbaya2466](https://github.com/imbaya2466)
-- 🌟 👤 [imbaya2466](https://github.com/imbaya2466) Starred [Yuyz0112/claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse)
-  > A Tool to Visualize Claude Code's LLM Interactions
-
 ### [ioncodes](https://github.com/ioncodes)
 - ✨ 👤 [ioncodes](https://github.com/ioncodes) Created new repo [ioncodes/astro-blog](https://github.com/ioncodes/astro-blog)
-
-### [jaywcjlove](https://github.com/jaywcjlove)
-- ✨ 👤 [jaywcjlove](https://github.com/jaywcjlove) Created new repo [jaywcjlove/video-wallpapers](https://github.com/jaywcjlove/video-wallpapers)
-  > Collection of my favorite video wallpapers
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [intel/pti-gpu](https://github.com/intel/pti-gpu)
@@ -419,6 +436,10 @@
 - 🌟 👤 [pwndorei](https://github.com/pwndorei) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
   > Multi-architecture emulation for the modern era.
 
+### [qwq233](https://github.com/qwq233)
+- 🌟 👤 [qwq233](https://github.com/qwq233) Starred [pietro-lopes/AllTheLeaks](https://github.com/pietro-lopes/AllTheLeaks)
+  > This is a Minecraft Mod that patches various memory leaks.
+
 ### [raesene](https://github.com/raesene)
 - 🌟 👤 [raesene](https://github.com/raesene) Starred [user1342/user1342](https://github.com/user1342/user1342)
 
@@ -440,10 +461,6 @@
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [hfiref0x/TDL](https://github.com/hfiref0x/TDL)
   > Driver loader for bypassing Windows x64 Driver Signature Enforcement
 
-### [rui314](https://github.com/rui314)
-- 🌟 👤 [rui314](https://github.com/rui314) Starred [StanfordPL/stoke](https://github.com/StanfordPL/stoke)
-  > STOKE: A stochastic superoptimizer and program synthesizer
-
 ### [sebastien-riou](https://github.com/sebastien-riou)
 - 🌟 👤 [sebastien-riou](https://github.com/sebastien-riou) Starred [vedadux/Three-Stage-AES](https://github.com/vedadux/Three-Stage-AES)
 
@@ -452,13 +469,15 @@
   > Reference client for Bitmessage: a P2P encrypted decentralised communication protocol:
 
 ### [swigger](https://github.com/swigger)
-- 🌟 👤 [swigger](https://github.com/swigger) Starred [wiresock/proxifyre](https://github.com/wiresock/proxifyre)
-  > ProxiFyre: A Windows SOCKS5 proxifier leveraging NDISAPI to transparently route TCP and UDP traffic ...
 - 🍴 👤 [swigger](https://github.com/swigger) Forked [wiresock/proxifyre](https://github.com/wiresock/proxifyre) to [swigger/proxifyre](https://github.com/swigger/proxifyre)
   > ProxiFyre: A Windows SOCKS5 proxifier leveraging NDISAPI to transparently route TCP and UDP traffic ...
 
 ### [trysec](https://github.com/trysec)
 - ✨ 👤 [trysec](https://github.com/trysec) Created new repo [trysec/scan.php](https://github.com/trysec/scan.php)
+
+### [ttttmr](https://github.com/ttttmr)
+- 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [yan5xu/ququ](https://github.com/yan5xu/ququ)
+  > 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
 
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [slimm609/checksec](https://github.com/slimm609/checksec)
@@ -477,14 +496,6 @@
 ### [wh1te4ever](https://github.com/wh1te4ever)
 - 🍴 👤 [wh1te4ever](https://github.com/wh1te4ever) Forked [dualra1n/dualra1n](https://github.com/dualra1n/dualra1n) to [wh1te4ever/dualra1n](https://github.com/wh1te4ever/dualra1n)
   > Dualboot ios 15 and 14 iDevices to 15-13.6
-
-### [wishihab](https://github.com/wishihab)
-- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [go-kratos/blades](https://github.com/go-kratos/blades)
-  > Blades is a Go-based multimodal AI Agent framework.
-- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [go-kratos/kratos](https://github.com/go-kratos/kratos)
-  > Your ultimate Go microservices framework for the cloud-native era.
-- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [cursor/cursor](https://github.com/cursor/cursor)
-  > The AI Code Editor
 
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [simdjson/simdjson](https://github.com/simdjson/simdjson) to [wszqkzqk/simdjson](https://github.com/wszqkzqk/simdjson)
@@ -537,14 +548,6 @@
   > 中国轨道交通数据库（非技术类） - 另一角度看地铁/ Data base of China Rail Transit (Non-tech) - Another view of Rail Transit
 
 ### [zhzyker](https://github.com/zhzyker)
-- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401)
-  > geoserver图形化漏洞利用工具
-- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER)
-  > A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like sys...
-- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [winway/domain2IP](https://github.com/winway/domain2IP)
-  > Get the ip set of a domain as many as possible and as soon as possible
-- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
-  > Windows protocol library, including SMB and RPC implementations, among others.
 - 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [1r0BIT/TaskHound](https://github.com/1r0BIT/TaskHound)
   > Tool to enumerate privileged Scheduled Tasks on Remote Systems
 
@@ -558,5 +561,5 @@
 
 
 ---
-*最后更新于 2025-09-29 19:38:59 UTC*
+*最后更新于 2025-09-29 20:22:08 UTC*
 *历史记录保存在 `archive` 目录中。*
