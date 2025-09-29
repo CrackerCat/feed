@@ -182,6 +182,8 @@
 ### [ViRb3](https://github.com/ViRb3)
 - 🌟 👤 [ViRb3](https://github.com/ViRb3) Starred [hcloud-k8s/terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes)
   > Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner ...
+- 🍴 👤 [ViRb3](https://github.com/ViRb3) Forked [bman46/CTFd-Helm](https://github.com/bman46/CTFd-Helm) to [ViRb3/CTFd-Helm](https://github.com/ViRb3/CTFd-Helm)
+  > A helm chart for CTFd deployments on Kubernetes.
 
 ### [XayahSuSuSu](https://github.com/XayahSuSuSu)
 - 🌟 👤 [XayahSuSuSu](https://github.com/XayahSuSuSu) Starred [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
@@ -225,9 +227,6 @@
 - 🍴 👤 [boy-hack](https://github.com/boy-hack) Forked [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) to [boy-hack/chatgpt-retrieval-plugin](https://github.com/boy-hack/chatgpt-retrieval-plugin)
   > The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in ...
 
-### [byt3n33dl3](https://github.com/byt3n33dl3)
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0x1BE/OSEE-Prep](https://github.com/0x1BE/OSEE-Prep)
-
 ### [cg10036](https://github.com/cg10036)
 - ✨ 👤 [cg10036](https://github.com/cg10036) Created new repo [cg10036/discretemath](https://github.com/cg10036/discretemath)
 
@@ -255,10 +254,6 @@
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [alibaba/Logics-Parsing](https://github.com/alibaba/Logics-Parsing)
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
-- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [catatsuy/cache](https://github.com/catatsuy/cache)
-  > Cache Library for Go
-- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [catatsuy/purl](https://github.com/catatsuy/purl)
-  > Streamlining Text Processing
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [openproxyspace/unfx-proxy-checker](https://github.com/openproxyspace/unfx-proxy-checker)
   > Unfx Proxy Checker - Powerful proxy checker with huge features and beautiful design. Easy sorting an...
 
@@ -266,8 +261,6 @@
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [alibaba/Logics-Parsing](https://github.com/alibaba/Logics-Parsing)
 
 ### [evilzhou](https://github.com/evilzhou)
-- 🌟 👤 [evilzhou](https://github.com/evilzhou) Starred [strace/strace](https://github.com/strace/strace)
-  > strace is a diagnostic, debugging and instructional userspace utility for Linux
 - 🌟 👤 [evilzhou](https://github.com/evilzhou) Starred [Magisk-Modules-Alt-Repo/chroot-distro](https://github.com/Magisk-Modules-Alt-Repo/chroot-distro)
   > Install Gnu/Linux distributions on Android 
 
@@ -280,7 +273,6 @@
   > Refund Swatter Lite significantly reduces malicious refund risks by processing Apple's CONSUMPTION_R...
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [People-11/FuckGJZS](https://github.com/People-11/FuckGJZS) to [gmh5225/FuckGJZS](https://github.com/gmh5225/FuckGJZS)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Higashi-Masafumi/llm-error-injection](https://github.com/Higashi-Masafumi/llm-error-injection) to [gmh5225/llm-error-injection](https://github.com/gmh5225/llm-error-injection)
   > inject error in llm computation and eval
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jenhedg/deepseek-chatbot](https://github.com/jenhedg/deepseek-chatbot) to [gmh5225/deepseek-chatbot](https://github.com/gmh5225/deepseek-chatbot)
@@ -299,6 +291,10 @@
   > Blazing-fast CLI tool for developers to find documentation, code snippets, and answers instantly, on...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sytelus/nanuGPT](https://github.com/sytelus/nanuGPT) to [gmh5225/nanuGPT](https://github.com/gmh5225/nanuGPT)
   > Simple, reliable and well tested training code for quick experiments with transformer based models
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [epidemian/snake](https://github.com/epidemian/snake) to [gmh5225/snake](https://github.com/gmh5225/snake)
+  > A silly snake game on the browser URL
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mostlygeek/path.to.sh](https://github.com/mostlygeek/path.to.sh) to [gmh5225/path.to.sh](https://github.com/gmh5225/path.to.sh)
+  > make /path/to real.
 
 ### [ha1vk](https://github.com/ha1vk)
 - 🍴 👤 [ha1vk](https://github.com/ha1vk) Forked [herosi/mzip2elf](https://github.com/herosi/mzip2elf) to [ha1vk/mzip2elf](https://github.com/ha1vk/mzip2elf)
@@ -306,6 +302,8 @@
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [yamadashy/repomix](https://github.com/yamadashy/repomix)
   > 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perf...
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [ksg97031/flipper](https://github.com/ksg97031/flipper)
+  > A desktop debugging platform for mobile developers.
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [github/spec-kit](https://github.com/github/spec-kit)
@@ -330,6 +328,9 @@
 - 🌟 👤 [imbaya2466](https://github.com/imbaya2466) Starred [Yuyz0112/claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse)
   > A Tool to Visualize Claude Code's LLM Interactions
 
+### [ioncodes](https://github.com/ioncodes)
+- ✨ 👤 [ioncodes](https://github.com/ioncodes) Created new repo [ioncodes/astro-blog](https://github.com/ioncodes/astro-blog)
+
 ### [jaywcjlove](https://github.com/jaywcjlove)
 - ✨ 👤 [jaywcjlove](https://github.com/jaywcjlove) Created new repo [jaywcjlove/video-wallpapers](https://github.com/jaywcjlove/video-wallpapers)
   > Collection of my favorite video wallpapers
@@ -347,6 +348,14 @@
 ### [lemuellew](https://github.com/lemuellew)
 - 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
   >  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Acceler...
+
+### [m0n0ph1](https://github.com/m0n0ph1)
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [eudoxia0/cmacro](https://github.com/eudoxia0/cmacro)
+  > Lisp macros for C
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [goranmoomin/cl-cowsay](https://github.com/goranmoomin/cl-cowsay)
+  > Translation of cowsay to Common Lisp
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [goranmoomin/cl-cowsay](https://github.com/goranmoomin/cl-cowsay) to [m0n0ph1/cl-cowsay](https://github.com/m0n0ph1/cl-cowsay)
+  > Translation of cowsay to Common Lisp
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Yeeb1/SockTail](https://github.com/Yeeb1/SockTail)
@@ -404,9 +413,8 @@
 - 🌟 👤 [pwndorei](https://github.com/pwndorei) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
   > Multi-architecture emulation for the modern era.
 
-### [qi4L](https://github.com/qi4L)
-- 🌟 👤 [qi4L](https://github.com/qi4L) Starred [keecth/FakeCryptoJS](https://github.com/keecth/FakeCryptoJS)
-  > CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位置(无视混淆)。SRC和常规渗透神器
+### [raesene](https://github.com/raesene)
+- 🌟 👤 [raesene](https://github.com/raesene) Starred [user1342/user1342](https://github.com/user1342/user1342)
 
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity) to [rankalpha/Singularity](https://github.com/rankalpha/Singularity)
@@ -500,6 +508,10 @@
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [chenningling/Redbook-Search-Comment-MCP2.0](https://github.com/chenningling/Redbook-Search-Comment-MCP2.0)
   > 这是一款基于 Playwright 开发的小红书自动搜索和评论工具，作为 MCP Server，可通过特定配置接入 MCP Client（如Claude for Desktop），帮助用户自动完成登录...
 
+### [xtiankisutsa](https://github.com/xtiankisutsa)
+- 🍴 👤 [xtiankisutsa](https://github.com/xtiankisutsa) Forked [emproof-com/workshop_firmware_reverse_engineering](https://github.com/emproof-com/workshop_firmware_reverse_engineering) to [xtiankisutsa/workshop_firmware_reverse_engineering](https://github.com/xtiankisutsa/workshop_firmware_reverse_engineering)
+  > Workshop on firmware reverse engineering
+
 ### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
 - 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot)
   > 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch...
@@ -540,5 +552,5 @@
 
 
 ---
-*最后更新于 2025-09-29 18:33:15 UTC*
+*最后更新于 2025-09-29 19:18:18 UTC*
 *历史记录保存在 `archive` 目录中。*
