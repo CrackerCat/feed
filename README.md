@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [hnsecurity/kraken](https://github.com/hnsecurity/kraken) to [0xdea/kraken](https://github.com/0xdea/kraken)
+  > Generate a report with charts and statistics about cracked passwords in XLSX format
+
 ### [0xricksanchez](https://github.com/0xricksanchez)
 - 🌟 👤 [0xricksanchez](https://github.com/0xricksanchez) Starred [JakWai01/lurk](https://github.com/JakWai01/lurk)
   > A pretty (simple) alternative to strace
@@ -19,6 +23,8 @@
 ### [3intermute](https://github.com/3intermute)
 - 🌟 👤 [3intermute](https://github.com/3intermute) Starred [d4rksystem/VBoxCloak](https://github.com/d4rksystem/VBoxCloak)
   > A PowerShell script that attempts to help malware analysts hide their Windows VirtualBox Windows VM'...
+- 🌟 👤 [3intermute](https://github.com/3intermute) Starred [linuxmint/timeshift](https://github.com/linuxmint/timeshift)
+  > System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshot...
 
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
@@ -68,6 +74,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector)
   > 一个自定义注入so的脚手架,现在已经支持了界面化使用。
 
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [RuriOSS/rurima-aio](https://github.com/RuriOSS/rurima-aio)
+  > (aarch64/src) Binary pack for rurima with dependents
+
 ### [MrIkso](https://github.com/MrIkso)
 - 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [FanTranslatorsInternational/Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2)
   > Kuriimu is a general purpose game translation project manager and toolkit for authors of fan transla...
@@ -79,6 +89,12 @@
 ### [Ridter](https://github.com/Ridter)
 - 🍴 👤 [Ridter](https://github.com/Ridter) Forked [NPC2000/elf_to_shellcode](https://github.com/NPC2000/elf_to_shellcode) to [Ridter/elf_to_shellcode](https://github.com/Ridter/elf_to_shellcode)
   > 将任何 elf 或命令转换为 shellcode
+
+### [Ryuchen](https://github.com/Ryuchen)
+- 🌟 👤 [Ryuchen](https://github.com/Ryuchen) Starred [alt3ri/WW_Asset](https://github.com/alt3ri/WW_Asset)
+  > advanced one
+- 🌟 👤 [Ryuchen](https://github.com/Ryuchen) Starred [Arikatsu/WutheringWaves_Data](https://github.com/Arikatsu/WutheringWaves_Data)
+  > A repository containing datamined data for the game Wuthering Waves
 
 ### [Sec-Fork](https://github.com/Sec-Fork)
 - 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401) to [Sec-Fork/CVE-2024-36401](https://github.com/Sec-Fork/CVE-2024-36401)
@@ -102,6 +118,10 @@
 ### [Smooth-E](https://github.com/Smooth-E)
 - 🌟 👤 [Smooth-E](https://github.com/Smooth-E) Starred [maksimowiczm/FoodYou](https://github.com/maksimowiczm/FoodYou)
   > A free, open-source, and privacy-focused food diary and nutrition tracker
+
+### [Udyz](https://github.com/Udyz)
+- ✨ 👤 [Udyz](https://github.com/Udyz) Created new repo [Udyz/wplace-griefer-monitor](https://github.com/Udyz/wplace-griefer-monitor)
+  > Monitoring and detecting griefering on WPlace
 
 ### [WAY29](https://github.com/WAY29)
 - 🌟 👤 [WAY29](https://github.com/WAY29) Starred [miracleEverywhere/dst-management-platform-api](https://github.com/miracleEverywhere/dst-management-platform-api)
@@ -135,6 +155,14 @@
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)
   > 🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various appl...
+
+### [chenjiandongx](https://github.com/chenjiandongx)
+- 🌟 👤 [chenjiandongx](https://github.com/chenjiandongx) Starred [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide)
+  > Site Reliability Engineer Interview Preparation Guide
+
+### [chizhanyuefeng](https://github.com/chizhanyuefeng)
+- 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [Shekswess/tiny-reasoning-language-model](https://github.com/Shekswess/tiny-reasoning-language-model)
+  > Code repository dedicated to experimenting and research with tiny reasoning language model
 
 ### [daisixuan](https://github.com/daisixuan)
 - 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [yuchuangu85/Android_Framework_Source](https://github.com/yuchuangu85/Android_Framework_Source)
@@ -280,6 +308,10 @@
 - 🌟 👤 [jiqiu2022](https://github.com/jiqiu2022) Starred [sunmh207/AI-Codereview-Gitlab](https://github.com/sunmh207/AI-Codereview-Gitlab)
   > 基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。
 
+### [mstfknn](https://github.com/mstfknn)
+- 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  > A list of Free Software network services and web applications which can be hosted on your own server...
+
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout)
   > jxscout superpowers JavaScript analysis for security researchers
@@ -352,6 +384,14 @@
 - 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [yangliang1415/awesome-risk-control](https://github.com/yangliang1415/awesome-risk-control)
   > 风控知识总结
 
+### [weizhiao](https://github.com/weizhiao)
+- 🌟 👤 [weizhiao](https://github.com/weizhiao) Starred [rui314/mold](https://github.com/rui314/mold)
+  > mold: A Modern Linker 🦠
+
+### [wh1te4ever](https://github.com/wh1te4ever)
+- 🍴 👤 [wh1te4ever](https://github.com/wh1te4ever) Forked [dualra1n/dualra1n](https://github.com/dualra1n/dualra1n) to [wh1te4ever/dualra1n](https://github.com/wh1te4ever/dualra1n)
+  > Dualboot ios 15 and 14 iDevices to 15-13.6
+
 ### [wishihab](https://github.com/wishihab)
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [go-kratos/blades](https://github.com/go-kratos/blades)
   > Blades is a Go-based multimodal AI Agent framework.
@@ -379,6 +419,8 @@
   > Stochastic Parameter Decomposition
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [goodfire-ai/goodfire-sdk](https://github.com/goodfire-ai/goodfire-sdk)
   > Ember is a hosted API/SDK that lets you shape AI model behavior by directly controlling a model's in...
+- 🌟 👤 [xsser](https://github.com/xsser) Starred [goodfire-ai/hackathon-gpt-oss-interpretability](https://github.com/goodfire-ai/hackathon-gpt-oss-interpretability)
+- 🌟 👤 [xsser](https://github.com/xsser) Starred [openai/automated-interpretability](https://github.com/openai/automated-interpretability)
 
 ### [y9nhjy](https://github.com/y9nhjy)
 - 🌟 👤 [y9nhjy](https://github.com/y9nhjy) Starred [cutecatsandvirtualmachines/DmaProtect](https://github.com/cutecatsandvirtualmachines/DmaProtect)
@@ -402,5 +444,5 @@
 
 
 ---
-*最后更新于 2025-09-29 07:41:01 UTC*
+*最后更新于 2025-09-29 08:33:29 UTC*
 *历史记录保存在 `archive` 目录中。*
