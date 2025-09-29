@@ -8,21 +8,11 @@
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [hnsecurity/kraken](https://github.com/hnsecurity/kraken) to [0xdea/kraken](https://github.com/0xdea/kraken)
   > Generate a report with charts and statistics about cracked passwords in XLSX format
 
-### [0xricksanchez](https://github.com/0xricksanchez)
-- 🌟 👤 [0xricksanchez](https://github.com/0xricksanchez) Starred [JakWai01/lurk](https://github.com/JakWai01/lurk)
-  > A pretty (simple) alternative to strace
-
 ### [16hex-Dumb](https://github.com/16hex-Dumb)
 - 🌟 👤 [16hex-Dumb](https://github.com/16hex-Dumb) Starred [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection)
   > A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Prote...
 
-### [34306](https://github.com/34306)
-- 🌟 👤 [34306](https://github.com/34306) Starred [khanhduytran0/Sim26Booter](https://github.com/khanhduytran0/Sim26Booter)
-  > Attempt to boot iOS 26 simulator on iOS 16 (WIP)
-
 ### [3intermute](https://github.com/3intermute)
-- 🌟 👤 [3intermute](https://github.com/3intermute) Starred [d4rksystem/VBoxCloak](https://github.com/d4rksystem/VBoxCloak)
-  > A PowerShell script that attempts to help malware analysts hide their Windows VirtualBox Windows VM'...
 - 🌟 👤 [3intermute](https://github.com/3intermute) Starred [linuxmint/timeshift](https://github.com/linuxmint/timeshift)
   > System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshot...
 
@@ -58,13 +48,7 @@
 - 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)
   > Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management...
 
-### [CyberCraftsmanx](https://github.com/CyberCraftsmanx)
-- 🌟 👤 [CyberCraftsmanx](https://github.com/CyberCraftsmanx) Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
-  > A terminal for a more modern age
-
 ### [EkiXu](https://github.com/EkiXu)
-- 🍴 👤 [EkiXu](https://github.com/EkiXu) Forked [is-a-dev/register](https://github.com/is-a-dev/register) to [EkiXu/is-dev-register](https://github.com/EkiXu/is-dev-register)
-  > Grab your own sweet-looking '.is-a.dev' subdomain.
 - 🍴 👤 [EkiXu](https://github.com/EkiXu) Forked [is-a-good-dev/register](https://github.com/is-a-good-dev/register) to [EkiXu/register-is-a-good-dev](https://github.com/EkiXu/register-is-a-good-dev)
   > Register for your is-a-good.dev domain!
 
@@ -131,14 +115,18 @@
   > 👨‍💻 Python cleanup script for macOS
 
 ### [MrIkso](https://github.com/MrIkso)
-- 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [FanTranslatorsInternational/Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2)
-  > Kuriimu is a general purpose game translation project manager and toolkit for authors of fan transla...
 - 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [Shadowth117/DrSwizzler](https://github.com/Shadowth117/DrSwizzler)
   > A library for deswizzling and swizzling texture data for various game consoles.
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [open-quantum-safe/oqs-provider](https://github.com/open-quantum-safe/oqs-provider)
   > OpenSSL 3 provider containing post-quantum algorithms
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [huiyadanli/bettergi-map](https://github.com/huiyadanli/bettergi-map)
+  > BetterGI·更好的原神 地图路径点位编辑器
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [huiyadanli/bettergi-map](https://github.com/huiyadanli/bettergi-map) to [NyaMisty/bettergi-map](https://github.com/NyaMisty/bettergi-map)
+  > BetterGI·更好的原神 地图路径点位编辑器
 
 ### [Ridter](https://github.com/Ridter)
 - 🍴 👤 [Ridter](https://github.com/Ridter) Forked [NPC2000/elf_to_shellcode](https://github.com/NPC2000/elf_to_shellcode) to [Ridter/elf_to_shellcode](https://github.com/Ridter/elf_to_shellcode)
@@ -153,12 +141,6 @@
   > advanced one
 - 🌟 👤 [Ryuchen](https://github.com/Ryuchen) Starred [Arikatsu/WutheringWaves_Data](https://github.com/Arikatsu/WutheringWaves_Data)
   > A repository containing datamined data for the game Wuthering Waves
-
-### [Sec-Fork](https://github.com/Sec-Fork)
-- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [trustedsec/Titanis](https://github.com/trustedsec/Titanis) to [Sec-Fork/Titanis](https://github.com/Sec-Fork/Titanis)
-  > Windows protocol library, including SMB and RPC implementations, among others.
-- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [1r0BIT/TaskHound](https://github.com/1r0BIT/TaskHound) to [Sec-Fork/TaskHound](https://github.com/Sec-Fork/TaskHound)
-  > Tool to enumerate privileged Scheduled Tasks on Remote Systems
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
@@ -195,19 +177,9 @@
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [claffin/cloudproxy](https://github.com/claffin/cloudproxy)
   > Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to ...
 
-### [abdihaikal](https://github.com/abdihaikal)
-- 🌟 👤 [abdihaikal](https://github.com/abdihaikal) Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-  > Warp is the agentic development environment, built for coding with multiple AI agents.
-
 ### [aistra0528](https://github.com/aistra0528)
 - 🌟 👤 [aistra0528](https://github.com/aistra0528) Starred [aelurum/AssetStudio](https://github.com/aelurum/AssetStudio)
   > AssetStudioMod - modified version of Perfare's AssetStudio, mainly focused on UI optimization and so...
-
-### [ant4g0nist](https://github.com/ant4g0nist)
-- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [b1n4r1b01/n-days](https://github.com/b1n4r1b01/n-days)
-
-### [b1gcat](https://github.com/b1gcat)
-- ✨ 👤 [b1gcat](https://github.com/b1gcat) Created new repo [b1gcat/ATT.CK-mcp](https://github.com/b1gcat/ATT.CK-mcp)
 
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [jd-opensource/JoySafety](https://github.com/jd-opensource/JoySafety)
@@ -265,8 +237,6 @@
   > Refund Swatter Lite significantly reduces malicious refund risks by processing Apple's CONSUMPTION_R...
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [StanfordPL/stoke](https://github.com/StanfordPL/stoke) to [gmh5225/stoke-](https://github.com/gmh5225/stoke-)
-  > STOKE: A stochastic superoptimizer and program synthesizer
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [rajtilak-2020/Portfolio-V4](https://github.com/rajtilak-2020/Portfolio-V4) to [gmh5225/Portfolio-V4](https://github.com/gmh5225/Portfolio-V4)
   > This is my personal developer portfolio built with Next.js 14, Tailwind CSS, ShadCN/UI, and MDX. It ...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) to [gmh5225/MobileAgent](https://github.com/gmh5225/MobileAgent)
@@ -324,6 +294,20 @@
   > Turn any collection of objects into its own efficient tree or linked list using Symbol
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jsdom/webidl2js](https://github.com/jsdom/webidl2js) to [gmh5225/webidl2js](https://github.com/gmh5225/webidl2js)
   > Auto-generate JS class structures for Web IDL specifications
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [rstacruz/jsdom-global](https://github.com/rstacruz/jsdom-global) to [gmh5225/jsdom-global](https://github.com/gmh5225/jsdom-global)
+  > Enable DOM in Node.js
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [rstacruz/mocha-jsdom](https://github.com/rstacruz/mocha-jsdom) to [gmh5225/mocha-jsdom](https://github.com/gmh5225/mocha-jsdom)
+  > Simple jsdom integration with mocha
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jesstelford/react-testing-mocha-jsdom](https://github.com/jesstelford/react-testing-mocha-jsdom) to [gmh5225/react-testing-mocha-jsdom](https://github.com/gmh5225/react-testing-mocha-jsdom)
+  > Unit testing React Components with Mocha + jsdom
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [teal33t/captcha_bypass](https://github.com/teal33t/captcha_bypass) to [gmh5225/captcha_bypass](https://github.com/gmh5225/captcha_bypass)
+  > Captcha bypassing methods for Selenium
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nomad-xyz/nft-server](https://github.com/nomad-xyz/nft-server) to [gmh5225/nft-server](https://github.com/gmh5225/nft-server)
+  > Simple rust library for NFT metadata w/ an easy server
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nomad-xyz/gelato-sdk](https://github.com/nomad-xyz/gelato-sdk) to [gmh5225/gelato-sdk](https://github.com/gmh5225/gelato-sdk)
+  > a rust SDK for the gelato relay, using ethers-rs
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nomad-xyz/hack-data](https://github.com/nomad-xyz/hack-data) to [gmh5225/hack-data](https://github.com/gmh5225/hack-data)
+  > Data pertaining to the Nomad Bridge Hack
 
 ### [ha1vk](https://github.com/ha1vk)
 - 🍴 👤 [ha1vk](https://github.com/ha1vk) Forked [herosi/mzip2elf](https://github.com/herosi/mzip2elf) to [ha1vk/mzip2elf](https://github.com/ha1vk/mzip2elf)
@@ -349,6 +333,10 @@
 
 ### [ioncodes](https://github.com/ioncodes)
 - ✨ 👤 [ioncodes](https://github.com/ioncodes) Created new repo [ioncodes/astro-blog](https://github.com/ioncodes/astro-blog)
+
+### [jaywcjlove](https://github.com/jaywcjlove)
+- ✨ 👤 [jaywcjlove](https://github.com/jaywcjlove) Created new repo [jaywcjlove/SystemSettings-for-MacOS](https://github.com/jaywcjlove/SystemSettings-for-MacOS)
+  > Navigating System Prefences/Settings on macOS
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [intel/pti-gpu](https://github.com/intel/pti-gpu)
@@ -468,10 +456,6 @@
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [Bitmessage/PyBitmessage](https://github.com/Bitmessage/PyBitmessage) to [smallzhong/PyBitmessage](https://github.com/smallzhong/PyBitmessage)
   > Reference client for Bitmessage: a P2P encrypted decentralised communication protocol:
 
-### [swigger](https://github.com/swigger)
-- 🍴 👤 [swigger](https://github.com/swigger) Forked [wiresock/proxifyre](https://github.com/wiresock/proxifyre) to [swigger/proxifyre](https://github.com/swigger/proxifyre)
-  > ProxiFyre: A Windows SOCKS5 proxifier leveraging NDISAPI to transparently route TCP and UDP traffic ...
-
 ### [trysec](https://github.com/trysec)
 - ✨ 👤 [trysec](https://github.com/trysec) Created new repo [trysec/scan.php](https://github.com/trysec/scan.php)
 
@@ -547,13 +531,11 @@
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [Ivysauro/CNRT](https://github.com/Ivysauro/CNRT)
   > 中国轨道交通数据库（非技术类） - 另一角度看地铁/ Data base of China Rail Transit (Non-tech) - Another view of Rail Transit
 
-### [zhzyker](https://github.com/zhzyker)
-- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [1r0BIT/TaskHound](https://github.com/1r0BIT/TaskHound)
-  > Tool to enumerate privileged Scheduled Tasks on Remote Systems
-
 ### [zinja-coder](https://github.com/zinja-coder)
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [merbanan/rtl_433](https://github.com/merbanan/rtl_433)
   > Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [therealsaumil/static-arm-bins](https://github.com/therealsaumil/static-arm-bins)
+  > Statically compiled ARM binaries for debugging and runtime analysis
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [astral-sh/ty](https://github.com/astral-sh/ty)
@@ -561,5 +543,5 @@
 
 
 ---
-*最后更新于 2025-09-29 20:22:08 UTC*
+*最后更新于 2025-09-29 20:40:23 UTC*
 *历史记录保存在 `archive` 目录中。*
