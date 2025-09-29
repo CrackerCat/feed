@@ -45,6 +45,8 @@
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
   > 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at...
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert)
+  > Command and Conquer: Red Alert
 
 ### [Cossack9989](https://github.com/Cossack9989)
 - 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)
@@ -153,6 +155,10 @@
 - ✨ 👤 [Udyz](https://github.com/Udyz) Created new repo [Udyz/wplace-griefer-monitor](https://github.com/Udyz/wplace-griefer-monitor)
   > Monitoring and detecting griefering on WPlace
 - ✨ 👤 [Udyz](https://github.com/Udyz) Created new repo [Udyz/wplacer](https://github.com/Udyz/wplacer)
+
+### [ViRb3](https://github.com/ViRb3)
+- 🌟 👤 [ViRb3](https://github.com/ViRb3) Starred [hcloud-k8s/terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes)
+  > Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner ...
 
 ### [WAY29](https://github.com/WAY29)
 - 🌟 👤 [WAY29](https://github.com/WAY29) Starred [miracleEverywhere/dst-management-platform-api](https://github.com/miracleEverywhere/dst-management-platform-api)
@@ -265,10 +271,6 @@
   > Neovate Code is a code agent to enhance your development. You can use it to generate code, fix bugs,...
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [zkpassport/noir_rs](https://github.com/zkpassport/noir_rs) to [gmh5225/noir_rs](https://github.com/gmh5225/noir_rs)
-  > Rust crate to generate and verify proofs for Noir circuits
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [msylvester/embedding_search](https://github.com/msylvester/embedding_search) to [gmh5225/embedding_search](https://github.com/gmh5225/embedding_search)
-  > here is the repo for the embeddings created by claude code and the article https://blog.wilsonl.in/s...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [trustedsec/ptf](https://github.com/trustedsec/ptf) to [gmh5225/ptf](https://github.com/gmh5225/ptf)
   > The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [trustedsec/hate_crack](https://github.com/trustedsec/hate_crack) to [gmh5225/hate_crack](https://github.com/gmh5225/hate_crack)
@@ -332,6 +334,10 @@
 ### [jiushill](https://github.com/jiushill)
 - 🌟 👤 [jiushill](https://github.com/jiushill) Starred [whwlsfb/BurpCrypto](https://github.com/whwlsfb/BurpCrypto)
   > BurpCrypto is a collection of burpsuite encryption plug-ins, support AES/RSA/DES/ExecJs(execute JS e...
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Yeeb1/SockTail](https://github.com/Yeeb1/SockTail)
+  > Lightweight binary that joins a device to a Tailscale network and exposes a local SOCKS5 proxy. Desi...
 
 ### [mo-xiaoxi](https://github.com/mo-xiaoxi)
 - ✨ 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Created new repo [mo-xiaoxi/LLM-First-Dev](https://github.com/mo-xiaoxi/LLM-First-Dev)
@@ -406,6 +412,9 @@
 - 🍴 👤 [swigger](https://github.com/swigger) Forked [wiresock/proxifyre](https://github.com/wiresock/proxifyre) to [swigger/proxifyre](https://github.com/swigger/proxifyre)
   > ProxiFyre: A Windows SOCKS5 proxifier leveraging NDISAPI to transparently route TCP and UDP traffic ...
 
+### [trysec](https://github.com/trysec)
+- ✨ 👤 [trysec](https://github.com/trysec) Created new repo [trysec/scan.php](https://github.com/trysec/scan.php)
+
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [slimm609/checksec](https://github.com/slimm609/checksec)
   > Checksec
@@ -417,16 +426,10 @@
   > A course of building an LSM-Tree storage engine (database) in a week.
 
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [pydn/ComfyUI-to-Python-Extension](https://github.com/pydn/ComfyUI-to-Python-Extension)
-  > A powerful tool that translates ComfyUI workflows into executable Python code.
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [yolain/ComfyUI-Easy-Use](https://github.com/yolain/ComfyUI-Easy-Use)
-  > In order to make it easier to use the ComfyUI, I have made some optimizations and integrations to so...
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [PRIV-Creation/UniDiffusion](https://github.com/PRIV-Creation/UniDiffusion)
   > A Diffusion training toolbox based on diffusers and existing SOTA methods, including Dreambooth, Tex...
 
 ### [wa1ki0g](https://github.com/wa1ki0g)
-- 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [momosecurity/aswan](https://github.com/momosecurity/aswan)
-  > 陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
 - 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [yangliang1415/awesome-risk-control](https://github.com/yangliang1415/awesome-risk-control)
   > 风控知识总结
 
@@ -450,15 +453,15 @@
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [cursor/cursor](https://github.com/cursor/cursor)
   > The AI Code Editor
 
+### [x-Ai](https://github.com/x-Ai)
+- 🍴 👤 [x-Ai](https://github.com/x-Ai) Forked [synfron/ReshaperForBurp](https://github.com/synfron/ReshaperForBurp) to [x-Ai/ReshaperForBurp](https://github.com/x-Ai/ReshaperForBurp)
+  > Burp Suite Extension - Trigger actions and reshape HTTP request/response and WebSocket traffic using...
+
 ### [x-tools-author](https://github.com/x-tools-author)
 - ✨ 👤 [x-tools-author](https://github.com/x-tools-author) Created new repo [x-tools-author/xx-tools](https://github.com/x-tools-author/xx-tools)
   > A sets of debug tools base on Win32++......
 
 ### [xiaoweigege](https://github.com/xiaoweigege)
-- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
-  > Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎...
-- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
-  > The Fully Customizable Desktop Environment for Windows 10/11.
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab)
   > ⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Clou...
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
@@ -510,5 +513,5 @@
 
 
 ---
-*最后更新于 2025-09-29 13:32:55 UTC*
+*最后更新于 2025-09-29 14:23:28 UTC*
 *历史记录保存在 `archive` 目录中。*
