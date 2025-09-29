@@ -133,6 +133,10 @@
 - 🌟 👤 [Smooth-E](https://github.com/Smooth-E) Starred [maksimowiczm/FoodYou](https://github.com/maksimowiczm/FoodYou)
   > A free, open-source, and privacy-focused food diary and nutrition tracker
 
+### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
+- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
+  > LKM rootkit for modern kernels (6x)
+
 ### [TartanLlama](https://github.com/TartanLlama)
 - 🍴 👤 [TartanLlama](https://github.com/TartanLlama) Forked [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) to [TartanLlama/wasmtime](https://github.com/TartanLlama/wasmtime)
   > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
@@ -175,6 +179,10 @@
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [jd-opensource/JoySafety](https://github.com/jd-opensource/JoySafety)
   > JoySafety
+
+### [boy-hack](https://github.com/boy-hack)
+- 🍴 👤 [boy-hack](https://github.com/boy-hack) Forked [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) to [boy-hack/chatgpt-retrieval-plugin](https://github.com/boy-hack/chatgpt-retrieval-plugin)
+  > The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in ...
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0x1BE/OSEE-Prep](https://github.com/0x1BE/OSEE-Prep)
@@ -341,6 +349,10 @@
 - 🌟 👤 [jiqiu2022](https://github.com/jiqiu2022) Starred [sunmh207/AI-Codereview-Gitlab](https://github.com/sunmh207/AI-Codereview-Gitlab)
   > 基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。
 
+### [jiushill](https://github.com/jiushill)
+- 🌟 👤 [jiushill](https://github.com/jiushill) Starred [whwlsfb/BurpCrypto](https://github.com/whwlsfb/BurpCrypto)
+  > BurpCrypto is a collection of burpsuite encryption plug-ins, support AES/RSA/DES/ExecJs(execute JS e...
+
 ### [mo-xiaoxi](https://github.com/mo-xiaoxi)
 - ✨ 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Created new repo [mo-xiaoxi/LLM-First-Dev](https://github.com/mo-xiaoxi/LLM-First-Dev)
   > 🤖 个人AI编程经验分享 | LLM-First开发实践 | 提示词模板 | Cursor配置  记录AI辅助开发的经验心得、提示词模板和工作流程，涵盖项目全生命周期的AI编程最佳实践。
@@ -372,6 +384,8 @@
 ### [pengwei1024](https://github.com/pengwei1024)
 - 🌟 👤 [pengwei1024](https://github.com/pengwei1024) Starred [Intellindust-AI-Lab/DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2)
   > [DEIMv2] Real Time Object Detection Meets DINOv3 
+- 🌟 👤 [pengwei1024](https://github.com/pengwei1024) Starred [openatx/uiautomator2](https://github.com/openatx/uiautomator2)
+  > Android Uiautomator2 Python Wrapper
 
 ### [plusls](https://github.com/plusls)
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [smallkirby/kernelpwn](https://github.com/smallkirby/kernelpwn)
@@ -487,6 +501,8 @@
   > Ember is a hosted API/SDK that lets you shape AI model behavior by directly controlling a model's in...
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [goodfire-ai/hackathon-gpt-oss-interpretability](https://github.com/goodfire-ai/hackathon-gpt-oss-interpretability)
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [openai/automated-interpretability](https://github.com/openai/automated-interpretability)
+- 🌟 👤 [xsser](https://github.com/xsser) Starred [Canner/WrenAI](https://github.com/Canner/WrenAI)
+  > ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-S...
 
 ### [y9nhjy](https://github.com/y9nhjy)
 - 🌟 👤 [y9nhjy](https://github.com/y9nhjy) Starred [cutecatsandvirtualmachines/DmaProtect](https://github.com/cutecatsandvirtualmachines/DmaProtect)
@@ -520,5 +536,5 @@
 
 
 ---
-*最后更新于 2025-09-29 11:19:02 UTC*
+*最后更新于 2025-09-29 11:39:41 UTC*
 *历史记录保存在 `archive` 目录中。*
