@@ -30,11 +30,15 @@
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [kweatherman/yara4ida](https://github.com/kweatherman/yara4ida)
   > Unofficial YARA IDA Pro plugin, along with an unparalleled crypto/hash/compression rule set based on...
 
+### [winezer0](https://github.com/winezer0)
+- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [jornInitor/unioffice](https://github.com/jornInitor/unioffice)
+  > unidoc/unioffice
+
 ### [wxxsfxyzm](https://github.com/wxxsfxyzm)
 - 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [aistra0528/Hail](https://github.com/aistra0528/Hail)
   > Disable / Hide / Suspend / Uninstall Android apps without root.
 
 
 ---
-*最后更新于 2025-09-30 14:22:28 UTC*
+*最后更新于 2025-09-30 14:43:26 UTC*
 *历史记录保存在 `archive` 目录中。*
