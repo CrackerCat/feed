@@ -32,6 +32,8 @@
   > Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
   > Multi-user server for Jupyter notebooks
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+  > Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 
 ### [P001water](https://github.com/P001water)
 - 🌟 👤 [P001water](https://github.com/P001water) Starred [api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList)
@@ -62,6 +64,10 @@
 ### [Zephkek](https://github.com/Zephkek)
 - 🌟 👤 [Zephkek](https://github.com/Zephkek) Starred [Zephkek/Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
   > A deep dive into the ACPI.sys DPC latency problems on Asus ROG laptops
+
+### [allogic](https://github.com/allogic)
+- 🌟 👤 [allogic](https://github.com/allogic) Starred [SanderMertens/flecs](https://github.com/SanderMertens/flecs)
+  > A fast entity component system (ECS) for C & C++
 
 ### [barry-ran](https://github.com/barry-ran)
 - 🌟 👤 [barry-ran](https://github.com/barry-ran) Starred [TencentARC/ToonComposer](https://github.com/TencentARC/ToonComposer)
@@ -273,5 +279,5 @@
 
 
 ---
-*最后更新于 2025-09-30 21:19:54 UTC*
+*最后更新于 2025-09-30 21:39:01 UTC*
 *历史记录保存在 `archive` 目录中。*
