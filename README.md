@@ -30,6 +30,8 @@
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [gradio-app/gradio](https://github.com/gradio-app/gradio)
   > Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+  > Multi-user server for Jupyter notebooks
 
 ### [P001water](https://github.com/P001water)
 - 🌟 👤 [P001water](https://github.com/P001water) Starred [api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList)
@@ -271,5 +273,5 @@
 
 
 ---
-*最后更新于 2025-09-30 20:41:37 UTC*
+*最后更新于 2025-09-30 21:19:54 UTC*
 *历史记录保存在 `archive` 目录中。*
