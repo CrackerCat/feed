@@ -17,6 +17,10 @@
 - ✨ 👤 [CyberSecurityUP](https://github.com/CyberSecurityUP) Created new repo [CyberSecurityUP/MyMsgBox](https://github.com/CyberSecurityUP/MyMsgBox)
   > Alternative implementation of MessageBox API function
 
+### [DavidBuchanan314](https://github.com/DavidBuchanan314)
+- 🌟 👤 [DavidBuchanan314](https://github.com/DavidBuchanan314) Starred [jberg/butterchurn](https://github.com/jberg/butterchurn)
+  > Butterchurn is a WebGL implementation of the Milkdrop Visualizer
+
 ### [Forgo7ten](https://github.com/Forgo7ten)
 - ✨ 👤 [Forgo7ten](https://github.com/Forgo7ten) Created new repo [Forgo7ten/fdefla](https://github.com/Forgo7ten/fdefla)
   > Ollvm fla de-obfuscator.
@@ -43,6 +47,10 @@
   > Multi-user server for Jupyter notebooks
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
   > Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [ReversingID/Shellcode-Loader](https://github.com/ReversingID/Shellcode-Loader)
+  > Open repository for learning dynamic shellcode loading (sample in many programming languages)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [schovi/baked_file_system](https://github.com/schovi/baked_file_system)
+  > Virtual File System for Crystal language. Embedding your assets into final binary.
 
 ### [P001water](https://github.com/P001water)
 - 🌟 👤 [P001water](https://github.com/P001water) Starred [api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList)
@@ -185,6 +193,8 @@
   > Your Neovim AI sidekick
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nbonamy/witsy](https://github.com/nbonamy/witsy) to [gmh5225/witsy](https://github.com/gmh5225/witsy)
   > Witsy: desktop AI assistant / universal MCP client
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [atuinsh/desktop](https://github.com/atuinsh/desktop) to [gmh5225/desktop-runbooks](https://github.com/gmh5225/desktop-runbooks)
+  > 📖 Runbooks that run 
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - 🍴 👤 [goatmilkkk](https://github.com/goatmilkkk) Forked [AY2526S1-CS2103T-W10-3/tp](https://github.com/AY2526S1-CS2103T-W10-3/tp) to [goatmilkkk/tp](https://github.com/goatmilkkk/tp)
@@ -318,5 +328,5 @@
 
 
 ---
-*最后更新于 2025-09-30 23:19:42 UTC*
+*最后更新于 2025-09-30 23:38:47 UTC*
 *历史记录保存在 `archive` 目录中。*
