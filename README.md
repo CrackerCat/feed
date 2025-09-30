@@ -10,6 +10,8 @@
 ### [KickedDroid](https://github.com/KickedDroid)
 - 🌟 👤 [KickedDroid](https://github.com/KickedDroid) Starred [joaoviictorti/shadow-rs](https://github.com/joaoviictorti/shadow-rs)
   > Windows Kernel Rootkit in Rust
+- 🌟 👤 [KickedDroid](https://github.com/KickedDroid) Starred [Maldev-Academy/MaldevAcademyLdr.2](https://github.com/Maldev-Academy/MaldevAcademyLdr.2)
+  > RunPE implementation with multiple evasive techniques
 
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
@@ -24,6 +26,10 @@
   > A COFF Loader written in Rust
 - 🌟 👤 [RiccardoAncarani](https://github.com/RiccardoAncarani) Starred [joaoviictorti/shadow-rs](https://github.com/joaoviictorti/shadow-rs)
   > Windows Kernel Rootkit in Rust
+
+### [SakuraKoi](https://github.com/SakuraKoi)
+- 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [daijro/camoufox](https://github.com/daijro/camoufox)
+  > 🦊 Anti-detect browser
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [SHIINASAMA/pyside_template](https://github.com/SHIINASAMA/pyside_template)
@@ -126,7 +132,11 @@
 - 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [aistra0528/Hail](https://github.com/aistra0528/Hail)
   > Disable / Hide / Suspend / Uninstall Android apps without root.
 
+### [xtiankisutsa](https://github.com/xtiankisutsa)
+- 🍴 👤 [xtiankisutsa](https://github.com/xtiankisutsa) Forked [sidpalas/devops-directive-github-actions-course](https://github.com/sidpalas/devops-directive-github-actions-course) to [xtiankisutsa/devops-directive-github-actions-course](https://github.com/xtiankisutsa/devops-directive-github-actions-course)
+  > Companion repo for the DevOps Directive "Github Actions: Beginner to Pro" course
+
 
 ---
-*最后更新于 2025-09-30 16:29:09 UTC*
+*最后更新于 2025-09-30 16:48:12 UTC*
 *历史记录保存在 `archive` 目录中。*
