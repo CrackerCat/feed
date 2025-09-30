@@ -152,13 +152,25 @@
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - 🍴 👤 [goatmilkkk](https://github.com/goatmilkkk) Forked [AY2526S1-CS2103T-W10-3/tp](https://github.com/AY2526S1-CS2103T-W10-3/tp) to [goatmilkkk/tp](https://github.com/goatmilkkk/tp)
 
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [Maldev-Academy/MaldevAcademyLdr.2](https://github.com/Maldev-Academy/MaldevAcademyLdr.2)
+  > RunPE implementation with multiple evasive techniques
+
 ### [igorbrigadir](https://github.com/igorbrigadir)
 - 🌟 👤 [igorbrigadir](https://github.com/igorbrigadir) Starred [akiani/aidialer](https://github.com/akiani/aidialer)
   > A full stack app for interruptible, low-latency and near-human quality AI phone calls built from sti...
 
+### [iscle](https://github.com/iscle)
+- 🌟 👤 [iscle](https://github.com/iscle) Starred [bancika/diy-layout-creator](https://github.com/bancika/diy-layout-creator)
+  > multi platform circuit layout and schematic drawing tool
+
 ### [kernelwernel](https://github.com/kernelwernel)
 - 🌟 👤 [kernelwernel](https://github.com/kernelwernel) Starred [jkboyce/jugglinglab](https://github.com/jkboyce/jugglinglab)
   > Juggling Lab juggling animator
+
+### [m0nad](https://github.com/m0nad)
+- 🌟 👤 [m0nad](https://github.com/m0nad) Starred [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)
+  > A curated list of resources for learning about application security
 
 ### [milo2012](https://github.com/milo2012)
 - 🍴 👤 [milo2012](https://github.com/milo2012) Forked [nccgroup/asafw](https://github.com/nccgroup/asafw) to [milo2012/asafw](https://github.com/milo2012/asafw)
@@ -175,6 +187,10 @@
 ### [nil0x42](https://github.com/nil0x42)
 - 🌟 👤 [nil0x42](https://github.com/nil0x42) Starred [martinhaunschmid/caido-newrequests](https://github.com/martinhaunschmid/caido-newrequests)
   > A small plugin to filter the http history via hotkey
+
+### [oureveryday](https://github.com/oureveryday)
+- 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [thexeondev/pexecvelf](https://github.com/thexeondev/pexecvelf)
+  > Portable Executable that emulates execve to interpret Executable and Linkable Format
 
 ### [r0eXpeR](https://github.com/r0eXpeR)
 - 🌟 👤 [r0eXpeR](https://github.com/r0eXpeR) Starred [liqiang-xxfy/fly-cursor-free](https://github.com/liqiang-xxfy/fly-cursor-free)
@@ -222,5 +238,5 @@
 
 
 ---
-*最后更新于 2025-09-30 18:30:49 UTC*
+*最后更新于 2025-09-30 19:18:02 UTC*
 *历史记录保存在 `archive` 目录中。*
