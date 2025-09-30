@@ -39,6 +39,10 @@
 - 🍴 👤 [Smooth-E](https://github.com/Smooth-E) Forked [poetaster/harbour-audiocut](https://github.com/poetaster/harbour-audiocut) to [Smooth-E/aurora-audioworks](https://github.com/Smooth-E/aurora-audioworks)
   > Experimental audio manipulation app for Sailfish. Cut audio files or recordings and apply effects li...
 
+### [Zephkek](https://github.com/Zephkek)
+- 🌟 👤 [Zephkek](https://github.com/Zephkek) Starred [Zephkek/Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
+  > A deep dive into the ACPI.sys DPC latency problems on Asus ROG laptops
+
 ### [barry-ran](https://github.com/barry-ran)
 - 🌟 👤 [barry-ran](https://github.com/barry-ran) Starred [TencentARC/ToonComposer](https://github.com/TencentARC/ToonComposer)
   > Streamlining Cartoon Production with Generative Post-Keyframing
@@ -100,6 +104,10 @@
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [SubGlitch1/OSRipper](https://github.com/SubGlitch1/OSRipper)
   > AV evading OSX Backdoor and Crypter Framework
 
+### [natsumerinchan](https://github.com/natsumerinchan)
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [qbb95/GALToolsBackup](https://github.com/qbb95/GALToolsBackup)
+  > GAL工具备份
+
 ### [nil0x42](https://github.com/nil0x42)
 - 🌟 👤 [nil0x42](https://github.com/nil0x42) Starred [martinhaunschmid/caido-newrequests](https://github.com/martinhaunschmid/caido-newrequests)
   > A small plugin to filter the http history via hotkey
@@ -138,5 +146,5 @@
 
 
 ---
-*最后更新于 2025-09-30 16:48:12 UTC*
+*最后更新于 2025-09-30 17:19:43 UTC*
 *历史记录保存在 `archive` 目录中。*
