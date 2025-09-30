@@ -4,9 +4,20 @@
 
 ## 今日动态
 
+### [Asabeneh](https://github.com/Asabeneh)
+- ✨ 👤 [Asabeneh](https://github.com/Asabeneh) Created new repo [Asabeneh/test-1](https://github.com/Asabeneh/test-1)
+
+### [KickedDroid](https://github.com/KickedDroid)
+- 🌟 👤 [KickedDroid](https://github.com/KickedDroid) Starred [joaoviictorti/shadow-rs](https://github.com/joaoviictorti/shadow-rs)
+  > Windows Kernel Rootkit in Rust
+
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
   > This repository started out as a learning in public project for myself and has now become a structur...
+
+### [P001water](https://github.com/P001water)
+- 🌟 👤 [P001water](https://github.com/P001water) Starred [api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList)
+  > The goal of this repository is to document the most common techniques to bypass AppLocker. 
 
 ### [RiccardoAncarani](https://github.com/RiccardoAncarani)
 - 🌟 👤 [RiccardoAncarani](https://github.com/RiccardoAncarani) Starred [joaoviictorti/coffeeldr](https://github.com/joaoviictorti/coffeeldr)
@@ -38,6 +49,42 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [solidity-labs-io/fps-example-repo](https://github.com/solidity-labs-io/fps-example-repo) to [gmh5225/fps-example-repo](https://github.com/gmh5225/fps-example-repo)
   > Forge Proposal Simulator Example Repository
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [solidity-labs-io/zelt](https://github.com/solidity-labs-io/zelt) to [gmh5225/zelt](https://github.com/gmh5225/zelt)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nextcloud/server](https://github.com/nextcloud/server) to [gmh5225/server-](https://github.com/gmh5225/server-)
+  > ☁️ Nextcloud server, a safe home for all your data
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ohpe/juicy-potato](https://github.com/ohpe/juicy-potato) to [gmh5225/juicy-potato-](https://github.com/gmh5225/juicy-potato-)
+  > A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation to...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [b4rtik/metasploit-execute-assembly](https://github.com/b4rtik/metasploit-execute-assembly) to [gmh5225/metasploit-execute-assembly](https://github.com/gmh5225/metasploit-execute-assembly)
+  > Custom Metasploit post module to executing a .NET Assembly from Meterpreter session
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [MattSteedWork/AMSI-Bypass-Win10-11](https://github.com/MattSteedWork/AMSI-Bypass-Win10-11) to [gmh5225/AMSI-Bypass-Win10-11](https://github.com/gmh5225/AMSI-Bypass-Win10-11)
+  > Simple script to bypass AMSI on Win 10 and Win 11 by exploiting AmsiOpenSession
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mandiant/SilkETW](https://github.com/mandiant/SilkETW) to [gmh5225/SilkETW](https://github.com/gmh5225/SilkETW)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [frohoff/appseccali-marshalling-pickles](https://github.com/frohoff/appseccali-marshalling-pickles) to [gmh5225/appseccali-marshalling-pickles](https://github.com/gmh5225/appseccali-marshalling-pickles)
+  > Slide deck from AppSecCali 2015 Talk "Marshalling Pickles: how deserializing objects will ruin your ...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [frohoff/inspector-gadget](https://github.com/frohoff/inspector-gadget) to [gmh5225/inspector-gadget](https://github.com/gmh5225/inspector-gadget)
+  > Primitive tool for exploring/querying Java classes via the Tinkerpop Gremlin graph traversal languag...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [frohoff/owaspsd-deserialize-my-shorts](https://github.com/frohoff/owaspsd-deserialize-my-shorts) to [gmh5225/owaspsd-deserialize-my-shorts](https://github.com/gmh5225/owaspsd-deserialize-my-shorts)
+  > Slide deck from OWASP SD Talk "Deserialize My Shorts: Or How I Learned to Start Worrying and Hate Ja...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [iv-org/invidious](https://github.com/iv-org/invidious) to [gmh5225/invidious](https://github.com/gmh5225/invidious)
+  > Invidious is an alternative front-end to YouTube
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [unixfox/mappy-mcp-server](https://github.com/unixfox/mappy-mcp-server) to [gmh5225/mappy-mcp-server](https://github.com/gmh5225/mappy-mcp-server)
+  > mappy.fr MCP Server
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [unixfox/ionscale-wireguard-peer](https://github.com/unixfox/ionscale-wireguard-peer) to [gmh5225/ionscale-wireguard-peer](https://github.com/gmh5225/ionscale-wireguard-peer)
+  > Try at adding wireguard peer feature for ionscale
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [unixfox/http-proxy-ipv6-pool-with-ipv4](https://github.com/unixfox/http-proxy-ipv6-pool-with-ipv4) to [gmh5225/http-proxy-ipv6-pool-with-ipv4](https://github.com/gmh5225/http-proxy-ipv6-pool-with-ipv4)
+  > zu1k/http-proxy-ipv6-pool with ipv4
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [unixfox/http-proxy-ipv6-pool-improved](https://github.com/unixfox/http-proxy-ipv6-pool-improved) to [gmh5225/http-proxy-ipv6-pool-improved](https://github.com/gmh5225/http-proxy-ipv6-pool-improved)
+  > will rotate only every X seconds
+
+### [goatmilkkk](https://github.com/goatmilkkk)
+- 🍴 👤 [goatmilkkk](https://github.com/goatmilkkk) Forked [AY2526S1-CS2103T-W10-3/tp](https://github.com/AY2526S1-CS2103T-W10-3/tp) to [goatmilkkk/tp](https://github.com/goatmilkkk/tp)
+
+### [igorbrigadir](https://github.com/igorbrigadir)
+- 🌟 👤 [igorbrigadir](https://github.com/igorbrigadir) Starred [akiani/aidialer](https://github.com/akiani/aidialer)
+  > A full stack app for interruptible, low-latency and near-human quality AI phone calls built from sti...
+
+### [kernelwernel](https://github.com/kernelwernel)
+- 🌟 👤 [kernelwernel](https://github.com/kernelwernel) Starred [jkboyce/jugglinglab](https://github.com/jkboyce/jugglinglab)
+  > Juggling Lab juggling animator
 
 ### [milo2012](https://github.com/milo2012)
 - 🍴 👤 [milo2012](https://github.com/milo2012) Forked [nccgroup/asafw](https://github.com/nccgroup/asafw) to [milo2012/asafw](https://github.com/milo2012/asafw)
@@ -81,5 +128,5 @@
 
 
 ---
-*最后更新于 2025-09-30 15:41:05 UTC*
+*最后更新于 2025-09-30 16:29:09 UTC*
 *历史记录保存在 `archive` 目录中。*
