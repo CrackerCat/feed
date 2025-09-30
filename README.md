@@ -264,6 +264,10 @@
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [naden01/android_device_samsung_pa1q](https://github.com/naden01/android_device_samsung_pa1q)
   > Twrp Tree for samsung S25 | booted
 
+### [strazzere](https://github.com/strazzere)
+- 🌟 👤 [strazzere](https://github.com/strazzere) Starred [secnotes/elfspirit](https://github.com/secnotes/elfspirit)
+  > ELF static analysis and injection framework that parse, manipulate, patch and camouflage ELF files.
+
 ### [sudami](https://github.com/sudami)
 - 🌟 👤 [sudami](https://github.com/sudami) Starred [JASM1AM/Lanzou_straight_chain_analysis](https://github.com/JASM1AM/Lanzou_straight_chain_analysis)
 - 🍴 👤 [sudami](https://github.com/sudami) Forked [JASM1AM/Lanzou_straight_chain_analysis](https://github.com/JASM1AM/Lanzou_straight_chain_analysis) to [sudami/Lanzou_straight_chain_analysis](https://github.com/sudami/Lanzou_straight_chain_analysis)
@@ -271,6 +275,8 @@
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
   > :books: Learn to write an embedded OS in Rust :crab:
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser)
+  > A Unified Toolkit for Deep Learning Based Document Image Analysis
 
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [argus-sight/refund-swatter-lite](https://github.com/argus-sight/refund-swatter-lite)
@@ -304,5 +310,5 @@
 
 
 ---
-*最后更新于 2025-09-30 22:20:40 UTC*
+*最后更新于 2025-09-30 22:40:32 UTC*
 *历史记录保存在 `archive` 目录中。*
