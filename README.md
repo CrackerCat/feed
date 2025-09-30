@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Lil-Ran](https://github.com/Lil-Ran)
+- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+  > This repository started out as a learning in public project for myself and has now become a structur...
+
 ### [RiccardoAncarani](https://github.com/RiccardoAncarani)
 - 🌟 👤 [RiccardoAncarani](https://github.com/RiccardoAncarani) Starred [joaoviictorti/coffeeldr](https://github.com/joaoviictorti/coffeeldr)
   > A COFF Loader written in Rust
@@ -13,6 +17,10 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [SHIINASAMA/pyside_template](https://github.com/SHIINASAMA/pyside_template)
   > A simple pyside6 project template with build script.
+
+### [Smooth-E](https://github.com/Smooth-E)
+- 🍴 👤 [Smooth-E](https://github.com/Smooth-E) Forked [poetaster/harbour-audiocut](https://github.com/poetaster/harbour-audiocut) to [Smooth-E/aurora-audioworks](https://github.com/Smooth-E/aurora-audioworks)
+  > Experimental audio manipulation app for Sailfish. Cut audio files or recordings and apply effects li...
 
 ### [barry-ran](https://github.com/barry-ran)
 - 🌟 👤 [barry-ran](https://github.com/barry-ran) Starred [TencentARC/ToonComposer](https://github.com/TencentARC/ToonComposer)
@@ -34,6 +42,10 @@
 ### [milo2012](https://github.com/milo2012)
 - 🍴 👤 [milo2012](https://github.com/milo2012) Forked [nccgroup/asafw](https://github.com/nccgroup/asafw) to [milo2012/asafw](https://github.com/milo2012/asafw)
   > Set of scripts to deal with Cisco ASA firmware [pack/unpack etc.]
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [SubGlitch1/OSRipper](https://github.com/SubGlitch1/OSRipper)
+  > AV evading OSX Backdoor and Crypter Framework
 
 ### [nil0x42](https://github.com/nil0x42)
 - 🌟 👤 [nil0x42](https://github.com/nil0x42) Starred [martinhaunschmid/caido-newrequests](https://github.com/martinhaunschmid/caido-newrequests)
@@ -69,5 +81,5 @@
 
 
 ---
-*最后更新于 2025-09-30 15:21:48 UTC*
+*最后更新于 2025-09-30 15:41:05 UTC*
 *历史记录保存在 `archive` 目录中。*
