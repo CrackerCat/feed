@@ -206,6 +206,10 @@
 - 🌟 👤 [iscle](https://github.com/iscle) Starred [antoniovazquezblanco/GhidraExtendedSourceParser](https://github.com/antoniovazquezblanco/GhidraExtendedSourceParser)
   > User friendly ways to parse small code snippets into data types in Ghidra.
 
+### [jpacg](https://github.com/jpacg)
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [TheNotoBarth/JH-ViewInspector](https://github.com/TheNotoBarth/JH-ViewInspector)
+  > 一个用于获取任意Android应用控件ID的简易APP
+
 ### [julius-b](https://github.com/julius-b)
 - 🌟 👤 [julius-b](https://github.com/julius-b) Starred [francoismichel/ssh3](https://github.com/francoismichel/ssh3)
   > SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/23...
@@ -243,6 +247,10 @@
 ### [nil0x42](https://github.com/nil0x42)
 - 🌟 👤 [nil0x42](https://github.com/nil0x42) Starred [martinhaunschmid/caido-newrequests](https://github.com/martinhaunschmid/caido-newrequests)
   > A small plugin to filter the http history via hotkey
+
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [kagisearch/kite-public](https://github.com/kagisearch/kite-public)
+  > Open source repository for Kite, news app by Kagi.
 
 ### [oureveryday](https://github.com/oureveryday)
 - 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [thexeondev/pexecvelf](https://github.com/thexeondev/pexecvelf)
@@ -310,5 +318,5 @@
 
 
 ---
-*最后更新于 2025-09-30 22:40:32 UTC*
+*最后更新于 2025-09-30 23:19:42 UTC*
 *历史记录保存在 `archive` 目录中。*
