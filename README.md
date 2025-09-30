@@ -20,6 +20,8 @@
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
   > This repository started out as a learning in public project for myself and has now become a structur...
+- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)
+  > Weighs the soul of incoming HTTP requests to stop AI crawlers
 
 ### [P001water](https://github.com/P001water)
 - 🌟 👤 [P001water](https://github.com/P001water) Starred [api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList)
@@ -55,6 +57,10 @@
 - 🌟 👤 [barry-ran](https://github.com/barry-ran) Starred [Babyhamsta/Aimmy](https://github.com/Babyhamsta/Aimmy)
   > Universal Second Eye for Gamers with Impairments (Universal AI Aim Aligner (AI Aimbot) - ONNX/YOLOv8...
 
+### [flying1861](https://github.com/flying1861)
+- 🌟 👤 [flying1861](https://github.com/flying1861) Starred [CrackerCat/eduEmail-cloudflare](https://github.com/CrackerCat/eduEmail-cloudflare)
+  > 可以自己部署配置参数、或者用我部署好的edu临时邮箱；前端unicloud、后端workers；不需要任何的转发邮箱配置，你可以部署到网页、小程序、app端；
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [huoji120/awesome_anti_virus_engine](https://github.com/huoji120/awesome_anti_virus_engine) to [gmh5225/awesome_anti_virus_engine](https://github.com/gmh5225/awesome_anti_virus_engine)
   > about how to make a anti-virus engine
@@ -88,6 +94,60 @@
   > zu1k/http-proxy-ipv6-pool with ipv4
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [unixfox/http-proxy-ipv6-pool-improved](https://github.com/unixfox/http-proxy-ipv6-pool-improved) to [gmh5225/http-proxy-ipv6-pool-improved](https://github.com/gmh5225/http-proxy-ipv6-pool-improved)
   > will rotate only every X seconds
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [CyberSecurityUP/MyMsgBox](https://github.com/CyberSecurityUP/MyMsgBox) to [gmh5225/MyMsgBox](https://github.com/gmh5225/MyMsgBox)
+  > Alternative implementation of MessageBox API function
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) to [gmh5225/chakra-ui](https://github.com/gmh5225/chakra-ui)
+  > Chakra UI is a component system for building SaaS products with speed ⚡️
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [dakshshah96/awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) to [gmh5225/awesome-startup-credits](https://github.com/gmh5225/awesome-startup-credits)
+  > ✨ A collection of awesome companies offering free/discounted plans for eligible startups
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) to [gmh5225/google-api-python-client](https://github.com/gmh5225/google-api-python-client)
+  > 🐍 The official Python client library for Google's discovery based APIs.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) to [gmh5225/awesome-youtubers](https://github.com/gmh5225/awesome-youtubers)
+  > An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, c...
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
+  > An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, c...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode) to [gmh5225/python-qrcode](https://github.com/gmh5225/python-qrcode)
+  > Python QR Code image generator
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) to [gmh5225/react-cosmos](https://github.com/gmh5225/react-cosmos)
+  > Sandbox for developing and testing UI components in isolation
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [formkit/auto-animate](https://github.com/formkit/auto-animate) to [gmh5225/auto-animate](https://github.com/gmh5225/auto-animate)
+  > A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use i...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [geosigno/simpleParallax.js](https://github.com/geosigno/simpleParallax.js) to [gmh5225/simpleParallax.js](https://github.com/gmh5225/simpleParallax.js)
+  > Easy Parallax Effect for React & JavaScript
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [puckeditor/puck](https://github.com/puckeditor/puck) to [gmh5225/puck](https://github.com/gmh5225/puck)
+  > The visual editor for React
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ROCm/rocm-examples](https://github.com/ROCm/rocm-examples) to [gmh5225/rocm-examples](https://github.com/gmh5225/rocm-examples)
+  > A collection of examples for the ROCm software stack
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ROCm/TransformerEngine](https://github.com/ROCm/TransformerEngine) to [gmh5225/TransformerEngine](https://github.com/gmh5225/TransformerEngine)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ROCm/hip](https://github.com/ROCm/hip) to [gmh5225/hip](https://github.com/gmh5225/hip)
+  > HIP: C++ Heterogeneous-Compute Interface for Portability
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ROCm/ROCm-docker](https://github.com/ROCm/ROCm-docker) to [gmh5225/ROCm-docker](https://github.com/gmh5225/ROCm-docker)
+  > Dockerfiles for the various software layers defined in the ROCm software platform
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ROCm/rccl](https://github.com/ROCm/rccl) to [gmh5225/rccl](https://github.com/gmh5225/rccl)
+  > ROCm Communication Collectives Library (RCCL)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ROCm/rocm-systems](https://github.com/ROCm/rocm-systems) to [gmh5225/rocm-systems](https://github.com/gmh5225/rocm-systems)
+  > super repo for rocm systems projects
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ROCm/composable_kernel](https://github.com/ROCm/composable_kernel) to [gmh5225/composable_kernel](https://github.com/gmh5225/composable_kernel)
+  > Composable Kernel: Performance Portable Programming Model for Machine Learning Tensor Operators
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [containers/bubblewrap](https://github.com/containers/bubblewrap) to [gmh5225/bubblewrap](https://github.com/gmh5225/bubblewrap)
+  > Low-level unprivileged sandboxing tool used by Flatpak and similar projects
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [AndreiDrang/python3-capsolver](https://github.com/AndreiDrang/python3-capsolver) to [gmh5225/python3-capsolver](https://github.com/gmh5225/python3-capsolver)
+  > Python library for Capsolver
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [brian763/HLStandardSDK](https://github.com/brian763/HLStandardSDK) to [gmh5225/HLStandardSDK](https://github.com/gmh5225/HLStandardSDK)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [SamVanheer/HalfLifeAssetManager](https://github.com/SamVanheer/HalfLifeAssetManager) to [gmh5225/HalfLifeAssetManager](https://github.com/gmh5225/HalfLifeAssetManager)
+  > Half-Life Asset Manager, a tool to view and edit Half-Life 1 models
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [shefben/world-opponent-network](https://github.com/shefben/world-opponent-network) to [gmh5225/world-opponent-network](https://github.com/gmh5225/world-opponent-network)
+  > Automatically exported from code.google.com/p/world-opponent-network
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NVIDIAGameWorks/GeForceNOW-SDK](https://github.com/NVIDIAGameWorks/GeForceNOW-SDK) to [gmh5225/GeForceNOW-SDK](https://github.com/gmh5225/GeForceNOW-SDK)
+  > This is the home of the SDK for GeForce NOW
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [s4ke/CSDMsake](https://github.com/s4ke/CSDMsake) to [gmh5225/CSDMsake](https://github.com/gmh5225/CSDMsake)
+  > Counterstrike Deathmatch remake for CS 1.5 support
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [RElesgoe/SC-Beta-Gate](https://github.com/RElesgoe/SC-Beta-Gate) to [gmh5225/SC-Beta-Gate](https://github.com/gmh5225/SC-Beta-Gate)
+  > Program needed to play StarCraft and StarCraft: Brood War Beta
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [pkujhd/goloader](https://github.com/pkujhd/goloader) to [gmh5225/goloader](https://github.com/gmh5225/goloader)
+  > load and run golang code at runtime.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [pkujhd/goloaderbuilder](https://github.com/pkujhd/goloaderbuilder) to [gmh5225/goloaderbuilder](https://github.com/gmh5225/goloaderbuilder)
+  > goloader builder
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - 🍴 👤 [goatmilkkk](https://github.com/goatmilkkk) Forked [AY2526S1-CS2103T-W10-3/tp](https://github.com/AY2526S1-CS2103T-W10-3/tp) to [goatmilkkk/tp](https://github.com/goatmilkkk/tp)
@@ -132,6 +192,16 @@
 - 🌟 👤 [sudami](https://github.com/sudami) Starred [JASM1AM/Lanzou_straight_chain_analysis](https://github.com/JASM1AM/Lanzou_straight_chain_analysis)
 - 🍴 👤 [sudami](https://github.com/sudami) Forked [JASM1AM/Lanzou_straight_chain_analysis](https://github.com/JASM1AM/Lanzou_straight_chain_analysis) to [sudami/Lanzou_straight_chain_analysis](https://github.com/sudami/Lanzou_straight_chain_analysis)
 
+### [ttttmr](https://github.com/ttttmr)
+- 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [argus-sight/refund-swatter-lite](https://github.com/argus-sight/refund-swatter-lite)
+  > Refund Swatter Lite significantly reduces malicious refund risks by processing Apple's CONSUMPTION_R...
+
+### [w00tzenheimer](https://github.com/w00tzenheimer)
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [Goktug/comfyui-saveimage-plus](https://github.com/Goktug/comfyui-saveimage-plus)
+  > Save Image with more file formats for ComfyUI
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [Kinglord/ComfyUI_Slider_Sidebar](https://github.com/Kinglord/ComfyUI_Slider_Sidebar)
+  > Custom sidebar to make LoRA sliders (LECO) awesome in ComfyUI
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [kweatherman/yara4ida](https://github.com/kweatherman/yara4ida)
   > Unofficial YARA IDA Pro plugin, along with an unparalleled crypto/hash/compression rule set based on...
@@ -147,8 +217,10 @@
 ### [xtiankisutsa](https://github.com/xtiankisutsa)
 - 🍴 👤 [xtiankisutsa](https://github.com/xtiankisutsa) Forked [sidpalas/devops-directive-github-actions-course](https://github.com/sidpalas/devops-directive-github-actions-course) to [xtiankisutsa/devops-directive-github-actions-course](https://github.com/xtiankisutsa/devops-directive-github-actions-course)
   > Companion repo for the DevOps Directive "Github Actions: Beginner to Pro" course
+- 🍴 👤 [xtiankisutsa](https://github.com/xtiankisutsa) Forked [In3tinct/Androidmeda](https://github.com/In3tinct/Androidmeda) to [xtiankisutsa/Androidmeda](https://github.com/xtiankisutsa/Androidmeda)
+  > LLM tool to deobfuscate android app and find any potential vulnerabilities in android apps and  code...
 
 
 ---
-*最后更新于 2025-09-30 17:40:56 UTC*
+*最后更新于 2025-09-30 18:30:49 UTC*
 *历史记录保存在 `archive` 目录中。*
