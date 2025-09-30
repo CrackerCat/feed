@@ -11,6 +11,10 @@
 - ✨ 👤 [CyberSecurityUP](https://github.com/CyberSecurityUP) Created new repo [CyberSecurityUP/MyMsgBox](https://github.com/CyberSecurityUP/MyMsgBox)
   > Alternative implementation of MessageBox API function
 
+### [Forgo7ten](https://github.com/Forgo7ten)
+- ✨ 👤 [Forgo7ten](https://github.com/Forgo7ten) Created new repo [Forgo7ten/fdefla](https://github.com/Forgo7ten/fdefla)
+  > Ollvm fla de-obfuscator.
+
 ### [KickedDroid](https://github.com/KickedDroid)
 - 🌟 👤 [KickedDroid](https://github.com/KickedDroid) Starred [joaoviictorti/shadow-rs](https://github.com/joaoviictorti/shadow-rs)
   > Windows Kernel Rootkit in Rust
@@ -22,6 +26,10 @@
   > This repository started out as a learning in public project for myself and has now become a structur...
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)
   > Weighs the soul of incoming HTTP requests to stop AI crawlers
+
+### [No-Github](https://github.com/No-Github)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [gradio-app/gradio](https://github.com/gradio-app/gradio)
+  > Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 
 ### [P001water](https://github.com/P001water)
 - 🌟 👤 [P001water](https://github.com/P001water) Starred [api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList)
@@ -44,6 +52,10 @@
 ### [Smooth-E](https://github.com/Smooth-E)
 - 🍴 👤 [Smooth-E](https://github.com/Smooth-E) Forked [poetaster/harbour-audiocut](https://github.com/poetaster/harbour-audiocut) to [Smooth-E/aurora-audioworks](https://github.com/Smooth-E/aurora-audioworks)
   > Experimental audio manipulation app for Sailfish. Cut audio files or recordings and apply effects li...
+
+### [Yoshigamerthree](https://github.com/Yoshigamerthree)
+- 🌟 👤 [Yoshigamerthree](https://github.com/Yoshigamerthree) Starred [CrackerCat/VMOSPro_ROM](https://github.com/CrackerCat/VMOSPro_ROM)
+  > ROMs ported from VMOS Pro server, including GEEK and LITE. Added some changes and removed Chinese ke...
 
 ### [Zephkek](https://github.com/Zephkek)
 - 🌟 👤 [Zephkek](https://github.com/Zephkek) Starred [Zephkek/Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
@@ -148,9 +160,14 @@
   > load and run golang code at runtime.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [pkujhd/goloaderbuilder](https://github.com/pkujhd/goloaderbuilder) to [gmh5225/goloaderbuilder](https://github.com/gmh5225/goloaderbuilder)
   > goloader builder
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) to [gmh5225/sidekick.nvim](https://github.com/gmh5225/sidekick.nvim)
+  > Your Neovim AI sidekick
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - 🍴 👤 [goatmilkkk](https://github.com/goatmilkkk) Forked [AY2526S1-CS2103T-W10-3/tp](https://github.com/AY2526S1-CS2103T-W10-3/tp) to [goatmilkkk/tp](https://github.com/goatmilkkk/tp)
+
+### [huku-](https://github.com/huku-)
+- ✨ 👤 [huku-](https://github.com/huku-) Created new repo [huku-/relib](https://github.com/huku-/relib)
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [Maldev-Academy/MaldevAcademyLdr.2](https://github.com/Maldev-Academy/MaldevAcademyLdr.2)
@@ -163,6 +180,8 @@
 ### [iscle](https://github.com/iscle)
 - 🌟 👤 [iscle](https://github.com/iscle) Starred [bancika/diy-layout-creator](https://github.com/bancika/diy-layout-creator)
   > multi platform circuit layout and schematic drawing tool
+- 🌟 👤 [iscle](https://github.com/iscle) Starred [antoniovazquezblanco/GhidraExtendedSourceParser](https://github.com/antoniovazquezblanco/GhidraExtendedSourceParser)
+  > User friendly ways to parse small code snippets into data types in Ghidra.
 
 ### [kernelwernel](https://github.com/kernelwernel)
 - 🌟 👤 [kernelwernel](https://github.com/kernelwernel) Starred [jkboyce/jugglinglab](https://github.com/jkboyce/jugglinglab)
@@ -186,6 +205,10 @@
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [morkt/scraps](https://github.com/morkt/scraps)
   > various tools for dealing with visual novels resources.
 
+### [ni-qiuqiu](https://github.com/ni-qiuqiu)
+- 🌟 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+  > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+
 ### [nil0x42](https://github.com/nil0x42)
 - 🌟 👤 [nil0x42](https://github.com/nil0x42) Starred [martinhaunschmid/caido-newrequests](https://github.com/martinhaunschmid/caido-newrequests)
   > A small plugin to filter the http history via hotkey
@@ -205,6 +228,10 @@
   > 中国eBPF大会演讲题目和项目征集。
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) to [rankalpha/linux_kernel_wiki](https://github.com/rankalpha/linux_kernel_wiki)
   > linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
+
+### [ravindu644](https://github.com/ravindu644)
+- 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [naden01/android_device_samsung_pa1q](https://github.com/naden01/android_device_samsung_pa1q)
+  > Twrp Tree for samsung S25 | booted
 
 ### [sudami](https://github.com/sudami)
 - 🌟 👤 [sudami](https://github.com/sudami) Starred [JASM1AM/Lanzou_straight_chain_analysis](https://github.com/JASM1AM/Lanzou_straight_chain_analysis)
@@ -244,5 +271,5 @@
 
 
 ---
-*最后更新于 2025-09-30 19:39:27 UTC*
+*最后更新于 2025-09-30 20:25:08 UTC*
 *历史记录保存在 `archive` 目录中。*
