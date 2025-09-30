@@ -6,6 +6,12 @@
 
 ### [Asabeneh](https://github.com/Asabeneh)
 - ✨ 👤 [Asabeneh](https://github.com/Asabeneh) Created new repo [Asabeneh/test-1](https://github.com/Asabeneh/test-1)
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [openai/codex](https://github.com/openai/codex)
+  > Lightweight coding agent that runs in your terminal
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [antiwork/gumroad](https://github.com/antiwork/gumroad)
+  > Sell stuff and see what sticks
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [sindresorhus/debounce](https://github.com/sindresorhus/debounce)
+  > Delay function calls until a set time elapses after the last invocation
 
 ### [CyberSecurityUP](https://github.com/CyberSecurityUP)
 - ✨ 👤 [CyberSecurityUP](https://github.com/CyberSecurityUP) Created new repo [CyberSecurityUP/MyMsgBox](https://github.com/CyberSecurityUP/MyMsgBox)
@@ -26,6 +32,9 @@
   > This repository started out as a learning in public project for myself and has now become a structur...
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)
   > Weighs the soul of incoming HTTP requests to stop AI crawlers
+
+### [N3rdL0rd](https://github.com/N3rdL0rd)
+- ✨ 👤 [N3rdL0rd](https://github.com/N3rdL0rd) Created new repo [N3rdL0rd/tmaTimeWasted](https://github.com/N3rdL0rd/tmaTimeWasted)
 
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [gradio-app/gradio](https://github.com/gradio-app/gradio)
@@ -80,6 +89,10 @@
 ### [flying1861](https://github.com/flying1861)
 - 🌟 👤 [flying1861](https://github.com/flying1861) Starred [CrackerCat/eduEmail-cloudflare](https://github.com/CrackerCat/eduEmail-cloudflare)
   > 可以自己部署配置参数、或者用我部署好的edu临时邮箱；前端unicloud、后端workers；不需要任何的转发邮箱配置，你可以部署到网页、小程序、app端；
+
+### [giladreich](https://github.com/giladreich)
+- 🌟 👤 [giladreich](https://github.com/giladreich) Starred [chromium/crashpad](https://github.com/chromium/crashpad)
+  > A crash-reporting system
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [huoji120/awesome_anti_virus_engine](https://github.com/huoji120/awesome_anti_virus_engine) to [gmh5225/awesome_anti_virus_engine](https://github.com/gmh5225/awesome_anti_virus_engine)
@@ -170,6 +183,8 @@
   > goloader builder
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) to [gmh5225/sidekick.nvim](https://github.com/gmh5225/sidekick.nvim)
   > Your Neovim AI sidekick
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nbonamy/witsy](https://github.com/nbonamy/witsy) to [gmh5225/witsy](https://github.com/gmh5225/witsy)
+  > Witsy: desktop AI assistant / universal MCP client
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - 🍴 👤 [goatmilkkk](https://github.com/goatmilkkk) Forked [AY2526S1-CS2103T-W10-3/tp](https://github.com/AY2526S1-CS2103T-W10-3/tp) to [goatmilkkk/tp](https://github.com/goatmilkkk/tp)
@@ -191,6 +206,10 @@
 - 🌟 👤 [iscle](https://github.com/iscle) Starred [antoniovazquezblanco/GhidraExtendedSourceParser](https://github.com/antoniovazquezblanco/GhidraExtendedSourceParser)
   > User friendly ways to parse small code snippets into data types in Ghidra.
 
+### [julius-b](https://github.com/julius-b)
+- 🌟 👤 [julius-b](https://github.com/julius-b) Starred [francoismichel/ssh3](https://github.com/francoismichel/ssh3)
+  > SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/23...
+
 ### [kernelwernel](https://github.com/kernelwernel)
 - 🌟 👤 [kernelwernel](https://github.com/kernelwernel) Starred [jkboyce/jugglinglab](https://github.com/jkboyce/jugglinglab)
   > Juggling Lab juggling animator
@@ -202,6 +221,10 @@
 ### [milo2012](https://github.com/milo2012)
 - 🍴 👤 [milo2012](https://github.com/milo2012) Forked [nccgroup/asafw](https://github.com/nccgroup/asafw) to [milo2012/asafw](https://github.com/milo2012/asafw)
   > Set of scripts to deal with Cisco ASA firmware [pack/unpack etc.]
+
+### [modmuss50](https://github.com/modmuss50)
+- 🍴 👤 [modmuss50](https://github.com/modmuss50) Forked [FabricMC/fabric-tooling](https://github.com/FabricMC/fabric-tooling) to [modmuss50/fabric-tooling](https://github.com/modmuss50/fabric-tooling)
+  > A monorepo containing miscellaneous toolchain projects.
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [SubGlitch1/OSRipper](https://github.com/SubGlitch1/OSRipper)
@@ -270,6 +293,8 @@
 ### [wxxsfxyzm](https://github.com/wxxsfxyzm)
 - 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [aistra0528/Hail](https://github.com/aistra0528/Hail)
   > Disable / Hide / Suspend / Uninstall Android apps without root.
+- 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [JakeWharton/timber](https://github.com/JakeWharton/timber)
+  > A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 
 ### [xtiankisutsa](https://github.com/xtiankisutsa)
 - 🍴 👤 [xtiankisutsa](https://github.com/xtiankisutsa) Forked [sidpalas/devops-directive-github-actions-course](https://github.com/sidpalas/devops-directive-github-actions-course) to [xtiankisutsa/devops-directive-github-actions-course](https://github.com/xtiankisutsa/devops-directive-github-actions-course)
@@ -279,5 +304,5 @@
 
 
 ---
-*最后更新于 2025-09-30 21:39:01 UTC*
+*最后更新于 2025-09-30 22:20:40 UTC*
 *历史记录保存在 `archive` 目录中。*
