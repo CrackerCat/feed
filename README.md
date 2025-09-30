@@ -183,6 +183,8 @@
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [qbb95/GALToolsBackup](https://github.com/qbb95/GALToolsBackup)
   > GAL工具备份
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [morkt/scraps](https://github.com/morkt/scraps)
+  > various tools for dealing with visual novels resources.
 
 ### [nil0x42](https://github.com/nil0x42)
 - 🌟 👤 [nil0x42](https://github.com/nil0x42) Starred [martinhaunschmid/caido-newrequests](https://github.com/martinhaunschmid/caido-newrequests)
@@ -207,6 +209,10 @@
 ### [sudami](https://github.com/sudami)
 - 🌟 👤 [sudami](https://github.com/sudami) Starred [JASM1AM/Lanzou_straight_chain_analysis](https://github.com/JASM1AM/Lanzou_straight_chain_analysis)
 - 🍴 👤 [sudami](https://github.com/sudami) Forked [JASM1AM/Lanzou_straight_chain_analysis](https://github.com/JASM1AM/Lanzou_straight_chain_analysis) to [sudami/Lanzou_straight_chain_analysis](https://github.com/sudami/Lanzou_straight_chain_analysis)
+
+### [suifei](https://github.com/suifei)
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  > :books: Learn to write an embedded OS in Rust :crab:
 
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [argus-sight/refund-swatter-lite](https://github.com/argus-sight/refund-swatter-lite)
@@ -238,5 +244,5 @@
 
 
 ---
-*最后更新于 2025-09-30 19:18:02 UTC*
+*最后更新于 2025-09-30 19:39:27 UTC*
 *历史记录保存在 `archive` 目录中。*
