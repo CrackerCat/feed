@@ -20,6 +20,10 @@
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger)
   > Autoswagger by Intruder - detect API auth weaknesses
 
+### [HdShare](https://github.com/HdShare)
+- ✨ 👤 [HdShare](https://github.com/HdShare) Created new repo [HdShare/DAuxiliary](https://github.com/HdShare/DAuxiliary)
+- ✨ 👤 [HdShare](https://github.com/HdShare) Created new repo [HdShare/SAuxiliary](https://github.com/HdShare/SAuxiliary)
+
 ### [LGG686](https://github.com/LGG686)
 - 🍴 👤 [LGG686](https://github.com/LGG686) Forked [CrackerCat/Portal1](https://github.com/CrackerCat/Portal1) to [LGG686/Portal999](https://github.com/LGG686/Portal999)
   > Android Lab FakeLocation Service（安卓7~15的虚拟定位服务）
@@ -31,6 +35,8 @@
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [ITDev93/SHM-MOD](https://github.com/ITDev93/SHM-MOD)
   > A repo to put the SHM MOD Changelog for the Companion to fetch... DID YOU KNOW? - SHM MOD is maintai...
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)
+  > A free, source-available and fair-code licensed mac app cleaner
 
 ### [NS-Sp4ce](https://github.com/NS-Sp4ce)
 - 🌟 👤 [NS-Sp4ce](https://github.com/NS-Sp4ce) Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -192,6 +198,8 @@
 ### [rushiiMachine](https://github.com/rushiiMachine)
 - 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
   > Virtual whiteboard for sketching hand-drawn like diagrams
+- 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [Spu7Nix/obamify](https://github.com/Spu7Nix/obamify)
+  > revolutionary new technology that turns any image into obama
 
 ### [smallzhong](https://github.com/smallzhong)
 - 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [husseinmuhaisen/Hypervisor](https://github.com/husseinmuhaisen/Hypervisor)
@@ -217,5 +225,5 @@
 
 
 ---
-*最后更新于 2025-10-01 12:50:07 UTC*
+*最后更新于 2025-10-01 13:32:43 UTC*
 *历史记录保存在 `archive` 目录中。*
