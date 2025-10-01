@@ -66,10 +66,27 @@
   > OCaml graph library
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [phiresky/isbn-visualization](https://github.com/phiresky/isbn-visualization)
 
+### [dodola](https://github.com/dodola)
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+  > 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / ...
+
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Duisterhof/rayst3r](https://github.com/Duisterhof/rayst3r)
+
 ### [jverkoey](https://github.com/jverkoey)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Audi-SQ7](https://github.com/OBDb/Audi-SQ7)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Ford-Flex](https://github.com/OBDb/Ford-Flex)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/BMW-3-Series-eDrive](https://github.com/OBDb/BMW-3-Series-eDrive)
+
+### [ssnob](https://github.com/ssnob)
+- 🌟 👤 [ssnob](https://github.com/ssnob) Starred [emilk/loguru](https://github.com/emilk/loguru)
+  > A lightweight C++ logging library
+
+### [yuan-xy](https://github.com/yuan-xy)
+- 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima)
+  > A tiny C header-only risc-v emulator.
 
 
 ---
-*最后更新于 2025-10-01 07:41:02 UTC*
+*最后更新于 2025-10-01 08:30:52 UTC*
 *历史记录保存在 `archive` 目录中。*
