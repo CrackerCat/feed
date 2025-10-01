@@ -62,6 +62,12 @@
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [jadx-decompiler/jadx-plugins-list](https://github.com/jadx-decompiler/jadx-plugins-list)
   > Jadx plugins community list
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [secnotes/elfspirit](https://github.com/secnotes/elfspirit)
+  > ELF static analysis and injection framework that parse, manipulate, patch and camouflage ELF files.
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [ColumPaget/enhancer](https://github.com/ColumPaget/enhancer)
+  > LD_PRELOAD library that adds features to binaries
+
 ### [Tlaster](https://github.com/Tlaster)
 - 🌟 👤 [Tlaster](https://github.com/Tlaster) Starred [Ryu0118/swift-readability](https://github.com/Ryu0118/swift-readability)
   > 🌐 A Swift library that wraps @mozilla/readability and generalizes the Firefox Reader, which enhances...
@@ -95,31 +101,6 @@
   > macOS Adobe apps download & installer
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [sneakerhax/Prompts](https://github.com/sneakerhax/Prompts)
-  > Red Team AI prompts
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [MaheshShukla1/SOC-Analyst-Notes](https://github.com/MaheshShukla1/SOC-Analyst-Notes)
-  > Comprehensive SOC Analyst notes covering incident response, threat hunting, SOC workflows, and cyber...
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [alex-ilgayev/MCPSpy](https://github.com/alex-ilgayev/MCPSpy)
-  > MCP Monitoring with eBPF
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)
-  > Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack...
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [GhnimiWael/OSEP_Prep](https://github.com/GhnimiWael/OSEP_Prep)
-  > This repository serves as a curated resource for OffSec's OSEP (PEN-300) certification preparation, ...
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [ivRodriguezCA/RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps)
-  > A completely free, open source and online course about Reverse Engineering iOS Applications.
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
-  > Cybersecurity AI (CAI), the framework for AI Security
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [gh0x0st/Buffer_Overflow](https://github.com/gh0x0st/Buffer_Overflow)
-  > Don't let buffer overflows overflow your mind
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [apkunpacker/AntiFrida_Bypass](https://github.com/apkunpacker/AntiFrida_Bypass)
-  > Generic Script To Bypass Some AntiFrida Checks 
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [connormcgarr/Exploit-Development](https://github.com/connormcgarr/Exploit-Development)
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [ZeroMemoryEx/CVE-2025-26125](https://github.com/ZeroMemoryEx/CVE-2025-26125)
-  > ( 0day ) Local Privilege Escalation in IObit Malware Fighter
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su)
-  > A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched mod...
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [poppopjmp/VMDragonSlayer](https://github.com/poppopjmp/VMDragonSlayer)
-  > Automated multi-engine framework for unpacking, analyzing, and devirtualizing binaries protected by ...
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [scabench-org/hound](https://github.com/scabench-org/hound)
   > Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep...
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [loerting/dalvikus](https://github.com/loerting/dalvikus)
@@ -304,6 +285,10 @@
 - ✨ 👤 [nick-botticelli](https://github.com/nick-botticelli) Created new repo [nick-botticelli/super-micro-tss](https://github.com/nick-botticelli/super-micro-tss)
   > micro-tss fork (https://gitlab.com/turbocooler/micro-tss)
 
+### [ntpopgetdope](https://github.com/ntpopgetdope)
+- 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [toolCHAINZ/crackers](https://github.com/toolCHAINZ/crackers)
+  > A tool for synthesizing code-reuse attacks (aka ROP) from a reference program, powered by logical mo...
+
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [frostyplanet/crossfire-rs](https://github.com/frostyplanet/crossfire-rs)
   > A lockless mpmc/mpsc to support async base on crossbeam 
@@ -338,9 +323,14 @@
 - 🌟 👤 [ssnob](https://github.com/ssnob) Starred [emilk/loguru](https://github.com/emilk/loguru)
   > A lightweight C++ logging library
 
+### [thebabush](https://github.com/thebabush)
+- 🌟 👤 [thebabush](https://github.com/thebabush) Starred [GDATAAdvancedAnalytics/hashdb-local](https://github.com/GDATAAdvancedAnalytics/hashdb-local)
+
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [kitao/pyxel](https://github.com/kitao/pyxel)
   > A retro game engine for Python
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [yabits/uefi](https://github.com/yabits/uefi)
+  > Fast and lightweight yet another UEFI implementation
 
 ### [wishihab](https://github.com/wishihab)
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
@@ -360,5 +350,5 @@
 
 
 ---
-*最后更新于 2025-10-01 18:32:55 UTC*
+*最后更新于 2025-10-01 19:17:51 UTC*
 *历史记录保存在 `archive` 目录中。*
