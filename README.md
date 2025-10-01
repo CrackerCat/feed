@@ -20,6 +20,12 @@
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger)
   > Autoswagger by Intruder - detect API auth weaknesses
 
+### [ChrisLinn](https://github.com/ChrisLinn)
+- 🌟 👤 [ChrisLinn](https://github.com/ChrisLinn) Starred [Nickqiaoo/chatcode](https://github.com/Nickqiaoo/chatcode)
+  > A vibe coding telegram bot.
+- 🌟 👤 [ChrisLinn](https://github.com/ChrisLinn) Starred [slopus/happy](https://github.com/slopus/happy)
+  > Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+
 ### [Fplyth0ner-Combie](https://github.com/Fplyth0ner-Combie)
 - 🍴 👤 [Fplyth0ner-Combie](https://github.com/Fplyth0ner-Combie) Forked [itm4n/PrintSpoofer](https://github.com/itm4n/PrintSpoofer) to [Fplyth0ner-Combie/PrintSpoofer](https://github.com/Fplyth0ner-Combie/PrintSpoofer)
   > Abusing impersonation privileges through the "Printer Bug"
@@ -39,6 +45,10 @@
   > WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hyperviso...
 - 🌟 👤 [Idov31](https://github.com/Idov31) Starred [falcosecurity/kernel-crawler](https://github.com/falcosecurity/kernel-crawler)
   > A tool to crawl Linux kernel versions
+
+### [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
+- 🌟 👤 [KagurazakaHanabi](https://github.com/KagurazakaHanabi) Starred [wofsauge/External-Item-Descriptions](https://github.com/wofsauge/External-Item-Descriptions)
+  > A mod for the game "The Binding of Isaac: Rebirth" that displays useful informations for items, trin...
 
 ### [LGG686](https://github.com/LGG686)
 - 🍴 👤 [LGG686](https://github.com/LGG686) Forked [CrackerCat/Portal1](https://github.com/CrackerCat/Portal1) to [LGG686/Portal999](https://github.com/LGG686/Portal999)
@@ -183,6 +193,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [emproof-com/webinars](https://github.com/emproof-com/webinars) to [gmh5225/webinars](https://github.com/gmh5225/webinars)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [TryHackBox/Open-source-intelligence](https://github.com/TryHackBox/Open-source-intelligence) to [gmh5225/Open-source-intelligence](https://github.com/gmh5225/Open-source-intelligence)
   > We will provide here all the resources related to OSINT in the field of Cybersecurity . By THB Team
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) to [gmh5225/npm-check-updates](https://github.com/gmh5225/npm-check-updates)
+  > Find newer versions of package dependencies than what your package.json allows
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [yield-basis/yb-core](https://github.com/yield-basis/yb-core) to [gmh5225/yb-core](https://github.com/gmh5225/yb-core)
+  > Autoleverage AMM and leveraged liquidity token
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - 🌟 👤 [goatmilkkk](https://github.com/goatmilkkk) Starred [rendercv/rendercv](https://github.com/rendercv/rendercv)
@@ -203,9 +217,6 @@
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [gameknife/gkNextEngine](https://github.com/gameknife/gkNextEngine)
   > gkNextEngine: cross platform 3D game engine written in modern c++ and vulkan with modern rendering f...
-
-### [jianglin-code](https://github.com/jianglin-code)
-- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Duisterhof/rayst3r](https://github.com/Duisterhof/rayst3r)
 
 ### [jverkoey](https://github.com/jverkoey)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Mazda-CX-70](https://github.com/OBDb/Mazda-CX-70)
@@ -338,5 +349,5 @@
 
 
 ---
-*最后更新于 2025-10-01 21:38:34 UTC*
+*最后更新于 2025-10-01 22:21:25 UTC*
 *历史记录保存在 `archive` 目录中。*
