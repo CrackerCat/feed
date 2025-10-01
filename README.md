@@ -66,9 +66,19 @@
 - 🌟 👤 [Udyz](https://github.com/Udyz) Starred [openplaceteam/openplace](https://github.com/openplaceteam/openplace)
 - 🍴 👤 [Udyz](https://github.com/Udyz) Forked [openplaceteam/openplace](https://github.com/openplaceteam/openplace) to [Udyz/openplace](https://github.com/Udyz/openplace)
 
+### [Zephkek](https://github.com/Zephkek)
+- 🍴 👤 [Zephkek](https://github.com/Zephkek) Forked [github/advisory-database](https://github.com/github/advisory-database) to [Zephkek/advisory-database](https://github.com/Zephkek/advisory-database)
+  > Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the...
+
 ### [amezin](https://github.com/amezin)
 - 🍴 👤 [amezin](https://github.com/amezin) Forked [plesk/dist-upgrader](https://github.com/plesk/dist-upgrader) to [amezin/dist-upgrader](https://github.com/amezin/dist-upgrader)
   > Plesk dist-upgrader tool
+
+### [bb33bb](https://github.com/bb33bb)
+- 🌟 👤 [bb33bb](https://github.com/bb33bb) Starred [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader)
+  > macOS Adobe apps download & installer
+- 🍴 👤 [bb33bb](https://github.com/bb33bb) Forked [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) to [bb33bb/Adobe-Downloader](https://github.com/bb33bb/Adobe-Downloader)
+  > macOS Adobe apps download & installer
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [sneakerhax/Prompts](https://github.com/sneakerhax/Prompts)
@@ -127,6 +137,41 @@
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [backtracking/ocamlgraph](https://github.com/backtracking/ocamlgraph)
   > OCaml graph library
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [phiresky/isbn-visualization](https://github.com/phiresky/isbn-visualization)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
+  > List of 1000 JavaScript Interview Questions
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [LetsDefend/SOC-Interview-Questions](https://github.com/LetsDefend/SOC-Interview-Questions)
+  > SOC Interview Questions
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [osgil-defense/TARS](https://github.com/osgil-defense/TARS)
+  > Using Agents To Automate Pentesting
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Xcatolin/OSWE-Prep](https://github.com/Xcatolin/OSWE-Prep)
+  > Resources and exploits made for OSWE preparation. 
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [computer-engineer/WhiteboxPentest](https://github.com/computer-engineer/WhiteboxPentest)
+  > Whitebox source code review cheatsheet (Based on AWAE syllabus)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)
+  > The OWASP Cheat Sheet Series was created to provide a concise collection of high value information o...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [lwindolf/lzone-cheat-sheets](https://github.com/lwindolf/lzone-cheat-sheets)
+  > A collection of sysadmin / DevOps / system architecture cheat sheets hosted on https://lzone.de
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [sector07-dev/RPI_DEV](https://github.com/sector07-dev/RPI_DEV)
+  > Files and resources for the cyberdeck RPI DEV (Raspberry Pi Development Platform). This includes .st...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [arrowpc/palettum](https://github.com/arrowpc/palettum)
+  > Web app and CLI tool that lets you recolor images, GIFs, and videos with any custom palette of your ...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [ThioJoe/Browser-Based-Tools](https://github.com/ThioJoe/Browser-Based-Tools)
+  > Thio's Browser-Based Tools: Various utilities and tools that run locally right in your browser
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [CEPT-VZG/digipin](https://github.com/CEPT-VZG/digipin)
+  > DIGIPIN is an open-source, geo-coded addressing system developed by India Post in collaboration with...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero)
+  > A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
+  > Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
+  > CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)
+  > Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with ...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+  > This repository contains a 90-day cybersecurity study plan, along with resources and materials for l...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [vishnuraghavb/EnBizCard](https://github.com/vishnuraghavb/EnBizCard)
+  > EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be ...
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
@@ -148,6 +193,16 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [emproof-com/webinars](https://github.com/emproof-com/webinars) to [gmh5225/webinars](https://github.com/gmh5225/webinars)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [TryHackBox/Open-source-intelligence](https://github.com/TryHackBox/Open-source-intelligence) to [gmh5225/Open-source-intelligence](https://github.com/gmh5225/Open-source-intelligence)
   > We will provide here all the resources related to OSINT in the field of Cybersecurity . By THB Team
+
+### [guanchao](https://github.com/guanchao)
+- 🌟 👤 [guanchao](https://github.com/guanchao) Starred [emcie-co/parlant](https://github.com/emcie-co/parlant)
+  > LLM agents built for control. Designed for real-world use. Deployed in minutes.
+
+### [hzhsohn](https://github.com/hzhsohn)
+- 🍴 👤 [hzhsohn](https://github.com/hzhsohn) Forked [armink/FlashDB](https://github.com/armink/FlashDB) to [hzhsohn/FlashDB](https://github.com/hzhsohn/FlashDB)
+  > An ultra-lightweight database that supports key-value and time series data |  一款支持 KV 数据和时序数据的超轻量级数据...
+- 🍴 👤 [hzhsohn](https://github.com/hzhsohn) Forked [RT-Thread-packages/fal](https://github.com/RT-Thread-packages/fal) to [hzhsohn/fal](https://github.com/hzhsohn/fal)
+  > Flash Abstraction Layer implentment. Manage flash device and partition.
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Duisterhof/rayst3r](https://github.com/Duisterhof/rayst3r)
@@ -177,6 +232,14 @@
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Toyota-Celica](https://github.com/OBDb/Toyota-Celica)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Toyota-Matrix](https://github.com/OBDb/Toyota-Matrix)
 
+### [kernelwernel](https://github.com/kernelwernel)
+- 🌟 👤 [kernelwernel](https://github.com/kernelwernel) Starred [vmsplit/IceVMM](https://github.com/vmsplit/IceVMM)
+  > minimal hypervisor for aarch64 (WIP)
+
+### [lux-QAQ](https://github.com/lux-QAQ)
+- 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [cscs181/QQ-GitHub-Bot](https://github.com/cscs181/QQ-GitHub-Bot)
+  > GitHub Bot for QQ
+
 ### [magojohnji](https://github.com/magojohnji)
 - 🌟 👤 [magojohnji](https://github.com/magojohnji) Starred [openssl/openssl](https://github.com/openssl/openssl)
   > TLS/SSL and crypto library
@@ -192,6 +255,10 @@
 ### [nick-botticelli](https://github.com/nick-botticelli)
 - ✨ 👤 [nick-botticelli](https://github.com/nick-botticelli) Created new repo [nick-botticelli/super-micro-tss](https://github.com/nick-botticelli/super-micro-tss)
   > micro-tss fork (https://gitlab.com/turbocooler/micro-tss)
+
+### [oblique](https://github.com/oblique)
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [frostyplanet/crossfire-rs](https://github.com/frostyplanet/crossfire-rs)
+  > A lockless mpmc/mpsc to support async base on crossbeam 
 
 ### [omeraydindev](https://github.com/omeraydindev)
 - 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway)
@@ -223,6 +290,10 @@
 - 🌟 👤 [ssnob](https://github.com/ssnob) Starred [emilk/loguru](https://github.com/emilk/loguru)
   > A lightweight C++ logging library
 
+### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [kitao/pyxel](https://github.com/kitao/pyxel)
+  > A retro game engine for Python
+
 ### [wishihab](https://github.com/wishihab)
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
   > Financial data platform for analysts, quants and AI agents.
@@ -241,5 +312,5 @@
 
 
 ---
-*最后更新于 2025-10-01 15:41:52 UTC*
+*最后更新于 2025-10-01 16:29:00 UTC*
 *历史记录保存在 `archive` 目录中。*
