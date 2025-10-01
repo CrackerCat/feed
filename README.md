@@ -31,6 +31,8 @@
 ### [Idov31](https://github.com/Idov31)
 - 🌟 👤 [Idov31](https://github.com/Idov31) Starred [x86matthew/WinVisor](https://github.com/x86matthew/WinVisor)
   > WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hyperviso...
+- 🌟 👤 [Idov31](https://github.com/Idov31) Starred [falcosecurity/kernel-crawler](https://github.com/falcosecurity/kernel-crawler)
+  > A tool to crawl Linux kernel versions
 
 ### [LGG686](https://github.com/LGG686)
 - 🍴 👤 [LGG686](https://github.com/LGG686) Forked [CrackerCat/Portal1](https://github.com/CrackerCat/Portal1) to [LGG686/Portal999](https://github.com/LGG686/Portal999)
@@ -45,6 +47,8 @@
   > A repo to put the SHM MOD Changelog for the Companion to fetch... DID YOU KNOW? - SHM MOD is maintai...
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)
   > A free, source-available and fair-code licensed mac app cleaner
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [eeriedusk/knockles](https://github.com/eeriedusk/knockles)
+  > eBPF Port Knocking Tool
 
 ### [NS-Sp4ce](https://github.com/NS-Sp4ce)
 - 🌟 👤 [NS-Sp4ce](https://github.com/NS-Sp4ce) Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -73,6 +77,12 @@
 ### [Zephkek](https://github.com/Zephkek)
 - 🍴 👤 [Zephkek](https://github.com/Zephkek) Forked [github/advisory-database](https://github.com/github/advisory-database) to [Zephkek/advisory-database](https://github.com/Zephkek/advisory-database)
   > Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the...
+
+### [ZeroMemoryEx](https://github.com/ZeroMemoryEx)
+- 🌟 👤 [ZeroMemoryEx](https://github.com/ZeroMemoryEx) Starred [ambionics/phpggc](https://github.com/ambionics/phpggc)
+  > PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command l...
+- 🌟 👤 [ZeroMemoryEx](https://github.com/ZeroMemoryEx) Starred [synacktiv/laravel-crypto-killer](https://github.com/synacktiv/laravel-crypto-killer)
+  > A tool designed to exploit bad implementations of decryption mechanisms in Laravel applications.
 
 ### [amezin](https://github.com/amezin)
 - 🍴 👤 [amezin](https://github.com/amezin) Forked [plesk/dist-upgrader](https://github.com/plesk/dist-upgrader) to [amezin/dist-upgrader](https://github.com/amezin/dist-upgrader)
@@ -201,6 +211,10 @@
 - 🚀 👤 [dwisiswant0](https://github.com/dwisiswant0) Made [dwisiswant0/godoc](https://github.com/dwisiswant0/godoc) public
   > Package godoc provides functionality for extracting and outputting Go package documentation in multi...
 
+### [easychen](https://github.com/easychen)
+- ✨ 👤 [easychen](https://github.com/easychen) Created new repo [easychen/aideer](https://github.com/easychen/aideer)
+  > AI assets manage tool
+
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [isar/isar](https://github.com/isar/isar)
   > Extremely fast, easy to use, and fully async NoSQL database for Flutter
@@ -268,9 +282,19 @@
 - 🌟 👤 [magojohnji](https://github.com/magojohnji) Starred [openssl/openssl](https://github.com/openssl/openssl)
   > TLS/SSL and crypto library
 
+### [merlinxcy](https://github.com/merlinxcy)
+- 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [rustsec/rustsec](https://github.com/rustsec/rustsec)
+  > RustSec API & Tooling
+- 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [duckpigdog/Sec-Interview](https://github.com/duckpigdog/Sec-Interview)
+  > 全网首发！！！上万道网安面试题总结（涵盖护网、渗透、红队、逆向、密码、二进制、区块链、AI、云）
+
 ### [motikan2010](https://github.com/motikan2010)
 - 🌟 👤 [motikan2010](https://github.com/motikan2010) Starred [stivenhacker/GhostStrike](https://github.com/stivenhacker/GhostStrike)
   > Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C++ tool for et...
+
+### [mstfknn](https://github.com/mstfknn)
+- 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+  > Financial data platform for analysts, quants and AI agents.
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [P1sec/hermes-dec](https://github.com/P1sec/hermes-dec)
@@ -336,5 +360,5 @@
 
 
 ---
-*最后更新于 2025-10-01 17:41:11 UTC*
+*最后更新于 2025-10-01 18:32:55 UTC*
 *历史记录保存在 `archive` 目录中。*
