@@ -74,6 +74,10 @@
 - 🍴 👤 [Natsume324](https://github.com/Natsume324) Forked [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) to [Natsume324/SukiSU-Ultra](https://github.com/Natsume324/SukiSU-Ultra)
   > Kernel-based Android Root Solution & KPM
 
+### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [werdhaihai/msi_lateral_mv](https://github.com/werdhaihai/msi_lateral_mv)
+  > Lateral Movement Bof with MSI ODBC Driver Install
+
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [jadx-decompiler/jadx-plugins-list](https://github.com/jadx-decompiler/jadx-plugins-list)
   > Jadx plugins community list
@@ -349,5 +353,5 @@
 
 
 ---
-*最后更新于 2025-10-01 22:21:25 UTC*
+*最后更新于 2025-10-01 22:40:27 UTC*
 *历史记录保存在 `archive` 目录中。*
