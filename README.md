@@ -8,6 +8,14 @@
 - 🌟 👤 [AlphabugX](https://github.com/AlphabugX) Starred [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)
   > Automatic SQL injection and database takeover tool
 
+### [CHYbeta](https://github.com/CHYbeta)
+- 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger)
+  > Autoswagger by Intruder - detect API auth weaknesses
+
+### [Trijal08](https://github.com/Trijal08)
+- 🌟 👤 [Trijal08](https://github.com/Trijal08) Starred [Mahmud0808/PixelLauncherEnhanced](https://github.com/Mahmud0808/PixelLauncherEnhanced)
+  > An Xposed module to unleash the full potential of your launcher!
+
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [sneakerhax/Prompts](https://github.com/sneakerhax/Prompts)
   > Red Team AI prompts
@@ -69,6 +77,19 @@
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
   > 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / ...
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [kagisearch/kite-public](https://github.com/kagisearch/kite-public)
+  > Open source repository for Kite, news app by Kagi.
+
+### [einverne](https://github.com/einverne)
+- 🌟 👤 [einverne](https://github.com/einverne) Starred [isar/isar](https://github.com/isar/isar)
+  > Extremely fast, easy to use, and fully async NoSQL database for Flutter
+
+### [gmh5225](https://github.com/gmh5225)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [emproof-com/nrf52-glitchattack](https://github.com/emproof-com/nrf52-glitchattack) to [gmh5225/nrf52-glitchattack](https://github.com/gmh5225/nrf52-glitchattack)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [emproof-com/tricore-binutils-gdb](https://github.com/emproof-com/tricore-binutils-gdb) to [gmh5225/tricore-binutils-gdb](https://github.com/gmh5225/tricore-binutils-gdb)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [emproof-com/webinars](https://github.com/emproof-com/webinars) to [gmh5225/webinars](https://github.com/gmh5225/webinars)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [TryHackBox/Open-source-intelligence](https://github.com/TryHackBox/Open-source-intelligence) to [gmh5225/Open-source-intelligence](https://github.com/gmh5225/Open-source-intelligence)
+  > We will provide here all the resources related to OSINT in the field of Cybersecurity . By THB Team
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Duisterhof/rayst3r](https://github.com/Duisterhof/rayst3r)
@@ -77,10 +98,34 @@
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Audi-SQ7](https://github.com/OBDb/Audi-SQ7)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Ford-Flex](https://github.com/OBDb/Ford-Flex)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/BMW-3-Series-eDrive](https://github.com/OBDb/BMW-3-Series-eDrive)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Mazda-CX-70](https://github.com/OBDb/Mazda-CX-70)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Mazda-Tribute](https://github.com/OBDb/Mazda-Tribute)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/McLaren-Artura](https://github.com/OBDb/McLaren-Artura)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Mitsubishi-Pajero](https://github.com/OBDb/Mitsubishi-Pajero)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Mitsubishi-Triton](https://github.com/OBDb/Mitsubishi-Triton)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Nissan-Armada](https://github.com/OBDb/Nissan-Armada)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Nissan-Navara](https://github.com/OBDb/Nissan-Navara)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Nissan-Titan](https://github.com/OBDb/Nissan-Titan)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Pontiac-Vibe](https://github.com/OBDb/Pontiac-Vibe)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Scion-iQ](https://github.com/OBDb/Scion-iQ)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Scion-xB](https://github.com/OBDb/Scion-xB)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Seat-Altea](https://github.com/OBDb/Seat-Altea)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Skoda-Elroq](https://github.com/OBDb/Skoda-Elroq)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Subaru-Baja](https://github.com/OBDb/Subaru-Baja)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Suzuki-Ignis](https://github.com/OBDb/Suzuki-Ignis)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Suzuki-SX4](https://github.com/OBDb/Suzuki-SX4)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Tata-Tiago](https://github.com/OBDb/Tata-Tiago)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Toyota-Alphard](https://github.com/OBDb/Toyota-Alphard)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Toyota-Celica](https://github.com/OBDb/Toyota-Celica)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Toyota-Matrix](https://github.com/OBDb/Toyota-Matrix)
 
 ### [ssnob](https://github.com/ssnob)
 - 🌟 👤 [ssnob](https://github.com/ssnob) Starred [emilk/loguru](https://github.com/emilk/loguru)
   > A lightweight C++ logging library
+
+### [wishihab](https://github.com/wishihab)
+- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+  > Financial data platform for analysts, quants and AI agents.
 
 ### [yuan-xy](https://github.com/yuan-xy)
 - 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima)
@@ -88,5 +133,5 @@
 
 
 ---
-*最后更新于 2025-10-01 08:30:52 UTC*
+*最后更新于 2025-10-01 09:25:31 UTC*
 *历史记录保存在 `archive` 目录中。*
