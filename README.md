@@ -20,6 +20,14 @@
 - 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [IOActive/Platbox](https://github.com/IOActive/Platbox)
   > UEFI and SMM Assessment Tool
 
+### [Natsume324](https://github.com/Natsume324)
+- 🍴 👤 [Natsume324](https://github.com/Natsume324) Forked [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) to [Natsume324/SukiSU-Ultra](https://github.com/Natsume324/SukiSU-Ultra)
+  > Kernel-based Android Root Solution & KPM
+
+### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
+- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [jadx-decompiler/jadx-plugins-list](https://github.com/jadx-decompiler/jadx-plugins-list)
+  > Jadx plugins community list
+
 ### [Trijal08](https://github.com/Trijal08)
 - 🌟 👤 [Trijal08](https://github.com/Trijal08) Starred [Mahmud0808/PixelLauncherEnhanced](https://github.com/Mahmud0808/PixelLauncherEnhanced)
   > An Xposed module to unleash the full potential of your launcher!
@@ -153,5 +161,5 @@
 
 
 ---
-*最后更新于 2025-10-01 10:24:34 UTC*
+*最后更新于 2025-10-01 10:43:55 UTC*
 *历史记录保存在 `archive` 目录中。*
