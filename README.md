@@ -12,6 +12,10 @@
 - 🌟 👤 [3intermute](https://github.com/3intermute) Starred [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware)
   > Advanced VM detection library and tool
 
+### [Asabeneh](https://github.com/Asabeneh)
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [comet-ml/opik](https://github.com/comet-ml/opik)
+  > Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehe...
+
 ### [CHYbeta](https://github.com/CHYbeta)
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger)
   > Autoswagger by Intruder - detect API auth weaknesses
@@ -196,12 +200,14 @@
 - 🍴 👤 [hzhsohn](https://github.com/hzhsohn) Forked [RT-Thread-packages/fal](https://github.com/RT-Thread-packages/fal) to [hzhsohn/fal](https://github.com/hzhsohn/fal)
   > Flash Abstraction Layer implentment. Manage flash device and partition.
 
+### [hzqst](https://github.com/hzqst)
+- 🌟 👤 [hzqst](https://github.com/hzqst) Starred [gameknife/gkNextEngine](https://github.com/gameknife/gkNextEngine)
+  > gkNextEngine: cross platform 3D game engine written in modern c++ and vulkan with modern rendering f...
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Duisterhof/rayst3r](https://github.com/Duisterhof/rayst3r)
 
 ### [jverkoey](https://github.com/jverkoey)
-- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Ford-Flex](https://github.com/OBDb/Ford-Flex)
-- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/BMW-3-Series-eDrive](https://github.com/OBDb/BMW-3-Series-eDrive)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Mazda-CX-70](https://github.com/OBDb/Mazda-CX-70)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Mazda-Tribute](https://github.com/OBDb/Mazda-Tribute)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/McLaren-Artura](https://github.com/OBDb/McLaren-Artura)
@@ -279,6 +285,12 @@
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [project-ocre/ocre-runtime](https://github.com/project-ocre/ocre-runtime)
   > Leveraging WebAssembly, Ocre supports OCI-like application containers on Zephyr and Linux in a footp...
 
+### [redbearder](https://github.com/redbearder)
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+  > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [nextcloud/server](https://github.com/nextcloud/server)
+  > ☁️ Nextcloud server, a safe home for all your data
+
 ### [rushiiMachine](https://github.com/rushiiMachine)
 - 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
   > Virtual whiteboard for sketching hand-drawn like diagrams
@@ -308,6 +320,10 @@
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
   > Financial data platform for analysts, quants and AI agents.
 
+### [x-Ai](https://github.com/x-Ai)
+- 🌟 👤 [x-Ai](https://github.com/x-Ai) Starred [redhuntlabs/Awesome-Asset-Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
+  > List of Awesome Asset Discovery Resources
+
 ### [ymdzq](https://github.com/ymdzq)
 - 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [ys1231/MoveCertificate](https://github.com/ys1231/MoveCertificate)
   > 支持Android7-15移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-15, compatible with magiskv20.4+/...
@@ -322,5 +338,5 @@
 
 
 ---
-*最后更新于 2025-10-01 21:19:58 UTC*
+*最后更新于 2025-10-01 21:38:34 UTC*
 *历史记录保存在 `archive` 目录中。*
