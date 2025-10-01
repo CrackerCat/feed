@@ -28,6 +28,10 @@
 - ✨ 👤 [HdShare](https://github.com/HdShare) Created new repo [HdShare/DAuxiliary](https://github.com/HdShare/DAuxiliary)
 - ✨ 👤 [HdShare](https://github.com/HdShare) Created new repo [HdShare/SAuxiliary](https://github.com/HdShare/SAuxiliary)
 
+### [Idov31](https://github.com/Idov31)
+- 🌟 👤 [Idov31](https://github.com/Idov31) Starred [x86matthew/WinVisor](https://github.com/x86matthew/WinVisor)
+  > WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hyperviso...
+
 ### [LGG686](https://github.com/LGG686)
 - 🍴 👤 [LGG686](https://github.com/LGG686) Forked [CrackerCat/Portal1](https://github.com/CrackerCat/Portal1) to [LGG686/Portal999](https://github.com/LGG686/Portal999)
   > Android Lab FakeLocation Service（安卓7~15的虚拟定位服务）
@@ -113,7 +117,7 @@
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [staturnzz/oob_entry](https://github.com/staturnzz/oob_entry)
   > iOS 3.0-10.3.4 tfp0 kernel exploit
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [fuqiuluo/android-wuwa](https://github.com/fuqiuluo/android-wuwa)
-  > Android aarch64 rootkit
+  > Android aarch64 kernel rootkit(driver module)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [VirtualBox/virtualbox](https://github.com/VirtualBox/virtualbox)
   > Source code for Oracle VirtualBox
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [zhuowei/cheese](https://github.com/zhuowei/cheese)
@@ -332,5 +336,5 @@
 
 
 ---
-*最后更新于 2025-10-01 16:48:14 UTC*
+*最后更新于 2025-10-01 17:19:37 UTC*
 *历史记录保存在 `archive` 目录中。*
