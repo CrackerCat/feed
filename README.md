@@ -12,6 +12,10 @@
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger)
   > Autoswagger by Intruder - detect API auth weaknesses
 
+### [LabGuy94](https://github.com/LabGuy94)
+- 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [IOActive/Platbox](https://github.com/IOActive/Platbox)
+  > UEFI and SMM Assessment Tool
+
 ### [Trijal08](https://github.com/Trijal08)
 - 🌟 👤 [Trijal08](https://github.com/Trijal08) Starred [Mahmud0808/PixelLauncherEnhanced](https://github.com/Mahmud0808/PixelLauncherEnhanced)
   > An Xposed module to unleash the full potential of your launcher!
@@ -127,11 +131,15 @@
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
   > Financial data platform for analysts, quants and AI agents.
 
+### [ymdzq](https://github.com/ymdzq)
+- 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [ys1231/MoveCertificate](https://github.com/ys1231/MoveCertificate)
+  > 支持Android7-15移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-15, compatible with magiskv20.4+/...
+
 ### [yuan-xy](https://github.com/yuan-xy)
 - 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima)
   > A tiny C header-only risc-v emulator.
 
 
 ---
-*最后更新于 2025-10-01 09:25:31 UTC*
+*最后更新于 2025-10-01 09:42:27 UTC*
 *历史记录保存在 `archive` 目录中。*
