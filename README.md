@@ -12,13 +12,15 @@
 - 🌟 👤 [3intermute](https://github.com/3intermute) Starred [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware)
   > Advanced VM detection library and tool
 
-### [AlphabugX](https://github.com/AlphabugX)
-- 🌟 👤 [AlphabugX](https://github.com/AlphabugX) Starred [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)
-  > Automatic SQL injection and database takeover tool
-
 ### [CHYbeta](https://github.com/CHYbeta)
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger)
   > Autoswagger by Intruder - detect API auth weaknesses
+
+### [Fplyth0ner-Combie](https://github.com/Fplyth0ner-Combie)
+- 🍴 👤 [Fplyth0ner-Combie](https://github.com/Fplyth0ner-Combie) Forked [itm4n/PrintSpoofer](https://github.com/itm4n/PrintSpoofer) to [Fplyth0ner-Combie/PrintSpoofer](https://github.com/Fplyth0ner-Combie/PrintSpoofer)
+  > Abusing impersonation privileges through the "Printer Bug"
+- 🌟 👤 [Fplyth0ner-Combie](https://github.com/Fplyth0ner-Combie) Starred [itm4n/PrintSpoofer](https://github.com/itm4n/PrintSpoofer)
+  > Abusing impersonation privileges through the "Printer Bug"
 
 ### [GitSquared](https://github.com/GitSquared)
 - 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim)
@@ -101,9 +103,6 @@
   > macOS Adobe apps download & installer
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [backtracking/ocamlgraph](https://github.com/backtracking/ocamlgraph)
-  > OCaml graph library
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [phiresky/isbn-visualization](https://github.com/phiresky/isbn-visualization)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)
   > List of 1000 JavaScript Interview Questions
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [LetsDefend/SOC-Interview-Questions](https://github.com/LetsDefend/SOC-Interview-Questions)
@@ -201,7 +200,6 @@
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Duisterhof/rayst3r](https://github.com/Duisterhof/rayst3r)
 
 ### [jverkoey](https://github.com/jverkoey)
-- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Audi-SQ7](https://github.com/OBDb/Audi-SQ7)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Ford-Flex](https://github.com/OBDb/Ford-Flex)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/BMW-3-Series-eDrive](https://github.com/OBDb/BMW-3-Series-eDrive)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Mazda-CX-70](https://github.com/OBDb/Mazda-CX-70)
@@ -324,5 +322,5 @@
 
 
 ---
-*最后更新于 2025-10-01 19:39:13 UTC*
+*最后更新于 2025-10-01 20:25:03 UTC*
 *历史记录保存在 `archive` 目录中。*
