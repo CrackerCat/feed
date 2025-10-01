@@ -20,6 +20,10 @@
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger)
   > Autoswagger by Intruder - detect API auth weaknesses
 
+### [LGG686](https://github.com/LGG686)
+- 🍴 👤 [LGG686](https://github.com/LGG686) Forked [CrackerCat/Portal1](https://github.com/CrackerCat/Portal1) to [LGG686/Portal999](https://github.com/LGG686/Portal999)
+  > Android Lab FakeLocation Service（安卓7~15的虚拟定位服务）
+
 ### [LabGuy94](https://github.com/LabGuy94)
 - 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [IOActive/Platbox](https://github.com/IOActive/Platbox)
   > UEFI and SMM Assessment Tool
@@ -47,6 +51,10 @@
 ### [Udyz](https://github.com/Udyz)
 - 🌟 👤 [Udyz](https://github.com/Udyz) Starred [openplaceteam/openplace](https://github.com/openplaceteam/openplace)
 - 🍴 👤 [Udyz](https://github.com/Udyz) Forked [openplaceteam/openplace](https://github.com/openplaceteam/openplace) to [Udyz/openplace](https://github.com/Udyz/openplace)
+
+### [amezin](https://github.com/amezin)
+- 🍴 👤 [amezin](https://github.com/amezin) Forked [plesk/dist-upgrader](https://github.com/plesk/dist-upgrader) to [amezin/dist-upgrader](https://github.com/amezin/dist-upgrader)
+  > Plesk dist-upgrader tool
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [sneakerhax/Prompts](https://github.com/sneakerhax/Prompts)
@@ -112,6 +120,10 @@
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [kagisearch/kite-public](https://github.com/kagisearch/kite-public)
   > Open source repository for Kite, news app by Kagi.
 
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🚀 👤 [dwisiswant0](https://github.com/dwisiswant0) Made [dwisiswant0/godoc](https://github.com/dwisiswant0/godoc) public
+  > Package godoc provides functionality for extracting and outputting Go package documentation in multi...
+
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [isar/isar](https://github.com/isar/isar)
   > Extremely fast, easy to use, and fully async NoSQL database for Flutter
@@ -155,13 +167,37 @@
 - 🌟 👤 [magojohnji](https://github.com/magojohnji) Starred [openssl/openssl](https://github.com/openssl/openssl)
   > TLS/SSL and crypto library
 
+### [motikan2010](https://github.com/motikan2010)
+- 🌟 👤 [motikan2010](https://github.com/motikan2010) Starred [stivenhacker/GhostStrike](https://github.com/stivenhacker/GhostStrike)
+  > Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C++ tool for et...
+
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [P1sec/hermes-dec](https://github.com/P1sec/hermes-dec)
   > A reverse engineering tool for decompiling and disassembling the React Native Hermes bytecode
 
+### [nick-botticelli](https://github.com/nick-botticelli)
+- ✨ 👤 [nick-botticelli](https://github.com/nick-botticelli) Created new repo [nick-botticelli/super-micro-tss](https://github.com/nick-botticelli/super-micro-tss)
+  > micro-tss fork (https://gitlab.com/turbocooler/micro-tss)
+
+### [rankalpha](https://github.com/rankalpha)
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [secnotes/elfspirit](https://github.com/secnotes/elfspirit) to [rankalpha/elfspirit](https://github.com/rankalpha/elfspirit)
+  > ELF static analysis and injection framework that parse, manipulate, patch and camouflage ELF files.
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) to [rankalpha/LinkSwift](https://github.com/rankalpha/LinkSwift)
+  > 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / ...
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [project-ocre/ocre-runtime](https://github.com/project-ocre/ocre-runtime)
+  > Leveraging WebAssembly, Ocre supports OCI-like application containers on Zephyr and Linux in a footp...
+
 ### [rushiiMachine](https://github.com/rushiiMachine)
 - 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
   > Virtual whiteboard for sketching hand-drawn like diagrams
+
+### [smallzhong](https://github.com/smallzhong)
+- 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [husseinmuhaisen/Hypervisor](https://github.com/husseinmuhaisen/Hypervisor)
+  > A comprehensive Hypervisor resources repo
+- 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [husseinmuhaisen/Hypervisor](https://github.com/husseinmuhaisen/Hypervisor) to [smallzhong/Hypervisor](https://github.com/smallzhong/Hypervisor)
+  > A comprehensive Hypervisor resources repo
 
 ### [ssnob](https://github.com/ssnob)
 - 🌟 👤 [ssnob](https://github.com/ssnob) Starred [emilk/loguru](https://github.com/emilk/loguru)
@@ -181,5 +217,5 @@
 
 
 ---
-*最后更新于 2025-10-01 11:39:03 UTC*
+*最后更新于 2025-10-01 12:50:07 UTC*
 *历史记录保存在 `archive` 目录中。*
