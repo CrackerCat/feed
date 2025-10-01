@@ -20,6 +20,10 @@
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger)
   > Autoswagger by Intruder - detect API auth weaknesses
 
+### [GitSquared](https://github.com/GitSquared)
+- 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim)
+  > Your Neovim AI sidekick
+
 ### [HdShare](https://github.com/HdShare)
 - ✨ 👤 [HdShare](https://github.com/HdShare) Created new repo [HdShare/DAuxiliary](https://github.com/HdShare/DAuxiliary)
 - ✨ 👤 [HdShare](https://github.com/HdShare) Created new repo [HdShare/SAuxiliary](https://github.com/HdShare/SAuxiliary)
@@ -229,5 +233,5 @@
 
 
 ---
-*最后更新于 2025-10-01 14:23:24 UTC*
+*最后更新于 2025-10-01 14:44:45 UTC*
 *历史记录保存在 `archive` 目录中。*
