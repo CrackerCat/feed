@@ -223,7 +223,11 @@
 - 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima)
   > A tiny C header-only risc-v emulator.
 
+### [zhangyoufu](https://github.com/zhangyoufu)
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [osmocom/simtrace2](https://github.com/osmocom/simtrace2)
+  > Osmocom SIM card tracer, v2.0; mirror of https://gitea.osmocom.org/sim-card/simtrace2
+
 
 ---
-*最后更新于 2025-10-01 13:32:43 UTC*
+*最后更新于 2025-10-01 14:23:24 UTC*
 *历史记录保存在 `archive` 目录中。*
