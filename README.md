@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xricksanchez](https://github.com/0xricksanchez)
+- 🌟 👤 [0xricksanchez](https://github.com/0xricksanchez) Starred [FuzzingLabs/fuzzforge_ai](https://github.com/FuzzingLabs/fuzzforge_ai)
+  > AI-powered workflow automation and AI Agents platform for AppSec, Fuzzing & Offensive Security. Auto...
+
 ### [3intermute](https://github.com/3intermute)
 - 🌟 👤 [3intermute](https://github.com/3intermute) Starred [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware)
   > Advanced VM detection library and tool
@@ -177,5 +181,5 @@
 
 
 ---
-*最后更新于 2025-10-01 11:19:35 UTC*
+*最后更新于 2025-10-01 11:39:03 UTC*
 *历史记录保存在 `archive` 目录中。*
