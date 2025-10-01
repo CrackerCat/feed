@@ -20,6 +20,14 @@
 - 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [IOActive/Platbox](https://github.com/IOActive/Platbox)
   > UEFI and SMM Assessment Tool
 
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [ITDev93/SHM-MOD](https://github.com/ITDev93/SHM-MOD)
+  > A repo to put the SHM MOD Changelog for the Companion to fetch... DID YOU KNOW? - SHM MOD is maintai...
+
+### [NS-Sp4ce](https://github.com/NS-Sp4ce)
+- 🌟 👤 [NS-Sp4ce](https://github.com/NS-Sp4ce) Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+  > Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
 ### [Natsume324](https://github.com/Natsume324)
 - 🍴 👤 [Natsume324](https://github.com/Natsume324) Forked [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) to [Natsume324/SukiSU-Ultra](https://github.com/Natsume324/SukiSU-Ultra)
   > Kernel-based Android Root Solution & KPM
@@ -31,6 +39,10 @@
 ### [Trijal08](https://github.com/Trijal08)
 - 🌟 👤 [Trijal08](https://github.com/Trijal08) Starred [Mahmud0808/PixelLauncherEnhanced](https://github.com/Mahmud0808/PixelLauncherEnhanced)
   > An Xposed module to unleash the full potential of your launcher!
+
+### [Udyz](https://github.com/Udyz)
+- 🌟 👤 [Udyz](https://github.com/Udyz) Starred [openplaceteam/openplace](https://github.com/openplaceteam/openplace)
+- 🍴 👤 [Udyz](https://github.com/Udyz) Forked [openplaceteam/openplace](https://github.com/openplaceteam/openplace) to [Udyz/openplace](https://github.com/Udyz/openplace)
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [sneakerhax/Prompts](https://github.com/sneakerhax/Prompts)
@@ -139,6 +151,10 @@
 - 🌟 👤 [magojohnji](https://github.com/magojohnji) Starred [openssl/openssl](https://github.com/openssl/openssl)
   > TLS/SSL and crypto library
 
+### [mzfr](https://github.com/mzfr)
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [P1sec/hermes-dec](https://github.com/P1sec/hermes-dec)
+  > A reverse engineering tool for decompiling and disassembling the React Native Hermes bytecode
+
 ### [rushiiMachine](https://github.com/rushiiMachine)
 - 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
   > Virtual whiteboard for sketching hand-drawn like diagrams
@@ -161,5 +177,5 @@
 
 
 ---
-*最后更新于 2025-10-01 10:43:55 UTC*
+*最后更新于 2025-10-01 11:19:35 UTC*
 *历史记录保存在 `archive` 目录中。*
