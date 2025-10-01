@@ -172,6 +172,20 @@
   > This repository contains a 90-day cybersecurity study plan, along with resources and materials for l...
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [vishnuraghavb/EnBizCard](https://github.com/vishnuraghavb/EnBizCard)
   > EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be ...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [gabemarshall/Dirp](https://github.com/gabemarshall/Dirp)
+  > A simplistic but fast Web Content Scanner written in nodejs. 
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
+  > game of active directory
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [PyroTek3/ADLab](https://github.com/PyroTek3/ADLab)
+  > Location of some Active Directory lab scripts I have created and find useful
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [aristocratos/btop](https://github.com/aristocratos/btop)
+  > A monitor of resources
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [mozillazg/ptcpdump](https://github.com/mozillazg/ptcpdump)
+  > Process-aware, eBPF-based tcpdump
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [roger1337/JDBG](https://github.com/roger1337/JDBG)
+  > Java Dynamic Reverse Engineering and Debugging Tool
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [lukew3/mathgenerator](https://github.com/lukew3/mathgenerator)
+  > A math problem generator, created for the purpose of giving self-studying students and teaching orga...
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
@@ -194,9 +208,15 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [TryHackBox/Open-source-intelligence](https://github.com/TryHackBox/Open-source-intelligence) to [gmh5225/Open-source-intelligence](https://github.com/gmh5225/Open-source-intelligence)
   > We will provide here all the resources related to OSINT in the field of Cybersecurity . By THB Team
 
+### [goatmilkkk](https://github.com/goatmilkkk)
+- 🌟 👤 [goatmilkkk](https://github.com/goatmilkkk) Starred [rendercv/rendercv](https://github.com/rendercv/rendercv)
+  > Version-control CVs/resumes as source code
+
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [emcie-co/parlant](https://github.com/emcie-co/parlant)
   > LLM agents built for control. Designed for real-world use. Deployed in minutes.
+- 🌟 👤 [guanchao](https://github.com/guanchao) Starred [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent)
+  > A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cur...
 
 ### [hzhsohn](https://github.com/hzhsohn)
 - 🍴 👤 [hzhsohn](https://github.com/hzhsohn) Forked [armink/FlashDB](https://github.com/armink/FlashDB) to [hzhsohn/FlashDB](https://github.com/hzhsohn/FlashDB)
@@ -312,5 +332,5 @@
 
 
 ---
-*最后更新于 2025-10-01 16:29:00 UTC*
+*最后更新于 2025-10-01 16:48:14 UTC*
 *历史记录保存在 `archive` 目录中。*
