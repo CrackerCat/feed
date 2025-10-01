@@ -171,9 +171,11 @@
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [lukew3/mathgenerator](https://github.com/lukew3/mathgenerator)
   > A math problem generator, created for the purpose of giving self-studying students and teaching orga...
 
+### [cutecatsandvirtualmachines](https://github.com/cutecatsandvirtualmachines)
+- 🍴 👤 [cutecatsandvirtualmachines](https://github.com/cutecatsandvirtualmachines) Forked [Z4kSec/IoctlHunter](https://github.com/Z4kSec/IoctlHunter) to [cutecatsandvirtualmachines/IoctlHunter](https://github.com/cutecatsandvirtualmachines/IoctlHunter)
+  > IoctlHunter is a command-line tool designed to simplify the analysis of IOCTL calls made by userland...
+
 ### [dodola](https://github.com/dodola)
-- 🌟 👤 [dodola](https://github.com/dodola) Starred [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
-  > 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / ...
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [kagisearch/kite-public](https://github.com/kagisearch/kite-public)
   > Open source repository for Kite, news app by Kagi.
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [volcengine/MineContext](https://github.com/volcengine/MineContext)
@@ -201,6 +203,16 @@
   > Find newer versions of package dependencies than what your package.json allows
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [yield-basis/yb-core](https://github.com/yield-basis/yb-core) to [gmh5225/yb-core](https://github.com/gmh5225/yb-core)
   > Autoleverage AMM and leveraged liquidity token
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ggml-org/llama.vscode](https://github.com/ggml-org/llama.vscode) to [gmh5225/llama.vscode](https://github.com/gmh5225/llama.vscode)
+  > VS Code extension for LLM-assisted code/text completion
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [OALabs/hashdb-ghidra](https://github.com/OALabs/hashdb-ghidra) to [gmh5225/hashdb-ghidra](https://github.com/gmh5225/hashdb-ghidra)
+  > Ghidra plugin for HashDB
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [OALabs/frida-wshook](https://github.com/OALabs/frida-wshook) to [gmh5225/frida-wshook](https://github.com/gmh5225/frida-wshook)
+  > Script analysis tool based on Frida.re
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [OALabs/frida-extract](https://github.com/OALabs/frida-extract) to [gmh5225/frida-extract](https://github.com/gmh5225/frida-extract)
+  > Frida.re based RunPE (and MapViewOfSection) extraction tool
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [OALabs/PyIATRebuild](https://github.com/OALabs/PyIATRebuild) to [gmh5225/PyIATRebuild](https://github.com/gmh5225/PyIATRebuild)
+  > Automatically rebuild Import Address Table for dumped PE file. With python bindings!
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - 🌟 👤 [goatmilkkk](https://github.com/goatmilkkk) Starred [rendercv/rendercv](https://github.com/rendercv/rendercv)
@@ -221,6 +233,10 @@
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [gameknife/gkNextEngine](https://github.com/gameknife/gkNextEngine)
   > gkNextEngine: cross platform 3D game engine written in modern c++ and vulkan with modern rendering f...
+
+### [jiji262](https://github.com/jiji262)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [ssfun/render-service-manager](https://github.com/ssfun/render-service-manager)
+  > 基于 Cloudflare Workers 开发的 Render 服务管理系统，支持多账号管理和环境变量操作。
 
 ### [jverkoey](https://github.com/jverkoey)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Mazda-CX-70](https://github.com/OBDb/Mazda-CX-70)
@@ -318,10 +334,6 @@
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [husseinmuhaisen/Hypervisor](https://github.com/husseinmuhaisen/Hypervisor) to [smallzhong/Hypervisor](https://github.com/smallzhong/Hypervisor)
   > A comprehensive Hypervisor resources repo
 
-### [ssnob](https://github.com/ssnob)
-- 🌟 👤 [ssnob](https://github.com/ssnob) Starred [emilk/loguru](https://github.com/emilk/loguru)
-  > A lightweight C++ logging library
-
 ### [thebabush](https://github.com/thebabush)
 - 🌟 👤 [thebabush](https://github.com/thebabush) Starred [GDATAAdvancedAnalytics/hashdb-local](https://github.com/GDATAAdvancedAnalytics/hashdb-local)
 
@@ -343,15 +355,11 @@
 - 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [ys1231/MoveCertificate](https://github.com/ys1231/MoveCertificate)
   > 支持Android7-15移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-15, compatible with magiskv20.4+/...
 
-### [yuan-xy](https://github.com/yuan-xy)
-- 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima)
-  > A tiny C header-only risc-v emulator.
-
 ### [zhangyoufu](https://github.com/zhangyoufu)
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [osmocom/simtrace2](https://github.com/osmocom/simtrace2)
   > Osmocom SIM card tracer, v2.0; mirror of https://gitea.osmocom.org/sim-card/simtrace2
 
 
 ---
-*最后更新于 2025-10-01 22:40:27 UTC*
+*最后更新于 2025-10-01 23:19:11 UTC*
 *历史记录保存在 `archive` 目录中。*
