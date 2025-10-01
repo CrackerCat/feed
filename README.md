@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [3intermute](https://github.com/3intermute)
+- 🌟 👤 [3intermute](https://github.com/3intermute) Starred [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware)
+  > Advanced VM detection library and tool
+
 ### [AlphabugX](https://github.com/AlphabugX)
 - 🌟 👤 [AlphabugX](https://github.com/AlphabugX) Starred [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)
   > Automatic SQL injection and database takeover tool
@@ -123,6 +127,14 @@
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Toyota-Celica](https://github.com/OBDb/Toyota-Celica)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Toyota-Matrix](https://github.com/OBDb/Toyota-Matrix)
 
+### [magojohnji](https://github.com/magojohnji)
+- 🌟 👤 [magojohnji](https://github.com/magojohnji) Starred [openssl/openssl](https://github.com/openssl/openssl)
+  > TLS/SSL and crypto library
+
+### [rushiiMachine](https://github.com/rushiiMachine)
+- 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+  > Virtual whiteboard for sketching hand-drawn like diagrams
+
 ### [ssnob](https://github.com/ssnob)
 - 🌟 👤 [ssnob](https://github.com/ssnob) Starred [emilk/loguru](https://github.com/emilk/loguru)
   > A lightweight C++ logging library
@@ -141,5 +153,5 @@
 
 
 ---
-*最后更新于 2025-10-01 09:42:27 UTC*
+*最后更新于 2025-10-01 10:24:34 UTC*
 *历史记录保存在 `archive` 目录中。*
