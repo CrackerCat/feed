@@ -54,6 +54,10 @@
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [jadx-decompiler/jadx-plugins-list](https://github.com/jadx-decompiler/jadx-plugins-list)
   > Jadx plugins community list
 
+### [Tlaster](https://github.com/Tlaster)
+- 🌟 👤 [Tlaster](https://github.com/Tlaster) Starred [Ryu0118/swift-readability](https://github.com/Ryu0118/swift-readability)
+  > 🌐 A Swift library that wraps @mozilla/readability and generalizes the Firefox Reader, which enhances...
+
 ### [Trijal08](https://github.com/Trijal08)
 - 🌟 👤 [Trijal08](https://github.com/Trijal08) Starred [Mahmud0808/PixelLauncherEnhanced](https://github.com/Mahmud0808/PixelLauncherEnhanced)
   > An Xposed module to unleash the full potential of your launcher!
@@ -189,6 +193,10 @@
 - ✨ 👤 [nick-botticelli](https://github.com/nick-botticelli) Created new repo [nick-botticelli/super-micro-tss](https://github.com/nick-botticelli/super-micro-tss)
   > micro-tss fork (https://gitlab.com/turbocooler/micro-tss)
 
+### [omeraydindev](https://github.com/omeraydindev)
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway)
+  > Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
+
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [secnotes/elfspirit](https://github.com/secnotes/elfspirit) to [rankalpha/elfspirit](https://github.com/rankalpha/elfspirit)
   > ELF static analysis and injection framework that parse, manipulate, patch and camouflage ELF files.
@@ -233,5 +241,5 @@
 
 
 ---
-*最后更新于 2025-10-01 15:23:00 UTC*
+*最后更新于 2025-10-01 15:41:52 UTC*
 *历史记录保存在 `archive` 目录中。*
