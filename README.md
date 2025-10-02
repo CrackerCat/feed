@@ -141,6 +141,8 @@
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [airlift/airlift](https://github.com/airlift/airlift)
   > Airlift framework for building REST services
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [Ltamann/ComfyUI-TBG-ETUR](https://github.com/Ltamann/ComfyUI-TBG-ETUR)
+  > 100MP FLUX Enhanced Tiled Upscaler & Refiner Pro - TBG ETUR delivers AI-powered image enhancement fo...
 
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [stellarloop/cardiobot](https://github.com/stellarloop/cardiobot)
@@ -152,5 +154,5 @@
 
 
 ---
-*最后更新于 2025-10-02 21:19:13 UTC*
+*最后更新于 2025-10-02 21:38:18 UTC*
 *历史记录保存在 `archive` 目录中。*
