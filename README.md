@@ -85,6 +85,10 @@
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [alexandreborges/malware-1](https://github.com/alexandreborges/malware-1)
   > Malware source code samples leaked online uploaded to GitHub for those who want to analyze the code.
 
+### [mahmoudimus](https://github.com/mahmoudimus)
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [ulixee/hero](https://github.com/ulixee/hero)
+  > The web browser built for scraping
+
 ### [ntpopgetdope](https://github.com/ntpopgetdope)
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [qualcomm/qemu-hexagon-testing](https://github.com/qualcomm/qemu-hexagon-testing)
   > Test programs to exercise QEMU hexagon
@@ -125,5 +129,5 @@
 
 
 ---
-*最后更新于 2025-10-02 20:24:57 UTC*
+*最后更新于 2025-10-02 20:41:03 UTC*
 *历史记录保存在 `archive` 目录中。*
