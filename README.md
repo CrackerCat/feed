@@ -49,6 +49,10 @@
   > ELF static analysis and injection framework that parse, manipulate, patch and camouflage ELF files.
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC)
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [vitessio/vitess](https://github.com/vitessio/vitess)
+  > Vitess is a database clustering system for horizontal scaling of MySQL.
+
 ### [hackclub](https://github.com/hackclub)
 - 🚀 👤 [hackclub](https://github.com/hackclub) Made [hackclub/blueprint](https://github.com/hackclub/blueprint) public
 
@@ -99,6 +103,10 @@
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [h2zero/NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino)
   > A fork of the NimBLE library structured for compilation with Arduino, for use with ESP32, nRF5x.
 
+### [shadow3aaa](https://github.com/shadow3aaa)
+- 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [osfans/trime](https://github.com/osfans/trime)
+  > 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
+
 ### [startergo](https://github.com/startergo)
 - 🍴 👤 [startergo](https://github.com/startergo) Forked [google/rekall](https://github.com/google/rekall) to [startergo/rekall](https://github.com/startergo/rekall)
   > Rekall Memory Forensic Framework
@@ -117,5 +125,5 @@
 
 
 ---
-*最后更新于 2025-10-02 19:38:47 UTC*
+*最后更新于 2025-10-02 20:24:57 UTC*
 *历史记录保存在 `archive` 目录中。*
