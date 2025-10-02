@@ -22,6 +22,10 @@
   > Mini Moonbit implementation from 摩卡猫猫
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [Mini-Moonbit-Machine/mmm](https://github.com/Mini-Moonbit-Machine/mmm)
 
+### [arpruss](https://github.com/arpruss)
+- 🍴 👤 [arpruss](https://github.com/arpruss) Forked [rnconrad/WiimoteEmulator](https://github.com/rnconrad/WiimoteEmulator) to [arpruss/WiimoteEmulator](https://github.com/arpruss/WiimoteEmulator)
+  > Emulates a Bluetooth Wii controller in software.
+
 ### [chickendrop89](https://github.com/chickendrop89)
 - 🍴 👤 [chickendrop89](https://github.com/chickendrop89) Forked [Justin-dr/REPO-Mutators](https://github.com/Justin-dr/REPO-Mutators) to [chickendrop89/REPO-Mutators](https://github.com/chickendrop89/REPO-Mutators)
   > Level mutators for R.E.P.O.
@@ -29,6 +33,13 @@
 ### [cuiliang](https://github.com/cuiliang)
 - 🌟 👤 [cuiliang](https://github.com/cuiliang) Starred [guojin-yan/DeploySharp](https://github.com/guojin-yan/DeploySharp)
   > Deploying deep learning models on multiple platforms (OpenVINO/ONNX Runtime, etc.)
+
+### [dstmath](https://github.com/dstmath)
+- 🌟 👤 [dstmath](https://github.com/dstmath) Starred [anyc/sparse-fio](https://github.com/anyc/sparse-fio)
+  > Tool to work with sparse files like hard disk images
+- 🌟 👤 [dstmath](https://github.com/dstmath) Starred [secnotes/elfspirit](https://github.com/secnotes/elfspirit)
+  > ELF static analysis and injection framework that parse, manipulate, patch and camouflage ELF files.
+- 🌟 👤 [dstmath](https://github.com/dstmath) Starred [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC)
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page)
@@ -66,5 +77,5 @@
 
 
 ---
-*最后更新于 2025-10-02 17:17:49 UTC*
+*最后更新于 2025-10-02 17:38:30 UTC*
 *历史记录保存在 `archive` 目录中。*
