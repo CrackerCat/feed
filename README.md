@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Bo0oM](https://github.com/Bo0oM)
+- 🌟 👤 [Bo0oM](https://github.com/Bo0oM) Starred [ouspg/urlhandlers](https://github.com/ouspg/urlhandlers)
+  > Discover and Hack URL handlers
+
 ### [Dado1513](https://github.com/Dado1513)
 - 🌟 👤 [Dado1513](https://github.com/Dado1513) Starred [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
   > HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) a...
@@ -26,6 +30,10 @@
 - 🍴 👤 [arpruss](https://github.com/arpruss) Forked [rnconrad/WiimoteEmulator](https://github.com/rnconrad/WiimoteEmulator) to [arpruss/WiimoteEmulator](https://github.com/arpruss/WiimoteEmulator)
   > Emulates a Bluetooth Wii controller in software.
 
+### [byt3n33dl3](https://github.com/byt3n33dl3)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt)
+  > Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" rel...
+
 ### [chickendrop89](https://github.com/chickendrop89)
 - 🍴 👤 [chickendrop89](https://github.com/chickendrop89) Forked [Justin-dr/REPO-Mutators](https://github.com/Justin-dr/REPO-Mutators) to [chickendrop89/REPO-Mutators](https://github.com/chickendrop89/REPO-Mutators)
   > Level mutators for R.E.P.O.
@@ -40,6 +48,9 @@
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [secnotes/elfspirit](https://github.com/secnotes/elfspirit)
   > ELF static analysis and injection framework that parse, manipulate, patch and camouflage ELF files.
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC)
+
+### [hackclub](https://github.com/hackclub)
+- 🚀 👤 [hackclub](https://github.com/hackclub) Made [hackclub/blueprint](https://github.com/hackclub/blueprint) public
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page)
@@ -67,6 +78,14 @@
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [h2zero/NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino)
   > A fork of the NimBLE library structured for compilation with Arduino, for use with ESP32, nRF5x.
 
+### [startergo](https://github.com/startergo)
+- 🍴 👤 [startergo](https://github.com/startergo) Forked [google/rekall](https://github.com/google/rekall) to [startergo/rekall](https://github.com/startergo/rekall)
+  > Rekall Memory Forensic Framework
+
+### [timscriptov](https://github.com/timscriptov)
+- 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [russell-shizhen/AndroidCydiaHook](https://github.com/russell-shizhen/AndroidCydiaHook)
+  > Android Cydia Substrate hooks native C code
+
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [stellarloop/cardiobot](https://github.com/stellarloop/cardiobot)
   > Cardio chatbot is trained on carefully curated datasets related to cardiovascular diseases. It provi...
@@ -77,5 +96,5 @@
 
 
 ---
-*最后更新于 2025-10-02 17:38:30 UTC*
+*最后更新于 2025-10-02 18:32:04 UTC*
 *历史记录保存在 `archive` 目录中。*
