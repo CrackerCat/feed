@@ -107,6 +107,10 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - ✨ 👤 [mrexodia](https://github.com/mrexodia) Created new repo [mrexodia/xss-test](https://github.com/mrexodia/xss-test)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mimoo/RSA-and-LLL-attacks](https://github.com/mimoo/RSA-and-LLL-attacks)
+  > attacking RSA via lattice reductions (LLL)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RsaCtfTool/RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool)
+  > RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data
 
 ### [ntpopgetdope](https://github.com/ntpopgetdope)
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [qualcomm/qemu-hexagon-testing](https://github.com/qualcomm/qemu-hexagon-testing)
@@ -160,5 +164,5 @@
 
 
 ---
-*最后更新于 2025-10-02 23:19:05 UTC*
+*最后更新于 2025-10-02 23:39:04 UTC*
 *历史记录保存在 `archive` 目录中。*
