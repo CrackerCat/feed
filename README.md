@@ -26,6 +26,10 @@
   > Mini Moonbit implementation from 摩卡猫猫
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [Mini-Moonbit-Machine/mmm](https://github.com/Mini-Moonbit-Machine/mmm)
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [rnwood/smtp4dev](https://github.com/rnwood/smtp4dev)
+  > smtp4dev - the fake smtp email server for development and testing
+
 ### [arpruss](https://github.com/arpruss)
 - 🍴 👤 [arpruss](https://github.com/arpruss) Forked [rnconrad/WiimoteEmulator](https://github.com/rnconrad/WiimoteEmulator) to [arpruss/WiimoteEmulator](https://github.com/arpruss/WiimoteEmulator)
   > Emulates a Bluetooth Wii controller in software.
@@ -74,6 +78,10 @@
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [gaozihang/ShadowMap_Point_Light_OpenGL](https://github.com/gaozihang/ShadowMap_Point_Light_OpenGL) to [hzqst/ShadowMap_Point_Light_OpenGL](https://github.com/hzqst/ShadowMap_Point_Light_OpenGL)
   > ShadowMap_Point_Light_OpenGL4.3(omnidirectional shadow maps)
 
+### [k0mraid3](https://github.com/k0mraid3)
+- 🌟 👤 [k0mraid3](https://github.com/k0mraid3) Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+  > An open-source AI agent that brings the power of Gemini directly into your terminal.
+
 ### [kentcdodds](https://github.com/kentcdodds)
 - ✨ 👤 [kentcdodds](https://github.com/kentcdodds) Created new repo [kentcdodds/mcp-demo](https://github.com/kentcdodds/mcp-demo)
 
@@ -85,9 +93,16 @@
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [alexandreborges/malware-1](https://github.com/alexandreborges/malware-1)
   > Malware source code samples leaked online uploaded to GitHub for those who want to analyze the code.
 
+### [magojohnji](https://github.com/magojohnji)
+- 🌟 👤 [magojohnji](https://github.com/magojohnji) Starred [nextcloud/server](https://github.com/nextcloud/server)
+  > ☁️ Nextcloud server, a safe home for all your data
+
 ### [mahmoudimus](https://github.com/mahmoudimus)
 - 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [ulixee/hero](https://github.com/ulixee/hero)
   > The web browser built for scraping
+
+### [mrexodia](https://github.com/mrexodia)
+- ✨ 👤 [mrexodia](https://github.com/mrexodia) Created new repo [mrexodia/xss-test](https://github.com/mrexodia/xss-test)
 
 ### [ntpopgetdope](https://github.com/ntpopgetdope)
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [qualcomm/qemu-hexagon-testing](https://github.com/qualcomm/qemu-hexagon-testing)
@@ -115,9 +130,17 @@
 - 🍴 👤 [startergo](https://github.com/startergo) Forked [google/rekall](https://github.com/google/rekall) to [startergo/rekall](https://github.com/startergo/rekall)
   > Rekall Memory Forensic Framework
 
+### [t-wy](https://github.com/t-wy)
+- 🍴 👤 [t-wy](https://github.com/t-wy) Forked [AlaSQL/alasql](https://github.com/AlaSQL/alasql) to [t-wy/alasql](https://github.com/t-wy/alasql)
+  > AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tab...
+
 ### [timscriptov](https://github.com/timscriptov)
 - 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [russell-shizhen/AndroidCydiaHook](https://github.com/russell-shizhen/AndroidCydiaHook)
   > Android Cydia Substrate hooks native C code
+
+### [w00tzenheimer](https://github.com/w00tzenheimer)
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [airlift/airlift](https://github.com/airlift/airlift)
+  > Airlift framework for building REST services
 
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [stellarloop/cardiobot](https://github.com/stellarloop/cardiobot)
@@ -129,5 +152,5 @@
 
 
 ---
-*最后更新于 2025-10-02 20:41:03 UTC*
+*最后更新于 2025-10-02 21:19:13 UTC*
 *历史记录保存在 `archive` 目录中。*
