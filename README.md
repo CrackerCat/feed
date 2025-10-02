@@ -22,6 +22,10 @@
   > Mini Moonbit implementation from 摩卡猫猫
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [Mini-Moonbit-Machine/mmm](https://github.com/Mini-Moonbit-Machine/mmm)
 
+### [chickendrop89](https://github.com/chickendrop89)
+- 🍴 👤 [chickendrop89](https://github.com/chickendrop89) Forked [Justin-dr/REPO-Mutators](https://github.com/Justin-dr/REPO-Mutators) to [chickendrop89/REPO-Mutators](https://github.com/chickendrop89/REPO-Mutators)
+  > Level mutators for R.E.P.O.
+
 ### [cuiliang](https://github.com/cuiliang)
 - 🌟 👤 [cuiliang](https://github.com/cuiliang) Starred [guojin-yan/DeploySharp](https://github.com/guojin-yan/DeploySharp)
   > Deploying deep learning models on multiple platforms (OpenVINO/ONNX Runtime, etc.)
@@ -62,5 +66,5 @@
 
 
 ---
-*最后更新于 2025-10-02 16:47:31 UTC*
+*最后更新于 2025-10-02 17:17:49 UTC*
 *历史记录保存在 `archive` 目录中。*
