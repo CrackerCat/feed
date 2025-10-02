@@ -66,6 +66,13 @@
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [kissbeni/tinyhttp](https://github.com/kissbeni/tinyhttp)
   > A tiny HTTP server library written in modern C++ with REST and WS support, used mostly in my embedde...
 
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [gaozihang/ShadowMap_Point_Light_OpenGL](https://github.com/gaozihang/ShadowMap_Point_Light_OpenGL) to [hzqst/ShadowMap_Point_Light_OpenGL](https://github.com/hzqst/ShadowMap_Point_Light_OpenGL)
+  > ShadowMap_Point_Light_OpenGL4.3(omnidirectional shadow maps)
+
+### [kentcdodds](https://github.com/kentcdodds)
+- ✨ 👤 [kentcdodds](https://github.com/kentcdodds) Created new repo [kentcdodds/mcp-demo](https://github.com/kentcdodds/mcp-demo)
+
 ### [lamster2018](https://github.com/lamster2018)
 - 🌟 👤 [lamster2018](https://github.com/lamster2018) Starred [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
   > 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
@@ -73,6 +80,10 @@
 ### [m0n0ph1](https://github.com/m0n0ph1)
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [alexandreborges/malware-1](https://github.com/alexandreborges/malware-1)
   > Malware source code samples leaked online uploaded to GitHub for those who want to analyze the code.
+
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [pachli/pachli-android](https://github.com/pachli/pachli-android)
+  > The Pachli Android app
 
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [h2zero/NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino)
@@ -96,5 +107,5 @@
 
 
 ---
-*最后更新于 2025-10-02 18:32:04 UTC*
+*最后更新于 2025-10-02 19:17:09 UTC*
 *历史记录保存在 `archive` 目录中。*
