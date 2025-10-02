@@ -26,6 +26,10 @@
   > Mini Moonbit implementation from 摩卡猫猫
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [Mini-Moonbit-Machine/mmm](https://github.com/Mini-Moonbit-Machine/mmm)
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Mortd3kay/liquid-glass-android](https://github.com/Mortd3kay/liquid-glass-android)
+  > ✨ Glass morphism library for Jetpack Compose with AGSL shaders (Android 13+). Supports blur, distort...
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [rnwood/smtp4dev](https://github.com/rnwood/smtp4dev)
   > smtp4dev - the fake smtp email server for development and testing
@@ -154,5 +158,5 @@
 
 
 ---
-*最后更新于 2025-10-02 21:38:18 UTC*
+*最后更新于 2025-10-02 22:20:20 UTC*
 *历史记录保存在 `archive` 目录中。*
