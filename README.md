@@ -81,9 +81,19 @@
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [alexandreborges/malware-1](https://github.com/alexandreborges/malware-1)
   > Malware source code samples leaked online uploaded to GitHub for those who want to analyze the code.
 
+### [ntpopgetdope](https://github.com/ntpopgetdope)
+- 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [qualcomm/qemu-hexagon-testing](https://github.com/qualcomm/qemu-hexagon-testing)
+  > Test programs to exercise QEMU hexagon
+
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [pachli/pachli-android](https://github.com/pachli/pachli-android)
   > The Pachli Android app
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [zacharee/MastodonRedirect](https://github.com/zacharee/MastodonRedirect)
+  > Deep linking proxy for Mastodon and Lemmy on Android, allowing you to launch your selected client au...
+
+### [qazbnm456](https://github.com/qazbnm456)
+- 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [antgroup/YASA-Engine](https://github.com/antgroup/YASA-Engine)
+  >  YASA is an open-source static program analysis project. Its core innovation lies in a unified inter...
 
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [h2zero/NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino)
@@ -107,5 +117,5 @@
 
 
 ---
-*最后更新于 2025-10-02 19:17:09 UTC*
+*最后更新于 2025-10-02 19:38:47 UTC*
 *历史记录保存在 `archive` 目录中。*
