@@ -239,6 +239,7 @@
   > A lightweight, fast and reliable tun2socks
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire)
   > Local-first, open-source AI assistant for your data — unify tasks, notes, docs, photos, and bookmark...
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC)
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse)
@@ -393,5 +394,5 @@
 
 
 ---
-*最后更新于 2025-10-03 14:42:37 UTC*
+*最后更新于 2025-10-03 15:22:38 UTC*
 *历史记录保存在 `archive` 目录中。*
