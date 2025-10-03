@@ -119,6 +119,8 @@
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [crystal-lang/crystal](https://github.com/crystal-lang/crystal)
   > The Crystal Programming Language
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [R4gd0ll/I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All)
+  > OA漏洞利用工具
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
@@ -296,6 +298,10 @@
   > a simple transcription library for rust
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cjpais/LocalScore](https://github.com/cjpais/LocalScore) to [gmh5225/LocalScore](https://github.com/gmh5225/LocalScore)
   > LocalScore is an open benchmark which helps you understand how well your computer can handle local A...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [weliveindetail/tpde-orc](https://github.com/weliveindetail/tpde-orc) to [gmh5225/tpde-orc](https://github.com/gmh5225/tpde-orc)
+  > Using TPDE codegen in LLVM ORC JIT
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [hkl1x/CNNVD-2025-06117840](https://github.com/hkl1x/CNNVD-2025-06117840) to [gmh5225/CNNVD-2025-06117840](https://github.com/gmh5225/CNNVD-2025-06117840)
+  > 360主动防御绕过获取hash
 
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads)
@@ -540,5 +546,5 @@
 
 
 ---
-*最后更新于 2025-10-03 20:40:53 UTC*
+*最后更新于 2025-10-03 21:18:36 UTC*
 *历史记录保存在 `archive` 目录中。*
