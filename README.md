@@ -90,7 +90,7 @@
 
 ### [ThomasThelen](https://github.com/ThomasThelen)
 - 🌟 👤 [ThomasThelen](https://github.com/ThomasThelen) Starred [HKUSTDial/NL2SQL_Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook)
-  > [TKDE'25] Official repo for A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are ...
+  > This is a continuously updated handbook for readers to easily track the latest Text-to-SQL technique...
 
 ### [afjoseph](https://github.com/afjoseph)
 - ✨ 👤 [afjoseph](https://github.com/afjoseph) Created new repo [afjoseph/sentry-native](https://github.com/afjoseph/sentry-native)
@@ -178,6 +178,10 @@
   > A Blocks / JavaScript code editor for the micro:bit built on Microsoft MakeCode
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [bbcmicrobit/micropython](https://github.com/bbcmicrobit/micropython)
   > Port of MicroPython for the BBC micro:bit
+
+### [gamelaster](https://github.com/gamelaster)
+- 🌟 👤 [gamelaster](https://github.com/gamelaster) Starred [iliazeus/iso2god-rs](https://github.com/iliazeus/iso2god-rs)
+  > A command-line tool to convert Xbox 360 and original Xbox ISOs into an Xbox 360 compatible Games-On-...
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [google/nearby](https://github.com/google/nearby) to [gmh5225/nearby](https://github.com/gmh5225/nearby)
@@ -345,6 +349,9 @@
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
   > Decompiler written in Rust
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [garrettfoster13/SetZeroSync](https://github.com/garrettfoster13/SetZeroSync)
+
 ### [szcf-weiya](https://github.com/szcf-weiya)
 - 🌟 👤 [szcf-weiya](https://github.com/szcf-weiya) Starred [Xieyangxinyu/Debiasing-Watermarks-for-Large-Language-Models-via-Maximal-Coupling](https://github.com/Xieyangxinyu/Debiasing-Watermarks-for-Large-Language-Models-via-Maximal-Coupling)
 
@@ -386,5 +393,5 @@
 
 
 ---
-*最后更新于 2025-10-03 14:20:48 UTC*
+*最后更新于 2025-10-03 14:42:37 UTC*
 *历史记录保存在 `archive` 目录中。*
