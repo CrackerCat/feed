@@ -36,6 +36,10 @@
 - ✨ 👤 [H4ckForJob](https://github.com/H4ckForJob) Created new repo [H4ckForJob/win2008r2x64Patch](https://github.com/H4ckForJob/win2008r2x64Patch)
   > win2008r2x64 的 KB4490628、KB4474419补丁
 
+### [HSSkyBoy](https://github.com/HSSkyBoy)
+- ✨ 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Created new repo [HSSkyBoy/PvZ_HE_Android](https://github.com/HSSkyBoy/PvZ_HE_Android)
+  > 植物大战僵尸杂交版重制版 Godot 源码
+
 ### [KiFilterFiberContext](https://github.com/KiFilterFiberContext)
 - 🌟 👤 [KiFilterFiberContext](https://github.com/KiFilterFiberContext) Starred [0vercl0k/rp](https://github.com/0vercl0k/rp)
   > rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
@@ -146,6 +150,8 @@
   > Visualize Your Ideas With Code
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [immich-app/immich](https://github.com/immich-app/immich)
   > High performance self-hosted photo and video management solution.
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk)
+  > A full desktop environment for Linux/Unix using Fyne
 
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [rix0rrr/gcl](https://github.com/rix0rrr/gcl)
@@ -259,6 +265,10 @@
 - 🌟 👤 [m1-llie](https://github.com/m1-llie) Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
   > Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
+### [martin-olivier](https://github.com/martin-olivier)
+- 🌟 👤 [martin-olivier](https://github.com/martin-olivier) Starred [ppp-project/ppp](https://github.com/ppp-project/ppp)
+  > Paul's PPP Package: PPP daemon and associated utilities | Official GitHub repo: https://github.com/p...
+
 ### [mcr](https://github.com/mcr)
 - 🍴 👤 [mcr](https://github.com/mcr) Forked [Contargo/redmine-timesheet-plugin](https://github.com/Contargo/redmine-timesheet-plugin) to [mcr/redmine-timesheet-plugin](https://github.com/mcr/redmine-timesheet-plugin)
   > A plugin to show and filter timelogs across all projects in Redmine.
@@ -299,6 +309,10 @@
 ### [ntpopgetdope](https://github.com/ntpopgetdope)
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [nanographs/scan-visualizer](https://github.com/nanographs/scan-visualizer)
   > Web-based tool for visualizing raster scanning effects
+
+### [rbaron](https://github.com/rbaron)
+- 🌟 👤 [rbaron](https://github.com/rbaron) Starred [mandatoryprogrammer/thermoptic](https://github.com/mandatoryprogrammer/thermoptic)
+  > A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across al...
 
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [jonny-jhnson/TelemetrySource](https://github.com/jonny-jhnson/TelemetrySource)
@@ -372,5 +386,5 @@
 
 
 ---
-*最后更新于 2025-10-03 13:44:09 UTC*
+*最后更新于 2025-10-03 14:20:48 UTC*
 *历史记录保存在 `archive` 目录中。*
