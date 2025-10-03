@@ -32,6 +32,10 @@
 - 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [braindefender/wellum](https://github.com/braindefender/wellum)
   > 34/36-key callum-based QMK/ZMK keyboard layout
 
+### [H4ckForJob](https://github.com/H4ckForJob)
+- ✨ 👤 [H4ckForJob](https://github.com/H4ckForJob) Created new repo [H4ckForJob/win2008r2x64Patch](https://github.com/H4ckForJob/win2008r2x64Patch)
+  > win2008r2x64 的 KB4490628、KB4474419补丁
+
 ### [KiFilterFiberContext](https://github.com/KiFilterFiberContext)
 - 🌟 👤 [KiFilterFiberContext](https://github.com/KiFilterFiberContext) Starred [0vercl0k/rp](https://github.com/0vercl0k/rp)
   > rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
@@ -94,6 +98,10 @@
 ### [asLody](https://github.com/asLody)
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [giulioz/DepthParallax](https://github.com/giulioz/DepthParallax)
   > Parallax effect using a depth image, captured with an iPhone X.
+
+### [bb33bb](https://github.com/bb33bb)
+- 🌟 👤 [bb33bb](https://github.com/bb33bb) Starred [QiuChenly/CoreInject](https://github.com/QiuChenly/CoreInject)
+  > 美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！
 
 ### [biggerstar](https://github.com/biggerstar)
 - 🌟 👤 [biggerstar](https://github.com/biggerstar) Starred [serengil/deepface](https://github.com/serengil/deepface)
@@ -309,9 +317,17 @@
 - 🍴 👤 [sidex15](https://github.com/sidex15) Forked [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) to [sidex15/lawnchair](https://github.com/sidex15/lawnchair)
   > No clever tagline needed.
 
+### [sleepyG8](https://github.com/sleepyG8)
+- 🍴 👤 [sleepyG8](https://github.com/sleepyG8) Forked [x86byte/RE-MA-Roadmap](https://github.com/x86byte/RE-MA-Roadmap) to [sleepyG8/RE-MA-Roadmap](https://github.com/sleepyG8/RE-MA-Roadmap)
+  > Reverse Engineering and Malware Analysis Roadmap
+
 ### [su-vikas](https://github.com/su-vikas)
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
   > Decompiler written in Rust
+
+### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [xen-project/xen](https://github.com/xen-project/xen)
+  > Mirror of the Xen Repository (PRs not accepted see: http://wiki.xenproject.org/wiki/Submitting_Xen_P...
 
 ### [wenqianghuang369-lab](https://github.com/wenqianghuang369-lab)
 - 🌟 👤 [wenqianghuang369-lab](https://github.com/wenqianghuang369-lab) Starred [CrackerCat/VMOSPro_ROM](https://github.com/CrackerCat/VMOSPro_ROM)
@@ -347,5 +363,5 @@
 
 
 ---
-*最后更新于 2025-10-03 12:45:22 UTC*
+*最后更新于 2025-10-03 13:29:11 UTC*
 *历史记录保存在 `archive` 目录中。*
