@@ -24,6 +24,8 @@
   > Fluent Design System for WPF.
 - 🌟 👤 [Natsume324](https://github.com/Natsume324) Starred [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml)
   > WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-perfor...
+- 🌟 👤 [Natsume324](https://github.com/Natsume324) Starred [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf)
+  > Modern styles and controls for your WPF applications
 
 ### [Raival-e](https://github.com/Raival-e)
 - 🌟 👤 [Raival-e](https://github.com/Raival-e) Starred [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
@@ -185,5 +187,5 @@
 
 
 ---
-*最后更新于 2025-10-03 07:21:07 UTC*
+*最后更新于 2025-10-03 07:38:49 UTC*
 *历史记录保存在 `archive` 目录中。*
