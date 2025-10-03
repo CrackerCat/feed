@@ -216,6 +216,10 @@
 - 🌟 👤 [idkhidden](https://github.com/idkhidden) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
   > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
+  > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [golang/go](https://github.com/golang/go)
   > The Go programming language
@@ -223,6 +227,8 @@
   > Gnirehtet provides reverse tethering for Android
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel)
   > A lightweight, fast and reliable tun2socks
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire)
+  > Local-first, open-source AI assistant for your data — unify tasks, notes, docs, photos, and bookmark...
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse)
@@ -325,6 +331,9 @@
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
   > Decompiler written in Rust
 
+### [szcf-weiya](https://github.com/szcf-weiya)
+- 🌟 👤 [szcf-weiya](https://github.com/szcf-weiya) Starred [Xieyangxinyu/Debiasing-Watermarks-for-Large-Language-Models-via-Maximal-Coupling](https://github.com/Xieyangxinyu/Debiasing-Watermarks-for-Large-Language-Models-via-Maximal-Coupling)
+
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [xen-project/xen](https://github.com/xen-project/xen)
   > Mirror of the Xen Repository (PRs not accepted see: http://wiki.xenproject.org/wiki/Submitting_Xen_P...
@@ -363,5 +372,5 @@
 
 
 ---
-*最后更新于 2025-10-03 13:29:11 UTC*
+*最后更新于 2025-10-03 13:44:09 UTC*
 *历史记录保存在 `archive` 目录中。*
