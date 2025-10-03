@@ -265,6 +265,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gemini-cli-extensions/nanobanana](https://github.com/gemini-cli-extensions/nanobanana) to [gmh5225/nanobanana](https://github.com/gmh5225/nanobanana)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gemini-cli-extensions/code-review](https://github.com/gemini-cli-extensions/code-review) to [gmh5225/code-review](https://github.com/gmh5225/code-review)
   > Google's Code Review extension for the Gemini CLI that reviews your code changes
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [midudev/jscamp](https://github.com/midudev/jscamp) to [gmh5225/jscamp](https://github.com/gmh5225/jscamp)
+  > Contenido y ejercicios del JSCamp InfoJobs
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [tw93/Mole](https://github.com/tw93/Mole) to [gmh5225/Mole](https://github.com/gmh5225/Mole)
+  > 🦡  Dig deep like a mole to clean your Mac. 🦡 像鼹鼠一样深入挖掘来清理您的 Mac
 
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads)
@@ -487,5 +491,5 @@
 
 
 ---
-*最后更新于 2025-10-03 19:17:18 UTC*
+*最后更新于 2025-10-03 19:38:28 UTC*
 *历史记录保存在 `archive` 目录中。*
