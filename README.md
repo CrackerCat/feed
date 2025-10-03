@@ -37,6 +37,8 @@
 ### [NWPU66](https://github.com/NWPU66)
 - 🌟 👤 [NWPU66](https://github.com/NWPU66) Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
   > Warp is the agentic development environment, built for coding with multiple AI agents.
+- 🌟 👤 [NWPU66](https://github.com/NWPU66) Starred [atuinsh/desktop](https://github.com/atuinsh/desktop)
+  > 📖 Runbooks that run 
 
 ### [Natsume324](https://github.com/Natsume324)
 - 🌟 👤 [Natsume324](https://github.com/Natsume324) Starred [sourcechord/FluentWPF](https://github.com/sourcechord/FluentWPF)
@@ -141,6 +143,13 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ibm-granite/granite-4.0-language-models](https://github.com/ibm-granite/granite-4.0-language-models) to [gmh5225/granite-4.0-language-models](https://github.com/gmh5225/granite-4.0-language-models)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ibm-granite/granite-io](https://github.com/ibm-granite/granite-io) to [gmh5225/granite-io](https://github.com/gmh5225/granite-io)
   > Python framework which enables you to transform how a user calls or infers an IBM Granite model and ...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sapdragon/hint-break](https://github.com/sapdragon/hint-break) to [gmh5225/hint-break](https://github.com/gmh5225/hint-break)
+  > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sapdragon/deeplink-cpp](https://github.com/sapdragon/deeplink-cpp) to [gmh5225/deeplink-cpp](https://github.com/gmh5225/deeplink-cpp)
+  > A lightweight, header-only C++ library for registering and handling custom URL schemes (deep links) ...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sapdragon/autostr](https://github.com/sapdragon/autostr) to [gmh5225/autostr](https://github.com/gmh5225/autostr)
+  > Multi-Layer Automata-Based Encryption strings
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [lsrcz/HieraSynth_OOPSLA25_Artifact](https://github.com/lsrcz/HieraSynth_OOPSLA25_Artifact) to [gmh5225/HieraSynth_OOPSLA25_Artifact](https://github.com/gmh5225/HieraSynth_OOPSLA25_Artifact)
 
 ### [huoji120](https://github.com/huoji120)
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [HSZemi/aoe2dat](https://github.com/HSZemi/aoe2dat)
@@ -203,6 +212,10 @@
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [SparkyPotato/radiance](https://github.com/SparkyPotato/radiance)
   > trongle to pixel
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
+  > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
+
 ### [namjkee](https://github.com/namjkee)
 - 🌟 👤 [namjkee](https://github.com/namjkee) Starred [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
   > 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
@@ -230,6 +243,10 @@
 - 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia)
   > Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 
+### [wenqianghuang369-lab](https://github.com/wenqianghuang369-lab)
+- 🌟 👤 [wenqianghuang369-lab](https://github.com/wenqianghuang369-lab) Starred [CrackerCat/VMOSPro_ROM](https://github.com/CrackerCat/VMOSPro_ROM)
+  > ROMs ported from VMOS Pro server, including GEEK and LITE. Added some changes and removed Chinese ke...
+
 ### [x-Ai](https://github.com/x-Ai)
 - 🌟 👤 [x-Ai](https://github.com/x-Ai) Starred [xindoo/agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns)
   > Agent设计模式(agentic design patterns)中文版
@@ -245,11 +262,17 @@
 ### [zetaloop](https://github.com/zetaloop)
 - 🚀 👤 [zetaloop](https://github.com/zetaloop) Made [zetaloop/good-bye-mshta](https://github.com/zetaloop/good-bye-mshta) public
 
+### [zhangyoufu](https://github.com/zhangyoufu)
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose)
+  > DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your onli...
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [tuyafeng/Via](https://github.com/tuyafeng/Via)
+  > Via is a simple browser, and this repository is set for localization.
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [immich-app/immich](https://github.com/immich-app/immich)
   > High performance self-hosted photo and video management solution.
 
 
 ---
-*最后更新于 2025-10-03 09:40:21 UTC*
+*最后更新于 2025-10-03 10:23:27 UTC*
 *历史记录保存在 `archive` 目录中。*
