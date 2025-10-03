@@ -209,6 +209,10 @@
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [bbcmicrobit/micropython](https://github.com/bbcmicrobit/micropython)
   > Port of MicroPython for the BBC micro:bit
 
+### [fr0zenrain](https://github.com/fr0zenrain)
+- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [ntdevlabs/nano11](https://github.com/ntdevlabs/nano11)
+  > Script to build possibly the most trimmed-down Windows 11 experience.
+
 ### [gamelaster](https://github.com/gamelaster)
 - 🌟 👤 [gamelaster](https://github.com/gamelaster) Starred [iliazeus/iso2god-rs](https://github.com/iliazeus/iso2god-rs)
   > A command-line tool to convert Xbox 360 and original Xbox ISOs into an Xbox 360 compatible Games-On-...
@@ -299,6 +303,10 @@
 ### [linuxmobile](https://github.com/linuxmobile)
 - 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [hxpe-dev/kotofetch](https://github.com/hxpe-dev/kotofetch)
   > kotofetch is a small, configurable CLI that displays Japanese quotes in the terminal.
+
+### [m0n0ph1](https://github.com/m0n0ph1)
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [petoolse/petools](https://github.com/petoolse/petools)
+  > PE Tools - Portable executable (PE) manipulation toolkit
 
 ### [m1-llie](https://github.com/m1-llie)
 - 🌟 👤 [m1-llie](https://github.com/m1-llie) Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
@@ -442,5 +450,5 @@
 
 
 ---
-*最后更新于 2025-10-03 17:18:26 UTC*
+*最后更新于 2025-10-03 17:39:27 UTC*
 *历史记录保存在 `archive` 目录中。*
