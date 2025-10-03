@@ -15,6 +15,12 @@
 - 🌟 👤 [KiFilterFiberContext](https://github.com/KiFilterFiberContext) Starred [0vercl0k/rp](https://github.com/0vercl0k/rp)
   > rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
 
+### [LabGuy94](https://github.com/LabGuy94)
+- 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [coffinxp/loxs](https://github.com/coffinxp/loxs)
+  > best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect
+- 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [DennyDai/headless-ida](https://github.com/DennyDai/headless-ida)
+  > Run IDA scripts headlessly.
+
 ### [NWPU66](https://github.com/NWPU66)
 - 🌟 👤 [NWPU66](https://github.com/NWPU66) Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
   > Warp is the agentic development environment, built for coding with multiple AI agents.
@@ -96,6 +102,8 @@
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [rix0rrr/gcl](https://github.com/rix0rrr/gcl)
   > Generic Configuration Language (A reusable configuration language for Python)
+- ✨ 👤 [everettjf](https://github.com/everettjf) Created new repo [everettjf/IdeaForge](https://github.com/everettjf/IdeaForge)
+  > Generating Ideas
 
 ### [fgenesis](https://github.com/fgenesis)
 - 🚀 👤 [fgenesis](https://github.com/fgenesis) Made [fgenesis/texopt](https://github.com/fgenesis/texopt) public
@@ -137,6 +145,23 @@
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse)
   > ClaraVerse is a privacy-first, fully local AI workspace featuring a Local LLM chat powered by LLama....
+
+### [kost](https://github.com/kost)
+- 🌟 👤 [kost](https://github.com/kost) Starred [mhaskar/Octopus](https://github.com/mhaskar/Octopus)
+  > Open source pre-operation C2 server based on python and powershell
+- 🌟 👤 [kost](https://github.com/kost) Starred [dobin/SuperMega](https://github.com/dobin/SuperMega)
+  > Stealthily inject shellcode into an executable
+- 🌟 👤 [kost](https://github.com/kost) Starred [Nomad0x7/sekken-enum](https://github.com/Nomad0x7/sekken-enum)
+  > adws enumeration bof
+- 🌟 👤 [kost](https://github.com/kost) Starred [werdhaihai/msi_lateral_mv](https://github.com/werdhaihai/msi_lateral_mv)
+  > Lateral Movement Bof with MSI ODBC Driver Install
+- 🌟 👤 [kost](https://github.com/kost) Starred [timb-machine-mirrors/Bin4ry-UniPwn](https://github.com/timb-machine-mirrors/Bin4ry-UniPwn)
+- 🌟 👤 [kost](https://github.com/kost) Starred [zyn3rgy/LdapRelayScan](https://github.com/zyn3rgy/LdapRelayScan)
+  > Check for LDAP protections regarding the relay of NTLM authentication
+- 🌟 👤 [kost](https://github.com/kost) Starred [Naxdy/nix-bwrapper](https://github.com/Naxdy/nix-bwrapper)
+  > A user-friendly method of sandboxing applications using bubblewrap with portals support.
+- 🌟 👤 [kost](https://github.com/kost) Starred [antonioCoco/RogueWinRM](https://github.com/antonioCoco/RogueWinRM)
+  > Windows Local Privilege Escalation from Service Account to System
 
 ### [linuxmobile](https://github.com/linuxmobile)
 - 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [hxpe-dev/kotofetch](https://github.com/hxpe-dev/kotofetch)
@@ -198,5 +223,5 @@
 
 
 ---
-*最后更新于 2025-10-03 08:28:43 UTC*
+*最后更新于 2025-10-03 08:47:09 UTC*
 *历史记录保存在 `archive` 目录中。*
