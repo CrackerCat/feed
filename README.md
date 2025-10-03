@@ -302,6 +302,8 @@
   > Using TPDE codegen in LLVM ORC JIT
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [hkl1x/CNNVD-2025-06117840](https://github.com/hkl1x/CNNVD-2025-06117840) to [gmh5225/CNNVD-2025-06117840](https://github.com/gmh5225/CNNVD-2025-06117840)
   > 360主动防御绕过获取hash
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [weliveindetail/llvm-expected](https://github.com/weliveindetail/llvm-expected) to [gmh5225/llvm-expected](https://github.com/gmh5225/llvm-expected)
+  > Header-only llvm::Expected<T>
 
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads)
@@ -546,5 +548,5 @@
 
 
 ---
-*最后更新于 2025-10-03 21:18:36 UTC*
+*最后更新于 2025-10-03 21:38:41 UTC*
 *历史记录保存在 `archive` 目录中。*
