@@ -114,6 +114,12 @@
   > A New Approach to Directory Bruteforce with WaybackLister v1.0
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [frank-leitner/portswigger-websecurity-academy](https://github.com/frank-leitner/portswigger-websecurity-academy)
   > Writeups for PortSwigger WebSecurity Academy
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0xEr3bus/RdpStrike](https://github.com/0xEr3bus/RdpStrike)
+  > Positional Independent Code to extract clear text password from mstsc.exe using API Hooking via HWBP...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0xEr3bus/ShadowForgeC2](https://github.com/0xEr3bus/ShadowForgeC2)
+  > ShadowForge Command & Control - Harnessing the power of Zoom's API, control a compromised Windows Ma...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0xEr3bus/PoolPartyBof](https://github.com/0xEr3bus/PoolPartyBof)
+  > A beacon object file implementation of PoolParty Process Injection Technique.
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
@@ -126,6 +132,10 @@
   > Generic Configuration Language (A reusable configuration language for Python)
 - ✨ 👤 [everettjf](https://github.com/everettjf) Created new repo [everettjf/IdeaForge](https://github.com/everettjf/IdeaForge)
   > Generating Ideas
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Workday/raw-disk-parser](https://github.com/Workday/raw-disk-parser) to [fengjixuchui/raw-disk-parser](https://github.com/fengjixuchui/raw-disk-parser)
+  > A tool to interact with Windows drivers to perform a raw disk read and parse out target files withou...
 
 ### [fgenesis](https://github.com/fgenesis)
 - 🚀 👤 [fgenesis](https://github.com/fgenesis) Made [fgenesis/texopt](https://github.com/fgenesis/texopt) public
@@ -156,6 +166,9 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [lsrcz/HieraSynth_OOPSLA25_Artifact](https://github.com/lsrcz/HieraSynth_OOPSLA25_Artifact) to [gmh5225/HieraSynth_OOPSLA25_Artifact](https://github.com/gmh5225/HieraSynth_OOPSLA25_Artifact)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [whokilleddb/ASPxecute](https://github.com/whokilleddb/ASPxecute) to [gmh5225/ASPxecute](https://github.com/gmh5225/ASPxecute)
   > Execute shellcode via ASPNET compiler
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gemini-cli-extensions/nanobanana](https://github.com/gemini-cli-extensions/nanobanana) to [gmh5225/nanobanana](https://github.com/gmh5225/nanobanana)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gemini-cli-extensions/code-review](https://github.com/gemini-cli-extensions/code-review) to [gmh5225/code-review](https://github.com/gmh5225/code-review)
+  > Google's Code Review extension for the Gemini CLI that reviews your code changes
 
 ### [huoji120](https://github.com/huoji120)
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [HSZemi/aoe2dat](https://github.com/HSZemi/aoe2dat)
@@ -233,6 +246,9 @@
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [natsumerinchan/GalTranslPP](https://github.com/natsumerinchan/GalTranslPP)
   > GalTransl++ with both CLI and GUI
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [xd2333/GalTransl_DumpInjector](https://github.com/xd2333/GalTransl_DumpInjector)
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [lifegpc/msg-tool](https://github.com/lifegpc/msg-tool)
+  > Tools for export and import scripts
 
 ### [ntpopgetdope](https://github.com/ntpopgetdope)
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [nanographs/scan-visualizer](https://github.com/nanographs/scan-visualizer)
@@ -292,5 +308,5 @@
 
 
 ---
-*最后更新于 2025-10-03 11:18:12 UTC*
+*最后更新于 2025-10-03 11:38:50 UTC*
 *历史记录保存在 `archive` 目录中。*
