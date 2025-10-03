@@ -122,6 +122,10 @@
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [R4gd0ll/I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All)
   > OA漏洞利用工具
 
+### [PranavPurwar](https://github.com/PranavPurwar)
+- 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [juxtopposed/Mystical-Blue-Theme](https://github.com/juxtopposed/Mystical-Blue-Theme)
+  > KDE Plasma 6 Blue Theme
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
   > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
@@ -305,6 +309,9 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [weliveindetail/llvm-expected](https://github.com/weliveindetail/llvm-expected) to [gmh5225/llvm-expected](https://github.com/gmh5225/llvm-expected)
   > Header-only llvm::Expected<T>
 
+### [hackclub](https://github.com/hackclub)
+- 🍴 👤 [hackclub](https://github.com/hackclub) Forked [evan-gan/ticketSlackBot](https://github.com/evan-gan/ticketSlackBot) to [hackclub/-blueprint-bluey](https://github.com/hackclub/-blueprint-bluey)
+
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads)
   > All Cursor AI's official download links for both the latest and older versions, making it easy for y...
@@ -476,6 +483,10 @@
 - 🌟 👤 [rbaron](https://github.com/rbaron) Starred [mandatoryprogrammer/thermoptic](https://github.com/mandatoryprogrammer/thermoptic)
   > A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across al...
 
+### [ret2p4nda](https://github.com/ret2p4nda)
+- 🌟 👤 [ret2p4nda](https://github.com/ret2p4nda) Starred [r1ngz3ro/my_v8_exploits](https://github.com/r1ngz3ro/my_v8_exploits)
+  > my try at recreating and exploiting some v8 CVEs
+
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [jonny-jhnson/TelemetrySource](https://github.com/jonny-jhnson/TelemetrySource)
 
@@ -571,5 +582,5 @@
 
 
 ---
-*最后更新于 2025-10-03 22:19:38 UTC*
+*最后更新于 2025-10-03 22:39:29 UTC*
 *历史记录保存在 `archive` 目录中。*
