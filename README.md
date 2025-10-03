@@ -19,13 +19,35 @@
 - 🌟 👤 [NWPU66](https://github.com/NWPU66) Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
   > Warp is the agentic development environment, built for coding with multiple AI agents.
 
+### [Natsume324](https://github.com/Natsume324)
+- 🌟 👤 [Natsume324](https://github.com/Natsume324) Starred [sourcechord/FluentWPF](https://github.com/sourcechord/FluentWPF)
+  > Fluent Design System for WPF.
+- 🌟 👤 [Natsume324](https://github.com/Natsume324) Starred [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml)
+  > WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-perfor...
+
+### [Raival-e](https://github.com/Raival-e)
+- 🌟 👤 [Raival-e](https://github.com/Raival-e) Starred [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
+  > A Weather app for android 🌦🌞☔
+
 ### [Smooth-E](https://github.com/Smooth-E)
 - 🌟 👤 [Smooth-E](https://github.com/Smooth-E) Starred [jakubvalenta/geoshare](https://github.com/jakubvalenta/geoshare)
   > An Android app to open map links in other map apps and copy coordinates
 
+### [Star-KWL](https://github.com/Star-KWL)
+- 🌟 👤 [Star-KWL](https://github.com/Star-KWL) Starred [CrackerCat/Portal](https://github.com/CrackerCat/Portal)
+  > Android Lab Fake Location Service
+
 ### [Te-k](https://github.com/Te-k)
 - 🌟 👤 [Te-k](https://github.com/Te-k) Starred [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver)
   > Automatically archive links to videos, images, and social media content from Google Sheets (and more...
+
+### [ThomasThelen](https://github.com/ThomasThelen)
+- 🌟 👤 [ThomasThelen](https://github.com/ThomasThelen) Starred [HKUSTDial/NL2SQL_Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook)
+  > [TKDE'25] Official repo for A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are ...
+
+### [aistra0528](https://github.com/aistra0528)
+- 🌟 👤 [aistra0528](https://github.com/aistra0528) Starred [Gnumaru/GnumarusStaticDataImporter](https://github.com/Gnumaru/GnumarusStaticDataImporter)
+  > A Godot editor addon for importing data files as static data like yaml, toml, xml, xlsx, ods, sqlite...
 
 ### [asLody](https://github.com/asLody)
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [giulioz/DepthParallax](https://github.com/giulioz/DepthParallax)
@@ -38,6 +60,30 @@
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mandatoryprogrammer/thermoptic](https://github.com/mandatoryprogrammer/thermoptic)
   > A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across al...
+
+### [byt3n33dl3](https://github.com/byt3n33dl3)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [ivan-sincek/android-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet)
+  > Work in progress...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
+  > The Mobile App Pentest cheat sheet was created to provide concise collection of high value informati...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [ivan-sincek/ios-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet)
+  > Work in progress...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0xsyr0/Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks)
+  > A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP)
+  > OSCP Cheat Sheet
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [LazyTitan33/DNS-Exfilnspector](https://github.com/LazyTitan33/DNS-Exfilnspector)
+  > Automagically decode DNS Exfiltration queries to convert Blind RCE into proper RCE via Burp Collabor...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [jaredpar/pinvoke-interop-assistant](https://github.com/jaredpar/pinvoke-interop-assistant)
+  > PInvoke Interop Assistant
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0xsyr0/CTF-Notes](https://github.com/0xsyr0/CTF-Notes)
+  > From Zero To Hero
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [XK3NF4/webshell-plugin-wordpress](https://github.com/XK3NF4/webshell-plugin-wordpress)
+  > Web shell through a WordPress plugin
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [anmolksachan/wayBackLister](https://github.com/anmolksachan/wayBackLister)
+  > A New Approach to Directory Bruteforce with WaybackLister v1.0
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [frank-leitner/portswigger-websecurity-academy](https://github.com/frank-leitner/portswigger-websecurity-academy)
+  > Writeups for PortSwigger WebSecurity Academy
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
@@ -60,6 +106,11 @@
   > 🐿️ A collection of projects focused on connectivity that enable building cross-device experiences.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [google/closure-templates](https://github.com/google/closure-templates) to [gmh5225/closure-templates](https://github.com/gmh5225/closure-templates)
   > A client- and server-side templating system that helps you dynamically build reusable HTML and UI el...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [darthnorse/dockmon](https://github.com/darthnorse/dockmon) to [gmh5225/dockmon](https://github.com/gmh5225/dockmon)
+  > DockMon - Modern Docker container monitoring with auto-restart and alerts
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ibm-granite/granite-4.0-language-models](https://github.com/ibm-granite/granite-4.0-language-models) to [gmh5225/granite-4.0-language-models](https://github.com/gmh5225/granite-4.0-language-models)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ibm-granite/granite-io](https://github.com/ibm-granite/granite-io) to [gmh5225/granite-io](https://github.com/gmh5225/granite-io)
+  > Python framework which enables you to transform how a user calls or infers an IBM Granite model and ...
 
 ### [icew4y](https://github.com/icew4y)
 - 🌟 👤 [icew4y](https://github.com/icew4y) Starred [flankerhqd/jebmcp](https://github.com/flankerhqd/jebmcp)
@@ -74,10 +125,16 @@
   > The Go programming language
 - 🍴 👤 [jianglin-code](https://github.com/jianglin-code) Forked [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) to [jianglin-code/-](https://github.com/jianglin-code/-)
   > Gnirehtet provides reverse tethering for Android
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel)
+  > A lightweight, fast and reliable tun2socks
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse)
   > ClaraVerse is a privacy-first, fully local AI workspace featuring a Local LLM chat powered by LLama....
+
+### [linuxmobile](https://github.com/linuxmobile)
+- 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [hxpe-dev/kotofetch](https://github.com/hxpe-dev/kotofetch)
+  > kotofetch is a small, configurable CLI that displays Japanese quotes in the terminal.
 
 ### [m1-llie](https://github.com/m1-llie)
 - 🌟 👤 [m1-llie](https://github.com/m1-llie) Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
@@ -103,6 +160,14 @@
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [nanographs/scan-visualizer](https://github.com/nanographs/scan-visualizer)
   > Web-based tool for visualizing raster scanning effects
 
+### [semlinker](https://github.com/semlinker)
+- 🌟 👤 [semlinker](https://github.com/semlinker) Starred [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+  > An Open Source implementation of Notebook LM with more flexibility and features
+
+### [shadow3aaa](https://github.com/shadow3aaa)
+- 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia)
+  > Pure Rust multimedia format demuxing, tag reading, and audio decoding library
+
 ### [x-Ai](https://github.com/x-Ai)
 - 🌟 👤 [x-Ai](https://github.com/x-Ai) Starred [xindoo/agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns)
   > Agent设计模式(agentic design patterns)中文版
@@ -114,7 +179,11 @@
 ### [zetaloop](https://github.com/zetaloop)
 - 🚀 👤 [zetaloop](https://github.com/zetaloop) Made [zetaloop/good-bye-mshta](https://github.com/zetaloop/good-bye-mshta) public
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [immich-app/immich](https://github.com/immich-app/immich)
+  > High performance self-hosted photo and video management solution.
+
 
 ---
-*最后更新于 2025-10-03 06:32:44 UTC*
+*最后更新于 2025-10-03 07:21:07 UTC*
 *历史记录保存在 `archive` 目录中。*
