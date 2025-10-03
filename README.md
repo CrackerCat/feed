@@ -116,6 +116,10 @@
 - 🌟 👤 [Natsume324](https://github.com/Natsume324) Starred [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf)
   > Modern styles and controls for your WPF applications
 
+### [No-Github](https://github.com/No-Github)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [crystal-lang/crystal](https://github.com/crystal-lang/crystal)
+  > The Crystal Programming Language
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
   > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
@@ -129,6 +133,10 @@
 ### [Smooth-E](https://github.com/Smooth-E)
 - 🌟 👤 [Smooth-E](https://github.com/Smooth-E) Starred [jakubvalenta/geoshare](https://github.com/jakubvalenta/geoshare)
   > An Android app to open map links in other map apps and copy coordinates
+
+### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
+- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [teemu-l/execution-trace-viewer](https://github.com/teemu-l/execution-trace-viewer)
+  > Tool for viewing and analyzing execution traces
 
 ### [Star-KWL](https://github.com/Star-KWL)
 - 🌟 👤 [Star-KWL](https://github.com/Star-KWL) Starred [CrackerCat/Portal](https://github.com/CrackerCat/Portal)
@@ -532,5 +540,5 @@
 
 
 ---
-*最后更新于 2025-10-03 20:24:02 UTC*
+*最后更新于 2025-10-03 20:40:53 UTC*
 *历史记录保存在 `archive` 目录中。*
