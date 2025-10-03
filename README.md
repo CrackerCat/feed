@@ -15,8 +15,18 @@
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [lsrcz/HieraSynth_OOPSLA25_Artifact](https://github.com/lsrcz/HieraSynth_OOPSLA25_Artifact)
 
+### [Datalux](https://github.com/Datalux)
+- 🌟 👤 [Datalux](https://github.com/Datalux) Starred [OpenLoco/OpenLoco](https://github.com/OpenLoco/OpenLoco)
+  > An open source re-implementation of Chris Sawyer's Locomotion
+
 ### [Dy-Baby](https://github.com/Dy-Baby)
 - 🌟 👤 [Dy-Baby](https://github.com/Dy-Baby) Starred [byralpha/AntDesign](https://github.com/byralpha/AntDesign)
+
+### [FXTi](https://github.com/FXTi)
+- 🌟 👤 [FXTi](https://github.com/FXTi) Starred [MNayer/llvmdemangle](https://github.com/MNayer/llvmdemangle)
+  > Pyhton wrapper around llvm::demangle.
+- 🍴 👤 [FXTi](https://github.com/FXTi) Forked [MNayer/llvmdemangle](https://github.com/MNayer/llvmdemangle) to [FXTi/llvmdemangle](https://github.com/FXTi/llvmdemangle)
+  > Pyhton wrapper around llvm::demangle.
 
 ### [Fare9](https://github.com/Fare9)
 - 🌟 👤 [Fare9](https://github.com/Fare9) Starred [zwenergy/PM2040](https://github.com/zwenergy/PM2040)
@@ -39,6 +49,10 @@
 ### [HSSkyBoy](https://github.com/HSSkyBoy)
 - ✨ 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Created new repo [HSSkyBoy/PvZ_HE_Android](https://github.com/HSSkyBoy/PvZ_HE_Android)
   > 植物大战僵尸杂交版重制版 Godot 源码
+
+### [HaifengSun-Kira](https://github.com/HaifengSun-Kira)
+- 🌟 👤 [HaifengSun-Kira](https://github.com/HaifengSun-Kira) Starred [jillesca/AI-Network-Troubleshooting-PoC](https://github.com/jillesca/AI-Network-Troubleshooting-PoC)
+  > AI for Network Troubleshooting: A Proof of Concept with OpenAI and Langchain
 
 ### [KiFilterFiberContext](https://github.com/KiFilterFiberContext)
 - 🌟 👤 [KiFilterFiberContext](https://github.com/KiFilterFiberContext) Starred [0vercl0k/rp](https://github.com/0vercl0k/rp)
@@ -87,6 +101,10 @@
 ### [Te-k](https://github.com/Te-k)
 - 🌟 👤 [Te-k](https://github.com/Te-k) Starred [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver)
   > Automatically archive links to videos, images, and social media content from Google Sheets (and more...
+
+### [ThisIsLibra](https://github.com/ThisIsLibra)
+- 🍴 👤 [ThisIsLibra](https://github.com/ThisIsLibra) Forked [CCob/MinHook.NET](https://github.com/CCob/MinHook.NET) to [ThisIsLibra/MinHook.NET](https://github.com/ThisIsLibra/MinHook.NET)
+  > A C# port of the MinHook API hooking library
 
 ### [ThomasThelen](https://github.com/ThomasThelen)
 - 🌟 👤 [ThomasThelen](https://github.com/ThomasThelen) Starred [HKUSTDial/NL2SQL_Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook)
@@ -408,5 +426,5 @@
 
 
 ---
-*最后更新于 2025-10-03 16:27:12 UTC*
+*最后更新于 2025-10-03 16:46:30 UTC*
 *历史记录保存在 `archive` 目录中。*
