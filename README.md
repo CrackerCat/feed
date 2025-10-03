@@ -11,6 +11,12 @@
 ### [Dy-Baby](https://github.com/Dy-Baby)
 - 🌟 👤 [Dy-Baby](https://github.com/Dy-Baby) Starred [byralpha/AntDesign](https://github.com/byralpha/AntDesign)
 
+### [Grigory-Rylov](https://github.com/Grigory-Rylov)
+- 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [braindefender/universal-layout](https://github.com/braindefender/universal-layout)
+  > Универсальная английская и русская раскладка для Windows, Linux и macOS
+- 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [braindefender/wellum](https://github.com/braindefender/wellum)
+  > 34/36-key callum-based QMK/ZMK keyboard layout
+
 ### [KiFilterFiberContext](https://github.com/KiFilterFiberContext)
 - 🌟 👤 [KiFilterFiberContext](https://github.com/KiFilterFiberContext) Starred [0vercl0k/rp](https://github.com/0vercl0k/rp)
   > rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
@@ -126,6 +132,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ibm-granite/granite-io](https://github.com/ibm-granite/granite-io) to [gmh5225/granite-io](https://github.com/gmh5225/granite-io)
   > Python framework which enables you to transform how a user calls or infers an IBM Granite model and ...
 
+### [huoji120](https://github.com/huoji120)
+- 🌟 👤 [huoji120](https://github.com/huoji120) Starred [HSZemi/aoe2dat](https://github.com/HSZemi/aoe2dat)
+  > Unit and Tech data, extracted from the Age of Empires II dat file
+
 ### [icew4y](https://github.com/icew4y)
 - 🌟 👤 [icew4y](https://github.com/icew4y) Starred [flankerhqd/jebmcp](https://github.com/flankerhqd/jebmcp)
 - 🍴 👤 [icew4y](https://github.com/icew4y) Forked [flankerhqd/jebmcp](https://github.com/flankerhqd/jebmcp) to [icew4y/jebmcp](https://github.com/icew4y/jebmcp)
@@ -194,6 +204,10 @@
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [jonny-jhnson/TelemetrySource](https://github.com/jonny-jhnson/TelemetrySource)
 
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)
+  > 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
+
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
   > An Open Source implementation of Notebook LM with more flexibility and features
@@ -223,5 +237,5 @@
 
 
 ---
-*最后更新于 2025-10-03 08:47:09 UTC*
+*最后更新于 2025-10-03 09:22:23 UTC*
 *历史记录保存在 `archive` 目录中。*
