@@ -93,6 +93,10 @@
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [immich-app/immich](https://github.com/immich-app/immich)
   > High performance self-hosted photo and video management solution.
 
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [rix0rrr/gcl](https://github.com/rix0rrr/gcl)
+  > Generic Configuration Language (A reusable configuration language for Python)
+
 ### [fgenesis](https://github.com/fgenesis)
 - 🚀 👤 [fgenesis](https://github.com/fgenesis) Made [fgenesis/texopt](https://github.com/fgenesis/texopt) public
   > Texture atlas packer, optimizer, and stuff. NOT YET USABLE.
@@ -162,6 +166,9 @@
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [nanographs/scan-visualizer](https://github.com/nanographs/scan-visualizer)
   > Web-based tool for visualizing raster scanning effects
 
+### [reveng007](https://github.com/reveng007)
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [jonny-jhnson/TelemetrySource](https://github.com/jonny-jhnson/TelemetrySource)
+
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
   > An Open Source implementation of Notebook LM with more flexibility and features
@@ -173,6 +180,10 @@
 ### [x-Ai](https://github.com/x-Ai)
 - 🌟 👤 [x-Ai](https://github.com/x-Ai) Starred [xindoo/agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns)
   > Agent设计模式(agentic design patterns)中文版
+
+### [yanyaoli](https://github.com/yanyaoli)
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [keecth/FakeCryptoJS](https://github.com/keecth/FakeCryptoJS)
+  > CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位置(无视混淆)。SRC和常规渗透神器
 
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
@@ -187,5 +198,5 @@
 
 
 ---
-*最后更新于 2025-10-03 07:38:49 UTC*
+*最后更新于 2025-10-03 08:28:43 UTC*
 *历史记录保存在 `archive` 目录中。*
