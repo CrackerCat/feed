@@ -353,6 +353,8 @@
 ### [su-vikas](https://github.com/su-vikas)
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
   > Decompiler written in Rust
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [immich-app/immich](https://github.com/immich-app/immich)
+  > High performance self-hosted photo and video management solution.
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [garrettfoster13/SetZeroSync](https://github.com/garrettfoster13/SetZeroSync)
@@ -406,5 +408,5 @@
 
 
 ---
-*最后更新于 2025-10-03 15:41:02 UTC*
+*最后更新于 2025-10-03 16:27:12 UTC*
 *历史记录保存在 `archive` 目录中。*
