@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [AnkioTomas](https://github.com/AnkioTomas)
+- 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [yuuouu/ColorOS-CVE-2025-10184](https://github.com/yuuouu/ColorOS-CVE-2025-10184)
+  > ColorOS短信漏洞，以及用户自救方案
+
 ### [Dy-Baby](https://github.com/Dy-Baby)
 - 🌟 👤 [Dy-Baby](https://github.com/Dy-Baby) Starred [byralpha/AntDesign](https://github.com/byralpha/AntDesign)
 
@@ -31,9 +35,15 @@
 - 🌟 👤 [biggerstar](https://github.com/biggerstar) Starred [serengil/deepface](https://github.com/serengil/deepface)
   > A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library...
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mandatoryprogrammer/thermoptic](https://github.com/mandatoryprogrammer/thermoptic)
+  > A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across al...
+
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
   > Visualize Your Ideas With Code
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [immich-app/immich](https://github.com/immich-app/immich)
+  > High performance self-hosted photo and video management solution.
 
 ### [fgenesis](https://github.com/fgenesis)
 - 🚀 👤 [fgenesis](https://github.com/fgenesis) Made [fgenesis/texopt](https://github.com/fgenesis/texopt) public
@@ -62,6 +72,8 @@
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [golang/go](https://github.com/golang/go)
   > The Go programming language
+- 🍴 👤 [jianglin-code](https://github.com/jianglin-code) Forked [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) to [jianglin-code/-](https://github.com/jianglin-code/-)
+  > Gnirehtet provides reverse tethering for Android
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse)
@@ -74,6 +86,14 @@
 ### [mcr](https://github.com/mcr)
 - 🍴 👤 [mcr](https://github.com/mcr) Forked [Contargo/redmine-timesheet-plugin](https://github.com/Contargo/redmine-timesheet-plugin) to [mcr/redmine-timesheet-plugin](https://github.com/mcr/redmine-timesheet-plugin)
   > A plugin to show and filter timelogs across all projects in Redmine.
+- 🍴 👤 [mcr](https://github.com/mcr) Forked [stefanberger/swtpm](https://github.com/stefanberger/swtpm) to [mcr/swtpm](https://github.com/mcr/swtpm)
+  > Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
+- 🍴 👤 [mcr](https://github.com/mcr) Forked [stefanberger/libtpms](https://github.com/stefanberger/libtpms) to [mcr/libtpms](https://github.com/mcr/libtpms)
+  > The libtpms library provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0)
+
+### [mos9527](https://github.com/mos9527)
+- 🌟 👤 [mos9527](https://github.com/mos9527) Starred [SparkyPotato/radiance](https://github.com/SparkyPotato/radiance)
+  > trongle to pixel
 
 ### [namjkee](https://github.com/namjkee)
 - 🌟 👤 [namjkee](https://github.com/namjkee) Starred [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
@@ -87,10 +107,14 @@
 - 🌟 👤 [x-Ai](https://github.com/x-Ai) Starred [xindoo/agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns)
   > Agent设计模式(agentic design patterns)中文版
 
+### [zer0yu](https://github.com/zer0yu)
+- 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
+  > A headless, extendable, multi-session, IDA Pro MCP framework.
+
 ### [zetaloop](https://github.com/zetaloop)
 - 🚀 👤 [zetaloop](https://github.com/zetaloop) Made [zetaloop/good-bye-mshta](https://github.com/zetaloop/good-bye-mshta) public
 
 
 ---
-*最后更新于 2025-10-03 05:41:03 UTC*
+*最后更新于 2025-10-03 06:32:44 UTC*
 *历史记录保存在 `archive` 目录中。*
