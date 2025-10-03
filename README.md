@@ -74,9 +74,19 @@
 - 🌟 👤 [HaifengSun-Kira](https://github.com/HaifengSun-Kira) Starred [jillesca/AI-Network-Troubleshooting-PoC](https://github.com/jillesca/AI-Network-Troubleshooting-PoC)
   > AI for Network Troubleshooting: A Proof of Concept with OpenAI and Langchain
 
+### [Hexorg](https://github.com/Hexorg)
+- 🍴 👤 [Hexorg](https://github.com/Hexorg) Forked [emilk/egui](https://github.com/emilk/egui) to [Hexorg/egui](https://github.com/Hexorg/egui)
+  > egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+
 ### [KiFilterFiberContext](https://github.com/KiFilterFiberContext)
 - 🌟 👤 [KiFilterFiberContext](https://github.com/KiFilterFiberContext) Starred [0vercl0k/rp](https://github.com/0vercl0k/rp)
   > rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
+
+### [Konano](https://github.com/Konano)
+- 🌟 👤 [Konano](https://github.com/Konano) Starred [exelban/stats](https://github.com/exelban/stats)
+  > macOS system monitor in your menu bar
+- 🌟 👤 [Konano](https://github.com/Konano) Starred [jordanbaird/Ice](https://github.com/jordanbaird/Ice)
+  > Powerful menu bar manager for macOS
 
 ### [LabGuy94](https://github.com/LabGuy94)
 - 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [coffinxp/loxs](https://github.com/coffinxp/loxs)
@@ -109,6 +119,8 @@
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
   > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
+- 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [predefine/mt6580-emulator](https://github.com/predefine/mt6580-emulator) to [R0rt1z2/mt6580-emulator](https://github.com/R0rt1z2/mt6580-emulator)
+  > lets emulate mt6580 :D
 
 ### [Raival-e](https://github.com/Raival-e)
 - 🌟 👤 [Raival-e](https://github.com/Raival-e) Starred [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
@@ -269,6 +281,13 @@
   > Contenido y ejercicios del JSCamp InfoJobs
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [tw93/Mole](https://github.com/tw93/Mole) to [gmh5225/Mole](https://github.com/gmh5225/Mole)
   > 🦡  Dig deep like a mole to clean your Mac. 🦡 像鼹鼠一样深入挖掘来清理您的 Mac
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sapdragon/Laplas](https://github.com/sapdragon/Laplas) to [gmh5225/Laplas](https://github.com/gmh5225/Laplas)
+  > Laplas - 6502 Emulator
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cjpais/whisperfile](https://github.com/cjpais/whisperfile) to [gmh5225/whisperfile](https://github.com/gmh5225/whisperfile)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cjpais/transcribe-rs](https://github.com/cjpais/transcribe-rs) to [gmh5225/transcribe-rs](https://github.com/gmh5225/transcribe-rs)
+  > a simple transcription library for rust
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cjpais/LocalScore](https://github.com/cjpais/LocalScore) to [gmh5225/LocalScore](https://github.com/gmh5225/LocalScore)
+  > LocalScore is an open benchmark which helps you understand how well your computer can handle local A...
 
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads)
@@ -312,6 +331,8 @@
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse)
   > ClaraVerse is a privacy-first, fully local AI workspace featuring a Local LLM chat powered by LLama....
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [2dust/v2rayN](https://github.com/2dust/v2rayN)
+  > A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 ### [kost](https://github.com/kost)
 - 🌟 👤 [kost](https://github.com/kost) Starred [mhaskar/Octopus](https://github.com/mhaskar/Octopus)
@@ -333,6 +354,12 @@
 ### [linuxmobile](https://github.com/linuxmobile)
 - 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [hxpe-dev/kotofetch](https://github.com/hxpe-dev/kotofetch)
   > kotofetch is a small, configurable CLI that displays Japanese quotes in the terminal.
+
+### [linxid](https://github.com/linxid)
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [sclang007/Open-Photopea](https://github.com/sclang007/Open-Photopea)
+  > Photopea是最好的Photoshop替代品。他们的程序作为Web应用程序运行。Photopea能够运行PSD，XCF和Sketch文件。  Photopea是一个封闭的源软件。所以我决定提取代码...
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [viliusle/miniPaint](https://github.com/viliusle/miniPaint)
+  > online image editor
 
 ### [m0n0ph1](https://github.com/m0n0ph1)
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [petoolse/petools](https://github.com/petoolse/petools)
@@ -398,6 +425,18 @@
 ### [raesene](https://github.com/raesene)
 - ✨ 👤 [raesene](https://github.com/raesene) Created new repo [raesene/dvca](https://github.com/raesene/dvca)
 
+### [rankalpha](https://github.com/rankalpha)
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [Reloaded-Project/Reloaded.Core.Bootstrap](https://github.com/Reloaded-Project/Reloaded.Core.Bootstrap)
+  > Tiny Visual C++ library/example that allows you to inject CoreCLR (the .NET Core Runtime) into the c...
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [LetheSec/HuggingFace-Download-Accelerator](https://github.com/LetheSec/HuggingFace-Download-Accelerator)
+  > 利用HuggingFace的官方下载工具从镜像网站进行高速下载。
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [LetheSec/HuggingFace-Download-Accelerator](https://github.com/LetheSec/HuggingFace-Download-Accelerator) to [rankalpha/HuggingFace-Download-Accelerator](https://github.com/rankalpha/HuggingFace-Download-Accelerator)
+  > 利用HuggingFace的官方下载工具从镜像网站进行高速下载。
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) to [rankalpha/awesome-blockchain-cn](https://github.com/rankalpha/awesome-blockchain-cn)
+  > 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [michalbednarski/side-strace](https://github.com/michalbednarski/side-strace) to [rankalpha/side-strace](https://github.com/rankalpha/side-strace)
+  > Run `strace` on program that is under another debugger
+
 ### [rbaron](https://github.com/rbaron)
 - 🌟 👤 [rbaron](https://github.com/rbaron) Starred [mandatoryprogrammer/thermoptic](https://github.com/mandatoryprogrammer/thermoptic)
   > A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across al...
@@ -408,6 +447,8 @@
 ### [rogxo](https://github.com/rogxo)
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)
   > 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [fengjixuchui/raw-disk-parser](https://github.com/fengjixuchui/raw-disk-parser)
+  > A tool to interact with Windows drivers to perform a raw disk read and parse out target files withou...
 
 ### [secware-debug](https://github.com/secware-debug)
 - 🌟 👤 [secware-debug](https://github.com/secware-debug) Starred [iPower/KasperskyHook](https://github.com/iPower/KasperskyHook)
@@ -491,5 +532,5 @@
 
 
 ---
-*最后更新于 2025-10-03 19:38:28 UTC*
+*最后更新于 2025-10-03 20:24:02 UTC*
 *历史记录保存在 `archive` 目录中。*
