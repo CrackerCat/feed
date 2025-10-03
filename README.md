@@ -377,6 +377,10 @@
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [viliusle/miniPaint](https://github.com/viliusle/miniPaint)
   > online image editor
 
+### [lixeon](https://github.com/lixeon)
+- 🌟 👤 [lixeon](https://github.com/lixeon) Starred [suxuang/myIPTV](https://github.com/suxuang/myIPTV)
+  > 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告
+
 ### [m0n0ph1](https://github.com/m0n0ph1)
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [petoolse/petools](https://github.com/petoolse/petools)
   > PE Tools - Portable executable (PE) manipulation toolkit
@@ -415,6 +419,14 @@
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [AmelieHeinrich/Seraph](https://github.com/AmelieHeinrich/Seraph)
   > Modern hybrid graphics engine
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [camel-ai/oasis](https://github.com/camel-ai/oasis)
+  > 🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents. 
+
+### [mr-r3b00t](https://github.com/mr-r3b00t)
+- ✨ 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Created new repo [mr-r3b00t/ShinyHunters](https://github.com/mr-r3b00t/ShinyHunters)
+  > CTI
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
   > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
@@ -437,6 +449,13 @@
 ### [ntpopgetdope](https://github.com/ntpopgetdope)
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [nanographs/scan-visualizer](https://github.com/nanographs/scan-visualizer)
   > Web-based tool for visualizing raster scanning effects
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [jonasmr/microprofile-symbols](https://github.com/jonasmr/microprofile-symbols)
+
+### [qwqdanchun](https://github.com/qwqdanchun)
+- 🌟 👤 [qwqdanchun](https://github.com/qwqdanchun) Starred [asbott/One-Std](https://github.com/asbott/One-Std)
+  > A self-contained single-header one-in-all C99 base library.
 
 ### [raesene](https://github.com/raesene)
 - ✨ 👤 [raesene](https://github.com/raesene) Created new repo [raesene/dvca](https://github.com/raesene/dvca)
@@ -546,7 +565,11 @@
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [immich-app/immich](https://github.com/immich-app/immich)
   > High performance self-hosted photo and video management solution.
 
+### [zzzcccyyyggg](https://github.com/zzzcccyyyggg)
+- 🌟 👤 [zzzcccyyyggg](https://github.com/zzzcccyyyggg) Starred [uafx/uafx](https://github.com/uafx/uafx)
+  > Static Cross-Entry UAF Detector 
+
 
 ---
-*最后更新于 2025-10-03 21:38:41 UTC*
+*最后更新于 2025-10-03 22:19:38 UTC*
 *历史记录保存在 `archive` 目录中。*
