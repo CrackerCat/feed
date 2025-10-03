@@ -8,6 +8,10 @@
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [yuuouu/ColorOS-CVE-2025-10184](https://github.com/yuuouu/ColorOS-CVE-2025-10184)
   > ColorOS短信漏洞，以及用户自救方案
 
+### [CC11001100](https://github.com/CC11001100)
+- ✨ 👤 [CC11001100](https://github.com/CC11001100) Created new repo [CC11001100/GamblerRuin](https://github.com/CC11001100/GamblerRuin)
+  > Gambler's Ruin Simulation - A React-based Monte Carlo simulation tool for analyzing gambling strateg...
+
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [lsrcz/HieraSynth_OOPSLA25_Artifact](https://github.com/lsrcz/HieraSynth_OOPSLA25_Artifact)
 
@@ -17,6 +21,10 @@
 ### [Fare9](https://github.com/Fare9)
 - 🌟 👤 [Fare9](https://github.com/Fare9) Starred [zwenergy/PM2040](https://github.com/zwenergy/PM2040)
   > An RP2040-based Flash cart for the Pokemon mini handheld.
+
+### [GitSquared](https://github.com/GitSquared)
+- 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [sst/opencode](https://github.com/sst/opencode)
+  > The AI coding agent built for the terminal.
 
 ### [Grigory-Rylov](https://github.com/Grigory-Rylov)
 - 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [braindefender/universal-layout](https://github.com/braindefender/universal-layout)
@@ -63,6 +71,10 @@
 ### [Star-KWL](https://github.com/Star-KWL)
 - 🌟 👤 [Star-KWL](https://github.com/Star-KWL) Starred [CrackerCat/Portal](https://github.com/CrackerCat/Portal)
   > Android Lab Fake Location Service
+
+### [Super12138](https://github.com/Super12138)
+- 🍴 👤 [Super12138](https://github.com/Super12138) Forked [123Duo3/Caelum](https://github.com/123Duo3/Caelum) to [Super12138/Caelum](https://github.com/Super12138/Caelum)
+  > An Android weather app.
 
 ### [Te-k](https://github.com/Te-k)
 - 🌟 👤 [Te-k](https://github.com/Te-k) Starred [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver)
@@ -146,6 +158,12 @@
   > 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [KomiMoe/Hikari](https://github.com/KomiMoe/Hikari)
   > Yet another llvm based obfuscator based on goron.
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [mytechnotalent/Python-For-Kids](https://github.com/mytechnotalent/Python-For-Kids)
+  > A FREE comprehensive online Python development tutorial FOR KIDS utilizing an official BBC micro:bit...
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [microsoft/pxt-microbit](https://github.com/microsoft/pxt-microbit)
+  > A Blocks / JavaScript code editor for the micro:bit built on Microsoft MakeCode
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [bbcmicrobit/micropython](https://github.com/bbcmicrobit/micropython)
+  > Port of MicroPython for the BBC micro:bit
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [google/nearby](https://github.com/google/nearby) to [gmh5225/nearby](https://github.com/gmh5225/nearby)
@@ -173,6 +191,10 @@
 ### [huoji120](https://github.com/huoji120)
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [HSZemi/aoe2dat](https://github.com/HSZemi/aoe2dat)
   > Unit and Tech data, extracted from the Age of Empires II dat file
+
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) to [hzqst/meshoptimizer-fork](https://github.com/hzqst/meshoptimizer-fork)
+  > Mesh optimization library that makes meshes smaller and faster to render
 
 ### [icew4y](https://github.com/icew4y)
 - 🌟 👤 [icew4y](https://github.com/icew4y) Starred [flankerhqd/jebmcp](https://github.com/flankerhqd/jebmcp)
@@ -231,6 +253,16 @@
 - 🍴 👤 [mcr](https://github.com/mcr) Forked [stefanberger/libtpms](https://github.com/stefanberger/libtpms) to [mcr/libtpms](https://github.com/mcr/libtpms)
   > The libtpms library provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0)
 
+### [mcxiaoke](https://github.com/mcxiaoke)
+- 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [immich-app/immich](https://github.com/immich-app/immich)
+  > High performance self-hosted photo and video management solution.
+
+### [merlinxcy](https://github.com/merlinxcy)
+- 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [blockscout/blockscout](https://github.com/blockscout/blockscout)
+  > Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blo...
+- 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [otterscan/otterscan](https://github.com/otterscan/otterscan)
+  > A blazingly fast, local, Ethereum block explorer built on top of Erigon
+
 ### [mos9527](https://github.com/mos9527)
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [SparkyPotato/radiance](https://github.com/SparkyPotato/radiance)
   > trongle to pixel
@@ -273,6 +305,10 @@
 - 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia)
   > Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 
+### [sidex15](https://github.com/sidex15)
+- 🍴 👤 [sidex15](https://github.com/sidex15) Forked [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) to [sidex15/lawnchair](https://github.com/sidex15/lawnchair)
+  > No clever tagline needed.
+
 ### [su-vikas](https://github.com/su-vikas)
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
   > Decompiler written in Rust
@@ -284,6 +320,9 @@
 ### [x-Ai](https://github.com/x-Ai)
 - 🌟 👤 [x-Ai](https://github.com/x-Ai) Starred [xindoo/agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns)
   > Agent设计模式(agentic design patterns)中文版
+
+### [xiaolai](https://github.com/xiaolai)
+- 🌟 👤 [xiaolai](https://github.com/xiaolai) Starred [xiaolai/tepub](https://github.com/xiaolai/tepub)
 
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [keecth/FakeCryptoJS](https://github.com/keecth/FakeCryptoJS)
@@ -308,5 +347,5 @@
 
 
 ---
-*最后更新于 2025-10-03 11:38:50 UTC*
+*最后更新于 2025-10-03 12:45:22 UTC*
 *历史记录保存在 `archive` 目录中。*
