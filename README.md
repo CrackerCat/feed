@@ -295,6 +295,10 @@
 ### [mos9527](https://github.com/mos9527)
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [SparkyPotato/radiance](https://github.com/SparkyPotato/radiance)
   > trongle to pixel
+- 🌟 👤 [mos9527](https://github.com/mos9527) Starred [Floating-Trees-Inc/Kaleidoscope](https://github.com/Floating-Trees-Inc/Kaleidoscope)
+  > Cross-platform modern game engine
+- 🌟 👤 [mos9527](https://github.com/mos9527) Starred [AmelieHeinrich/Seraph](https://github.com/AmelieHeinrich/Seraph)
+  > Modern hybrid graphics engine
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
@@ -356,6 +360,10 @@
 ### [szcf-weiya](https://github.com/szcf-weiya)
 - 🌟 👤 [szcf-weiya](https://github.com/szcf-weiya) Starred [Xieyangxinyu/Debiasing-Watermarks-for-Large-Language-Models-via-Maximal-Coupling](https://github.com/Xieyangxinyu/Debiasing-Watermarks-for-Large-Language-Models-via-Maximal-Coupling)
 
+### [t0data](https://github.com/t0data)
+- 🍴 👤 [t0data](https://github.com/t0data) Forked [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs) to [t0data/BestBlogs](https://github.com/t0data/BestBlogs)
+  > bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来
+
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [xen-project/xen](https://github.com/xen-project/xen)
   > Mirror of the Xen Repository (PRs not accepted see: http://wiki.xenproject.org/wiki/Submitting_Xen_P...
@@ -374,6 +382,10 @@
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [keecth/FakeCryptoJS](https://github.com/keecth/FakeCryptoJS)
   > CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位置(无视混淆)。SRC和常规渗透神器
+
+### [ymdzq](https://github.com/ymdzq)
+- 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [brunodev85/winlator](https://github.com/brunodev85/winlator)
+  > Android application for running Windows applications with Wine and Box86/Box64
 
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec)
@@ -394,5 +406,5 @@
 
 
 ---
-*最后更新于 2025-10-03 15:22:38 UTC*
+*最后更新于 2025-10-03 15:41:02 UTC*
 *历史记录保存在 `archive` 目录中。*
