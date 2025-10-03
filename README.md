@@ -8,8 +8,15 @@
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [yuuouu/ColorOS-CVE-2025-10184](https://github.com/yuuouu/ColorOS-CVE-2025-10184)
   > ColorOS短信漏洞，以及用户自救方案
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [lsrcz/HieraSynth_OOPSLA25_Artifact](https://github.com/lsrcz/HieraSynth_OOPSLA25_Artifact)
+
 ### [Dy-Baby](https://github.com/Dy-Baby)
 - 🌟 👤 [Dy-Baby](https://github.com/Dy-Baby) Starred [byralpha/AntDesign](https://github.com/byralpha/AntDesign)
+
+### [Fare9](https://github.com/Fare9)
+- 🌟 👤 [Fare9](https://github.com/Fare9) Starred [zwenergy/PM2040](https://github.com/zwenergy/PM2040)
+  > An RP2040-based Flash cart for the Pokemon mini handheld.
 
 ### [Grigory-Rylov](https://github.com/Grigory-Rylov)
 - 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [braindefender/universal-layout](https://github.com/braindefender/universal-layout)
@@ -58,6 +65,9 @@
 ### [ThomasThelen](https://github.com/ThomasThelen)
 - 🌟 👤 [ThomasThelen](https://github.com/ThomasThelen) Starred [HKUSTDial/NL2SQL_Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook)
   > [TKDE'25] Official repo for A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are ...
+
+### [afjoseph](https://github.com/afjoseph)
+- ✨ 👤 [afjoseph](https://github.com/afjoseph) Created new repo [afjoseph/sentry-native](https://github.com/afjoseph/sentry-native)
 
 ### [aistra0528](https://github.com/aistra0528)
 - 🌟 👤 [aistra0528](https://github.com/aistra0528) Starred [Gnumaru/GnumarusStaticDataImporter](https://github.com/Gnumaru/GnumarusStaticDataImporter)
@@ -197,6 +207,10 @@
 - 🌟 👤 [namjkee](https://github.com/namjkee) Starred [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
   > 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
 
+### [natsumerinchan](https://github.com/natsumerinchan)
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [natsumerinchan/GalTranslPP](https://github.com/natsumerinchan/GalTranslPP)
+  > GalTransl++ with both CLI and GUI
+
 ### [ntpopgetdope](https://github.com/ntpopgetdope)
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [nanographs/scan-visualizer](https://github.com/nanographs/scan-visualizer)
   > Web-based tool for visualizing raster scanning effects
@@ -237,5 +251,5 @@
 
 
 ---
-*最后更新于 2025-10-03 09:22:23 UTC*
+*最后更新于 2025-10-03 09:40:21 UTC*
 *历史记录保存在 `archive` 目录中。*
