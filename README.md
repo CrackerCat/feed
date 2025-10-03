@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tijme/dittobytes](https://github.com/tijme/dittobytes)
+  > Metamorphic cross-compilation of C++ & C-code to PIC, BOF & EXE. 
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [Kudaes/MFTool](https://github.com/Kudaes/MFTool)
+  > Direct access to NTFS volumes
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [TwoSevenOneT/WSASS](https://github.com/TwoSevenOneT/WSASS)
+  > This is the tool to dump the LSASS process on modern Windows 11
+
 ### [AnkioTomas](https://github.com/AnkioTomas)
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [yuuouu/ColorOS-CVE-2025-10184](https://github.com/yuuouu/ColorOS-CVE-2025-10184)
   > ColorOS短信漏洞，以及用户自救方案
@@ -121,6 +129,10 @@
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [giulioz/DepthParallax](https://github.com/giulioz/DepthParallax)
   > Parallax effect using a depth image, captured with an iPhone X.
 
+### [astrelsky](https://github.com/astrelsky)
+- 🌟 👤 [astrelsky](https://github.com/astrelsky) Starred [huggingface/optimum-amd](https://github.com/huggingface/optimum-amd)
+  > AMD related optimizations for transformer models
+
 ### [bb33bb](https://github.com/bb33bb)
 - 🌟 👤 [bb33bb](https://github.com/bb33bb) Starred [QiuChenly/CoreInject](https://github.com/QiuChenly/CoreInject)
   > 美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！
@@ -223,6 +235,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gemini-cli-extensions/nanobanana](https://github.com/gemini-cli-extensions/nanobanana) to [gmh5225/nanobanana](https://github.com/gmh5225/nanobanana)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gemini-cli-extensions/code-review](https://github.com/gemini-cli-extensions/code-review) to [gmh5225/code-review](https://github.com/gmh5225/code-review)
   > Google's Code Review extension for the Gemini CLI that reviews your code changes
+
+### [hacksysteam](https://github.com/hacksysteam)
+- 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads)
+  > All Cursor AI's official download links for both the latest and older versions, making it easy for y...
 
 ### [huoji120](https://github.com/huoji120)
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [HSZemi/aoe2dat](https://github.com/HSZemi/aoe2dat)
@@ -426,5 +442,5 @@
 
 
 ---
-*最后更新于 2025-10-03 16:46:30 UTC*
+*最后更新于 2025-10-03 17:18:26 UTC*
 *历史记录保存在 `archive` 目录中。*
