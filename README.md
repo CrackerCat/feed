@@ -24,6 +24,10 @@
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [yuuouu/ColorOS-CVE-2025-10184](https://github.com/yuuouu/ColorOS-CVE-2025-10184)
   > ColorOS短信漏洞，以及用户自救方案
 
+### [Asabeneh](https://github.com/Asabeneh)
+- ✨ 👤 [Asabeneh](https://github.com/Asabeneh) Created new repo [Asabeneh/html-deploy](https://github.com/Asabeneh/html-deploy)
+  > This is a demo to show people how to deploy an HTML website on GitHub
+
 ### [CC11001100](https://github.com/CC11001100)
 - ✨ 👤 [CC11001100](https://github.com/CC11001100) Created new repo [CC11001100/GamblerRuin](https://github.com/CC11001100/GamblerRuin)
   > Gambler's Ruin Simulation - A React-based Monte Carlo simulation tool for analyzing gambling strateg...
@@ -79,6 +83,14 @@
   > best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect
 - 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [DennyDai/headless-ida](https://github.com/DennyDai/headless-ida)
   > Run IDA scripts headlessly.
+
+### [Lil-Ran](https://github.com/Lil-Ran)
+- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [za233/Polaris-Obfuscator](https://github.com/za233/Polaris-Obfuscator)
+  > Polaris: An LLVM-based obfuscator that protects software at various levels
+
+### [LuigiVampa92](https://github.com/LuigiVampa92)
+- 🌟 👤 [LuigiVampa92](https://github.com/LuigiVampa92) Starred [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)
+  > Keeping track of companies that "care about your data 🥺"
 
 ### [NWPU66](https://github.com/NWPU66)
 - 🌟 👤 [NWPU66](https://github.com/NWPU66) Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
@@ -182,6 +194,12 @@
   > ShadowForge Command & Control - Harnessing the power of Zoom's API, control a compromised Windows Ma...
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0xEr3bus/PoolPartyBof](https://github.com/0xEr3bus/PoolPartyBof)
   > A beacon object file implementation of PoolParty Process Injection Technique.
+
+### [codehz](https://github.com/codehz)
+- 🌟 👤 [codehz](https://github.com/codehz) Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)
+  > A scrollable-tiling Wayland compositor.
+- 🌟 👤 [codehz](https://github.com/codehz) Starred [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon)
+  > Tiled scrollable window manager for MacOS
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
@@ -354,6 +372,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
   > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
 
+### [mzfr](https://github.com/mzfr)
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [atuinsh/desktop](https://github.com/atuinsh/desktop)
+  > 📖 Runbooks that run 
+
 ### [namjkee](https://github.com/namjkee)
 - 🌟 👤 [namjkee](https://github.com/namjkee) Starred [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
   > 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
@@ -423,6 +445,10 @@
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [xen-project/xen](https://github.com/xen-project/xen)
   > Mirror of the Xen Repository (PRs not accepted see: http://wiki.xenproject.org/wiki/Submitting_Xen_P...
 
+### [watchtowrlabs](https://github.com/watchtowrlabs)
+- 🚀 👤 [watchtowrlabs](https://github.com/watchtowrlabs) Made [watchtowrlabs/watchTowr-vs-Dell-UnityVSA-PreAuth-CVE-2025-36604](https://github.com/watchtowrlabs/watchTowr-vs-Dell-UnityVSA-PreAuth-CVE-2025-36604) public
+  > Detection Artefact Generator for Dell UnityVSA CVE-2025-36604
+
 ### [wenqianghuang369-lab](https://github.com/wenqianghuang369-lab)
 - 🌟 👤 [wenqianghuang369-lab](https://github.com/wenqianghuang369-lab) Starred [CrackerCat/VMOSPro_ROM](https://github.com/CrackerCat/VMOSPro_ROM)
   > ROMs ported from VMOS Pro server, including GEEK and LITE. Added some changes and removed Chinese ke...
@@ -461,5 +487,5 @@
 
 
 ---
-*最后更新于 2025-10-03 18:31:34 UTC*
+*最后更新于 2025-10-03 19:17:18 UTC*
 *历史记录保存在 `archive` 目录中。*
