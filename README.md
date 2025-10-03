@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [Dy-Baby](https://github.com/Dy-Baby)
+- 🌟 👤 [Dy-Baby](https://github.com/Dy-Baby) Starred [byralpha/AntDesign](https://github.com/byralpha/AntDesign)
+
 ### [KiFilterFiberContext](https://github.com/KiFilterFiberContext)
 - 🌟 👤 [KiFilterFiberContext](https://github.com/KiFilterFiberContext) Starred [0vercl0k/rp](https://github.com/0vercl0k/rp)
   > rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
@@ -19,6 +22,14 @@
 ### [Te-k](https://github.com/Te-k)
 - 🌟 👤 [Te-k](https://github.com/Te-k) Starred [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver)
   > Automatically archive links to videos, images, and social media content from Google Sheets (and more...
+
+### [asLody](https://github.com/asLody)
+- 🌟 👤 [asLody](https://github.com/asLody) Starred [giulioz/DepthParallax](https://github.com/giulioz/DepthParallax)
+  > Parallax effect using a depth image, captured with an iPhone X.
+
+### [biggerstar](https://github.com/biggerstar)
+- 🌟 👤 [biggerstar](https://github.com/biggerstar) Starred [serengil/deepface](https://github.com/serengil/deepface)
+  > A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library...
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
@@ -52,6 +63,14 @@
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [golang/go](https://github.com/golang/go)
   > The Go programming language
 
+### [jiji262](https://github.com/jiji262)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse)
+  > ClaraVerse is a privacy-first, fully local AI workspace featuring a Local LLM chat powered by LLama....
+
+### [m1-llie](https://github.com/m1-llie)
+- 🌟 👤 [m1-llie](https://github.com/m1-llie) Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+  > Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+
 ### [mcr](https://github.com/mcr)
 - 🍴 👤 [mcr](https://github.com/mcr) Forked [Contargo/redmine-timesheet-plugin](https://github.com/Contargo/redmine-timesheet-plugin) to [mcr/redmine-timesheet-plugin](https://github.com/mcr/redmine-timesheet-plugin)
   > A plugin to show and filter timelogs across all projects in Redmine.
@@ -73,5 +92,5 @@
 
 
 ---
-*最后更新于 2025-10-03 05:21:39 UTC*
+*最后更新于 2025-10-03 05:41:03 UTC*
 *历史记录保存在 `archive` 目录中。*
