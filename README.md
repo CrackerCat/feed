@@ -11,6 +11,14 @@
   > Direct access to NTFS volumes
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [TwoSevenOneT/WSASS](https://github.com/TwoSevenOneT/WSASS)
   > This is the tool to dump the LSASS process on modern Windows 11
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [tlsbollei/KittyLoader](https://github.com/tlsbollei/KittyLoader)
+  > KittyLoader is a highly evasive loader written in C / Assembly
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [GitHubSecurityLab/seclab-taskflow-agent](https://github.com/GitHubSecurityLab/seclab-taskflow-agent)
+  > The GitHub Security Lab Taskflow Agent Framework
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [GitHubSecurityLab/seclab-taskflow-agent](https://github.com/GitHubSecurityLab/seclab-taskflow-agent) to [0xdea/seclab-taskflow-agent](https://github.com/0xdea/seclab-taskflow-agent)
+  > The GitHub Security Lab Taskflow Agent Framework
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [anticomputer/old-exploits](https://github.com/anticomputer/old-exploits)
+  > A smattering of old exploits for old bugs.
 
 ### [AnkioTomas](https://github.com/AnkioTomas)
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [yuuouu/ColorOS-CVE-2025-10184](https://github.com/yuuouu/ColorOS-CVE-2025-10184)
@@ -361,6 +369,9 @@
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [nanographs/scan-visualizer](https://github.com/nanographs/scan-visualizer)
   > Web-based tool for visualizing raster scanning effects
 
+### [raesene](https://github.com/raesene)
+- ✨ 👤 [raesene](https://github.com/raesene) Created new repo [raesene/dvca](https://github.com/raesene/dvca)
+
 ### [rbaron](https://github.com/rbaron)
 - 🌟 👤 [rbaron](https://github.com/rbaron) Starred [mandatoryprogrammer/thermoptic](https://github.com/mandatoryprogrammer/thermoptic)
   > A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across al...
@@ -450,5 +461,5 @@
 
 
 ---
-*最后更新于 2025-10-03 17:39:27 UTC*
+*最后更新于 2025-10-03 18:31:34 UTC*
 *历史记录保存在 `archive` 目录中。*
