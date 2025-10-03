@@ -169,6 +169,10 @@
 - 🌟 👤 [icew4y](https://github.com/icew4y) Starred [zhizhuodemao/frida-mcp](https://github.com/zhizhuodemao/frida-mcp)
   > 一个用于frida动态调试的mcp工具，支持自定义frida路径和名称端口,自动管理frida
 
+### [idkhidden](https://github.com/idkhidden)
+- 🌟 👤 [idkhidden](https://github.com/idkhidden) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
+  > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [golang/go](https://github.com/golang/go)
   > The Go programming language
@@ -241,6 +245,10 @@
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)
   > 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 
+### [secware-debug](https://github.com/secware-debug)
+- 🌟 👤 [secware-debug](https://github.com/secware-debug) Starred [iPower/KasperskyHook](https://github.com/iPower/KasperskyHook)
+  > Hook system calls on Windows by using Kaspersky's hypervisor
+
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
   > An Open Source implementation of Notebook LM with more flexibility and features
@@ -284,5 +292,5 @@
 
 
 ---
-*最后更新于 2025-10-03 10:41:34 UTC*
+*最后更新于 2025-10-03 11:18:12 UTC*
 *历史记录保存在 `archive` 目录中。*
