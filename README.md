@@ -48,6 +48,10 @@
 - 🌟 👤 [Natsume324](https://github.com/Natsume324) Starred [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf)
   > Modern styles and controls for your WPF applications
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
+  > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
+
 ### [Raival-e](https://github.com/Raival-e)
 - 🌟 👤 [Raival-e](https://github.com/Raival-e) Starred [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
   > A Weather app for android 🌦🌞☔
@@ -150,6 +154,8 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sapdragon/autostr](https://github.com/sapdragon/autostr) to [gmh5225/autostr](https://github.com/gmh5225/autostr)
   > Multi-Layer Automata-Based Encryption strings
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [lsrcz/HieraSynth_OOPSLA25_Artifact](https://github.com/lsrcz/HieraSynth_OOPSLA25_Artifact) to [gmh5225/HieraSynth_OOPSLA25_Artifact](https://github.com/gmh5225/HieraSynth_OOPSLA25_Artifact)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [whokilleddb/ASPxecute](https://github.com/whokilleddb/ASPxecute) to [gmh5225/ASPxecute](https://github.com/gmh5225/ASPxecute)
+  > Execute shellcode via ASPNET compiler
 
 ### [huoji120](https://github.com/huoji120)
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [HSZemi/aoe2dat](https://github.com/HSZemi/aoe2dat)
@@ -243,6 +249,10 @@
 - 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia)
   > Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 
+### [su-vikas](https://github.com/su-vikas)
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [Hexorg/Ouroboros](https://github.com/Hexorg/Ouroboros)
+  > Decompiler written in Rust
+
 ### [wenqianghuang369-lab](https://github.com/wenqianghuang369-lab)
 - 🌟 👤 [wenqianghuang369-lab](https://github.com/wenqianghuang369-lab) Starred [CrackerCat/VMOSPro_ROM](https://github.com/CrackerCat/VMOSPro_ROM)
   > ROMs ported from VMOS Pro server, including GEEK and LITE. Added some changes and removed Chinese ke...
@@ -274,5 +284,5 @@
 
 
 ---
-*最后更新于 2025-10-03 10:23:27 UTC*
+*最后更新于 2025-10-03 10:41:34 UTC*
 *历史记录保存在 `archive` 目录中。*
