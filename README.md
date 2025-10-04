@@ -35,6 +35,8 @@
   > Windrecorder is a memory search app by records everything on your screen in small size, to let you r...
 - 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) to [Mufanc/screenpipe](https://github.com/Mufanc/screenpipe)
   > AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen...
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
+  > A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging an...
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [ilammy/ftrace-hook](https://github.com/ilammy/ftrace-hook)
@@ -126,6 +128,10 @@
 - 🌟 👤 [meowette](https://github.com/meowette) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
   > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
 
+### [merlinxcy](https://github.com/merlinxcy)
+- 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [nicolasgarcia214/damn-vulnerable-defi-foundry](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry)
+  > Damn Vulnerable DeFi - Foundry Version
+
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [chiuhans111/fluidglass](https://github.com/chiuhans111/fluidglass)
 
@@ -167,5 +173,5 @@
 
 
 ---
-*最后更新于 2025-10-04 14:17:41 UTC*
+*最后更新于 2025-10-04 14:38:06 UTC*
 *历史记录保存在 `archive` 目录中。*
