@@ -12,6 +12,9 @@
 - ✨ 👤 [7etsuo](https://github.com/7etsuo) Created new repo [7etsuo/galaga](https://github.com/7etsuo/galaga)
   > Galaga terminal game
 
+### [AabyssZG](https://github.com/AabyssZG)
+- 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [Sh4N4C1/havoc-comsvcsdump-memfiles](https://github.com/Sh4N4C1/havoc-comsvcsdump-memfiles)
+
 ### [Ackites](https://github.com/Ackites)
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [canonical/pylxd](https://github.com/canonical/pylxd)
   > Python module for LXD
@@ -215,9 +218,23 @@
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [alireza0/s-ui](https://github.com/alireza0/s-ui)
   > An advanced Web Panel • Built for SagerNet/Sing-Box
 
+### [kingking888](https://github.com/kingking888)
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [DoranekoSystems/DynaDbg](https://github.com/DoranekoSystems/DynaDbg)
+  > Next-Generation Remote Analysis Suite for iOS.
+
+### [kost](https://github.com/kost)
+- 🌟 👤 [kost](https://github.com/kost) Starred [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
+  > An open source payments switch written in Rust to make payments fast, reliable and affordable
+- 🌟 👤 [kost](https://github.com/kost) Starred [grobasoz/zigbee-firmware](https://github.com/grobasoz/zigbee-firmware)
+  > ZigBee Development Firmware
+
 ### [lux-QAQ](https://github.com/lux-QAQ)
 - 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0)
   > 一个兼容 OneBot 协议的非官方 QQ Web 客户端、全平台客户端实现！
+
+### [m0n0ph1](https://github.com/m0n0ph1)
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [nyx0/PowerLoader](https://github.com/nyx0/PowerLoader)
+  > Power Loader botnet
 
 ### [magojohnji](https://github.com/magojohnji)
 - 🌟 👤 [magojohnji](https://github.com/magojohnji) Starred [nginx/nginx](https://github.com/nginx/nginx)
@@ -277,6 +294,10 @@
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [llvm/llvm-project](https://github.com/llvm/llvm-project) to [smallzhong/llvm-project](https://github.com/smallzhong/llvm-project)
   > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
+### [sxei](https://github.com/sxei)
+- 🌟 👤 [sxei](https://github.com/sxei) Starred [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
+  > 收集整理 GitHub 上高质量、有趣的开源项目。
+
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [mike1k/HookHunter](https://github.com/mike1k/HookHunter)
   > Analyze patches in a process
@@ -308,5 +329,5 @@
 
 
 ---
-*最后更新于 2025-10-04 20:39:09 UTC*
+*最后更新于 2025-10-04 21:17:51 UTC*
 *历史记录保存在 `archive` 目录中。*
