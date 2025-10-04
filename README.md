@@ -18,13 +18,62 @@
 - 🌟 👤 [CC11001100](https://github.com/CC11001100) Starred [ccxt/ccxt](https://github.com/ccxt/ccxt)
   > A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# /...
 
+### [Mufanc](https://github.com/Mufanc)
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) to [Mufanc/screenpipe](https://github.com/Mufanc/screenpipe)
+  > AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen...
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder)
+  > Windrecorder is a memory search app by records everything on your screen in small size, to let you r...
+
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [ilammy/ftrace-hook](https://github.com/ilammy/ftrace-hook)
   > Using ftrace for function hooking in Linux kernel
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [dateutil/dateutil](https://github.com/dateutil/dateutil)
+  > Useful extensions to the standard Python datetime features
+
+### [codehz](https://github.com/codehz)
+- 🌟 👤 [codehz](https://github.com/codehz) Starred [jacob-bennett/deco](https://github.com/jacob-bennett/deco)
+  > Zero dependency collection of composable asynchronous decorators.
+
+### [easychen](https://github.com/easychen)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
+  > Agent S: an open agentic framework that uses computers like a human
+
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram)
+  > Collection great groups, channels, bots and libraries for Telegram
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [vmware/open-vm-tools](https://github.com/vmware/open-vm-tools) to [gmh5225/open-vm-tools-](https://github.com/gmh5225/open-vm-tools-)
   > Official repository of VMware open-vm-tools project
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nocodb/nocodb](https://github.com/nocodb/nocodb) to [gmh5225/nocodb](https://github.com/gmh5225/nocodb)
+  > 🔥 🔥 🔥 Open Source Airtable Alternative
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nocodb/noco-docs-v2](https://github.com/nocodb/noco-docs-v2) to [gmh5225/noco-docs-v2](https://github.com/gmh5225/noco-docs-v2)
+  > NocoDB Docs 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nocodb/nocodb-ee-compose](https://github.com/nocodb/nocodb-ee-compose) to [gmh5225/nocodb-ee-compose](https://github.com/gmh5225/nocodb-ee-compose)
+  > Docker compose configuration for NocoDB Enterprise Edition
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [MmMapIoSpace/Callback-with-Shared-Memory](https://github.com/MmMapIoSpace/Callback-with-Shared-Memory) to [gmh5225/Callback-with-Shared-Memory](https://github.com/gmh5225/Callback-with-Shared-Memory)
+  > Proof of Concept Kernel-User Communication using System Thread.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [botswin/BotBrowser](https://github.com/botswin/BotBrowser) to [gmh5225/BotBrowser](https://github.com/gmh5225/BotBrowser)
+  > 🤖 Cross-platform browser for automation testing: Cloudflare, Akamai, Kasada, Shape, DataDome, Perime...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Still34/ida-picker](https://github.com/Still34/ida-picker) to [gmh5225/ida-picker](https://github.com/gmh5225/ida-picker)
+  > A simple Windows application that allows the user to pick between IDA installation for the given fil...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [CyberSecurityUP/PadZip-Evader](https://github.com/CyberSecurityUP/PadZip-Evader) to [gmh5225/PadZip-Evader](https://github.com/gmh5225/PadZip-Evader)
+  > PadZip Evader - Binary padding and ZIP compression tool for educational anti-analysis research. Infl...
+
+### [gmz9976](https://github.com/gmz9976)
+- ✨ 👤 [gmz9976](https://github.com/gmz9976) Created new repo [gmz9976/ashare-sentiment](https://github.com/gmz9976/ashare-sentiment)
+
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [tw93/Mole](https://github.com/tw93/Mole)
+  > 🦡  Dig deep like a mole to clean your Mac. 🦡 像鼹鼠一样深入挖掘来清理您的 Mac
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire)
+  > Local-first, open-source AI assistant for your data — unify tasks, notes, docs, photos, and bookmark...
+
+### [meowette](https://github.com/meowette)
+- 🌟 👤 [meowette](https://github.com/meowette) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
+  > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [chiuhans111/fluidglass](https://github.com/chiuhans111/fluidglass)
@@ -55,5 +104,5 @@
 
 
 ---
-*最后更新于 2025-10-04 11:38:24 UTC*
+*最后更新于 2025-10-04 12:40:47 UTC*
 *历史记录保存在 `archive` 目录中。*
