@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [1q23lyc45](https://github.com/1q23lyc45)
+- 🌟 👤 [1q23lyc45](https://github.com/1q23lyc45) Starred [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
+  > Google Chromium, sans integration with Google
+
 ### [7etsuo](https://github.com/7etsuo)
 - ✨ 👤 [7etsuo](https://github.com/7etsuo) Created new repo [7etsuo/galaga](https://github.com/7etsuo/galaga)
   > Galaga terminal game
@@ -23,6 +27,10 @@
   > A Download Manager that speeds up your downloads
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage)
   > Asynchronous image downloader with cache support as a UIImageView category
+
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [wshamroukh/Android_Custom_Rom_List](https://github.com/wshamroukh/Android_Custom_Rom_List)
+  > List of custom Android roms
 
 ### [CC11001100](https://github.com/CC11001100)
 - 🌟 👤 [CC11001100](https://github.com/CC11001100) Starred [ccxt/ccxt](https://github.com/ccxt/ccxt)
@@ -61,6 +69,10 @@
 - 🌟 👤 [Margular](https://github.com/Margular) Starred [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
   > 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 
+### [Mati365](https://github.com/Mati365)
+- 🌟 👤 [Mati365](https://github.com/Mati365) Starred [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
+  > A tool to automatically fix PHP Coding Standards issues
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder)
   > Windrecorder is a memory search app by records everything on your screen in small size, to let you r...
@@ -72,6 +84,10 @@
 ### [PranavPurwar](https://github.com/PranavPurwar)
 - 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [bloomwalletio/bloom](https://github.com/bloomwalletio/bloom)
   > A beautifully designed, user-centric wallet. 
+
+### [SamuelTulach](https://github.com/SamuelTulach)
+- 🌟 👤 [SamuelTulach](https://github.com/SamuelTulach) Starred [HexRaysSA/ida-sdk](https://github.com/HexRaysSA/ida-sdk)
+  > This repository offers an open-source C++ SDK bindings for IDA, enabling custom plugin development a...
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [ilammy/ftrace-hook](https://github.com/ilammy/ftrace-hook)
@@ -129,6 +145,12 @@
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram)
   > Collection great groups, channels, bots and libraries for Telegram
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [0xilis/appleid-key-dumper](https://github.com/0xilis/appleid-key-dumper)
+  > Apple ID Key/Cert dumper for jailbroken iOS. (shortcut-sign)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [0xilis/shortcut-sign](https://github.com/0xilis/shortcut-sign)
+  >  Open-Source Signed Shortcut CLI tool for Linux+macOS
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [0xilis/libshortcutsign](https://github.com/0xilis/libshortcutsign)
+  > Library for signed shortcuts.
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [vmware/open-vm-tools](https://github.com/vmware/open-vm-tools) to [gmh5225/open-vm-tools-](https://github.com/gmh5225/open-vm-tools-)
@@ -236,6 +258,8 @@
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [Paradoxis/ADSyncDump-BOF](https://github.com/Paradoxis/ADSyncDump-BOF)
   > The ADSyncDump BOF is a port of Dirk-Jan Mollema's adconnectdump.py / ADSyncDecrypt into a Beacon Ob...
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [MorDavid/NetworkHound](https://github.com/MorDavid/NetworkHound)
+  > Advanced Active Directory network topology analyzer with SMB validation, multiple authentication met...
 
 ### [shadow3aaa](https://github.com/shadow3aaa)
 - 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [brunodev85/winlator](https://github.com/brunodev85/winlator)
@@ -259,6 +283,7 @@
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [5ec1cff/ZygiskNextModuleSample](https://github.com/5ec1cff/ZygiskNextModuleSample)
+- 🍴 👤 [ys1231](https://github.com/ys1231) Forked [5ec1cff/ZygiskNextModuleSample](https://github.com/5ec1cff/ZygiskNextModuleSample) to [ys1231/ZygiskNextModuleSample](https://github.com/ys1231/ZygiskNextModuleSample)
 
 ### [zetaloop](https://github.com/zetaloop)
 - 🌟 👤 [zetaloop](https://github.com/zetaloop) Starred [cworld1/astro-theme-pure](https://github.com/cworld1/astro-theme-pure)
@@ -273,5 +298,5 @@
 
 
 ---
-*最后更新于 2025-10-04 18:45:21 UTC*
+*最后更新于 2025-10-04 19:15:42 UTC*
 *历史记录保存在 `archive` 目录中。*
