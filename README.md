@@ -51,6 +51,12 @@
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [besscroft/kamera](https://github.com/besscroft/kamera)
   > 摄影记录网站，基于 Nuxt 3 开发，支持常见的图片格式。图片存储兼容 S3 API、AList API、支持 CDN 配置。同时适配了 PC 和移动端的样式与交互。
 
+### [Kwansy98](https://github.com/Kwansy98)
+- 🌟 👤 [Kwansy98](https://github.com/Kwansy98) Starred [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
+  > An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- 🌟 👤 [Kwansy98](https://github.com/Kwansy98) Starred [basil00/WinDivert](https://github.com/basil00/WinDivert)
+  > WinDivert: Windows Packet Divert
+
 ### [Margular](https://github.com/Margular)
 - 🌟 👤 [Margular](https://github.com/Margular) Starred [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
   > 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
@@ -175,6 +181,14 @@
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [google/perfetto](https://github.com/google/perfetto)
   > Production-grade client-side tracing, profiling, and analysis for complex software systems.
 
+### [jiji262](https://github.com/jiji262)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [alireza0/s-ui](https://github.com/alireza0/s-ui)
+  > An advanced Web Panel • Built for SagerNet/Sing-Box
+
+### [lux-QAQ](https://github.com/lux-QAQ)
+- 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [Stapxs/Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0)
+  > 一个兼容 OneBot 协议的非官方 QQ Web 客户端、全平台客户端实现！
+
 ### [magojohnji](https://github.com/magojohnji)
 - 🌟 👤 [magojohnji](https://github.com/magojohnji) Starred [nginx/nginx](https://github.com/nginx/nginx)
   > The official NGINX Open Source repository.
@@ -256,5 +270,5 @@
 
 
 ---
-*最后更新于 2025-10-04 17:38:11 UTC*
+*最后更新于 2025-10-04 18:28:43 UTC*
 *历史记录保存在 `archive` 目录中。*
