@@ -65,6 +65,10 @@
 - 🌟 👤 [Kwansy98](https://github.com/Kwansy98) Starred [basil00/WinDivert](https://github.com/basil00/WinDivert)
   > WinDivert: Windows Packet Divert
 
+### [Lakr233](https://github.com/Lakr233)
+- 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [ktiays/GlassExplorer](https://github.com/ktiays/GlassExplorer)
+  > iOS 26 private glass effect explorer.
+
 ### [Margular](https://github.com/Margular)
 - 🌟 👤 [Margular](https://github.com/Margular) Starred [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
   > 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
@@ -298,5 +302,5 @@
 
 
 ---
-*最后更新于 2025-10-04 19:38:21 UTC*
+*最后更新于 2025-10-04 20:21:44 UTC*
 *历史记录保存在 `archive` 目录中。*
