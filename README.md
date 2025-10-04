@@ -36,6 +36,10 @@
 - 🌟 👤 [CC11001100](https://github.com/CC11001100) Starred [ccxt/ccxt](https://github.com/ccxt/ccxt)
   > A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# /...
 
+### [ColdWindScholar](https://github.com/ColdWindScholar)
+- 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [typsusan/flow-system](https://github.com/typsusan/flow-system)
+  > 这是一个基于 Electron 和 Vue3 开发的桌面应用模板，支持跨平台运行（Windows/macOS/Linux）。模板包含登录、导航栏、扩展窗口、最小化、SSO 登录集成等核心功能，适合快速...
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [tijme/dittobytes](https://github.com/tijme/dittobytes)
   > Metamorphic cross-compilation of C++ & C-code to PIC, BOF & EXE. 
@@ -292,6 +296,8 @@
 ### [zetaloop](https://github.com/zetaloop)
 - 🌟 👤 [zetaloop](https://github.com/zetaloop) Starred [cworld1/astro-theme-pure](https://github.com/cworld1/astro-theme-pure)
   > ⭐ A simple, fast and powerful blog & document theme built by Astro
+- 🍴 👤 [zetaloop](https://github.com/zetaloop) Forked [saicaca/fuwari](https://github.com/saicaca/fuwari) to [zetaloop/site](https://github.com/zetaloop/site)
+  > ✨A static blog template built with Astro. 
 
 ### [zhangyoufu](https://github.com/zhangyoufu)
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [dbos-inc/dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang)
@@ -302,5 +308,5 @@
 
 
 ---
-*最后更新于 2025-10-04 20:21:44 UTC*
+*最后更新于 2025-10-04 20:39:09 UTC*
 *历史记录保存在 `archive` 目录中。*
