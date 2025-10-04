@@ -80,6 +80,10 @@
 - 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [ktiays/GlassExplorer](https://github.com/ktiays/GlassExplorer)
   > iOS 26 private glass effect explorer.
 
+### [Ls4ss](https://github.com/Ls4ss)
+- 🌟 👤 [Ls4ss](https://github.com/Ls4ss) Starred [MorDavid/NetworkHound](https://github.com/MorDavid/NetworkHound)
+  > Advanced Active Directory network topology analyzer with SMB validation, multiple authentication met...
+
 ### [Margular](https://github.com/Margular)
 - 🌟 👤 [Margular](https://github.com/Margular) Starred [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
   > 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
@@ -87,6 +91,10 @@
 ### [Mati365](https://github.com/Mati365)
 - 🌟 👤 [Mati365](https://github.com/Mati365) Starred [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)
   > A tool to automatically fix PHP Coding Standards issues
+
+### [MolotovCherry](https://github.com/MolotovCherry)
+- 🌟 👤 [MolotovCherry](https://github.com/MolotovCherry) Starred [hlorenzi/customasm](https://github.com/hlorenzi/customasm)
+  > 💻 An assembler for custom, user-defined instruction sets! https://hlorenzi.github.io/customasm/web/
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder)
@@ -107,6 +115,10 @@
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [ilammy/ftrace-hook](https://github.com/ilammy/ftrace-hook)
   > Using ftrace for function hooking in Linux kernel
+
+### [Super12138](https://github.com/Super12138)
+- ✨ 👤 [Super12138](https://github.com/Super12138) Created new repo [Super12138/npm-pkg-updater](https://github.com/Super12138/npm-pkg-updater)
+  > 忽略版本限制，把node项目里的依赖更新到最新版本 | Ignore version limited, update node project's dependencies to latest ver...
 
 ### [Udyz](https://github.com/Udyz)
 - ✨ 👤 [Udyz](https://github.com/Udyz) Created new repo [Udyz/wplace-mod](https://github.com/Udyz/wplace-mod)
@@ -243,10 +255,20 @@
 ### [m0n0ph1](https://github.com/m0n0ph1)
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [nyx0/PowerLoader](https://github.com/nyx0/PowerLoader)
   > Power Loader botnet
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng)
+  > IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognitio...
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng) to [m0n0ph1/hrtng](https://github.com/m0n0ph1/hrtng)
+  > IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognitio...
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [HexRaysSA/ida-sdk](https://github.com/HexRaysSA/ida-sdk)
+  > This repository offers an open-source C++ SDK bindings for IDA, enabling custom plugin development a...
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [HexRaysSA/plugin-repository](https://github.com/HexRaysSA/plugin-repository)
+  > public index of IDA Pro plugins
 
 ### [magojohnji](https://github.com/magojohnji)
 - 🌟 👤 [magojohnji](https://github.com/magojohnji) Starred [nginx/nginx](https://github.com/nginx/nginx)
   > The official NGINX Open Source repository.
+- 🌟 👤 [magojohnji](https://github.com/magojohnji) Starred [banlanzs/Sexual-Repression-Calculator](https://github.com/banlanzs/Sexual-Repression-Calculator)
+  > Sexual-Repression-Calculator
 
 ### [meowette](https://github.com/meowette)
 - 🌟 👤 [meowette](https://github.com/meowette) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
@@ -341,5 +363,5 @@
 
 
 ---
-*最后更新于 2025-10-04 21:38:13 UTC*
+*最后更新于 2025-10-04 22:18:58 UTC*
 *历史记录保存在 `archive` 目录中。*
