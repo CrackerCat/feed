@@ -62,6 +62,10 @@
 ### [KaustubhPatange](https://github.com/KaustubhPatange)
 - 🌟 👤 [KaustubhPatange](https://github.com/KaustubhPatange) Starred [mayurathavale18/wg-vpn-tunnel-resources](https://github.com/mayurathavale18/wg-vpn-tunnel-resources)
 
+### [KawaiiSh1zuku](https://github.com/KawaiiSh1zuku)
+- 🌟 👤 [KawaiiSh1zuku](https://github.com/KawaiiSh1zuku) Starred [CrackerCat/Portal](https://github.com/CrackerCat/Portal)
+  > Android Lab Fake Location Service
+
 ### [KingJA](https://github.com/KingJA)
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [besscroft/kamera](https://github.com/besscroft/kamera)
   > 摄影记录网站，基于 Nuxt 3 开发，支持常见的图片格式。图片存储兼容 S3 API、AList API、支持 CDN 配置。同时适配了 PC 和移动端的样式与交互。
@@ -208,6 +212,10 @@
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire)
   > Local-first, open-source AI assistant for your data — unify tasks, notes, docs, photos, and bookmark...
 
+### [jay-to-the-dee](https://github.com/jay-to-the-dee)
+- 🌟 👤 [jay-to-the-dee](https://github.com/jay-to-the-dee) Starred [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)
+  > A free, source-available and fair-code licensed mac app cleaner
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [yukang2017/yukang2017.github.io](https://github.com/yukang2017/yukang2017.github.io)
   > Homepage
@@ -302,6 +310,10 @@
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [mike1k/HookHunter](https://github.com/mike1k/HookHunter)
   > Analyze patches in a process
 
+### [weizhiao](https://github.com/weizhiao)
+- 🍴 👤 [weizhiao](https://github.com/weizhiao) Forked [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) to [weizhiao/binaryen](https://github.com/weizhiao/binaryen)
+  > Optimizer and compiler/toolchain library for WebAssembly
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [quippy-dev/IDAEnvOrchestrator](https://github.com/quippy-dev/IDAEnvOrchestrator)
   > Smart IDA Python environment activator with seamless virtualenv/Conda detection, auto-path patching,...
@@ -329,5 +341,5 @@
 
 
 ---
-*最后更新于 2025-10-04 21:17:51 UTC*
+*最后更新于 2025-10-04 21:38:13 UTC*
 *历史记录保存在 `archive` 目录中。*
