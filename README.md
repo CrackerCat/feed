@@ -28,6 +28,10 @@
 - 🌟 👤 [CC11001100](https://github.com/CC11001100) Starred [ccxt/ccxt](https://github.com/ccxt/ccxt)
   > A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# /...
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [tijme/dittobytes](https://github.com/tijme/dittobytes)
+  > Metamorphic cross-compilation of C++ & C-code to PIC, BOF & EXE. 
+
 ### [EkiXu](https://github.com/EkiXu)
 - 🌟 👤 [EkiXu](https://github.com/EkiXu) Starred [neodyme-labs/solana-ctf](https://github.com/neodyme-labs/solana-ctf)
   > A collection of Solana CTF challenges
@@ -87,6 +91,14 @@
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [dateutil/dateutil](https://github.com/dateutil/dateutil)
   > Useful extensions to the standard Python datetime features
 
+### [ciyze0101](https://github.com/ciyze0101)
+- 🌟 👤 [ciyze0101](https://github.com/ciyze0101) Starred [pard0p/CallstackSpoofingPOC](https://github.com/pard0p/CallstackSpoofingPOC)
+  > C++ self-Injecting dropper based on various EDR evasion techniques.
+- 🌟 👤 [ciyze0101](https://github.com/ciyze0101) Starred [CYRUS-STUDIO/frida_fart](https://github.com/CYRUS-STUDIO/frida_fart)
+  > 使用 Frida 增强 FART：实现更强大的 Android 脱壳能力（Enhancing FART with Frida: Unlocking More Powerful Android Unpa...
+- 🌟 👤 [ciyze0101](https://github.com/ciyze0101) Starred [CYRUS-STUDIO/ARM64Emulator](https://github.com/CYRUS-STUDIO/ARM64Emulator)
+  > 基于 Unicorn 实现一个轻量级的 ARM64 模拟器，具备代码加载、内存映射、指令执行、反汇编、寄存器监控、Hook、Patch、字符串处理等功能，适合用于逆向分析或调试 ARM64 代码。（I...
+
 ### [codehz](https://github.com/codehz)
 - 🌟 👤 [codehz](https://github.com/codehz) Starred [jacob-bennett/deco](https://github.com/jacob-bennett/deco)
   > Zero dependency collection of composable asynchronous decorators.
@@ -139,6 +151,10 @@
   > CRYENGINE Community Edition - Release Version
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nilripper/ptrguard](https://github.com/nilripper/ptrguard) to [gmh5225/ptrguard](https://github.com/gmh5225/ptrguard)
   > A pointer encryption library intended for Red Team implant design in Rust.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [rems-project/cerberus](https://github.com/rems-project/cerberus) to [gmh5225/cerberus-](https://github.com/gmh5225/cerberus-)
+  > Cerberus C semantics
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [C-memory-object-model-study-group/c-mom-sg](https://github.com/C-memory-object-model-study-group/c-mom-sg) to [gmh5225/c-mom-sg](https://github.com/gmh5225/c-mom-sg)
+  > C memory object model study group
 
 ### [gmz9976](https://github.com/gmz9976)
 - ✨ 👤 [gmz9976](https://github.com/gmz9976) Created new repo [gmz9976/ashare-sentiment](https://github.com/gmz9976/ashare-sentiment)
@@ -236,5 +252,5 @@
 
 
 ---
-*最后更新于 2025-10-04 15:19:52 UTC*
+*最后更新于 2025-10-04 15:38:31 UTC*
 *历史记录保存在 `archive` 目录中。*
