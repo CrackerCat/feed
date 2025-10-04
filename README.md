@@ -219,6 +219,10 @@
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
   > Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact ...
 
+### [reveng007](https://github.com/reveng007)
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [Paradoxis/ADSyncDump-BOF](https://github.com/Paradoxis/ADSyncDump-BOF)
+  > The ADSyncDump BOF is a port of Dirk-Jan Mollema's adconnectdump.py / ADSyncDecrypt into a Beacon Ob...
+
 ### [shadow3aaa](https://github.com/shadow3aaa)
 - 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [brunodev85/winlator](https://github.com/brunodev85/winlator)
   > Android application for running Windows applications with Wine and Box86/Box64
@@ -252,5 +256,5 @@
 
 
 ---
-*最后更新于 2025-10-04 15:38:31 UTC*
+*最后更新于 2025-10-04 16:25:01 UTC*
 *历史记录保存在 `archive` 目录中。*
