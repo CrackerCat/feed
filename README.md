@@ -237,6 +237,8 @@
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [alireza0/s-ui](https://github.com/alireza0/s-ui)
   > An advanced Web Panel • Built for SagerNet/Sing-Box
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [233boy/sing-box](https://github.com/233boy/sing-box)
+  > 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议
 
 ### [kingking888](https://github.com/kingking888)
 - 🌟 👤 [kingking888](https://github.com/kingking888) Starred [DoranekoSystems/DynaDbg](https://github.com/DoranekoSystems/DynaDbg)
@@ -304,6 +306,10 @@
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [ilammy/ftrace-hook](https://github.com/ilammy/ftrace-hook) to [rankalpha/ftrace-hook](https://github.com/rankalpha/ftrace-hook)
   > Using ftrace for function hooking in Linux kernel
 
+### [ravindu644](https://github.com/ravindu644)
+- 🍴 👤 [ravindu644](https://github.com/ravindu644) Forked [SavedByLight/android_kernel_samsung_a04s](https://github.com/SavedByLight/android_kernel_samsung_a04s) to [ravindu644/android_kernel_samsung_a04s-TWRP](https://github.com/ravindu644/android_kernel_samsung_a04s-TWRP)
+  > a04s kernel sourcecode
+
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [rmnscnce/dobby-rs](https://github.com/rmnscnce/dobby-rs)
   > Dobby inline hook framework bindings for the Rust programming language
@@ -367,5 +373,5 @@
 
 
 ---
-*最后更新于 2025-10-04 22:39:38 UTC*
+*最后更新于 2025-10-04 23:19:24 UTC*
 *历史记录保存在 `archive` 目录中。*
