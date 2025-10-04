@@ -8,6 +8,12 @@
 - ✨ 👤 [7etsuo](https://github.com/7etsuo) Created new repo [7etsuo/galaga](https://github.com/7etsuo/galaga)
   > Galaga terminal game
 
+### [Ackites](https://github.com/Ackites)
+- 🌟 👤 [Ackites](https://github.com/Ackites) Starred [canonical/pylxd](https://github.com/canonical/pylxd)
+  > Python module for LXD
+- 🌟 👤 [Ackites](https://github.com/Ackites) Starred [canonical/lxd-ui](https://github.com/canonical/lxd-ui)
+  > Easy and accessible container and virtual machine management. A browser interface for LXD
+
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)
   > pix2tex: Using a ViT to convert images of equations into LaTeX code.
@@ -22,13 +28,28 @@
 - 🌟 👤 [CC11001100](https://github.com/CC11001100) Starred [ccxt/ccxt](https://github.com/ccxt/ccxt)
   > A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# /...
 
+### [EkiXu](https://github.com/EkiXu)
+- 🌟 👤 [EkiXu](https://github.com/EkiXu) Starred [neodyme-labs/solana-ctf](https://github.com/neodyme-labs/solana-ctf)
+  > A collection of Solana CTF challenges
+
+### [Evian-Zhang](https://github.com/Evian-Zhang)
+- 🍴 👤 [Evian-Zhang](https://github.com/Evian-Zhang) Forked [unicorn-engine/unicorn-engine-rs](https://github.com/unicorn-engine/unicorn-engine-rs) to [Evian-Zhang/unicorn-engine-rs](https://github.com/Evian-Zhang/unicorn-engine-rs)
+  > The rust bindings for Unicorn Engine
+
 ### [H4ckForJob](https://github.com/H4ckForJob)
 - 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [keecth/FakeCryptoJS](https://github.com/keecth/FakeCryptoJS)
   > CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位置(无视混淆)。SRC和常规渗透神器
 
+### [KaustubhPatange](https://github.com/KaustubhPatange)
+- 🌟 👤 [KaustubhPatange](https://github.com/KaustubhPatange) Starred [mayurathavale18/wg-vpn-tunnel-resources](https://github.com/mayurathavale18/wg-vpn-tunnel-resources)
+
 ### [KingJA](https://github.com/KingJA)
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [besscroft/kamera](https://github.com/besscroft/kamera)
   > 摄影记录网站，基于 Nuxt 3 开发，支持常见的图片格式。图片存储兼容 S3 API、AList API、支持 CDN 配置。同时适配了 PC 和移动端的样式与交互。
+
+### [Margular](https://github.com/Margular)
+- 🌟 👤 [Margular](https://github.com/Margular) Starred [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)
+  > 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder)
@@ -37,6 +58,10 @@
   > AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen...
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
   > A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging an...
+
+### [PranavPurwar](https://github.com/PranavPurwar)
+- 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [bloomwalletio/bloom](https://github.com/bloomwalletio/bloom)
+  > A beautifully designed, user-centric wallet. 
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [ilammy/ftrace-hook](https://github.com/ilammy/ftrace-hook)
@@ -53,6 +78,10 @@
 ### [affggh](https://github.com/affggh)
 - ✨ 👤 [affggh](https://github.com/affggh) Created new repo [affggh/spd_dump_it_web](https://github.com/affggh/spd_dump_it_web)
   > Generate noavb trustos file for sprd device on web
+
+### [aviraxp](https://github.com/aviraxp)
+- 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [kellnr/kellnr](https://github.com/kellnr/kellnr)
+  > The registry for Rust crates
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [dateutil/dateutil](https://github.com/dateutil/dateutil)
@@ -74,6 +103,10 @@
   > Agent S: an open agentic framework that uses computers like a human
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [index-tts/index-tts](https://github.com/index-tts/index-tts)
   > An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
+  > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram)
@@ -100,6 +133,12 @@
   > Torrent Viewer is a client-side application that allows users to load and view detailed torrent info...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [khadafigans/Laravel-RCE-Exploitation-Toolkit](https://github.com/khadafigans/Laravel-RCE-Exploitation-Toolkit) to [gmh5225/Laravel-RCE-Exploitation-Toolkit](https://github.com/gmh5225/Laravel-RCE-Exploitation-Toolkit)
   > Laravel RCE Exploitation Toolkit
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [quippy-dev/IDAEnvOrchestrator](https://github.com/quippy-dev/IDAEnvOrchestrator) to [gmh5225/IDAEnvOrchestrator](https://github.com/gmh5225/IDAEnvOrchestrator)
+  > Smart IDA Python environment activator with seamless virtualenv/Conda detection, auto-path patching,...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Pterosoft/-CRYENGINE-Community-Edition-](https://github.com/Pterosoft/-CRYENGINE-Community-Edition-) to [gmh5225/-CRYENGINE-Community-Edition-](https://github.com/gmh5225/-CRYENGINE-Community-Edition-)
+  > CRYENGINE Community Edition - Release Version
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nilripper/ptrguard](https://github.com/nilripper/ptrguard) to [gmh5225/ptrguard](https://github.com/gmh5225/ptrguard)
+  > A pointer encryption library intended for Red Team implant design in Rust.
 
 ### [gmz9976](https://github.com/gmz9976)
 - ✨ 👤 [gmz9976](https://github.com/gmz9976) Created new repo [gmz9976/ashare-sentiment](https://github.com/gmz9976/ashare-sentiment)
@@ -131,6 +170,21 @@
 ### [merlinxcy](https://github.com/merlinxcy)
 - 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [nicolasgarcia214/damn-vulnerable-defi-foundry](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry)
   > Damn Vulnerable DeFi - Foundry Version
+- 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [web3labs/chainlens-free](https://github.com/web3labs/chainlens-free)
+  > Ethereum, Hyperledger Besu and Quorum blockchain explorer 
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Still34/ida-picker](https://github.com/Still34/ida-picker)
+  > A simple Windows application that allows the user to pick between IDA installation for the given fil...
+
+### [ni-qiuqiu](https://github.com/ni-qiuqiu)
+- 🌟 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Starred [sysprog21/khttpd](https://github.com/sysprog21/khttpd)
+  > An experimental HTTP server implemented as Linux kernel module
+- 🌟 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Starred [aosp-mirror/kernel_common](https://github.com/aosp-mirror/kernel_common)
+- 🌟 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Starred [maskelihileci/IDA_Ollvm-unflattener](https://github.com/maskelihileci/IDA_Ollvm-unflattener)
+  > Control Flow Flattening Deobfuscator for Obfuscator-LLVM as a plugin for IDA Pro.
+- 🍴 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Forked [NiTianErXing666/SmallVmp](https://github.com/NiTianErXing666/SmallVmp) to [ni-qiuqiu/SmallVmp](https://github.com/ni-qiuqiu/SmallVmp)
+  > 简单的基于llvm实现vmp保护
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [chiuhans111/fluidglass](https://github.com/chiuhans111/fluidglass)
@@ -146,6 +200,8 @@
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [rmnscnce/dobby-rs](https://github.com/rmnscnce/dobby-rs)
   > Dobby inline hook framework bindings for the Rust programming language
+- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
+  > Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact ...
 
 ### [shadow3aaa](https://github.com/shadow3aaa)
 - 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [brunodev85/winlator](https://github.com/brunodev85/winlator)
@@ -167,11 +223,18 @@
 - ✨ 👤 [wmjordan](https://github.com/wmjordan) Created new repo [wmjordan/Hanbox.Dict](https://github.com/wmjordan/Hanbox.Dict)
   > 《汉文博士》软件的开源词典数据库存储区
 
+### [zetaloop](https://github.com/zetaloop)
+- 🌟 👤 [zetaloop](https://github.com/zetaloop) Starred [cworld1/astro-theme-pure](https://github.com/cworld1/astro-theme-pure)
+  > ⭐ A simple, fast and powerful blog & document theme built by Astro
+
 ### [zhangyoufu](https://github.com/zhangyoufu)
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [dbos-inc/dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang)
   > Durable Workflow Orchestration with Golang and Postgres
 
+### [zinja-coder](https://github.com/zinja-coder)
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [yashfren/CPTS-Field-Manual](https://github.com/yashfren/CPTS-Field-Manual)
+
 
 ---
-*最后更新于 2025-10-04 14:38:06 UTC*
+*最后更新于 2025-10-04 15:19:52 UTC*
 *历史记录保存在 `archive` 目录中。*
