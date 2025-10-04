@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [7etsuo](https://github.com/7etsuo)
+- ✨ 👤 [7etsuo](https://github.com/7etsuo) Created new repo [7etsuo/galaga](https://github.com/7etsuo/galaga)
+  > Galaga terminal game
+
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR)
   > pix2tex: Using a ViT to convert images of equations into LaTeX code.
@@ -39,6 +43,10 @@
 ### [Udyz](https://github.com/Udyz)
 - ✨ 👤 [Udyz](https://github.com/Udyz) Created new repo [Udyz/wplace-mod](https://github.com/Udyz/wplace-mod)
   >  A userscript to fake admin on Wplace.live
+- 🌟 👤 [Udyz](https://github.com/Udyz) Starred [0xflux/Wyrm](https://github.com/0xflux/Wyrm)
+  >  The dragon in the dark. A red team post exploitation framework for testing security controls during...
+- 🌟 👤 [Udyz](https://github.com/Udyz) Starred [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6)
+  > A cross-version Python bytecode decompiler
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [dateutil/dateutil](https://github.com/dateutil/dateutil)
@@ -55,6 +63,8 @@
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
   > Agent S: an open agentic framework that uses computers like a human
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [index-tts/index-tts](https://github.com/index-tts/index-tts)
+  > An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram)
@@ -79,9 +89,15 @@
   > PadZip Evader - Binary padding and ZIP compression tool for educational anti-analysis research. Infl...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Theyka/Torrent-Viewer](https://github.com/Theyka/Torrent-Viewer) to [gmh5225/Torrent-Viewer](https://github.com/gmh5225/Torrent-Viewer)
   > Torrent Viewer is a client-side application that allows users to load and view detailed torrent info...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [khadafigans/Laravel-RCE-Exploitation-Toolkit](https://github.com/khadafigans/Laravel-RCE-Exploitation-Toolkit) to [gmh5225/Laravel-RCE-Exploitation-Toolkit](https://github.com/gmh5225/Laravel-RCE-Exploitation-Toolkit)
+  > Laravel RCE Exploitation Toolkit
 
 ### [gmz9976](https://github.com/gmz9976)
 - ✨ 👤 [gmz9976](https://github.com/gmz9976) Created new repo [gmz9976/ashare-sentiment](https://github.com/gmz9976/ashare-sentiment)
+
+### [gyyyy](https://github.com/gyyyy)
+- 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [Xinrea/bili-shadowreplay](https://github.com/Xinrea/bili-shadowreplay)
+  > bilibili 直播实时切片工具
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [tw93/Mole](https://github.com/tw93/Mole)
@@ -103,6 +119,10 @@
 ### [nzcv](https://github.com/nzcv)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [nini22P/iris](https://github.com/nini22P/iris) to [nzcv/iris](https://github.com/nzcv/iris)
   > A lightweight video player | 轻量级视频播放器
+
+### [rankalpha](https://github.com/rankalpha)
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [ilammy/ftrace-hook](https://github.com/ilammy/ftrace-hook) to [rankalpha/ftrace-hook](https://github.com/rankalpha/ftrace-hook)
+  > Using ftrace for function hooking in Linux kernel
 
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [rmnscnce/dobby-rs](https://github.com/rmnscnce/dobby-rs)
@@ -126,5 +146,5 @@
 
 
 ---
-*最后更新于 2025-10-04 13:23:16 UTC*
+*最后更新于 2025-10-04 13:38:07 UTC*
 *历史记录保存在 `archive` 目录中。*
