@@ -18,15 +18,27 @@
 - 🌟 👤 [CC11001100](https://github.com/CC11001100) Starred [ccxt/ccxt](https://github.com/ccxt/ccxt)
   > A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# /...
 
+### [H4ckForJob](https://github.com/H4ckForJob)
+- 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [keecth/FakeCryptoJS](https://github.com/keecth/FakeCryptoJS)
+  > CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位置(无视混淆)。SRC和常规渗透神器
+
+### [KingJA](https://github.com/KingJA)
+- 🌟 👤 [KingJA](https://github.com/KingJA) Starred [besscroft/kamera](https://github.com/besscroft/kamera)
+  > 摄影记录网站，基于 Nuxt 3 开发，支持常见的图片格式。图片存储兼容 S3 API、AList API、支持 CDN 配置。同时适配了 PC 和移动端的样式与交互。
+
 ### [Mufanc](https://github.com/Mufanc)
-- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) to [Mufanc/screenpipe](https://github.com/Mufanc/screenpipe)
-  > AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen...
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder)
   > Windrecorder is a memory search app by records everything on your screen in small size, to let you r...
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) to [Mufanc/screenpipe](https://github.com/Mufanc/screenpipe)
+  > AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen...
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [ilammy/ftrace-hook](https://github.com/ilammy/ftrace-hook)
   > Using ftrace for function hooking in Linux kernel
+
+### [Udyz](https://github.com/Udyz)
+- ✨ 👤 [Udyz](https://github.com/Udyz) Created new repo [Udyz/wplace-mod](https://github.com/Udyz/wplace-mod)
+  >  A userscript to fake admin on Wplace.live
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [dateutil/dateutil](https://github.com/dateutil/dateutil)
@@ -35,6 +47,10 @@
 ### [codehz](https://github.com/codehz)
 - 🌟 👤 [codehz](https://github.com/codehz) Starred [jacob-bennett/deco](https://github.com/jacob-bennett/deco)
   > Zero dependency collection of composable asynchronous decorators.
+
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [sourcegraph/scip](https://github.com/sourcegraph/scip)
+  > SCIP Code Intelligence Protocol
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
@@ -61,6 +77,8 @@
   > A simple Windows application that allows the user to pick between IDA installation for the given fil...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [CyberSecurityUP/PadZip-Evader](https://github.com/CyberSecurityUP/PadZip-Evader) to [gmh5225/PadZip-Evader](https://github.com/gmh5225/PadZip-Evader)
   > PadZip Evader - Binary padding and ZIP compression tool for educational anti-analysis research. Infl...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Theyka/Torrent-Viewer](https://github.com/Theyka/Torrent-Viewer) to [gmh5225/Torrent-Viewer](https://github.com/gmh5225/Torrent-Viewer)
+  > Torrent Viewer is a client-side application that allows users to load and view detailed torrent info...
 
 ### [gmz9976](https://github.com/gmz9976)
 - ✨ 👤 [gmz9976](https://github.com/gmz9976) Created new repo [gmz9976/ashare-sentiment](https://github.com/gmz9976/ashare-sentiment)
@@ -70,6 +88,10 @@
   > 🦡  Dig deep like a mole to clean your Mac. 🦡 像鼹鼠一样深入挖掘来清理您的 Mac
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire)
   > Local-first, open-source AI assistant for your data — unify tasks, notes, docs, photos, and bookmark...
+
+### [magojohnji](https://github.com/magojohnji)
+- 🌟 👤 [magojohnji](https://github.com/magojohnji) Starred [nginx/nginx](https://github.com/nginx/nginx)
+  > The official NGINX Open Source repository.
 
 ### [meowette](https://github.com/meowette)
 - 🌟 👤 [meowette](https://github.com/meowette) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
@@ -104,5 +126,5 @@
 
 
 ---
-*最后更新于 2025-10-04 12:40:47 UTC*
+*最后更新于 2025-10-04 13:23:16 UTC*
 *历史记录保存在 `archive` 目录中。*
