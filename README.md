@@ -58,6 +58,10 @@
 ### [H4ckForJob](https://github.com/H4ckForJob)
 - 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [keecth/FakeCryptoJS](https://github.com/keecth/FakeCryptoJS)
   > CryptoJS常规加解密自吐密钥、加解密方式，快速定位加解密位置(无视混淆)。SRC和常规渗透神器
+- 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [mir1ce/Hawkeye](https://github.com/mir1ce/Hawkeye)
+  > Windows应急响应工具---Hawkeye(鹰眼)。集Windows日志分析，进程扫描，主机信息于一体的综合应急响应分析工具
+- 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [Fheidt12/Windows_Log](https://github.com/Fheidt12/Windows_Log)
+  > 基于Go编写的windows日志分析工具
 
 ### [KaustubhPatange](https://github.com/KaustubhPatange)
 - 🌟 👤 [KaustubhPatange](https://github.com/KaustubhPatange) Starred [mayurathavale18/wg-vpn-tunnel-resources](https://github.com/mayurathavale18/wg-vpn-tunnel-resources)
@@ -239,6 +243,8 @@
   > An advanced Web Panel • Built for SagerNet/Sing-Box
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [233boy/sing-box](https://github.com/233boy/sing-box)
   > 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [xeefei/X-Panel](https://github.com/xeefei/X-Panel)
+  > 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restricti...
 
 ### [kingking888](https://github.com/kingking888)
 - 🌟 👤 [kingking888](https://github.com/kingking888) Starred [DoranekoSystems/DynaDbg](https://github.com/DoranekoSystems/DynaDbg)
@@ -341,6 +347,8 @@
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [mike1k/HookHunter](https://github.com/mike1k/HookHunter)
   > Analyze patches in a process
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [vitoplantamura/BugChecker](https://github.com/vitoplantamura/BugChecker)
+  > SoftICE-like kernel debugger for Windows 11
 
 ### [weizhiao](https://github.com/weizhiao)
 - 🍴 👤 [weizhiao](https://github.com/weizhiao) Forked [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) to [weizhiao/binaryen](https://github.com/weizhiao/binaryen)
@@ -373,5 +381,5 @@
 
 
 ---
-*最后更新于 2025-10-04 23:19:24 UTC*
+*最后更新于 2025-10-04 23:39:01 UTC*
 *历史记录保存在 `archive` 目录中。*
