@@ -48,6 +48,10 @@
 - 🌟 👤 [Udyz](https://github.com/Udyz) Starred [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6)
   > A cross-version Python bytecode decompiler
 
+### [affggh](https://github.com/affggh)
+- ✨ 👤 [affggh](https://github.com/affggh) Created new repo [affggh/spd_dump_it_web](https://github.com/affggh/spd_dump_it_web)
+  > Generate noavb trustos file for sprd device on web
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [dateutil/dateutil](https://github.com/dateutil/dateutil)
   > Useful extensions to the standard Python datetime features
@@ -55,6 +59,9 @@
 ### [codehz](https://github.com/codehz)
 - 🌟 👤 [codehz](https://github.com/codehz) Starred [jacob-bennett/deco](https://github.com/jacob-bennett/deco)
   > Zero dependency collection of composable asynchronous decorators.
+
+### [dodola](https://github.com/dodola)
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [inclusionAI/Ming-UniAudio](https://github.com/inclusionAI/Ming-UniAudio)
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [sourcegraph/scip](https://github.com/sourcegraph/scip)
@@ -105,6 +112,12 @@
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire)
   > Local-first, open-source AI assistant for your data — unify tasks, notes, docs, photos, and bookmark...
 
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [yukang2017/yukang2017.github.io](https://github.com/yukang2017/yukang2017.github.io)
+  > Homepage
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [google/perfetto](https://github.com/google/perfetto)
+  > Production-grade client-side tracing, profiling, and analysis for complex software systems.
+
 ### [magojohnji](https://github.com/magojohnji)
 - 🌟 👤 [magojohnji](https://github.com/magojohnji) Starred [nginx/nginx](https://github.com/nginx/nginx)
   > The official NGINX Open Source repository.
@@ -136,6 +149,14 @@
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [llvm/llvm-project](https://github.com/llvm/llvm-project) to [smallzhong/llvm-project](https://github.com/smallzhong/llvm-project)
   > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
+### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [mike1k/HookHunter](https://github.com/mike1k/HookHunter)
+  > Analyze patches in a process
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [quippy-dev/IDAEnvOrchestrator](https://github.com/quippy-dev/IDAEnvOrchestrator)
+  > Smart IDA Python environment activator with seamless virtualenv/Conda detection, auto-path patching,...
+
 ### [wmjordan](https://github.com/wmjordan)
 - ✨ 👤 [wmjordan](https://github.com/wmjordan) Created new repo [wmjordan/Hanbox.Dict](https://github.com/wmjordan/Hanbox.Dict)
   > 《汉文博士》软件的开源词典数据库存储区
@@ -146,5 +167,5 @@
 
 
 ---
-*最后更新于 2025-10-04 13:38:07 UTC*
+*最后更新于 2025-10-04 14:17:41 UTC*
 *历史记录保存在 `archive` 目录中。*
