@@ -102,6 +102,10 @@
 - 🌟 👤 [Nalen98](https://github.com/Nalen98) Starred [AndroBugs/AndroBugs_Framework](https://github.com/AndroBugs/AndroBugs_Framework)
   > AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or hackers f...
 
+### [Nekmo](https://github.com/Nekmo)
+- 🌟 👤 [Nekmo](https://github.com/Nekmo) Starred [russhughes/st7789py_mpy](https://github.com/russhughes/st7789py_mpy)
+  > Driver for 320x240, 240x240, 135x240 and 128x128 ST7789 displays written in MicroPython
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
   > Official inference framework for 1-bit LLMs
@@ -344,6 +348,8 @@
 ### [m0n0ph1](https://github.com/m0n0ph1)
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [rpigu-i/ida-theme-pihunter](https://github.com/rpigu-i/ida-theme-pihunter)
   > IDA Pro Theme - inspired by the Raspberry Pi 
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base)
+  > YARA signature and IOC database for my scanners and tools
 
 ### [m0nad](https://github.com/m0nad)
 - 🌟 👤 [m0nad](https://github.com/m0nad) Starred [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)
@@ -374,6 +380,10 @@
   > Writeups de Navaja Negra CTF 2025
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [renniepak/CSPBypass](https://github.com/renniepak/CSPBypass)
   > CSPBypass.com, a tool designed to help ethical hackers bypass restrictive Content Security Policies ...
+
+### [mytechnotalent](https://github.com/mytechnotalent)
+- ✨ 👤 [mytechnotalent](https://github.com/mytechnotalent) Created new repo [mytechnotalent/RP2350_Blink_Driver](https://github.com/mytechnotalent/RP2350_Blink_Driver)
+  > An RP2350 blink driver written entirely in Assembler.
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [Impact-I/reFlutter](https://github.com/Impact-I/reFlutter)
@@ -492,6 +502,14 @@
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [namazso/NtDriverTool](https://github.com/namazso/NtDriverTool)
   > Vibecoded DriverView except not only view.
 
+### [su-vikas](https://github.com/su-vikas)
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [NationalPensionScheme/NationalPensionScheme.GitHub.io](https://github.com/NationalPensionScheme/NationalPensionScheme.GitHub.io)
+  > Performance of various Tier I and Tier II managed Funds under the NPS ( National Pension Scheme ) of...
+
+### [tactfullotto](https://github.com/tactfullotto)
+- 🍴 👤 [tactfullotto](https://github.com/tactfullotto) Forked [CrackerCat/Portal](https://github.com/CrackerCat/Portal) to [tactfullotto/Portal](https://github.com/tactfullotto/Portal)
+  > Android Lab Fake Location Service
+
 ### [thatstraw](https://github.com/thatstraw)
 - 🌟 👤 [thatstraw](https://github.com/thatstraw) Starred [canonical/netplan](https://github.com/canonical/netplan)
   > Declarative network configuration for various backends
@@ -556,5 +574,5 @@
 
 
 ---
-*最后更新于 2025-10-05 21:18:18 UTC*
+*最后更新于 2025-10-05 21:38:44 UTC*
 *历史记录保存在 `archive` 目录中。*
