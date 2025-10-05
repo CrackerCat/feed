@@ -52,6 +52,16 @@
 - 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [RowTeam/SharpDecryptPwd](https://github.com/RowTeam/SharpDecryptPwd)
   > SharpDecryptPwd source, To Decrypt Navicat,Xmanager,Filezilla,Foxmail,WinSCP,etc
 
+### [Mati365](https://github.com/Mati365)
+- 🌟 👤 [Mati365](https://github.com/Mati365) Starred [Respect/Validation](https://github.com/Respect/Validation)
+  > The most awesome validation engine ever created for PHP
+
+### [MikaCybertron](https://github.com/MikaCybertron)
+- 🌟 👤 [MikaCybertron](https://github.com/MikaCybertron) Starred [KuLiPai/LuaHook](https://github.com/KuLiPai/LuaHook)
+  > A module for writing Xposed scripts via Lua
+- 🍴 👤 [MikaCybertron](https://github.com/MikaCybertron) Forked [KuLiPai/LuaHook](https://github.com/KuLiPai/LuaHook) to [MikaCybertron/LuaHook](https://github.com/MikaCybertron/LuaHook)
+  > A module for writing Xposed scripts via Lua
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [ByNameModding/BNM-Android](https://github.com/ByNameModding/BNM-Android)
   > Modding il2cpp games by classes, methods, fields names on Android.
@@ -59,6 +69,10 @@
 ### [Nalen98](https://github.com/Nalen98)
 - 🌟 👤 [Nalen98](https://github.com/Nalen98) Starred [AndroBugs/AndroBugs_Framework](https://github.com/AndroBugs/AndroBugs_Framework)
   > AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or hackers f...
+
+### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [Nomad0x7/sekken-enum](https://github.com/Nomad0x7/sekken-enum)
+  > adws enumeration bof
 
 ### [Sndav](https://github.com/Sndav)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
@@ -118,9 +132,23 @@
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [zilliztech/claude-context](https://github.com/zilliztech/claude-context)
   > Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 
+### [easychen](https://github.com/easychen)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
+  > Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [cr-marcstevens/sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection) to [fengjixuchui/sha1collisiondetection](https://github.com/fengjixuchui/sha1collisiondetection)
+  > Library and command line tool to detect SHA-1 collision in a file
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [filipi86/MalwareAnalysis-in-PDF](https://github.com/filipi86/MalwareAnalysis-in-PDF) to [fengjixuchui/MalwareAnalysis-in-PDF](https://github.com/fengjixuchui/MalwareAnalysis-in-PDF)
+  > Malicious PDF files recently considered one of the most dangerous threats to the system security. Th...
+
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [dduan/tre](https://github.com/dduan/tre)
   > Tree command, improved.
+
+### [fr0zenrain](https://github.com/fr0zenrain)
+- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [github/spec-kit](https://github.com/github/spec-kit)
+  > 💫 Toolkit to help you get started with Spec-Driven Development
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Mateuszd6/simd-lexing](https://github.com/Mateuszd6/simd-lexing) to [gmh5225/simd-lexing](https://github.com/gmh5225/simd-lexing)
@@ -145,6 +173,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [TCP1P/TCP1P-CTF-2023-Challenges](https://github.com/TCP1P/TCP1P-CTF-2023-Challenges) to [gmh5225/TCP1P-CTF-2023-Challenges](https://github.com/gmh5225/TCP1P-CTF-2023-Challenges)
   > TCP1P CTF 2023 Challenges
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) to [gmh5225/zapret-discord-youtube](https://github.com/gmh5225/zapret-discord-youtube)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [beyond-all-reason/tachyon](https://github.com/beyond-all-reason/tachyon) to [gmh5225/tachyon-](https://github.com/gmh5225/tachyon-)
+  > Client-Server protocol used by BAR
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [beyond-all-reason/RecoilEngine](https://github.com/beyond-all-reason/RecoilEngine) to [gmh5225/RecoilEngine](https://github.com/gmh5225/RecoilEngine)
+  > A powerful free cross-platform RTS game engine
 
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [GangGreenTemperTatum/csp-auditor](https://github.com/GangGreenTemperTatum/csp-auditor)
@@ -184,6 +216,10 @@
 ### [kubo](https://github.com/kubo)
 - 🌟 👤 [kubo](https://github.com/kubo) Starred [kubo/plruby-oracle](https://github.com/kubo/plruby-oracle)
   > PL/Ruby for Oracle is a loadable procedural language that enables you to write Oracle stored procedu...
+- 🌟 👤 [kubo](https://github.com/kubo) Starred [metacall/plthook](https://github.com/metacall/plthook)
+  > Hook function calls by replacing PLT (Procedure Linkage Table) entries.
+- 🌟 👤 [kubo](https://github.com/kubo) Starred [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit)
+  > PostgreSQL Audit Extension
 
 ### [leng-yue](https://github.com/leng-yue)
 - 🍴 👤 [leng-yue](https://github.com/leng-yue) Forked [fzyzcjy/torch_memory_saver](https://github.com/fzyzcjy/torch_memory_saver) to [leng-yue/torch_memory_saver](https://github.com/leng-yue/torch_memory_saver)
@@ -192,6 +228,10 @@
 ### [m0n0ph1](https://github.com/m0n0ph1)
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [rpigu-i/ida-theme-pihunter](https://github.com/rpigu-i/ida-theme-pihunter)
   > IDA Pro Theme - inspired by the Raspberry Pi 
+
+### [mistrmochov](https://github.com/mistrmochov)
+- 🌟 👤 [mistrmochov](https://github.com/mistrmochov) Starred [TroyMetrics/Benchmark-Overlays](https://github.com/TroyMetrics/Benchmark-Overlays)
+  > RTSS / RivaTuner Overlay
 
 ### [mistymntncop](https://github.com/mistymntncop)
 - 🚀 👤 [mistymntncop](https://github.com/mistymntncop) Made [mistymntncop/CVE-2025-6554](https://github.com/mistymntncop/CVE-2025-6554) public
@@ -206,6 +246,18 @@
 - ✨ 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Created new repo [mr-r3b00t/disable_mac_telemetry](https://github.com/mr-r3b00t/disable_mac_telemetry)
 - ✨ 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Created new repo [mr-r3b00t/macOs_cyber_essentials](https://github.com/mr-r3b00t/macOs_cyber_essentials)
   > Some essential checks for MacOS security
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
+  > GUI Application to work with engine assets, asset bundles, and serialized files
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CaliphalHounds/nnctf2025_writeups](https://github.com/CaliphalHounds/nnctf2025_writeups)
+  > Writeups de Navaja Negra CTF 2025
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [renniepak/CSPBypass](https://github.com/renniepak/CSPBypass)
+  > CSPBypass.com, a tool designed to help ethical hackers bypass restrictive Content Security Policies ...
+
+### [qi4L](https://github.com/qi4L)
+- 🌟 👤 [qi4L](https://github.com/qi4L) Starred [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script)
+  > An open source tool to activate and reset trial of Internet Download Manager
 
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [wesmar/kvc](https://github.com/wesmar/kvc) to [rankalpha/kvc](https://github.com/rankalpha/kvc)
@@ -230,6 +282,8 @@
   > 一个安卓/Linux Arm64的多功能hook库
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [rankalpha/YukiHookAPI](https://github.com/rankalpha/YukiHookAPI)
   > ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [danylo-volchenko/watchpoint-km](https://github.com/danylo-volchenko/watchpoint-km) to [rankalpha/watchpoint-km](https://github.com/rankalpha/watchpoint-km)
+  > Linux kernel module to set hardware breakpoint at given virtual memory address
 
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [basecamp/omarchy](https://github.com/basecamp/omarchy)
@@ -287,5 +341,5 @@
 
 
 ---
-*最后更新于 2025-10-05 17:17:27 UTC*
+*最后更新于 2025-10-05 17:38:03 UTC*
 *历史记录保存在 `archive` 目录中。*
