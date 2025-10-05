@@ -62,6 +62,14 @@
 - 🍴 👤 [MikaCybertron](https://github.com/MikaCybertron) Forked [KuLiPai/LuaHook](https://github.com/KuLiPai/LuaHook) to [MikaCybertron/LuaHook](https://github.com/MikaCybertron/LuaHook)
   > A module for writing Xposed scripts via Lua
 
+### [MikeWang000000](https://github.com/MikeWang000000)
+- ✨ 👤 [MikeWang000000](https://github.com/MikeWang000000) Created new repo [MikeWang000000/lxpack](https://github.com/MikeWang000000/lxpack)
+  > a Linux eXecutable PACKer
+
+### [Moe-hacker](https://github.com/Moe-hacker)
+- ✨ 👤 [Moe-hacker](https://github.com/Moe-hacker) Created new repo [Moe-hacker/cs_note](https://github.com/Moe-hacker/cs_note)
+  > Not for you
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [ByNameModding/BNM-Android](https://github.com/ByNameModding/BNM-Android)
   > Modding il2cpp games by classes, methods, fields names on Android.
@@ -141,6 +149,8 @@
   > Library and command line tool to detect SHA-1 collision in a file
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [filipi86/MalwareAnalysis-in-PDF](https://github.com/filipi86/MalwareAnalysis-in-PDF) to [fengjixuchui/MalwareAnalysis-in-PDF](https://github.com/fengjixuchui/MalwareAnalysis-in-PDF)
   > Malicious PDF files recently considered one of the most dangerous threats to the system security. Th...
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [BullsEye0/ghost_eye](https://github.com/BullsEye0/ghost_eye) to [fengjixuchui/ghost_eye](https://github.com/fengjixuchui/ghost_eye)
+  > Ghost Eye Informationgathering Footprinting Scanner and Recon Tool Release. Ghost Eye is an Informat...
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [dduan/tre](https://github.com/dduan/tre)
@@ -149,6 +159,8 @@
 ### [fr0zenrain](https://github.com/fr0zenrain)
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [github/spec-kit](https://github.com/github/spec-kit)
   > 💫 Toolkit to help you get started with Spec-Driven Development
+- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [helviojunior/MS17-010](https://github.com/helviojunior/MS17-010)
+  > MS17-010
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Mateuszd6/simd-lexing](https://github.com/Mateuszd6/simd-lexing) to [gmh5225/simd-lexing](https://github.com/gmh5225/simd-lexing)
@@ -185,6 +197,10 @@
 ### [iAklis](https://github.com/iAklis)
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [openconstruct/Peersuite](https://github.com/openconstruct/Peersuite)
   > Peer to peer workspace
+
+### [ilian](https://github.com/ilian)
+- 🌟 👤 [ilian](https://github.com/ilian) Starred [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
+  > Cloudflare’s documentation
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [ZHO-ZHO-ZHO/Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary)
@@ -255,6 +271,22 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [renniepak/CSPBypass](https://github.com/renniepak/CSPBypass)
   > CSPBypass.com, a tool designed to help ethical hackers bypass restrictive Content Security Policies ...
 
+### [mzfr](https://github.com/mzfr)
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [Impact-I/reFlutter](https://github.com/Impact-I/reFlutter)
+  > Flutter Reverse Engineering Framework
+
+### [namazso](https://github.com/namazso)
+- ✨ 👤 [namazso](https://github.com/namazso) Created new repo [namazso/NtDriverTool](https://github.com/namazso/NtDriverTool)
+  > Vibecoded DriverView except not only view.
+
+### [natsumerinchan](https://github.com/natsumerinchan)
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [number201724/GalGameTools](https://github.com/number201724/GalGameTools)
+  > GalGameTools
+
+### [onhexgroup](https://github.com/onhexgroup)
+- 🌟 👤 [onhexgroup](https://github.com/onhexgroup) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
+  > Multi-architecture emulation for the modern era.
+
 ### [qi4L](https://github.com/qi4L)
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script)
   > An open source tool to activate and reset trial of Internet Download Manager
@@ -284,6 +316,8 @@
   > ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [danylo-volchenko/watchpoint-km](https://github.com/danylo-volchenko/watchpoint-km) to [rankalpha/watchpoint-km](https://github.com/rankalpha/watchpoint-km)
   > Linux kernel module to set hardware breakpoint at given virtual memory address
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [GuidixX/device_xiaomi_lavender](https://github.com/GuidixX/device_xiaomi_lavender)
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [craftrom-os/kernel_xiaomi_lavender](https://github.com/craftrom-os/kernel_xiaomi_lavender)
 
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [basecamp/omarchy](https://github.com/basecamp/omarchy)
@@ -321,6 +355,12 @@
 - 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [ComposeGears/Valkyrie](https://github.com/ComposeGears/Valkyrie)
   > SVG/XML to Compose ImageVector: IntelliJ IDEA / Android Studio plugin + build-in previewer without c...
 
+### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [SafeEval/practical-malware-analysis](https://github.com/SafeEval/practical-malware-analysis)
+  > Exercise writeups from the book Practical Malware Analysis.
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [crypto2011/IDR](https://github.com/crypto2011/IDR)
+  > Interactive Delphi Reconstructor
+
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [felixonmars/vps2arch](https://github.com/felixonmars/vps2arch) to [wszqkzqk/vps2arch](https://github.com/wszqkzqk/vps2arch)
   > The fastest way to convert a VPS to Arch Linux! (forked from gitlab:drizzt/vps2arch)
@@ -330,6 +370,7 @@
   > This collection of AI sub-agents for Claude Code leverages a powerful agent-assembler to dynamically...
 - 🌟 👤 [xiaolai](https://github.com/xiaolai) Starred [wshobson/agents](https://github.com/wshobson/agents)
   > A collection of production-ready subagents for Claude Code
+- ✨ 👤 [xiaolai](https://github.com/xiaolai) Created new repo [xiaolai/kindle-download-all-for-pc](https://github.com/xiaolai/kindle-download-all-for-pc)
 
 ### [ymdzq](https://github.com/ymdzq)
 - 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [ez4y2f/SteamIconFix](https://github.com/ez4y2f/SteamIconFix)
@@ -341,5 +382,5 @@
 
 
 ---
-*最后更新于 2025-10-05 17:38:03 UTC*
+*最后更新于 2025-10-05 18:29:06 UTC*
 *历史记录保存在 `archive` 目录中。*
