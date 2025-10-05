@@ -247,6 +247,8 @@
   > A powerful free cross-platform RTS game engine
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [CaliphalHounds/nnctf2025_writeups](https://github.com/CaliphalHounds/nnctf2025_writeups) to [gmh5225/nnctf2025_writeups](https://github.com/gmh5225/nnctf2025_writeups)
   > Writeups de Navaja Negra CTF 2025
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [x6ud/search-photos-by-model-tool](https://github.com/x6ud/search-photos-by-model-tool) to [gmh5225/search-photos-by-model-tool](https://github.com/gmh5225/search-photos-by-model-tool)
+  > https://x6ud.github.io
 
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [GangGreenTemperTatum/csp-auditor](https://github.com/GangGreenTemperTatum/csp-auditor)
@@ -331,6 +333,10 @@
 - 🌟 👤 [lixeon](https://github.com/lixeon) Starred [kimwang1978/collect-txt](https://github.com/kimwang1978/collect-txt)
   > 源 (自动整理)   
 
+### [llsc12](https://github.com/llsc12)
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults)
+  > 💾 Swifty and modern UserDefaults
+
 ### [luckyzyx](https://github.com/luckyzyx)
 - 🌟 👤 [luckyzyx](https://github.com/luckyzyx) Starred [eirv/DisableLSPosed](https://github.com/eirv/DisableLSPosed)
   > 让 LSPosed 失效并恢复所有被 LSPlant hook 的方法
@@ -338,6 +344,10 @@
 ### [m0n0ph1](https://github.com/m0n0ph1)
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [rpigu-i/ida-theme-pihunter](https://github.com/rpigu-i/ida-theme-pihunter)
   > IDA Pro Theme - inspired by the Raspberry Pi 
+
+### [m0nad](https://github.com/m0nad)
+- 🌟 👤 [m0nad](https://github.com/m0nad) Starred [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)
+  > Collection of malware source code for a variety of platforms in an array of different programming la...
 
 ### [mistrmochov](https://github.com/mistrmochov)
 - 🌟 👤 [mistrmochov](https://github.com/mistrmochov) Starred [TroyMetrics/Benchmark-Overlays](https://github.com/TroyMetrics/Benchmark-Overlays)
@@ -486,6 +496,10 @@
 - 🌟 👤 [thatstraw](https://github.com/thatstraw) Starred [canonical/netplan](https://github.com/canonical/netplan)
   > Declarative network configuration for various backends
 
+### [theapache64](https://github.com/theapache64)
+- 🌟 👤 [theapache64](https://github.com/theapache64) Starred [pbreault/adb-idea](https://github.com/pbreault/adb-idea)
+  > A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
+
 ### [thebabush](https://github.com/thebabush)
 - 🌟 👤 [thebabush](https://github.com/thebabush) Starred [AllenCellModeling/aicsimageio](https://github.com/AllenCellModeling/aicsimageio)
   > Image Reading, Metadata Conversion, and Image Writing for Microscopy Images in Python
@@ -511,6 +525,10 @@
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [felixonmars/vps2arch](https://github.com/felixonmars/vps2arch) to [wszqkzqk/vps2arch](https://github.com/wszqkzqk/vps2arch)
   > The fastest way to convert a VPS to Arch Linux! (forked from gitlab:drizzt/vps2arch)
+
+### [wxxsfxyzm](https://github.com/wxxsfxyzm)
+- 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
+  > AirPods libreated from Apple's ecosystem.
 
 ### [xiaolai](https://github.com/xiaolai)
 - 🌟 👤 [xiaolai](https://github.com/xiaolai) Starred [mylee04/claude-code-subagents](https://github.com/mylee04/claude-code-subagents)
@@ -538,5 +556,5 @@
 
 
 ---
-*最后更新于 2025-10-05 20:39:31 UTC*
+*最后更新于 2025-10-05 21:18:18 UTC*
 *历史记录保存在 `archive` 目录中。*
