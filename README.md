@@ -60,6 +60,10 @@
 - 🌟 👤 [Howard20181](https://github.com/Howard20181) Starred [aviraxp/ZN-AuditPatch](https://github.com/aviraxp/ZN-AuditPatch)
   > Replace sensitive context in audit log
 
+### [KickedDroid](https://github.com/KickedDroid)
+- 🌟 👤 [KickedDroid](https://github.com/KickedDroid) Starred [The-Z-Labs/bof-launcher](https://github.com/The-Z-Labs/bof-launcher)
+  > bof-launcher - library for loading, executing and in-memory masking BOFs on Windows (x64, x86) and L...
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [sk3ptre/AndroidMalware_2022](https://github.com/sk3ptre/AndroidMalware_2022)
   > Popular Android malware seen in 2022
@@ -160,6 +164,10 @@
 - 🌟 👤 [astrelsky](https://github.com/astrelsky) Starred [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk)
   > Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) ...
 
+### [blendin](https://github.com/blendin)
+- 🌟 👤 [blendin](https://github.com/blendin) Starred [theori-io/aixcc-asc-archive](https://github.com/theori-io/aixcc-asc-archive)
+  > Public Source code Release of Theori's AIxCC ASC Submission
+
 ### [bosen365](https://github.com/bosen365)
 - 🍴 👤 [bosen365](https://github.com/bosen365) Forked [time-peddler/pdg_converter](https://github.com/time-peddler/pdg_converter) to [bosen365/pdg_converter](https://github.com/bosen365/pdg_converter)
   > pdg2pdf 将pdg转换为pdf文件，支持自动解密和解压
@@ -187,6 +195,10 @@
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)
   > Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [audacity/audacity](https://github.com/audacity/audacity)
+  > Audio Editor                                     
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [cr-marcstevens/sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection) to [fengjixuchui/sha1collisiondetection](https://github.com/fengjixuchui/sha1collisiondetection)
@@ -372,6 +384,8 @@
   > CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [lilaq-project/lilaq](https://github.com/lilaq-project/lilaq)
   > Advanced data visualization with Typst. 
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [BeechatNetworkSystemsLtd/Reticulum-rs](https://github.com/BeechatNetworkSystemsLtd/Reticulum-rs)
+  > Rust implementation of the Reticulum Networking Stack
 
 ### [onhexgroup](https://github.com/onhexgroup)
 - 🌟 👤 [onhexgroup](https://github.com/onhexgroup) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
@@ -524,5 +538,5 @@
 
 
 ---
-*最后更新于 2025-10-05 20:22:20 UTC*
+*最后更新于 2025-10-05 20:39:31 UTC*
 *历史记录保存在 `archive` 目录中。*
