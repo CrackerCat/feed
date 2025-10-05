@@ -32,9 +32,9 @@
 
 ### [HSSkyBoy](https://github.com/HSSkyBoy)
 - 🌟 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Starred [HatsuneMikuUwU/MikuBoxForAndroid](https://github.com/HatsuneMikuUwU/MikuBoxForAndroid)
-  > NekoBox for Android / sing-box / universal proxy toolchain for Android
+  > MikuBox for Android / sing-box / universal proxy toolchain for Android
 - 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [HatsuneMikuUwU/MikuBoxForAndroid](https://github.com/HatsuneMikuUwU/MikuBoxForAndroid) to [HSSkyBoy/MikuBoxForUwU](https://github.com/HSSkyBoy/MikuBoxForUwU)
-  > NekoBox for Android / sing-box / universal proxy toolchain for Android
+  > MikuBox for Android / sing-box / universal proxy toolchain for Android
 
 ### [Howard20181](https://github.com/Howard20181)
 - 🌟 👤 [Howard20181](https://github.com/Howard20181) Starred [aviraxp/ZN-AuditPatch](https://github.com/aviraxp/ZN-AuditPatch)
@@ -144,6 +144,7 @@
   > TCP1P CTF writeup
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [TCP1P/TCP1P-CTF-2023-Challenges](https://github.com/TCP1P/TCP1P-CTF-2023-Challenges) to [gmh5225/TCP1P-CTF-2023-Challenges](https://github.com/gmh5225/TCP1P-CTF-2023-Challenges)
   > TCP1P CTF 2023 Challenges
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) to [gmh5225/zapret-discord-youtube](https://github.com/gmh5225/zapret-discord-youtube)
 
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [GangGreenTemperTatum/csp-auditor](https://github.com/GangGreenTemperTatum/csp-auditor)
@@ -179,6 +180,10 @@
 ### [kekeimiku](https://github.com/kekeimiku)
 - 🌟 👤 [kekeimiku](https://github.com/kekeimiku) Starred [qemacs/qemacs](https://github.com/qemacs/qemacs)
   > Official repository of the Quick Emacs editor
+
+### [kubo](https://github.com/kubo)
+- 🌟 👤 [kubo](https://github.com/kubo) Starred [kubo/plruby-oracle](https://github.com/kubo/plruby-oracle)
+  > PL/Ruby for Oracle is a loadable procedural language that enables you to write Oracle stored procedu...
 
 ### [leng-yue](https://github.com/leng-yue)
 - 🍴 👤 [leng-yue](https://github.com/leng-yue) Forked [fzyzcjy/torch_memory_saver](https://github.com/fzyzcjy/torch_memory_saver) to [leng-yue/torch_memory_saver](https://github.com/leng-yue/torch_memory_saver)
@@ -262,6 +267,10 @@
 - 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [ComposeGears/Valkyrie](https://github.com/ComposeGears/Valkyrie)
   > SVG/XML to Compose ImageVector: IntelliJ IDEA / Android Studio plugin + build-in previewer without c...
 
+### [wszqkzqk](https://github.com/wszqkzqk)
+- 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [felixonmars/vps2arch](https://github.com/felixonmars/vps2arch) to [wszqkzqk/vps2arch](https://github.com/wszqkzqk/vps2arch)
+  > The fastest way to convert a VPS to Arch Linux! (forked from gitlab:drizzt/vps2arch)
+
 ### [xiaolai](https://github.com/xiaolai)
 - 🌟 👤 [xiaolai](https://github.com/xiaolai) Starred [mylee04/claude-code-subagents](https://github.com/mylee04/claude-code-subagents)
   > This collection of AI sub-agents for Claude Code leverages a powerful agent-assembler to dynamically...
@@ -278,5 +287,5 @@
 
 
 ---
-*最后更新于 2025-10-05 16:42:06 UTC*
+*最后更新于 2025-10-05 17:17:27 UTC*
 *历史记录保存在 `archive` 目录中。*
