@@ -157,7 +157,7 @@
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [Feather-2/paper-burner-x](https://github.com/Feather-2/paper-burner-x)
   > Paper Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK,  基于 Paper Burner
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [666ghj/Weibo_PublicOpinion_AnalysisSystem](https://github.com/666ghj/Weibo_PublicOpinion_AnalysisSystem)
-  > 微舆 - 人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+  > 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [browserbase/stagehand-python](https://github.com/browserbase/stagehand-python)
   > The AI Browser Automation Framework
 
@@ -186,6 +186,8 @@
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
   > :package::rocket: Fully automated version management and package publishing
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [atuinsh/desktop](https://github.com/atuinsh/desktop)
+  > 📖 Runbooks that run 
 
 ### [mr-r3b00t](https://github.com/mr-r3b00t)
 - ✨ 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Created new repo [mr-r3b00t/disable_mac_telemetry](https://github.com/mr-r3b00t/disable_mac_telemetry)
@@ -268,5 +270,5 @@
 
 
 ---
-*最后更新于 2025-10-05 15:38:05 UTC*
+*最后更新于 2025-10-05 16:24:42 UTC*
 *历史记录保存在 `archive` 目录中。*
