@@ -18,6 +18,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [sk3ptre/AndroidMalware_2022](https://github.com/sk3ptre/AndroidMalware_2022)
   > Popular Android malware seen in 2022
 
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [ByNameModding/BNM-Android](https://github.com/ByNameModding/BNM-Android)
+  > Modding il2cpp games by classes, methods, fields names on Android.
+
 ### [Nalen98](https://github.com/Nalen98)
 - 🌟 👤 [Nalen98](https://github.com/Nalen98) Starred [AndroBugs/AndroBugs_Framework](https://github.com/AndroBugs/AndroBugs_Framework)
   > AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or hackers f...
@@ -38,6 +42,14 @@
 - 🚀 👤 [cxapython](https://github.com/cxapython) Made [cxapython/noval](https://github.com/cxapython/noval) public
   > 小说爬虫+前端项目
 
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [cloudflare/workerd](https://github.com/cloudflare/workerd)
+  > The JavaScript / Wasm runtime that powers Cloudflare Workers
+
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [dduan/tre](https://github.com/dduan/tre)
+  > Tree command, improved.
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Mateuszd6/simd-lexing](https://github.com/Mateuszd6/simd-lexing) to [gmh5225/simd-lexing](https://github.com/gmh5225/simd-lexing)
   > A very fast SIMD (AVX2) accelerated lexer that does not rely on tables
@@ -47,6 +59,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Jason2Brownlee/QuakeBotArchive](https://github.com/Jason2Brownlee/QuakeBotArchive) to [gmh5225/QuakeBotArchive](https://github.com/gmh5225/QuakeBotArchive)
   > Archive of all Quake 1 bots.
 
+### [iAklis](https://github.com/iAklis)
+- 🌟 👤 [iAklis](https://github.com/iAklis) Starred [openconstruct/Peersuite](https://github.com/openconstruct/Peersuite)
+  > Peer to peer workspace
+
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [Feather-2/paper-burner-x](https://github.com/Feather-2/paper-burner-x)
   > Paper Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK,  基于 Paper Burner
@@ -54,6 +70,9 @@
   > 微舆 - 人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [browserbase/stagehand-python](https://github.com/browserbase/stagehand-python)
   > The AI Browser Automation Framework
+
+### [jverkoey](https://github.com/jverkoey)
+- ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Ford-Mondeo](https://github.com/OBDb/Ford-Mondeo)
 
 ### [mistymntncop](https://github.com/mistymntncop)
 - 🚀 👤 [mistymntncop](https://github.com/mistymntncop) Made [mistymntncop/CVE-2025-6554](https://github.com/mistymntncop/CVE-2025-6554) public
@@ -78,6 +97,10 @@
 - ✨ 👤 [sjfricke](https://github.com/sjfricke) Created new repo [sjfricke/pianoNickel](https://github.com/sjfricke/pianoNickel)
   > nothing to see here
 
+### [timscriptov](https://github.com/timscriptov)
+- 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [ComposeGears/Valkyrie](https://github.com/ComposeGears/Valkyrie)
+  > SVG/XML to Compose ImageVector: IntelliJ IDEA / Android Studio plugin + build-in previewer without c...
+
 ### [xiaolai](https://github.com/xiaolai)
 - 🌟 👤 [xiaolai](https://github.com/xiaolai) Starred [mylee04/claude-code-subagents](https://github.com/mylee04/claude-code-subagents)
   > This collection of AI sub-agents for Claude Code leverages a powerful agent-assembler to dynamically...
@@ -86,5 +109,5 @@
 
 
 ---
-*最后更新于 2025-10-05 10:39:50 UTC*
+*最后更新于 2025-10-05 11:16:08 UTC*
 *历史记录保存在 `archive` 目录中。*
