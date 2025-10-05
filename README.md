@@ -32,6 +32,9 @@
 - 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [punguin-32k/penguin-wifi-helper](https://github.com/punguin-32k/penguin-wifi-helper) to [ColdWindScholar/penguin-wifi-helper](https://github.com/ColdWindScholar/penguin-wifi-helper)
   > 企鹅WIFI助手
 
+### [Dado1513](https://github.com/Dado1513)
+- ✨ 👤 [Dado1513](https://github.com/Dado1513) Created new repo [Dado1513/htb-machines-solution](https://github.com/Dado1513/htb-machines-solution)
+
 ### [Dobiasd](https://github.com/Dobiasd)
 - 🍴 👤 [Dobiasd](https://github.com/Dobiasd) Forked [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index) to [Dobiasd/conan-center-index](https://github.com/Dobiasd/conan-center-index)
   > Recipes for the ConanCenter repository
@@ -98,6 +101,10 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [ByNameModding/BNM-Android](https://github.com/ByNameModding/BNM-Android)
   > Modding il2cpp games by classes, methods, fields names on Android.
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
+  > Flipper Zero firmware source code
+
 ### [Nalen98](https://github.com/Nalen98)
 - 🌟 👤 [Nalen98](https://github.com/Nalen98) Starred [AndroBugs/AndroBugs_Framework](https://github.com/AndroBugs/AndroBugs_Framework)
   > AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or hackers f...
@@ -109,6 +116,12 @@
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
   > Official inference framework for 1-bit LLMs
+
+### [People-11](https://github.com/People-11)
+- 🌟 👤 [People-11](https://github.com/People-11) Starred [HirbodBehnam/MTProtoProxyInstaller](https://github.com/HirbodBehnam/MTProtoProxyInstaller)
+  > One-click script to install MTProto Proxy server on CentOS, Ubuntu and Debian
+- 🍴 👤 [People-11](https://github.com/People-11) Forked [mosesman831/OCI-OcC-Fix](https://github.com/mosesman831/OCI-OcC-Fix) to [People-11/OCI-OcC-Fix](https://github.com/People-11/OCI-OcC-Fix)
+  > This Python program bypasses Oracle Cloud Infrastructure (OCI) 'Out of capacity' error when creating...
 
 ### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
 - 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [Nomad0x7/sekken-enum](https://github.com/Nomad0x7/sekken-enum)
@@ -175,6 +188,9 @@
 ### [bosen365](https://github.com/bosen365)
 - 🍴 👤 [bosen365](https://github.com/bosen365) Forked [time-peddler/pdg_converter](https://github.com/time-peddler/pdg_converter) to [bosen365/pdg_converter](https://github.com/bosen365/pdg_converter)
   > pdg2pdf 将pdg转换为pdf文件，支持自动解密和解压
+
+### [carlonluca](https://github.com/carlonluca)
+- ✨ 👤 [carlonluca](https://github.com/carlonluca) Created new repo [carlonluca/imageproc](https://github.com/carlonluca/imageproc)
 
 ### [cd-Crypton](https://github.com/cd-Crypton)
 - 🍴 👤 [cd-Crypton](https://github.com/cd-Crypton) Forked [itzzzme/zenime](https://github.com/itzzzme/zenime) to [cd-Crypton/aenime](https://github.com/cd-Crypton/aenime)
@@ -269,6 +285,10 @@
 ### [ilian](https://github.com/ilian)
 - 🌟 👤 [ilian](https://github.com/ilian) Starred [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
   > Cloudflare’s documentation
+
+### [javiersantos](https://github.com/javiersantos)
+- 🌟 👤 [javiersantos](https://github.com/javiersantos) Starred [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+  > A simple music app using YouTube Music for backend
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [ZHO-ZHO-ZHO/Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary)
@@ -406,6 +426,10 @@
   > Advanced data visualization with Typst. 
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [BeechatNetworkSystemsLtd/Reticulum-rs](https://github.com/BeechatNetworkSystemsLtd/Reticulum-rs)
   > Rust implementation of the Reticulum Networking Stack
+
+### [omeraydindev](https://github.com/omeraydindev)
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [koiverse/ArchiveTune](https://github.com/koiverse/ArchiveTune)
+  > Enhanced Music Streaming Client for Android With Material 3 Expressive
 
 ### [onhexgroup](https://github.com/onhexgroup)
 - 🌟 👤 [onhexgroup](https://github.com/onhexgroup) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
@@ -574,5 +598,5 @@
 
 
 ---
-*最后更新于 2025-10-05 21:38:44 UTC*
+*最后更新于 2025-10-05 22:19:41 UTC*
 *历史记录保存在 `archive` 目录中。*
