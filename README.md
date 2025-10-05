@@ -56,6 +56,20 @@
 - 🌟 👤 [Nalen98](https://github.com/Nalen98) Starred [AndroBugs/AndroBugs_Framework](https://github.com/AndroBugs/AndroBugs_Framework)
   > AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or hackers f...
 
+### [Sndav](https://github.com/Sndav)
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+  > Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转...
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [rasta-mouse/Watson](https://github.com/rasta-mouse/Watson)
+  > Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [frizb/Windows-Privilege-Escalation](https://github.com/frizb/Windows-Privilege-Escalation)
+  > Windows Privilege Escalation Techniques and Scripts
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [rasta-mouse/GadgetHunter](https://github.com/rasta-mouse/GadgetHunter)
+  > Find jmp gadgets for call stack spoofing.
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [noahware/darken-anticheat](https://github.com/noahware/darken-anticheat)
+  > Kernel anti-cheat for protecting software.
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [tw93/Mole](https://github.com/tw93/Mole)
+  > 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac
+
 ### [SpriteOvO](https://github.com/SpriteOvO)
 - 🍴 👤 [SpriteOvO](https://github.com/SpriteOvO) Forked [tzhtaylor/modern-sjtu-thesis](https://github.com/tzhtaylor/modern-sjtu-thesis) to [SpriteOvO/modern-sjtu-thesis](https://github.com/SpriteOvO/modern-sjtu-thesis)
   > 上海交通大学学位论文 Typst 模板 (SJTU Thesis Typst Template)
@@ -63,6 +77,10 @@
 ### [WindowsAddict](https://github.com/WindowsAddict)
 - 🌟 👤 [WindowsAddict](https://github.com/WindowsAddict) Starred [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension)
   > AdGuard browser extension
+
+### [XiaoliChan](https://github.com/XiaoliChan)
+- 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [hasherezade/pe-sieve](https://github.com/hasherezade/pe-sieve)
+  > Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/in...
 
 ### [ZJ595](https://github.com/ZJ595)
 - 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [Initial-One/Java-humanify](https://github.com/Initial-One/Java-humanify)
@@ -122,6 +140,10 @@
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [ZHO-ZHO-ZHO/Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary)
   > 香蕉超市｜各种玩法一键生成，无需提示词，支持局部涂选、连续编辑
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [google/agi](https://github.com/google/agi)
+  > Android GPU Inspector
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [google/ink](https://github.com/google/ink)
+  > Google Ink
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [Feather-2/paper-burner-x](https://github.com/Feather-2/paper-burner-x)
@@ -234,5 +256,5 @@
 
 
 ---
-*最后更新于 2025-10-05 13:38:58 UTC*
+*最后更新于 2025-10-05 14:18:03 UTC*
 *历史记录保存在 `archive` 目录中。*
