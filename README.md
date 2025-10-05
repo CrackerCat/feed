@@ -14,6 +14,12 @@
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [connormcgarr/SkBridge](https://github.com/connormcgarr/SkBridge)
   > Harness to issue Virtual Secure Mode (VSM) "secure calls" from VTL 0 to VTL 1
 
+### [ColdWindScholar](https://github.com/ColdWindScholar)
+- 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [exp-3/OpenZxicEditor](https://github.com/exp-3/OpenZxicEditor) to [ColdWindScholar/OpenZxicEditor](https://github.com/ColdWindScholar/OpenZxicEditor)
+  > 这才是更好更专业的ZXIC固件编辑器。
+- 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [punguin-32k/penguin-wifi-helper](https://github.com/punguin-32k/penguin-wifi-helper) to [ColdWindScholar/penguin-wifi-helper](https://github.com/ColdWindScholar/penguin-wifi-helper)
+  > 企鹅WIFI助手
+
 ### [H4ckForJob](https://github.com/H4ckForJob)
 - 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [Ad1euDa1e/VueCrack](https://github.com/Ad1euDa1e/VueCrack)
   > 红队浏览器插件-检测VUE站点未授权漏洞
@@ -90,6 +96,20 @@
   > Custom HUD for Team Fortress 2 with a focus on dark themed colors.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Jason2Brownlee/QuakeBotArchive](https://github.com/Jason2Brownlee/QuakeBotArchive) to [gmh5225/QuakeBotArchive](https://github.com/gmh5225/QuakeBotArchive)
   > Archive of all Quake 1 bots.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [openconstruct/Peersuite](https://github.com/openconstruct/Peersuite) to [gmh5225/Peersuite](https://github.com/gmh5225/Peersuite)
+  > Peer to peer workspace
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [TCP1P/TCP1P-CTF-Blockchain-Infra](https://github.com/TCP1P/TCP1P-CTF-Blockchain-Infra) to [gmh5225/TCP1P-CTF-Blockchain-Infra](https://github.com/gmh5225/TCP1P-CTF-Blockchain-Infra)
+  > This repository contains the setup from Paradigm CTF blockchain challenges based on the original rep...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Xewdy444/CF-Clearance-Scraper](https://github.com/Xewdy444/CF-Clearance-Scraper) to [gmh5225/CF-Clearance-Scraper](https://github.com/gmh5225/CF-Clearance-Scraper)
+  > A simple program for scraping Cloudflare clearance (cf_clearance) cookies from websites issuing Clou...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [harfbuzz/harfbuzzjs](https://github.com/harfbuzz/harfbuzzjs) to [gmh5225/harfbuzzjs](https://github.com/gmh5225/harfbuzzjs)
+  > Providing HarfBuzz shaping library for client/server side JavaScript projects
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [harfbuzz/harfrust](https://github.com/harfbuzz/harfrust) to [gmh5225/harfrust](https://github.com/gmh5225/harfrust)
+  > HarfBuzz port to Rust
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [TCP1P/TCP1P_CTF_writeup](https://github.com/TCP1P/TCP1P_CTF_writeup) to [gmh5225/TCP1P_CTF_writeup](https://github.com/gmh5225/TCP1P_CTF_writeup)
+  > TCP1P CTF writeup
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [TCP1P/TCP1P-CTF-2023-Challenges](https://github.com/TCP1P/TCP1P-CTF-2023-Challenges) to [gmh5225/TCP1P-CTF-2023-Challenges](https://github.com/gmh5225/TCP1P-CTF-2023-Challenges)
+  > TCP1P CTF 2023 Challenges
 
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [GangGreenTemperTatum/csp-auditor](https://github.com/GangGreenTemperTatum/csp-auditor)
@@ -99,6 +119,10 @@
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [openconstruct/Peersuite](https://github.com/openconstruct/Peersuite)
   > Peer to peer workspace
 
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [ZHO-ZHO-ZHO/Nano-Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary)
+  > 香蕉超市｜各种玩法一键生成，无需提示词，支持局部涂选、连续编辑
+
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [Feather-2/paper-burner-x](https://github.com/Feather-2/paper-burner-x)
   > Paper Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK,  基于 Paper Burner
@@ -106,6 +130,10 @@
   > 微舆 - 人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [browserbase/stagehand-python](https://github.com/browserbase/stagehand-python)
   > The AI Browser Automation Framework
+
+### [jpacg](https://github.com/jpacg)
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [ByNameModding/BNM-Android](https://github.com/ByNameModding/BNM-Android)
+  > Modding il2cpp games by classes, methods, fields names on Android.
 
 ### [jverkoey](https://github.com/jverkoey)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Ford-Mondeo](https://github.com/OBDb/Ford-Mondeo)
@@ -127,6 +155,8 @@
 
 ### [mr-r3b00t](https://github.com/mr-r3b00t)
 - ✨ 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Created new repo [mr-r3b00t/disable_mac_telemetry](https://github.com/mr-r3b00t/disable_mac_telemetry)
+- ✨ 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Created new repo [mr-r3b00t/macOs_cyber_essentials](https://github.com/mr-r3b00t/macOs_cyber_essentials)
+  > Some essential checks for MacOS security
 
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [wesmar/kvc](https://github.com/wesmar/kvc) to [rankalpha/kvc](https://github.com/rankalpha/kvc)
@@ -196,5 +226,5 @@
 
 
 ---
-*最后更新于 2025-10-05 12:41:15 UTC*
+*最后更新于 2025-10-05 13:23:38 UTC*
 *历史记录保存在 `archive` 目录中。*
