@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [connormcgarr/Vtl1Mon](https://github.com/connormcgarr/Vtl1Mon)
+  > Virtual Trust Level (VTL 1) secure call tracing
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [connormcgarr/SkBridge](https://github.com/connormcgarr/SkBridge)
+  > Harness to issue Virtual Secure Mode (VSM) "secure calls" from VTL 0 to VTL 1
+
 ### [HSSkyBoy](https://github.com/HSSkyBoy)
 - 🌟 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Starred [HatsuneMikuUwU/MikuBoxForAndroid](https://github.com/HatsuneMikuUwU/MikuBoxForAndroid)
   > NekoBox for Android / sing-box / universal proxy toolchain for Android
@@ -81,6 +87,10 @@
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [basecamp/omarchy](https://github.com/basecamp/omarchy)
   > Opinionated Arch/Hyprland Setup
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [slimtoolkit/slim](https://github.com/slimtoolkit/slim)
+  > Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for com...
+
 ### [rogxo](https://github.com/rogxo)
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [gmh5225/kvc](https://github.com/gmh5225/kvc)
   > The Kernel Vulnerability Capabilities (KVC) framework provides advanced Windows security research to...
@@ -109,5 +119,5 @@
 
 
 ---
-*最后更新于 2025-10-05 11:16:08 UTC*
+*最后更新于 2025-10-05 11:38:43 UTC*
 *历史记录保存在 `archive` 目录中。*
