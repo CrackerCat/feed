@@ -153,6 +153,10 @@
 ### [mistymntncop](https://github.com/mistymntncop)
 - 🚀 👤 [mistymntncop](https://github.com/mistymntncop) Made [mistymntncop/CVE-2025-6554](https://github.com/mistymntncop/CVE-2025-6554) public
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
+  > :package::rocket: Fully automated version management and package publishing
+
 ### [mr-r3b00t](https://github.com/mr-r3b00t)
 - ✨ 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Created new repo [mr-r3b00t/disable_mac_telemetry](https://github.com/mr-r3b00t/disable_mac_telemetry)
 - ✨ 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Created new repo [mr-r3b00t/macOs_cyber_essentials](https://github.com/mr-r3b00t/macOs_cyber_essentials)
@@ -224,7 +228,11 @@
 - 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [ez4y2f/SteamIconFix](https://github.com/ez4y2f/SteamIconFix)
   > Fix the blank desktop icon of steam apps
 
+### [zinja-coder](https://github.com/zinja-coder)
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)
+  > Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Asp...
+
 
 ---
-*最后更新于 2025-10-05 13:23:38 UTC*
+*最后更新于 2025-10-05 13:38:58 UTC*
 *历史记录保存在 `archive` 目录中。*
