@@ -101,6 +101,10 @@
 - ✨ 👤 [Moe-hacker](https://github.com/Moe-hacker) Created new repo [Moe-hacker/cs_note](https://github.com/Moe-hacker/cs_note)
   > Not for you
 
+### [MrIkso](https://github.com/MrIkso)
+- 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork)
+  > Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [ByNameModding/BNM-Android](https://github.com/ByNameModding/BNM-Android)
   > Modding il2cpp games by classes, methods, fields names on Android.
@@ -374,6 +378,8 @@
   > IDA Pro Theme - inspired by the Raspberry Pi 
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base)
   > YARA signature and IOC database for my scanners and tools
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [LNodesL/NCrypt](https://github.com/LNodesL/NCrypt)
+  > NCrypt portable crypter is a collection of C++ build tools, a tiny C compiler for the stub, and a us...
 
 ### [m0nad](https://github.com/m0nad)
 - 🌟 👤 [m0nad](https://github.com/m0nad) Starred [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)
@@ -610,5 +616,5 @@
 
 
 ---
-*最后更新于 2025-10-05 23:17:53 UTC*
+*最后更新于 2025-10-05 23:38:34 UTC*
 *历史记录保存在 `archive` 目录中。*
