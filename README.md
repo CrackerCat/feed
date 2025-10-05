@@ -8,6 +8,10 @@
 - 🌟 👤 [3intermute](https://github.com/3intermute) Starred [Push3AX/GrabAccess](https://github.com/Push3AX/GrabAccess)
   > Bootkit / Windows Login Password Bypass Tool
 
+### [Algunas](https://github.com/Algunas)
+- 🌟 👤 [Algunas](https://github.com/Algunas) Starred [CrackerCat/strong-frida](https://github.com/CrackerCat/strong-frida)
+  > make frida strong, bypass frida detection.
+
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [connormcgarr/Vtl1Mon](https://github.com/connormcgarr/Vtl1Mon)
   > Virtual Trust Level (VTL 1) secure call tracing
@@ -256,5 +260,5 @@
 
 
 ---
-*最后更新于 2025-10-05 14:18:03 UTC*
+*最后更新于 2025-10-05 14:38:34 UTC*
 *历史记录保存在 `archive` 目录中。*
