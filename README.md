@@ -198,6 +198,10 @@
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [GangGreenTemperTatum/csp-auditor](https://github.com/GangGreenTemperTatum/csp-auditor)
   > Caido plugin that hunts CSP misconfigs & cracks headers wide open.
 
+### [halfrost](https://github.com/halfrost)
+- 🌟 👤 [halfrost](https://github.com/halfrost) Starred [casibase/casibase](https://github.com/casibase/casibase)
+  > ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (...
+
 ### [iAklis](https://github.com/iAklis)
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [openconstruct/Peersuite](https://github.com/openconstruct/Peersuite)
   > Peer to peer workspace
@@ -225,6 +229,8 @@
   > 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [browserbase/stagehand-python](https://github.com/browserbase/stagehand-python)
   > The AI Browser Automation Framework
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [tw93/Mole](https://github.com/tw93/Mole)
+  > 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [ByNameModding/BNM-Android](https://github.com/ByNameModding/BNM-Android)
@@ -365,6 +371,10 @@
 - 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [lambdageek/monovm-embed-sample](https://github.com/lambdageek/monovm-embed-sample) to [smx-smx/monovm-embed-sample](https://github.com/smx-smx/monovm-embed-sample)
   > Example showing how to embed .NET 6 MonoVM in a native C application
 
+### [stevemk14ebr](https://github.com/stevemk14ebr)
+- 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [namazso/NtDriverTool](https://github.com/namazso/NtDriverTool)
+  > Vibecoded DriverView except not only view.
+
 ### [thebabush](https://github.com/thebabush)
 - 🌟 👤 [thebabush](https://github.com/thebabush) Starred [AllenCellModeling/aicsimageio](https://github.com/AllenCellModeling/aicsimageio)
   > Image Reading, Metadata Conversion, and Image Writing for Microscopy Images in Python
@@ -400,5 +410,5 @@
 
 
 ---
-*最后更新于 2025-10-05 18:45:57 UTC*
+*最后更新于 2025-10-05 19:16:02 UTC*
 *历史记录保存在 `archive` 目录中。*
