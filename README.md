@@ -90,6 +90,10 @@
 - 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [Initial-One/Java-humanify](https://github.com/Initial-One/Java-humanify)
   > Deobfuscate Java code using LLMs ("ChatGPT,Ollama,DeepSeek,etc.")
 
+### [Zephkek](https://github.com/Zephkek)
+- 🌟 👤 [Zephkek](https://github.com/Zephkek) Starred [physicsG/android](https://github.com/physicsG/android)
+  > The ownCloud Android App
+
 ### [andyjsmith](https://github.com/andyjsmith)
 - 🌟 👤 [andyjsmith](https://github.com/andyjsmith) Starred [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)
   > All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, S...
@@ -97,6 +101,10 @@
 ### [bosen365](https://github.com/bosen365)
 - 🍴 👤 [bosen365](https://github.com/bosen365) Forked [time-peddler/pdg_converter](https://github.com/time-peddler/pdg_converter) to [bosen365/pdg_converter](https://github.com/bosen365/pdg_converter)
   > pdg2pdf 将pdg转换为pdf文件，支持自动解密和解压
+
+### [cd-Crypton](https://github.com/cd-Crypton)
+- 🍴 👤 [cd-Crypton](https://github.com/cd-Crypton) Forked [itzzzme/zenime](https://github.com/itzzzme/zenime) to [cd-Crypton/aenime](https://github.com/cd-Crypton/aenime)
+  > Ad free anime streaming platform
 
 ### [cxapython](https://github.com/cxapython)
 - 🚀 👤 [cxapython](https://github.com/cxapython) Made [cxapython/noval](https://github.com/cxapython/noval) public
@@ -270,5 +278,5 @@
 
 
 ---
-*最后更新于 2025-10-05 16:24:42 UTC*
+*最后更新于 2025-10-05 16:42:06 UTC*
 *历史记录保存在 `archive` 目录中。*
