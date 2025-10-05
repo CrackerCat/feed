@@ -26,6 +26,10 @@
 - 🍴 👤 [SpriteOvO](https://github.com/SpriteOvO) Forked [tzhtaylor/modern-sjtu-thesis](https://github.com/tzhtaylor/modern-sjtu-thesis) to [SpriteOvO/modern-sjtu-thesis](https://github.com/SpriteOvO/modern-sjtu-thesis)
   > 上海交通大学学位论文 Typst 模板 (SJTU Thesis Typst Template)
 
+### [ZJ595](https://github.com/ZJ595)
+- 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [Initial-One/Java-humanify](https://github.com/Initial-One/Java-humanify)
+  > Deobfuscate Java code using LLMs ("ChatGPT,Ollama,DeepSeek,etc.")
+
 ### [andyjsmith](https://github.com/andyjsmith)
 - 🌟 👤 [andyjsmith](https://github.com/andyjsmith) Starred [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)
   > All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, S...
@@ -40,12 +44,19 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Hexix23/shodan-mcp](https://github.com/Hexix23/shodan-mcp) to [gmh5225/shodan-mcp](https://github.com/gmh5225/shodan-mcp)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [CriticalFlaw/flawhud](https://github.com/CriticalFlaw/flawhud) to [gmh5225/flawhud](https://github.com/gmh5225/flawhud)
   > Custom HUD for Team Fortress 2 with a focus on dark themed colors.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Jason2Brownlee/QuakeBotArchive](https://github.com/Jason2Brownlee/QuakeBotArchive) to [gmh5225/QuakeBotArchive](https://github.com/gmh5225/QuakeBotArchive)
+  > Archive of all Quake 1 bots.
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [Feather-2/paper-burner-x](https://github.com/Feather-2/paper-burner-x)
   > Paper Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK,  基于 Paper Burner
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [666ghj/Weibo_PublicOpinion_AnalysisSystem](https://github.com/666ghj/Weibo_PublicOpinion_AnalysisSystem)
   > 微舆 - 人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [browserbase/stagehand-python](https://github.com/browserbase/stagehand-python)
+  > The AI Browser Automation Framework
+
+### [mistymntncop](https://github.com/mistymntncop)
+- 🚀 👤 [mistymntncop](https://github.com/mistymntncop) Made [mistymntncop/CVE-2025-6554](https://github.com/mistymntncop/CVE-2025-6554) public
 
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [basecamp/omarchy](https://github.com/basecamp/omarchy)
@@ -75,5 +86,5 @@
 
 
 ---
-*最后更新于 2025-10-05 10:20:51 UTC*
+*最后更新于 2025-10-05 10:39:50 UTC*
 *历史记录保存在 `archive` 目录中。*
