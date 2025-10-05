@@ -105,6 +105,10 @@
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [cloudflare/workerd](https://github.com/cloudflare/workerd)
   > The JavaScript / Wasm runtime that powers Cloudflare Workers
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [komari-monitor/komari](https://github.com/komari-monitor/komari)
+  > A simple server monitor tool.
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [zilliztech/claude-context](https://github.com/zilliztech/claude-context)
+  > Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [dduan/tre](https://github.com/dduan/tre)
@@ -240,6 +244,10 @@
 - ✨ 👤 [sjfricke](https://github.com/sjfricke) Created new repo [sjfricke/pianoNickel](https://github.com/sjfricke/pianoNickel)
   > nothing to see here
 
+### [thebabush](https://github.com/thebabush)
+- 🌟 👤 [thebabush](https://github.com/thebabush) Starred [AllenCellModeling/aicsimageio](https://github.com/AllenCellModeling/aicsimageio)
+  > Image Reading, Metadata Conversion, and Image Writing for Microscopy Images in Python
+
 ### [timscriptov](https://github.com/timscriptov)
 - 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [ComposeGears/Valkyrie](https://github.com/ComposeGears/Valkyrie)
   > SVG/XML to Compose ImageVector: IntelliJ IDEA / Android Studio plugin + build-in previewer without c...
@@ -260,5 +268,5 @@
 
 
 ---
-*最后更新于 2025-10-05 14:38:34 UTC*
+*最后更新于 2025-10-05 15:19:27 UTC*
 *历史记录保存在 `archive` 目录中。*
