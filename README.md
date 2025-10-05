@@ -4,11 +4,21 @@
 
 ## 今日动态
 
+### [3intermute](https://github.com/3intermute)
+- 🌟 👤 [3intermute](https://github.com/3intermute) Starred [Push3AX/GrabAccess](https://github.com/Push3AX/GrabAccess)
+  > Bootkit / Windows Login Password Bypass Tool
+
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [connormcgarr/Vtl1Mon](https://github.com/connormcgarr/Vtl1Mon)
   > Virtual Trust Level (VTL 1) secure call tracing
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [connormcgarr/SkBridge](https://github.com/connormcgarr/SkBridge)
   > Harness to issue Virtual Secure Mode (VSM) "secure calls" from VTL 0 to VTL 1
+
+### [H4ckForJob](https://github.com/H4ckForJob)
+- 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [Ad1euDa1e/VueCrack](https://github.com/Ad1euDa1e/VueCrack)
+  > 红队浏览器插件-检测VUE站点未授权漏洞
+- 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [9bie/Slacker](https://github.com/9bie/Slacker)
+  > 懒鬼插件/审计过的后的渗透插件/我凭本事打的SESSION凭什么还要我自己动手后渗透？
 
 ### [HSSkyBoy](https://github.com/HSSkyBoy)
 - 🌟 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Starred [HatsuneMikuUwU/MikuBoxForAndroid](https://github.com/HatsuneMikuUwU/MikuBoxForAndroid)
@@ -24,6 +34,14 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [sk3ptre/AndroidMalware_2022](https://github.com/sk3ptre/AndroidMalware_2022)
   > Popular Android malware seen in 2022
 
+### [Lil-Ran](https://github.com/Lil-Ran)
+- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [jjonescz/DotNetLab](https://github.com/jjonescz/DotNetLab)
+  > C# and Razor compiler playground in the browser via Blazor WebAssembly
+
+### [LimerBoy](https://github.com/LimerBoy)
+- 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [RowTeam/SharpDecryptPwd](https://github.com/RowTeam/SharpDecryptPwd)
+  > SharpDecryptPwd source, To Decrypt Navicat,Xmanager,Filezilla,Foxmail,WinSCP,etc
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [ByNameModding/BNM-Android](https://github.com/ByNameModding/BNM-Android)
   > Modding il2cpp games by classes, methods, fields names on Android.
@@ -36,6 +54,10 @@
 - 🍴 👤 [SpriteOvO](https://github.com/SpriteOvO) Forked [tzhtaylor/modern-sjtu-thesis](https://github.com/tzhtaylor/modern-sjtu-thesis) to [SpriteOvO/modern-sjtu-thesis](https://github.com/SpriteOvO/modern-sjtu-thesis)
   > 上海交通大学学位论文 Typst 模板 (SJTU Thesis Typst Template)
 
+### [WindowsAddict](https://github.com/WindowsAddict)
+- 🌟 👤 [WindowsAddict](https://github.com/WindowsAddict) Starred [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension)
+  > AdGuard browser extension
+
 ### [ZJ595](https://github.com/ZJ595)
 - 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [Initial-One/Java-humanify](https://github.com/Initial-One/Java-humanify)
   > Deobfuscate Java code using LLMs ("ChatGPT,Ollama,DeepSeek,etc.")
@@ -43,6 +65,10 @@
 ### [andyjsmith](https://github.com/andyjsmith)
 - 🌟 👤 [andyjsmith](https://github.com/andyjsmith) Starred [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)
   > All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, S...
+
+### [bosen365](https://github.com/bosen365)
+- 🍴 👤 [bosen365](https://github.com/bosen365) Forked [time-peddler/pdg_converter](https://github.com/time-peddler/pdg_converter) to [bosen365/pdg_converter](https://github.com/bosen365/pdg_converter)
+  > pdg2pdf 将pdg转换为pdf文件，支持自动解密和解压
 
 ### [cxapython](https://github.com/cxapython)
 - 🚀 👤 [cxapython](https://github.com/cxapython) Made [cxapython/noval](https://github.com/cxapython/noval) public
@@ -65,6 +91,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Jason2Brownlee/QuakeBotArchive](https://github.com/Jason2Brownlee/QuakeBotArchive) to [gmh5225/QuakeBotArchive](https://github.com/gmh5225/QuakeBotArchive)
   > Archive of all Quake 1 bots.
 
+### [hahwul](https://github.com/hahwul)
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [GangGreenTemperTatum/csp-auditor](https://github.com/GangGreenTemperTatum/csp-auditor)
+  > Caido plugin that hunts CSP misconfigs & cracks headers wide open.
+
 ### [iAklis](https://github.com/iAklis)
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [openconstruct/Peersuite](https://github.com/openconstruct/Peersuite)
   > Peer to peer workspace
@@ -80,8 +110,47 @@
 ### [jverkoey](https://github.com/jverkoey)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Ford-Mondeo](https://github.com/OBDb/Ford-Mondeo)
 
+### [kekeimiku](https://github.com/kekeimiku)
+- 🌟 👤 [kekeimiku](https://github.com/kekeimiku) Starred [qemacs/qemacs](https://github.com/qemacs/qemacs)
+  > Official repository of the Quick Emacs editor
+
+### [leng-yue](https://github.com/leng-yue)
+- 🍴 👤 [leng-yue](https://github.com/leng-yue) Forked [fzyzcjy/torch_memory_saver](https://github.com/fzyzcjy/torch_memory_saver) to [leng-yue/torch_memory_saver](https://github.com/leng-yue/torch_memory_saver)
+  > Allow torch tensor memory to be released and resumed later 
+
+### [m0n0ph1](https://github.com/m0n0ph1)
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [rpigu-i/ida-theme-pihunter](https://github.com/rpigu-i/ida-theme-pihunter)
+  > IDA Pro Theme - inspired by the Raspberry Pi 
+
 ### [mistymntncop](https://github.com/mistymntncop)
 - 🚀 👤 [mistymntncop](https://github.com/mistymntncop) Made [mistymntncop/CVE-2025-6554](https://github.com/mistymntncop/CVE-2025-6554) public
+
+### [mr-r3b00t](https://github.com/mr-r3b00t)
+- ✨ 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Created new repo [mr-r3b00t/disable_mac_telemetry](https://github.com/mr-r3b00t/disable_mac_telemetry)
+
+### [rankalpha](https://github.com/rankalpha)
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [wesmar/kvc](https://github.com/wesmar/kvc) to [rankalpha/kvc](https://github.com/rankalpha/kvc)
+  > The Kernel Vulnerability Capabilities (KVC) framework provides advanced Windows security research to...
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [ldcsaa/HP-Socket](https://github.com/ldcsaa/HP-Socket) to [rankalpha/HP-Socket](https://github.com/rankalpha/HP-Socket)
+  > High Performance TCP/UDP/HTTP Communication Component
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [AndroBugs/AndroBugs_Framework](https://github.com/AndroBugs/AndroBugs_Framework)
+  > AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or hackers f...
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [ByNameModding/BNM-Android](https://github.com/ByNameModding/BNM-Android) to [rankalpha/BNM-Android](https://github.com/rankalpha/BNM-Android)
+  > Modding il2cpp games by classes, methods, fields names on Android.
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [tiann/epic](https://github.com/tiann/epic)
+  > Dynamic java method AOP hook for Android(continution of Dexposed on ART), Supporting 5.0~11
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [turing-technician/FastHook](https://github.com/turing-technician/FastHook)
+  > Android ART Hook
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [PAGalaxyLab/YAHFA](https://github.com/PAGalaxyLab/YAHFA)
+  > Yet Another Hook Framework for ART
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [rankalpha/AndroidMethodHook](https://github.com/rankalpha/AndroidMethodHook)
+  > android art hook like Sophix
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
+  > LSPosed Framework
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [rankalpha/urhook](https://github.com/rankalpha/urhook)
+  > 一个安卓/Linux Arm64的多功能hook库
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [rankalpha/YukiHookAPI](https://github.com/rankalpha/YukiHookAPI)
+  > ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
 
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [basecamp/omarchy](https://github.com/basecamp/omarchy)
@@ -98,6 +167,10 @@
   > The Kernel Vulnerability Capabilities (KVC) framework provides advanced Windows security research to...
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [ldcsaa/HP-Socket](https://github.com/ldcsaa/HP-Socket)
   > High Performance TCP/UDP/HTTP Communication Component
+
+### [rushiiMachine](https://github.com/rushiiMachine)
+- 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [Vencord/Vesktop](https://github.com/Vencord/Vesktop)
+  > Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
@@ -117,7 +190,11 @@
 - 🌟 👤 [xiaolai](https://github.com/xiaolai) Starred [wshobson/agents](https://github.com/wshobson/agents)
   > A collection of production-ready subagents for Claude Code
 
+### [ymdzq](https://github.com/ymdzq)
+- 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [ez4y2f/SteamIconFix](https://github.com/ez4y2f/SteamIconFix)
+  > Fix the blank desktop icon of steam apps
+
 
 ---
-*最后更新于 2025-10-05 11:38:43 UTC*
+*最后更新于 2025-10-05 12:41:15 UTC*
 *历史记录保存在 `archive` 目录中。*
