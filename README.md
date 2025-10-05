@@ -71,6 +71,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [sk3ptre/AndroidMalware_2022](https://github.com/sk3ptre/AndroidMalware_2022)
   > Popular Android malware seen in 2022
 
+### [LabGuy94](https://github.com/LabGuy94)
+- 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [0xJs/EnumMitigations](https://github.com/0xJs/EnumMitigations)
+  > Reports on Driver, LSASS and other security services mitigations
+
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [jjonescz/DotNetLab](https://github.com/jjonescz/DotNetLab)
   > C# and Razor compiler playground in the browser via Blazor WebAssembly
@@ -374,6 +378,8 @@
 ### [m0nad](https://github.com/m0nad)
 - 🌟 👤 [m0nad](https://github.com/m0nad) Starred [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)
   > Collection of malware source code for a variety of platforms in an array of different programming la...
+- 🌟 👤 [m0nad](https://github.com/m0nad) Starred [rodrigocarlson/PensePython3ed](https://github.com/rodrigocarlson/PensePython3ed)
+  > Tradução livre da terceira edição do livro Think Python de Allen B. Downey.
 
 ### [mistrmochov](https://github.com/mistrmochov)
 - 🌟 👤 [mistrmochov](https://github.com/mistrmochov) Starred [TroyMetrics/Benchmark-Overlays](https://github.com/TroyMetrics/Benchmark-Overlays)
@@ -485,6 +491,8 @@
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [basecamp/omarchy](https://github.com/basecamp/omarchy)
   > Opinionated Arch/Hyprland Setup
+- 🌟 👤 [rdbo](https://github.com/rdbo) Starred [containers/bubblewrap](https://github.com/containers/bubblewrap)
+  > Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [slimtoolkit/slim](https://github.com/slimtoolkit/slim)
@@ -564,6 +572,10 @@
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [AIDC-AI/ComfyUI-Copilot](https://github.com/AIDC-AI/ComfyUI-Copilot)
   > An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligen...
 
+### [wrvenkat](https://github.com/wrvenkat)
+- 🌟 👤 [wrvenkat](https://github.com/wrvenkat) Starred [dalibo/pg_activity](https://github.com/dalibo/pg_activity)
+  > pg_activity is a top like application for PostgreSQL server activity monitoring.
+
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [felixonmars/vps2arch](https://github.com/felixonmars/vps2arch) to [wszqkzqk/vps2arch](https://github.com/wszqkzqk/vps2arch)
   > The fastest way to convert a VPS to Arch Linux! (forked from gitlab:drizzt/vps2arch)
@@ -598,5 +610,5 @@
 
 
 ---
-*最后更新于 2025-10-05 22:39:32 UTC*
+*最后更新于 2025-10-05 23:17:53 UTC*
 *历史记录保存在 `archive` 目录中。*
