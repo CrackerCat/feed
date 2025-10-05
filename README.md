@@ -120,6 +120,10 @@
 - 🌟 👤 [andyjsmith](https://github.com/andyjsmith) Starred [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)
   > All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, S...
 
+### [astrelsky](https://github.com/astrelsky)
+- 🌟 👤 [astrelsky](https://github.com/astrelsky) Starred [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk)
+  > Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) ...
+
 ### [bosen365](https://github.com/bosen365)
 - 🍴 👤 [bosen365](https://github.com/bosen365) Forked [time-peddler/pdg_converter](https://github.com/time-peddler/pdg_converter) to [bosen365/pdg_converter](https://github.com/bosen365/pdg_converter)
   > pdg2pdf 将pdg转换为pdf文件，支持自动解密和解压
@@ -209,6 +213,10 @@
   > Android GPU Inspector
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [google/ink](https://github.com/google/ink)
   > Google Ink
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor)
+  > Library of deep learning models and datasets designed to make deep learning more accessible and acce...
+- 🍴 👤 [jianglin-code](https://github.com/jianglin-code) Forked [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) to [jianglin-code/tensor2tensor](https://github.com/jianglin-code/tensor2tensor)
+  > Library of deep learning models and datasets designed to make deep learning more accessible and acce...
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [Feather-2/paper-burner-x](https://github.com/Feather-2/paper-burner-x)
@@ -240,6 +248,10 @@
 ### [leng-yue](https://github.com/leng-yue)
 - 🍴 👤 [leng-yue](https://github.com/leng-yue) Forked [fzyzcjy/torch_memory_saver](https://github.com/fzyzcjy/torch_memory_saver) to [leng-yue/torch_memory_saver](https://github.com/leng-yue/torch_memory_saver)
   > Allow torch tensor memory to be released and resumed later 
+
+### [luckyzyx](https://github.com/luckyzyx)
+- 🌟 👤 [luckyzyx](https://github.com/luckyzyx) Starred [eirv/DisableLSPosed](https://github.com/eirv/DisableLSPosed)
+  > 让 LSPosed 失效并恢复所有被 LSPlant hook 的方法
 
 ### [m0n0ph1](https://github.com/m0n0ph1)
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [rpigu-i/ida-theme-pihunter](https://github.com/rpigu-i/ida-theme-pihunter)
@@ -347,6 +359,12 @@
 - ✨ 👤 [sjfricke](https://github.com/sjfricke) Created new repo [sjfricke/pianoNickel](https://github.com/sjfricke/pianoNickel)
   > nothing to see here
 
+### [smx-smx](https://github.com/smx-smx)
+- 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [lambdageek/monovm-embed-sample](https://github.com/lambdageek/monovm-embed-sample)
+  > Example showing how to embed .NET 6 MonoVM in a native C application
+- 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [lambdageek/monovm-embed-sample](https://github.com/lambdageek/monovm-embed-sample) to [smx-smx/monovm-embed-sample](https://github.com/smx-smx/monovm-embed-sample)
+  > Example showing how to embed .NET 6 MonoVM in a native C application
+
 ### [thebabush](https://github.com/thebabush)
 - 🌟 👤 [thebabush](https://github.com/thebabush) Starred [AllenCellModeling/aicsimageio](https://github.com/AllenCellModeling/aicsimageio)
   > Image Reading, Metadata Conversion, and Image Writing for Microscopy Images in Python
@@ -382,5 +400,5 @@
 
 
 ---
-*最后更新于 2025-10-05 18:29:06 UTC*
+*最后更新于 2025-10-05 18:45:57 UTC*
 *历史记录保存在 `archive` 目录中。*
