@@ -12,6 +12,10 @@
 - 🌟 👤 [3intermute](https://github.com/3intermute) Starred [Push3AX/GrabAccess](https://github.com/Push3AX/GrabAccess)
   > Bootkit / Windows Login Password Bypass Tool
 
+### [AEnjoy](https://github.com/AEnjoy)
+- 🌟 👤 [AEnjoy](https://github.com/AEnjoy) Starred [yamadashy/repomix](https://github.com/yamadashy/repomix)
+  > 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perf...
+
 ### [Algunas](https://github.com/Algunas)
 - 🌟 👤 [Algunas](https://github.com/Algunas) Starred [CrackerCat/strong-frida](https://github.com/CrackerCat/strong-frida)
   > make frida strong, bypass frida detection.
@@ -28,6 +32,14 @@
 - 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [punguin-32k/penguin-wifi-helper](https://github.com/punguin-32k/penguin-wifi-helper) to [ColdWindScholar/penguin-wifi-helper](https://github.com/ColdWindScholar/penguin-wifi-helper)
   > 企鹅WIFI助手
 
+### [Dobiasd](https://github.com/Dobiasd)
+- 🍴 👤 [Dobiasd](https://github.com/Dobiasd) Forked [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index) to [Dobiasd/conan-center-index](https://github.com/Dobiasd/conan-center-index)
+  > Recipes for the ConanCenter repository
+
+### [H3d9](https://github.com/H3d9)
+- 🌟 👤 [H3d9](https://github.com/H3d9) Starred [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)
+  > ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
+
 ### [H4ckForJob](https://github.com/H4ckForJob)
 - 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [Ad1euDa1e/VueCrack](https://github.com/Ad1euDa1e/VueCrack)
   > 红队浏览器插件-检测VUE站点未授权漏洞
@@ -39,6 +51,10 @@
   > MikuBox for Android / sing-box / universal proxy toolchain for Android
 - 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [HatsuneMikuUwU/MikuBoxForAndroid](https://github.com/HatsuneMikuUwU/MikuBoxForAndroid) to [HSSkyBoy/MikuBoxForUwU](https://github.com/HSSkyBoy/MikuBoxForUwU)
   > MikuBox for Android / sing-box / universal proxy toolchain for Android
+
+### [HdShare](https://github.com/HdShare)
+- 🌟 👤 [HdShare](https://github.com/HdShare) Starred [Initial-One/Java-humanify](https://github.com/Initial-One/Java-humanify)
+  > Deobfuscate Java code using LLMs ("ChatGPT,Ollama,DeepSeek,etc.")
 
 ### [Howard20181](https://github.com/Howard20181)
 - 🌟 👤 [Howard20181](https://github.com/Howard20181) Starred [aviraxp/ZN-AuditPatch](https://github.com/aviraxp/ZN-AuditPatch)
@@ -82,6 +98,10 @@
 - 🌟 👤 [Nalen98](https://github.com/Nalen98) Starred [AndroBugs/AndroBugs_Framework](https://github.com/AndroBugs/AndroBugs_Framework)
   > AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or hackers f...
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
+  > Official inference framework for 1-bit LLMs
+
 ### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
 - 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [Nomad0x7/sekken-enum](https://github.com/Nomad0x7/sekken-enum)
   > adws enumeration bof
@@ -89,6 +109,10 @@
 ### [SMlc666](https://github.com/SMlc666)
 - 🌟 👤 [SMlc666](https://github.com/SMlc666) Starred [CrackerCat/page_fault_handler_hook](https://github.com/CrackerCat/page_fault_handler_hook)
   > software watchpoints + physical page swapping on execute/read via page fault handler hooking
+
+### [Smooth-E](https://github.com/Smooth-E)
+- 🌟 👤 [Smooth-E](https://github.com/Smooth-E) Starred [ck-zhang/reddix](https://github.com/ck-zhang/reddix)
+  > Reddix - Reddit, refined for the terminal.
 
 ### [Sndav](https://github.com/Sndav)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
@@ -124,6 +148,10 @@
 - 🌟 👤 [Zephkek](https://github.com/Zephkek) Starred [physicsG/android](https://github.com/physicsG/android)
   > The ownCloud Android App
 
+### [abdihaikal](https://github.com/abdihaikal)
+- 🌟 👤 [abdihaikal](https://github.com/abdihaikal) Starred [labring/sealos](https://github.com/labring/sealos)
+  > The Intelligent Cloud OS. Use AI to automate the full lifecycle of your development and production e...
+
 ### [andyjsmith](https://github.com/andyjsmith)
 - 🌟 👤 [andyjsmith](https://github.com/andyjsmith) Starred [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart)
   > All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, S...
@@ -139,6 +167,10 @@
 ### [cd-Crypton](https://github.com/cd-Crypton)
 - 🍴 👤 [cd-Crypton](https://github.com/cd-Crypton) Forked [itzzzme/zenime](https://github.com/itzzzme/zenime) to [cd-Crypton/aenime](https://github.com/cd-Crypton/aenime)
   > Ad free anime streaming platform
+
+### [chickendrop89](https://github.com/chickendrop89)
+- ✨ 👤 [chickendrop89](https://github.com/chickendrop89) Created new repo [chickendrop89/ESPnRF24-Jammer](https://github.com/chickendrop89/ESPnRF24-Jammer)
+  > A low-power 2,4GHz wireless jammer based on ESP32 and nRF24LO1+PA+LNA
 
 ### [cxapython](https://github.com/cxapython)
 - 🚀 👤 [cxapython](https://github.com/cxapython) Made [cxapython/noval](https://github.com/cxapython/noval) public
@@ -253,6 +285,12 @@
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [ByNameModding/BNM-Android](https://github.com/ByNameModding/BNM-Android)
   > Modding il2cpp games by classes, methods, fields names on Android.
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [HighCapable/Gropify](https://github.com/HighCapable/Gropify)
+  > Type-safe and modern properties plugin for Gradle.
+
+### [juhapekka](https://github.com/juhapekka)
+- 🍴 👤 [juhapekka](https://github.com/juhapekka) Forked [StanfordSpezi/SpeziLLM](https://github.com/StanfordSpezi/SpeziLLM) to [juhapekka/SpeziLLM](https://github.com/juhapekka/SpeziLLM)
+  > Large Language Model (LLM) module for the Spezi Ecosystem
 
 ### [jverkoey](https://github.com/jverkoey)
 - ✨ 👤 [jverkoey](https://github.com/jverkoey) Created new repo [OBDb/Ford-Mondeo](https://github.com/OBDb/Ford-Mondeo)
@@ -268,6 +306,10 @@
   > Hook function calls by replacing PLT (Procedure Linkage Table) entries.
 - 🌟 👤 [kubo](https://github.com/kubo) Starred [pgaudit/pgaudit](https://github.com/pgaudit/pgaudit)
   > PostgreSQL Audit Extension
+
+### [laozig](https://github.com/laozig)
+- 🌟 👤 [laozig](https://github.com/laozig) Starred [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent)
+  > 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 
 ### [leng-yue](https://github.com/leng-yue)
 - 🍴 👤 [leng-yue](https://github.com/leng-yue) Forked [fzyzcjy/torch_memory_saver](https://github.com/fzyzcjy/torch_memory_saver) to [leng-yue/torch_memory_saver](https://github.com/leng-yue/torch_memory_saver)
@@ -322,10 +364,26 @@
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [number201724/GalGameTools](https://github.com/number201724/GalGameTools)
   > GalGameTools
+- 🍴 👤 [natsumerinchan](https://github.com/natsumerinchan) Forked [number201724/GalGameTools](https://github.com/number201724/GalGameTools) to [natsumerinchan/GalGameTools](https://github.com/natsumerinchan/GalGameTools)
+  > GalGameTools
+
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [cetz-package/cetz](https://github.com/cetz-package/cetz)
+  > CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [lilaq-project/lilaq](https://github.com/lilaq-project/lilaq)
+  > Advanced data visualization with Typst. 
 
 ### [onhexgroup](https://github.com/onhexgroup)
 - 🌟 👤 [onhexgroup](https://github.com/onhexgroup) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
   > Multi-architecture emulation for the modern era.
+
+### [pjburner](https://github.com/pjburner)
+- 🌟 👤 [pjburner](https://github.com/pjburner) Starred [CrackerCat/cai](https://github.com/CrackerCat/cai)
+  > Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
+- 🌟 👤 [pjburner](https://github.com/pjburner) Starred [CrackerCat/pentagi](https://github.com/CrackerCat/pentagi)
+  > ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+- 🌟 👤 [pjburner](https://github.com/pjburner) Starred [CrackerCat/strix](https://github.com/CrackerCat/strix)
+  > Open-source AI hackers to find and fix your app’s vulnerabilities
 
 ### [qi4L](https://github.com/qi4L)
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script)
@@ -358,6 +416,13 @@
   > Linux kernel module to set hardware breakpoint at given virtual memory address
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [GuidixX/device_xiaomi_lavender](https://github.com/GuidixX/device_xiaomi_lavender)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [craftrom-os/kernel_xiaomi_lavender](https://github.com/craftrom-os/kernel_xiaomi_lavender)
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [xiaokanghub/Android](https://github.com/xiaokanghub/Android) to [rankalpha/Android](https://github.com/rankalpha/Android)
+  > Android 加固应用Hook方式-Frida
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [enenH/pwatch-c](https://github.com/enenH/pwatch-c) to [rankalpha/pwatch-c](https://github.com/rankalpha/pwatch-c)
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [OpenCloudOS/perf-prof](https://github.com/OpenCloudOS/perf-prof) to [rankalpha/perf-prof](https://github.com/rankalpha/perf-prof)
+  > Kernel profiler based on perf_event and ebpf
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [Ylarod/hardware-breakpoint](https://github.com/Ylarod/hardware-breakpoint) to [rankalpha/hardware-breakpoint](https://github.com/rankalpha/hardware-breakpoint)
+  > Mirror of https://gitee.com/SmartSmallBoy/hardware-breakpoint
 
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [basecamp/omarchy](https://github.com/basecamp/omarchy)
@@ -379,6 +444,12 @@
 - 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [Vencord/Vesktop](https://github.com/Vencord/Vesktop)
   > Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 
+### [sakana164](https://github.com/sakana164)
+- 🌟 👤 [sakana164](https://github.com/sakana164) Starred [ymdzq/OrangeFox_Recovery](https://github.com/ymdzq/OrangeFox_Recovery)
+  > Fork 橙狐Recovery仓库
+- 🍴 👤 [sakana164](https://github.com/sakana164) Forked [ymdzq/OrangeFox_Recovery](https://github.com/ymdzq/OrangeFox_Recovery) to [sakana164/OrangeFox_Recovery](https://github.com/sakana164/OrangeFox_Recovery)
+  > Fork 橙狐Recovery仓库
+
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
@@ -397,6 +468,10 @@
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [namazso/NtDriverTool](https://github.com/namazso/NtDriverTool)
   > Vibecoded DriverView except not only view.
 
+### [thatstraw](https://github.com/thatstraw)
+- 🌟 👤 [thatstraw](https://github.com/thatstraw) Starred [canonical/netplan](https://github.com/canonical/netplan)
+  > Declarative network configuration for various backends
+
 ### [thebabush](https://github.com/thebabush)
 - 🌟 👤 [thebabush](https://github.com/thebabush) Starred [AllenCellModeling/aicsimageio](https://github.com/AllenCellModeling/aicsimageio)
   > Image Reading, Metadata Conversion, and Image Writing for Microscopy Images in Python
@@ -410,6 +485,14 @@
   > Exercise writeups from the book Practical Malware Analysis.
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [crypto2011/IDR](https://github.com/crypto2011/IDR)
   > Interactive Delphi Reconstructor
+
+### [w00tzenheimer](https://github.com/w00tzenheimer)
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [bash-j/mikey_nodes](https://github.com/bash-j/mikey_nodes)
+  > comfy nodes from mikey
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [spacepxl/ComfyUI-Image-Filters](https://github.com/spacepxl/ComfyUI-Image-Filters)
+  > Image/latent/matte manipulation in ComfyUI
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [AIDC-AI/ComfyUI-Copilot](https://github.com/AIDC-AI/ComfyUI-Copilot)
+  > An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligen...
 
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [felixonmars/vps2arch](https://github.com/felixonmars/vps2arch) to [wszqkzqk/vps2arch](https://github.com/wszqkzqk/vps2arch)
@@ -426,11 +509,20 @@
 - 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [ez4y2f/SteamIconFix](https://github.com/ez4y2f/SteamIconFix)
   > Fix the blank desktop icon of steam apps
 
+### [zetaloop](https://github.com/zetaloop)
+- 🍴 👤 [zetaloop](https://github.com/zetaloop) Forked [rsjtdrjgfuzkfg/thunderbird-minimizeonclose](https://github.com/rsjtdrjgfuzkfg/thunderbird-minimizeonclose) to [zetaloop/thunderbird-minimizeonclose](https://github.com/zetaloop/thunderbird-minimizeonclose)
+  > Thunderbird add-on to minimize Thunderbird using the window's close button
+- 🌟 👤 [zetaloop](https://github.com/zetaloop) Starred [rsjtdrjgfuzkfg/thunderbird-minimizeonclose](https://github.com/rsjtdrjgfuzkfg/thunderbird-minimizeonclose)
+  > Thunderbird add-on to minimize Thunderbird using the window's close button
+
+### [zhaotianff](https://github.com/zhaotianff)
+- 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [Oliver-1-1/GhostMapper](https://github.com/Oliver-1-1/GhostMapper)
+
 ### [zinja-coder](https://github.com/zinja-coder)
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)
   > Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Asp...
 
 
 ---
-*最后更新于 2025-10-05 19:38:14 UTC*
+*最后更新于 2025-10-05 20:22:20 UTC*
 *历史记录保存在 `archive` 目录中。*
