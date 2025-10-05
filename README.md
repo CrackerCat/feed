@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xHJK](https://github.com/0xHJK)
+- 🌟 👤 [0xHJK](https://github.com/0xHJK) Starred [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP)
+  >  收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！  ...
+
 ### [3intermute](https://github.com/3intermute)
 - 🌟 👤 [3intermute](https://github.com/3intermute) Starred [Push3AX/GrabAccess](https://github.com/Push3AX/GrabAccess)
   > Bootkit / Windows Login Password Bypass Tool
@@ -81,6 +85,10 @@
 ### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
 - 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [Nomad0x7/sekken-enum](https://github.com/Nomad0x7/sekken-enum)
   > adws enumeration bof
+
+### [SMlc666](https://github.com/SMlc666)
+- 🌟 👤 [SMlc666](https://github.com/SMlc666) Starred [CrackerCat/page_fault_handler_hook](https://github.com/CrackerCat/page_fault_handler_hook)
+  > software watchpoints + physical page swapping on execute/read via page fault handler hooking
 
 ### [Sndav](https://github.com/Sndav)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
@@ -193,6 +201,8 @@
   > Client-Server protocol used by BAR
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [beyond-all-reason/RecoilEngine](https://github.com/beyond-all-reason/RecoilEngine) to [gmh5225/RecoilEngine](https://github.com/gmh5225/RecoilEngine)
   > A powerful free cross-platform RTS game engine
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [CaliphalHounds/nnctf2025_writeups](https://github.com/CaliphalHounds/nnctf2025_writeups) to [gmh5225/nnctf2025_writeups](https://github.com/gmh5225/nnctf2025_writeups)
+  > Writeups de Navaja Negra CTF 2025
 
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [GangGreenTemperTatum/csp-auditor](https://github.com/GangGreenTemperTatum/csp-auditor)
@@ -231,6 +241,14 @@
   > The AI Browser Automation Framework
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh)
+  > 🗑️ Cleanup script for macOS (DEPRECATED)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [ZHO-ZHO-ZHO/Sora-Watermark-Remover](https://github.com/ZHO-ZHO-ZHO/Sora-Watermark-Remover)
+  > 用 Nano Banana 去除水印
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [nihalpasham/rustBoot](https://github.com/nihalpasham/rustBoot)
+  > rustBoot is a standalone bootloader written entirely in `Rust`, designed to run on anything from a m...
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [ByNameModding/BNM-Android](https://github.com/ByNameModding/BNM-Android)
@@ -254,6 +272,10 @@
 ### [leng-yue](https://github.com/leng-yue)
 - 🍴 👤 [leng-yue](https://github.com/leng-yue) Forked [fzyzcjy/torch_memory_saver](https://github.com/fzyzcjy/torch_memory_saver) to [leng-yue/torch_memory_saver](https://github.com/leng-yue/torch_memory_saver)
   > Allow torch tensor memory to be released and resumed later 
+
+### [lixeon](https://github.com/lixeon)
+- 🌟 👤 [lixeon](https://github.com/lixeon) Starred [kimwang1978/collect-txt](https://github.com/kimwang1978/collect-txt)
+  > 源 (自动整理)   
 
 ### [luckyzyx](https://github.com/luckyzyx)
 - 🌟 👤 [luckyzyx](https://github.com/luckyzyx) Starred [eirv/DisableLSPosed](https://github.com/eirv/DisableLSPosed)
@@ -410,5 +432,5 @@
 
 
 ---
-*最后更新于 2025-10-05 19:16:02 UTC*
+*最后更新于 2025-10-05 19:38:14 UTC*
 *历史记录保存在 `archive` 目录中。*
