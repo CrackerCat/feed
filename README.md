@@ -24,6 +24,9 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [garyttierney/intellij-ghidra](https://github.com/garyttierney/intellij-ghidra)
   > An IntelliJ IDEA plugin for working on Ghidra Extensions.
 
+### [People-11](https://github.com/People-11)
+- 🌟 👤 [People-11](https://github.com/People-11) Starred [mihele95/MTProxy-arm64](https://github.com/mihele95/MTProxy-arm64)
+
 ### [Sndav](https://github.com/Sndav)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463)
   > Local Privilege Escalation to Root via Sudo chroot in Linux
@@ -31,6 +34,8 @@
 ### [ZJ595](https://github.com/ZJ595)
 - 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [sligter/LandPPT](https://github.com/sligter/LandPPT)
   > 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。
+- 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [Feather-2/paper-burner-x](https://github.com/Feather-2/paper-burner-x)
+  > Paper Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK,  基于 Paper Burner
 
 ### [bosen365](https://github.com/bosen365)
 - 🍴 👤 [bosen365](https://github.com/bosen365) Forked [Linkeer365/pdg2pic_autoRun](https://github.com/Linkeer365/pdg2pic_autoRun) to [bosen365/pdg2pic_autoRun](https://github.com/bosen365/pdg2pic_autoRun)
@@ -99,6 +104,10 @@
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [tech-shrimp/gemini-balance-lite](https://github.com/tech-shrimp/gemini-balance-lite)
   > Gemini API 代理, 把Gemini API免费中转到国内。还可以聚合多个Gemini API Key，随机选取API Key的使用实现负载均衡，使得Gemini API免费成倍增加。
 
+### [moonD4rk](https://github.com/moonD4rk)
+- 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [nfc-tools/mfoc](https://github.com/nfc-tools/mfoc)
+  > Mifare Classic Offline Cracker
+
 ### [nothing-2333](https://github.com/nothing-2333)
 - 🌟 👤 [nothing-2333](https://github.com/nothing-2333) Starred [PiotrDabkowski/Js2Py](https://github.com/PiotrDabkowski/Js2Py)
   > JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
@@ -123,6 +132,9 @@
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [gino0631/nextcloud-metadata](https://github.com/gino0631/nextcloud-metadata)
   > A Nextcloud plugin for displaying file metadata.
 
+### [shunf4](https://github.com/shunf4)
+- 🌟 👤 [shunf4](https://github.com/shunf4) Starred [open-telegram-server/nebula-chat-fork.github.io](https://github.com/open-telegram-server/nebula-chat-fork.github.io)
+
 ### [sxei](https://github.com/sxei)
 - ✨ 👤 [sxei](https://github.com/sxei) Created new repo [sxei/egg-v3-ts-template](https://github.com/sxei/egg-v3-ts-template)
   > 基于Egg.js@3的TS项目模板
@@ -134,6 +146,8 @@
   > 『自作OSで学ぶマイクロカーネルの設計と実装』サポートサイト
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [carlosedp/chiselv](https://github.com/carlosedp/chiselv)
   > A RISC-V Core (RV32I) written in Chisel HDL
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [chipsalliance/chisel](https://github.com/chipsalliance/chisel)
+  > Chisel: A Modern Hardware Design Language
 
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [zituoguan/zituoguan-data](https://github.com/zituoguan/zituoguan-data)
@@ -141,5 +155,5 @@
 
 
 ---
-*最后更新于 2025-10-06 04:43:38 UTC*
+*最后更新于 2025-10-06 05:21:50 UTC*
 *历史记录保存在 `archive` 目录中。*
