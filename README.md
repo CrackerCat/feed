@@ -8,6 +8,10 @@
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Y5neKO/ShiroEXP](https://github.com/Y5neKO/ShiroEXP)
   > Shiro漏洞利用工具
 
+### [Lake1059](https://github.com/Lake1059)
+- 🌟 👤 [Lake1059](https://github.com/Lake1059) Starred [MoYingJi/3fui-linux-scripts](https://github.com/MoYingJi/3fui-linux-scripts)
+  > 本项目是 3FUI 的一键转译运行方案
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [unikernelLinux/ukl](https://github.com/unikernelLinux/ukl)
   > Unikernel Linux
@@ -62,6 +66,10 @@
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [Jeremiznoo/FlipperDroid](https://github.com/Jeremiznoo/FlipperDroid)
   > FlipperDroid is a Kotlin-based Android app that turns your smartphone into a powerful mobile cyberse...
 
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [VictoriaMetrics/sql-to-logsql](https://github.com/VictoriaMetrics/sql-to-logsql)
+  > Simple UI that provides SQL support for VictoriaLogs and VictoriaTraces
+
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
   > Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
@@ -114,8 +122,14 @@
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [RIKEN-RCCS/MilvusVisor](https://github.com/RIKEN-RCCS/MilvusVisor)
   > A thin-hypervisor that runs on aarch64 CPUs.
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [nuta/microkernel-book](https://github.com/nuta/microkernel-book)
+  > 『自作OSで学ぶマイクロカーネルの設計と実装』サポートサイト
+
+### [yanyaoli](https://github.com/yanyaoli)
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [zituoguan/zituoguan-data](https://github.com/zituoguan/zituoguan-data)
+  > 机器可读的数据，用于 https://zituoguan.com
 
 
 ---
-*最后更新于 2025-10-06 03:49:15 UTC*
+*最后更新于 2025-10-06 04:26:32 UTC*
 *历史记录保存在 `archive` 目录中。*
