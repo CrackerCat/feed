@@ -41,6 +41,12 @@
 
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [yuanmeng28/ProcessHiderGui](https://github.com/yuanmeng28/ProcessHiderGui)
+- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
+  > 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
+### [M0Rf30](https://github.com/M0Rf30)
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller)
+  > Kubernetes controller for GitHub Actions self-hosted runners
 
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [unikernelLinux/ukl](https://github.com/unikernelLinux/ukl)
@@ -182,6 +188,10 @@
   > MCP server for PageIndex. PageIndex is a vectorless reasoning-based RAG system which uses multi-step...
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
   > 📄🧠 PageIndex: Document Index for Reasoning-based RAG
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [Antonboom/testifylint](https://github.com/Antonboom/testifylint)
+  > The Golang linter that checks usage of github.com/stretchr/testify.
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
+  > Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
@@ -206,6 +216,8 @@
 ### [gclm](https://github.com/gclm)
 - 🍴 👤 [gclm](https://github.com/gclm) Forked [bizhangjie/CatVodSpider](https://github.com/bizhangjie/CatVodSpider) to [gclm/CatVodSpider](https://github.com/gclm/CatVodSpider)
   > CatVodSpider一个TVBox的自定义源接口
+- 🍴 👤 [gclm](https://github.com/gclm) Forked [katelya77/KatelyaTV](https://github.com/katelya77/KatelyaTV) to [gclm/KatelyaTV](https://github.com/gclm/KatelyaTV)
+  > 一个基于MoonTV(LunaTV)二次开发的项目。新项目：https://github.com/Decohererk/DecoTV
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [beyond-all-reason/recoil-lua-library](https://github.com/beyond-all-reason/recoil-lua-library) to [gmh5225/recoil-lua-library](https://github.com/gmh5225/recoil-lua-library)
@@ -224,6 +236,10 @@
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [NVIDIAGameWorks/dxvk-remix](https://github.com/NVIDIAGameWorks/dxvk-remix) to [hzqst/dxvk-remix](https://github.com/hzqst/dxvk-remix)
+
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Infisical/infisical](https://github.com/Infisical/infisical)
+  > Infisical is the open-source platform for secrets management, PKI, and SSH access.
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [tech-shrimp/gemini-balance-lite](https://github.com/tech-shrimp/gemini-balance-lite)
@@ -401,5 +417,5 @@
 
 
 ---
-*最后更新于 2025-10-06 14:44:16 UTC*
+*最后更新于 2025-10-06 15:23:36 UTC*
 *历史记录保存在 `archive` 目录中。*
