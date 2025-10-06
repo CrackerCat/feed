@@ -8,9 +8,16 @@
 - 🌟 👤 [3intermute](https://github.com/3intermute) Starred [xenova/chat-downloader](https://github.com/xenova/chat-downloader)
   > A simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No...
 
+### [Dado1513](https://github.com/Dado1513)
+- ✨ 👤 [Dado1513](https://github.com/Dado1513) Created new repo [Dado1513/images-notion](https://github.com/Dado1513/images-notion)
+
 ### [DeEpinGh0st](https://github.com/DeEpinGh0st)
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Y5neKO/ShiroEXP](https://github.com/Y5neKO/ShiroEXP)
   > Shiro漏洞利用工具
+
+### [Howard20181](https://github.com/Howard20181)
+- 🍴 👤 [Howard20181](https://github.com/Howard20181) Forked [GSWXXN/RestoreSplashScreen](https://github.com/GSWXXN/RestoreSplashScreen) to [Howard20181/RestoreSplashScreen](https://github.com/Howard20181/RestoreSplashScreen)
+  > 启动遮罩进化 / RestoreSplashScreen
 
 ### [KuLiPai](https://github.com/KuLiPai)
 - 🌟 👤 [KuLiPai](https://github.com/KuLiPai) Starred [Duo-Star/WinColorGoddess](https://github.com/Duo-Star/WinColorGoddess)
@@ -27,6 +34,10 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [avibn/telegram-downloader](https://github.com/avibn/telegram-downloader)
   > Local Telegram bot to download video files on local system.
+
+### [No-Github](https://github.com/No-Github)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
+  > Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [garyttierney/intellij-ghidra](https://github.com/garyttierney/intellij-ghidra)
@@ -78,6 +89,8 @@
 ### [cd-Crypton](https://github.com/cd-Crypton)
 - 🍴 👤 [cd-Crypton](https://github.com/cd-Crypton) Forked [itzzzme/anime-api](https://github.com/itzzzme/anime-api) to [cd-Crypton/anime-api](https://github.com/cd-Crypton/anime-api)
   > A RESTFul anime API made in Node.js.
+- ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [cd-Crypton/aenime-api1](https://github.com/cd-Crypton/aenime-api1)
+- ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [cd-Crypton/aenime-api3](https://github.com/cd-Crypton/aenime-api3)
 
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [HikariObfuscator/Hikari](https://github.com/HikariObfuscator/Hikari)
@@ -145,6 +158,10 @@
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [tech-shrimp/gemini-balance-lite](https://github.com/tech-shrimp/gemini-balance-lite)
   > Gemini API 代理, 把Gemini API免费中转到国内。还可以聚合多个Gemini API Key，随机选取API Key的使用实现负载均衡，使得Gemini API免费成倍增加。
 
+### [jpacg](https://github.com/jpacg)
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [up-zero/my-proxy](https://github.com/up-zero/my-proxy)
+  > 局域网代理工具，支持 TCP、UDP、HTTP 等协议的代理转发，适用于绝大多数网络环境。提供了命令行、WebUI 两种配置代理的方法，极大地简化了代理配置的步骤。
+
 ### [kost](https://github.com/kost)
 - 🌟 👤 [kost](https://github.com/kost) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
   > Official inference framework for 1-bit LLMs
@@ -156,6 +173,9 @@
 ### [moonD4rk](https://github.com/moonD4rk)
 - 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [nfc-tools/mfoc](https://github.com/nfc-tools/mfoc)
   > Mifare Classic Offline Cracker
+
+### [newbit1](https://github.com/newbit1)
+- 🌟 👤 [newbit1](https://github.com/newbit1) Starred [dart-tdlib/td](https://github.com/dart-tdlib/td)
 
 ### [nothing-2333](https://github.com/nothing-2333)
 - 🌟 👤 [nothing-2333](https://github.com/nothing-2333) Starred [PiotrDabkowski/Js2Py](https://github.com/PiotrDabkowski/Js2Py)
@@ -176,6 +196,18 @@
 ### [pwndorei](https://github.com/pwndorei)
 - 🌟 👤 [pwndorei](https://github.com/pwndorei) Starred [jlowin/fastmcp](https://github.com/jlowin/fastmcp)
   > 🚀 The fast, Pythonic way to build MCP servers and clients
+
+### [rankalpha](https://github.com/rankalpha)
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) to [rankalpha/Android_boot_image_editor](https://github.com/rankalpha/Android_boot_image_editor)
+  > Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 15
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [ravindu644/Android-Kernel-Tutorials](https://github.com/ravindu644/Android-Kernel-Tutorials) to [rankalpha/Android-Kernel-Tutorials](https://github.com/rankalpha/Android-Kernel-Tutorials)
+  > Kernel building tutorials for Any device for newbies..! 🎉
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [ravindu644/Android_Image_Tools](https://github.com/ravindu644/Android_Image_Tools) to [rankalpha/Android_Image_Tools](https://github.com/rankalpha/Android_Image_Tools)
+  > CRB Kitchen, but for Linux and 100% open source..! Can unpack and repack Android sparse, raw EXT4, F...
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [akuhnet/w-colab](https://github.com/akuhnet/w-colab) to [rankalpha/w-colab](https://github.com/rankalpha/w-colab)
+  > Free Rdp windows with google colab
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [pelya/android-keyboard-gadget](https://github.com/pelya/android-keyboard-gadget)
+  > Convert your Android device into USB keyboard/mouse, control your PC from your Android device remote...
 
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [SecurityAura/DE-TH-Aura](https://github.com/SecurityAura/DE-TH-Aura)
@@ -214,6 +246,12 @@
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [connormcgarr/Vtl1Mon](https://github.com/connormcgarr/Vtl1Mon) to [smallzhong/Vtl1Mon](https://github.com/smallzhong/Vtl1Mon)
   > Virtual Trust Level (VTL 1) secure call tracing
 
+### [suzhelan](https://github.com/suzhelan)
+- 🌟 👤 [suzhelan](https://github.com/suzhelan) Starred [elysiajs/elysia](https://github.com/elysiajs/elysia)
+  > Ergonomic Framework for Humans
+- ✨ 👤 [suzhelan](https://github.com/suzhelan) Created new repo [suzhelan/ExpressSample](https://github.com/suzhelan/ExpressSample)
+  > Nodejs + Express Sample
+
 ### [sxei](https://github.com/sxei)
 - ✨ 👤 [sxei](https://github.com/sxei) Created new repo [sxei/egg-v3-ts-template](https://github.com/sxei/egg-v3-ts-template)
   > 基于Egg.js@3的TS项目模板
@@ -236,6 +274,12 @@
 - ✨ 👤 [wizardforcel](https://github.com/wizardforcel) Created new repo [OpenDocCN/flygon-fengxiangbiao-2025](https://github.com/OpenDocCN/flygon-fengxiangbiao-2025)
 - ✨ 👤 [wizardforcel](https://github.com/wizardforcel) Created new repo [OpenDocCN/flygon-zhuanqian-zhoubao-2025](https://github.com/OpenDocCN/flygon-zhuanqian-zhoubao-2025)
 
+### [xiaotujinbnb](https://github.com/xiaotujinbnb)
+- 🌟 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Starred [NiTianErXing666/-AndroidReverse](https://github.com/NiTianErXing666/-AndroidReverse)
+  > 安卓逆向学习
+- 🍴 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Forked [NiTianErXing666/-AndroidReverse](https://github.com/NiTianErXing666/-AndroidReverse) to [xiaotujinbnb/-AndroidReverse](https://github.com/xiaotujinbnb/-AndroidReverse)
+  > 安卓逆向学习
+
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [zituoguan/zituoguan-data](https://github.com/zituoguan/zituoguan-data)
   > 机器可读的数据，用于 https://zituoguan.com
@@ -246,5 +290,5 @@
 
 
 ---
-*最后更新于 2025-10-06 07:40:42 UTC*
+*最后更新于 2025-10-06 08:30:45 UTC*
 *历史记录保存在 `archive` 目录中。*
