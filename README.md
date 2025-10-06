@@ -58,6 +58,8 @@
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Pilfer/hermes_rs](https://github.com/Pilfer/hermes_rs)
   > Hermes bytecode disassembler and assembler
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [moloch--/RootTheBox](https://github.com/moloch--/RootTheBox)
+  > A Game of Hackers (CTF Scoreboard & Game Manager)
 
 ### [People-11](https://github.com/People-11)
 - 🌟 👤 [People-11](https://github.com/People-11) Starred [mihele95/MTProxy-arm64](https://github.com/mihele95/MTProxy-arm64)
@@ -87,6 +89,10 @@
   > Paper Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK,  基于 Paper Burner
 - 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
   > MCP for xiaohongshu.com
+
+### [ZephrFish](https://github.com/ZephrFish)
+- 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [THU-BPM/MarkLLM](https://github.com/THU-BPM/MarkLLM)
+  > MarkLLM: An Open-Source Toolkit for LLM Watermarking.（EMNLP 2024 System Demonstration)
 
 ### [aistra0528](https://github.com/aistra0528)
 - ✨ 👤 [aistra0528](https://github.com/aistra0528) Created new repo [aistra0528/Spine-Viewer](https://github.com/aistra0528/Spine-Viewer)
@@ -152,6 +158,10 @@
   > Share your terminal over the web
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [dwisiswant0/godoc](https://github.com/dwisiswant0/godoc)
   > go doc, glamorous: ✨ terminal chic, 🤖 assistant-ready, and 📦 programmable.
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [VectifyAI/pageindex-mcp](https://github.com/VectifyAI/pageindex-mcp)
+  > MCP server for PageIndex. PageIndex is a vectorless reasoning-based RAG system which uses multi-step...
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
+  > 📄🧠 PageIndex: Document Index for Reasoning-based RAG
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
@@ -164,6 +174,12 @@
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [romankurnovskii/BrewMate](https://github.com/romankurnovskii/BrewMate)
   > Homebrew GUI apps manager
+
+### [fr0zenrain](https://github.com/fr0zenrain)
+- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy)
+  > ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, aut...
+- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [beyond-all-reason/recoil-lua-library](https://github.com/beyond-all-reason/recoil-lua-library) to [gmh5225/recoil-lua-library](https://github.com/gmh5225/recoil-lua-library)
@@ -188,6 +204,10 @@
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [up-zero/my-proxy](https://github.com/up-zero/my-proxy)
   > 局域网代理工具，支持 TCP、UDP、HTTP 等协议的代理转发，适用于绝大多数网络环境。提供了命令行、WebUI 两种配置代理的方法，极大地简化了代理配置的步骤。
+
+### [kkent030315](https://github.com/kkent030315)
+- 🍴 👤 [kkent030315](https://github.com/kkent030315) Forked [rikikiri/-profile](https://github.com/rikikiri/-profile) to [kkent030315/-profile](https://github.com/kkent030315/-profile)
+  > 力丸のプロフィール
 
 ### [kost](https://github.com/kost)
 - 🌟 👤 [kost](https://github.com/kost) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
@@ -294,6 +314,12 @@
 - ✨ 👤 [sxei](https://github.com/sxei) Created new repo [sxei/egg-v3-ts-template](https://github.com/sxei/egg-v3-ts-template)
   > 基于Egg.js@3的TS项目模板
 
+### [thebabush](https://github.com/thebabush)
+- 🌟 👤 [thebabush](https://github.com/thebabush) Starred [nlitsme/pyidbutil](https://github.com/nlitsme/pyidbutil)
+  > A python library for reading IDA pro databases.
+- 🌟 👤 [thebabush](https://github.com/thebabush) Starred [Vector35/idb-rs](https://github.com/Vector35/idb-rs)
+  > IDB parser
+
 ### [uknownothingsnow](https://github.com/uknownothingsnow)
 - 🌟 👤 [uknownothingsnow](https://github.com/uknownothingsnow) Starred [emcie-co/parlant](https://github.com/emcie-co/parlant)
   > LLM agents built for control. Designed for real-world use. Deployed in minutes.
@@ -332,5 +358,5 @@
 
 
 ---
-*最后更新于 2025-10-06 09:43:40 UTC*
+*最后更新于 2025-10-06 10:25:54 UTC*
 *历史记录保存在 `archive` 目录中。*
