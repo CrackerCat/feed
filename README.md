@@ -113,6 +113,9 @@
 - 🍴 👤 [TheWildJames](https://github.com/TheWildJames) Forked [WildKernels/Sultan_KernelSU_SUSFS](https://github.com/WildKernels/Sultan_KernelSU_SUSFS) to [TheWildJames/Sultan_KernelSU](https://github.com/TheWildJames/Sultan_KernelSU)
   > Sultan Kernels built with KernelSU & SUSFS
 
+### [ValentinaPy](https://github.com/ValentinaPy)
+- 🌟 👤 [ValentinaPy](https://github.com/ValentinaPy) Starred [allenai/IFBench](https://github.com/allenai/IFBench)
+
 ### [Wenzel](https://github.com/Wenzel)
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [CycloneDX/cyclonedx-cli](https://github.com/CycloneDX/cyclonedx-cli)
   > CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions.
@@ -274,6 +277,8 @@
   > Training framework with a goal to explore the frontier of sample efficiency of small language models
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ZJUBCA/roadmap](https://github.com/ZJUBCA/roadmap) to [gmh5225/roadmap](https://github.com/gmh5225/roadmap)
   > Roadmap of learning blockchain technology and business knowledge summarized by ZJUBCA（浙大区块链协会总结的区块链知...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) to [gmh5225/gameboy.live](https://github.com/gmh5225/gameboy.live)
+  > 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [ipython/ipython](https://github.com/ipython/ipython)
@@ -484,5 +489,5 @@
 
 
 ---
-*最后更新于 2025-10-06 19:18:23 UTC*
+*最后更新于 2025-10-06 19:39:20 UTC*
 *历史记录保存在 `archive` 目录中。*
