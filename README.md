@@ -441,7 +441,13 @@
 - 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [Cp0204/MSIAfterburner-i18n](https://github.com/Cp0204/MSIAfterburner-i18n)
   > MSIAfterburner 汉化包|中文|翻译|语言|本地化|第三方
 
+### [zinja-coder](https://github.com/zinja-coder)
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)
+  > A collection of android security related resources
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [saeidshirazi/awesome-android-security](https://github.com/saeidshirazi/awesome-android-security)
+  > A curated list of Android Security materials and resources For Pentesters and Bug Hunters
+
 
 ---
-*最后更新于 2025-10-06 16:47:39 UTC*
+*最后更新于 2025-10-06 17:20:22 UTC*
 *历史记录保存在 `archive` 目录中。*
