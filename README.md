@@ -113,6 +113,10 @@
 - 🍴 👤 [TheWildJames](https://github.com/TheWildJames) Forked [WildKernels/Sultan_KernelSU_SUSFS](https://github.com/WildKernels/Sultan_KernelSU_SUSFS) to [TheWildJames/Sultan_KernelSU](https://github.com/TheWildJames/Sultan_KernelSU)
   > Sultan Kernels built with KernelSU & SUSFS
 
+### [TomKing062](https://github.com/TomKing062)
+- 🌟 👤 [TomKing062](https://github.com/TomKing062) Starred [R0rt1z2/fenrir](https://github.com/R0rt1z2/fenrir)
+  > Let's control MediaTek's bootchain
+
 ### [ValentinaPy](https://github.com/ValentinaPy)
 - 🌟 👤 [ValentinaPy](https://github.com/ValentinaPy) Starred [allenai/IFBench](https://github.com/allenai/IFBench)
 
@@ -279,6 +283,10 @@
   > Roadmap of learning blockchain technology and business knowledge summarized by ZJUBCA（浙大区块链协会总结的区块链知...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) to [gmh5225/gameboy.live](https://github.com/gmh5225/gameboy.live)
   > 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [MorDavid/NetworkHound](https://github.com/MorDavid/NetworkHound) to [gmh5225/NetworkHound](https://github.com/gmh5225/NetworkHound)
+  > Advanced Active Directory network topology analyzer with SMB validation, multiple authentication met...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [vocho/openqnx](https://github.com/vocho/openqnx) to [gmh5225/openqnx](https://github.com/gmh5225/openqnx)
+  > mirror of git://git.code.sf.net/p/monartis/openqnx
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [ipython/ipython](https://github.com/ipython/ipython)
@@ -286,6 +294,10 @@
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [NVIDIAGameWorks/dxvk-remix](https://github.com/NVIDIAGameWorks/dxvk-remix) to [hzqst/dxvk-remix](https://github.com/hzqst/dxvk-remix)
+
+### [iscle](https://github.com/iscle)
+- 🌟 👤 [iscle](https://github.com/iscle) Starred [RustNSparks/sockudo](https://github.com/RustNSparks/sockudo)
+  > Blazingly fast pusher drop-in replacement written in rust
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Infisical/infisical](https://github.com/Infisical/infisical)
@@ -296,6 +308,8 @@
   > Gemini API 代理, 把Gemini API免费中转到国内。还可以聚合多个Gemini API Key，随机选取API Key的使用实现负载均衡，使得Gemini API免费成倍增加。
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [liangdabiao/AI-generated-English-podcast-videos](https://github.com/liangdabiao/AI-generated-English-podcast-videos)
   > AI生成英语对话的播客视频！一键生成，下载视频，学英语，发抖音。 AI-generated English conversation podcast videos! Create with one c...
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [996-ai/skid-homework](https://github.com/996-ai/skid-homework)
+  > AI powered homework solver. Students' life matter | AI 驱动的作业解决工具 学生的生活很重要
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [up-zero/my-proxy](https://github.com/up-zero/my-proxy)
@@ -473,6 +487,10 @@
 - 🍴 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Forked [NiTianErXing666/-AndroidReverse](https://github.com/NiTianErXing666/-AndroidReverse) to [xiaotujinbnb/-AndroidReverse](https://github.com/xiaotujinbnb/-AndroidReverse)
   > 安卓逆向学习
 
+### [xihan123](https://github.com/xihan123)
+- 🌟 👤 [xihan123](https://github.com/xihan123) Starred [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs)
+  > VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the G...
+
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [zituoguan/zituoguan-data](https://github.com/zituoguan/zituoguan-data)
   > 机器可读的数据，用于 https://zituoguan.com
@@ -489,5 +507,5 @@
 
 
 ---
-*最后更新于 2025-10-06 19:39:20 UTC*
+*最后更新于 2025-10-06 20:24:55 UTC*
 *历史记录保存在 `archive` 目录中。*
