@@ -12,6 +12,10 @@
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)
   > Arduino core for the ESP32
 
+### [Asabeneh](https://github.com/Asabeneh)
+- 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
+  > Official inference framework for 1-bit LLMs
+
 ### [Dado1513](https://github.com/Dado1513)
 - ✨ 👤 [Dado1513](https://github.com/Dado1513) Created new repo [Dado1513/images-notion](https://github.com/Dado1513/images-notion)
 
@@ -44,6 +48,8 @@
   > Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [watchtowrlabs/watchTowr-vs-Dell-UnityVSA-PreAuth-CVE-2025-36604](https://github.com/watchtowrlabs/watchTowr-vs-Dell-UnityVSA-PreAuth-CVE-2025-36604)
   > Detection Artefact Generator for Dell UnityVSA CVE-2025-36604
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [rathole-org/rathole](https://github.com/rathole-org/rathole)
+  > A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative ...
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [garyttierney/intellij-ghidra](https://github.com/garyttierney/intellij-ghidra)
@@ -81,6 +87,10 @@
   > Paper Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK,  基于 Paper Burner
 - 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
   > MCP for xiaohongshu.com
+
+### [aistra0528](https://github.com/aistra0528)
+- ✨ 👤 [aistra0528](https://github.com/aistra0528) Created new repo [aistra0528/Spine-Viewer](https://github.com/aistra0528/Spine-Viewer)
+  > Spine viewer for Android
 
 ### [bosen365](https://github.com/bosen365)
 - 🍴 👤 [bosen365](https://github.com/bosen365) Forked [Linkeer365/pdg2pic_autoRun](https://github.com/Linkeer365/pdg2pic_autoRun) to [bosen365/pdg2pic_autoRun](https://github.com/bosen365/pdg2pic_autoRun)
@@ -161,6 +171,8 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [DebarghaG/proofofthought](https://github.com/DebarghaG/proofofthought) to [gmh5225/proofofthought](https://github.com/gmh5225/proofofthought)
   > "Proof of thought: Neurosymbolic program synthesis allows robust and interpretable reasoning" publis...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Mega4alik/ollm](https://github.com/Mega4alik/ollm) to [gmh5225/ollm](https://github.com/gmh5225/ollm)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [thepowerfuldeez/sample_efficient_gpt](https://github.com/thepowerfuldeez/sample_efficient_gpt) to [gmh5225/sample_efficient_gpt](https://github.com/gmh5225/sample_efficient_gpt)
+  > Training framework with a goal to explore the frontier of sample efficiency of small language models
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [ipython/ipython](https://github.com/ipython/ipython)
@@ -188,6 +200,9 @@
 ### [lanyi233](https://github.com/lanyi233)
 - 🌟 👤 [lanyi233](https://github.com/lanyi233) Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
   > Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎...
+
+### [makelinux](https://github.com/makelinux)
+- ✨ 👤 [makelinux](https://github.com/makelinux) Created new repo [makelinux/multi-dictate](https://github.com/makelinux/multi-dictate)
 
 ### [moonD4rk](https://github.com/moonD4rk)
 - 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [nfc-tools/mfoc](https://github.com/nfc-tools/mfoc)
@@ -279,6 +294,10 @@
 - ✨ 👤 [sxei](https://github.com/sxei) Created new repo [sxei/egg-v3-ts-template](https://github.com/sxei/egg-v3-ts-template)
   > 基于Egg.js@3的TS项目模板
 
+### [uknownothingsnow](https://github.com/uknownothingsnow)
+- 🌟 👤 [uknownothingsnow](https://github.com/uknownothingsnow) Starred [emcie-co/parlant](https://github.com/emcie-co/parlant)
+  > LLM agents built for control. Designed for real-world use. Deployed in minutes.
+
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [RIKEN-RCCS/MilvusVisor](https://github.com/RIKEN-RCCS/MilvusVisor)
   > A thin-hypervisor that runs on aarch64 CPUs.
@@ -313,5 +332,5 @@
 
 
 ---
-*最后更新于 2025-10-06 09:27:01 UTC*
+*最后更新于 2025-10-06 09:43:40 UTC*
 *历史记录保存在 `archive` 目录中。*
