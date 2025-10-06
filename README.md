@@ -75,6 +75,12 @@
   > Detection Artefact Generator for Dell UnityVSA CVE-2025-36604
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [rathole-org/rathole](https://github.com/rathole-org/rathole)
   > A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative ...
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [assetnote/hopgoblin](https://github.com/assetnote/hopgoblin)
+  > Adobe Experience Manager (AEM) hacking toolkit
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [werdhaihai/msi_lateral_mv](https://github.com/werdhaihai/msi_lateral_mv)
+  > Lateral Movement Bof with MSI ODBC Driver Install
+- 🍴 👤 [No-Github](https://github.com/No-Github) Forked [werdhaihai/msi_lateral_mv](https://github.com/werdhaihai/msi_lateral_mv) to [No-Github/msi_lateral_mv](https://github.com/No-Github/msi_lateral_mv)
+  > Lateral Movement Bof with MSI ODBC Driver Install
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [garyttierney/intellij-ghidra](https://github.com/garyttierney/intellij-ghidra)
@@ -443,6 +449,10 @@
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [mahmoudimus/ida-sigmaker](https://github.com/mahmoudimus/ida-sigmaker)
   > sigmaker is a zero-dependency IDA Pro 9.0+ cross-platform signature maker plugin with optional SIMD ...
 
+### [suifei](https://github.com/suifei)
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [ZyperWave/ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)
+  > ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。
+
 ### [suzhelan](https://github.com/suzhelan)
 - 🌟 👤 [suzhelan](https://github.com/suzhelan) Starred [elysiajs/elysia](https://github.com/elysiajs/elysia)
   > Ergonomic Framework for Humans
@@ -458,6 +468,13 @@
   > A python library for reading IDA pro databases.
 - 🌟 👤 [thebabush](https://github.com/thebabush) Starred [Vector35/idb-rs](https://github.com/Vector35/idb-rs)
   > IDB parser
+
+### [topcoco](https://github.com/topcoco)
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [OpenDocCN/freelearn-c-cpp-zh](https://github.com/OpenDocCN/freelearn-c-cpp-zh)
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [fuyufjh/GraphicBuffer](https://github.com/fuyufjh/GraphicBuffer)
+  > Use GraphicBuffer class from Android native code
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [embedded2014/elf-loader](https://github.com/embedded2014/elf-loader)
+  > Simplified ELF loader for ARM Cortex-M4 based platform
 
 ### [tyron12233](https://github.com/tyron12233)
 - 🍴 👤 [tyron12233](https://github.com/tyron12233) Forked [Coconhat/student-api](https://github.com/Coconhat/student-api) to [tyron12233/student-api](https://github.com/tyron12233/student-api)
@@ -510,5 +527,5 @@
 
 
 ---
-*最后更新于 2025-10-06 20:41:57 UTC*
+*最后更新于 2025-10-06 21:19:18 UTC*
 *历史记录保存在 `archive` 目录中。*
