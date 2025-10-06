@@ -145,6 +145,14 @@
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [tech-shrimp/gemini-balance-lite](https://github.com/tech-shrimp/gemini-balance-lite)
   > Gemini API 代理, 把Gemini API免费中转到国内。还可以聚合多个Gemini API Key，随机选取API Key的使用实现负载均衡，使得Gemini API免费成倍增加。
 
+### [kost](https://github.com/kost)
+- 🌟 👤 [kost](https://github.com/kost) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
+  > Official inference framework for 1-bit LLMs
+- 🌟 👤 [kost](https://github.com/kost) Starred [MorDavid/NetworkHound](https://github.com/MorDavid/NetworkHound)
+  > Advanced Active Directory network topology analyzer with SMB validation, multiple authentication met...
+- 🌟 👤 [kost](https://github.com/kost) Starred [wh0amitz/PetitPotato](https://github.com/wh0amitz/PetitPotato)
+  > Local privilege escalation via PetitPotam (Abusing impersonate privileges).
+
 ### [moonD4rk](https://github.com/moonD4rk)
 - 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [nfc-tools/mfoc](https://github.com/nfc-tools/mfoc)
   > Mifare Classic Offline Cracker
@@ -238,5 +246,5 @@
 
 
 ---
-*最后更新于 2025-10-06 07:22:48 UTC*
+*最后更新于 2025-10-06 07:40:42 UTC*
 *历史记录保存在 `archive` 目录中。*
