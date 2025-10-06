@@ -168,6 +168,8 @@
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [Jeremiznoo/FlipperDroid](https://github.com/Jeremiznoo/FlipperDroid)
   > FlipperDroid is a Kotlin-based Android app that turns your smartphone into a powerful mobile cyberse...
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [lokus-ai/lokus](https://github.com/lokus-ai/lokus)
+  > Lokus - A modern, intuitive note-taking application with powerful editing capabilities
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [VictoriaMetrics/sql-to-logsql](https://github.com/VictoriaMetrics/sql-to-logsql)
@@ -299,6 +301,8 @@
   > Free Rdp windows with google colab
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [pelya/android-keyboard-gadget](https://github.com/pelya/android-keyboard-gadget)
   > Convert your Android device into USB keyboard/mouse, control your PC from your Android device remote...
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [ravindu644/Unofficial-BitLocker-Utility](https://github.com/ravindu644/Unofficial-BitLocker-Utility) to [rankalpha/Unofficial-BitLocker-Utility](https://github.com/rankalpha/Unofficial-BitLocker-Utility)
+  > Utility to Windows BitLocker re-lock, unlock, decrypt, upgrade, backup etc.
 
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [SecurityAura/DE-TH-Aura](https://github.com/SecurityAura/DE-TH-Aura)
@@ -397,5 +401,5 @@
 
 
 ---
-*最后更新于 2025-10-06 14:22:51 UTC*
+*最后更新于 2025-10-06 14:44:16 UTC*
 *历史记录保存在 `archive` 目录中。*
