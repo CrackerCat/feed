@@ -113,6 +113,10 @@
 - 🍴 👤 [TheWildJames](https://github.com/TheWildJames) Forked [WildKernels/Sultan_KernelSU_SUSFS](https://github.com/WildKernels/Sultan_KernelSU_SUSFS) to [TheWildJames/Sultan_KernelSU](https://github.com/TheWildJames/Sultan_KernelSU)
   > Sultan Kernels built with KernelSU & SUSFS
 
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [CycloneDX/cyclonedx-cli](https://github.com/CycloneDX/cyclonedx-cli)
+  > CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions.
+
 ### [XiaoliChan](https://github.com/XiaoliChan)
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [alexVinarskis/dell-powermanager](https://github.com/alexVinarskis/dell-powermanager)
   > Cross-Platform Dell Power Manager re-implementation
@@ -349,6 +353,12 @@
 - 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [brilliantlabsAR/frame-codebase](https://github.com/brilliantlabsAR/frame-codebase)
   > The complete codebase for Frame
 
+### [r1ru](https://github.com/r1ru)
+- 🌟 👤 [r1ru](https://github.com/r1ru) Starred [minirust/minirust](https://github.com/minirust/minirust)
+  > A precise specification for "Rust lite / MIR plus"
+- 🌟 👤 [r1ru](https://github.com/r1ru) Starred [rust-lang/a-mir-formality](https://github.com/rust-lang/a-mir-formality)
+  > a model of MIR and the Rust type/trait system
+
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) to [rankalpha/Android_boot_image_editor](https://github.com/rankalpha/Android_boot_image_editor)
   > Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 15
@@ -474,5 +484,5 @@
 
 
 ---
-*最后更新于 2025-10-06 18:33:47 UTC*
+*最后更新于 2025-10-06 19:18:23 UTC*
 *历史记录保存在 `archive` 目录中。*
