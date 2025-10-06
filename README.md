@@ -176,6 +176,8 @@
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
   > Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [wasp-lang/wasp](https://github.com/wasp-lang/wasp)
+  > The fastest way to develop full-stack web apps with React & Node.js. 
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [wesmar/kvc](https://github.com/wesmar/kvc) to [fengjixuchui/kvc](https://github.com/fengjixuchui/kvc)
@@ -383,5 +385,5 @@
 
 
 ---
-*最后更新于 2025-10-06 12:49:34 UTC*
+*最后更新于 2025-10-06 13:31:39 UTC*
 *历史记录保存在 `archive` 目录中。*
