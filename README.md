@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [3intermute](https://github.com/3intermute)
+- 🌟 👤 [3intermute](https://github.com/3intermute) Starred [xenova/chat-downloader](https://github.com/xenova/chat-downloader)
+  > A simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No...
+
 ### [DeEpinGh0st](https://github.com/DeEpinGh0st)
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Y5neKO/ShiroEXP](https://github.com/Y5neKO/ShiroEXP)
   > Shiro漏洞利用工具
+
+### [KuLiPai](https://github.com/KuLiPai)
+- 🌟 👤 [KuLiPai](https://github.com/KuLiPai) Starred [Duo-Star/WinColorGoddess](https://github.com/Duo-Star/WinColorGoddess)
+  > auto ctrl win theme
 
 ### [Lake1059](https://github.com/Lake1059)
 - 🌟 👤 [Lake1059](https://github.com/Lake1059) Starred [MoYingJi/3fui-linux-scripts](https://github.com/MoYingJi/3fui-linux-scripts)
@@ -35,6 +43,14 @@
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463)
   > Local Privilege Escalation to Root via Sudo chroot in Linux
 
+### [TheWildJames](https://github.com/TheWildJames)
+- 🍴 👤 [TheWildJames](https://github.com/TheWildJames) Forked [WildKernels/Sultan_KernelSU_SUSFS](https://github.com/WildKernels/Sultan_KernelSU_SUSFS) to [TheWildJames/Sultan_KernelSU](https://github.com/TheWildJames/Sultan_KernelSU)
+  > Sultan Kernels built with KernelSU & SUSFS
+
+### [XiaoliChan](https://github.com/XiaoliChan)
+- 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [alexVinarskis/dell-powermanager](https://github.com/alexVinarskis/dell-powermanager)
+  > Cross-Platform Dell Power Manager re-implementation
+
 ### [ZJ595](https://github.com/ZJ595)
 - 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [sligter/LandPPT](https://github.com/sligter/LandPPT)
   > 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。
@@ -59,6 +75,10 @@
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0xthirteen/mtprocess](https://github.com/0xthirteen/mtprocess)
   > Python script to leverage MSFT_MTProcess WMI class
 
+### [chancerly](https://github.com/chancerly)
+- 🌟 👤 [chancerly](https://github.com/chancerly) Starred [HikariObfuscator/Hikari](https://github.com/HikariObfuscator/Hikari)
+  > LLVM Obfuscator
+
 ### [crvvdev](https://github.com/crvvdev)
 - 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [SamuelTulach/unxorer](https://github.com/SamuelTulach/unxorer)
   > Yet another IDA Pro/Home plugin for deobfuscating stack strings
@@ -82,6 +102,8 @@
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [VictoriaMetrics/sql-to-logsql](https://github.com/VictoriaMetrics/sql-to-logsql)
   > Simple UI that provides SQL support for VictoriaLogs and VictoriaTraces
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [tsl0922/ttyd](https://github.com/tsl0922/ttyd)
+  > Share your terminal over the web
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
@@ -133,6 +155,14 @@
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [ethanedits/Warzone-Project](https://github.com/ethanedits/Warzone-Project)
   > Kernel Warzone Cheat. Includes ESP, Aimbot, Bone ESP, and Menu
 
+### [pwndorei](https://github.com/pwndorei)
+- 🌟 👤 [pwndorei](https://github.com/pwndorei) Starred [jlowin/fastmcp](https://github.com/jlowin/fastmcp)
+  > 🚀 The fast, Pythonic way to build MCP servers and clients
+
+### [reveng007](https://github.com/reveng007)
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [SecurityAura/DE-TH-Aura](https://github.com/SecurityAura/DE-TH-Aura)
+  > Repository where I hold random detection and threat hunting queries that I come up with based on dif...
+
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [nextcloud/helm](https://github.com/nextcloud/helm)
   > A community maintained helm chart for deploying Nextcloud on Kubernetes.
@@ -143,6 +173,24 @@
 
 ### [shunf4](https://github.com/shunf4)
 - 🌟 👤 [shunf4](https://github.com/shunf4) Starred [open-telegram-server/nebula-chat-fork.github.io](https://github.com/open-telegram-server/nebula-chat-fork.github.io)
+
+### [smallzhong](https://github.com/smallzhong)
+- 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)
+  > Writing an OS in 1,000 lines.
+- 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) to [smallzhong/operating-system-in-1000-lines](https://github.com/smallzhong/operating-system-in-1000-lines)
+  > Writing an OS in 1,000 lines.
+- 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [xaitax/NTSleuth](https://github.com/xaitax/NTSleuth)
+  > Comprehensive Windows Syscall Extraction & Analysis Framework
+- 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [xaitax/NTSleuth](https://github.com/xaitax/NTSleuth) to [smallzhong/NTSleuth](https://github.com/smallzhong/NTSleuth)
+  > Comprehensive Windows Syscall Extraction & Analysis Framework
+- 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [mamedev/mame](https://github.com/mamedev/mame)
+  > MAME
+- 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [mamedev/mame](https://github.com/mamedev/mame) to [smallzhong/mame](https://github.com/smallzhong/mame)
+  > MAME
+- 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [connormcgarr/Vtl1Mon](https://github.com/connormcgarr/Vtl1Mon)
+  > Virtual Trust Level (VTL 1) secure call tracing
+- 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [connormcgarr/Vtl1Mon](https://github.com/connormcgarr/Vtl1Mon) to [smallzhong/Vtl1Mon](https://github.com/smallzhong/Vtl1Mon)
+  > Virtual Trust Level (VTL 1) secure call tracing
 
 ### [sxei](https://github.com/sxei)
 - ✨ 👤 [sxei](https://github.com/sxei) Created new repo [sxei/egg-v3-ts-template](https://github.com/sxei/egg-v3-ts-template)
@@ -159,6 +207,12 @@
   > Chisel: A Modern Hardware Design Language
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)
   > Writing an OS in 1,000 lines.
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [xaitax/NTSleuth](https://github.com/xaitax/NTSleuth)
+  > Comprehensive Windows Syscall Extraction & Analysis Framework
+
+### [wizardforcel](https://github.com/wizardforcel)
+- ✨ 👤 [wizardforcel](https://github.com/wizardforcel) Created new repo [OpenDocCN/flygon-fengxiangbiao-2025](https://github.com/OpenDocCN/flygon-fengxiangbiao-2025)
+- ✨ 👤 [wizardforcel](https://github.com/wizardforcel) Created new repo [OpenDocCN/flygon-zhuanqian-zhoubao-2025](https://github.com/OpenDocCN/flygon-zhuanqian-zhoubao-2025)
 
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [zituoguan/zituoguan-data](https://github.com/zituoguan/zituoguan-data)
@@ -166,5 +220,5 @@
 
 
 ---
-*最后更新于 2025-10-06 05:41:23 UTC*
+*最后更新于 2025-10-06 06:34:46 UTC*
 *历史记录保存在 `archive` 目录中。*
