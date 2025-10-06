@@ -95,6 +95,12 @@
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463)
   > Local Privilege Escalation to Root via Sudo chroot in Linux
 
+### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
+- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [Pr0214/trace_natives](https://github.com/Pr0214/trace_natives)
+  > 一个小脚本，用于trace so中native函数的调用。
+- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [Pr0214/Unidbg_FindKey](https://github.com/Pr0214/Unidbg_FindKey)
+  > KeyFinder 是一个Unidbg插件，通过内存检索的方式查找AES的密钥，增强Unidbg分析和还原算法的能力。
+
 ### [Th4nat0s](https://github.com/Th4nat0s)
 - 🍴 👤 [Th4nat0s](https://github.com/Th4nat0s) Forked [rommelfs/misp_control](https://github.com/rommelfs/misp_control) to [Th4nat0s/misp_control](https://github.com/Th4nat0s/misp_control)
   > Control your MISP instances, create new users, lookup users on all instances, bulk modify a user on ...
@@ -126,6 +132,10 @@
 ### [aistra0528](https://github.com/aistra0528)
 - ✨ 👤 [aistra0528](https://github.com/aistra0528) Created new repo [aistra0528/Spine-Viewer](https://github.com/aistra0528/Spine-Viewer)
   > Spine viewer for Android
+
+### [b3x206](https://github.com/b3x206)
+- 🌟 👤 [b3x206](https://github.com/b3x206) Starred [brython-dev/brython](https://github.com/brython-dev/brython)
+  > Brython (Browser Python) is an implementation of Python 3 running in the browser
 
 ### [barry-ran](https://github.com/barry-ran)
 - 🌟 👤 [barry-ran](https://github.com/barry-ran) Starred [liangtongt/TT-tools](https://github.com/liangtongt/TT-tools)
@@ -176,6 +186,11 @@
 ### [darkskygit](https://github.com/darkskygit)
 - 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [halcyonnouveau/clorinde](https://github.com/halcyonnouveau/clorinde)
   > Generate type-checked Rust from your PostgreSQL.
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
+  > GUI Application to work with engine assets, asset bundles, and serialized files
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [Escartem/AnimeStudio](https://github.com/Escartem/AnimeStudio)
+  > Updated AssetStudio, supports GI 6.0+, HSR 3.6+, ZZZ 2.2+ (and more), with improvements and new feat...
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [anosu/tenkeiparadoxx-translation](https://github.com/anosu/tenkeiparadoxx-translation)
 
 ### [dartcv](https://github.com/dartcv)
 - 🌟 👤 [dartcv](https://github.com/dartcv) Starred [DreamSoule/ollvm17](https://github.com/DreamSoule/ollvm17)
@@ -266,6 +281,8 @@
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [tech-shrimp/gemini-balance-lite](https://github.com/tech-shrimp/gemini-balance-lite)
   > Gemini API 代理, 把Gemini API免费中转到国内。还可以聚合多个Gemini API Key，随机选取API Key的使用实现负载均衡，使得Gemini API免费成倍增加。
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [liangdabiao/AI-generated-English-podcast-videos](https://github.com/liangdabiao/AI-generated-English-podcast-videos)
+  > AI生成英语对话的播客视频！一键生成，下载视频，学英语，发抖音。 AI-generated English conversation podcast videos! Create with one c...
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [up-zero/my-proxy](https://github.com/up-zero/my-proxy)
@@ -449,5 +466,5 @@
 
 
 ---
-*最后更新于 2025-10-06 17:20:22 UTC*
+*最后更新于 2025-10-06 17:40:41 UTC*
 *历史记录保存在 `archive` 目录中。*
