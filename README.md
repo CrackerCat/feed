@@ -110,6 +110,8 @@
   > 一个小脚本，用于trace so中native函数的调用。
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [Pr0214/Unidbg_FindKey](https://github.com/Pr0214/Unidbg_FindKey)
   > KeyFinder 是一个Unidbg插件，通过内存检索的方式查找AES的密钥，增强Unidbg分析和还原算法的能力。
+- ✨ 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Created new repo [SoyBeanMilkx/findHash](https://github.com/SoyBeanMilkx/findHash)
+  > findhash for ARM64 (An IDA script that can detect hash algorithms such as MD5 or SHA)
 
 ### [Th4nat0s](https://github.com/Th4nat0s)
 - 🍴 👤 [Th4nat0s](https://github.com/Th4nat0s) Forked [rommelfs/misp_control](https://github.com/rommelfs/misp_control) to [Th4nat0s/misp_control](https://github.com/Th4nat0s/misp_control)
@@ -321,6 +323,12 @@
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [up-zero/my-proxy](https://github.com/up-zero/my-proxy)
   > 局域网代理工具，支持 TCP、UDP、HTTP 等协议的代理转发，适用于绝大多数网络环境。提供了命令行、WebUI 两种配置代理的方法，极大地简化了代理配置的步骤。
 
+### [julius-b](https://github.com/julius-b)
+- 🌟 👤 [julius-b](https://github.com/julius-b) Starred [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses)
+  > A compendium of absurd "open-source" licenses.
+- 🌟 👤 [julius-b](https://github.com/julius-b) Starred [Loop312/compose-keyhandler](https://github.com/Loop312/compose-keyhandler)
+  > A key handler library for compose multiplatform/KMP
+
 ### [kkent030315](https://github.com/kkent030315)
 - 🍴 👤 [kkent030315](https://github.com/kkent030315) Forked [rikikiri/-profile](https://github.com/rikikiri/-profile) to [kkent030315/-profile](https://github.com/kkent030315/-profile)
   > 力丸のプロフィール
@@ -527,5 +535,5 @@
 
 
 ---
-*最后更新于 2025-10-06 21:19:18 UTC*
+*最后更新于 2025-10-06 21:38:48 UTC*
 *历史记录保存在 `archive` 目录中。*
