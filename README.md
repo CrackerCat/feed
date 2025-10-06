@@ -39,6 +39,9 @@
 - 🌟 👤 [Lake1059](https://github.com/Lake1059) Starred [MoYingJi/3fui-linux-scripts](https://github.com/MoYingJi/3fui-linux-scripts)
   > 本项目是 3FUI 的一键转译运行方案
 
+### [Lil-Ran](https://github.com/Lil-Ran)
+- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [yuanmeng28/ProcessHiderGui](https://github.com/yuanmeng28/ProcessHiderGui)
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [unikernelLinux/ukl](https://github.com/unikernelLinux/ukl)
   > Unikernel Linux
@@ -315,6 +318,12 @@
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [connormcgarr/Vtl1Mon](https://github.com/connormcgarr/Vtl1Mon) to [smallzhong/Vtl1Mon](https://github.com/smallzhong/Vtl1Mon)
   > Virtual Trust Level (VTL 1) secure call tracing
 
+### [su-vikas](https://github.com/su-vikas)
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [DebarghaG/proofofthought](https://github.com/DebarghaG/proofofthought)
+  > "Proof of thought: Neurosymbolic program synthesis allows robust and interpretable reasoning" publis...
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [mahmoudimus/ida-sigmaker](https://github.com/mahmoudimus/ida-sigmaker)
+  > sigmaker is a zero-dependency IDA Pro 9.0+ cross-platform signature maker plugin with optional SIMD ...
+
 ### [suzhelan](https://github.com/suzhelan)
 - 🌟 👤 [suzhelan](https://github.com/suzhelan) Starred [elysiajs/elysia](https://github.com/elysiajs/elysia)
   > Ergonomic Framework for Humans
@@ -369,5 +378,5 @@
 
 
 ---
-*最后更新于 2025-10-06 11:18:44 UTC*
+*最后更新于 2025-10-06 11:38:57 UTC*
 *历史记录保存在 `archive` 目录中。*
