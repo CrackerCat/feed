@@ -50,6 +50,10 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [avibn/telegram-downloader](https://github.com/avibn/telegram-downloader)
   > Local Telegram bot to download video files on local system.
 
+### [NiTianErXing666](https://github.com/NiTianErXing666)
+- 🌟 👤 [NiTianErXing666](https://github.com/NiTianErXing666) Starred [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches)
+  > 🧩 Patches for ReVanced
+
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
   > Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
@@ -70,6 +74,8 @@
 
 ### [People-11](https://github.com/People-11)
 - 🌟 👤 [People-11](https://github.com/People-11) Starred [mihele95/MTProxy-arm64](https://github.com/mihele95/MTProxy-arm64)
+- 🌟 👤 [People-11](https://github.com/People-11) Starred [bin456789/reinstall](https://github.com/bin456789/reinstall)
+  > 一键DD/重装脚本 (One-click reinstall OS on VPS)
 
 ### [Sndav](https://github.com/Sndav)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463)
@@ -100,6 +106,8 @@
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [THU-BPM/MarkLLM](https://github.com/THU-BPM/MarkLLM)
   > MarkLLM: An Open-Source Toolkit for LLM Watermarking.（EMNLP 2024 System Demonstration)
+- 🍴 👤 [ZephrFish](https://github.com/ZephrFish) Forked [SnaffCon/Snaffler](https://github.com/SnaffCon/Snaffler) to [ZephrFish/Snaffler](https://github.com/ZephrFish/Snaffler)
+  > a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/...
 
 ### [aistra0528](https://github.com/aistra0528)
 - ✨ 👤 [aistra0528](https://github.com/aistra0528) Created new repo [aistra0528/Spine-Viewer](https://github.com/aistra0528/Spine-Viewer)
@@ -192,6 +200,10 @@
   > ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, aut...
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
   > Python tool for converting files and office documents to Markdown.
+
+### [gclm](https://github.com/gclm)
+- 🍴 👤 [gclm](https://github.com/gclm) Forked [bizhangjie/CatVodSpider](https://github.com/bizhangjie/CatVodSpider) to [gclm/CatVodSpider](https://github.com/gclm/CatVodSpider)
+  > CatVodSpider一个TVBox的自定义源接口
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [beyond-all-reason/recoil-lua-library](https://github.com/beyond-all-reason/recoil-lua-library) to [gmh5225/recoil-lua-library](https://github.com/gmh5225/recoil-lua-library)
@@ -385,5 +397,5 @@
 
 
 ---
-*最后更新于 2025-10-06 13:31:39 UTC*
+*最后更新于 2025-10-06 14:22:51 UTC*
 *历史记录保存在 `archive` 目录中。*
