@@ -354,6 +354,10 @@
 - 🌟 👤 [lanyi233](https://github.com/lanyi233) Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
   > Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎...
 
+### [m0nad](https://github.com/m0nad)
+- 🍴 👤 [m0nad](https://github.com/m0nad) Forked [rodrigocarlson/PensePython3ed](https://github.com/rodrigocarlson/PensePython3ed) to [m0nad/PensePython3ed](https://github.com/m0nad/PensePython3ed)
+  > Tradução livre da terceira edição do livro Think Python de Allen B. Downey.
+
 ### [makelinux](https://github.com/makelinux)
 - ✨ 👤 [makelinux](https://github.com/makelinux) Created new repo [makelinux/multi-dictate](https://github.com/makelinux/multi-dictate)
 
@@ -463,6 +467,14 @@
   > Virtual Trust Level (VTL 1) secure call tracing
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [connormcgarr/Vtl1Mon](https://github.com/connormcgarr/Vtl1Mon) to [smallzhong/Vtl1Mon](https://github.com/smallzhong/Vtl1Mon)
   > Virtual Trust Level (VTL 1) secure call tracing
+- 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [KomiMoe/Hikari](https://github.com/KomiMoe/Hikari)
+  > Yet another llvm based obfuscator based on goron.
+- 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [KomiMoe/Hikari](https://github.com/KomiMoe/Hikari) to [smallzhong/Hikari](https://github.com/smallzhong/Hikari)
+  > Yet another llvm based obfuscator based on goron.
+- 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [amimo/goron](https://github.com/amimo/goron)
+  > Yet another llvm based obfuscator
+- 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [amimo/goron](https://github.com/amimo/goron) to [smallzhong/goron](https://github.com/smallzhong/goron)
+  > Yet another llvm based obfuscator
 
 ### [su-vikas](https://github.com/su-vikas)
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [DebarghaG/proofofthought](https://github.com/DebarghaG/proofofthought)
@@ -518,6 +530,10 @@
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [xaitax/NTSleuth](https://github.com/xaitax/NTSleuth)
   > Comprehensive Windows Syscall Extraction & Analysis Framework
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [SamuelTulach/unxorer](https://github.com/SamuelTulach/unxorer)
+  > Yet another IDA Pro/Home plugin for deobfuscating stack strings
+
 ### [wizardforcel](https://github.com/wizardforcel)
 - ✨ 👤 [wizardforcel](https://github.com/wizardforcel) Created new repo [OpenDocCN/flygon-fengxiangbiao-2025](https://github.com/OpenDocCN/flygon-fengxiangbiao-2025)
 - ✨ 👤 [wizardforcel](https://github.com/wizardforcel) Created new repo [OpenDocCN/flygon-zhuanqian-zhoubao-2025](https://github.com/OpenDocCN/flygon-zhuanqian-zhoubao-2025)
@@ -536,6 +552,10 @@
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [zituoguan/zituoguan-data](https://github.com/zituoguan/zituoguan-data)
   > 机器可读的数据，用于 https://zituoguan.com
 
+### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
+- 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [yhnu/op7t](https://github.com/yhnu/op7t)
+  > oneplus 7t 自定义内核(for 安卓逆向/外挂分析)
+
 ### [ymdzq](https://github.com/ymdzq)
 - 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [Cp0204/MSIAfterburner-i18n](https://github.com/Cp0204/MSIAfterburner-i18n)
   > MSIAfterburner 汉化包|中文|翻译|语言|本地化|第三方
@@ -548,5 +568,5 @@
 
 
 ---
-*最后更新于 2025-10-06 22:40:12 UTC*
+*最后更新于 2025-10-06 23:19:43 UTC*
 *历史记录保存在 `archive` 目录中。*
