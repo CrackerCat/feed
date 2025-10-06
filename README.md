@@ -161,6 +161,10 @@
 - 🌟 👤 [cwuom](https://github.com/cwuom) Starred [TheCruZ/kdmapper](https://github.com/TheCruZ/kdmapper)
   > KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers ...
 
+### [darkskygit](https://github.com/darkskygit)
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [halcyonnouveau/clorinde](https://github.com/halcyonnouveau/clorinde)
+  > Generate type-checked Rust from your PostgreSQL.
+
 ### [dartcv](https://github.com/dartcv)
 - 🌟 👤 [dartcv](https://github.com/dartcv) Starred [DreamSoule/ollvm17](https://github.com/DreamSoule/ollvm17)
   > Obfuscation LLVM 17
@@ -198,6 +202,10 @@
   > Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [wasp-lang/wasp](https://github.com/wasp-lang/wasp)
   > The fastest way to develop full-stack web apps with React & Node.js. 
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live)
+  > 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [wesmar/kvc](https://github.com/wesmar/kvc) to [fengjixuchui/kvc](https://github.com/fengjixuchui/kvc)
@@ -332,6 +340,10 @@
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [gino0631/nextcloud-metadata](https://github.com/gino0631/nextcloud-metadata)
   > A Nextcloud plugin for displaying file metadata.
 
+### [shomykohai](https://github.com/shomykohai)
+- ✨ 👤 [shomykohai](https://github.com/shomykohai) Created new repo [shomykohai/cryolith](https://github.com/shomykohai/cryolith)
+  > 🧊 My NixOS dotfiles
+
 ### [shunf4](https://github.com/shunf4)
 - 🌟 👤 [shunf4](https://github.com/shunf4) Starred [open-telegram-server/nebula-chat-fork.github.io](https://github.com/open-telegram-server/nebula-chat-fork.github.io)
 
@@ -417,5 +429,5 @@
 
 
 ---
-*最后更新于 2025-10-06 15:41:42 UTC*
+*最后更新于 2025-10-06 16:28:21 UTC*
 *历史记录保存在 `archive` 目录中。*
