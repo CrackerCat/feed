@@ -28,6 +28,10 @@
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463)
   > Local Privilege Escalation to Root via Sudo chroot in Linux
 
+### [ZJ595](https://github.com/ZJ595)
+- 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [sligter/LandPPT](https://github.com/sligter/LandPPT)
+  > 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。
+
 ### [bosen365](https://github.com/bosen365)
 - 🍴 👤 [bosen365](https://github.com/bosen365) Forked [Linkeer365/pdg2pic_autoRun](https://github.com/Linkeer365/pdg2pic_autoRun) to [bosen365/pdg2pic_autoRun](https://github.com/bosen365/pdg2pic_autoRun)
   > 因为Pdg2Pic转换的文件太多了，于是就用win32做了一个自动点击的工具，当然依旧是垃圾脚本
@@ -73,6 +77,10 @@
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
   > Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [wesmar/kvc](https://github.com/wesmar/kvc) to [fengjixuchui/kvc](https://github.com/fengjixuchui/kvc)
+  > The Kernel Vulnerability Capabilities (KVC) framework provides advanced Windows security research to...
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [beyond-all-reason/recoil-lua-library](https://github.com/beyond-all-reason/recoil-lua-library) to [gmh5225/recoil-lua-library](https://github.com/gmh5225/recoil-lua-library)
@@ -124,6 +132,8 @@
   > A thin-hypervisor that runs on aarch64 CPUs.
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [nuta/microkernel-book](https://github.com/nuta/microkernel-book)
   > 『自作OSで学ぶマイクロカーネルの設計と実装』サポートサイト
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [carlosedp/chiselv](https://github.com/carlosedp/chiselv)
+  > A RISC-V Core (RV32I) written in Chisel HDL
 
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [zituoguan/zituoguan-data](https://github.com/zituoguan/zituoguan-data)
@@ -131,5 +141,5 @@
 
 
 ---
-*最后更新于 2025-10-06 04:26:32 UTC*
+*最后更新于 2025-10-06 04:43:38 UTC*
 *历史记录保存在 `archive` 目录中。*
