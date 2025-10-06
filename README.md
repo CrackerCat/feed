@@ -16,6 +16,14 @@
 - 🌟 👤 [Asabeneh](https://github.com/Asabeneh) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
   > Official inference framework for 1-bit LLMs
 
+### [ChrisLinn](https://github.com/ChrisLinn)
+- 🌟 👤 [ChrisLinn](https://github.com/ChrisLinn) Starred [openai/openai-agents-js](https://github.com/openai/openai-agents-js)
+  > A lightweight, powerful framework for multi-agent workflows and voice agents
+
+### [ColdWindScholar](https://github.com/ColdWindScholar)
+- ✨ 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Created new repo [ColdWindScholar/CWHelper](https://github.com/ColdWindScholar/CWHelper)
+  > Your Pocket WiFi Assistant
+
 ### [Dado1513](https://github.com/Dado1513)
 - ✨ 👤 [Dado1513](https://github.com/Dado1513) Created new repo [Dado1513/images-notion](https://github.com/Dado1513/images-notion)
 
@@ -151,6 +159,10 @@
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [HikariObfuscator/Hikari](https://github.com/HikariObfuscator/Hikari)
   > LLVM Obfuscator
 
+### [crazy-max](https://github.com/crazy-max)
+- 🍴 👤 [crazy-max](https://github.com/crazy-max) Forked [docker/model-runner](https://github.com/docker/model-runner) to [crazy-max/docker-model-runner](https://github.com/crazy-max/docker-model-runner)
+  > Docker Model Runner
+
 ### [crvvdev](https://github.com/crvvdev)
 - 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [SamuelTulach/unxorer](https://github.com/SamuelTulach/unxorer)
   > Yet another IDA Pro/Home plugin for deobfuscating stack strings
@@ -196,6 +208,8 @@
   > The Golang linter that checks usage of github.com/stretchr/testify.
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [charmbracelet/glamour](https://github.com/charmbracelet/glamour)
   > Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator)
+  > The most popular clipboard manager for GNOME, with over 1M downloads
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
@@ -429,5 +443,5 @@
 
 
 ---
-*最后更新于 2025-10-06 16:28:21 UTC*
+*最后更新于 2025-10-06 16:47:39 UTC*
 *历史记录保存在 `archive` 目录中。*
