@@ -24,6 +24,10 @@
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [garyttierney/intellij-ghidra](https://github.com/garyttierney/intellij-ghidra)
   > An IntelliJ IDEA plugin for working on Ghidra Extensions.
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Pilfer/hermes_rs](https://github.com/Pilfer/hermes_rs)
+  > Hermes bytecode disassembler and assembler
+
 ### [People-11](https://github.com/People-11)
 - 🌟 👤 [People-11](https://github.com/People-11) Starred [mihele95/MTProxy-arm64](https://github.com/mihele95/MTProxy-arm64)
 
@@ -87,11 +91,16 @@
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [wesmar/kvc](https://github.com/wesmar/kvc) to [fengjixuchui/kvc](https://github.com/fengjixuchui/kvc)
   > The Kernel Vulnerability Capabilities (KVC) framework provides advanced Windows security research to...
 
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [romankurnovskii/BrewMate](https://github.com/romankurnovskii/BrewMate)
+  > Homebrew GUI apps manager
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [beyond-all-reason/recoil-lua-library](https://github.com/beyond-all-reason/recoil-lua-library) to [gmh5225/recoil-lua-library](https://github.com/gmh5225/recoil-lua-library)
   > LuaLS Library for Recoil RTS engine
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [DebarghaG/proofofthought](https://github.com/DebarghaG/proofofthought) to [gmh5225/proofofthought](https://github.com/gmh5225/proofofthought)
   > "Proof of thought: Neurosymbolic program synthesis allows robust and interpretable reasoning" publis...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Mega4alik/ollm](https://github.com/Mega4alik/ollm) to [gmh5225/ollm](https://github.com/gmh5225/ollm)
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [ipython/ipython](https://github.com/ipython/ipython)
@@ -148,6 +157,8 @@
   > A RISC-V Core (RV32I) written in Chisel HDL
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [chipsalliance/chisel](https://github.com/chipsalliance/chisel)
   > Chisel: A Modern Hardware Design Language
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)
+  > Writing an OS in 1,000 lines.
 
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [zituoguan/zituoguan-data](https://github.com/zituoguan/zituoguan-data)
@@ -155,5 +166,5 @@
 
 
 ---
-*最后更新于 2025-10-06 05:21:50 UTC*
+*最后更新于 2025-10-06 05:41:23 UTC*
 *历史记录保存在 `archive` 目录中。*
