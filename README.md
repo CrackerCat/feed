@@ -56,6 +56,9 @@
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller)
   > Kubernetes controller for GitHub Actions self-hosted runners
 
+### [MikeWang000000](https://github.com/MikeWang000000)
+- ✨ 👤 [MikeWang000000](https://github.com/MikeWang000000) Created new repo [MikeWang000000/lxpack_gh](https://github.com/MikeWang000000/lxpack_gh)
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [unikernelLinux/ukl](https://github.com/unikernelLinux/ukl)
   > Unikernel Linux
@@ -111,6 +114,8 @@
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [Pr0214/Unidbg_FindKey](https://github.com/Pr0214/Unidbg_FindKey)
   > KeyFinder 是一个Unidbg插件，通过内存检索的方式查找AES的密钥，增强Unidbg分析和还原算法的能力。
 - ✨ 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Created new repo [SoyBeanMilkx/findHash](https://github.com/SoyBeanMilkx/findHash)
+  > findhash for ARM64 (An IDA script that can detect hash algorithms such as MD5 or SHA)
+- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [SoyBeanMilkx/findHash](https://github.com/SoyBeanMilkx/findHash)
   > findhash for ARM64 (An IDA script that can detect hash algorithms such as MD5 or SHA)
 
 ### [Th4nat0s](https://github.com/Th4nat0s)
@@ -205,6 +210,10 @@
 ### [cwuom](https://github.com/cwuom)
 - 🌟 👤 [cwuom](https://github.com/cwuom) Starred [TheCruZ/kdmapper](https://github.com/TheCruZ/kdmapper)
   > KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers ...
+
+### [darbra](https://github.com/darbra)
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [sligter/LandPPT](https://github.com/sligter/LandPPT)
+  > 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。
 
 ### [darkskygit](https://github.com/darkskygit)
 - 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [halcyonnouveau/clorinde](https://github.com/halcyonnouveau/clorinde)
@@ -358,6 +367,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thepowerfuldeez/sample_efficient_gpt](https://github.com/thepowerfuldeez/sample_efficient_gpt)
   > Training framework with a goal to explore the frontier of sample efficiency of small language models
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards)
+  > A plain text-based spaced repetition system.
 
 ### [newbit1](https://github.com/newbit1)
 - 🌟 👤 [newbit1](https://github.com/newbit1) Starred [dart-tdlib/td](https://github.com/dart-tdlib/td)
@@ -405,6 +416,8 @@
   > Convert your Android device into USB keyboard/mouse, control your PC from your Android device remote...
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [ravindu644/Unofficial-BitLocker-Utility](https://github.com/ravindu644/Unofficial-BitLocker-Utility) to [rankalpha/Unofficial-BitLocker-Utility](https://github.com/rankalpha/Unofficial-BitLocker-Utility)
   > Utility to Windows BitLocker re-lock, unlock, decrypt, upgrade, backup etc.
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [SoyBeanMilkx/findHash](https://github.com/SoyBeanMilkx/findHash) to [rankalpha/findHash](https://github.com/rankalpha/findHash)
+  > findhash for ARM64 (An IDA script that can detect hash algorithms such as MD5 or SHA)
 
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [SecurityAura/DE-TH-Aura](https://github.com/SecurityAura/DE-TH-Aura)
@@ -535,5 +548,5 @@
 
 
 ---
-*最后更新于 2025-10-06 21:38:48 UTC*
+*最后更新于 2025-10-06 22:20:02 UTC*
 *历史记录保存在 `archive` 目录中。*
