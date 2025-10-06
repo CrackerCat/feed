@@ -105,6 +105,9 @@
 - ✨ 👤 [aistra0528](https://github.com/aistra0528) Created new repo [aistra0528/Spine-Viewer](https://github.com/aistra0528/Spine-Viewer)
   > Spine viewer for Android
 
+### [barry-ran](https://github.com/barry-ran)
+- 🌟 👤 [barry-ran](https://github.com/barry-ran) Starred [liangtongt/TT-tools](https://github.com/liangtongt/TT-tools)
+
 ### [bosen365](https://github.com/bosen365)
 - 🍴 👤 [bosen365](https://github.com/bosen365) Forked [Linkeer365/pdg2pic_autoRun](https://github.com/Linkeer365/pdg2pic_autoRun) to [bosen365/pdg2pic_autoRun](https://github.com/bosen365/pdg2pic_autoRun)
   > 因为Pdg2Pic转换的文件太多了，于是就用win32做了一个自动点击的工具，当然依旧是垃圾脚本
@@ -196,6 +199,8 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Mega4alik/ollm](https://github.com/Mega4alik/ollm) to [gmh5225/ollm](https://github.com/gmh5225/ollm)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [thepowerfuldeez/sample_efficient_gpt](https://github.com/thepowerfuldeez/sample_efficient_gpt) to [gmh5225/sample_efficient_gpt](https://github.com/gmh5225/sample_efficient_gpt)
   > Training framework with a goal to explore the frontier of sample efficiency of small language models
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ZJUBCA/roadmap](https://github.com/ZJUBCA/roadmap) to [gmh5225/roadmap](https://github.com/gmh5225/roadmap)
+  > Roadmap of learning blockchain technology and business knowledge summarized by ZJUBCA（浙大区块链协会总结的区块链知...
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [ipython/ipython](https://github.com/ipython/ipython)
@@ -378,5 +383,5 @@
 
 
 ---
-*最后更新于 2025-10-06 11:38:57 UTC*
+*最后更新于 2025-10-06 12:49:34 UTC*
 *历史记录保存在 `archive` 目录中。*
