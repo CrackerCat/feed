@@ -8,6 +8,10 @@
 - 🌟 👤 [3intermute](https://github.com/3intermute) Starred [xenova/chat-downloader](https://github.com/xenova/chat-downloader)
   > A simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No...
 
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)
+  > Arduino core for the ESP32
+
 ### [Dado1513](https://github.com/Dado1513)
 - ✨ 👤 [Dado1513](https://github.com/Dado1513) Created new repo [Dado1513/images-notion](https://github.com/Dado1513/images-notion)
 
@@ -38,6 +42,8 @@
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
   > Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [watchtowrlabs/watchTowr-vs-Dell-UnityVSA-PreAuth-CVE-2025-36604](https://github.com/watchtowrlabs/watchTowr-vs-Dell-UnityVSA-PreAuth-CVE-2025-36604)
+  > Detection Artefact Generator for Dell UnityVSA CVE-2025-36604
 
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [garyttierney/intellij-ghidra](https://github.com/garyttierney/intellij-ghidra)
@@ -54,6 +60,10 @@
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463)
   > Local Privilege Escalation to Root via Sudo chroot in Linux
 
+### [Th4nat0s](https://github.com/Th4nat0s)
+- 🍴 👤 [Th4nat0s](https://github.com/Th4nat0s) Forked [rommelfs/misp_control](https://github.com/rommelfs/misp_control) to [Th4nat0s/misp_control](https://github.com/Th4nat0s/misp_control)
+  > Control your MISP instances, create new users, lookup users on all instances, bulk modify a user on ...
+
 ### [TheWildJames](https://github.com/TheWildJames)
 - 🍴 👤 [TheWildJames](https://github.com/TheWildJames) Forked [WildKernels/Sultan_KernelSU_SUSFS](https://github.com/WildKernels/Sultan_KernelSU_SUSFS) to [TheWildJames/Sultan_KernelSU](https://github.com/TheWildJames/Sultan_KernelSU)
   > Sultan Kernels built with KernelSU & SUSFS
@@ -61,12 +71,16 @@
 ### [XiaoliChan](https://github.com/XiaoliChan)
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [alexVinarskis/dell-powermanager](https://github.com/alexVinarskis/dell-powermanager)
   > Cross-Platform Dell Power Manager re-implementation
+- 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [werdhaihai/msi_lateral_mv](https://github.com/werdhaihai/msi_lateral_mv)
+  > Lateral Movement Bof with MSI ODBC Driver Install
 
 ### [ZJ595](https://github.com/ZJ595)
 - 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [sligter/LandPPT](https://github.com/sligter/LandPPT)
   > 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。
 - 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [Feather-2/paper-burner-x](https://github.com/Feather-2/paper-burner-x)
   > Paper Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK,  基于 Paper Burner
+- 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
+  > MCP for xiaohongshu.com
 
 ### [bosen365](https://github.com/bosen365)
 - 🍴 👤 [bosen365](https://github.com/bosen365) Forked [Linkeer365/pdg2pic_autoRun](https://github.com/Linkeer365/pdg2pic_autoRun) to [bosen365/pdg2pic_autoRun](https://github.com/bosen365/pdg2pic_autoRun)
@@ -91,6 +105,7 @@
   > A RESTFul anime API made in Node.js.
 - ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [cd-Crypton/aenime-api1](https://github.com/cd-Crypton/aenime-api1)
 - ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [cd-Crypton/aenime-api3](https://github.com/cd-Crypton/aenime-api3)
+- ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [cd-Crypton/aenime-backup](https://github.com/cd-Crypton/aenime-backup)
 
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [HikariObfuscator/Hikari](https://github.com/HikariObfuscator/Hikari)
@@ -170,9 +185,17 @@
 - 🌟 👤 [kost](https://github.com/kost) Starred [wh0amitz/PetitPotato](https://github.com/wh0amitz/PetitPotato)
   > Local privilege escalation via PetitPotam (Abusing impersonate privileges).
 
+### [lanyi233](https://github.com/lanyi233)
+- 🌟 👤 [lanyi233](https://github.com/lanyi233) Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
+  > Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎...
+
 ### [moonD4rk](https://github.com/moonD4rk)
 - 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [nfc-tools/mfoc](https://github.com/nfc-tools/mfoc)
   > Mifare Classic Offline Cracker
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thepowerfuldeez/sample_efficient_gpt](https://github.com/thepowerfuldeez/sample_efficient_gpt)
+  > Training framework with a goal to explore the frontier of sample efficiency of small language models
 
 ### [newbit1](https://github.com/newbit1)
 - 🌟 👤 [newbit1](https://github.com/newbit1) Starred [dart-tdlib/td](https://github.com/dart-tdlib/td)
@@ -290,5 +313,5 @@
 
 
 ---
-*最后更新于 2025-10-06 08:30:45 UTC*
+*最后更新于 2025-10-06 09:27:01 UTC*
 *历史记录保存在 `archive` 目录中。*
