@@ -75,6 +75,10 @@
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [0xthirteen/mtprocess](https://github.com/0xthirteen/mtprocess)
   > Python script to leverage MSFT_MTProcess WMI class
 
+### [cd-Crypton](https://github.com/cd-Crypton)
+- 🍴 👤 [cd-Crypton](https://github.com/cd-Crypton) Forked [itzzzme/anime-api](https://github.com/itzzzme/anime-api) to [cd-Crypton/anime-api](https://github.com/cd-Crypton/anime-api)
+  > A RESTFul anime API made in Node.js.
+
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [HikariObfuscator/Hikari](https://github.com/HikariObfuscator/Hikari)
   > LLVM Obfuscator
@@ -84,6 +88,10 @@
   > Yet another IDA Pro/Home plugin for deobfuscating stack strings
 - 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [Visual1337/HV](https://github.com/Visual1337/HV)
   > saw some people selling this so wanted to make sure everyone knows its leaked
+
+### [cwuom](https://github.com/cwuom)
+- 🌟 👤 [cwuom](https://github.com/cwuom) Starred [TheCruZ/kdmapper](https://github.com/TheCruZ/kdmapper)
+  > KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers ...
 
 ### [dartcv](https://github.com/dartcv)
 - 🌟 👤 [dartcv](https://github.com/dartcv) Starred [DreamSoule/ollvm17](https://github.com/DreamSoule/ollvm17)
@@ -104,6 +112,8 @@
   > Simple UI that provides SQL support for VictoriaLogs and VictoriaTraces
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [tsl0922/ttyd](https://github.com/tsl0922/ttyd)
   > Share your terminal over the web
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [dwisiswant0/godoc](https://github.com/dwisiswant0/godoc)
+  > go doc, glamorous: ✨ terminal chic, 🤖 assistant-ready, and 📦 programmable.
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [nextjs/saas-starter](https://github.com/nextjs/saas-starter)
@@ -174,6 +184,10 @@
 ### [shunf4](https://github.com/shunf4)
 - 🌟 👤 [shunf4](https://github.com/shunf4) Starred [open-telegram-server/nebula-chat-fork.github.io](https://github.com/open-telegram-server/nebula-chat-fork.github.io)
 
+### [sleepyG8](https://github.com/sleepyG8)
+- ✨ 👤 [sleepyG8](https://github.com/sleepyG8) Created new repo [sleepyG8/The-Peoples-Packer](https://github.com/sleepyG8/The-Peoples-Packer)
+  > TPP - The People Packer is a lightweight entropy based packer for on the fly packing of executables ...
+
 ### [smallzhong](https://github.com/smallzhong)
 - 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)
   > Writing an OS in 1,000 lines.
@@ -218,7 +232,11 @@
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [zituoguan/zituoguan-data](https://github.com/zituoguan/zituoguan-data)
   > 机器可读的数据，用于 https://zituoguan.com
 
+### [ymdzq](https://github.com/ymdzq)
+- 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [Cp0204/MSIAfterburner-i18n](https://github.com/Cp0204/MSIAfterburner-i18n)
+  > MSIAfterburner 汉化包|中文|翻译|语言|本地化|第三方
+
 
 ---
-*最后更新于 2025-10-06 06:34:46 UTC*
+*最后更新于 2025-10-06 07:22:48 UTC*
 *历史记录保存在 `archive` 目录中。*
