@@ -228,6 +228,9 @@
 ### [makelinux](https://github.com/makelinux)
 - ✨ 👤 [makelinux](https://github.com/makelinux) Created new repo [makelinux/multi-dictate](https://github.com/makelinux/multi-dictate)
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [FutureComputing4AI/EMBER2024](https://github.com/FutureComputing4AI/EMBER2024)
+
 ### [moonD4rk](https://github.com/moonD4rk)
 - 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [nfc-tools/mfoc](https://github.com/nfc-tools/mfoc)
   > Mifare Classic Offline Cracker
@@ -258,6 +261,10 @@
 ### [pwndorei](https://github.com/pwndorei)
 - 🌟 👤 [pwndorei](https://github.com/pwndorei) Starred [jlowin/fastmcp](https://github.com/jlowin/fastmcp)
   > 🚀 The fast, Pythonic way to build MCP servers and clients
+
+### [qazbnm456](https://github.com/qazbnm456)
+- 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [brilliantlabsAR/frame-codebase](https://github.com/brilliantlabsAR/frame-codebase)
+  > The complete codebase for Frame
 
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) to [rankalpha/Android_boot_image_editor](https://github.com/rankalpha/Android_boot_image_editor)
@@ -362,5 +369,5 @@
 
 
 ---
-*最后更新于 2025-10-06 10:44:09 UTC*
+*最后更新于 2025-10-06 11:18:44 UTC*
 *历史记录保存在 `archive` 目录中。*
