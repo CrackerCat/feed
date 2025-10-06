@@ -91,6 +91,10 @@
 - 🌟 👤 [People-11](https://github.com/People-11) Starred [bin456789/reinstall](https://github.com/bin456789/reinstall)
   > 一键DD/重装脚本 (One-click reinstall OS on VPS)
 
+### [RedFoxMain](https://github.com/RedFoxMain)
+- 🌟 👤 [RedFoxMain](https://github.com/RedFoxMain) Starred [CrackerCat/IDA-Patcher-](https://github.com/CrackerCat/IDA-Patcher-)
+  > IDA Pro Patcher & License Generator
+
 ### [Sndav](https://github.com/Sndav)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463)
   > Local Privilege Escalation to Root via Sudo chroot in Linux
@@ -363,6 +367,10 @@
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [SecurityAura/DE-TH-Aura](https://github.com/SecurityAura/DE-TH-Aura)
   > Repository where I hold random detection and threat hunting queries that I come up with based on dif...
 
+### [seritools](https://github.com/seritools)
+- 🌟 👤 [seritools](https://github.com/seritools) Starred [emproof-com/workshop_firmware_reverse_engineering](https://github.com/emproof-com/workshop_firmware_reverse_engineering)
+  > Workshop on firmware reverse engineering
+
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [nextcloud/helm](https://github.com/nextcloud/helm)
   > A community maintained helm chart for deploying Nextcloud on Kubernetes.
@@ -466,5 +474,5 @@
 
 
 ---
-*最后更新于 2025-10-06 17:40:41 UTC*
+*最后更新于 2025-10-06 18:33:47 UTC*
 *历史记录保存在 `archive` 目录中。*
