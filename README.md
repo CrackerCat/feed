@@ -27,6 +27,10 @@
 - 🍴 👤 [Howard20181](https://github.com/Howard20181) Forked [GSWXXN/RestoreSplashScreen](https://github.com/GSWXXN/RestoreSplashScreen) to [Howard20181/RestoreSplashScreen](https://github.com/Howard20181/RestoreSplashScreen)
   > 启动遮罩进化 / RestoreSplashScreen
 
+### [KpLi0rn](https://github.com/KpLi0rn)
+- 🌟 👤 [KpLi0rn](https://github.com/KpLi0rn) Starred [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode)
+  > Like Claude Code, but Koding with DeepSeek V3.1, Kimi2, GLM4.5, Qwen Coder etc.（welcome to use Kode ...
+
 ### [KuLiPai](https://github.com/KuLiPai)
 - 🌟 👤 [KuLiPai](https://github.com/KuLiPai) Starred [Duo-Star/WinColorGoddess](https://github.com/Duo-Star/WinColorGoddess)
   > auto ctrl win theme
@@ -358,5 +362,5 @@
 
 
 ---
-*最后更新于 2025-10-06 10:25:54 UTC*
+*最后更新于 2025-10-06 10:44:09 UTC*
 *历史记录保存在 `archive` 目录中。*
