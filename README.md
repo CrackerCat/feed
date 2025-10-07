@@ -8,6 +8,10 @@
 - 🌟 👤 [0xricksanchez](https://github.com/0xricksanchez) Starred [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent)
   > AI agent for autonomous cyber operations
 
+### [AlSch092](https://github.com/AlSch092)
+- 🌟 👤 [AlSch092](https://github.com/AlSch092) Starred [nanopb/nanopb](https://github.com/nanopb/nanopb)
+  > Protocol Buffers with small code size
+
 ### [Fyyre](https://github.com/Fyyre)
 - 🌟 👤 [Fyyre](https://github.com/Fyyre) Starred [noct-ml/echo-forge](https://github.com/noct-ml/echo-forge)
   > EchoForge restores ChatGPT export freedom — transforming raw “Save Page As…” HTML into beautiful, st...
@@ -282,6 +286,18 @@
   > A small utility to run raw code chunks in the executable memory area.
 - 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [PELock/starter](https://github.com/PELock/starter) to [m0n0ph1/starter](https://github.com/m0n0ph1/starter)
   > A small utility to run raw code chunks in the executable memory area.
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [PELock/AutoIt-Obfuscator](https://github.com/PELock/AutoIt-Obfuscator)
+  > AutoIt Obfuscator lets you protect AutoIt script source code against analysis, reverse engineering &...
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [PELock/AutoIt-Obfuscator](https://github.com/PELock/AutoIt-Obfuscator) to [m0n0ph1/AutoIt-Obfuscator](https://github.com/m0n0ph1/AutoIt-Obfuscator)
+  > AutoIt Obfuscator lets you protect AutoIt script source code against analysis, reverse engineering &...
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [PELock/Dekoder-AZTEC-2D-PHP](https://github.com/PELock/Dekoder-AZTEC-2D-PHP)
+  > Dekoder Kodu AZTEC 2D z Dowodu Rejestracyjnego dla PHP (Web API) z rozpoznawaniem orazu.
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [PELock/Dekoder-AZTEC-2D-PHP](https://github.com/PELock/Dekoder-AZTEC-2D-PHP) to [m0n0ph1/Dekoder-AZTEC-2D-PHP](https://github.com/m0n0ph1/Dekoder-AZTEC-2D-PHP)
+  > Dekoder Kodu AZTEC 2D z Dowodu Rejestracyjnego dla PHP (Web API) z rozpoznawaniem orazu.
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [PELock/StringEncrypt-WebAPI](https://github.com/PELock/StringEncrypt-WebAPI)
+  > String Encryption and File Encryption for C/C++, C#, Visual Basic .NET, Delphi/Pascal/Object Pascal,...
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [PELock/StringEncrypt-WebAPI](https://github.com/PELock/StringEncrypt-WebAPI) to [m0n0ph1/StringEncrypt-WebAPI](https://github.com/m0n0ph1/StringEncrypt-WebAPI)
+  > String Encryption and File Encryption for C/C++, C#, Visual Basic .NET, Delphi/Pascal/Object Pascal,...
 
 ### [mborgerson](https://github.com/mborgerson)
 - 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [timelinize/timelinize](https://github.com/timelinize/timelinize)
@@ -329,6 +345,10 @@
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [win4r/AISuperDomain](https://github.com/win4r/AISuperDomain)
   > Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers ...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [danielplohmann/mcrit-data](https://github.com/danielplohmann/mcrit-data)
+  > A collection of ready-to-use library code and symbols for the MinHash-based Code Relationship & Inve...
+
 ### [wishihab](https://github.com/wishihab)
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [webmin/webmin](https://github.com/webmin/webmin)
   > Powerful and flexible web-based server management control panel
@@ -347,5 +367,5 @@
 
 
 ---
-*最后更新于 2025-10-07 22:20:35 UTC*
+*最后更新于 2025-10-07 22:40:37 UTC*
 *历史记录保存在 `archive` 目录中。*
