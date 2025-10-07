@@ -8,6 +8,9 @@
 - 🌟 👤 [Fyyre](https://github.com/Fyyre) Starred [noct-ml/echo-forge](https://github.com/noct-ml/echo-forge)
   > EchoForge restores ChatGPT export freedom — transforming raw “Save Page As…” HTML into beautiful, st...
 
+### [GJDuck](https://github.com/GJDuck)
+- 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [andyzorigin/cybench](https://github.com/andyzorigin/cybench)
+
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [farazsth98/exploit-CVE-2025-39946](https://github.com/farazsth98/exploit-CVE-2025-39946)
   > Exploit for CVE-2025-39946, a bug in the Linux kernel's net/tls subsystem.
@@ -69,11 +72,28 @@
   > A novel data compression framework
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [nobiyou/wx_channel](https://github.com/nobiyou/wx_channel)
   > 微信视频号下载工具
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic)
+  > 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [eliblock/less-advanced-security](https://github.com/eliblock/less-advanced-security)
   > Bring-your-own PR annotations to any tool which outputs sarif
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [openai/chatkit-js](https://github.com/openai/chatkit-js)
+
+### [gmh5225](https://github.com/gmh5225)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [namazso/NtDriverTool](https://github.com/namazso/NtDriverTool) to [gmh5225/NtDriverTool](https://github.com/gmh5225/NtDriverTool)
+  > Vibecoded DriverView except not only view.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [HMaker/python-cdp](https://github.com/HMaker/python-cdp) to [gmh5225/python-cdp](https://github.com/gmh5225/python-cdp)
+  > Python client and types generator for the Chrome DevTools Protocol (CDP)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [HMaker/aiohttp-socks5](https://github.com/HMaker/aiohttp-socks5) to [gmh5225/aiohttp-socks5](https://github.com/gmh5225/aiohttp-socks5)
+  > SOCKS5 proxy support for aiohttp.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) to [gmh5225/aiohttp](https://github.com/gmh5225/aiohttp)
+  > Asynchronous HTTP client/server framework for asyncio and Python
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Infisical/scoop-infisical](https://github.com/Infisical/scoop-infisical) to [gmh5225/scoop-infisical](https://github.com/gmh5225/scoop-infisical)
+
+### [iPower](https://github.com/iPower)
+- 🌟 👤 [iPower](https://github.com/iPower) Starred [namazso/NtDriverTool](https://github.com/namazso/NtDriverTool)
+  > Vibecoded DriverView except not only view.
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [openwebf/webf](https://github.com/openwebf/webf)
@@ -103,5 +123,5 @@
 
 
 ---
-*最后更新于 2025-10-07 13:32:15 UTC*
+*最后更新于 2025-10-07 14:24:21 UTC*
 *历史记录保存在 `archive` 目录中。*
