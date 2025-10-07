@@ -63,6 +63,12 @@
 - 🌟 👤 [ZhongYeZi-meow](https://github.com/ZhongYeZi-meow) Starred [CrackerCat/page_fault_handler_hook](https://github.com/CrackerCat/page_fault_handler_hook)
   > software watchpoints + physical page swapping on execute/read via page fault handler hooking
 
+### [abdihaikal](https://github.com/abdihaikal)
+- 🌟 👤 [abdihaikal](https://github.com/abdihaikal) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+- 🍴 👤 [abdihaikal](https://github.com/abdihaikal) Forked [anthropics/claude-code](https://github.com/anthropics/claude-code) to [abdihaikal/claude-code](https://github.com/abdihaikal/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [apprat/sober](https://github.com/apprat/sober)
   > Material You Design Web Component UI Library
@@ -82,6 +88,10 @@
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [facebook/openzl](https://github.com/facebook/openzl)
   > A novel data compression framework
+
+### [carloscn](https://github.com/carloscn)
+- 🌟 👤 [carloscn](https://github.com/carloscn) Starred [Kiprey/DiskGeniusCrack](https://github.com/Kiprey/DiskGeniusCrack)
+  > DiskGenius
 
 ### [cd-Crypton](https://github.com/cd-Crypton)
 - ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [aenime-project/.github](https://github.com/aenime-project/.github)
@@ -125,6 +135,10 @@
 
 ### [feicong](https://github.com/feicong)
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [Kernel-SU/ksuinit](https://github.com/Kernel-SU/ksuinit) to [feicong/ksuinit](https://github.com/feicong/ksuinit)
+
+### [gclm](https://github.com/gclm)
+- ✨ 👤 [gclm](https://github.com/gclm) Created new repo [gclm/securefox](https://github.com/gclm/securefox)
+  > 安全狐
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [namazso/NtDriverTool](https://github.com/namazso/NtDriverTool) to [gmh5225/NtDriverTool](https://github.com/gmh5225/NtDriverTool)
@@ -190,6 +204,11 @@
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [noraj/flask-session-cookie-manager](https://github.com/noraj/flask-session-cookie-manager)
   > :cookie: Flask Session Cookie Decoder/Encoder
 
+### [rmuxnet](https://github.com/rmuxnet)
+- 🌟 👤 [rmuxnet](https://github.com/rmuxnet) Starred [domin746826/simple-fpga-gpu](https://github.com/domin746826/simple-fpga-gpu)
+  > Very simple GPU built on XC3S250E
+- ✨ 👤 [rmuxnet](https://github.com/rmuxnet) Created new repo [rmux-random-stuff/itis_dio_cane](https://github.com/rmux-random-stuff/itis_dio_cane)
+
 ### [rushiiMachine](https://github.com/rushiiMachine)
 - 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
   > More Expressive InstallerX !
@@ -216,5 +235,5 @@
 
 
 ---
-*最后更新于 2025-10-07 19:39:11 UTC*
+*最后更新于 2025-10-07 20:24:54 UTC*
 *历史记录保存在 `archive` 目录中。*
