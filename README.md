@@ -68,6 +68,8 @@
   > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
 - 🍴 👤 [abdihaikal](https://github.com/abdihaikal) Forked [anthropics/claude-code](https://github.com/anthropics/claude-code) to [abdihaikal/claude-code](https://github.com/abdihaikal/claude-code)
   > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+- 🌟 👤 [abdihaikal](https://github.com/abdihaikal) Starred [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)
+  > An orchestrated sub agent dev team powered by claude code
 
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [apprat/sober](https://github.com/apprat/sober)
@@ -100,6 +102,8 @@
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook)
   > :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
+- 🌟 👤 [codingsf](https://github.com/codingsf) Starred [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer)
+  > A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [realtime-ai/realtime-audio-sdk](https://github.com/realtime-ai/realtime-audio-sdk)
@@ -235,5 +239,5 @@
 
 
 ---
-*最后更新于 2025-10-07 20:41:40 UTC*
+*最后更新于 2025-10-07 21:19:08 UTC*
 *历史记录保存在 `archive` 目录中。*
