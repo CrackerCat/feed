@@ -150,6 +150,10 @@
 ### [feicong](https://github.com/feicong)
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [Kernel-SU/ksuinit](https://github.com/Kernel-SU/ksuinit) to [feicong/ksuinit](https://github.com/feicong/ksuinit)
 
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [supermemoryai/apple-mcp](https://github.com/supermemoryai/apple-mcp)
+  > Collection of apple-native tools for the model context protocol.
+
 ### [gclm](https://github.com/gclm)
 - ✨ 👤 [gclm](https://github.com/gclm) Created new repo [gclm/securefox](https://github.com/gclm/securefox)
   > 安全狐
@@ -310,6 +314,12 @@
   > x86 and x86-64 shellcodes for Windows, Mac OSX, Linux, BSD and Solaris
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [dolphingarlic/CompetitiveProgramming](https://github.com/dolphingarlic/CompetitiveProgramming)
   > A collection of my solutions to various informatics olympiad problems
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [loneicewolf/nls_933w_dll](https://github.com/loneicewolf/nls_933w_dll)
+  > [+] nls_933w.dll + [+] WIN32M.SYS MALWARE- ONLY FOR ACADEMICAL RESEARCH PURPOSES!
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [hasherezade/crypto_utils](https://github.com/hasherezade/crypto_utils)
+  > Set of my small utils related to cryptography, encoding, decoding etc
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [loneicewolf/Stuxnet-Source](https://github.com/loneicewolf/Stuxnet-Source)
+  > stuxnet Source & Binaries. (+PLC ROOTKIT) ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES! Inc...
 
 ### [mborgerson](https://github.com/mborgerson)
 - 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [timelinize/timelinize](https://github.com/timelinize/timelinize)
@@ -383,5 +393,5 @@
 
 
 ---
-*最后更新于 2025-10-07 23:19:59 UTC*
+*最后更新于 2025-10-07 23:38:42 UTC*
 *历史记录保存在 `archive` 目录中。*
