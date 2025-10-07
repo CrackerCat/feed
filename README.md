@@ -109,6 +109,13 @@
 - 🌟 👤 [kaganisildak](https://github.com/kaganisildak) Starred [safing/portmaster](https://github.com/safing/portmaster)
   > 🏔 Love Freedom - ❌ Block Mass Surveillance
 
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [tyilo/cargo-fibonacci-numbers](https://github.com/tyilo/cargo-fibonacci-numbers)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Sajjon/lera](https://github.com/Sajjon/lera)
+  > Write ViewModels for SwiftUI and Jetpack Compose only in Rust, powered by Mozilla UniFFI.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL)
+  > GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources suc...
+
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [noraj/flask-session-cookie-manager](https://github.com/noraj/flask-session-cookie-manager)
   > :cookie: Flask Session Cookie Decoder/Encoder
@@ -123,5 +130,5 @@
 
 
 ---
-*最后更新于 2025-10-07 14:45:45 UTC*
+*最后更新于 2025-10-07 15:25:42 UTC*
 *历史记录保存在 `archive` 目录中。*
