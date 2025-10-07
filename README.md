@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xricksanchez](https://github.com/0xricksanchez)
+- 🌟 👤 [0xricksanchez](https://github.com/0xricksanchez) Starred [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent)
+  > AI agent for autonomous cyber operations
+
 ### [Fyyre](https://github.com/Fyyre)
 - 🌟 👤 [Fyyre](https://github.com/Fyyre) Starred [noct-ml/echo-forge](https://github.com/noct-ml/echo-forge)
   > EchoForge restores ChatGPT export freedom — transforming raw “Save Page As…” HTML into beautiful, st...
@@ -145,6 +149,8 @@
 ### [gclm](https://github.com/gclm)
 - ✨ 👤 [gclm](https://github.com/gclm) Created new repo [gclm/securefox](https://github.com/gclm/securefox)
   > 安全狐
+- 🍴 👤 [gclm](https://github.com/gclm) Forked [beilunyang/moemail](https://github.com/beilunyang/moemail) to [gclm/moemail](https://github.com/gclm/moemail)
+  > 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [namazso/NtDriverTool](https://github.com/namazso/NtDriverTool) to [gmh5225/NtDriverTool](https://github.com/gmh5225/NtDriverTool)
@@ -186,6 +192,102 @@
   > Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, ...
 - 🌟 👤 [kaganisildak](https://github.com/kaganisildak) Starred [safing/portmaster](https://github.com/safing/portmaster)
   > 🏔 Love Freedom - ❌ Block Mass Surveillance
+
+### [m0n0ph1](https://github.com/m0n0ph1)
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [jibsen/tinf](https://github.com/jibsen/tinf)
+  > Tiny inflate library (inflate, gzip, zlib)
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [jibsen/brieflz](https://github.com/jibsen/brieflz)
+  > Small fast Lempel-Ziv compression library
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [jibsen/scv](https://github.com/jibsen/scv)
+  > ANSI C implementation of dynamic array, with interface similar to C++ std::vector
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [jibsen/blz4](https://github.com/jibsen/blz4)
+  > Example of LZ4 compression with optimal parsing using BriefLZ algorithms
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [jibsen/lzdatagen](https://github.com/jibsen/lzdatagen)
+  > LZ data generator
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [jibsen/bcrush](https://github.com/jibsen/bcrush)
+  > Example of CRUSH compression with optimal parsing using BriefLZ algorithms
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [jibsen/galib](https://github.com/jibsen/galib)
+  > Copy of GAlib (http://lancet.mit.edu/ga/) for use in pngwolf-zopfli
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [jibsen/spooky](https://github.com/jibsen/spooky)
+  > SpookyHash in C
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [jibsen/ulz](https://github.com/jibsen/ulz)
+  > An ultra-fast LZ77 compressor/data compression library
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [jibsen/aocpp2018](https://github.com/jibsen/aocpp2018)
+  > Advent of Code 2018 solutions in C++17
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [jibsen/aocpp2019](https://github.com/jibsen/aocpp2019)
+  > Advent of Code 2019 solutions in C++17
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [jibsen/blog](https://github.com/jibsen/blog)
+  > Basic logging
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [jibsen/aocpp2024](https://github.com/jibsen/aocpp2024)
+  > Advent of Code 2024 solutions in C++23
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [ExeinfoASL/plugins](https://github.com/ExeinfoASL/plugins)
+  > plugins for Exeinfo Pe
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [ExeinfoASL/Exeinfo](https://github.com/ExeinfoASL/Exeinfo)
+  > exeinfo PE for Windows by A.S.L
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [ExeinfoASL/plugins](https://github.com/ExeinfoASL/plugins) to [m0n0ph1/ExeinfoPE](https://github.com/m0n0ph1/ExeinfoPE)
+  > plugins for Exeinfo Pe
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [BlackHat-Ashura/Process_Ghosting](https://github.com/BlackHat-Ashura/Process_Ghosting)
+  > Process Ghosting is a technique in which a process is created from a delete pending file. This means...
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [BlackHat-Ashura/Reflective_DLL_Injection](https://github.com/BlackHat-Ashura/Reflective_DLL_Injection)
+  > Program to Inject a DLL into a process from memory.
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [BlackHat-Ashura/Reflective_PE_Loader](https://github.com/BlackHat-Ashura/Reflective_PE_Loader)
+  > Program to load a PE inside memory on another process.
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [BlackHat-Ashura/Process_Hollowing](https://github.com/BlackHat-Ashura/Process_Hollowing)
+  > Process Hollowing is a process injection technique in which a process is created in a suspended stat...
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [BlackHat-Ashura/Inject-Hook-Unhook_POC](https://github.com/BlackHat-Ashura/Inject-Hook-Unhook_POC)
+  > POC demonstrating DLL Injection, API Hooking and API Unhooking.
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [BlackHat-Ashura/Process_Doppelganging](https://github.com/BlackHat-Ashura/Process_Doppelganging)
+  > A malware technique that makes use of NTFS transactions to create a process that is not backed by a ...
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [BlackHat-Ashura/Named_Pipe_Reverse_Shell](https://github.com/BlackHat-Ashura/Named_Pipe_Reverse_Shell)
+  > This is a reverse shell for windows that uses Named Pipes for communication.
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [m0n0ph1/ExeinfoPE](https://github.com/m0n0ph1/ExeinfoPE)
+  > plugins for Exeinfo Pe
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [BlackHat-Ashura/Space_StegTool](https://github.com/BlackHat-Ashura/Space_StegTool)
+  > Encode/Decode message To/From Spaces and Tabs
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [BlackHat-Ashura/Process_Doppelganging](https://github.com/BlackHat-Ashura/Process_Doppelganging) to [m0n0ph1/Process_Doppelganging](https://github.com/m0n0ph1/Process_Doppelganging)
+  > A malware technique that makes use of NTFS transactions to create a process that is not backed by a ...
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [BlackHat-Ashura/Named_Pipe_Reverse_Shell](https://github.com/BlackHat-Ashura/Named_Pipe_Reverse_Shell) to [m0n0ph1/Named_Pipe_Reverse_Shell](https://github.com/m0n0ph1/Named_Pipe_Reverse_Shell)
+  > This is a reverse shell for windows that uses Named Pipes for communication.
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [BlackHat-Ashura/Inject-Hook-Unhook_POC](https://github.com/BlackHat-Ashura/Inject-Hook-Unhook_POC) to [m0n0ph1/Inject-Hook-Unhook_POC](https://github.com/m0n0ph1/Inject-Hook-Unhook_POC)
+  > POC demonstrating DLL Injection, API Hooking and API Unhooking.
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [BlackHat-Ashura/Process_Hollowing](https://github.com/BlackHat-Ashura/Process_Hollowing) to [m0n0ph1/Process_Hollowing](https://github.com/m0n0ph1/Process_Hollowing)
+  > Process Hollowing is a process injection technique in which a process is created in a suspended stat...
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [BlackHat-Ashura/Reflective_PE_Loader](https://github.com/BlackHat-Ashura/Reflective_PE_Loader) to [m0n0ph1/Reflective_PE_Loader](https://github.com/m0n0ph1/Reflective_PE_Loader)
+  > Program to load a PE inside memory on another process.
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [BlackHat-Ashura/Reflective_DLL_Injection](https://github.com/BlackHat-Ashura/Reflective_DLL_Injection) to [m0n0ph1/Reflective_DLL_Injection](https://github.com/m0n0ph1/Reflective_DLL_Injection)
+  > Program to Inject a DLL into a process from memory.
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [BlackHat-Ashura/Process_Ghosting](https://github.com/BlackHat-Ashura/Process_Ghosting) to [m0n0ph1/Process_Ghosting](https://github.com/m0n0ph1/Process_Ghosting)
+  > Process Ghosting is a technique in which a process is created from a delete pending file. This means...
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [PELock/PELock-Software-Protection-and-Licensing-SDK](https://github.com/PELock/PELock-Software-Protection-and-Licensing-SDK)
+  > Software copy protection against cracking & reverse engineering with anti-cracking & anti-debugging ...
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [PELock/PELock-Software-Protection-and-Licensing-SDK](https://github.com/PELock/PELock-Software-Protection-and-Licensing-SDK) to [m0n0ph1/PELock-Software-Protection-and-Licensing-SDK](https://github.com/m0n0ph1/PELock-Software-Protection-and-Licensing-SDK)
+  > Software copy protection against cracking & reverse engineering with anti-cracking & anti-debugging ...
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [PELock/Simple-Polymorphic-Engine-SPE32](https://github.com/PELock/Simple-Polymorphic-Engine-SPE32)
+  > Simple Polymorphic Engine (SPE32) is a simple polymorphic engine for encrypting code and data. It is...
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [PELock/JObfuscator](https://github.com/PELock/JObfuscator)
+  > JObfuscator is a source code obfuscator for the Java language. Protect Java source code & algorithms...
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [PELock/Simple-Polymorphic-Engine-SPE32](https://github.com/PELock/Simple-Polymorphic-Engine-SPE32) to [m0n0ph1/Simple-Polymorphic-Engine-SPE32](https://github.com/m0n0ph1/Simple-Polymorphic-Engine-SPE32)
+  > Simple Polymorphic Engine (SPE32) is a simple polymorphic engine for encrypting code and data. It is...
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [PELock/JObfuscator](https://github.com/PELock/JObfuscator) to [m0n0ph1/JObfuscator](https://github.com/m0n0ph1/JObfuscator)
+  > JObfuscator is a source code obfuscator for the Java language. Protect Java source code & algorithms...
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [PELock/CrackMeZ3S-CTF-CrackMe-Tutorial](https://github.com/PELock/CrackMeZ3S-CTF-CrackMe-Tutorial)
+  > How to write a CrackMe for a CTF competition. Source code, technical explanation, anti-debugging and...
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [PELock/CrackMeZ3S-CTF-CrackMe-Tutorial](https://github.com/PELock/CrackMeZ3S-CTF-CrackMe-Tutorial) to [m0n0ph1/CrackMeZ3S-CTF-CrackMe-Tutorial](https://github.com/m0n0ph1/CrackMeZ3S-CTF-CrackMe-Tutorial)
+  > How to write a CrackMe for a CTF competition. Source code, technical explanation, anti-debugging and...
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [PELock/CMemPatch](https://github.com/PELock/CMemPatch)
+  > A simple class in C++ to load and read/write process memory, it comes with an example of how to decr...
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [PELock/CMemPatch](https://github.com/PELock/CMemPatch) to [m0n0ph1/CMemPatch](https://github.com/m0n0ph1/CMemPatch)
+  > A simple class in C++ to load and read/write process memory, it comes with an example of how to decr...
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [PELock/starter](https://github.com/PELock/starter)
+  > A small utility to run raw code chunks in the executable memory area.
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [PELock/starter](https://github.com/PELock/starter) to [m0n0ph1/starter](https://github.com/m0n0ph1/starter)
+  > A small utility to run raw code chunks in the executable memory area.
+
+### [mborgerson](https://github.com/mborgerson)
+- 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [timelinize/timelinize](https://github.com/timelinize/timelinize)
+  > Store your data from all your accounts and devices in a single cohesive timeline on your own compute...
+- 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
+  > The most customizable typing website with a minimalistic design and a ton of features. Test yourself...
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [tyilo/cargo-fibonacci-numbers](https://github.com/tyilo/cargo-fibonacci-numbers)
@@ -239,7 +341,11 @@
 - 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [dotnet/msbuild](https://github.com/dotnet/msbuild)
   > The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
 
+### [zznop](https://github.com/zznop)
+- 🌟 👤 [zznop](https://github.com/zznop) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
+  > Multi-architecture emulation for the modern era.
+
 
 ---
-*最后更新于 2025-10-07 21:38:52 UTC*
+*最后更新于 2025-10-07 22:20:35 UTC*
 *历史记录保存在 `archive` 目录中。*
