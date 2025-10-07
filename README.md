@@ -4,8 +4,11 @@
 
 ## 今日动态
 
-今天还没有新的公开动态。
+### [dodola](https://github.com/dodola)
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [realtime-ai/realtime-audio-sdk](https://github.com/realtime-ai/realtime-audio-sdk)
+  > Realtime Audio SDK for the Web — audio capture, echo cancellation (AEC), voice activity detection (V...
+
 
 ---
-*最后更新于 2025-10-07 10:43:36 UTC*
+*最后更新于 2025-10-07 11:18:42 UTC*
 *历史记录保存在 `archive` 目录中。*
