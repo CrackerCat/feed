@@ -23,6 +23,16 @@
 - 🌟 👤 [MJx0](https://github.com/MJx0) Starred [Metick/DMALibrary](https://github.com/Metick/DMALibrary)
   > Simple but extensive library for DMA users, made for gamehacking
 
+### [NS-Sp4ce](https://github.com/NS-Sp4ce)
+- 🌟 👤 [NS-Sp4ce](https://github.com/NS-Sp4ce) Starred [qi4L/JYso](https://github.com/qi4L/JYso)
+  >  JNDIExploit or a ysoserial.
+- 🌟 👤 [NS-Sp4ce](https://github.com/NS-Sp4ce) Starred [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule)
+  > 益达规则仓库
+- 🌟 👤 [NS-Sp4ce](https://github.com/NS-Sp4ce) Starred [Criogaid/CMModemPasswordRetrieval](https://github.com/Criogaid/CMModemPasswordRetrieval)
+  > 中国移动光猫超级管理员账户CMCCAdmin密码获取，适用于HG系列，仅测试于HG6821M及HG6042A1
+- 🌟 👤 [NS-Sp4ce](https://github.com/NS-Sp4ce) Starred [Big1moster/catvm](https://github.com/Big1moster/catvm)
+  > 志远补环境框架视频配套完结版
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [aarondl/authboss](https://github.com/aarondl/authboss)
   > The boss of http auth.
@@ -105,6 +115,9 @@
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [YassineLafryhi/SwiftySpell](https://github.com/YassineLafryhi/SwiftySpell)
   > A tool for checking spelling in Swift code
 
+### [feicong](https://github.com/feicong)
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [Kernel-SU/ksuinit](https://github.com/Kernel-SU/ksuinit) to [feicong/ksuinit](https://github.com/feicong/ksuinit)
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [namazso/NtDriverTool](https://github.com/namazso/NtDriverTool) to [gmh5225/NtDriverTool](https://github.com/gmh5225/NtDriverTool)
   > Vibecoded DriverView except not only view.
@@ -129,6 +142,10 @@
   > A very simple and easy to understand RISC-V core.
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [amtp-protocol/amtp](https://github.com/amtp-protocol/amtp)
   > Agent Message Transfer Protocol  is a federated communication protocol designed for reliable agent-t...
+
+### [jiji262](https://github.com/jiji262)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [lzA6/Search-2api](https://github.com/lzA6/Search-2api)
+  > 本仓库只做教学思路，都均在合理的范围中使用
 
 ### [kaganisildak](https://github.com/kaganisildak)
 - 🌟 👤 [kaganisildak](https://github.com/kaganisildak) Starred [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy)
@@ -169,7 +186,11 @@
 - 🍴 👤 [youyuge34](https://github.com/youyuge34) Forked [ejjoo/jekyll-theme-monos](https://github.com/ejjoo/jekyll-theme-monos) to [youyuge34/yousheng.github.io](https://github.com/youyuge34/yousheng.github.io)
   > Simple and Lightweight Theme for Jekyll
 
+### [zhaotianff](https://github.com/zhaotianff)
+- 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [dotnet/msbuild](https://github.com/dotnet/msbuild)
+  > The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
+
 
 ---
-*最后更新于 2025-10-07 16:28:34 UTC*
+*最后更新于 2025-10-07 16:48:32 UTC*
 *历史记录保存在 `archive` 目录中。*
