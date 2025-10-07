@@ -298,6 +298,18 @@
   > String Encryption and File Encryption for C/C++, C#, Visual Basic .NET, Delphi/Pascal/Object Pascal,...
 - 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [PELock/StringEncrypt-WebAPI](https://github.com/PELock/StringEncrypt-WebAPI) to [m0n0ph1/StringEncrypt-WebAPI](https://github.com/m0n0ph1/StringEncrypt-WebAPI)
   > String Encryption and File Encryption for C/C++, C#, Visual Basic .NET, Delphi/Pascal/Object Pascal,...
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing)
+  > A curated list of awesome resources related to executable packing
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [packing-box/peid](https://github.com/packing-box/peid)
+  > Python implementation of the Packed Executable iDentifier (PEiD)
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [packing-box/peid](https://github.com/packing-box/peid) to [m0n0ph1/PyPEiD](https://github.com/m0n0ph1/PyPEiD)
+  > Python implementation of the Packed Executable iDentifier (PEiD)
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [ExeinfoASL/ASL](https://github.com/ExeinfoASL/ASL)
+  > Free Windows Detector Software
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [m0n0ph1/shellcode-2](https://github.com/m0n0ph1/shellcode-2)
+  > x86 and x86-64 shellcodes for Windows, Mac OSX, Linux, BSD and Solaris
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [dolphingarlic/CompetitiveProgramming](https://github.com/dolphingarlic/CompetitiveProgramming)
+  > A collection of my solutions to various informatics olympiad problems
 
 ### [mborgerson](https://github.com/mborgerson)
 - 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [timelinize/timelinize](https://github.com/timelinize/timelinize)
@@ -311,6 +323,10 @@
   > Write ViewModels for SwiftUI and Jetpack Compose only in Rust, powered by Mozilla UniFFI.
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL)
   > GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources suc...
+
+### [oblique](https://github.com/oblique)
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage)
+  > (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: ht...
 
 ### [progman](https://github.com/progman)
 - 🌟 👤 [progman](https://github.com/progman) Starred [moul/quicssh](https://github.com/moul/quicssh)
@@ -367,5 +383,5 @@
 
 
 ---
-*最后更新于 2025-10-07 22:40:37 UTC*
+*最后更新于 2025-10-07 23:19:59 UTC*
 *历史记录保存在 `archive` 目录中。*
