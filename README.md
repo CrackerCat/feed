@@ -4,9 +4,29 @@
 
 ## 今日动态
 
+### [Fyyre](https://github.com/Fyyre)
+- 🌟 👤 [Fyyre](https://github.com/Fyyre) Starred [noct-ml/echo-forge](https://github.com/noct-ml/echo-forge)
+  > EchoForge restores ChatGPT export freedom — transforming raw “Save Page As…” HTML into beautiful, st...
+
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [farazsth98/exploit-CVE-2025-39946](https://github.com/farazsth98/exploit-CVE-2025-39946)
+  > Exploit for CVE-2025-39946, a bug in the Linux kernel's net/tls subsystem.
+
+### [MJx0](https://github.com/MJx0)
+- 🌟 👤 [MJx0](https://github.com/MJx0) Starred [Spuckwaffel/UEDumper](https://github.com/Spuckwaffel/UEDumper)
+  > The most powerful Unreal Engine Dumper and Editor for UE 4.19 - 5.3
+- 🌟 👤 [MJx0](https://github.com/MJx0) Starred [Encryqed/Dumper-7](https://github.com/Encryqed/Dumper-7)
+  > Unreal Engine SDK Generator
+- 🌟 👤 [MJx0](https://github.com/MJx0) Starred [Metick/DMALibrary](https://github.com/Metick/DMALibrary)
+  > Simple but extensive library for DMA users, made for gamehacking
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [farazsth98/exploit-CVE-2025-39946](https://github.com/farazsth98/exploit-CVE-2025-39946)
   > Exploit for CVE-2025-39946, a bug in the Linux kernel's net/tls subsystem.
+
+### [SimonTheCoder](https://github.com/SimonTheCoder)
+- 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [Infisical/infisical](https://github.com/Infisical/infisical)
+  > Infisical is the open-source platform for secrets management, PKI, and SSH access.
 
 ### [WAY29](https://github.com/WAY29)
 - 🌟 👤 [WAY29](https://github.com/WAY29) Starred [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker)
@@ -28,9 +48,19 @@
 - 🍴 👤 [ahkehra](https://github.com/ahkehra) Forked [ZeltNamizake/DriFiCrack](https://github.com/ZeltNamizake/DriFiCrack) to [ahkehra/DriFiCrack](https://github.com/ahkehra/DriFiCrack)
   > Brute Force Tool to Crack Wi-Fi Passwords (Android Rooted Only)
 
+### [byt3n33dl3](https://github.com/byt3n33dl3)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [pimcore/pimcore](https://github.com/pimcore/pimcore)
+  > Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS ...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
+  > Community curated list of templates for the nuclei engine to find security vulnerabilities.
+
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [facebook/openzl](https://github.com/facebook/openzl)
   > A novel data compression framework
+
+### [cd-Crypton](https://github.com/cd-Crypton)
+- ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [aenime-project/.github](https://github.com/aenime-project/.github)
+  > Welcome to AENIME Project!
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [realtime-ai/realtime-audio-sdk](https://github.com/realtime-ai/realtime-audio-sdk)
@@ -63,11 +93,15 @@
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [noraj/flask-session-cookie-manager](https://github.com/noraj/flask-session-cookie-manager)
   > :cookie: Flask Session Cookie Decoder/Encoder
 
+### [taisuii](https://github.com/taisuii)
+- 🌟 👤 [taisuii](https://github.com/taisuii) Starred [win4r/AISuperDomain](https://github.com/win4r/AISuperDomain)
+  > Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers ...
+
 ### [youyuge34](https://github.com/youyuge34)
 - 🍴 👤 [youyuge34](https://github.com/youyuge34) Forked [ejjoo/jekyll-theme-monos](https://github.com/ejjoo/jekyll-theme-monos) to [youyuge34/yousheng.github.io](https://github.com/youyuge34/yousheng.github.io)
   > Simple and Lightweight Theme for Jekyll
 
 
 ---
-*最后更新于 2025-10-07 12:49:00 UTC*
+*最后更新于 2025-10-07 13:32:15 UTC*
 *历史记录保存在 `archive` 目录中。*
