@@ -65,6 +65,10 @@
 - ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [aenime-project/.github](https://github.com/aenime-project/.github)
   > Welcome to AENIME Project!
 
+### [codingsf](https://github.com/codingsf)
+- 🌟 👤 [codingsf](https://github.com/codingsf) Starred [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook)
+  > :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
+
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [realtime-ai/realtime-audio-sdk](https://github.com/realtime-ai/realtime-audio-sdk)
   > Realtime Audio SDK for the Web — audio capture, echo cancellation (AEC), voice activity detection (V...
@@ -79,6 +83,23 @@
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [eliblock/less-advanced-security](https://github.com/eliblock/less-advanced-security)
   > Bring-your-own PR annotations to any tool which outputs sarif
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [openai/chatkit-js](https://github.com/openai/chatkit-js)
+- ✨ 👤 [dwisiswant0](https://github.com/dwisiswant0) Created new repo [dwisiswant0/pwd](https://github.com/dwisiswant0/pwd)
+- ✨ 👤 [dwisiswant0](https://github.com/dwisiswant0) Created new repo [dwisiswant0/CVE-2025-46817](https://github.com/dwisiswant0/CVE-2025-46817)
+  > CVE-2025-46817 – Redis Lua unpack Integer Overflow (Potential RCE)
+- ✨ 👤 [dwisiswant0](https://github.com/dwisiswant0) Created new repo [dwisiswant0/CVE-2025-46818](https://github.com/dwisiswant0/CVE-2025-46818)
+  > CVE-2025-46818 – Redis Lua Sandbox Cross-User Escape
+- ✨ 👤 [dwisiswant0](https://github.com/dwisiswant0) Created new repo [dwisiswant0/CVE-2025-46819](https://github.com/dwisiswant0/CVE-2025-46819)
+  > CVE-2025-46819 – Redis Lua Long-String Delimiter Out-of-Bounds Read
+- ✨ 👤 [dwisiswant0](https://github.com/dwisiswant0) Created new repo [dwisiswant0/CVE-2025-49844](https://github.com/dwisiswant0/CVE-2025-49844)
+  > CVE-2025-49844 – Redis Lua Parser Use-After-Free
+
+### [einverne](https://github.com/einverne)
+- 🌟 👤 [einverne](https://github.com/einverne) Starred [xelaj/mtproto](https://github.com/xelaj/mtproto)
+  > 🦋 Full-native go implementation of Telegram API
+
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [YassineLafryhi/SwiftySpell](https://github.com/YassineLafryhi/SwiftySpell)
+  > A tool for checking spelling in Swift code
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [namazso/NtDriverTool](https://github.com/namazso/NtDriverTool) to [gmh5225/NtDriverTool](https://github.com/gmh5225/NtDriverTool)
@@ -116,6 +137,10 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL)
   > GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources suc...
 
+### [progman](https://github.com/progman)
+- 🌟 👤 [progman](https://github.com/progman) Starred [moul/quicssh](https://github.com/moul/quicssh)
+  > SSH over QUIC
+
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [noraj/flask-session-cookie-manager](https://github.com/noraj/flask-session-cookie-manager)
   > :cookie: Flask Session Cookie Decoder/Encoder
@@ -130,5 +155,5 @@
 
 
 ---
-*最后更新于 2025-10-07 15:25:42 UTC*
+*最后更新于 2025-10-07 15:43:16 UTC*
 *历史记录保存在 `archive` 目录中。*
