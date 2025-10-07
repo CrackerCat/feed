@@ -104,6 +104,8 @@
   > :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer)
   > A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
+- 🌟 👤 [codingsf](https://github.com/codingsf) Starred [baksmali/smali](https://github.com/baksmali/smali)
+  > smali and baksmali - release artifacts for all versions (v3 by @google, v2 and v1 by @JesusFreke)
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [realtime-ai/realtime-audio-sdk](https://github.com/realtime-ai/realtime-audio-sdk)
@@ -239,5 +241,5 @@
 
 
 ---
-*最后更新于 2025-10-07 21:19:08 UTC*
+*最后更新于 2025-10-07 21:38:52 UTC*
 *历史记录保存在 `archive` 目录中。*
