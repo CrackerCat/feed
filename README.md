@@ -176,6 +176,10 @@
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [noraj/flask-session-cookie-manager](https://github.com/noraj/flask-session-cookie-manager)
   > :cookie: Flask Session Cookie Decoder/Encoder
 
+### [rushiiMachine](https://github.com/rushiiMachine)
+- 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
+  > More Expressive InstallerX !
+
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
   > On-device TTS model by Neuphonic
@@ -198,5 +202,5 @@
 
 
 ---
-*最后更新于 2025-10-07 17:20:25 UTC*
+*最后更新于 2025-10-07 17:40:59 UTC*
 *历史记录保存在 `archive` 目录中。*
