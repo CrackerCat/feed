@@ -23,6 +23,10 @@
 - 🌟 👤 [MJx0](https://github.com/MJx0) Starred [Metick/DMALibrary](https://github.com/Metick/DMALibrary)
   > Simple but extensive library for DMA users, made for gamehacking
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [aarondl/authboss](https://github.com/aarondl/authboss)
+  > The boss of http auth.
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [farazsth98/exploit-CVE-2025-39946](https://github.com/farazsth98/exploit-CVE-2025-39946)
   > Exploit for CVE-2025-39946, a bug in the Linux kernel's net/tls subsystem.
@@ -111,6 +115,8 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) to [gmh5225/aiohttp](https://github.com/gmh5225/aiohttp)
   > Asynchronous HTTP client/server framework for asyncio and Python
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Infisical/scoop-infisical](https://github.com/Infisical/scoop-infisical) to [gmh5225/scoop-infisical](https://github.com/gmh5225/scoop-infisical)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [inistory/STONE-watermarking](https://github.com/inistory/STONE-watermarking) to [gmh5225/STONE-watermarking](https://github.com/gmh5225/STONE-watermarking)
+  > Official repository of the paper: Marking Code Without Breaking It: Code Watermarking for Detecting ...
 
 ### [iPower](https://github.com/iPower)
 - 🌟 👤 [iPower](https://github.com/iPower) Starred [namazso/NtDriverTool](https://github.com/namazso/NtDriverTool)
@@ -140,14 +146,24 @@
 ### [progman](https://github.com/progman)
 - 🌟 👤 [progman](https://github.com/progman) Starred [moul/quicssh](https://github.com/moul/quicssh)
   > SSH over QUIC
+- 🌟 👤 [progman](https://github.com/progman) Starred [francoismichel/ssh3](https://github.com/francoismichel/ssh3)
+  > SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/23...
 
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [noraj/flask-session-cookie-manager](https://github.com/noraj/flask-session-cookie-manager)
   > :cookie: Flask Session Cookie Decoder/Encoder
 
+### [semlinker](https://github.com/semlinker)
+- 🌟 👤 [semlinker](https://github.com/semlinker) Starred [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
+  > On-device TTS model by Neuphonic
+
 ### [taisuii](https://github.com/taisuii)
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [win4r/AISuperDomain](https://github.com/win4r/AISuperDomain)
   > Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers ...
+
+### [wishihab](https://github.com/wishihab)
+- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [webmin/webmin](https://github.com/webmin/webmin)
+  > Powerful and flexible web-based server management control panel
 
 ### [youyuge34](https://github.com/youyuge34)
 - 🍴 👤 [youyuge34](https://github.com/youyuge34) Forked [ejjoo/jekyll-theme-monos](https://github.com/ejjoo/jekyll-theme-monos) to [youyuge34/yousheng.github.io](https://github.com/youyuge34/yousheng.github.io)
@@ -155,5 +171,5 @@
 
 
 ---
-*最后更新于 2025-10-07 15:43:16 UTC*
+*最后更新于 2025-10-07 16:28:34 UTC*
 *历史记录保存在 `archive` 目录中。*
