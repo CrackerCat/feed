@@ -37,6 +37,10 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [aarondl/authboss](https://github.com/aarondl/authboss)
   > The boss of http auth.
 
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [itsHanibee/infrared](https://github.com/itsHanibee/infrared)
+  > Infrared on Digital Cameras
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [farazsth98/exploit-CVE-2025-39946](https://github.com/farazsth98/exploit-CVE-2025-39946)
   > Exploit for CVE-2025-39946, a bug in the Linux kernel's net/tls subsystem.
@@ -54,6 +58,10 @@
 ### [XiaoliChan](https://github.com/XiaoliChan)
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [roskeys/imsi-catcher](https://github.com/roskeys/imsi-catcher)
   > Implemented active IMSI catcher by modify srsran_4g project
+
+### [ZhongYeZi-meow](https://github.com/ZhongYeZi-meow)
+- 🌟 👤 [ZhongYeZi-meow](https://github.com/ZhongYeZi-meow) Starred [CrackerCat/page_fault_handler_hook](https://github.com/CrackerCat/page_fault_handler_hook)
+  > software watchpoints + physical page swapping on execute/read via page fault handler hooking
 
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [apprat/sober](https://github.com/apprat/sober)
@@ -172,6 +180,12 @@
 - 🌟 👤 [progman](https://github.com/progman) Starred [francoismichel/ssh3](https://github.com/francoismichel/ssh3)
   > SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/23...
 
+### [pwndorei](https://github.com/pwndorei)
+- 🌟 👤 [pwndorei](https://github.com/pwndorei) Starred [pwnfuzz/diffrays](https://github.com/pwnfuzz/diffrays)
+  > DiffRays is a research-oriented tool for binary patch diffing, designed to aid in vulnerability rese...
+- 🌟 👤 [pwndorei](https://github.com/pwndorei) Starred [ghostbyt3/patch-tuesday](https://github.com/ghostbyt3/patch-tuesday)
+  > Python script that fetches, analyzes, and reports Microsoft Patch Tuesday updates via the MSRC API —...
+
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [noraj/flask-session-cookie-manager](https://github.com/noraj/flask-session-cookie-manager)
   > :cookie: Flask Session Cookie Decoder/Encoder
@@ -202,5 +216,5 @@
 
 
 ---
-*最后更新于 2025-10-07 17:40:59 UTC*
+*最后更新于 2025-10-07 18:33:56 UTC*
 *历史记录保存在 `archive` 目录中。*
