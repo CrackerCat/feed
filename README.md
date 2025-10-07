@@ -131,6 +131,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [inistory/STONE-watermarking](https://github.com/inistory/STONE-watermarking) to [gmh5225/STONE-watermarking](https://github.com/gmh5225/STONE-watermarking)
   > Official repository of the paper: Marking Code Without Breaking It: Code Watermarking for Detecting ...
 
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [Flawww/WoW64Injection](https://github.com/Flawww/WoW64Injection) to [hzqst/WoW64Injection-fork](https://github.com/hzqst/WoW64Injection-fork)
+  > Proof of concept for injecting a 64-bit DLL into a 32-bit application
+
 ### [iPower](https://github.com/iPower)
 - 🌟 👤 [iPower](https://github.com/iPower) Starred [namazso/NtDriverTool](https://github.com/namazso/NtDriverTool)
   > Vibecoded DriverView except not only view.
@@ -142,6 +146,8 @@
   > A very simple and easy to understand RISC-V core.
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [amtp-protocol/amtp](https://github.com/amtp-protocol/amtp)
   > Agent Message Transfer Protocol  is a federated communication protocol designed for reliable agent-t...
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [mudita/MuditaOS](https://github.com/mudita/MuditaOS)
+  > Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure ...
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [lzA6/Search-2api](https://github.com/lzA6/Search-2api)
@@ -192,5 +198,5 @@
 
 
 ---
-*最后更新于 2025-10-07 16:48:32 UTC*
+*最后更新于 2025-10-07 17:20:25 UTC*
 *历史记录保存在 `archive` 目录中。*
