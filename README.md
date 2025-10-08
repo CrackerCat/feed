@@ -29,9 +29,17 @@
 - 🍴 👤 [CyberMonitor](https://github.com/CyberMonitor) Forked [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) to [CyberMonitor/BlueToolkit](https://github.com/CyberMonitor/BlueToolkit)
   >  BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover n...
 
+### [DeEpinGh0st](https://github.com/DeEpinGh0st)
+- 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [0xHJK/dumpall](https://github.com/0xHJK/dumpall)
+  > 一款信息泄漏利用工具，适用于.git/.svn/.DS_Store泄漏和目录列出
+
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [mumu0215/api_checker](https://github.com/mumu0215/api_checker)
   > burpsuit插件，解析swagger/openapi接口文档并进行请求，模拟参数方便渗透测试人员快速发现可用接口
+- 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [lennart-finke/gpt-oss](https://github.com/lennart-finke/gpt-oss)
+  > What does gpt-oss tell us about OpenAI's training data?
+- 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)
+  > CVE-2025-49844 (RediShell)
 
 ### [NeoMaster831](https://github.com/NeoMaster831)
 - 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [HyperSine/ida-rpyc](https://github.com/HyperSine/ida-rpyc)
@@ -85,6 +93,8 @@
 ### [jaredrummler](https://github.com/jaredrummler)
 - 🌟 👤 [jaredrummler](https://github.com/jaredrummler) Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)
   > Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, Ope...
+- 🌟 👤 [jaredrummler](https://github.com/jaredrummler) Starred [openai/snap-o](https://github.com/openai/snap-o)
+  > Lightweight Android screen capture tool for macOS
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [KomiMoe/Hikari](https://github.com/KomiMoe/Hikari)
@@ -147,5 +157,5 @@
 
 
 ---
-*最后更新于 2025-10-08 05:22:27 UTC*
+*最后更新于 2025-10-08 05:41:54 UTC*
 *历史记录保存在 `archive` 目录中。*
