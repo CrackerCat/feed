@@ -104,6 +104,8 @@
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [paper-design/paper-mono](https://github.com/paper-design/paper-mono)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
   > On-device TTS model by Neuphonic
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [LuoGen-AI/LuoGen-agent](https://github.com/LuoGen-AI/LuoGen-agent)
+  > 一键产出爆款视频：1.自动提取对标文案 2.自动进行文案仿写 3.自动根据文案声音克隆 4.自动生成数字人口播 5.自动添加字幕 6.自动添加背景音乐 7.自动添加视频标题 8.自动生成视频封面 9....
 
 ### [duanluan](https://github.com/duanluan)
 - 🌟 👤 [duanluan](https://github.com/duanluan) Starred [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
@@ -309,5 +311,5 @@
 
 
 ---
-*最后更新于 2025-10-08 11:18:45 UTC*
+*最后更新于 2025-10-08 11:39:26 UTC*
 *历史记录保存在 `archive` 目录中。*
