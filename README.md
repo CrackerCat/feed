@@ -55,6 +55,10 @@
 - 🌟 👤 [Ercilan](https://github.com/Ercilan) Starred [appknox/pyjarsigner](https://github.com/appknox/pyjarsigner)
   > Pure Python3 implementation of jarsigner to sign APK and JAR files
 
+### [H4ckForJob](https://github.com/H4ckForJob)
+- 🍴 👤 [H4ckForJob](https://github.com/H4ckForJob) Forked [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit) to [H4ckForJob/redis_exploit](https://github.com/H4ckForJob/redis_exploit)
+  > CVE-2025-49844 (RediShell)
+
 ### [HaifengSun-Kira](https://github.com/HaifengSun-Kira)
 - 🌟 👤 [HaifengSun-Kira](https://github.com/HaifengSun-Kira) Starred [InternLM/AcmeTrace](https://github.com/InternLM/AcmeTrace)
 
@@ -97,6 +101,10 @@
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [MrKai77/Loop](https://github.com/MrKai77/Loop)
   > Window management made elegant.
 
+### [PranavPurwar](https://github.com/PranavPurwar)
+- 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [Stremio/stremio-web](https://github.com/Stremio/stremio-web)
+  > Stremio - Freedom to Stream
+
 ### [QuasarApp](https://github.com/QuasarApp)
 - 🍴 👤 [QuasarApp](https://github.com/QuasarApp) Forked [cneben/QuickQanava](https://github.com/cneben/QuickQanava) to [QuasarApp/QuickQanava](https://github.com/QuasarApp/QuickQanava)
   > :link: C++17 network / graph visualization library - Qt6 / QML node editor.
@@ -122,6 +130,10 @@
   > It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - ✨ 👤 [Ylarod](https://github.com/Ylarod) Created new repo [Ylarod/ndk-clang](https://github.com/Ylarod/ndk-clang)
   > prebuilt ndk clang for ci usage
+
+### [b3x206](https://github.com/b3x206)
+- 🌟 👤 [b3x206](https://github.com/b3x206) Starred [xoofx/zio](https://github.com/xoofx/zio)
+  > A cross-platform abstract/virtual filesystem framework with many built-ins filesystems for .NET
 
 ### [cd-Crypton](https://github.com/cd-Crypton)
 - ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [cd-Crypton/m3u8-server](https://github.com/cd-Crypton/m3u8-server)
@@ -167,6 +179,7 @@
   > React hook library, ready to use, written in Typescript.
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [uidotdev/usehooks](https://github.com/uidotdev/usehooks)
   > A collection of modern, server-safe React hooks – from the ui.dev team
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
@@ -395,5 +408,5 @@
 
 
 ---
-*最后更新于 2025-10-08 15:24:47 UTC*
+*最后更新于 2025-10-08 15:43:04 UTC*
 *历史记录保存在 `archive` 目录中。*
