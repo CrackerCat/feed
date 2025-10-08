@@ -15,6 +15,8 @@
   > A curated list of awesome Ghidra materials
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) to [0xdea/android-security-awesome](https://github.com/0xdea/android-security-awesome)
   > A collection of android security related resources
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) to [0xdea/awesome-mobile-security](https://github.com/0xdea/awesome-mobile-security)
+  > An effort to build a single place for all useful android and iOS security related stuff. All referen...
 
 ### [1013503897](https://github.com/1013503897)
 - 🌟 👤 [1013503897](https://github.com/1013503897) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
@@ -50,6 +52,9 @@
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [PanosK92/SpartanEngine](https://github.com/PanosK92/SpartanEngine)
   > A game engine with an emphasis on real-time cutting-edge solutions
+
+### [CyberCraftsmanx](https://github.com/CyberCraftsmanx)
+- 🍴 👤 [CyberCraftsmanx](https://github.com/CyberCraftsmanx) Forked [developerrahulofficial/cool-pdf](https://github.com/developerrahulofficial/cool-pdf) to [CyberCraftsmanx/cool-pdf](https://github.com/CyberCraftsmanx/cool-pdf)
 
 ### [CyberMonitor](https://github.com/CyberMonitor)
 - 🌟 👤 [CyberMonitor](https://github.com/CyberMonitor) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -138,6 +143,12 @@
 ### [QuasarApp](https://github.com/QuasarApp)
 - 🍴 👤 [QuasarApp](https://github.com/QuasarApp) Forked [cneben/QuickQanava](https://github.com/cneben/QuickQanava) to [QuasarApp/QuickQanava](https://github.com/QuasarApp/QuickQanava)
   > :link: C++17 network / graph visualization library - Qt6 / QML node editor.
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [michalbednarski/ResourcePoison](https://github.com/michalbednarski/ResourcePoison)
+  > Writeup and exploit for CVE-2025-22441: Privilege escalation from installed app to SystemUI process ...
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [michalbednarski/ThisSeemsWrong](https://github.com/michalbednarski/ThisSeemsWrong)
+  > Writeup and exploit for CVE-2024-49746: Android's Parcel::continueWrite closing File Descriptors tha...
 
 ### [RicterZ](https://github.com/RicterZ)
 - ✨ 👤 [RicterZ](https://github.com/RicterZ) Created new repo [RicterZ/ffxiv-static](https://github.com/RicterZ/ffxiv-static)
@@ -284,6 +295,10 @@
   > Project for TylerMcGinnis.com's React Router course
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [uidotdev/typescript-tic-tac-toe](https://github.com/uidotdev/typescript-tic-tac-toe) to [gmh5225/typescript-tic-tac-toe](https://github.com/gmh5225/typescript-tic-tac-toe)
   > The mid-course project for the TypeScript course.
+
+### [h3h3qaq](https://github.com/h3h3qaq)
+- 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [SySS-Research/diffalayze](https://github.com/SySS-Research/diffalayze)
+  > LLM-based automated patch diffing
 
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [shjala/kfuzz](https://github.com/shjala/kfuzz)
@@ -512,6 +527,10 @@
 - 🌟 👤 [troldal](https://github.com/troldal) Starred [vittorioromeo/DODRocketsRaylib](https://github.com/vittorioromeo/DODRocketsRaylib)
   > Raylib implementation of my CppCon 2025 keynote demo (OOP vs AoS vs SoA)
 
+### [ttttmr](https://github.com/ttttmr)
+- 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [tw93/Mole](https://github.com/tw93/Mole)
+  > 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac
+
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
   > The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
@@ -529,6 +548,10 @@
   > Hex-Rays microcode API plugin for breaking an obfuscating compiler
 - 🍴 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Forked [RolfRolles/HexRaysDeob](https://github.com/RolfRolles/HexRaysDeob) to [xiaotujinbnb/HexRaysDeob](https://github.com/xiaotujinbnb/HexRaysDeob)
   > Hex-Rays microcode API plugin for breaking an obfuscating compiler
+
+### [y0xc](https://github.com/y0xc)
+- 🌟 👤 [y0xc](https://github.com/y0xc) Starred [CrackerCat/Portal](https://github.com/CrackerCat/Portal)
+  > Android Lab Fake Location Service
 
 ### [yichen115](https://github.com/yichen115)
 - 🌟 👤 [yichen115](https://github.com/yichen115) Starred [2977094657/BilibiliHistoryFetcher](https://github.com/2977094657/BilibiliHistoryFetcher)
@@ -555,8 +578,10 @@
   > 基于Python的开源量化交易平台开发框架
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [veighna-global/vnpy_futu](https://github.com/veighna-global/vnpy_futu)
   > VeighNa框架的富途证券交易接口
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [linux-china/dotenvx-rs](https://github.com/linux-china/dotenvx-rs)
+  > Dotenvx Rust SDK/CLI:  make .env safe
 
 
 ---
-*最后更新于 2025-10-08 22:41:08 UTC*
+*最后更新于 2025-10-08 23:20:03 UTC*
 *历史记录保存在 `archive` 目录中。*
