@@ -7,6 +7,8 @@
 ### [0xdea](https://github.com/0xdea)
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [fr0gger/awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) to [0xdea/awesome-ida-x64-olly-plugin](https://github.com/0xdea/awesome-ida-x64-olly-plugin)
   > A curated list of IDA x64DBG, Ghidra and OllyDBG plugins. 
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) to [0xdea/idaplugins-list](https://github.com/0xdea/idaplugins-list)
+  > A list of IDA Plugins
 
 ### [34306](https://github.com/34306)
 - 🌟 👤 [34306](https://github.com/34306) Starred [JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201](https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201)
@@ -56,6 +58,9 @@
 ### [NeoMaster831](https://github.com/NeoMaster831)
 - 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [HyperSine/ida-rpyc](https://github.com/HyperSine/ida-rpyc)
   > An IDA plugin that allows you call IDA python APIs from remote.
+
+### [People-11](https://github.com/People-11)
+- 🌟 👤 [People-11](https://github.com/People-11) Starred [People-11/Adobe-Block-Rule](https://github.com/People-11/Adobe-Block-Rule)
 
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [MrKai77/Loop](https://github.com/MrKai77/Loop)
@@ -127,6 +132,8 @@
   > Full-fledged Node.js on Android and iOS
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Stremio/stremio-beamup](https://github.com/Stremio/stremio-beamup) to [gmh5225/stremio-beamup](https://github.com/gmh5225/stremio-beamup)
   > 🛠️ A platform as a service (PaaS) hosting for Stremio addons: as easy a Heroku, without the restrict...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [adileo/squirreldisk](https://github.com/adileo/squirreldisk) to [gmh5225/squirreldisk](https://github.com/gmh5225/squirreldisk)
+  > Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
@@ -142,6 +149,10 @@
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [NVlabs/Fast-dLLM](https://github.com/NVlabs/Fast-dLLM)
   > Official implementation of "Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Ca...
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [NVlabs/OmniDrive](https://github.com/NVlabs/OmniDrive)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [uboger/LibraryManager](https://github.com/uboger/LibraryManager)
+  > JAVA GUI 图书馆管理系统
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Kaihua-Chen/cog-nvs](https://github.com/Kaihua-Chen/cog-nvs)
+  > [NeurIPS 2025] Official code for Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from M...
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [hkfires/nano-banana](https://github.com/hkfires/nano-banana)
@@ -214,6 +225,14 @@
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [galminyana/LKM](https://github.com/galminyana/LKM) to [rankalpha/LKM](https://github.com/rankalpha/LKM)
   > Examples on Linux Kernel Modules Hacking
 
+### [re-zero001](https://github.com/re-zero001)
+- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [SteamAutoCracks/Steam-auto-crack](https://github.com/SteamAutoCracks/Steam-auto-crack)
+  > Steam Game Automatic Cracker
+
+### [reveng007](https://github.com/reveng007)
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [RWXstoned/LdrShuffle](https://github.com/RWXstoned/LdrShuffle)
+  > Code execution/injection technique using DLL PEB module structure manipulation
+
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [rayon-rs/rayon](https://github.com/rayon-rs/rayon)
   > Rayon: A data parallelism library for Rust
@@ -242,5 +261,5 @@
 
 
 ---
-*最后更新于 2025-10-08 08:31:22 UTC*
+*最后更新于 2025-10-08 09:25:11 UTC*
 *历史记录保存在 `archive` 目录中。*
