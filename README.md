@@ -77,6 +77,8 @@
   > What does gpt-oss tell us about OpenAI's training data?
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)
   > CVE-2025-49844 (RediShell)
+- 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [JiuZero/z0scan](https://github.com/JiuZero/z0scan)
+  > Security tools for web vulnerability detection. | 兼具本地式与分布式优势、针对大类通用型Web漏洞、插件外部动态化导入的轻量级主被动扫描器
 
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [guozhigq/pilipala](https://github.com/guozhigq/pilipala) to [Lynnette177/pilipala](https://github.com/Lynnette177/pilipala)
@@ -171,6 +173,7 @@
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
   > A free, open source, and extensible speech-to-text application that works completely offline.
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
 
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [brillm05/BriLLM0.5](https://github.com/brillm05/BriLLM0.5)
@@ -281,6 +284,8 @@
   > AI agent for autonomous cyber operations
 - 🌟 👤 [kost](https://github.com/kost) Starred [trailofbits/algo](https://github.com/trailofbits/algo)
   > Set up a personal VPN in the cloud
+- 🌟 👤 [kost](https://github.com/kost) Starred [snovvcrash/PPN](https://github.com/snovvcrash/PPN)
+  > Pentester's Promiscuous Notebook
 
 ### [lixeon](https://github.com/lixeon)
 - 🌟 👤 [lixeon](https://github.com/lixeon) Starred [lelehub/udpxy-IPTV](https://github.com/lelehub/udpxy-IPTV)
@@ -424,5 +429,5 @@
 
 
 ---
-*最后更新于 2025-10-08 16:28:54 UTC*
+*最后更新于 2025-10-08 16:48:47 UTC*
 *历史记录保存在 `archive` 目录中。*
