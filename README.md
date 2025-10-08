@@ -61,6 +61,10 @@
 - 🌟 👤 [TheN00bBuilder](https://github.com/TheN00bBuilder) Starred [dgl/cve-2025-61984-poc](https://github.com/dgl/cve-2025-61984-poc)
   > PoC for OpenSSH ProxyCommand CVE-2025-61984
 
+### [XiaoliChan](https://github.com/XiaoliChan)
+- 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [Hagrid29/BOF-DCOMPotato-PrintNotify](https://github.com/Hagrid29/BOF-DCOMPotato-PrintNotify)
+  > Cobalt Strike Beacon Object File (BOF) that obtain SYSTEM privilege with SeImpersonate privilege by ...
+
 ### [Ylarod](https://github.com/Ylarod)
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [fuqiuluo/inkwell](https://github.com/fuqiuluo/inkwell) to [Ylarod/inkwell](https://github.com/Ylarod/inkwell)
   > It's a New Kind of Wrapper for Exposing LLVM (Safely)
@@ -73,6 +77,8 @@
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [paper-design/paper-mono](https://github.com/paper-design/paper-mono)
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
+  > On-device TTS model by Neuphonic
 
 ### [duanluan](https://github.com/duanluan)
 - 🌟 👤 [duanluan](https://github.com/duanluan) Starred [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
@@ -107,6 +113,12 @@
   > Walrus: A high performance Write Ahead Log (WAL) in Rust
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mshumer/sora-extend](https://github.com/mshumer/sora-extend) to [gmh5225/sora-extend](https://github.com/gmh5225/sora-extend)
   > Generate long Sora 2 videos that exceed OpenAI's native 12-second limit
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Stremio/stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) to [gmh5225/stremio-addon-sdk](https://github.com/gmh5225/stremio-addon-sdk)
+  > 🧙 A Node.js SDK for creating and publishing Stremio add-ons
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Stremio/nodejs-mobile](https://github.com/Stremio/nodejs-mobile) to [gmh5225/nodejs-mobile](https://github.com/gmh5225/nodejs-mobile)
+  > Full-fledged Node.js on Android and iOS
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Stremio/stremio-beamup](https://github.com/Stremio/stremio-beamup) to [gmh5225/stremio-beamup](https://github.com/gmh5225/stremio-beamup)
+  > 🛠️ A platform as a service (PaaS) hosting for Stremio addons: as easy a Heroku, without the restrict...
 
 ### [jaredrummler](https://github.com/jaredrummler)
 - 🌟 👤 [jaredrummler](https://github.com/jaredrummler) Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)
@@ -162,6 +174,18 @@
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
   > On-device TTS model by Neuphonic
 
+### [natsumerinchan](https://github.com/natsumerinchan)
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [YuriSizuku/win-Override](https://github.com/YuriSizuku/win-Override)
+  > tools for windows game mod (localization) without covering origin file
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [YuriSizuku/OnscripterYuri](https://github.com/YuriSizuku/OnscripterYuri)
+  > An enhancement ONScripter project porting to many platforms, especially web. 
+
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [dreautall/waterfly-iii](https://github.com/dreautall/waterfly-iii)
+  > Unofficial Android App for Firefly III, a free and open source personal finance manager.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [mtotschnig/MyExpenses](https://github.com/mtotschnig/MyExpenses)
+  > GPL licenced Android Expense Tracking App
+
 ### [pinwhell](https://github.com/pinwhell)
 - 🌟 👤 [pinwhell](https://github.com/pinwhell) Starred [Abdo-Nano/LibraryManagmentSystem](https://github.com/Abdo-Nano/LibraryManagmentSystem)
 
@@ -187,7 +211,13 @@
 - 🌟 👤 [yichen115](https://github.com/yichen115) Starred [2977094657/BilibiliHistoryFetcher](https://github.com/2977094657/BilibiliHistoryFetcher)
   > 获取b站历史记录，一键下载用户所有的视频，动态，收藏夹，生成详细的年度总结，自动化任务，下面链接是对应前端
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [longportapp/openapi](https://github.com/longportapp/openapi)
+  > LongPort OpenAPI SDK Base.
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [turbot/steampipe](https://github.com/turbot/steampipe)
+  > Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
+
 
 ---
-*最后更新于 2025-10-08 06:34:29 UTC*
+*最后更新于 2025-10-08 07:21:51 UTC*
 *历史记录保存在 `archive` 目录中。*
