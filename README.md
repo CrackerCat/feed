@@ -13,6 +13,8 @@
   > An interactive list of plugins for hex-rays' IDA Pro
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [AllsafeCyberSecurity/awesome-ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra) to [0xdea/awesome-ghidra](https://github.com/0xdea/awesome-ghidra)
   > A curated list of awesome Ghidra materials
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) to [0xdea/android-security-awesome](https://github.com/0xdea/android-security-awesome)
+  > A collection of android security related resources
 
 ### [1013503897](https://github.com/1013503897)
 - 🌟 👤 [1013503897](https://github.com/1013503897) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
@@ -171,6 +173,8 @@
   > Writeup and exploit for CVE-2024-34740, integer overflow in Android's BinaryXmlSerializer to system_...
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [michalbednarski/ThisSeemsWrong](https://github.com/michalbednarski/ThisSeemsWrong)
   > Writeup and exploit for CVE-2024-49746: Android's Parcel::continueWrite closing File Descriptors tha...
+- 🌟 👤 [canyie](https://github.com/canyie) Starred [michalbednarski/ResourcePoison](https://github.com/michalbednarski/ResourcePoison)
+  > Writeup and exploit for CVE-2025-22441: Privilege escalation from installed app to SystemUI process ...
 
 ### [cd-Crypton](https://github.com/cd-Crypton)
 - ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [cd-Crypton/m3u8-server](https://github.com/cd-Crypton/m3u8-server)
@@ -554,5 +558,5 @@
 
 
 ---
-*最后更新于 2025-10-08 22:21:04 UTC*
+*最后更新于 2025-10-08 22:41:08 UTC*
 *历史记录保存在 `archive` 目录中。*
