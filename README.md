@@ -33,6 +33,10 @@
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [0xHJK/dumpall](https://github.com/0xHJK/dumpall)
   > 一款信息泄漏利用工具，适用于.git/.svn/.DS_Store泄漏和目录列出
 
+### [Him188](https://github.com/Him188)
+- 🌟 👤 [Him188](https://github.com/Him188) Starred [open-ani/animeko](https://github.com/open-ani/animeko)
+  > 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
+
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [mumu0215/api_checker](https://github.com/mumu0215/api_checker)
   > burpsuit插件，解析swagger/openapi接口文档并进行请求，模拟参数方便渗透测试人员快速发现可用接口
@@ -49,6 +53,10 @@
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [MrKai77/Loop](https://github.com/MrKai77/Loop)
   > Window management made elegant.
 
+### [SimonTheCoder](https://github.com/SimonTheCoder)
+- 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+  > Comfortably monitor your Internet traffic 🕵️‍♂️
+
 ### [TheN00bBuilder](https://github.com/TheN00bBuilder)
 - 🌟 👤 [TheN00bBuilder](https://github.com/TheN00bBuilder) Starred [dgl/cve-2025-61984-poc](https://github.com/dgl/cve-2025-61984-poc)
   > PoC for OpenSSH ProxyCommand CVE-2025-61984
@@ -58,6 +66,10 @@
   > It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - ✨ 👤 [Ylarod](https://github.com/Ylarod) Created new repo [Ylarod/ndk-clang](https://github.com/Ylarod/ndk-clang)
   > prebuilt ndk clang for ci usage
+
+### [cd-Crypton](https://github.com/cd-Crypton)
+- ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [cd-Crypton/m3u8-server](https://github.com/cd-Crypton/m3u8-server)
+  > M3U8 Proxy Server for CORS
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [paper-design/paper-mono](https://github.com/paper-design/paper-mono)
@@ -71,6 +83,10 @@
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
   > A free, open source, and extensible speech-to-text application that works completely offline.
+
+### [elllusion](https://github.com/elllusion)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [brillm05/BriLLM0.5](https://github.com/brillm05/BriLLM0.5)
+- 🍴 👤 [elllusion](https://github.com/elllusion) Forked [brillm05/BriLLM0.5](https://github.com/brillm05/BriLLM0.5) to [elllusion/BriLLM](https://github.com/elllusion/BriLLM)
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
@@ -89,6 +105,8 @@
   > Simple-ish app using Shizuku to install APKs on-device with advanced options
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nubskr/walrus](https://github.com/nubskr/walrus) to [gmh5225/walrus](https://github.com/gmh5225/walrus)
   > Walrus: A high performance Write Ahead Log (WAL) in Rust
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mshumer/sora-extend](https://github.com/mshumer/sora-extend) to [gmh5225/sora-extend](https://github.com/gmh5225/sora-extend)
+  > Generate long Sora 2 videos that exceed OpenAI's native 12-second limit
 
 ### [jaredrummler](https://github.com/jaredrummler)
 - 🌟 👤 [jaredrummler](https://github.com/jaredrummler) Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)
@@ -96,11 +114,25 @@
 - 🌟 👤 [jaredrummler](https://github.com/jaredrummler) Starred [openai/snap-o](https://github.com/openai/snap-o)
   > Lightweight Android screen capture tool for macOS
 
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [NVlabs/Fast-dLLM](https://github.com/NVlabs/Fast-dLLM)
+  > Official implementation of "Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Ca...
+
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [KomiMoe/Hikari](https://github.com/KomiMoe/Hikari)
   > Yet another llvm based obfuscator based on goron.
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [buyi06/-Linux-](https://github.com/buyi06/-Linux-)
   > 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [tianyaxiang/neurapress](https://github.com/tianyaxiang/neurapress)
+  > NeuraPress
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload)
+  > 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [RoversX/LaunchNext](https://github.com/RoversX/LaunchNext)
+  > Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free.
+
+### [lixeon](https://github.com/lixeon)
+- 🌟 👤 [lixeon](https://github.com/lixeon) Starred [lelehub/udpxy-IPTV](https://github.com/lelehub/udpxy-IPTV)
+  > udpxy+IPTV实现组播流量转单播
 
 ### [m0n0ph1](https://github.com/m0n0ph1)
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [nmap/npcap](https://github.com/nmap/npcap)
@@ -157,5 +189,5 @@
 
 
 ---
-*最后更新于 2025-10-08 05:41:54 UTC*
+*最后更新于 2025-10-08 06:34:29 UTC*
 *历史记录保存在 `archive` 目录中。*
