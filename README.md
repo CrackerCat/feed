@@ -27,6 +27,10 @@
   > Implementation of the ISO 15118 Communication Protocol (-2, -20, -8)
 - 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [EVerest/cbexigen](https://github.com/EVerest/cbexigen)
   > cbExiGen - The V2GTP EXI codec generator for cbV2G
+- 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [LeChaEgg/CAN_27930_Decode](https://github.com/LeChaEgg/CAN_27930_Decode)
+  > To decode the message log file between the EV Charger and BMS with GB/T 27930-2015 standard. The sou...
+- 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [paradiso989/C-Code-for-GB-T27930-2015-Protocol](https://github.com/paradiso989/C-Code-for-GB-T27930-2015-Protocol)
+  > A C library for implementing GB/T 27930-2015, the Chinese national protocol for electric vehicle (EV...
 
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [sfepy/sfepy](https://github.com/sfepy/sfepy)
@@ -68,6 +72,10 @@
 ### [Ercilan](https://github.com/Ercilan)
 - 🌟 👤 [Ercilan](https://github.com/Ercilan) Starred [appknox/pyjarsigner](https://github.com/appknox/pyjarsigner)
   > Pure Python3 implementation of jarsigner to sign APK and JAR files
+
+### [FunnyWolf](https://github.com/FunnyWolf)
+- 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin)
+  > 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 
 ### [H4ckForJob](https://github.com/H4ckForJob)
 - 🍴 👤 [H4ckForJob](https://github.com/H4ckForJob) Forked [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit) to [H4ckForJob/redis_exploit](https://github.com/H4ckForJob/redis_exploit)
@@ -266,6 +274,10 @@
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [shjala/kfuzz](https://github.com/shjala/kfuzz)
   > KFuzz | Windows Kernel Code Coverage and Instrumentation
+
+### [hahwul](https://github.com/hahwul)
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [OWASP/nest-schema](https://github.com/OWASP/nest-schema)
+  > OWASP Schema
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
@@ -471,6 +483,12 @@
 - 🍴 👤 [xaitax](https://github.com/xaitax) Forked [litemars/hARMless](https://github.com/litemars/hARMless) to [xaitax/hARMless](https://github.com/xaitax/hARMless)
   > A ARM64 Linux ELF Packer/Loader
 
+### [xiaotujinbnb](https://github.com/xiaotujinbnb)
+- 🌟 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Starred [RolfRolles/HexRaysDeob](https://github.com/RolfRolles/HexRaysDeob)
+  > Hex-Rays microcode API plugin for breaking an obfuscating compiler
+- 🍴 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Forked [RolfRolles/HexRaysDeob](https://github.com/RolfRolles/HexRaysDeob) to [xiaotujinbnb/HexRaysDeob](https://github.com/xiaotujinbnb/HexRaysDeob)
+  > Hex-Rays microcode API plugin for breaking an obfuscating compiler
+
 ### [yichen115](https://github.com/yichen115)
 - 🌟 👤 [yichen115](https://github.com/yichen115) Starred [2977094657/BilibiliHistoryFetcher](https://github.com/2977094657/BilibiliHistoryFetcher)
   > 获取b站历史记录，一键下载用户所有的视频，动态，收藏夹，生成详细的年度总结，自动化任务，下面链接是对应前端
@@ -494,8 +512,10 @@
   > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [vnpy/vnpy](https://github.com/vnpy/vnpy)
   > 基于Python的开源量化交易平台开发框架
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [veighna-global/vnpy_futu](https://github.com/veighna-global/vnpy_futu)
+  > VeighNa框架的富途证券交易接口
 
 
 ---
-*最后更新于 2025-10-08 19:39:08 UTC*
+*最后更新于 2025-10-08 20:25:00 UTC*
 *历史记录保存在 `archive` 目录中。*
