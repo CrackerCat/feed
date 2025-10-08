@@ -339,6 +339,10 @@
 - 🌟 👤 [modmuss50](https://github.com/modmuss50) Starred [jlfwong/speedscope](https://github.com/jlfwong/speedscope)
   > 🔬 A fast, interactive web-based viewer for performance profiles.
 
+### [monich](https://github.com/monich)
+- ✨ 👤 [monich](https://github.com/monich) Created new repo [monich/qrclip](https://github.com/monich/qrclip)
+  > Show the contents of the clipboard as a QR code
+
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
   > On-device TTS model by Neuphonic
@@ -437,5 +441,5 @@
 
 
 ---
-*最后更新于 2025-10-08 17:20:17 UTC*
+*最后更新于 2025-10-08 17:41:23 UTC*
 *历史记录保存在 `archive` 目录中。*
