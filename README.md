@@ -197,6 +197,8 @@
   > GKI Kernels with KernelSU & SUSFS
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [Numbersf/Action-Build-KernelSUNext](https://github.com/Numbersf/Action-Build-KernelSUNext) to [feicong/OnePlus-KernelSUNext](https://github.com/feicong/OnePlus-KernelSUNext)
   > Build OnePlus KernelSU Next Kernel
+- 🚀 👤 [feicong](https://github.com/feicong) Made [feicong/GKI_SukiSU](https://github.com/feicong/GKI_SukiSU) public
+  > 使用 SukiSU 和 SUSFS 的 GKI 内核
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [R0rt1z2/fenrir](https://github.com/R0rt1z2/fenrir) to [fengjixuchui/fenrir1](https://github.com/fengjixuchui/fenrir1)
@@ -262,6 +264,8 @@
   > [NeurIPS 2025] Official code for Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from M...
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [wuxudong/flashbot](https://github.com/wuxudong/flashbot)
   > support adb install through otg between two android phones
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
+  > OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [hkfires/nano-banana](https://github.com/hkfires/nano-banana)
@@ -326,6 +330,10 @@
 ### [mattiasgustavsson](https://github.com/mattiasgustavsson)
 - 🌟 👤 [mattiasgustavsson](https://github.com/mattiasgustavsson) Starred [invokr/tinyscrypt](https://github.com/invokr/tinyscrypt)
   > Tiny (<1000 LOC) SCrypt implementation
+
+### [merlinxcy](https://github.com/merlinxcy)
+- 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps)
+  > RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
 
 ### [modmuss50](https://github.com/modmuss50)
 - 🌟 👤 [modmuss50](https://github.com/modmuss50) Starred [jlfwong/speedscope](https://github.com/jlfwong/speedscope)
@@ -429,5 +437,5 @@
 
 
 ---
-*最后更新于 2025-10-08 16:48:47 UTC*
+*最后更新于 2025-10-08 17:20:17 UTC*
 *历史记录保存在 `archive` 目录中。*
