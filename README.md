@@ -163,6 +163,10 @@
   > Lightweight coding agent that runs in your terminal
 - ✨ 👤 [eastmountyxz](https://github.com/eastmountyxz) Created new repo [eastmountyxz/Codex-Web](https://github.com/eastmountyxz/Codex-Web)
   > Web AI
+- 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [damianStrojek/LLM-Network-Scanner](https://github.com/damianStrojek/LLM-Network-Scanner)
+  > LLM-Network-Scanner is a powerful tool that leverages the OpenAI API and advanced Natural Language P...
+- 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [NVIDIA/garak](https://github.com/NVIDIA/garak)
+  > the LLM vulnerability scanner
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
@@ -180,10 +184,16 @@
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [uidotdev/usehooks](https://github.com/uidotdev/usehooks)
   > A collection of modern, server-safe React hooks – from the ui.dev team
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [facebook/openzl](https://github.com/facebook/openzl)
+  > A novel data compression framework
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
   > Kernel-based Android Root Solution & KPM
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) to [feicong/GKI_KernelSU_SUSFS](https://github.com/feicong/GKI_KernelSU_SUSFS)
+  > GKI Kernels with KernelSU & SUSFS
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [Numbersf/Action-Build-KernelSUNext](https://github.com/Numbersf/Action-Build-KernelSUNext) to [feicong/OnePlus-KernelSUNext](https://github.com/feicong/OnePlus-KernelSUNext)
+  > Build OnePlus KernelSU Next Kernel
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [R0rt1z2/fenrir](https://github.com/R0rt1z2/fenrir) to [fengjixuchui/fenrir1](https://github.com/fengjixuchui/fenrir1)
@@ -269,6 +279,8 @@
 ### [kost](https://github.com/kost)
 - 🌟 👤 [kost](https://github.com/kost) Starred [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent)
   > AI agent for autonomous cyber operations
+- 🌟 👤 [kost](https://github.com/kost) Starred [trailofbits/algo](https://github.com/trailofbits/algo)
+  > Set up a personal VPN in the cloud
 
 ### [lixeon](https://github.com/lixeon)
 - 🌟 👤 [lixeon](https://github.com/lixeon) Starred [lelehub/udpxy-IPTV](https://github.com/lelehub/udpxy-IPTV)
@@ -277,6 +289,10 @@
 ### [luk1337](https://github.com/luk1337)
 - 🍴 👤 [luk1337](https://github.com/luk1337) Forked [DCMTK/dcmtk](https://github.com/DCMTK/dcmtk) to [luk1337/dcmtk](https://github.com/luk1337/dcmtk)
   > Official DCMTK Github Mirror
+
+### [luoyesiqiu](https://github.com/luoyesiqiu)
+- 🌟 👤 [luoyesiqiu](https://github.com/luoyesiqiu) Starred [ItsVixano-releases/LineageOS_xaga](https://github.com/ItsVixano-releases/LineageOS_xaga)
+  >  Otaserver for POCO X4 GT
 
 ### [m0n0ph1](https://github.com/m0n0ph1)
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [nmap/npcap](https://github.com/nmap/npcap)
@@ -408,5 +424,5 @@
 
 
 ---
-*最后更新于 2025-10-08 15:43:04 UTC*
+*最后更新于 2025-10-08 16:28:54 UTC*
 *历史记录保存在 `archive` 目录中。*
