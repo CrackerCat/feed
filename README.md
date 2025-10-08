@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [34306](https://github.com/34306)
+- 🌟 👤 [34306](https://github.com/34306) Starred [JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201](https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201)
+  > CVE-2025-31200 is a zero-day, zero-click RCE in iOS CoreAudio’s AudioConverterService, triggered by ...
+
 ### [CHYbeta](https://github.com/CHYbeta)
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)
   > CVE-2025-49844 (RediShell)
@@ -129,6 +133,11 @@
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [NVlabs/Fast-dLLM](https://github.com/NVlabs/Fast-dLLM)
   > Official implementation of "Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Ca...
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [NVlabs/OmniDrive](https://github.com/NVlabs/OmniDrive)
+
+### [jiji262](https://github.com/jiji262)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [hkfires/nano-banana](https://github.com/hkfires/nano-banana)
+  > Nanobanana - 基于 OpenRouter 的图片生成 Web UI
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [KomiMoe/Hikari](https://github.com/KomiMoe/Hikari)
@@ -219,5 +228,5 @@
 
 
 ---
-*最后更新于 2025-10-08 07:21:51 UTC*
+*最后更新于 2025-10-08 07:40:00 UTC*
 *历史记录保存在 `archive` 目录中。*
