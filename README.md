@@ -111,6 +111,9 @@
 - 🍴 👤 [QuasarApp](https://github.com/QuasarApp) Forked [cneben/QuickQanava](https://github.com/cneben/QuickQanava) to [QuasarApp/QuickQanava](https://github.com/QuasarApp/QuickQanava)
   > :link: C++17 network / graph visualization library - Qt6 / QML node editor.
 
+### [RicterZ](https://github.com/RicterZ)
+- ✨ 👤 [RicterZ](https://github.com/RicterZ) Created new repo [RicterZ/ffxiv-static](https://github.com/RicterZ/ffxiv-static)
+
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
   > Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -140,6 +143,10 @@
 ### [cd-Crypton](https://github.com/cd-Crypton)
 - ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [cd-Crypton/m3u8-server](https://github.com/cd-Crypton/m3u8-server)
   > M3U8 Proxy Server for CORS
+
+### [cn-kali-team](https://github.com/cn-kali-team)
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [emo-crab/asynq](https://github.com/emo-crab/asynq)
+  >  Simple, reliable, and efficient distributed task queue in Rust
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [paper-design/paper-mono](https://github.com/paper-design/paper-mono)
@@ -199,6 +206,8 @@
   > Build OnePlus KernelSU Next Kernel
 - 🚀 👤 [feicong](https://github.com/feicong) Made [feicong/GKI_SukiSU](https://github.com/feicong/GKI_SukiSU) public
   > 使用 SukiSU 和 SUSFS 的 GKI 内核
+- 🚀 👤 [feicong](https://github.com/feicong) Made [feicong/OnePlus_MKSU](https://github.com/feicong/OnePlus_MKSU) public
+  > 使用Github Action自动编译一加SukiSU内核
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [R0rt1z2/fenrir](https://github.com/R0rt1z2/fenrir) to [fengjixuchui/fenrir1](https://github.com/fengjixuchui/fenrir1)
@@ -343,6 +352,10 @@
 - ✨ 👤 [monich](https://github.com/monich) Created new repo [monich/qrclip](https://github.com/monich/qrclip)
   > Show the contents of the clipboard as a QR code
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [astral-sh/uv](https://github.com/astral-sh/uv) to [mrexodia/uv](https://github.com/mrexodia/uv)
+  > An extremely fast Python package and project manager, written in Rust.
+
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
   > On-device TTS model by Neuphonic
@@ -441,5 +454,5 @@
 
 
 ---
-*最后更新于 2025-10-08 17:41:23 UTC*
+*最后更新于 2025-10-08 18:34:01 UTC*
 *历史记录保存在 `archive` 目录中。*
