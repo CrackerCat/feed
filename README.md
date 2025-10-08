@@ -18,6 +18,10 @@
 - 🌟 👤 [34306](https://github.com/34306) Starred [JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201](https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201)
   > CVE-2025-31200 is a zero-day, zero-click RCE in iOS CoreAudio’s AudioConverterService, triggered by ...
 
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [sfepy/sfepy](https://github.com/sfepy/sfepy)
+  > Main SfePy repository
+
 ### [CHYbeta](https://github.com/CHYbeta)
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)
   > CVE-2025-49844 (RediShell)
@@ -275,6 +279,8 @@
   > support adb install through otg between two android phones
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
   > OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [facebookresearch/DiT](https://github.com/facebookresearch/DiT)
+  > Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [hkfires/nano-banana](https://github.com/hkfires/nano-banana)
@@ -299,6 +305,10 @@
   > Set up a personal VPN in the cloud
 - 🌟 👤 [kost](https://github.com/kost) Starred [snovvcrash/PPN](https://github.com/snovvcrash/PPN)
   > Pentester's Promiscuous Notebook
+
+### [leleliu008](https://github.com/leleliu008)
+- 🌟 👤 [leleliu008](https://github.com/leleliu008) Starred [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS)
+  > A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 
 ### [lixeon](https://github.com/lixeon)
 - 🌟 👤 [lixeon](https://github.com/lixeon) Starred [lelehub/udpxy-IPTV](https://github.com/lelehub/udpxy-IPTV)
@@ -344,6 +354,12 @@
 - 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps)
   > RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
 
+### [michalbednarski](https://github.com/michalbednarski)
+- ✨ 👤 [michalbednarski](https://github.com/michalbednarski) Created new repo [michalbednarski/AbxOverflow](https://github.com/michalbednarski/AbxOverflow)
+  > Writeup and exploit for CVE-2024-34740, integer overflow in Android's BinaryXmlSerializer to system_...
+- ✨ 👤 [michalbednarski](https://github.com/michalbednarski) Created new repo [michalbednarski/ThisSeemsWrong](https://github.com/michalbednarski/ThisSeemsWrong)
+  > Writeup and exploit for CVE-2024-49746: Android's Parcel::continueWrite closing File Descriptors tha...
+
 ### [modmuss50](https://github.com/modmuss50)
 - 🌟 👤 [modmuss50](https://github.com/modmuss50) Starred [jlfwong/speedscope](https://github.com/jlfwong/speedscope)
   > 🔬 A fast, interactive web-based viewer for performance profiles.
@@ -371,6 +387,8 @@
 ### [ni-qiuqiu](https://github.com/ni-qiuqiu)
 - 🌟 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Starred [fuqiuluo/amice](https://github.com/fuqiuluo/amice)
   > LLVM pass plugin developed based on LLVM , implemented in Rust, designed for obfuscator-llvm
+- 🌟 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Starred [codingbelief/arm-architecture-reference-manual-for-armv8-a](https://github.com/codingbelief/arm-architecture-reference-manual-for-armv8-a)
+  > ARM Architecture Reference Manual for ARMv8-A 中文解读
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [dreautall/waterfly-iii](https://github.com/dreautall/waterfly-iii)
@@ -420,6 +438,10 @@
 - 🌟 👤 [tijme](https://github.com/tijme) Starred [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent)
   > AI agent for autonomous cyber operations
 
+### [tranleduy2000](https://github.com/tranleduy2000)
+- 🌟 👤 [tranleduy2000](https://github.com/tranleduy2000) Starred [serilog/serilog-settings-configuration](https://github.com/serilog/serilog-settings-configuration)
+  > A Serilog configuration provider that reads from Microsoft.Extensions.Configuration
+
 ### [troldal](https://github.com/troldal)
 - 🌟 👤 [troldal](https://github.com/troldal) Starred [vittorioromeo/DODRocketsRaylib](https://github.com/vittorioromeo/DODRocketsRaylib)
   > Raylib implementation of my CppCon 2025 keynote demo (OOP vs AoS vs SoA)
@@ -454,5 +476,5 @@
 
 
 ---
-*最后更新于 2025-10-08 18:34:01 UTC*
+*最后更新于 2025-10-08 19:18:11 UTC*
 *历史记录保存在 `archive` 目录中。*
