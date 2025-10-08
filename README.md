@@ -9,6 +9,8 @@
   > A curated list of IDA x64DBG, Ghidra and OllyDBG plugins. 
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) to [0xdea/idaplugins-list](https://github.com/0xdea/idaplugins-list)
   > A list of IDA Plugins
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [vmallet/ida-plugins](https://github.com/vmallet/ida-plugins) to [0xdea/ida-plugins](https://github.com/0xdea/ida-plugins)
+  > An interactive list of plugins for hex-rays' IDA Pro
 
 ### [1013503897](https://github.com/1013503897)
 - 🌟 👤 [1013503897](https://github.com/1013503897) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
@@ -17,6 +19,14 @@
 ### [34306](https://github.com/34306)
 - 🌟 👤 [34306](https://github.com/34306) Starred [JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201](https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201)
   > CVE-2025-31200 is a zero-day, zero-click RCE in iOS CoreAudio’s AudioConverterService, triggered by ...
+
+### [Abbbbbi](https://github.com/Abbbbbi)
+- 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [SwitchEV/RISE-V2G](https://github.com/SwitchEV/RISE-V2G)
+  > The only fully-featured reference implementation of the Vehicle-2-Grid communication interface ISO 1...
+- 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [EcoG-io/iso15118](https://github.com/EcoG-io/iso15118)
+  > Implementation of the ISO 15118 Communication Protocol (-2, -20, -8)
+- 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [EVerest/cbexigen](https://github.com/EVerest/cbexigen)
+  > cbExiGen - The V2GTP EXI codec generator for cbV2G
 
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [sfepy/sfepy](https://github.com/sfepy/sfepy)
@@ -359,6 +369,8 @@
   > Writeup and exploit for CVE-2024-34740, integer overflow in Android's BinaryXmlSerializer to system_...
 - ✨ 👤 [michalbednarski](https://github.com/michalbednarski) Created new repo [michalbednarski/ThisSeemsWrong](https://github.com/michalbednarski/ThisSeemsWrong)
   > Writeup and exploit for CVE-2024-49746: Android's Parcel::continueWrite closing File Descriptors tha...
+- ✨ 👤 [michalbednarski](https://github.com/michalbednarski) Created new repo [michalbednarski/ResourcePoison](https://github.com/michalbednarski/ResourcePoison)
+  > Writeup and exploit for CVE-2025-22441: Privilege escalation from installed app to SystemUI process ...
 
 ### [modmuss50](https://github.com/modmuss50)
 - 🌟 👤 [modmuss50](https://github.com/modmuss50) Starred [jlfwong/speedscope](https://github.com/jlfwong/speedscope)
@@ -430,6 +442,11 @@
 - 🍴 👤 [sharkdp](https://github.com/sharkdp) Forked [python/typing](https://github.com/python/typing) to [sharkdp/typing](https://github.com/sharkdp/typing)
   > Python static typing home. Hosts the documentation and a user help forum.
 
+### [suifei](https://github.com/suifei)
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [USTB-806/memora](https://github.com/USTB-806/memora)
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon)
+  > Apple Silicon devices emulated on QEMU, currently only iPhone 11.
+
 ### [suzhelan](https://github.com/suzhelan)
 - 🌟 👤 [suzhelan](https://github.com/suzhelan) Starred [86dbs/dbsyncer](https://github.com/86dbs/dbsyncer)
   > DBSyncer（简称dbs）是一款开源的数据同步中间件，提供MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL等同步...
@@ -473,8 +490,12 @@
   > LongPort OpenAPI SDK Base.
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [turbot/steampipe](https://github.com/turbot/steampipe)
   > Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [vnpy/vnpy](https://github.com/vnpy/vnpy)
+  > 基于Python的开源量化交易平台开发框架
 
 
 ---
-*最后更新于 2025-10-08 19:18:11 UTC*
+*最后更新于 2025-10-08 19:39:08 UTC*
 *历史记录保存在 `archive` 目录中。*
