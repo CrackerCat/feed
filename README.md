@@ -11,6 +11,8 @@
   > A list of IDA Plugins
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [vmallet/ida-plugins](https://github.com/vmallet/ida-plugins) to [0xdea/ida-plugins](https://github.com/0xdea/ida-plugins)
   > An interactive list of plugins for hex-rays' IDA Pro
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [AllsafeCyberSecurity/awesome-ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra) to [0xdea/awesome-ghidra](https://github.com/0xdea/awesome-ghidra)
+  > A curated list of awesome Ghidra materials
 
 ### [1013503897](https://github.com/1013503897)
 - 🌟 👤 [1013503897](https://github.com/1013503897) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
@@ -164,6 +166,12 @@
 - 🌟 👤 [b3x206](https://github.com/b3x206) Starred [xoofx/zio](https://github.com/xoofx/zio)
   > A cross-platform abstract/virtual filesystem framework with many built-ins filesystems for .NET
 
+### [canyie](https://github.com/canyie)
+- 🌟 👤 [canyie](https://github.com/canyie) Starred [michalbednarski/AbxOverflow](https://github.com/michalbednarski/AbxOverflow)
+  > Writeup and exploit for CVE-2024-34740, integer overflow in Android's BinaryXmlSerializer to system_...
+- 🌟 👤 [canyie](https://github.com/canyie) Starred [michalbednarski/ThisSeemsWrong](https://github.com/michalbednarski/ThisSeemsWrong)
+  > Writeup and exploit for CVE-2024-49746: Android's Parcel::continueWrite closing File Descriptors tha...
+
 ### [cd-Crypton](https://github.com/cd-Crypton)
 - ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [cd-Crypton/m3u8-server](https://github.com/cd-Crypton/m3u8-server)
   > M3U8 Proxy Server for CORS
@@ -315,6 +323,10 @@
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [hkfires/nano-banana](https://github.com/hkfires/nano-banana)
   > Nanobanana - 基于 OpenRouter 的图片生成 Web UI
 
+### [jiushill](https://github.com/jiushill)
+- 🌟 👤 [jiushill](https://github.com/jiushill) Starred [zhboner/realm](https://github.com/zhboner/realm)
+  > A network relay tool
+
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [KomiMoe/Hikari](https://github.com/KomiMoe/Hikari)
   > Yet another llvm based obfuscator based on goron.
@@ -326,10 +338,14 @@
   > 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [RoversX/LaunchNext](https://github.com/RoversX/LaunchNext)
   > Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free.
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [liweiyi88/onedump](https://github.com/liweiyi88/onedump)
+  > Effortless database administration tool
 
 ### [kentcdodds](https://github.com/kentcdodds)
 - 🌟 👤 [kentcdodds](https://github.com/kentcdodds) Starred [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples)
   > Example apps for the Apps SDK
+- 🌟 👤 [kentcdodds](https://github.com/kentcdodds) Starred [ggoodman/chatgpt-app-demo](https://github.com/ggoodman/chatgpt-app-demo)
+  > A demo of building a ChatGPT Application
 
 ### [kost](https://github.com/kost)
 - 🌟 👤 [kost](https://github.com/kost) Starred [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent)
@@ -496,6 +512,10 @@
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
   > The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 
+### [wishihab](https://github.com/wishihab)
+- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [cameroncooke/AXe](https://github.com/cameroncooke/AXe)
+  > AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
+
 ### [xaitax](https://github.com/xaitax)
 - 🍴 👤 [xaitax](https://github.com/xaitax) Forked [litemars/hARMless](https://github.com/litemars/hARMless) to [xaitax/hARMless](https://github.com/xaitax/hARMless)
   > A ARM64 Linux ELF Packer/Loader
@@ -534,5 +554,5 @@
 
 
 ---
-*最后更新于 2025-10-08 21:38:58 UTC*
+*最后更新于 2025-10-08 22:21:04 UTC*
 *历史记录保存在 `archive` 目录中。*
