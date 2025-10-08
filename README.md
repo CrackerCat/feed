@@ -109,6 +109,10 @@
 - 🌟 👤 [TheN00bBuilder](https://github.com/TheN00bBuilder) Starred [dgl/cve-2025-61984-poc](https://github.com/dgl/cve-2025-61984-poc)
   > PoC for OpenSSH ProxyCommand CVE-2025-61984
 
+### [Udyz](https://github.com/Udyz)
+- 🌟 👤 [Udyz](https://github.com/Udyz) Starred [dwisiswant0/CVE-2025-49844](https://github.com/dwisiswant0/CVE-2025-49844)
+  > CVE-2025-49844 – Redis Lua Parser Use-After-Free
+
 ### [XiaoliChan](https://github.com/XiaoliChan)
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [Hagrid29/BOF-DCOMPotato-PrintNotify](https://github.com/Hagrid29/BOF-DCOMPotato-PrintNotify)
   > Cobalt Strike Beacon Object File (BOF) that obtain SYSTEM privilege with SeImpersonate privilege by ...
@@ -177,6 +181,10 @@
   > Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转...
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
   > 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
+
+### [fr0zenrain](https://github.com/fr0zenrain)
+- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [cloudwu/soluna](https://github.com/cloudwu/soluna)
+  > A simple 2d game framework
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) to [gmh5225/InstallWithOptions](https://github.com/gmh5225/InstallWithOptions)
@@ -281,6 +289,10 @@
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [m0n0ph1/flame-sourcecode](https://github.com/m0n0ph1/flame-sourcecode)
   > UPDATED 2022 Flame malware sourcecode available !! Forked. I will later provide my sample of Flame, ...
 
+### [mattiasgustavsson](https://github.com/mattiasgustavsson)
+- 🌟 👤 [mattiasgustavsson](https://github.com/mattiasgustavsson) Starred [invokr/tinyscrypt](https://github.com/invokr/tinyscrypt)
+  > Tiny (<1000 LOC) SCrypt implementation
+
 ### [modmuss50](https://github.com/modmuss50)
 - 🌟 👤 [modmuss50](https://github.com/modmuss50) Starred [jlfwong/speedscope](https://github.com/jlfwong/speedscope)
   > 🔬 A fast, interactive web-based viewer for performance profiles.
@@ -383,5 +395,5 @@
 
 
 ---
-*最后更新于 2025-10-08 14:44:56 UTC*
+*最后更新于 2025-10-08 15:24:47 UTC*
 *历史记录保存在 `archive` 目录中。*
