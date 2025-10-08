@@ -153,6 +153,8 @@
   > JAVA GUI 图书馆管理系统
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Kaihua-Chen/cog-nvs](https://github.com/Kaihua-Chen/cog-nvs)
   > [NeurIPS 2025] Official code for Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from M...
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [wuxudong/flashbot](https://github.com/wuxudong/flashbot)
+  > support adb install through otg between two android phones
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [hkfires/nano-banana](https://github.com/hkfires/nano-banana)
@@ -253,6 +255,10 @@
 - 🌟 👤 [yichen115](https://github.com/yichen115) Starred [2977094657/BilibiliHistoryFetcher](https://github.com/2977094657/BilibiliHistoryFetcher)
   > 获取b站历史记录，一键下载用户所有的视频，动态，收藏夹，生成详细的年度总结，自动化任务，下面链接是对应前端
 
+### [ymdzq](https://github.com/ymdzq)
+- ✨ 👤 [ymdzq](https://github.com/ymdzq) Created new repo [ymdzq/mipad_touchpanelcontrol](https://github.com/ymdzq/mipad_touchpanelcontrol)
+  > 为使用水龙内核的小米平板5系列设备提供快速开关功能的程序
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [longportapp/openapi](https://github.com/longportapp/openapi)
   > LongPort OpenAPI SDK Base.
@@ -261,5 +267,5 @@
 
 
 ---
-*最后更新于 2025-10-08 09:25:11 UTC*
+*最后更新于 2025-10-08 09:42:09 UTC*
 *历史记录保存在 `archive` 目录中。*
