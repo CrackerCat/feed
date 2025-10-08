@@ -10,6 +10,10 @@
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) to [0xdea/idaplugins-list](https://github.com/0xdea/idaplugins-list)
   > A list of IDA Plugins
 
+### [1013503897](https://github.com/1013503897)
+- 🌟 👤 [1013503897](https://github.com/1013503897) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
+  > A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
 ### [34306](https://github.com/34306)
 - 🌟 👤 [34306](https://github.com/34306) Starred [JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201](https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201)
   > CVE-2025-31200 is a zero-day, zero-click RCE in iOS CoreAudio’s AudioConverterService, triggered by ...
@@ -55,9 +59,17 @@
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)
   > CVE-2025-49844 (RediShell)
 
+### [Lynnette177](https://github.com/Lynnette177)
+- 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [guozhigq/pilipala](https://github.com/guozhigq/pilipala) to [Lynnette177/pilipala](https://github.com/Lynnette177/pilipala)
+  > PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+
 ### [NeoMaster831](https://github.com/NeoMaster831)
 - 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [HyperSine/ida-rpyc](https://github.com/HyperSine/ida-rpyc)
   > An IDA plugin that allows you call IDA python APIs from remote.
+
+### [NiTianErXing666](https://github.com/NiTianErXing666)
+- 🌟 👤 [NiTianErXing666](https://github.com/NiTianErXing666) Starred [alegrey91/harpoon](https://github.com/alegrey91/harpoon)
+  > 🔍 Seccomp profiling and function-level tracing tool.
 
 ### [People-11](https://github.com/People-11)
 - 🌟 👤 [People-11](https://github.com/People-11) Starred [People-11/Adobe-Block-Rule](https://github.com/People-11/Adobe-Block-Rule)
@@ -99,6 +111,14 @@
 - 🌟 👤 [duanluan](https://github.com/duanluan) Starred [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
   > Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for deve...
 
+### [eastmountyxz](https://github.com/eastmountyxz)
+- 🍴 👤 [eastmountyxz](https://github.com/eastmountyxz) Forked [openai/codex](https://github.com/openai/codex) to [eastmountyxz/codex](https://github.com/eastmountyxz/codex)
+  > Lightweight coding agent that runs in your terminal
+- 🌟 👤 [eastmountyxz](https://github.com/eastmountyxz) Starred [openai/codex](https://github.com/openai/codex)
+  > Lightweight coding agent that runs in your terminal
+- ✨ 👤 [eastmountyxz](https://github.com/eastmountyxz) Created new repo [eastmountyxz/Codex-Web](https://github.com/eastmountyxz/Codex-Web)
+  > Web AI
+
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
   > A free, open source, and extensible speech-to-text application that works completely offline.
@@ -108,6 +128,12 @@
 - 🍴 👤 [elllusion](https://github.com/elllusion) Forked [brillm05/BriLLM0.5](https://github.com/brillm05/BriLLM0.5) to [elllusion/BriLLM](https://github.com/elllusion/BriLLM)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [openai/codex](https://github.com/openai/codex)
   > Lightweight coding agent that runs in your terminal
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts)
+  > React hook library, ready to use, written in Typescript.
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [uidotdev/usehooks](https://github.com/uidotdev/usehooks)
+  > A collection of modern, server-safe React hooks – from the ui.dev team
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
@@ -120,6 +146,8 @@
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
   > Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转...
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)
+  > 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) to [gmh5225/InstallWithOptions](https://github.com/gmh5225/InstallWithOptions)
@@ -281,5 +309,5 @@
 
 
 ---
-*最后更新于 2025-10-08 10:43:50 UTC*
+*最后更新于 2025-10-08 11:18:45 UTC*
 *历史记录保存在 `archive` 目录中。*
