@@ -43,13 +43,28 @@
 - 🍴 👤 [CyberMonitor](https://github.com/CyberMonitor) Forked [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) to [CyberMonitor/BlueToolkit](https://github.com/CyberMonitor/BlueToolkit)
   >  BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover n...
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [null93/milk-cookie-manager](https://github.com/null93/milk-cookie-manager)
+  > Cookie's best friend! Modern cookie manager.
+
 ### [DeEpinGh0st](https://github.com/DeEpinGh0st)
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [0xHJK/dumpall](https://github.com/0xHJK/dumpall)
   > 一款信息泄漏利用工具，适用于.git/.svn/.DS_Store泄漏和目录列出
 
+### [Ercilan](https://github.com/Ercilan)
+- 🌟 👤 [Ercilan](https://github.com/Ercilan) Starred [appknox/pyjarsigner](https://github.com/appknox/pyjarsigner)
+  > Pure Python3 implementation of jarsigner to sign APK and JAR files
+
+### [HaifengSun-Kira](https://github.com/HaifengSun-Kira)
+- 🌟 👤 [HaifengSun-Kira](https://github.com/HaifengSun-Kira) Starred [InternLM/AcmeTrace](https://github.com/InternLM/AcmeTrace)
+
 ### [Him188](https://github.com/Him188)
 - 🌟 👤 [Him188](https://github.com/Him188) Starred [open-ani/animeko](https://github.com/open-ani/animeko)
   > 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
+
+### [Ikos3k](https://github.com/Ikos3k)
+- 🌟 👤 [Ikos3k](https://github.com/Ikos3k) Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)
+  > Run Windows apps on 🐧 Linux with ✨ seamless integration
 
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [mumu0215/api_checker](https://github.com/mumu0215/api_checker)
@@ -77,6 +92,10 @@
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [MrKai77/Loop](https://github.com/MrKai77/Loop)
   > Window management made elegant.
+
+### [QuasarApp](https://github.com/QuasarApp)
+- 🍴 👤 [QuasarApp](https://github.com/QuasarApp) Forked [cneben/QuickQanava](https://github.com/cneben/QuickQanava) to [QuasarApp/QuickQanava](https://github.com/QuasarApp/QuickQanava)
+  > :link: C++17 network / graph visualization library - Qt6 / QML node editor.
 
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
@@ -106,6 +125,10 @@
   > On-device TTS model by Neuphonic
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [LuoGen-AI/LuoGen-agent](https://github.com/LuoGen-AI/LuoGen-agent)
   > 一键产出爆款视频：1.自动提取对标文案 2.自动进行文案仿写 3.自动根据文案声音克隆 4.自动生成数字人口播 5.自动添加字幕 6.自动添加背景音乐 7.自动添加视频标题 8.自动生成视频封面 9....
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [KhronosGroup/glslang](https://github.com/KhronosGroup/glslang)
+  > Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator.
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [k2-fsa/sherpa](https://github.com/k2-fsa/sherpa)
+  > Speech-to-text server framework with next-gen Kaldi
 
 ### [duanluan](https://github.com/duanluan)
 - 🌟 👤 [duanluan](https://github.com/duanluan) Starred [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
@@ -204,6 +227,10 @@
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [RoversX/LaunchNext](https://github.com/RoversX/LaunchNext)
   > Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free.
 
+### [kost](https://github.com/kost)
+- 🌟 👤 [kost](https://github.com/kost) Starred [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent)
+  > AI agent for autonomous cyber operations
+
 ### [lixeon](https://github.com/lixeon)
 - 🌟 👤 [lixeon](https://github.com/lixeon) Starred [lelehub/udpxy-IPTV](https://github.com/lelehub/udpxy-IPTV)
   > udpxy+IPTV实现组播流量转单播
@@ -257,6 +284,9 @@
 ### [pinwhell](https://github.com/pinwhell)
 - 🌟 👤 [pinwhell](https://github.com/pinwhell) Starred [Abdo-Nano/LibraryManagmentSystem](https://github.com/Abdo-Nano/LibraryManagmentSystem)
 
+### [qaiu](https://github.com/qaiu)
+- ✨ 👤 [qaiu](https://github.com/qaiu) Created new repo [qaiu/vxcore](https://github.com/qaiu/vxcore)
+
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [Ylarod/ddk](https://github.com/Ylarod/ddk) to [rankalpha/ddk](https://github.com/rankalpha/ddk)
   > 内核驱动开发工具包 (Kernel Driver Development Kit)
@@ -279,6 +309,10 @@
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [rayon-rs/rayon](https://github.com/rayon-rs/rayon)
   > Rayon: A data parallelism library for Rust
 
+### [sharkdp](https://github.com/sharkdp)
+- 🍴 👤 [sharkdp](https://github.com/sharkdp) Forked [python/typing](https://github.com/python/typing) to [sharkdp/typing](https://github.com/sharkdp/typing)
+  > Python static typing home. Hosts the documentation and a user help forum.
+
 ### [suzhelan](https://github.com/suzhelan)
 - 🌟 👤 [suzhelan](https://github.com/suzhelan) Starred [86dbs/dbsyncer](https://github.com/86dbs/dbsyncer)
   > DBSyncer（简称dbs）是一款开源的数据同步中间件，提供MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL等同步...
@@ -291,6 +325,10 @@
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
   > The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 
+### [xaitax](https://github.com/xaitax)
+- 🍴 👤 [xaitax](https://github.com/xaitax) Forked [litemars/hARMless](https://github.com/litemars/hARMless) to [xaitax/hARMless](https://github.com/xaitax/hARMless)
+  > A ARM64 Linux ELF Packer/Loader
+
 ### [yichen115](https://github.com/yichen115)
 - 🌟 👤 [yichen115](https://github.com/yichen115) Starred [2977094657/BilibiliHistoryFetcher](https://github.com/2977094657/BilibiliHistoryFetcher)
   > 获取b站历史记录，一键下载用户所有的视频，动态，收藏夹，生成详细的年度总结，自动化任务，下面链接是对应前端
@@ -302,6 +340,8 @@
 ### [ymdzq](https://github.com/ymdzq)
 - ✨ 👤 [ymdzq](https://github.com/ymdzq) Created new repo [ymdzq/mipad_touchpanelcontrol](https://github.com/ymdzq/mipad_touchpanelcontrol)
   > 为使用水龙内核的小米平板5系列设备提供快速开关功能的程序
+- 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [Ianzb/MiNavBarImmerse](https://github.com/Ianzb/MiNavBarImmerse)
+  > 小米小白条沉浸优化（MiNavBarImmerse）是一个通过替换Xiaomi HyperOS 2.2内置第三方应用小白条配置文件，实现小白条沉浸优化的Magisk模块。
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [longportapp/openapi](https://github.com/longportapp/openapi)
@@ -311,5 +351,5 @@
 
 
 ---
-*最后更新于 2025-10-08 11:39:26 UTC*
+*最后更新于 2025-10-08 12:49:11 UTC*
 *历史记录保存在 `archive` 目录中。*
