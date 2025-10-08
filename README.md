@@ -29,6 +29,14 @@
 - 🍴 👤 [CyberMonitor](https://github.com/CyberMonitor) Forked [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) to [CyberMonitor/BlueToolkit](https://github.com/CyberMonitor/BlueToolkit)
   >  BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover n...
 
+### [J0o1ey](https://github.com/J0o1ey)
+- 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [mumu0215/api_checker](https://github.com/mumu0215/api_checker)
+  > burpsuit插件，解析swagger/openapi接口文档并进行请求，模拟参数方便渗透测试人员快速发现可用接口
+
+### [NeoMaster831](https://github.com/NeoMaster831)
+- 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [HyperSine/ida-rpyc](https://github.com/HyperSine/ida-rpyc)
+  > An IDA plugin that allows you call IDA python APIs from remote.
+
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [MrKai77/Loop](https://github.com/MrKai77/Loop)
   > Window management made elegant.
@@ -52,6 +60,10 @@
 - 🌟 👤 [duanluan](https://github.com/duanluan) Starred [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
   > Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for deve...
 
+### [easychen](https://github.com/easychen)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
+  > A free, open source, and extensible speech-to-text application that works completely offline.
+
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
   > Kernel-based Android Root Solution & KPM
@@ -59,6 +71,10 @@
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [R0rt1z2/fenrir](https://github.com/R0rt1z2/fenrir) to [fengjixuchui/fenrir1](https://github.com/fengjixuchui/fenrir1)
   > Let's control MediaTek's bootchain
+
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
+  > Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转...
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) to [gmh5225/InstallWithOptions](https://github.com/gmh5225/InstallWithOptions)
@@ -93,6 +109,16 @@
   > Nmap Project's Windows packet capture and transmission library
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [m0n0ph1/npcap](https://github.com/m0n0ph1/npcap)
   > Nmap Project's Windows packet capture and transmission library
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [loneicewolf/flame-sourcecode](https://github.com/loneicewolf/flame-sourcecode)
+  > UPDATED 2022 Flame malware sourcecode available !! Forked. I will later provide my sample of Flame, ...
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [loneicewolf/flame-sourcecode](https://github.com/loneicewolf/flame-sourcecode) to [m0n0ph1/flame-sourcecode](https://github.com/m0n0ph1/flame-sourcecode)
+  > UPDATED 2022 Flame malware sourcecode available !! Forked. I will later provide my sample of Flame, ...
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [m0n0ph1/flame-sourcecode](https://github.com/m0n0ph1/flame-sourcecode)
+  > UPDATED 2022 Flame malware sourcecode available !! Forked. I will later provide my sample of Flame, ...
+
+### [mzfr](https://github.com/mzfr)
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
+  > On-device TTS model by Neuphonic
 
 ### [pinwhell](https://github.com/pinwhell)
 - 🌟 👤 [pinwhell](https://github.com/pinwhell) Starred [Abdo-Nano/LibraryManagmentSystem](https://github.com/Abdo-Nano/LibraryManagmentSystem)
@@ -111,11 +137,15 @@
 - 🌟 👤 [suzhelan](https://github.com/suzhelan) Starred [86dbs/dbsyncer](https://github.com/86dbs/dbsyncer)
   > DBSyncer（简称dbs）是一款开源的数据同步中间件，提供MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL等同步...
 
+### [vipstone](https://github.com/vipstone)
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+  > The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+
 ### [yichen115](https://github.com/yichen115)
 - 🌟 👤 [yichen115](https://github.com/yichen115) Starred [2977094657/BilibiliHistoryFetcher](https://github.com/2977094657/BilibiliHistoryFetcher)
   > 获取b站历史记录，一键下载用户所有的视频，动态，收藏夹，生成详细的年度总结，自动化任务，下面链接是对应前端
 
 
 ---
-*最后更新于 2025-10-08 04:44:29 UTC*
+*最后更新于 2025-10-08 05:22:27 UTC*
 *历史记录保存在 `archive` 目录中。*
