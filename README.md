@@ -284,6 +284,7 @@
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [caidaoli/kiro2api](https://github.com/caidaoli/kiro2api)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [caidaoli/codebuddy2cc](https://github.com/caidaoli/codebuddy2cc)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [mzltest/aic-deno](https://github.com/mzltest/aic-deno)
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
@@ -325,6 +326,10 @@
   > 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [RoversX/LaunchNext](https://github.com/RoversX/LaunchNext)
   > Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free.
+
+### [kentcdodds](https://github.com/kentcdodds)
+- 🌟 👤 [kentcdodds](https://github.com/kentcdodds) Starred [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples)
+  > Example apps for the Apps SDK
 
 ### [kost](https://github.com/kost)
 - 🌟 👤 [kost](https://github.com/kost) Starred [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent)
@@ -529,5 +534,5 @@
 
 
 ---
-*最后更新于 2025-10-08 21:20:02 UTC*
+*最后更新于 2025-10-08 21:38:58 UTC*
 *历史记录保存在 `archive` 目录中。*
