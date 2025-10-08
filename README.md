@@ -106,6 +106,8 @@
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [brillm05/BriLLM0.5](https://github.com/brillm05/BriLLM0.5)
 - 🍴 👤 [elllusion](https://github.com/elllusion) Forked [brillm05/BriLLM0.5](https://github.com/brillm05/BriLLM0.5) to [elllusion/BriLLM](https://github.com/elllusion/BriLLM)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [openai/codex](https://github.com/openai/codex)
+  > Lightweight coding agent that runs in your terminal
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
@@ -176,6 +178,10 @@
 - 🌟 👤 [lixeon](https://github.com/lixeon) Starred [lelehub/udpxy-IPTV](https://github.com/lelehub/udpxy-IPTV)
   > udpxy+IPTV实现组播流量转单播
 
+### [luk1337](https://github.com/luk1337)
+- 🍴 👤 [luk1337](https://github.com/luk1337) Forked [DCMTK/dcmtk](https://github.com/DCMTK/dcmtk) to [luk1337/dcmtk](https://github.com/luk1337/dcmtk)
+  > Official DCMTK Github Mirror
+
 ### [m0n0ph1](https://github.com/m0n0ph1)
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [nmap/npcap](https://github.com/nmap/npcap)
   > Nmap Project's Windows packet capture and transmission library
@@ -235,6 +241,10 @@
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [RWXstoned/LdrShuffle](https://github.com/RWXstoned/LdrShuffle)
   > Code execution/injection technique using DLL PEB module structure manipulation
 
+### [sakana164](https://github.com/sakana164)
+- 🌟 👤 [sakana164](https://github.com/sakana164) Starred [LunarKernel-Dev/lunarkernel_sched_extention](https://github.com/LunarKernel-Dev/lunarkernel_sched_extention)
+  > A scheduler driven by Slim WALT, based on Oplus' hmbird_gki
+
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [rayon-rs/rayon](https://github.com/rayon-rs/rayon)
   > Rayon: A data parallelism library for Rust
@@ -255,6 +265,10 @@
 - 🌟 👤 [yichen115](https://github.com/yichen115) Starred [2977094657/BilibiliHistoryFetcher](https://github.com/2977094657/BilibiliHistoryFetcher)
   > 获取b站历史记录，一键下载用户所有的视频，动态，收藏夹，生成详细的年度总结，自动化任务，下面链接是对应前端
 
+### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
+- 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [jiqiu2022/ReZeroHook](https://github.com/jiqiu2022/ReZeroHook)
+  > 从0开始写一个成熟的InlineHook框架，是一个带着完整提交记录的，带着手把手教程的，支持应用层&内核层的HOOK
+
 ### [ymdzq](https://github.com/ymdzq)
 - ✨ 👤 [ymdzq](https://github.com/ymdzq) Created new repo [ymdzq/mipad_touchpanelcontrol](https://github.com/ymdzq/mipad_touchpanelcontrol)
   > 为使用水龙内核的小米平板5系列设备提供快速开关功能的程序
@@ -267,5 +281,5 @@
 
 
 ---
-*最后更新于 2025-10-08 09:42:09 UTC*
+*最后更新于 2025-10-08 10:24:07 UTC*
 *历史记录保存在 `archive` 目录中。*
