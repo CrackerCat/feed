@@ -76,6 +76,8 @@
 ### [FunnyWolf](https://github.com/FunnyWolf)
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin)
   > 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+- 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [nineaiyu/xadmin-client](https://github.com/nineaiyu/xadmin-client)
+  > xadmin-基于Django+vue3的rbac权限管理系统
 
 ### [H4ckForJob](https://github.com/H4ckForJob)
 - 🍴 👤 [H4ckForJob](https://github.com/H4ckForJob) Forked [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit) to [H4ckForJob/redis_exploit](https://github.com/H4ckForJob/redis_exploit)
@@ -279,6 +281,10 @@
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [OWASP/nest-schema](https://github.com/OWASP/nest-schema)
   > OWASP Schema
 
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [caidaoli/kiro2api](https://github.com/caidaoli/kiro2api)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [caidaoli/codebuddy2cc](https://github.com/caidaoli/codebuddy2cc)
+
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
   > A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -463,6 +469,12 @@
 - 🌟 👤 [suzhelan](https://github.com/suzhelan) Starred [86dbs/dbsyncer](https://github.com/86dbs/dbsyncer)
   > DBSyncer（简称dbs）是一款开源的数据同步中间件，提供MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL等同步...
 
+### [tamirzb](https://github.com/tamirzb)
+- 🌟 👤 [tamirzb](https://github.com/tamirzb) Starred [timelinize/timelinize](https://github.com/timelinize/timelinize)
+  > Store your data from all your accounts and devices in a single cohesive timeline on your own compute...
+- 🌟 👤 [tamirzb](https://github.com/tamirzb) Starred [immich-app/immich](https://github.com/immich-app/immich)
+  > High performance self-hosted photo and video management solution.
+
 ### [tijme](https://github.com/tijme)
 - 🌟 👤 [tijme](https://github.com/tijme) Starred [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent)
   > AI agent for autonomous cyber operations
@@ -517,5 +529,5 @@
 
 
 ---
-*最后更新于 2025-10-08 20:25:00 UTC*
+*最后更新于 2025-10-08 20:41:46 UTC*
 *历史记录保存在 `archive` 目录中。*
