@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [fr0gger/awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) to [0xdea/awesome-ida-x64-olly-plugin](https://github.com/0xdea/awesome-ida-x64-olly-plugin)
+  > A curated list of IDA x64DBG, Ghidra and OllyDBG plugins. 
+
 ### [34306](https://github.com/34306)
 - 🌟 👤 [34306](https://github.com/34306) Starred [JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201](https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201)
   > CVE-2025-31200 is a zero-day, zero-click RCE in iOS CoreAudio’s AudioConverterService, triggered by ...
@@ -124,6 +128,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Stremio/stremio-beamup](https://github.com/Stremio/stremio-beamup) to [gmh5225/stremio-beamup](https://github.com/gmh5225/stremio-beamup)
   > 🛠️ A platform as a service (PaaS) hosting for Stremio addons: as easy a Heroku, without the restrict...
 
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+  > A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+
 ### [jaredrummler](https://github.com/jaredrummler)
 - 🌟 👤 [jaredrummler](https://github.com/jaredrummler) Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)
   > Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, Ope...
@@ -188,6 +196,8 @@
   > tools for windows game mod (localization) without covering origin file
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [YuriSizuku/OnscripterYuri](https://github.com/YuriSizuku/OnscripterYuri)
   > An enhancement ONScripter project porting to many platforms, especially web. 
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [nanami5270/GARbro-Mod](https://github.com/nanami5270/GARbro-Mod)
+  > Fork of morkt/GARbro
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [dreautall/waterfly-iii](https://github.com/dreautall/waterfly-iii)
@@ -212,6 +222,10 @@
 - 🌟 👤 [suzhelan](https://github.com/suzhelan) Starred [86dbs/dbsyncer](https://github.com/86dbs/dbsyncer)
   > DBSyncer（简称dbs）是一款开源的数据同步中间件，提供MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL等同步...
 
+### [tijme](https://github.com/tijme)
+- 🌟 👤 [tijme](https://github.com/tijme) Starred [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent)
+  > AI agent for autonomous cyber operations
+
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
   > The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
@@ -228,5 +242,5 @@
 
 
 ---
-*最后更新于 2025-10-08 07:40:00 UTC*
+*最后更新于 2025-10-08 08:31:22 UTC*
 *历史记录保存在 `archive` 目录中。*
