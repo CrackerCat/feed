@@ -24,6 +24,10 @@
   > AI agent for autonomous cyber operations
 - 🍴 👤 [CyberMonitor](https://github.com/CyberMonitor) Forked [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent) to [CyberMonitor/Cyber-AutoAgent](https://github.com/CyberMonitor/Cyber-AutoAgent)
   > AI agent for autonomous cyber operations
+- 🌟 👤 [CyberMonitor](https://github.com/CyberMonitor) Starred [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit)
+  >  BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover n...
+- 🍴 👤 [CyberMonitor](https://github.com/CyberMonitor) Forked [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) to [CyberMonitor/BlueToolkit](https://github.com/CyberMonitor/BlueToolkit)
+  >  BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover n...
 
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [MrKai77/Loop](https://github.com/MrKai77/Loop)
@@ -36,6 +40,17 @@
 ### [Ylarod](https://github.com/Ylarod)
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [fuqiuluo/inkwell](https://github.com/fuqiuluo/inkwell) to [Ylarod/inkwell](https://github.com/Ylarod/inkwell)
   > It's a New Kind of Wrapper for Exposing LLVM (Safely)
+- ✨ 👤 [Ylarod](https://github.com/Ylarod) Created new repo [Ylarod/ndk-clang](https://github.com/Ylarod/ndk-clang)
+  > prebuilt ndk clang for ci usage
+
+### [dodola](https://github.com/dodola)
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [paper-design/paper-mono](https://github.com/paper-design/paper-mono)
+
+### [duanluan](https://github.com/duanluan)
+- 🌟 👤 [duanluan](https://github.com/duanluan) Starred [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
+  > Real-time & local speech-to-text server.
+- 🌟 👤 [duanluan](https://github.com/duanluan) Starred [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+  > Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for deve...
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
@@ -44,6 +59,12 @@
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [R0rt1z2/fenrir](https://github.com/R0rt1z2/fenrir) to [fengjixuchui/fenrir1](https://github.com/fengjixuchui/fenrir1)
   > Let's control MediaTek's bootchain
+
+### [gmh5225](https://github.com/gmh5225)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) to [gmh5225/InstallWithOptions](https://github.com/gmh5225/InstallWithOptions)
+  > Simple-ish app using Shizuku to install APKs on-device with advanced options
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nubskr/walrus](https://github.com/nubskr/walrus) to [gmh5225/walrus](https://github.com/gmh5225/walrus)
+  > Walrus: A high performance Write Ahead Log (WAL) in Rust
 
 ### [jaredrummler](https://github.com/jaredrummler)
 - 🌟 👤 [jaredrummler](https://github.com/jaredrummler) Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)
@@ -54,6 +75,24 @@
   > Yet another llvm based obfuscator based on goron.
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [buyi06/-Linux-](https://github.com/buyi06/-Linux-)
   > 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
+
+### [m0n0ph1](https://github.com/m0n0ph1)
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [nmap/npcap](https://github.com/nmap/npcap)
+  > Nmap Project's Windows packet capture and transmission library
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [nmap/libpcap](https://github.com/nmap/libpcap)
+  > the LIBpcap interface to various kernel packet capture mechanism
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [nmap/tcpdump](https://github.com/nmap/tcpdump)
+  > the TCPdump network dissector
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [m0n0ph1/nmap](https://github.com/m0n0ph1/nmap)
+  > Nmap - the Network Mapper. Github mirror of official SVN repository.
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [nmap/tcpdump](https://github.com/nmap/tcpdump) to [m0n0ph1/tcpdump](https://github.com/m0n0ph1/tcpdump)
+  > the TCPdump network dissector
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [nmap/libpcap](https://github.com/nmap/libpcap) to [m0n0ph1/libpcap](https://github.com/m0n0ph1/libpcap)
+  > the LIBpcap interface to various kernel packet capture mechanism
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [nmap/npcap](https://github.com/nmap/npcap) to [m0n0ph1/npcap](https://github.com/m0n0ph1/npcap)
+  > Nmap Project's Windows packet capture and transmission library
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [m0n0ph1/npcap](https://github.com/m0n0ph1/npcap)
+  > Nmap Project's Windows packet capture and transmission library
 
 ### [pinwhell](https://github.com/pinwhell)
 - 🌟 👤 [pinwhell](https://github.com/pinwhell) Starred [Abdo-Nano/LibraryManagmentSystem](https://github.com/Abdo-Nano/LibraryManagmentSystem)
@@ -78,5 +117,5 @@
 
 
 ---
-*最后更新于 2025-10-08 04:27:09 UTC*
+*最后更新于 2025-10-08 04:44:29 UTC*
 *历史记录保存在 `archive` 目录中。*
