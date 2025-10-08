@@ -82,6 +82,10 @@
 - 🌟 👤 [NeoMaster831](https://github.com/NeoMaster831) Starred [HyperSine/ida-rpyc](https://github.com/HyperSine/ida-rpyc)
   > An IDA plugin that allows you call IDA python APIs from remote.
 
+### [Nero22k](https://github.com/Nero22k)
+- 🌟 👤 [Nero22k](https://github.com/Nero22k) Starred [EvotecIT/Testimo](https://github.com/EvotecIT/Testimo)
+  > Testimo is a PowerShell module for running health checks for Active Directory against a bunch of dif...
+
 ### [NiTianErXing666](https://github.com/NiTianErXing666)
 - 🌟 👤 [NiTianErXing666](https://github.com/NiTianErXing666) Starred [alegrey91/harpoon](https://github.com/alegrey91/harpoon)
   > 🔍 Seccomp profiling and function-level tracing tool.
@@ -189,6 +193,20 @@
   > 🛠️ A platform as a service (PaaS) hosting for Stremio addons: as easy a Heroku, without the restrict...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [adileo/squirreldisk](https://github.com/adileo/squirreldisk) to [gmh5225/squirreldisk](https://github.com/gmh5225/squirreldisk)
   > Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) to [gmh5225/usehooks-ts](https://github.com/gmh5225/usehooks-ts)
+  > React hook library, ready to use, written in Typescript.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [uidotdev/usehooks](https://github.com/uidotdev/usehooks) to [gmh5225/usehooks](https://github.com/gmh5225/usehooks)
+  > A collection of modern, server-safe React hooks – from the ui.dev team
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [uidotdev/react-query-course](https://github.com/uidotdev/react-query-course) to [gmh5225/react-query-course](https://github.com/gmh5225/react-query-course)
+  > The project that is built over the course of the React Query course at ui.dev
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [uidotdev/react-router-v4-course](https://github.com/uidotdev/react-router-v4-course) to [gmh5225/react-router-v4-course](https://github.com/gmh5225/react-router-v4-course)
+  > Project for TylerMcGinnis.com's React Router course
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [uidotdev/typescript-tic-tac-toe](https://github.com/uidotdev/typescript-tic-tac-toe) to [gmh5225/typescript-tic-tac-toe](https://github.com/gmh5225/typescript-tic-tac-toe)
+  > The mid-course project for the TypeScript course.
+
+### [hacksysteam](https://github.com/hacksysteam)
+- 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [shjala/kfuzz](https://github.com/shjala/kfuzz)
+  > KFuzz | Windows Kernel Code Coverage and Instrumentation
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
@@ -263,6 +281,10 @@
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [m0n0ph1/flame-sourcecode](https://github.com/m0n0ph1/flame-sourcecode)
   > UPDATED 2022 Flame malware sourcecode available !! Forked. I will later provide my sample of Flame, ...
 
+### [modmuss50](https://github.com/modmuss50)
+- 🌟 👤 [modmuss50](https://github.com/modmuss50) Starred [jlfwong/speedscope](https://github.com/jlfwong/speedscope)
+  > 🔬 A fast, interactive web-based viewer for performance profiles.
+
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
   > On-device TTS model by Neuphonic
@@ -274,6 +296,10 @@
   > An enhancement ONScripter project porting to many platforms, especially web. 
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [nanami5270/GARbro-Mod](https://github.com/nanami5270/GARbro-Mod)
   > Fork of morkt/GARbro
+
+### [ni-qiuqiu](https://github.com/ni-qiuqiu)
+- 🌟 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Starred [fuqiuluo/amice](https://github.com/fuqiuluo/amice)
+  > LLVM pass plugin developed based on LLVM , implemented in Rust, designed for obfuscator-llvm
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [dreautall/waterfly-iii](https://github.com/dreautall/waterfly-iii)
@@ -300,6 +326,8 @@
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [RWXstoned/LdrShuffle](https://github.com/RWXstoned/LdrShuffle)
   > Code execution/injection technique using DLL PEB module structure manipulation
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [x0xr00t/sl0ppy-PrivescTaskCreator](https://github.com/x0xr00t/sl0ppy-PrivescTaskCreator)
+  > sl0ppy-PrivescTaskCreator.ps1
 
 ### [sakana164](https://github.com/sakana164)
 - 🌟 👤 [sakana164](https://github.com/sakana164) Starred [LunarKernel-Dev/lunarkernel_sched_extention](https://github.com/LunarKernel-Dev/lunarkernel_sched_extention)
@@ -320,6 +348,10 @@
 ### [tijme](https://github.com/tijme)
 - 🌟 👤 [tijme](https://github.com/tijme) Starred [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent)
   > AI agent for autonomous cyber operations
+
+### [troldal](https://github.com/troldal)
+- 🌟 👤 [troldal](https://github.com/troldal) Starred [vittorioromeo/DODRocketsRaylib](https://github.com/vittorioromeo/DODRocketsRaylib)
+  > Raylib implementation of my CppCon 2025 keynote demo (OOP vs AoS vs SoA)
 
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
@@ -351,5 +383,5 @@
 
 
 ---
-*最后更新于 2025-10-08 12:49:11 UTC*
+*最后更新于 2025-10-08 13:32:32 UTC*
 *历史记录保存在 `archive` 目录中。*
