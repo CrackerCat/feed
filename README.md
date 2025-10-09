@@ -57,11 +57,15 @@
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [noumidev/nejicast](https://github.com/noumidev/nejicast)
   > Sega Dreamcast emulator
 
+### [sakana164](https://github.com/sakana164)
+- 🌟 👤 [sakana164](https://github.com/sakana164) Starred [Zarosmm/obs-bilibili-stream](https://github.com/Zarosmm/obs-bilibili-stream)
+  > 这是一个为 OBS Studio 开发的插件，用于简化在 Bilibili 平台上的直播流程。插件支持通过手动输入 Cookie 或扫码登录 Bilibili，更新直播间信息，并获取 RTMP 推流地...
+
 ### [strongcourage](https://github.com/strongcourage)
 - 🌟 👤 [strongcourage](https://github.com/strongcourage) Starred [tjcruz-dei/ICS_PCAPS](https://github.com/tjcruz-dei/ICS_PCAPS)
   > ICS Cybersecurity PCAP respository 
 
 
 ---
-*最后更新于 2025-10-09 15:16:18 UTC*
+*最后更新于 2025-10-09 15:34:14 UTC*
 *历史记录保存在 `archive` 目录中。*
