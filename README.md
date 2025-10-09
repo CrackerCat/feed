@@ -8,6 +8,16 @@
 - 🌟 👤 [1013503897](https://github.com/1013503897) Starred [chengazhen/gitlens-pro](https://github.com/chengazhen/gitlens-pro)
   > 一个用于激活 GitLens Pro 的工具。
 
+### [1c7](https://github.com/1c7)
+- 🌟 👤 [1c7](https://github.com/1c7) Starred [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos)
+  > Official frugal and native macOS Syncthing application bundle
+- 🌟 👤 [1c7](https://github.com/1c7) Starred [syncthing/syncthing](https://github.com/syncthing/syncthing)
+  > Open Source Continuous File Synchronization
+
+### [ColdWindScholar](https://github.com/ColdWindScholar)
+- 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [mifi-tools/mifi-tools](https://github.com/mifi-tools/mifi-tools) to [ColdWindScholar/mifi-tools](https://github.com/ColdWindScholar/mifi-tools)
+  > mifi-web-tools
+
 ### [DerekSelander](https://github.com/DerekSelander)
 - 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201](https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201)
   > CVE-2025-31200 is a zero-day, zero-click RCE in iOS CoreAudio’s AudioConverterService, triggered by ...
@@ -21,6 +31,10 @@
 ### [Gegenbauer](https://github.com/Gegenbauer)
 - 🌟 👤 [Gegenbauer](https://github.com/Gegenbauer) Starred [androidx/androidx](https://github.com/androidx/androidx)
   > Development environment for Android Jetpack extension libraries under the androidx namespace. Synchr...
+
+### [Lakr233](https://github.com/Lakr233)
+- 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [AFK-surf/open-agent](https://github.com/AFK-surf/open-agent)
+  > Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus.
 
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [devflowinc/trieve](https://github.com/devflowinc/trieve)
@@ -93,6 +107,8 @@
   > This is just an semi-automated fully working, no-bs, non-metasploit version of the public exploit co...
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [phra/PEzor](https://github.com/phra/PEzor)
   > Open-Source Shellcode & PE Packer
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [mgeeky/RedWarden](https://github.com/mgeeky/RedWarden)
+  > Cobalt Strike C2 Reverse proxy that fends off Blue Teams, AVs, EDRs, scanners through packet inspect...
 
 ### [cwuom](https://github.com/cwuom)
 - 🌟 👤 [cwuom](https://github.com/cwuom) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
@@ -170,11 +186,15 @@
 - 🌟 👤 [strongcourage](https://github.com/strongcourage) Starred [tjcruz-dei/ICS_PCAPS](https://github.com/tjcruz-dei/ICS_PCAPS)
   > ICS Cybersecurity PCAP respository 
 
+### [tennc](https://github.com/tennc)
+- 🌟 👤 [tennc](https://github.com/tennc) Starred [ngosang/trackerslist](https://github.com/ngosang/trackerslist)
+  > Updated list of public BitTorrent trackers
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [akfamily/akshare](https://github.com/akfamily/akshare)
   > AKShare is an elegant and simple financial data interface library for Python, built for human beings...
 
 
 ---
-*最后更新于 2025-10-09 17:41:52 UTC*
+*最后更新于 2025-10-09 18:32:27 UTC*
 *历史记录保存在 `archive` 目录中。*
