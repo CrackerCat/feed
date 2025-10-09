@@ -50,10 +50,16 @@
 - ✨ 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Created new repo [MlgmXyysd/android-bootloader-kernel-source](https://github.com/MlgmXyysd/android-bootloader-kernel-source)
   > 各 Android 手机厂商 Bootloader 解锁 / 内核开源 / 解锁后保修情况
 
+### [PushpenderIndia](https://github.com/PushpenderIndia)
+- ✨ 👤 [PushpenderIndia](https://github.com/PushpenderIndia) Created new repo [PushpenderIndia/NokiaMultiAgent](https://github.com/PushpenderIndia/NokiaMultiAgent)
+  > NokiaMultiAgent
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [predefine/bcm21553-emulator](https://github.com/predefine/bcm21553-emulator)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [fanf2/unifdef](https://github.com/fanf2/unifdef)
   > selectively remove C preprocessor conditionals
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [znuh/saleae-binparser](https://github.com/znuh/saleae-binparser)
+  > Fast parser for Saleae Logic 2 binary export format (Digital only)
 
 ### [ReZeroS](https://github.com/ReZeroS)
 - 🍴 👤 [ReZeroS](https://github.com/ReZeroS) Forked [CrackerCat/bytedance_tiktok](https://github.com/CrackerCat/bytedance_tiktok) to [ReZeroS/bytedance_tiktok](https://github.com/ReZeroS/bytedance_tiktok)
@@ -68,6 +74,10 @@
   > CVE-2025-49844 (RediShell)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
   > Windows protocol library, including SMB and RPC implementations, among others.
+
+### [TomAPU](https://github.com/TomAPU)
+- 🌟 👤 [TomAPU](https://github.com/TomAPU) Starred [michalbednarski/ThisSeemsWrong](https://github.com/michalbednarski/ThisSeemsWrong)
+  > Writeup and exploit for CVE-2024-49746: Android's Parcel::continueWrite closing File Descriptors tha...
 
 ### [WinMin](https://github.com/WinMin)
 - 🌟 👤 [WinMin](https://github.com/WinMin) Starred [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc)
@@ -221,6 +231,10 @@
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [Thermionix/fusion360](https://github.com/Thermionix/fusion360)
   > This is the snap for Autodesk Fusion 360
 
+### [qazbnm456](https://github.com/qazbnm456)
+- 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [replicatedhq/ttl.sh](https://github.com/replicatedhq/ttl.sh)
+  > An anonymous & ephemeral Docker image registry
+
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [R0rt1z2/amonet](https://github.com/R0rt1z2/amonet)
   > bootROM + LK exploit for MediaTek devices
@@ -275,6 +289,8 @@
   > Scalable datastore for metrics, events, and real-time analytics - InfluxDB3-Core fork Unlocked w/ En...
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
   > Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting S...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [apache/horaedb](https://github.com/apache/horaedb)
+  > Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database.
 
 ### [zu1kbackup](https://github.com/zu1kbackup)
 - 🍴 👤 [zu1kbackup](https://github.com/zu1kbackup) Forked [akfamily/akshare](https://github.com/akfamily/akshare) to [zu1kbackup/akshare](https://github.com/zu1kbackup/akshare)
@@ -282,5 +298,5 @@
 
 
 ---
-*最后更新于 2025-10-09 22:40:54 UTC*
+*最后更新于 2025-10-09 23:19:51 UTC*
 *历史记录保存在 `archive` 目录中。*
