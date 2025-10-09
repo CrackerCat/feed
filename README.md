@@ -160,6 +160,10 @@
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
   > 所有小初高、大学PDF教材。
 
+### [giladreich](https://github.com/giladreich)
+- 🌟 👤 [giladreich](https://github.com/giladreich) Starred [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+  > real time face swap and one-click video deepfake with only a single image
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ioncodes/tracing-viewer](https://github.com/ioncodes/tracing-viewer) to [gmh5225/tracing-viewer](https://github.com/gmh5225/tracing-viewer)
   > A beautiful trace explorer with filtering capabilities. To be used along with Rust's tracing-subscri...
@@ -184,6 +188,10 @@
 - 🌟 👤 [leolovenet](https://github.com/leolovenet) Starred [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android)
   > Tailscale Android Client
 
+### [mahmoudimus](https://github.com/mahmoudimus)
+- 🍴 👤 [mahmoudimus](https://github.com/mahmoudimus) Forked [tdrussell/diffusion-pipe](https://github.com/tdrussell/diffusion-pipe) to [mahmoudimus/diffusion-pipe](https://github.com/mahmoudimus/diffusion-pipe)
+  > A pipeline parallel training script for diffusion models.
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
   > Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
@@ -204,6 +212,8 @@
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [kudu-dynamics/flint](https://github.com/kudu-dynamics/flint)
 - 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [kudu-dynamics/blaze-platform](https://github.com/kudu-dynamics/blaze-platform)
   > A framework for program analysis with a focus on modeling programmer assumptions, context- and path-...
+- 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [IMBalENce/EM-tool](https://github.com/IMBalENce/EM-tool)
+  > an ImageJ toolset for EM image analysis
 
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
@@ -261,6 +271,8 @@
   > QuestDB is a high performance, open-source, time-series database
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [timescale/timescaledb](https://github.com/timescale/timescaledb)
   > A time-series database for high-performance real-time analytics packaged as a Postgres extension
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [refluxdb/refluxdb](https://github.com/refluxdb/refluxdb)
+  > Scalable datastore for metrics, events, and real-time analytics - InfluxDB3-Core fork Unlocked w/ En...
 
 ### [zu1kbackup](https://github.com/zu1kbackup)
 - 🍴 👤 [zu1kbackup](https://github.com/zu1kbackup) Forked [akfamily/akshare](https://github.com/akfamily/akshare) to [zu1kbackup/akshare](https://github.com/zu1kbackup/akshare)
@@ -268,5 +280,5 @@
 
 
 ---
-*最后更新于 2025-10-09 21:39:09 UTC*
+*最后更新于 2025-10-09 22:20:22 UTC*
 *历史记录保存在 `archive` 目录中。*
