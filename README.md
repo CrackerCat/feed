@@ -224,6 +224,8 @@
   > AKShare is an elegant and simple financial data interface library for Python, built for human beings...
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [p-toy-factory/sakana-widget-react](https://github.com/p-toy-factory/sakana-widget-react)
   > A React component that wrap "Sakana! Widget".
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance)
+  > Download market data from Yahoo! Finance's API
 
 ### [zu1kbackup](https://github.com/zu1kbackup)
 - 🍴 👤 [zu1kbackup](https://github.com/zu1kbackup) Forked [akfamily/akshare](https://github.com/akfamily/akshare) to [zu1kbackup/akshare](https://github.com/zu1kbackup/akshare)
@@ -231,5 +233,5 @@
 
 
 ---
-*最后更新于 2025-10-09 19:19:10 UTC*
+*最后更新于 2025-10-09 19:39:13 UTC*
 *历史记录保存在 `archive` 目录中。*
