@@ -159,6 +159,8 @@
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ioncodes/tracing-viewer](https://github.com/ioncodes/tracing-viewer) to [gmh5225/tracing-viewer](https://github.com/gmh5225/tracing-viewer)
   > A beautiful trace explorer with filtering capabilities. To be used along with Rust's tracing-subscri...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [MyCryptoHQ/ethereum-blockies-base64](https://github.com/MyCryptoHQ/ethereum-blockies-base64) to [gmh5225/ethereum-blockies-base64](https://github.com/gmh5225/ethereum-blockies-base64)
+  > A tiny library for generating blocky identicons as base64 encoded PNGs.
 
 ### [igogo-x86](https://github.com/igogo-x86)
 - 🍴 👤 [igogo-x86](https://github.com/igogo-x86) Forked [mszabo-wikia/hhvm](https://github.com/mszabo-wikia/hhvm) to [igogo-x86/hhvm](https://github.com/igogo-x86/hhvm)
@@ -251,6 +253,10 @@
   > Download market data from Yahoo! Finance's API
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [apache/iceberg](https://github.com/apache/iceberg)
   > Apache Iceberg
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [questdb/questdb](https://github.com/questdb/questdb)
+  > QuestDB is a high performance, open-source, time-series database
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [timescale/timescaledb](https://github.com/timescale/timescaledb)
+  > A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
 ### [zu1kbackup](https://github.com/zu1kbackup)
 - 🍴 👤 [zu1kbackup](https://github.com/zu1kbackup) Forked [akfamily/akshare](https://github.com/akfamily/akshare) to [zu1kbackup/akshare](https://github.com/zu1kbackup/akshare)
@@ -258,5 +264,5 @@
 
 
 ---
-*最后更新于 2025-10-09 20:42:06 UTC*
+*最后更新于 2025-10-09 21:19:51 UTC*
 *历史记录保存在 `archive` 目录中。*
