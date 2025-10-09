@@ -32,6 +32,10 @@
 - 🌟 👤 [Gegenbauer](https://github.com/Gegenbauer) Starred [androidx/androidx](https://github.com/androidx/androidx)
   > Development environment for Android Jetpack extension libraries under the androidx namespace. Synchr...
 
+### [H4ckForJob](https://github.com/H4ckForJob)
+- 🍴 👤 [H4ckForJob](https://github.com/H4ckForJob) Forked [Huckel789/Android-RAT](https://github.com/Huckel789/Android-RAT) to [H4ckForJob/Android-RAT](https://github.com/H4ckForJob/Android-RAT)
+  > Powerful Android RAT to Remotly hack any Android Device : https://t.me/ThecyberDemons • https://t.me...
+
 ### [Lakr233](https://github.com/Lakr233)
 - 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [AFK-surf/open-agent](https://github.com/AFK-surf/open-agent)
   > Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus.
@@ -48,10 +52,16 @@
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [predefine/bcm21553-emulator](https://github.com/predefine/bcm21553-emulator)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [fanf2/unifdef](https://github.com/fanf2/unifdef)
+  > selectively remove C preprocessor conditionals
 
 ### [ReZeroS](https://github.com/ReZeroS)
 - 🍴 👤 [ReZeroS](https://github.com/ReZeroS) Forked [CrackerCat/bytedance_tiktok](https://github.com/CrackerCat/bytedance_tiktok) to [ReZeroS/bytedance_tiktok](https://github.com/ReZeroS/bytedance_tiktok)
   > TikTok Reverse Engineering - Security Algorithms
+
+### [Skorpion96](https://github.com/Skorpion96)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [michalbednarski/ResourcePoison](https://github.com/michalbednarski/ResourcePoison)
+  > Writeup and exploit for CVE-2025-22441: Privilege escalation from installed app to SystemUI process ...
 
 ### [Sndav](https://github.com/Sndav)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)
@@ -66,6 +76,9 @@
 ### [XiaoliChan](https://github.com/XiaoliChan)
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [RedTeamPentesting/keycred](https://github.com/RedTeamPentesting/keycred)
   > Generate and Manage KeyCredentialLinks
+
+### [aadog](https://github.com/aadog)
+- ✨ 👤 [aadog](https://github.com/aadog) Created new repo [aadog/RabbitMQLibs](https://github.com/aadog/RabbitMQLibs)
 
 ### [any86](https://github.com/any86)
 - 🌟 👤 [any86](https://github.com/any86) Starred [Zulko/moviepy](https://github.com/Zulko/moviepy)
@@ -127,6 +140,12 @@
 - 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [AFK-surf/open-agent](https://github.com/AFK-surf/open-agent)
   > Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus.
 
+### [dirname](https://github.com/dirname)
+- 🌟 👤 [dirname](https://github.com/dirname) Starred [blockscout/frontend](https://github.com/blockscout/frontend)
+  > Front-end application for Blockscout
+- 🍴 👤 [dirname](https://github.com/dirname) Forked [blockscout/frontend](https://github.com/blockscout/frontend) to [dirname/frontend](https://github.com/dirname/frontend)
+  > Front-end application for Blockscout
+
 ### [dstmath](https://github.com/dstmath)
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [Veloera/Veloera](https://github.com/Veloera/Veloera)
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [1e0n/droid2api](https://github.com/1e0n/droid2api)
@@ -162,6 +181,10 @@
 ### [leolovenet](https://github.com/leolovenet)
 - 🌟 👤 [leolovenet](https://github.com/leolovenet) Starred [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android)
   > Tailscale Android Client
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
+  > Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [michalbednarski/ResourcePoison](https://github.com/michalbednarski/ResourcePoison)
@@ -219,6 +242,10 @@
 - 🌟 👤 [tennc](https://github.com/tennc) Starred [ngosang/trackerslist](https://github.com/ngosang/trackerslist)
   > Updated list of public BitTorrent trackers
 
+### [wszf](https://github.com/wszf)
+- 🌟 👤 [wszf](https://github.com/wszf) Starred [CrackerCat/FartExt](https://github.com/CrackerCat/FartExt)
+  > 在FART的基础上进行优化。实现更深的主动调用。适用AOSP10
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [akfamily/akshare](https://github.com/akfamily/akshare)
   > AKShare is an elegant and simple financial data interface library for Python, built for human beings...
@@ -226,6 +253,8 @@
   > A React component that wrap "Sakana! Widget".
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance)
   > Download market data from Yahoo! Finance's API
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [apache/iceberg](https://github.com/apache/iceberg)
+  > Apache Iceberg
 
 ### [zu1kbackup](https://github.com/zu1kbackup)
 - 🍴 👤 [zu1kbackup](https://github.com/zu1kbackup) Forked [akfamily/akshare](https://github.com/akfamily/akshare) to [zu1kbackup/akshare](https://github.com/zu1kbackup/akshare)
@@ -233,5 +262,5 @@
 
 
 ---
-*最后更新于 2025-10-09 19:39:13 UTC*
+*最后更新于 2025-10-09 20:25:38 UTC*
 *历史记录保存在 `archive` 目录中。*
