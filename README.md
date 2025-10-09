@@ -39,6 +39,8 @@
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [devflowinc/trieve](https://github.com/devflowinc/trieve)
   > All-in-one platform for search, recommendations, RAG, and analytics offered via API
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+  > LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers...
 
 ### [MlgmXyysd](https://github.com/MlgmXyysd)
 - ✨ 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Created new repo [MlgmXyysd/android-bootloader-kernel-source](https://github.com/MlgmXyysd/android-bootloader-kernel-source)
@@ -105,10 +107,17 @@
   > Monitor linux processes without root permissions
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [3ndG4me/AutoBlue-MS17-010](https://github.com/3ndG4me/AutoBlue-MS17-010)
   > This is just an semi-automated fully working, no-bs, non-metasploit version of the public exploit co...
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [phra/PEzor](https://github.com/phra/PEzor)
-  > Open-Source Shellcode & PE Packer
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [mgeeky/RedWarden](https://github.com/mgeeky/RedWarden)
   > Cobalt Strike C2 Reverse proxy that fends off Blue Teams, AVs, EDRs, scanners through packet inspect...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [phra/PEzor](https://github.com/phra/PEzor)
+  > Open-Source Shellcode & PE Packer
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
+  > This publication is a collection of various common attack scenarios on Microsoft Entra ID (formerly ...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [justinsteven/dostackbufferoverflowgood](https://github.com/justinsteven/dostackbufferoverflowgood)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [jfmaes/Red-EC2](https://github.com/jfmaes/Red-EC2)
+  > Spin up RedTeam infrastructure on AWS via Ansible
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+  > List of Awesome Red Teaming Resources
 
 ### [cwuom](https://github.com/cwuom)
 - 🌟 👤 [cwuom](https://github.com/cwuom) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
@@ -132,6 +141,10 @@
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
   > 所有小初高、大学PDF教材。
 
+### [gmh5225](https://github.com/gmh5225)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ioncodes/tracing-viewer](https://github.com/ioncodes/tracing-viewer) to [gmh5225/tracing-viewer](https://github.com/gmh5225/tracing-viewer)
+  > A beautiful trace explorer with filtering capabilities. To be used along with Rust's tracing-subscri...
+
 ### [igogo-x86](https://github.com/igogo-x86)
 - 🍴 👤 [igogo-x86](https://github.com/igogo-x86) Forked [mszabo-wikia/hhvm](https://github.com/mszabo-wikia/hhvm) to [igogo-x86/hhvm](https://github.com/igogo-x86/hhvm)
   > A virtual machine for executing programs written in Hack.
@@ -141,6 +154,14 @@
   > Sega Dreamcast emulator
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [shadersrs3/JarPSX](https://github.com/shadersrs3/JarPSX)
   > PSX emulator written in Java
+
+### [jpacg](https://github.com/jpacg)
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [MlgmXyysd/android-bootloader-kernel-source](https://github.com/MlgmXyysd/android-bootloader-kernel-source)
+  > 各 Android 手机厂商 Bootloader 解锁 / 内核开源 / 解锁后保修情况
+
+### [leolovenet](https://github.com/leolovenet)
+- 🌟 👤 [leolovenet](https://github.com/leolovenet) Starred [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android)
+  > Tailscale Android Client
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [michalbednarski/ResourcePoison](https://github.com/michalbednarski/ResourcePoison)
@@ -153,6 +174,11 @@
   > Reitti is a comprehensive personal location tracking and analysis application that helps you underst...
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [AdnaneKhan/blockly](https://github.com/AdnaneKhan/blockly)
   > The web-based visual programming editor.
+
+### [ntpopgetdope](https://github.com/ntpopgetdope)
+- 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [kudu-dynamics/flint](https://github.com/kudu-dynamics/flint)
+- 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [kudu-dynamics/blaze-platform](https://github.com/kudu-dynamics/blaze-platform)
+  > A framework for program analysis with a focus on modeling programmer assumptions, context- and path-...
 
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
@@ -182,6 +208,9 @@
 - 🌟 👤 [sakana164](https://github.com/sakana164) Starred [Ianzb/MiNavBarImmerse](https://github.com/Ianzb/MiNavBarImmerse)
   > 小米小白条沉浸优化（MiNavBarImmerse）是一个通过替换Xiaomi HyperOS 2.2内置第三方应用小白条配置文件，实现小白条沉浸优化的Magisk模块。
 
+### [springmusk026](https://github.com/springmusk026)
+- 🚀 👤 [springmusk026](https://github.com/springmusk026) Made [springmusk026/Il2CppDumperWeb](https://github.com/springmusk026/Il2CppDumperWeb) public
+
 ### [strongcourage](https://github.com/strongcourage)
 - 🌟 👤 [strongcourage](https://github.com/strongcourage) Starred [tjcruz-dei/ICS_PCAPS](https://github.com/tjcruz-dei/ICS_PCAPS)
   > ICS Cybersecurity PCAP respository 
@@ -193,8 +222,14 @@
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [akfamily/akshare](https://github.com/akfamily/akshare)
   > AKShare is an elegant and simple financial data interface library for Python, built for human beings...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [p-toy-factory/sakana-widget-react](https://github.com/p-toy-factory/sakana-widget-react)
+  > A React component that wrap "Sakana! Widget".
+
+### [zu1kbackup](https://github.com/zu1kbackup)
+- 🍴 👤 [zu1kbackup](https://github.com/zu1kbackup) Forked [akfamily/akshare](https://github.com/akfamily/akshare) to [zu1kbackup/akshare](https://github.com/zu1kbackup/akshare)
+  > AKShare is an elegant and simple financial data interface library for Python, built for human beings...
 
 
 ---
-*最后更新于 2025-10-09 18:32:27 UTC*
+*最后更新于 2025-10-09 19:19:10 UTC*
 *历史记录保存在 `archive` 目录中。*
