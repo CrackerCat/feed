@@ -273,6 +273,8 @@
   > A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [refluxdb/refluxdb](https://github.com/refluxdb/refluxdb)
   > Scalable datastore for metrics, events, and real-time analytics - InfluxDB3-Core fork Unlocked w/ En...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+  > Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting S...
 
 ### [zu1kbackup](https://github.com/zu1kbackup)
 - 🍴 👤 [zu1kbackup](https://github.com/zu1kbackup) Forked [akfamily/akshare](https://github.com/akfamily/akshare) to [zu1kbackup/akshare](https://github.com/zu1kbackup/akshare)
@@ -280,5 +282,5 @@
 
 
 ---
-*最后更新于 2025-10-09 22:20:22 UTC*
+*最后更新于 2025-10-09 22:40:54 UTC*
 *历史记录保存在 `archive` 目录中。*
