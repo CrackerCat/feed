@@ -32,10 +32,6 @@
 - 🌟 👤 [Gegenbauer](https://github.com/Gegenbauer) Starred [androidx/androidx](https://github.com/androidx/androidx)
   > Development environment for Android Jetpack extension libraries under the androidx namespace. Synchr...
 
-### [H4ckForJob](https://github.com/H4ckForJob)
-- 🍴 👤 [H4ckForJob](https://github.com/H4ckForJob) Forked [Huckel789/Android-RAT](https://github.com/Huckel789/Android-RAT) to [H4ckForJob/Android-RAT](https://github.com/H4ckForJob/Android-RAT)
-  > Powerful Android RAT to Remotly hack any Android Device : https://t.me/ThecyberDemons • https://t.me...
-
 ### [Lakr233](https://github.com/Lakr233)
 - 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [AFK-surf/open-agent](https://github.com/AFK-surf/open-agent)
   > Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus.
@@ -262,5 +258,5 @@
 
 
 ---
-*最后更新于 2025-10-09 20:25:38 UTC*
+*最后更新于 2025-10-09 20:42:06 UTC*
 *历史记录保存在 `archive` 目录中。*
