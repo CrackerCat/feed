@@ -47,6 +47,10 @@
 - 🌟 👤 [WinMin](https://github.com/WinMin) Starred [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc)
   > Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
 
+### [XiaoliChan](https://github.com/XiaoliChan)
+- 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [RedTeamPentesting/keycred](https://github.com/RedTeamPentesting/keycred)
+  > Generate and Manage KeyCredentialLinks
+
 ### [any86](https://github.com/any86)
 - 🌟 👤 [any86](https://github.com/any86) Starred [Zulko/moviepy](https://github.com/Zulko/moviepy)
   > Video editing with Python
@@ -68,6 +72,27 @@
   > Learn Go with test-driven development
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [firefart/dirtycow](https://github.com/firefart/dirtycow)
   > Dirty Cow exploit - CVE-2016-5195
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [bluscreenofjeff/Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
+  > Wiki to collect Red Team infrastructure hardening resources
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [hausec/PowerZure](https://github.com/hausec/PowerZure)
+  > PowerShell framework to assess Azure security
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [sm00v/Dehashed](https://github.com/sm00v/Dehashed)
+  > This repo contains scripts to query dehashed.com and crack the returned hashes which will then save ...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Luct0r/KerberOPSEC](https://github.com/Luct0r/KerberOPSEC)
+  > OPSEC safe Kerberoasting in C#
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [JohnHammond/msdt-follina](https://github.com/JohnHammond/msdt-follina)
+  > Codebase to generate an msdt-follina payload
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [aress31/burpgpt](https://github.com/aress31/burpgpt)
+  > A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discov...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Und3rf10w/external_c2_framework](https://github.com/Und3rf10w/external_c2_framework)
+  > Python api for usage with cobalt strike's External C2 specification 
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [wirasecure/pentest-notes](https://github.com/wirasecure/pentest-notes)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy)
+  > Monitor linux processes without root permissions
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [3ndG4me/AutoBlue-MS17-010](https://github.com/3ndG4me/AutoBlue-MS17-010)
+  > This is just an semi-automated fully working, no-bs, non-metasploit version of the public exploit co...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [phra/PEzor](https://github.com/phra/PEzor)
+  > Open-Source Shellcode & PE Packer
 
 ### [cwuom](https://github.com/cwuom)
 - 🌟 👤 [cwuom](https://github.com/cwuom) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
@@ -79,6 +104,13 @@
 
 ### [dstmath](https://github.com/dstmath)
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [Veloera/Veloera](https://github.com/Veloera/Veloera)
+- 🌟 👤 [dstmath](https://github.com/dstmath) Starred [1e0n/droid2api](https://github.com/1e0n/droid2api)
+
+### [easychen](https://github.com/easychen)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [firebase/genkit](https://github.com/firebase/genkit)
+  > Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in ...
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [botswin/BotBrowser](https://github.com/botswin/BotBrowser)
+  > 🤖 Cross-platform browser for automation testing: Cloudflare, Akamai, Kasada, Shape, DataDome, Perime...
 
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
@@ -91,6 +123,8 @@
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [noumidev/nejicast](https://github.com/noumidev/nejicast)
   > Sega Dreamcast emulator
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [shadersrs3/JarPSX](https://github.com/shadersrs3/JarPSX)
+  > PSX emulator written in Java
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [michalbednarski/ResourcePoison](https://github.com/michalbednarski/ResourcePoison)
@@ -107,6 +141,8 @@
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
   > This is a project, where I give you a way to use Autodesk Fusion 360 on Linux!
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [Thermionix/fusion360](https://github.com/Thermionix/fusion360)
+  > This is the snap for Autodesk Fusion 360
 
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [R0rt1z2/amonet](https://github.com/R0rt1z2/amonet)
@@ -121,6 +157,8 @@
   > Latest CVEs with their Proof of Concept exploits.
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [michalbednarski/ResourcePoison](https://github.com/michalbednarski/ResourcePoison) to [rankalpha/ResourcePoison](https://github.com/rankalpha/ResourcePoison)
   > Writeup and exploit for CVE-2025-22441: Privilege escalation from installed app to SystemUI process ...
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [anko5/Build-Mem-Module-Workflow](https://github.com/anko5/Build-Mem-Module-Workflow) to [rankalpha/Build-Mem-Module-Workflow](https://github.com/rankalpha/Build-Mem-Module-Workflow)
+  > Workflow file for build memory read kernel module for android.
 
 ### [sakana164](https://github.com/sakana164)
 - 🌟 👤 [sakana164](https://github.com/sakana164) Starred [Zarosmm/obs-bilibili-stream](https://github.com/Zarosmm/obs-bilibili-stream)
@@ -138,5 +176,5 @@
 
 
 ---
-*最后更新于 2025-10-09 16:30:52 UTC*
+*最后更新于 2025-10-09 17:20:44 UTC*
 *历史记录保存在 `archive` 目录中。*
