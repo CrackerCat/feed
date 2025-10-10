@@ -8,6 +8,20 @@
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [lutzroeder/netron](https://github.com/lutzroeder/netron)
   > Visualizer for neural network, deep learning and machine learning models
 
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)
+  > Run Windows apps on 🐧 Linux with ✨ seamless integration
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz)
+  > Voxel sandbox game with a large render distance, procedurally generated content and some cool graphi...
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server)
+  > The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Oll...
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
+  > A free, open source, and extensible speech-to-text application that works completely offline.
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+  > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [apache/gravitino](https://github.com/apache/gravitino)
+  > World's most powerful open data catalog for building a high-performance, geo-distributed and federat...
+
 ### [Cc28256](https://github.com/Cc28256)
 - 🌟 👤 [Cc28256](https://github.com/Cc28256) Starred [si1kyyy/Read-Write-Driver-2.0](https://github.com/si1kyyy/Read-Write-Driver-2.0)
   > （communication detected）a kernel driver for game cheater. includes read&write memory / key&mouse sim...
@@ -30,6 +44,15 @@
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Growth-Kinetics/DiffMem](https://github.com/Growth-Kinetics/DiffMem)
   > Git Based Memory Storage for Conversational AI Agent
 
+### [chancerly](https://github.com/chancerly)
+- 🌟 👤 [chancerly](https://github.com/chancerly) Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
+  > The official Python SDK for Model Context Protocol servers and clients
+
+### [chf007](https://github.com/chf007)
+- 🌟 👤 [chf007](https://github.com/chf007) Starred [agentjido/req_llm](https://github.com/agentjido/req_llm)
+  > Req plugin to query AI providers
+- 🌟 👤 [chf007](https://github.com/chf007) Starred [chrismccord/web](https://github.com/chrismccord/web)
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sad0p/venom](https://github.com/sad0p/venom) to [gmh5225/venom-](https://github.com/gmh5225/venom-)
   > Linux Kernel Rookit Hooking Mechanism
@@ -40,9 +63,20 @@
 - 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [antgroup/llm-oss-landscape](https://github.com/antgroup/llm-oss-landscape)
   > Open Source Landscapes and Insights Produced by AntOSS
 
+### [hahwul](https://github.com/hahwul)
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [openai/chatkit-js](https://github.com/openai/chatkit-js)
+
 ### [hanc00l](https://github.com/hanc00l)
 - 🌟 👤 [hanc00l](https://github.com/hanc00l) Starred [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)
   > CVE-2025-49844 (RediShell)
+
+### [howmp](https://github.com/howmp)
+- 🌟 👤 [howmp](https://github.com/howmp) Starred [howmp/WinDump](https://github.com/howmp/WinDump)
+  > 后渗透信息/密码/凭证收集工具
+
+### [linxid](https://github.com/linxid)
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers)
+  > Environments for LLM Reinforcement Learning
 
 ### [meowette](https://github.com/meowette)
 - 🍴 👤 [meowette](https://github.com/meowette) Forked [alphastrata/shadplay](https://github.com/alphastrata/shadplay) to [meowette/shadplay](https://github.com/meowette/shadplay)
@@ -68,7 +102,18 @@
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [MlgmXyysd/android-bootloader-kernel-source](https://github.com/MlgmXyysd/android-bootloader-kernel-source)
   > 各 Android 手机厂商 Bootloader 解锁 / 内核开源 / 解锁后保修情况
 
+### [xihan123](https://github.com/xihan123)
+- ✨ 👤 [xihan123](https://github.com/xihan123) Created new repo [xihan123/FFmpeg-Audio](https://github.com/xihan123/FFmpeg-Audio)
+
+### [yhnu](https://github.com/yhnu)
+- 🌟 👤 [yhnu](https://github.com/yhnu) Starred [axinc-ai/ailia-models-unity](https://github.com/axinc-ai/ailia-models-unity)
+  > Unity version of ailia models repository
+
+### [zer0yu](https://github.com/zer0yu)
+- 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
+  > 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
+
 
 ---
-*最后更新于 2025-10-10 09:25:06 UTC*
+*最后更新于 2025-10-10 09:41:30 UTC*
 *历史记录保存在 `archive` 目录中。*
