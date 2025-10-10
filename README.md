@@ -21,6 +21,8 @@
 ### [Abbbbbi](https://github.com/Abbbbbi)
 - 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [a2aproject/A2A](https://github.com/a2aproject/A2A)
   > An open protocol enabling communication and interoperability between opaque agentic applications.
+- 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+  > ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
 ### [Ackites](https://github.com/Ackites)
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [lutzroeder/netron](https://github.com/lutzroeder/netron)
@@ -58,6 +60,10 @@
 ### [Ascotbe](https://github.com/Ascotbe)
 - 🌟 👤 [Ascotbe](https://github.com/Ascotbe) Starred [KoKuToru/de-pixelate_gaV-O6NPWrI](https://github.com/KoKuToru/de-pixelate_gaV-O6NPWrI)
   > de-pixelate youtube video gaV-O6NPWrI
+
+### [CasterWx](https://github.com/CasterWx)
+- 🌟 👤 [CasterWx](https://github.com/CasterWx) Starred [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)
+  > What are the principles we can use to build LLM-powered software that is actually good enough to put...
 
 ### [Cc28256](https://github.com/Cc28256)
 - 🌟 👤 [Cc28256](https://github.com/Cc28256) Starred [si1kyyy/Read-Write-Driver-2.0](https://github.com/si1kyyy/Read-Write-Driver-2.0)
@@ -276,6 +282,10 @@
 ### [cofface](https://github.com/cofface)
 - 🍴 👤 [cofface](https://github.com/cofface) Forked [yibobunengyuntian/FrameWgt](https://github.com/yibobunengyuntian/FrameWgt) to [cofface/FrameWgt](https://github.com/cofface/FrameWgt)
   > Qt 无边框窗口，完全自定义解决方案； QWidget 自定义边框、标题栏样式；自定义最小化、最大化、关闭图标及样式；可移动、拉伸、缩放；自定义窗口阴影、圆角且不影响窗口最大化；
+
+### [cotsom](https://github.com/cotsom)
+- 🌟 👤 [cotsom](https://github.com/cotsom) Starred [FrakenboK/asnx](https://github.com/FrakenboK/asnx)
+  > A CLI tool for obtaining information about ASN hosts using RDAP
 
 ### [cozis](https://github.com/cozis)
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula)
@@ -529,6 +539,10 @@
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners)
   > Save $$$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖
 
+### [redbearder](https://github.com/redbearder)
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [apache/incubator-seata](https://github.com/apache/incubator-seata)
+  > :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+
 ### [relufi](https://github.com/relufi)
 - 🌟 👤 [relufi](https://github.com/relufi) Starred [CrackerCat/SignFaker](https://github.com/CrackerCat/SignFaker)
   > 通过一个APK代理模拟QQ环境获取Sign，并放出API
@@ -640,5 +654,5 @@
 
 
 ---
-*最后更新于 2025-10-10 21:18:52 UTC*
+*最后更新于 2025-10-10 21:38:47 UTC*
 *历史记录保存在 `archive` 目录中。*
