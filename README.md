@@ -325,6 +325,10 @@
 - 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [moode-player/moode](https://github.com/moode-player/moode)
   > moOde sources and configs
 
+### [shadow3aaa](https://github.com/shadow3aaa)
+- 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [openwrt/openwrt](https://github.com/openwrt/openwrt)
+  > This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only ...
+
 ### [sledgeh4w](https://github.com/sledgeh4w)
 - 🌟 👤 [sledgeh4w](https://github.com/sledgeh4w) Starred [darlinghq/darling](https://github.com/darlinghq/darling)
   > Darwin/macOS emulation layer for Linux
@@ -377,5 +381,5 @@
 
 
 ---
-*最后更新于 2025-10-10 15:22:39 UTC*
+*最后更新于 2025-10-10 15:40:53 UTC*
 *历史记录保存在 `archive` 目录中。*
