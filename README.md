@@ -21,10 +21,17 @@
   > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [apache/gravitino](https://github.com/apache/gravitino)
   > World's most powerful open data catalog for building a high-performance, geo-distributed and federat...
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
 
 ### [Cc28256](https://github.com/Cc28256)
 - 🌟 👤 [Cc28256](https://github.com/Cc28256) Starred [si1kyyy/Read-Write-Driver-2.0](https://github.com/si1kyyy/Read-Write-Driver-2.0)
   > （communication detected）a kernel driver for game cheater. includes read&write memory / key&mouse sim...
+
+### [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut)
+- 🌟 👤 [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
+  > LKM rootkit for modern kernels (6x)
+- 🌟 👤 [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut) Starred [MatheuZSecurity/Rootkit](https://github.com/MatheuZSecurity/Rootkit)
+  > Collection of codes focused on Linux rootkits
 
 ### [DeHby](https://github.com/DeHby)
 - 🌟 👤 [DeHby](https://github.com/DeHby) Starred [ulixee/chrome-versions](https://github.com/ulixee/chrome-versions)
@@ -33,6 +40,13 @@
 ### [Evian-Zhang](https://github.com/Evian-Zhang)
 - 🌟 👤 [Evian-Zhang](https://github.com/Evian-Zhang) Starred [binarly-io/idalib](https://github.com/binarly-io/idalib)
   > Idiomatic Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using...
+
+### [Kwansy98](https://github.com/Kwansy98)
+- 🌟 👤 [Kwansy98](https://github.com/Kwansy98) Starred [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2)
+
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [xishang0128/sparkle](https://github.com/xishang0128/sparkle)
+  > :electron: Another Mihomo GUI. (🛠building...)
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [springmusk026/Dex2C-Backend](https://github.com/springmusk026/Dex2C-Backend)
@@ -45,6 +59,10 @@
 ### [Ryuchen](https://github.com/Ryuchen)
 - 🌟 👤 [Ryuchen](https://github.com/Ryuchen) Starred [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
   > Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperv...
+
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [springmusk026/Dex2C-Backend](https://github.com/springmusk026/Dex2C-Backend)
+  > Dex2C Backend is the server-side processing engine for the Dex2C ecosystem
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [springmusk026/Dex2C-Android](https://github.com/springmusk026/Dex2C-Android)
@@ -92,6 +110,14 @@
 ### [daisixuan](https://github.com/daisixuan)
 - 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [TMLP-Team/keyboxGenerator](https://github.com/TMLP-Team/keyboxGenerator)
   > The Python scripts are used for generating Android keybox.xml for Tricky Store (a Magisk Module) on ...
+
+### [easychen](https://github.com/easychen)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
+  > On-device TTS model by Neuphonic
+
+### [fuhei](https://github.com/fuhei)
+- 🌟 👤 [fuhei](https://github.com/fuhei) Starred [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger)
+  > Autoswagger by Intruder - detect API auth weaknesses
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sad0p/venom](https://github.com/sad0p/venom) to [gmh5225/venom-](https://github.com/gmh5225/venom-)
@@ -148,6 +174,12 @@
 - 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [moode-player/moode](https://github.com/moode-player/moode)
   > moOde sources and configs
 
+### [smallzhong](https://github.com/smallzhong)
+- 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [seifreed/r2morph](https://github.com/seifreed/r2morph)
+  > A metamorphic binary transformation engine based on r2pipe and radare2.
+- 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [seifreed/r2morph](https://github.com/seifreed/r2morph) to [smallzhong/r2morph](https://github.com/smallzhong/r2morph)
+  > A metamorphic binary transformation engine based on r2pipe and radare2.
+
 ### [tlaceby](https://github.com/tlaceby)
 - 🌟 👤 [tlaceby](https://github.com/tlaceby) Starred [tlaceby/rawkit](https://github.com/tlaceby/rawkit)
   >  Rawkit is a Go/C++ library for working with RAW image files. It provides a simple interface for loa...
@@ -155,6 +187,10 @@
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
   > Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [zhaotoday/fingerprint-browser](https://github.com/zhaotoday/fingerprint-browser)
+  > 指纹浏览器（防关联浏览器）资源整理 - Fingerprint Browser (Antidetect Browser) Resources
+- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [gongchandang49/brokecord-solver](https://github.com/gongchandang49/brokecord-solver)
+  > BrokeCord - free hCaptcha solver
 
 ### [xihan123](https://github.com/xihan123)
 - ✨ 👤 [xihan123](https://github.com/xihan123) Created new repo [xihan123/FFmpeg-Audio](https://github.com/xihan123/FFmpeg-Audio)
@@ -170,8 +206,9 @@
 ### [zhangkanqi](https://github.com/zhangkanqi)
 - 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [iSEngLab/AwesomeLLM4APR](https://github.com/iSEngLab/AwesomeLLM4APR)
   > A Systematic Literature Review on Large Language Models for Automated Program Repair
+- 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [HACK-EVENT/hackatdac18](https://github.com/HACK-EVENT/hackatdac18)
 
 
 ---
-*最后更新于 2025-10-10 10:24:28 UTC*
+*最后更新于 2025-10-10 10:43:38 UTC*
 *历史记录保存在 `archive` 目录中。*
