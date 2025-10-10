@@ -4,9 +4,15 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) to [0xdea/awesome-vscode](https://github.com/0xdea/awesome-vscode)
+  > 🎨 A curated list of delightful VS Code packages and resources.
+
 ### [0xlane](https://github.com/0xlane)
 - ✨ 👤 [0xlane](https://github.com/0xlane) Created new repo [0xlane/raycast_wubi](https://github.com/0xlane/raycast_wubi)
   > 一个用于查询汉字五笔编码和拆字图的Raycast插件。
+- 🍴 👤 [0xlane](https://github.com/0xlane) Forked [raycast/extensions](https://github.com/raycast/extensions) to [0xlane/raycast-extensions](https://github.com/0xlane/raycast-extensions)
+  > Everything you need to extend Raycast.
 
 ### [Ackites](https://github.com/Ackites)
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [lutzroeder/netron](https://github.com/lutzroeder/netron)
@@ -67,6 +73,9 @@
 - 🌟 👤 [FiYHer](https://github.com/FiYHer) Starred [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor)
   > 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为...
 
+### [GtxFury](https://github.com/GtxFury)
+- 🚀 👤 [GtxFury](https://github.com/GtxFury) Made [GtxFury/FlyClash-docs](https://github.com/GtxFury/FlyClash-docs) public
+
 ### [Kwansy98](https://github.com/Kwansy98)
 - 🌟 👤 [Kwansy98](https://github.com/Kwansy98) Starred [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2)
 
@@ -101,6 +110,18 @@
 ### [Samael-Z](https://github.com/Samael-Z)
 - 🌟 👤 [Samael-Z](https://github.com/Samael-Z) Starred [alegrey91/harpoon](https://github.com/alegrey91/harpoon)
   > 🔍 Seccomp profiling and function-level tracing tool.
+
+### [Sec-Fork](https://github.com/Sec-Fork)
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [RedTeamPentesting/keycred](https://github.com/RedTeamPentesting/keycred) to [Sec-Fork/keycred](https://github.com/Sec-Fork/keycred)
+  > Generate and Manage KeyCredentialLinks
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [KrazePlanet/KrazePlanetTraining](https://github.com/KrazePlanet/KrazePlanetTraining) to [Sec-Fork/KrazePlanetTraining](https://github.com/Sec-Fork/KrazePlanetTraining)
+  > Free BugBounty KrazePlanetTraining
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [ParkSnoopy/rust_llvm-arkari_ollvm](https://github.com/ParkSnoopy/rust_llvm-arkari_ollvm) to [Sec-Fork/rust_llvm-arkari_ollvm](https://github.com/Sec-Fork/rust_llvm-arkari_ollvm)
+  > merge rust-lang's llvm and KomiMoe's Arkari-ollvm to produce obfuscated llvm for rustc
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [NPC2000/elf_to_shellcode](https://github.com/NPC2000/elf_to_shellcode) to [Sec-Fork/elf_to_shellcode-2](https://github.com/Sec-Fork/elf_to_shellcode-2)
+  > 将任何 elf 或命令转换为 shellcode
+- 🍴 👤 [Sec-Fork](https://github.com/Sec-Fork) Forked [0xNinjaCyclone/AsmLdr](https://github.com/0xNinjaCyclone/AsmLdr) to [Sec-Fork/AsmLdr](https://github.com/Sec-Fork/AsmLdr)
+  > Dynamic shellcode loader with sophisticated evasion capabilities
 
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [springmusk026/Dex2C-Backend](https://github.com/springmusk026/Dex2C-Backend)
@@ -236,6 +257,10 @@
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [pgEdge/spock](https://github.com/pgEdge/spock)
   > Logical multi-master PostgreSQL replication
 
+### [ibaoger](https://github.com/ibaoger)
+- 🍴 👤 [ibaoger](https://github.com/ibaoger) Forked [Ksuriuri/index-tts-vllm](https://github.com/Ksuriuri/index-tts-vllm) to [ibaoger/index-tts-vllm](https://github.com/ibaoger/index-tts-vllm)
+  > Added vLLM support to IndexTTS for faster inference.
+
 ### [israel-dryer](https://github.com/israel-dryer)
 - 🌟 👤 [israel-dryer](https://github.com/israel-dryer) Starred [beeware/briefcase](https://github.com/beeware/briefcase)
   > Tools to support converting a Python project into a standalone native application.
@@ -243,6 +268,10 @@
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [joseairosa/recall](https://github.com/joseairosa/recall)
   > Give Claude perfect recall - Redis-powered persistent memory for LLMs
+
+### [junknet](https://github.com/junknet)
+- 🌟 👤 [junknet](https://github.com/junknet) Starred [zinja-coder/jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server)
+  > MCP server for JADX-AI Plugin
 
 ### [lemuellew](https://github.com/lemuellew)
 - 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [wshobson/agents](https://github.com/wshobson/agents)
@@ -343,6 +372,10 @@
 - 🌟 👤 [tlaceby](https://github.com/tlaceby) Starred [tlaceby/rawkit](https://github.com/tlaceby/rawkit)
   >  Rawkit is a Go/C++ library for working with RAW image files. It provides a simple interface for loa...
 
+### [veaba](https://github.com/veaba)
+- 🌟 👤 [veaba](https://github.com/veaba) Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)
+  > React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (ht...
+
 ### [wszxl516](https://github.com/wszxl516)
 - 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [EricZhu-42/SteamTradingSite-ID-Mapper](https://github.com/EricZhu-42/SteamTradingSite-ID-Mapper)
   > ID mapping for DOTA2 & CS2 tradeable items between the Steam Market and third party trading platform...
@@ -379,7 +412,23 @@
 - 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
   > SoftVC VITS Singing Voice Conversion
 
+### [zhkl0228](https://github.com/zhkl0228)
+- 🌟 👤 [zhkl0228](https://github.com/zhkl0228) Starred [AlbatrossHook/AlbatrossAndroid](https://github.com/AlbatrossHook/AlbatrossAndroid)
+  > a next-generation hooking and reflection framework built for performance, safety, and extensibility.
+
+### [zhzyker](https://github.com/zhzyker)
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [RedTeamPentesting/keycred](https://github.com/RedTeamPentesting/keycred)
+  > Generate and Manage KeyCredentialLinks
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [KrazePlanet/KrazePlanetTraining](https://github.com/KrazePlanet/KrazePlanetTraining)
+  > Free BugBounty KrazePlanetTraining
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [ParkSnoopy/rust_llvm-arkari_ollvm](https://github.com/ParkSnoopy/rust_llvm-arkari_ollvm)
+  > merge rust-lang's llvm and KomiMoe's Arkari-ollvm to produce obfuscated llvm for rustc
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [NPC2000/elf_to_shellcode](https://github.com/NPC2000/elf_to_shellcode)
+  > 将任何 elf 或命令转换为 shellcode
+- 🌟 👤 [zhzyker](https://github.com/zhzyker) Starred [0xNinjaCyclone/AsmLdr](https://github.com/0xNinjaCyclone/AsmLdr)
+  > Dynamic shellcode loader with sophisticated evasion capabilities
+
 
 ---
-*最后更新于 2025-10-10 15:40:53 UTC*
+*最后更新于 2025-10-10 16:28:32 UTC*
 *历史记录保存在 `archive` 目录中。*
