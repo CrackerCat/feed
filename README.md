@@ -23,6 +23,16 @@
   > World's most powerful open data catalog for building a high-performance, geo-distributed and federat...
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels)
 
+### [AndSource](https://github.com/AndSource)
+- 🍴 👤 [AndSource](https://github.com/AndSource) Forked [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) to [AndSource/obsidian-lifeos](https://github.com/AndSource/obsidian-lifeos)
+  > Obsidian Plugin for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
+
+### [AnkioTomas](https://github.com/AnkioTomas)
+- 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [aooiuu/any-reader](https://github.com/aooiuu/any-reader)
+  > 📘开源的多平台自定义源资源聚合工具。支持小说、漫画阅读、视频播放、聚合搜索、分类排行等, 也支持本地资源TXT、EPUB
+- 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [mabDc/eso](https://github.com/mabDc/eso)
+  > 亦搜，亦看，亦闻  manga&novel reader, audio&video player in one app developed by flutter
+
 ### [Cc28256](https://github.com/Cc28256)
 - 🌟 👤 [Cc28256](https://github.com/Cc28256) Starred [si1kyyy/Read-Write-Driver-2.0](https://github.com/si1kyyy/Read-Write-Driver-2.0)
   > （communication detected）a kernel driver for game cheater. includes read&write memory / key&mouse sim...
@@ -70,6 +80,10 @@
 - 🌟 👤 [Ryuchen](https://github.com/Ryuchen) Starred [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
   > Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperv...
 
+### [Samael-Z](https://github.com/Samael-Z)
+- 🌟 👤 [Samael-Z](https://github.com/Samael-Z) Starred [alegrey91/harpoon](https://github.com/alegrey91/harpoon)
+  > 🔍 Seccomp profiling and function-level tracing tool.
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [springmusk026/Dex2C-Backend](https://github.com/springmusk026/Dex2C-Backend)
   > Dex2C Backend is the server-side processing engine for the Dex2C ecosystem
@@ -89,6 +103,10 @@
 ### [TomAPU](https://github.com/TomAPU)
 - 🌟 👤 [TomAPU](https://github.com/TomAPU) Starred [openai/codex](https://github.com/openai/codex)
   > Lightweight coding agent that runs in your terminal
+
+### [X1r0z](https://github.com/X1r0z)
+- 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
+  > Windows protocol library, including SMB and RPC implementations, among others.
 
 ### [barry-ran](https://github.com/barry-ran)
 - 🌟 👤 [barry-ran](https://github.com/barry-ran) Starred [paceholder/nodeeditor](https://github.com/paceholder/nodeeditor)
@@ -190,6 +208,10 @@
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers)
   > Environments for LLM Reinforcement Learning
 
+### [lqzhgood](https://github.com/lqzhgood)
+- 🌟 👤 [lqzhgood](https://github.com/lqzhgood) Starred [stackia/rtp2httpd](https://github.com/stackia/rtp2httpd)
+  > Multicast RTP to Unicast HTTP stream convertor
+
 ### [meowette](https://github.com/meowette)
 - 🍴 👤 [meowette](https://github.com/meowette) Forked [alphastrata/shadplay](https://github.com/alphastrata/shadplay) to [meowette/shadplay](https://github.com/meowette/shadplay)
   > Real-time wgsl visualisation tooling for educating oneself in the art of shader programming
@@ -213,6 +235,9 @@
   > The Stardust XR server, required to run and connect clients
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [pgEdge/spock](https://github.com/pgEdge/spock)
   > Logical multi-master PostgreSQL replication
+
+### [oureveryday](https://github.com/oureveryday)
+- 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [byJoey/cfnew](https://github.com/byJoey/cfnew)
 
 ### [pinwhell](https://github.com/pinwhell)
 - ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/calc-rs](https://github.com/pinwhell/calc-rs)
@@ -241,6 +266,10 @@
 ### [tlaceby](https://github.com/tlaceby)
 - 🌟 👤 [tlaceby](https://github.com/tlaceby) Starred [tlaceby/rawkit](https://github.com/tlaceby/rawkit)
   >  Rawkit is a Go/C++ library for working with RAW image files. It provides a simple interface for loa...
+
+### [wszxl516](https://github.com/wszxl516)
+- 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [EricZhu-42/SteamTradingSite-ID-Mapper](https://github.com/EricZhu-42/SteamTradingSite-ID-Mapper)
+  > ID mapping for DOTA2 & CS2 tradeable items between the Steam Market and third party trading platform...
 
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
@@ -272,5 +301,5 @@
 
 
 ---
-*最后更新于 2025-10-10 12:47:37 UTC*
+*最后更新于 2025-10-10 13:31:12 UTC*
 *历史记录保存在 `archive` 目录中。*
