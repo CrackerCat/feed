@@ -158,6 +158,10 @@
 - 🌟 👤 [howmp](https://github.com/howmp) Starred [howmp/WinDump](https://github.com/howmp/WinDump)
   > 后渗透信息/密码/凭证收集工具
 
+### [israel-dryer](https://github.com/israel-dryer)
+- 🌟 👤 [israel-dryer](https://github.com/israel-dryer) Starred [beeware/briefcase](https://github.com/beeware/briefcase)
+  > Tools to support converting a Python project into a standalone native application.
+
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [joseairosa/recall](https://github.com/joseairosa/recall)
   > Give Claude perfect recall - Redis-powered persistent memory for LLMs
@@ -225,6 +229,10 @@
 - 🌟 👤 [yhnu](https://github.com/yhnu) Starred [axinc-ai/ailia-models-unity](https://github.com/axinc-ai/ailia-models-unity)
   > Unity version of ailia models repository
 
+### [yichen115](https://github.com/yichen115)
+- 🌟 👤 [yichen115](https://github.com/yichen115) Starred [cyberblu3s/CyberBlue](https://github.com/cyberblu3s/CyberBlue)
+  > CyberSecurity BLUE TEAM containerized platform that brings together open-source tools for SIEM, DFIR...
+
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
   > 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
@@ -236,5 +244,5 @@
 
 
 ---
-*最后更新于 2025-10-10 11:19:17 UTC*
+*最后更新于 2025-10-10 11:38:53 UTC*
 *历史记录保存在 `archive` 目录中。*
