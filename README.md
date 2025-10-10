@@ -26,9 +26,41 @@
 - 🌟 👤 [Cc28256](https://github.com/Cc28256) Starred [si1kyyy/Read-Write-Driver-2.0](https://github.com/si1kyyy/Read-Write-Driver-2.0)
   > （communication detected）a kernel driver for game cheater. includes read&write memory / key&mouse sim...
 
+### [DeHby](https://github.com/DeHby)
+- 🌟 👤 [DeHby](https://github.com/DeHby) Starred [ulixee/chrome-versions](https://github.com/ulixee/chrome-versions)
+  > Versions of Chrome for Mac, Windows and Linux with auto-updating turned off.
+
+### [Evian-Zhang](https://github.com/Evian-Zhang)
+- 🌟 👤 [Evian-Zhang](https://github.com/Evian-Zhang) Starred [binarly-io/idalib](https://github.com/binarly-io/idalib)
+  > Idiomatic Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using...
+
+### [Mrack](https://github.com/Mrack)
+- 🌟 👤 [Mrack](https://github.com/Mrack) Starred [springmusk026/Dex2C-Backend](https://github.com/springmusk026/Dex2C-Backend)
+  > Dex2C Backend is the server-side processing engine for the Dex2C ecosystem
+
+### [PoomSmart](https://github.com/PoomSmart)
+- 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [yoavst/ida-ios-helper](https://github.com/yoavst/ida-ios-helper)
+  > Plugin to ease reversing iOS projects
+
+### [Ryuchen](https://github.com/Ryuchen)
+- 🌟 👤 [Ryuchen](https://github.com/Ryuchen) Starred [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
+  > Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperv...
+
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [springmusk026/Dex2C-Android](https://github.com/springmusk026/Dex2C-Android)
   > Dex2C Android is the client application for the Dex2C ecosystem
+
+### [THISISAGOODNAME](https://github.com/THISISAGOODNAME)
+- 🌟 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Starred [jaredkrinke/sic1](https://github.com/jaredkrinke/sic1)
+  > Single-instruction (subleq) programming game
+
+### [TomAPU](https://github.com/TomAPU)
+- 🌟 👤 [TomAPU](https://github.com/TomAPU) Starred [openai/codex](https://github.com/openai/codex)
+  > Lightweight coding agent that runs in your terminal
+
+### [barry-ran](https://github.com/barry-ran)
+- 🌟 👤 [barry-ran](https://github.com/barry-ran) Starred [paceholder/nodeeditor](https://github.com/paceholder/nodeeditor)
+  > Qt Node Editor. Dataflow programming framework
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [snicolast/ComfyUI-IndexTTS2](https://github.com/snicolast/ComfyUI-IndexTTS2)
@@ -52,6 +84,14 @@
 - 🌟 👤 [chf007](https://github.com/chf007) Starred [agentjido/req_llm](https://github.com/agentjido/req_llm)
   > Req plugin to query AI providers
 - 🌟 👤 [chf007](https://github.com/chf007) Starred [chrismccord/web](https://github.com/chrismccord/web)
+
+### [chinatiny](https://github.com/chinatiny)
+- 🍴 👤 [chinatiny](https://github.com/chinatiny) Forked [MiHaKun/Telegram-interactive-bot](https://github.com/MiHaKun/Telegram-interactive-bot) to [chinatiny/Telegram-interactive-bot](https://github.com/chinatiny/Telegram-interactive-bot)
+  > Telegram(电报/纸飞机)的开源双向机器人（客服机器人？）。避免垃圾信息；让被限制的客户可以顺利联系到你；支持后台分组，算是一个简易的CRM系统。Open-source interactive ...
+
+### [daisixuan](https://github.com/daisixuan)
+- 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [TMLP-Team/keyboxGenerator](https://github.com/TMLP-Team/keyboxGenerator)
+  > The Python scripts are used for generating Android keybox.xml for Tricky Store (a Magisk Module) on ...
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sad0p/venom](https://github.com/sad0p/venom) to [gmh5225/venom-](https://github.com/gmh5225/venom-)
@@ -85,6 +125,8 @@
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [R0rt1z2/fenrir](https://github.com/R0rt1z2/fenrir)
   > Let's control MediaTek's bootchain
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [kevin-mizu/domloggerpp](https://github.com/kevin-mizu/domloggerpp)
+  > A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on custo...
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [StardustXR/telescope](https://github.com/StardustXR/telescope)
@@ -102,6 +144,18 @@
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [MlgmXyysd/android-bootloader-kernel-source](https://github.com/MlgmXyysd/android-bootloader-kernel-source)
   > 各 Android 手机厂商 Bootloader 解锁 / 内核开源 / 解锁后保修情况
 
+### [rushiiMachine](https://github.com/rushiiMachine)
+- 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [moode-player/moode](https://github.com/moode-player/moode)
+  > moOde sources and configs
+
+### [tlaceby](https://github.com/tlaceby)
+- 🌟 👤 [tlaceby](https://github.com/tlaceby) Starred [tlaceby/rawkit](https://github.com/tlaceby/rawkit)
+  >  Rawkit is a Go/C++ library for working with RAW image files. It provides a simple interface for loa...
+
+### [xiaoweigege](https://github.com/xiaoweigege)
+- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+  > Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+
 ### [xihan123](https://github.com/xihan123)
 - ✨ 👤 [xihan123](https://github.com/xihan123) Created new repo [xihan123/FFmpeg-Audio](https://github.com/xihan123/FFmpeg-Audio)
 
@@ -113,7 +167,11 @@
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
   > 🎮 An open-source game speed modifier.[一款开源的游戏变速器]
 
+### [zhangkanqi](https://github.com/zhangkanqi)
+- 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [iSEngLab/AwesomeLLM4APR](https://github.com/iSEngLab/AwesomeLLM4APR)
+  > A Systematic Literature Review on Large Language Models for Automated Program Repair
+
 
 ---
-*最后更新于 2025-10-10 09:41:30 UTC*
+*最后更新于 2025-10-10 10:24:28 UTC*
 *历史记录保存在 `archive` 目录中。*
