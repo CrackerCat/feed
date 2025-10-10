@@ -56,6 +56,12 @@
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [springmusk026/Dex2C-Backend](https://github.com/springmusk026/Dex2C-Backend)
   > Dex2C Backend is the server-side processing engine for the Dex2C ecosystem
 
+### [No-Github](https://github.com/No-Github)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [scumjr/dirtycow-vdso](https://github.com/scumjr/dirtycow-vdso)
+  > PoC for Dirty COW (CVE-2016-5195)
+- 🍴 👤 [No-Github](https://github.com/No-Github) Forked [scumjr/dirtycow-vdso](https://github.com/scumjr/dirtycow-vdso) to [No-Github/dirtycow-vdso](https://github.com/No-Github/dirtycow-vdso)
+  > PoC for Dirty COW (CVE-2016-5195)
+
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [yoavst/ida-ios-helper](https://github.com/yoavst/ida-ios-helper)
   > Plugin to ease reversing iOS projects
@@ -125,6 +131,10 @@
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
   > On-device TTS model by Neuphonic
 
+### [erupmi](https://github.com/erupmi)
+- 🌟 👤 [erupmi](https://github.com/erupmi) Starred [blender/blender](https://github.com/blender/blender)
+  > Official mirror of Blender
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust)
   > AWS SDK for the Rust Programming Language
@@ -154,6 +164,16 @@
 - 🌟 👤 [hanc00l](https://github.com/hanc00l) Starred [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)
   > CVE-2025-49844 (RediShell)
 
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [DavidVentura/firefox-translator](https://github.com/DavidVentura/firefox-translator)
+  > Use Firefox Translation Models for on-device translation on Android
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
+  > 自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
+### [hoochanlon](https://github.com/hoochanlon)
+- 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [ricocc/uiineed-todo-list](https://github.com/ricocc/uiineed-todo-list) to [hoochanlon/todo](https://github.com/hoochanlon/todo)
+  > Todo List Online - Minimalist, No-Login Required Web Todo App
+
 ### [howmp](https://github.com/howmp)
 - 🌟 👤 [howmp](https://github.com/howmp) Starred [howmp/WinDump](https://github.com/howmp/WinDump)
   > 后渗透信息/密码/凭证收集工具
@@ -179,12 +199,20 @@
   > Let's control MediaTek's bootchain
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [kevin-mizu/domloggerpp](https://github.com/kevin-mizu/domloggerpp)
   > A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on custo...
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [bebiksior/Caido403Bypasser](https://github.com/bebiksior/Caido403Bypasser)
+  > 403Bypasser is a simple plugin that lets you bypass 403 status code by transforming HTTP requests wi...
+
+### [neil-wu](https://github.com/neil-wu)
+- 🌟 👤 [neil-wu](https://github.com/neil-wu) Starred [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
+  > The most advanced browser fingerprinting library.
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [StardustXR/telescope](https://github.com/StardustXR/telescope)
   > A quick start bundle installation of Stardust XR. Includes the server and a collection of clients
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [StardustXR/server](https://github.com/StardustXR/server)
   > The Stardust XR server, required to run and connect clients
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [pgEdge/spock](https://github.com/pgEdge/spock)
+  > Logical multi-master PostgreSQL replication
 
 ### [pinwhell](https://github.com/pinwhell)
 - ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/calc-rs](https://github.com/pinwhell/calc-rs)
@@ -244,5 +272,5 @@
 
 
 ---
-*最后更新于 2025-10-10 11:38:53 UTC*
+*最后更新于 2025-10-10 12:47:37 UTC*
 *历史记录保存在 `archive` 目录中。*
