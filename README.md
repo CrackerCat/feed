@@ -90,6 +90,10 @@
 ### [GtxFury](https://github.com/GtxFury)
 - 🚀 👤 [GtxFury](https://github.com/GtxFury) Made [GtxFury/FlyClash-docs](https://github.com/GtxFury/FlyClash-docs) public
 
+### [H4ckForJob](https://github.com/H4ckForJob)
+- 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [Wh0am123/MCP-Kali-Server](https://github.com/Wh0am123/MCP-Kali-Server)
+  > MCP configuration to connect AI agent to a Linux machine.
+
 ### [Kwansy98](https://github.com/Kwansy98)
 - 🌟 👤 [Kwansy98](https://github.com/Kwansy98) Starred [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2)
 
@@ -271,6 +275,10 @@
   > Store your data from all your accounts and devices in a single cohesive timeline on your own compute...
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt)
   > Format Rust code
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz)
+  > Voxel sandbox game with a large render distance, procedurally generated content and some cool graphi...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
+  > A lightweight, powerful framework for multi-agent workflows
 
 ### [fei-ke](https://github.com/fei-ke)
 - 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [sharat87/httpbun](https://github.com/sharat87/httpbun)
@@ -572,5 +580,5 @@
 
 
 ---
-*最后更新于 2025-10-10 20:24:49 UTC*
+*最后更新于 2025-10-10 20:41:37 UTC*
 *历史记录保存在 `archive` 目录中。*
