@@ -4,8 +4,15 @@
 
 ## 今日动态
 
-今天还没有新的公开动态。
+### [meowette](https://github.com/meowette)
+- 🍴 👤 [meowette](https://github.com/meowette) Forked [alphastrata/shadplay](https://github.com/alphastrata/shadplay) to [meowette/shadplay](https://github.com/meowette/shadplay)
+  > Real-time wgsl visualisation tooling for educating oneself in the art of shader programming
+
+### [mzfr](https://github.com/mzfr)
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [R0rt1z2/fenrir](https://github.com/R0rt1z2/fenrir)
+  > Let's control MediaTek's bootchain
+
 
 ---
-*最后更新于 2025-10-10 07:39:24 UTC*
+*最后更新于 2025-10-10 08:30:35 UTC*
 *历史记录保存在 `archive` 目录中。*
