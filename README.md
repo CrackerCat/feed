@@ -18,6 +18,10 @@
 - 🍴 👤 [0xlane](https://github.com/0xlane) Forked [raycast/extensions](https://github.com/raycast/extensions) to [0xlane/raycast-extensions](https://github.com/0xlane/raycast-extensions)
   > Everything you need to extend Raycast.
 
+### [Abbbbbi](https://github.com/Abbbbbi)
+- 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [a2aproject/A2A](https://github.com/a2aproject/A2A)
+  > An open protocol enabling communication and interoperability between opaque agentic applications.
+
 ### [Ackites](https://github.com/Ackites)
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [lutzroeder/netron](https://github.com/lutzroeder/netron)
   > Visualizer for neural network, deep learning and machine learning models
@@ -79,9 +83,22 @@
 - 🌟 👤 [Evian-Zhang](https://github.com/Evian-Zhang) Starred [binarly-io/idalib](https://github.com/binarly-io/idalib)
   > Idiomatic Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using...
 
+### [FaEryICE](https://github.com/FaEryICE)
+- 🌟 👤 [FaEryICE](https://github.com/FaEryICE) Starred [Pica4x6/SecurePreferencesFile](https://github.com/Pica4x6/SecurePreferencesFile)
+
+### [FeeiCN](https://github.com/FeeiCN)
+- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+  > TradingAgents: Multi-Agents LLM Financial Trading Framework
+
 ### [FiYHer](https://github.com/FiYHer)
 - 🌟 👤 [FiYHer](https://github.com/FiYHer) Starred [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor)
   > 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为...
+
+### [GangJust](https://github.com/GangJust)
+- 🌟 👤 [GangJust](https://github.com/GangJust) Starred [RikkaW/libcxx-prefab](https://github.com/RikkaW/libcxx-prefab)
+  > Prefab package for https://github.com/topjohnwu/libcxx.
+- 🍴 👤 [GangJust](https://github.com/GangJust) Forked [RikkaW/libcxx-prefab](https://github.com/RikkaW/libcxx-prefab) to [GangJust/libcxx-prefab](https://github.com/GangJust/libcxx-prefab)
+  > Prefab package for https://github.com/topjohnwu/libcxx.
 
 ### [GcsSloop](https://github.com/GcsSloop)
 - 🌟 👤 [GcsSloop](https://github.com/GcsSloop) Starred [nocodb/nocodb](https://github.com/nocodb/nocodb)
@@ -109,9 +126,16 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian)
   > 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wub...
 
+### [M0Rf30](https://github.com/M0Rf30)
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway)
+  > Next Generation Agentic Proxy for AI Agents and MCP servers
+
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [springmusk026/Dex2C-Backend](https://github.com/springmusk026/Dex2C-Backend)
   > Dex2C Backend is the server-side processing engine for the Dex2C ecosystem
+
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui)
 
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [scumjr/dirtycow-vdso](https://github.com/scumjr/dirtycow-vdso)
@@ -130,6 +154,10 @@
   > The official Go client for Elasticsearch
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [elastic/elasticsearch-labs](https://github.com/elastic/elasticsearch-labs)
   > Notebooks & Example Apps for Search & AI Applications with Elasticsearch
+
+### [PKUFlyingPig](https://github.com/PKUFlyingPig)
+- 🌟 👤 [PKUFlyingPig](https://github.com/PKUFlyingPig) Starred [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook)
+  > Post-training with Tinker
 
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [yoavst/ida-ios-helper](https://github.com/yoavst/ida-ios-helper)
@@ -175,6 +203,10 @@
 - 🌟 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Starred [jaredkrinke/sic1](https://github.com/jaredkrinke/sic1)
   > Single-instruction (subleq) programming game
 
+### [TheKingOfDuck](https://github.com/TheKingOfDuck)
+- 🌟 👤 [TheKingOfDuck](https://github.com/TheKingOfDuck) Starred [google/magika](https://github.com/google/magika)
+  > Fast and accurate AI powered file content types detection 
+
 ### [TomAPU](https://github.com/TomAPU)
 - 🌟 👤 [TomAPU](https://github.com/TomAPU) Starred [openai/codex](https://github.com/openai/codex)
   > Lightweight coding agent that runs in your terminal
@@ -186,6 +218,15 @@
 ### [XiaoliChan](https://github.com/XiaoliChan)
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [sma11new/Pyke-Shiro](https://github.com/sma11new/Pyke-Shiro)
   > 复杂请求下的Shiro反序列化利用工具
+- 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [BlackSnufkin/BYOVD](https://github.com/BlackSnufkin/BYOVD)
+  > BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology. ...
+
+### [aadog](https://github.com/aadog)
+- ✨ 👤 [aadog](https://github.com/aadog) Created new repo [aadog/RedisLibs](https://github.com/aadog/RedisLibs)
+
+### [ba0gu0](https://github.com/ba0gu0)
+- 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router)
+  > A Unified MCP Server Management App
 
 ### [barry-ran](https://github.com/barry-ran)
 - 🌟 👤 [barry-ran](https://github.com/barry-ran) Starred [paceholder/nodeeditor](https://github.com/paceholder/nodeeditor)
@@ -244,6 +285,10 @@
 - 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [TMLP-Team/keyboxGenerator](https://github.com/TMLP-Team/keyboxGenerator)
   > The Python scripts are used for generating Android keybox.xml for Tricky Store (a Magisk Module) on ...
 
+### [dodola](https://github.com/dodola)
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [dvlab-research/ControlNeXt](https://github.com/dvlab-research/ControlNeXt)
+  > Controllable video and image Generation, SVD, Animate Anyone, ControlNet, ControlNeXt, LoRA
+
 ### [droidhub-pro](https://github.com/droidhub-pro)
 - 🌟 👤 [droidhub-pro](https://github.com/droidhub-pro) Starred [CrackerCat/ToramHack](https://github.com/CrackerCat/ToramHack)
   > Zygisk (cheat) module for RPG Toram Online
@@ -284,15 +329,27 @@
 - 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [sharat87/httpbun](https://github.com/sharat87/httpbun)
   > An HTTP server with APIs useful in testing HTTP clients. Inspired by httpbin, but isn't a clone.
 
+### [fishso](https://github.com/fishso)
+- 🍴 👤 [fishso](https://github.com/fishso) Forked [Domilopment/apk-extractor](https://github.com/Domilopment/apk-extractor) to [fishso/apk-extractor](https://github.com/fishso/apk-extractor)
+  > A Simple Modern APK Extractor App
+
 ### [fuhei](https://github.com/fuhei)
 - 🌟 👤 [fuhei](https://github.com/fuhei) Starred [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger)
   > Autoswagger by Intruder - detect API auth weaknesses
+
+### [gamelaster](https://github.com/gamelaster)
+- 🌟 👤 [gamelaster](https://github.com/gamelaster) Starred [FPGAwars/apio](https://github.com/FPGAwars/apio)
+  > :seedling: Open source ecosystem for open FPGA boards
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sad0p/venom](https://github.com/sad0p/venom) to [gmh5225/venom-](https://github.com/gmh5225/venom-)
   > Linux Kernel Rookit Hooking Mechanism
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [victrme/Bonjourr](https://github.com/victrme/Bonjourr) to [gmh5225/Bonjourr](https://github.com/gmh5225/Bonjourr)
   > Minimalist & lightweight startpage inspired by iOS
+
+### [gyyyy](https://github.com/gyyyy)
+- 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [Luke8659/good-vpn](https://github.com/Luke8659/good-vpn)
+  > 最新性价比VPN推荐，稳定机场解锁ChatGPT、Netflix、TikTok-好用的翻墙梯子
 
 ### [h3h3qaq](https://github.com/h3h3qaq)
 - 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [antgroup/llm-oss-landscape](https://github.com/antgroup/llm-oss-landscape)
@@ -372,6 +429,9 @@
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [joseairosa/recall](https://github.com/joseairosa/recall)
   > Give Claude perfect recall - Redis-powered persistent memory for LLMs
+
+### [jiutian666](https://github.com/jiutian666)
+- 🌟 👤 [jiutian666](https://github.com/jiutian666) Starred [bndeff/socksdroid](https://github.com/bndeff/socksdroid)
 
 ### [junknet](https://github.com/junknet)
 - 🌟 👤 [junknet](https://github.com/junknet) Starred [zinja-coder/jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server)
@@ -580,5 +640,5 @@
 
 
 ---
-*最后更新于 2025-10-10 20:41:37 UTC*
+*最后更新于 2025-10-10 21:18:52 UTC*
 *历史记录保存在 `archive` 目录中。*
