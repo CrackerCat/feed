@@ -109,6 +109,10 @@
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [yoavst/ida-ios-helper](https://github.com/yoavst/ida-ios-helper)
   > Plugin to ease reversing iOS projects
 
+### [QianNangong](https://github.com/QianNangong)
+- 🌟 👤 [QianNangong](https://github.com/QianNangong) Starred [Cubeir/Vanilla-RTX](https://github.com/Cubeir/Vanilla-RTX)
+  > Vanilla RTX GitHub Repository - The Ray Tracing Resource Pack for Minecraft Bedrock Edition: Vanilla...
+
 ### [Ryuchen](https://github.com/Ryuchen)
 - 🌟 👤 [Ryuchen](https://github.com/Ryuchen) Starred [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
   > Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperv...
@@ -289,6 +293,14 @@
 - 🌟 👤 [israel-dryer](https://github.com/israel-dryer) Starred [beeware/briefcase](https://github.com/beeware/briefcase)
   > Tools to support converting a Python project into a standalone native application.
 
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet)
+  > Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc Wi...
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
+  > MapLibre GL JS - Interactive vector tile maps in the browser
+
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [joseairosa/recall](https://github.com/joseairosa/recall)
   > Give Claude perfect recall - Redis-powered persistent memory for LLMs
@@ -404,6 +416,10 @@
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [seifreed/r2morph](https://github.com/seifreed/r2morph) to [smallzhong/r2morph](https://github.com/smallzhong/r2morph)
   > A metamorphic binary transformation engine based on r2pipe and radare2.
 
+### [ssfdust](https://github.com/ssfdust)
+- 🍴 👤 [ssfdust](https://github.com/ssfdust) Forked [Shougo/shougo-s-github](https://github.com/Shougo/shougo-s-github) to [ssfdust/shougo-s-github](https://github.com/ssfdust/shougo-s-github)
+  > Shougo's git repository - vim, zsh, screen, etc...
+
 ### [tlaceby](https://github.com/tlaceby)
 - 🌟 👤 [tlaceby](https://github.com/tlaceby) Starred [tlaceby/rawkit](https://github.com/tlaceby/rawkit)
   >  Rawkit is a Go/C++ library for working with RAW image files. It provides a simple interface for loa...
@@ -466,5 +482,5 @@
 
 
 ---
-*最后更新于 2025-10-10 17:40:04 UTC*
+*最后更新于 2025-10-10 18:32:30 UTC*
 *历史记录保存在 `archive` 目录中。*
