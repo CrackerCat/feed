@@ -61,6 +61,12 @@
 - 🌟 👤 [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut) Starred [MatheuZSecurity/Rootkit](https://github.com/MatheuZSecurity/Rootkit)
   > Collection of codes focused on Linux rootkits
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula)
+  > A fast, lightweight web framework in C for building modern web applications
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [maizzle/maizzle](https://github.com/maizzle/maizzle)
+  > Quickly build HTML emails with Tailwind CSS.
+
 ### [DeHby](https://github.com/DeHby)
 - 🌟 👤 [DeHby](https://github.com/DeHby) Starred [ulixee/chrome-versions](https://github.com/ulixee/chrome-versions)
   > Versions of Chrome for Mac, Windows and Linux with auto-updating turned off.
@@ -188,6 +194,14 @@
 - 🍴 👤 [chinatiny](https://github.com/chinatiny) Forked [MiHaKun/Telegram-interactive-bot](https://github.com/MiHaKun/Telegram-interactive-bot) to [chinatiny/Telegram-interactive-bot](https://github.com/chinatiny/Telegram-interactive-bot)
   > Telegram(电报/纸飞机)的开源双向机器人（客服机器人？）。避免垃圾信息；让被限制的客户可以顺利联系到你；支持后台分组，算是一个简易的CRM系统。Open-source interactive ...
 
+### [codezjx](https://github.com/codezjx)
+- 🌟 👤 [codezjx](https://github.com/codezjx) Starred [DavidVentura/firefox-translator](https://github.com/DavidVentura/firefox-translator)
+  > Use Firefox Translation Models for on-device translation on Android
+
+### [cofface](https://github.com/cofface)
+- 🍴 👤 [cofface](https://github.com/cofface) Forked [yibobunengyuntian/FrameWgt](https://github.com/yibobunengyuntian/FrameWgt) to [cofface/FrameWgt](https://github.com/cofface/FrameWgt)
+  > Qt 无边框窗口，完全自定义解决方案； QWidget 自定义边框、标题栏样式；自定义最小化、最大化、关闭图标及样式；可移动、拉伸、缩放；自定义窗口阴影、圆角且不影响窗口最大化；
+
 ### [cozis](https://github.com/cozis)
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula)
   > A fast, lightweight web framework in C for building modern web applications
@@ -242,6 +256,8 @@
 
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [openai/chatkit-js](https://github.com/openai/chatkit-js)
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
+  > The financial transactions database designed for mission critical safety and performance.
 
 ### [hanc00l](https://github.com/hanc00l)
 - 🌟 👤 [hanc00l](https://github.com/hanc00l) Starred [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)
@@ -288,6 +304,10 @@
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers)
   > Environments for LLM Reinforcement Learning
+
+### [longf2011](https://github.com/longf2011)
+- 🌟 👤 [longf2011](https://github.com/longf2011) Starred [ioncodes/idacode](https://github.com/ioncodes/idacode)
+  > An integration for IDA and VS Code which connects both to easily execute and debug IDAPython scripts...
 
 ### [lqzhgood](https://github.com/lqzhgood)
 - 🌟 👤 [lqzhgood](https://github.com/lqzhgood) Starred [stackia/rtp2httpd](https://github.com/stackia/rtp2httpd)
@@ -442,5 +462,5 @@
 
 
 ---
-*最后更新于 2025-10-10 16:47:28 UTC*
+*最后更新于 2025-10-10 17:19:53 UTC*
 *历史记录保存在 `archive` 目录中。*
