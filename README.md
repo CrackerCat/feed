@@ -41,6 +41,10 @@
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan)
   > 阅读书源-香色闺阁+用心读书+源阅+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
 
+### [Ascotbe](https://github.com/Ascotbe)
+- 🌟 👤 [Ascotbe](https://github.com/Ascotbe) Starred [KoKuToru/de-pixelate_gaV-O6NPWrI](https://github.com/KoKuToru/de-pixelate_gaV-O6NPWrI)
+  > de-pixelate youtube video gaV-O6NPWrI
+
 ### [Cc28256](https://github.com/Cc28256)
 - 🌟 👤 [Cc28256](https://github.com/Cc28256) Starred [si1kyyy/Read-Write-Driver-2.0](https://github.com/si1kyyy/Read-Write-Driver-2.0)
   > （communication detected）a kernel driver for game cheater. includes read&write memory / key&mouse sim...
@@ -155,6 +159,10 @@
 - 🌟 👤 [chf007](https://github.com/chf007) Starred [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin)
   > Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
 
+### [chickendrop89](https://github.com/chickendrop89)
+- 🌟 👤 [chickendrop89](https://github.com/chickendrop89) Starred [qualcomm/eld](https://github.com/qualcomm/eld)
+  > Embedded Linker
+
 ### [chinatiny](https://github.com/chinatiny)
 - 🍴 👤 [chinatiny](https://github.com/chinatiny) Forked [MiHaKun/Telegram-interactive-bot](https://github.com/MiHaKun/Telegram-interactive-bot) to [chinatiny/Telegram-interactive-bot](https://github.com/chinatiny/Telegram-interactive-bot)
   > Telegram(电报/纸飞机)的开源双向机器人（客服机器人？）。避免垃圾信息；让被限制的客户可以顺利联系到你；支持后台分组，算是一个简易的CRM系统。Open-source interactive ...
@@ -162,6 +170,10 @@
 ### [daisixuan](https://github.com/daisixuan)
 - 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [TMLP-Team/keyboxGenerator](https://github.com/TMLP-Team/keyboxGenerator)
   > The Python scripts are used for generating Android keybox.xml for Tricky Store (a Magisk Module) on ...
+
+### [dstmath](https://github.com/dstmath)
+- 🌟 👤 [dstmath](https://github.com/dstmath) Starred [liqiang-xxfy/fly-cursor-free](https://github.com/liqiang-xxfy/fly-cursor-free)
+  > 轻松一键续杯 Cursor Pro，保持14天试用不掉。【支持 Claude 4】
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
@@ -192,6 +204,8 @@
 ### [h3h3qaq](https://github.com/h3h3qaq)
 - 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [antgroup/llm-oss-landscape](https://github.com/antgroup/llm-oss-landscape)
   > Open Source Landscapes and Insights Produced by AntOSS
+- 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
+  > Windows protocol library, including SMB and RPC implementations, among others.
 
 ### [h4sh5](https://github.com/h4sh5)
 - ✨ 👤 [h4sh5](https://github.com/h4sh5) Created new repo [h4sh5/red-riding-hood](https://github.com/h4sh5/red-riding-hood)
@@ -218,6 +232,10 @@
 - 🌟 👤 [howmp](https://github.com/howmp) Starred [howmp/WinDump](https://github.com/howmp/WinDump)
   > 后渗透信息/密码/凭证收集工具
 
+### [iAklis](https://github.com/iAklis)
+- 🌟 👤 [iAklis](https://github.com/iAklis) Starred [pgEdge/spock](https://github.com/pgEdge/spock)
+  > Logical multi-master PostgreSQL replication
+
 ### [israel-dryer](https://github.com/israel-dryer)
 - 🌟 👤 [israel-dryer](https://github.com/israel-dryer) Starred [beeware/briefcase](https://github.com/beeware/briefcase)
   > Tools to support converting a Python project into a standalone native application.
@@ -225,6 +243,10 @@
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [joseairosa/recall](https://github.com/joseairosa/recall)
   > Give Claude perfect recall - Redis-powered persistent memory for LLMs
+
+### [lemuellew](https://github.com/lemuellew)
+- 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [wshobson/agents](https://github.com/wshobson/agents)
+  > A collection of production-ready subagents for Claude Code
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers)
@@ -272,6 +294,10 @@
 - ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/calc-rs](https://github.com/pinwhell/calc-rs)
   > Interactive CLI Calculator in Rust
 
+### [playGitboy](https://github.com/playGitboy)
+- 🌟 👤 [playGitboy](https://github.com/playGitboy) Starred [aynakeya/v8asm](https://github.com/aynakeya/v8asm)
+  > A V8 bytecode disassembler & decompiler (In Progress)
+
 ### [plusls](https://github.com/plusls)
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [666ghj/BettaFish](https://github.com/666ghj/BettaFish)
   > 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
@@ -281,6 +307,19 @@
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [ShinoLeah/eHook](https://github.com/ShinoLeah/eHook) to [rankalpha/eHook](https://github.com/rankalpha/eHook)
   > A Simple uprobe Hook Framework
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [delphix/bpftrace](https://github.com/delphix/bpftrace) to [rankalpha/bpftrace](https://github.com/rankalpha/bpftrace)
+  > bpftrace is a kernel live tracing (debugging) tool, similar to dtrace on Illumos. Ubuntu doesn't pro...
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [blueseason/ebpf_dev_tool](https://github.com/blueseason/ebpf_dev_tool) to [rankalpha/ebpf_dev_tool](https://github.com/rankalpha/ebpf_dev_tool)
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [runs-on/runs-on](https://github.com/runs-on/runs-on)
+  > Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited cach...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners)
+  > Save $$$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖
+
+### [reveng007](https://github.com/reveng007)
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [fortalice/bofhound](https://github.com/fortalice/bofhound)
+  > Generate BloodHound compatible JSON from logs written by ldapsearch BOF, pyldapsearch and Brute Rate...
 
 ### [rushiiMachine](https://github.com/rushiiMachine)
 - 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [moode-player/moode](https://github.com/moode-player/moode)
@@ -338,5 +377,5 @@
 
 
 ---
-*最后更新于 2025-10-10 14:43:50 UTC*
+*最后更新于 2025-10-10 15:22:39 UTC*
 *历史记录保存在 `archive` 目录中。*
