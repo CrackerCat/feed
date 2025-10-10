@@ -32,6 +32,10 @@
   > 📘开源的多平台自定义源资源聚合工具。支持小说、漫画阅读、视频播放、聚合搜索、分类排行等, 也支持本地资源TXT、EPUB
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [mabDc/eso](https://github.com/mabDc/eso)
   > 亦搜，亦看，亦闻  manga&novel reader, audio&video player in one app developed by flutter
+- ✨ 👤 [AnkioTomas](https://github.com/AnkioTomas) Created new repo [AnkioTomas/Sigmata](https://github.com/AnkioTomas/Sigmata)
+  > 一个语法解析库，支持阅读、eso规则
+- 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan)
+  > 阅读书源-香色闺阁+用心读书+源阅+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
 
 ### [Cc28256](https://github.com/Cc28256)
 - 🌟 👤 [Cc28256](https://github.com/Cc28256) Starred [si1kyyy/Read-Write-Driver-2.0](https://github.com/si1kyyy/Read-Write-Driver-2.0)
@@ -72,6 +76,10 @@
 - 🍴 👤 [No-Github](https://github.com/No-Github) Forked [scumjr/dirtycow-vdso](https://github.com/scumjr/dirtycow-vdso) to [No-Github/dirtycow-vdso](https://github.com/No-Github/dirtycow-vdso)
   > PoC for Dirty COW (CVE-2016-5195)
 
+### [OCNYang](https://github.com/OCNYang)
+- 🌟 👤 [OCNYang](https://github.com/OCNYang) Starred [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+  > 所有小初高、大学PDF教材。
+
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [yoavst/ida-ios-helper](https://github.com/yoavst/ida-ios-helper)
   > Plugin to ease reversing iOS projects
@@ -107,6 +115,10 @@
 ### [X1r0z](https://github.com/X1r0z)
 - 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [trustedsec/Titanis](https://github.com/trustedsec/Titanis)
   > Windows protocol library, including SMB and RPC implementations, among others.
+
+### [XiaoliChan](https://github.com/XiaoliChan)
+- 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [sma11new/Pyke-Shiro](https://github.com/sma11new/Pyke-Shiro)
+  > 复杂请求下的Shiro反序列化利用工具
 
 ### [barry-ran](https://github.com/barry-ran)
 - 🌟 👤 [barry-ran](https://github.com/barry-ran) Starred [paceholder/nodeeditor](https://github.com/paceholder/nodeeditor)
@@ -157,6 +169,10 @@
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust)
   > AWS SDK for the Rust Programming Language
 
+### [fei-ke](https://github.com/fei-ke)
+- 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [sharat87/httpbun](https://github.com/sharat87/httpbun)
+  > An HTTP server with APIs useful in testing HTTP clients. Inspired by httpbin, but isn't a clone.
+
 ### [fuhei](https://github.com/fuhei)
 - 🌟 👤 [fuhei](https://github.com/fuhei) Starred [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger)
   > Autoswagger by Intruder - detect API auth weaknesses
@@ -186,7 +202,7 @@
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [DavidVentura/firefox-translator](https://github.com/DavidVentura/firefox-translator)
   > Use Firefox Translation Models for on-device translation on Android
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service)
-  > 自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+  > 自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 ### [hoochanlon](https://github.com/hoochanlon)
 - 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [ricocc/uiineed-todo-list](https://github.com/ricocc/uiineed-todo-list) to [hoochanlon/todo](https://github.com/hoochanlon/todo)
@@ -227,6 +243,10 @@
 ### [neil-wu](https://github.com/neil-wu)
 - 🌟 👤 [neil-wu](https://github.com/neil-wu) Starred [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
   > The most advanced browser fingerprinting library.
+
+### [ni-qiuqiu](https://github.com/ni-qiuqiu)
+- 🌟 👤 [ni-qiuqiu](https://github.com/ni-qiuqiu) Starred [groupultra/telegram-search](https://github.com/groupultra/telegram-search)
+  > 🔍  A powerful Telegram chat search tool with vector search and semantic matching capabilities.
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [StardustXR/telescope](https://github.com/StardustXR/telescope)
@@ -299,7 +319,11 @@
   > A Systematic Literature Review on Large Language Models for Automated Program Repair
 - 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [HACK-EVENT/hackatdac18](https://github.com/HACK-EVENT/hackatdac18)
 
+### [zhaotianff](https://github.com/zhaotianff)
+- 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
+  > SoftVC VITS Singing Voice Conversion
+
 
 ---
-*最后更新于 2025-10-10 13:31:12 UTC*
+*最后更新于 2025-10-10 14:22:24 UTC*
 *历史记录保存在 `archive` 目录中。*
