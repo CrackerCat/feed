@@ -343,9 +343,17 @@
 - 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [sharat87/httpbun](https://github.com/sharat87/httpbun)
   > An HTTP server with APIs useful in testing HTTP clients. Inspired by httpbin, but isn't a clone.
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Teach2Breach/mal_ex](https://github.com/Teach2Breach/mal_ex) to [fengjixuchui/mal_ex](https://github.com/fengjixuchui/mal_ex)
+  > Source code for complete MALicious softWARE books I & II
+
 ### [fishso](https://github.com/fishso)
 - 🍴 👤 [fishso](https://github.com/fishso) Forked [Domilopment/apk-extractor](https://github.com/Domilopment/apk-extractor) to [fishso/apk-extractor](https://github.com/fishso/apk-extractor)
   > A Simple Modern APK Extractor App
+
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [wickenico/WailBrew](https://github.com/wickenico/WailBrew)
+  > Minimalistic Homebrew GUI made with Go, Wails and React.
 
 ### [fuhei](https://github.com/fuhei)
 - 🌟 👤 [fuhei](https://github.com/fuhei) Starred [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger)
@@ -546,6 +554,8 @@
 ### [redbearder](https://github.com/redbearder)
 - 🌟 👤 [redbearder](https://github.com/redbearder) Starred [apache/incubator-seata](https://github.com/apache/incubator-seata)
   > :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [dbcli/pgcli](https://github.com/dbcli/pgcli)
+  > Postgres CLI with autocompletion and syntax highlighting
 
 ### [relufi](https://github.com/relufi)
 - 🌟 👤 [relufi](https://github.com/relufi) Starred [CrackerCat/SignFaker](https://github.com/CrackerCat/SignFaker)
@@ -596,6 +606,10 @@
 ### [veaba](https://github.com/veaba)
 - 🌟 👤 [veaba](https://github.com/veaba) Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)
   > React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (ht...
+
+### [wanghongenpin](https://github.com/wanghongenpin)
+- ✨ 👤 [wanghongenpin](https://github.com/wanghongenpin) Created new repo [wanghongenpin/uni_clip](https://github.com/wanghongenpin/uni_clip)
+  > 一款跨设备剪贴板同步工具，支持局域网与蓝牙双通道，同步文本/图片等内容。数据仅在你的设备之间本地传输与保存。
 
 ### [wszxl516](https://github.com/wszxl516)
 - 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [EricZhu-42/SteamTradingSite-ID-Mapper](https://github.com/EricZhu-42/SteamTradingSite-ID-Mapper)
@@ -658,5 +672,5 @@
 
 
 ---
-*最后更新于 2025-10-10 22:39:53 UTC*
+*最后更新于 2025-10-10 23:19:39 UTC*
 *历史记录保存在 `archive` 目录中。*
