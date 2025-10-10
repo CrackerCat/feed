@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xlane](https://github.com/0xlane)
+- ✨ 👤 [0xlane](https://github.com/0xlane) Created new repo [0xlane/raycast_wubi](https://github.com/0xlane/raycast_wubi)
+  > 一个用于查询汉字五笔编码和拆字图的Raycast插件。
+
 ### [Ackites](https://github.com/Ackites)
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [lutzroeder/netron](https://github.com/lutzroeder/netron)
   > Visualizer for neural network, deep learning and machine learning models
@@ -75,6 +79,8 @@
   > PoC for Dirty COW (CVE-2016-5195)
 - 🍴 👤 [No-Github](https://github.com/No-Github) Forked [scumjr/dirtycow-vdso](https://github.com/scumjr/dirtycow-vdso) to [No-Github/dirtycow-vdso](https://github.com/No-Github/dirtycow-vdso)
   > PoC for Dirty COW (CVE-2016-5195)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [reewardius/Nuclei-AI-Prompts](https://github.com/reewardius/Nuclei-AI-Prompts)
+  > Nuclei-AI-Prompts
 
 ### [OCNYang](https://github.com/OCNYang)
 - 🌟 👤 [OCNYang](https://github.com/OCNYang) Starred [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
@@ -240,6 +246,9 @@
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [bebiksior/Caido403Bypasser](https://github.com/bebiksior/Caido403Bypasser)
   > 403Bypasser is a simple plugin that lets you bypass 403 status code by transforming HTTP requests wi...
 
+### [natsumerinchan](https://github.com/natsumerinchan)
+- 🍴 👤 [natsumerinchan](https://github.com/natsumerinchan) Forked [GalTransl/GalTransl_DumpInjector](https://github.com/GalTransl/GalTransl_DumpInjector) to [natsumerinchan/GalTransl_DumpInjector](https://github.com/natsumerinchan/GalTransl_DumpInjector)
+
 ### [neil-wu](https://github.com/neil-wu)
 - 🌟 👤 [neil-wu](https://github.com/neil-wu) Starred [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
   > The most advanced browser fingerprinting library.
@@ -268,6 +277,10 @@
   > 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [MlgmXyysd/android-bootloader-kernel-source](https://github.com/MlgmXyysd/android-bootloader-kernel-source)
   > 各 Android 手机厂商 Bootloader 解锁 / 内核开源 / 解锁后保修情况
+
+### [rankalpha](https://github.com/rankalpha)
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [ShinoLeah/eHook](https://github.com/ShinoLeah/eHook) to [rankalpha/eHook](https://github.com/rankalpha/eHook)
+  > A Simple uprobe Hook Framework
 
 ### [rushiiMachine](https://github.com/rushiiMachine)
 - 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [moode-player/moode](https://github.com/moode-player/moode)
@@ -325,5 +338,5 @@
 
 
 ---
-*最后更新于 2025-10-10 14:22:24 UTC*
+*最后更新于 2025-10-10 14:43:50 UTC*
 *历史记录保存在 `archive` 目录中。*
