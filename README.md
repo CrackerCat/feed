@@ -188,6 +188,10 @@
 - 🍴 👤 [chinatiny](https://github.com/chinatiny) Forked [MiHaKun/Telegram-interactive-bot](https://github.com/MiHaKun/Telegram-interactive-bot) to [chinatiny/Telegram-interactive-bot](https://github.com/chinatiny/Telegram-interactive-bot)
   > Telegram(电报/纸飞机)的开源双向机器人（客服机器人？）。避免垃圾信息；让被限制的客户可以顺利联系到你；支持后台分组，算是一个简易的CRM系统。Open-source interactive ...
 
+### [cozis](https://github.com/cozis)
+- 🌟 👤 [cozis](https://github.com/cozis) Starred [ashtonjamesd/lavandula](https://github.com/ashtonjamesd/lavandula)
+  > A fast, lightweight web framework in C for building modern web applications
+
 ### [daisixuan](https://github.com/daisixuan)
 - 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [TMLP-Team/keyboxGenerator](https://github.com/TMLP-Team/keyboxGenerator)
   > The Python scripts are used for generating Android keybox.xml for Tricky Store (a Magisk Module) on ...
@@ -195,6 +199,10 @@
 ### [dstmath](https://github.com/dstmath)
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [liqiang-xxfy/fly-cursor-free](https://github.com/liqiang-xxfy/fly-cursor-free)
   > 轻松一键续杯 Cursor Pro，保持14天试用不掉。【支持 Claude 4】
+
+### [duanluan](https://github.com/duanluan)
+- 🌟 👤 [duanluan](https://github.com/duanluan) Starred [rathole-org/rathole](https://github.com/rathole-org/rathole)
+  > A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative ...
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
@@ -346,6 +354,10 @@
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners)
   > Save $$$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖
 
+### [relufi](https://github.com/relufi)
+- 🌟 👤 [relufi](https://github.com/relufi) Starred [CrackerCat/SignFaker](https://github.com/CrackerCat/SignFaker)
+  > 通过一个APK代理模拟QQ环境获取Sign，并放出API
+
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [fortalice/bofhound](https://github.com/fortalice/bofhound)
   > Generate BloodHound compatible JSON from logs written by ldapsearch BOF, pyldapsearch and Brute Rate...
@@ -430,5 +442,5 @@
 
 
 ---
-*最后更新于 2025-10-10 16:28:32 UTC*
+*最后更新于 2025-10-10 16:47:28 UTC*
 *历史记录保存在 `archive` 目录中。*
