@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0x1306a94](https://github.com/0x1306a94)
+- 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [gmarm/BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl)
+  > An easy to use, customizable replacement for UISegmentedControl & UISwitch.
+
 ### [0xdea](https://github.com/0xdea)
 - 🍴 👤 [0xdea](https://github.com/0xdea) Forked [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) to [0xdea/awesome-vscode](https://github.com/0xdea/awesome-vscode)
   > 🎨 A curated list of delightful VS Code packages and resources.
@@ -79,6 +83,10 @@
 - 🌟 👤 [FiYHer](https://github.com/FiYHer) Starred [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor)
   > 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为...
 
+### [GcsSloop](https://github.com/GcsSloop)
+- 🌟 👤 [GcsSloop](https://github.com/GcsSloop) Starred [nocodb/nocodb](https://github.com/nocodb/nocodb)
+  > 🔥 🔥 🔥 Open Source Airtable Alternative
+
 ### [GtxFury](https://github.com/GtxFury)
 - 🚀 👤 [GtxFury](https://github.com/GtxFury) Made [GtxFury/FlyClash-docs](https://github.com/GtxFury/FlyClash-docs) public
 
@@ -88,6 +96,14 @@
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [xishang0128/sparkle](https://github.com/xishang0128/sparkle)
   > :electron: Another Mihomo GUI. (🛠building...)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [iDvel/rime-ice](https://github.com/iDvel/rime-ice)
+  > Rime 配置：雾凇拼音 | 长期维护的简体词库
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [rime/weasel](https://github.com/rime/weasel)
+  > 【小狼毫】Rime for Windows
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [rime/squirrel](https://github.com/rime/squirrel)
+  > 【鼠鬚管】Rime for macOS
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian)
+  > 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wub...
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [springmusk026/Dex2C-Backend](https://github.com/springmusk026/Dex2C-Backend)
@@ -104,6 +120,12 @@
 ### [OCNYang](https://github.com/OCNYang)
 - 🌟 👤 [OCNYang](https://github.com/OCNYang) Starred [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
   > 所有小初高、大学PDF教材。
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch)
+  > The official Go client for Elasticsearch
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [elastic/elasticsearch-labs](https://github.com/elastic/elasticsearch-labs)
+  > Notebooks & Example Apps for Search & AI Applications with Elasticsearch
 
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [yoavst/ida-ios-helper](https://github.com/yoavst/ida-ios-helper)
@@ -182,6 +204,8 @@
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
   > The official Python SDK for Model Context Protocol servers and clients
+- 🌟 👤 [chancerly](https://github.com/chancerly) Starred [LichAmnesia/GPT-Prompt-Hub](https://github.com/LichAmnesia/GPT-Prompt-Hub)
+  > GPT-Prompt-Hub is an open-source community-driven repository dedicated to the collection, sharing, a...
 
 ### [chf007](https://github.com/chf007)
 - 🌟 👤 [chf007](https://github.com/chf007) Starred [agentjido/req_llm](https://github.com/agentjido/req_llm)
@@ -213,6 +237,10 @@
 ### [daisixuan](https://github.com/daisixuan)
 - 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [TMLP-Team/keyboxGenerator](https://github.com/TMLP-Team/keyboxGenerator)
   > The Python scripts are used for generating Android keybox.xml for Tricky Store (a Magisk Module) on ...
+
+### [droidhub-pro](https://github.com/droidhub-pro)
+- 🌟 👤 [droidhub-pro](https://github.com/droidhub-pro) Starred [CrackerCat/ToramHack](https://github.com/CrackerCat/ToramHack)
+  > Zygisk (cheat) module for RPG Toram Online
 
 ### [dstmath](https://github.com/dstmath)
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [liqiang-xxfy/fly-cursor-free](https://github.com/liqiang-xxfy/fly-cursor-free)
@@ -333,6 +361,9 @@
 - 🍴 👤 [meowette](https://github.com/meowette) Forked [alphastrata/shadplay](https://github.com/alphastrata/shadplay) to [meowette/shadplay](https://github.com/meowette/shadplay)
   > Real-time wgsl visualisation tooling for educating oneself in the art of shader programming
 
+### [mhogomchungu](https://github.com/mhogomchungu)
+- 🍴 👤 [mhogomchungu](https://github.com/mhogomchungu) Forked [flathub/io.github.mhogomchungu.sirikali](https://github.com/flathub/io.github.mhogomchungu.sirikali) to [mhogomchungu/io.github.mhogomchungu.sirikali](https://github.com/mhogomchungu/io.github.mhogomchungu.sirikali)
+
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [R0rt1z2/fenrir](https://github.com/R0rt1z2/fenrir)
   > Let's control MediaTek's bootchain
@@ -377,6 +408,14 @@
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [MlgmXyysd/android-bootloader-kernel-source](https://github.com/MlgmXyysd/android-bootloader-kernel-source)
   > 各 Android 手机厂商 Bootloader 解锁 / 内核开源 / 解锁后保修情况
 
+### [pxx917144686](https://github.com/pxx917144686)
+- ✨ 👤 [pxx917144686](https://github.com/pxx917144686) Created new repo [pxx917144686/WeChat_LiquidGlass](https://github.com/pxx917144686/WeChat_LiquidGlass)
+  > 测试可行性: B方案的 系统 Liquid Glass
+
+### [ra66itmachine](https://github.com/ra66itmachine)
+- 🌟 👤 [ra66itmachine](https://github.com/ra66itmachine) Starred [chasingboy/appsx](https://github.com/chasingboy/appsx)
+  > appsx 是一款自动化信息收集｜敏感信息识别｜未授权漏洞扫描｜指纹识别｜常见漏洞扫描工具
+
 ### [rankalpha](https://github.com/rankalpha)
 - 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [ShinoLeah/eHook](https://github.com/ShinoLeah/eHook) to [rankalpha/eHook](https://github.com/rankalpha/eHook)
   > A Simple uprobe Hook Framework
@@ -420,9 +459,21 @@
 - 🍴 👤 [ssfdust](https://github.com/ssfdust) Forked [Shougo/shougo-s-github](https://github.com/Shougo/shougo-s-github) to [ssfdust/shougo-s-github](https://github.com/ssfdust/shougo-s-github)
   > Shougo's git repository - vim, zsh, screen, etc...
 
+### [suzhelan](https://github.com/suzhelan)
+- 🚀 👤 [suzhelan](https://github.com/suzhelan) Made [suzhelan/ElysiajsSample](https://github.com/suzhelan/ElysiajsSample) public
+  > Nodejs:Bun+Elysia.js示例，测试性能最高的web框架，使用TypeScript
+
+### [tamirzb](https://github.com/tamirzb)
+- 🌟 👤 [tamirzb](https://github.com/tamirzb) Starred [glide-browser/glide](https://github.com/glide-browser/glide)
+  > An extensible and keyboard-focused web browser
+
 ### [tlaceby](https://github.com/tlaceby)
 - 🌟 👤 [tlaceby](https://github.com/tlaceby) Starred [tlaceby/rawkit](https://github.com/tlaceby/rawkit)
   >  Rawkit is a Go/C++ library for working with RAW image files. It provides a simple interface for loa...
+
+### [uvbs](https://github.com/uvbs)
+- 🌟 👤 [uvbs](https://github.com/uvbs) Starred [nkurata/BeeR-Type](https://github.com/nkurata/BeeR-Type)
+  > multiplayer 2D game designed with a modular architecture, separating the server, client, game, and g...
 
 ### [veaba](https://github.com/veaba)
 - 🌟 👤 [veaba](https://github.com/veaba) Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)
@@ -442,6 +493,7 @@
 
 ### [xihan123](https://github.com/xihan123)
 - ✨ 👤 [xihan123](https://github.com/xihan123) Created new repo [xihan123/FFmpeg-Audio](https://github.com/xihan123/FFmpeg-Audio)
+- ✨ 👤 [xihan123](https://github.com/xihan123) Created new repo [xihan123/audio-converter](https://github.com/xihan123/audio-converter)
 
 ### [yhnu](https://github.com/yhnu)
 - 🌟 👤 [yhnu](https://github.com/yhnu) Starred [axinc-ai/ailia-models-unity](https://github.com/axinc-ai/ailia-models-unity)
@@ -450,6 +502,10 @@
 ### [yichen115](https://github.com/yichen115)
 - 🌟 👤 [yichen115](https://github.com/yichen115) Starred [cyberblu3s/CyberBlue](https://github.com/cyberblu3s/CyberBlue)
   > CyberSecurity BLUE TEAM containerized platform that brings together open-source tools for SIEM, DFIR...
+
+### [yux1azhengye](https://github.com/yux1azhengye)
+- 🍴 👤 [yux1azhengye](https://github.com/yux1azhengye) Forked [GitHubSecurityLab/codeql-zero-to-hero](https://github.com/GitHubSecurityLab/codeql-zero-to-hero) to [yux1azhengye/codeql-zero-to-hero](https://github.com/yux1azhengye/codeql-zero-to-hero)
+  > CodeQL zero to hero blog post series challenges
 
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
@@ -482,5 +538,5 @@
 
 
 ---
-*最后更新于 2025-10-10 18:32:30 UTC*
+*最后更新于 2025-10-10 19:18:09 UTC*
 *历史记录保存在 `archive` 目录中。*
