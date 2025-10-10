@@ -225,6 +225,8 @@
 ### [codezjx](https://github.com/codezjx)
 - 🌟 👤 [codezjx](https://github.com/codezjx) Starred [DavidVentura/firefox-translator](https://github.com/DavidVentura/firefox-translator)
   > Use Firefox Translation Models for on-device translation on Android
+- 🌟 👤 [codezjx](https://github.com/codezjx) Starred [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench)
+  > [ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for ...
 
 ### [cofface](https://github.com/cofface)
 - 🍴 👤 [cofface](https://github.com/cofface) Forked [yibobunengyuntian/FrameWgt](https://github.com/yibobunengyuntian/FrameWgt) to [cofface/FrameWgt](https://github.com/cofface/FrameWgt)
@@ -262,6 +264,14 @@
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust)
   > AWS SDK for the Rust Programming Language
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)
+  > Run Windows apps on 🐧 Linux with ✨ seamless integration
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [timelinize/timelinize](https://github.com/timelinize/timelinize)
+  > Store your data from all your accounts and devices in a single cohesive timeline on your own compute...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt)
+  > Format Rust code
+
 ### [fei-ke](https://github.com/fei-ke)
 - 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [sharat87/httpbun](https://github.com/sharat87/httpbun)
   > An HTTP server with APIs useful in testing HTTP clients. Inspired by httpbin, but isn't a clone.
@@ -295,6 +305,14 @@
 - 🌟 👤 [hanc00l](https://github.com/hanc00l) Starred [raminfp/redis_exploit](https://github.com/raminfp/redis_exploit)
   > CVE-2025-49844 (RediShell)
 
+### [heyhu](https://github.com/heyhu)
+- 🌟 👤 [heyhu](https://github.com/heyhu) Starred [moyuwa/ApkCheckPack](https://github.com/moyuwa/ApkCheckPack)
+  > apk加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，全网最全开源加固特征，支持40个厂商的加固检测，欢迎大家提交无法识别的app
+- 🌟 👤 [heyhu](https://github.com/heyhu) Starred [jiqiu2022/Zygisk-MyInjector](https://github.com/jiqiu2022/Zygisk-MyInjector)
+  > 一个自定义注入so的脚手架,现在已经支持了界面化使用。
+- 🍴 👤 [heyhu](https://github.com/heyhu) Forked [w2016561536/android_virtual_cam](https://github.com/w2016561536/android_virtual_cam) to [heyhu/android_virtual_cam](https://github.com/heyhu/android_virtual_cam)
+  > xposed安卓虚拟摄像头 android virtual camera on xposed hook
+
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [DavidVentura/firefox-translator](https://github.com/DavidVentura/firefox-translator)
   > Use Firefox Translation Models for on-device translation on Android
@@ -322,6 +340,14 @@
   > Windows, macOS and Android storage (HDD, SSD, RAM) speed testing/performance benchmarking app
 - 🌟 👤 [imbaya2466](https://github.com/imbaya2466) Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
   > Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎...
+- 🌟 👤 [imbaya2466](https://github.com/imbaya2466) Starred [InkSha/rust-tutorial](https://github.com/InkSha/rust-tutorial)
+  > 一个针对新手的 Rust 快速教程，从零开始写一个管理 Todos 的命令行程序
+- 🌟 👤 [imbaya2466](https://github.com/imbaya2466) Starred [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab)
+  > ⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Clou...
+- 🌟 👤 [imbaya2466](https://github.com/imbaya2466) Starred [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)
+  > Real-time & local speech-to-text server.
+- 🌟 👤 [imbaya2466](https://github.com/imbaya2466) Starred [chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book)
+  > https://huyenchip.com/ml-interviews-book/
 
 ### [israel-dryer](https://github.com/israel-dryer)
 - 🌟 👤 [israel-dryer](https://github.com/israel-dryer) Starred [beeware/briefcase](https://github.com/beeware/briefcase)
@@ -512,6 +538,8 @@
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🍴 👤 [yux1azhengye](https://github.com/yux1azhengye) Forked [GitHubSecurityLab/codeql-zero-to-hero](https://github.com/GitHubSecurityLab/codeql-zero-to-hero) to [yux1azhengye/codeql-zero-to-hero](https://github.com/yux1azhengye/codeql-zero-to-hero)
   > CodeQL zero to hero blog post series challenges
+- 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [HXSecurity/DongTai](https://github.com/HXSecurity/DongTai)
+  > Dongtai IAST is an open-source Interactive Application Security Testing (IAST) tool that enables rea...
 
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
@@ -544,5 +572,5 @@
 
 
 ---
-*最后更新于 2025-10-10 19:38:45 UTC*
+*最后更新于 2025-10-10 20:24:49 UTC*
 *历史记录保存在 `archive` 目录中。*
