@@ -41,6 +41,10 @@
 - 🌟 👤 [Evian-Zhang](https://github.com/Evian-Zhang) Starred [binarly-io/idalib](https://github.com/binarly-io/idalib)
   > Idiomatic Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using...
 
+### [FiYHer](https://github.com/FiYHer)
+- 🌟 👤 [FiYHer](https://github.com/FiYHer) Starred [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor)
+  > 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为...
+
 ### [Kwansy98](https://github.com/Kwansy98)
 - 🌟 👤 [Kwansy98](https://github.com/Kwansy98) Starred [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2)
 
@@ -63,6 +67,10 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [springmusk026/Dex2C-Backend](https://github.com/springmusk026/Dex2C-Backend)
   > Dex2C Backend is the server-side processing engine for the Dex2C ecosystem
+
+### [Skulltrail192](https://github.com/Skulltrail192)
+- 🌟 👤 [Skulltrail192](https://github.com/Skulltrail192) Starred [metaxor/KernelEx](https://github.com/metaxor/KernelEx)
+  > KernelEx is an open source project compatiblity layer that allow new apps to be compatible with Micr...
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [springmusk026/Dex2C-Android](https://github.com/springmusk026/Dex2C-Android)
@@ -102,6 +110,8 @@
 - 🌟 👤 [chf007](https://github.com/chf007) Starred [agentjido/req_llm](https://github.com/agentjido/req_llm)
   > Req plugin to query AI providers
 - 🌟 👤 [chf007](https://github.com/chf007) Starred [chrismccord/web](https://github.com/chrismccord/web)
+- 🌟 👤 [chf007](https://github.com/chf007) Starred [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin)
+  > Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
 
 ### [chinatiny](https://github.com/chinatiny)
 - 🍴 👤 [chinatiny](https://github.com/chinatiny) Forked [MiHaKun/Telegram-interactive-bot](https://github.com/MiHaKun/Telegram-interactive-bot) to [chinatiny/Telegram-interactive-bot](https://github.com/chinatiny/Telegram-interactive-bot)
@@ -114,6 +124,10 @@
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air)
   > On-device TTS model by Neuphonic
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust)
+  > AWS SDK for the Rust Programming Language
 
 ### [fuhei](https://github.com/fuhei)
 - 🌟 👤 [fuhei](https://github.com/fuhei) Starred [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger)
@@ -129,6 +143,10 @@
 - 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [antgroup/llm-oss-landscape](https://github.com/antgroup/llm-oss-landscape)
   > Open Source Landscapes and Insights Produced by AntOSS
 
+### [h4sh5](https://github.com/h4sh5)
+- ✨ 👤 [h4sh5](https://github.com/h4sh5) Created new repo [h4sh5/red-riding-hood](https://github.com/h4sh5/red-riding-hood)
+  > minecraft-style little red riding hood web adventure - no-framework, no backends. Made in 2018 for a...
+
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [openai/chatkit-js](https://github.com/openai/chatkit-js)
 
@@ -139,6 +157,10 @@
 ### [howmp](https://github.com/howmp)
 - 🌟 👤 [howmp](https://github.com/howmp) Starred [howmp/WinDump](https://github.com/howmp/WinDump)
   > 后渗透信息/密码/凭证收集工具
+
+### [jiji262](https://github.com/jiji262)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [joseairosa/recall](https://github.com/joseairosa/recall)
+  > Give Claude perfect recall - Redis-powered persistent memory for LLMs
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers)
@@ -173,6 +195,10 @@
 ### [rushiiMachine](https://github.com/rushiiMachine)
 - 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [moode-player/moode](https://github.com/moode-player/moode)
   > moOde sources and configs
+
+### [sledgeh4w](https://github.com/sledgeh4w)
+- 🌟 👤 [sledgeh4w](https://github.com/sledgeh4w) Starred [darlinghq/darling](https://github.com/darlinghq/darling)
+  > Darwin/macOS emulation layer for Linux
 
 ### [smallzhong](https://github.com/smallzhong)
 - 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [seifreed/r2morph](https://github.com/seifreed/r2morph)
@@ -210,5 +236,5 @@
 
 
 ---
-*最后更新于 2025-10-10 10:43:38 UTC*
+*最后更新于 2025-10-10 11:19:17 UTC*
 *历史记录保存在 `archive` 目录中。*
