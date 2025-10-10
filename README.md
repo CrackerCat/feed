@@ -317,6 +317,12 @@
 - 🍴 👤 [ibaoger](https://github.com/ibaoger) Forked [Ksuriuri/index-tts-vllm](https://github.com/Ksuriuri/index-tts-vllm) to [ibaoger/index-tts-vllm](https://github.com/ibaoger/index-tts-vllm)
   > Added vLLM support to IndexTTS for faster inference.
 
+### [imbaya2466](https://github.com/imbaya2466)
+- 🌟 👤 [imbaya2466](https://github.com/imbaya2466) Starred [maxim-saplin/CrossPlatformDiskTest](https://github.com/maxim-saplin/CrossPlatformDiskTest)
+  > Windows, macOS and Android storage (HDD, SSD, RAM) speed testing/performance benchmarking app
+- 🌟 👤 [imbaya2466](https://github.com/imbaya2466) Starred [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code)
+  > Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎...
+
 ### [israel-dryer](https://github.com/israel-dryer)
 - 🌟 👤 [israel-dryer](https://github.com/israel-dryer) Starred [beeware/briefcase](https://github.com/beeware/briefcase)
   > Tools to support converting a Python project into a standalone native application.
@@ -538,5 +544,5 @@
 
 
 ---
-*最后更新于 2025-10-10 19:18:09 UTC*
+*最后更新于 2025-10-10 19:38:45 UTC*
 *历史记录保存在 `archive` 目录中。*
