@@ -305,6 +305,10 @@
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers)
   > Environments for LLM Reinforcement Learning
 
+### [lionsoul2014](https://github.com/lionsoul2014)
+- 🌟 👤 [lionsoul2014](https://github.com/lionsoul2014) Starred [Steven-Qiang/ts-ip2region2](https://github.com/Steven-Qiang/ts-ip2region2)
+  > ⚡ TypeScript-first ip2region implementation with native Node.js addon. Ultra-fast IPv4/IPv6 geolocat...
+
 ### [longf2011](https://github.com/longf2011)
 - 🌟 👤 [longf2011](https://github.com/longf2011) Starred [ioncodes/idacode](https://github.com/ioncodes/idacode)
   > An integration for IDA and VS Code which connects both to easily execute and debug IDAPython scripts...
@@ -462,5 +466,5 @@
 
 
 ---
-*最后更新于 2025-10-10 17:19:53 UTC*
+*最后更新于 2025-10-10 17:40:04 UTC*
 *历史记录保存在 `archive` 目录中。*
