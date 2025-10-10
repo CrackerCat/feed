@@ -143,6 +143,10 @@
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui)
 
+### [Nep-Timeline](https://github.com/Nep-Timeline)
+- 🌟 👤 [Nep-Timeline](https://github.com/Nep-Timeline) Starred [qlenlen/KernelFlasher](https://github.com/qlenlen/KernelFlasher)
+  > 开源的内核刷写工具，兼容ksu-lkm模式：解决invalid ramdisk
+
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [scumjr/dirtycow-vdso](https://github.com/scumjr/dirtycow-vdso)
   > PoC for Dirty COW (CVE-2016-5195)
@@ -654,5 +658,5 @@
 
 
 ---
-*最后更新于 2025-10-10 21:38:47 UTC*
+*最后更新于 2025-10-10 22:19:57 UTC*
 *历史记录保存在 `archive` 目录中。*
