@@ -32,6 +32,10 @@
 - 🌟 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Starred [es3n1n/defendnot](https://github.com/es3n1n/defendnot)
   > An even funnier way to disable windows defender. (through WSC api)
 
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [NagiosEnterprises/nagioscore](https://github.com/NagiosEnterprises/nagioscore)
+  > Nagios Core
+
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [percona/mongodb_exporter](https://github.com/percona/mongodb_exporter)
   > A Prometheus exporter for MongoDB including sharding, replication and storage engines
@@ -89,6 +93,8 @@
 ### [cd-Crypton](https://github.com/cd-Crypton)
 - ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [cd-Crypton/reverse-proxy](https://github.com/cd-Crypton/reverse-proxy)
   > Reverse Proxy using hono/cors package.
+- 🍴 👤 [cd-Crypton](https://github.com/cd-Crypton) Forked [itzzzme/zenime](https://github.com/itzzzme/zenime) to [cd-Crypton/zenime](https://github.com/cd-Crypton/zenime)
+  > Ad free anime streaming platform
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD)
@@ -141,6 +147,10 @@
 - 🌟 👤 [heyhu](https://github.com/heyhu) Starred [w2016561536/android_virtual_cam](https://github.com/w2016561536/android_virtual_cam)
   > xposed安卓虚拟摄像头 android virtual camera on xposed hook
 
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [mirrorange/clove](https://github.com/mirrorange/clove)
+  > A Claude.ai reverse proxy
+
 ### [hoochanlon](https://github.com/hoochanlon)
 - 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [xyxc0673/calendar-remark](https://github.com/xyxc0673/calendar-remark) to [hoochanlon/calendar](https://github.com/hoochanlon/calendar)
   > A simple calendar with nice design for remarking a date
@@ -192,6 +202,19 @@
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [diffplug/gitcasso](https://github.com/diffplug/gitcasso)
   > Syntax highlighting for the GitHub issue/pr editor. Also, never lose a draft comment again!
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [nanographs/Open-Beam-Interface](https://github.com/nanographs/Open-Beam-Interface)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [timschmidt/egui-rad-builder](https://github.com/timschmidt/egui-rad-builder)
+  > Tool for quickly designing egui user interfaces
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [rerun-io/kitdiff](https://github.com/rerun-io/kitdiff)
+  > A visual diffing tool
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [facebookexperimental/rust-shed](https://github.com/facebookexperimental/rust-shed)
+  > Repository containing Rust crates common between other Facebook open source projects (like Mononoke ...
+
+### [obaby](https://github.com/obaby)
+- 🌟 👤 [obaby](https://github.com/obaby) Starred [CrackerCat/520apkhook-1](https://github.com/CrackerCat/520apkhook-1)
+  > 将安卓远控Apk附加进普通的App中，运行新生成的App时，普通App正常运行，远控正常上线。Attach the Android remote control APK to a regular ap...
+- 🍴 👤 [obaby](https://github.com/obaby) Forked [CrackerCat/520apkhook-1](https://github.com/CrackerCat/520apkhook-1) to [obaby/520apkhook-1](https://github.com/obaby/520apkhook-1)
+  > 将安卓远控Apk附加进普通的App中，运行新生成的App时，普通App正常运行，远控正常上线。Attach the Android remote control APK to a regular ap...
 
 ### [pinwhell](https://github.com/pinwhell)
 - ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/todo-rs](https://github.com/pinwhell/todo-rs)
@@ -204,10 +227,29 @@
 ### [redbearder](https://github.com/redbearder)
 - 🌟 👤 [redbearder](https://github.com/redbearder) Starred [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc)
   > CLI tool and python library that converts the output of popular command-line tools, file-types, and ...
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [httpie/cli](https://github.com/httpie/cli)
+  > 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors...
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [antonmedv/fx](https://github.com/antonmedv/fx)
+  > Terminal JSON viewer & processor
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [glideapps/quicktype](https://github.com/glideapps/quicktype)
+  > Generate types and converters from JSON, Schema, and GraphQL
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor)
+  > A web-based tool to view, edit, format, and validate JSON
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [johnkerl/miller](https://github.com/johnkerl/miller)
+  > Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSO...
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin)
+  > HTTP Request & Response Service, written in Python + Flask.
+
+### [roadwy](https://github.com/roadwy)
+- 🌟 👤 [roadwy](https://github.com/roadwy) Starred [zhangguanzhang/simple-container-network-book](https://github.com/zhangguanzhang/simple-container-network-book)
+  > 面向网络小白的基础网络和容器网络的科普
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [Mandi-Sa/micode-dijun-v-oss](https://github.com/Mandi-Sa/micode-dijun-v-oss)
   > Xiaomi kernel source archive for Xiaomi 15S Pro AND Xiaomi Pad 7 Ultra Android V (Has been removed b...
+
+### [semlinker](https://github.com/semlinker)
+- 🌟 👤 [semlinker](https://github.com/semlinker) Starred [character-ai/Ovi](https://github.com/character-ai/Ovi)
 
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [panva/jose](https://github.com/panva/jose)
@@ -262,6 +304,7 @@
   > Survival Mode as it Should've Been
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [flammified/terrabot](https://github.com/flammified/terrabot)
   > An easily used library for making Terraria bots
+- ✨ 👤 [yhs0602](https://github.com/yhs0602) Created new repo [yhs0602/terrablade](https://github.com/yhs0602/terrablade)
 
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [ccfos/nightingale](https://github.com/ccfos/nightingale)
@@ -271,5 +314,5 @@
 
 
 ---
-*最后更新于 2025-10-11 23:19:12 UTC*
+*最后更新于 2025-10-11 23:38:56 UTC*
 *历史记录保存在 `archive` 目录中。*
