@@ -8,13 +8,29 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [jd-opensource/JoySafety](https://github.com/jd-opensource/JoySafety)
   > JoySafety
 
+### [AEnjoy](https://github.com/AEnjoy)
+- 🌟 👤 [AEnjoy](https://github.com/AEnjoy) Starred [winfunc/opcode](https://github.com/winfunc/opcode)
+  > A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Cod...
+
 ### [Evian-Zhang](https://github.com/Evian-Zhang)
 - 🍴 👤 [Evian-Zhang](https://github.com/Evian-Zhang) Forked [rust-lang/crates.io](https://github.com/rust-lang/crates.io) to [Evian-Zhang/crates.io](https://github.com/Evian-Zhang/crates.io)
   > The Rust package registry
 
+### [Hackerl](https://github.com/Hackerl)
+- 🌟 👤 [Hackerl](https://github.com/Hackerl) Starred [corsix/polyfill-glibc](https://github.com/corsix/polyfill-glibc)
+  > Patch Linux executables for compatibility with older glibc
+
 ### [Jumbo-WJB](https://github.com/Jumbo-WJB)
 - 🌟 👤 [Jumbo-WJB](https://github.com/Jumbo-WJB) Starred [QwenLM/Qwen3Guard](https://github.com/QwenLM/Qwen3Guard)
   > Qwen3Guard is a multilingual guardrail model series developed by the Qwen team at Alibaba Cloud.
+
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)
+  > A simple, decentralized mesh VPN with WireGuard support.
+
+### [MlgmXyysd](https://github.com/MlgmXyysd)
+- 🌟 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Starred [es3n1n/defendnot](https://github.com/es3n1n/defendnot)
+  > An even funnier way to disable windows defender. (through WSC api)
 
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [percona/mongodb_exporter](https://github.com/percona/mongodb_exporter)
@@ -57,6 +73,19 @@
 ### [amezin](https://github.com/amezin)
 - ✨ 👤 [amezin](https://github.com/amezin) Created new repo [ddterm/gjs-typelib-installer](https://github.com/ddterm/gjs-typelib-installer)
 
+### [ba0gu0](https://github.com/ba0gu0)
+- 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
+  > This is MCP server for Claude that gives it terminal control, file system search and diff file editi...
+- 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)
+  > A Model Context Protocol server for Excel file manipulation
+
+### [byt3n33dl3](https://github.com/byt3n33dl3)
+- ✨ 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Created new repo [byt3n33dl3/FalconX-Ca](https://github.com/byt3n33dl3/FalconX-Ca)
+
+### [calebstewart](https://github.com/calebstewart)
+- 🚀 👤 [calebstewart](https://github.com/calebstewart) Made [calebstewart/stewos](https://github.com/calebstewart/stewos) public
+  > Nix System and User Configurations
+
 ### [cd-Crypton](https://github.com/cd-Crypton)
 - ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [cd-Crypton/reverse-proxy](https://github.com/cd-Crypton/reverse-proxy)
   > Reverse Proxy using hono/cors package.
@@ -82,11 +111,17 @@
 ### [easychen](https://github.com/easychen)
 - 🍴 👤 [easychen](https://github.com/easychen) Forked [cjpais/Handy](https://github.com/cjpais/Handy) to [easychen/Handy](https://github.com/easychen/Handy)
   > A free, open source, and extensible speech-to-text application that works completely offline.
+- 🍴 👤 [easychen](https://github.com/easychen) Forked [cjpais/transcribe-rs](https://github.com/cjpais/transcribe-rs) to [easychen/transcribe-rs](https://github.com/easychen/transcribe-rs)
+  > a simple transcription library for rust
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [spaceorc/Z3Wrap](https://github.com/spaceorc/Z3Wrap) to [gmh5225/Z3Wrap](https://github.com/gmh5225/Z3Wrap)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NoahCardoza/CloudProxy](https://github.com/NoahCardoza/CloudProxy) to [gmh5225/CloudProxy](https://github.com/gmh5225/CloudProxy)
   > Proxy server to bypass Cloudflare protection.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NiTianErXing666/SmallVmp](https://github.com/NiTianErXing666/SmallVmp) to [gmh5225/SmallVmp](https://github.com/gmh5225/SmallVmp)
+  > 简单的基于llvm实现vmp保护
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [junron/agar](https://github.com/junron/agar) to [gmh5225/agar](https://github.com/gmh5225/agar)
+  > Assisting Go Analysis and Reversing
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - 🌟 👤 [goatmilkkk](https://github.com/goatmilkkk) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
@@ -108,6 +143,8 @@
 
 ### [hoochanlon](https://github.com/hoochanlon)
 - 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [xyxc0673/calendar-remark](https://github.com/xyxc0673/calendar-remark) to [hoochanlon/calendar](https://github.com/hoochanlon/calendar)
+  > A simple calendar with nice design for remarking a date
+- 🚀 👤 [hoochanlon](https://github.com/hoochanlon) Made [hoochanlon/calendar](https://github.com/hoochanlon/calendar) public
   > A simple calendar with nice design for remarking a date
 
 ### [howmp](https://github.com/howmp)
@@ -156,9 +193,21 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [diffplug/gitcasso](https://github.com/diffplug/gitcasso)
   > Syntax highlighting for the GitHub issue/pr editor. Also, never lose a draft comment again!
 
+### [pinwhell](https://github.com/pinwhell)
+- ✨ 👤 [pinwhell](https://github.com/pinwhell) Created new repo [pinwhell/todo-rs](https://github.com/pinwhell/todo-rs)
+  > Rust CLI Task Manager with JSON Persistence
+
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [nushell/nushell](https://github.com/nushell/nushell)
   > A new type of shell
+
+### [redbearder](https://github.com/redbearder)
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc)
+  > CLI tool and python library that converts the output of popular command-line tools, file-types, and ...
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [Mandi-Sa/micode-dijun-v-oss](https://github.com/Mandi-Sa/micode-dijun-v-oss)
+  > Xiaomi kernel source archive for Xiaomi 15S Pro AND Xiaomi Pad 7 Ultra Android V (Has been removed b...
 
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [panva/jose](https://github.com/panva/jose)
@@ -184,6 +233,10 @@
 - 🌟 👤 [wargio](https://github.com/wargio) Starred [SpyGuard/SpyGuard](https://github.com/SpyGuard/SpyGuard)
   > SpyGuard is a forked and enhanced version of TinyCheck. SpyGuard's main objective is to detect signs...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [junron/agar](https://github.com/junron/agar)
+  > Assisting Go Analysis and Reversing
+
 ### [winezer0](https://github.com/winezer0)
 - 🌟 👤 [winezer0](https://github.com/winezer0) Starred [lanbing1989/Bank-of-China-interbank-number-query](https://github.com/lanbing1989/Bank-of-China-interbank-number-query)
   > logo 中国银行联行号查询 联行号查询 银行卡归属行查询 银行卡批量归属行查询
@@ -207,6 +260,8 @@
   > ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community manageme...
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [TerraFirmaCraft/TerraFirmaCraft](https://github.com/TerraFirmaCraft/TerraFirmaCraft)
   > Survival Mode as it Should've Been
+- 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [flammified/terrabot](https://github.com/flammified/terrabot)
+  > An easily used library for making Terraria bots
 
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [ccfos/nightingale](https://github.com/ccfos/nightingale)
@@ -216,5 +271,5 @@
 
 
 ---
-*最后更新于 2025-10-11 22:39:31 UTC*
+*最后更新于 2025-10-11 23:19:12 UTC*
 *历史记录保存在 `archive` 目录中。*
