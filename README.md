@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Jumbo-WJB](https://github.com/Jumbo-WJB)
+- 🌟 👤 [Jumbo-WJB](https://github.com/Jumbo-WJB) Starred [QwenLM/Qwen3Guard](https://github.com/QwenLM/Qwen3Guard)
+  > Qwen3Guard is a multilingual guardrail model series developed by the Qwen team at Alibaba Cloud.
+
 ### [PlatyPew](https://github.com/PlatyPew)
 - 🍴 👤 [PlatyPew](https://github.com/PlatyPew) Forked [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) to [PlatyPew/PlayCover](https://github.com/PlatyPew/PlayCover)
   > Community fork of PlayCover
@@ -38,5 +42,5 @@
 
 
 ---
-*最后更新于 2025-10-11 20:39:11 UTC*
+*最后更新于 2025-10-11 21:18:15 UTC*
 *历史记录保存在 `archive` 目录中。*
