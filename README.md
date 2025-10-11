@@ -16,6 +16,10 @@
 - 🌟 👤 [Jumbo-WJB](https://github.com/Jumbo-WJB) Starred [QwenLM/Qwen3Guard](https://github.com/QwenLM/Qwen3Guard)
   > Qwen3Guard is a multilingual guardrail model series developed by the Qwen team at Alibaba Cloud.
 
+### [No-Github](https://github.com/No-Github)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [percona/mongodb_exporter](https://github.com/percona/mongodb_exporter)
+  > A Prometheus exporter for MongoDB including sharding, replication and storage engines
+
 ### [OCNYang](https://github.com/OCNYang)
 - 🌟 👤 [OCNYang](https://github.com/OCNYang) Starred [mudita/MuditaOS](https://github.com/mudita/MuditaOS)
   > Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure ...
@@ -52,6 +56,10 @@
 
 ### [amezin](https://github.com/amezin)
 - ✨ 👤 [amezin](https://github.com/amezin) Created new repo [ddterm/gjs-typelib-installer](https://github.com/ddterm/gjs-typelib-installer)
+
+### [cd-Crypton](https://github.com/cd-Crypton)
+- ✨ 👤 [cd-Crypton](https://github.com/cd-Crypton) Created new repo [cd-Crypton/reverse-proxy](https://github.com/cd-Crypton/reverse-proxy)
+  > Reverse Proxy using hono/cors package.
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD)
@@ -98,6 +106,18 @@
 - 🌟 👤 [heyhu](https://github.com/heyhu) Starred [w2016561536/android_virtual_cam](https://github.com/w2016561536/android_virtual_cam)
   > xposed安卓虚拟摄像头 android virtual camera on xposed hook
 
+### [hoochanlon](https://github.com/hoochanlon)
+- 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [xyxc0673/calendar-remark](https://github.com/xyxc0673/calendar-remark) to [hoochanlon/calendar](https://github.com/hoochanlon/calendar)
+  > A simple calendar with nice design for remarking a date
+
+### [howmp](https://github.com/howmp)
+- 🌟 👤 [howmp](https://github.com/howmp) Starred [Meowmycks/LetMeowIn](https://github.com/Meowmycks/LetMeowIn)
+  > A sophisticated, covert Windows-based credential dumper using C++ and MASM x64.
+
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [gzc/CLRS](https://github.com/gzc/CLRS)
+  > :notebook:Solutions to Introduction to Algorithms
+
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [hulisang/ZtoApi](https://github.com/hulisang/ZtoApi)
   > 佛法GLM-4.6 For Kilo CODE、Roo Code
@@ -132,9 +152,17 @@
 - 🌟 👤 [njcx](https://github.com/njcx) Starred [jd-opensource/JoySafety](https://github.com/jd-opensource/JoySafety)
   > JoySafety
 
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [diffplug/gitcasso](https://github.com/diffplug/gitcasso)
+  > Syntax highlighting for the GitHub issue/pr editor. Also, never lose a draft comment again!
+
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [nushell/nushell](https://github.com/nushell/nushell)
   > A new type of shell
+
+### [sh1ma](https://github.com/sh1ma)
+- 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [panva/jose](https://github.com/panva/jose)
+  > JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-int...
 
 ### [taviso](https://github.com/taviso)
 - 🌟 👤 [taviso](https://github.com/taviso) Starred [dguidipc/gemini-android-kernel-3.18](https://github.com/dguidipc/gemini-android-kernel-3.18)
@@ -156,6 +184,14 @@
 - 🌟 👤 [wargio](https://github.com/wargio) Starred [SpyGuard/SpyGuard](https://github.com/SpyGuard/SpyGuard)
   > SpyGuard is a forked and enhanced version of TinyCheck. SpyGuard's main objective is to detect signs...
 
+### [winezer0](https://github.com/winezer0)
+- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [lanbing1989/Bank-of-China-interbank-number-query](https://github.com/lanbing1989/Bank-of-China-interbank-number-query)
+  > logo 中国银行联行号查询 联行号查询 银行卡归属行查询 银行卡批量归属行查询
+
+### [xiaolai](https://github.com/xiaolai)
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [microsoft/vscode](https://github.com/microsoft/vscode) to [xiaolai/vscode](https://github.com/xiaolai/vscode)
+  > Visual Studio Code
+
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
   > Truly independent web browser
@@ -175,8 +211,10 @@
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [ccfos/nightingale](https://github.com/ccfos/nightingale)
   > Nightingale for monitoring and alerting, just as Grafana for visualization.
+- 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [cokeBeer/go-cves](https://github.com/cokeBeer/go-cves)
+  > 收录go语言编写的项目、框架和组件出现的cve，或者一些相关的利用方式的文章
 
 
 ---
-*最后更新于 2025-10-11 22:19:24 UTC*
+*最后更新于 2025-10-11 22:39:31 UTC*
 *历史记录保存在 `archive` 目录中。*
