@@ -12,6 +12,14 @@
 - 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [antgroup/YASA-Engine](https://github.com/antgroup/YASA-Engine)
   >  YASA is an open-source static program analysis project. Its core innovation lies in a unified inter...
 
+### [Ercilan](https://github.com/Ercilan)
+- 🌟 👤 [Ercilan](https://github.com/Ercilan) Starred [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6)
+  > A cross-version Python bytecode decompiler
+
+### [Forgo7ten](https://github.com/Forgo7ten)
+- 🍴 👤 [Forgo7ten](https://github.com/Forgo7ten) Forked [demoshang/siyuan-patch](https://github.com/demoshang/siyuan-patch) to [Forgo7ten/siyuan-patch](https://github.com/Forgo7ten/siyuan-patch)
+  > 思源笔记本地VIP (功能特性)(第三方 S3 数据同步)
+
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [QingChan0o0/Makcu](https://github.com/QingChan0o0/Makcu) to [Lynnette177/Makcu](https://github.com/Lynnette177/Makcu)
   > Makcu调用 含鼠标监控
@@ -19,6 +27,10 @@
 ### [Manistein](https://github.com/Manistein)
 - 🌟 👤 [Manistein](https://github.com/Manistein) Starred [CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
   > Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [upstash/context7](https://github.com/upstash/context7)
+  > Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [brendanballon/sfsymbols-svg](https://github.com/brendanballon/sfsymbols-svg)
@@ -35,6 +47,11 @@
 ### [a1ive](https://github.com/a1ive)
 - 🌟 👤 [a1ive](https://github.com/a1ive) Starred [jp7677/dxvk-nvapi](https://github.com/jp7677/dxvk-nvapi)
   > Alternative NVAPI implementation on top of DXVK.
+
+### [affggh](https://github.com/affggh)
+- 🌟 👤 [affggh](https://github.com/affggh) Starred [anrui2032/ims-patches](https://github.com/anrui2032/ims-patches)
+- 🌟 👤 [affggh](https://github.com/affggh) Starred [TryExceptElseFinally/WITRN_binary](https://github.com/TryExceptElseFinally/WITRN_binary)
+  > Reverse Engineering for WITRN products binary firmware
 
 ### [badboycxcc](https://github.com/badboycxcc)
 - 🌟 👤 [badboycxcc](https://github.com/badboycxcc) Starred [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
@@ -59,6 +76,12 @@
   > A cat(1) clone with wings.
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [ksdme/ut](https://github.com/ksdme/ut)
   > A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [ticlo/rc-dock](https://github.com/ticlo/rc-dock)
+  > Dock Layout for React Component
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [githubuser0xFFFF/Qt-Advanced-Docking-System](https://github.com/githubuser0xFFFF/Qt-Advanced-Docking-System)
+  > Advanced Docking System for Qt
 
 ### [fr0zenrain](https://github.com/fr0zenrain)
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [Mentra-Community/MentraOS](https://github.com/Mentra-Community/MentraOS)
@@ -161,6 +184,7 @@
 
 ### [shunf4](https://github.com/shunf4)
 - ✨ 👤 [shunf4](https://github.com/shunf4) Created new repo [ProjectKoto/tien-kou.github.io](https://github.com/ProjectKoto/tien-kou.github.io)
+- ✨ 👤 [shunf4](https://github.com/shunf4) Created new repo [tien-kou-kari/tien-kou-kari.github.io](https://github.com/tien-kou-kari/tien-kou-kari.github.io)
 
 ### [tom0li](https://github.com/tom0li)
 - 🌟 👤 [tom0li](https://github.com/tom0li) Starred [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)
@@ -172,5 +196,5 @@
 
 
 ---
-*最后更新于 2025-10-12 15:38:17 UTC*
+*最后更新于 2025-10-12 16:25:14 UTC*
 *历史记录保存在 `archive` 目录中。*
