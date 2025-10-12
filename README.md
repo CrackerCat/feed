@@ -206,6 +206,17 @@
 - 🌟 👤 [badboycxcc](https://github.com/badboycxcc) Starred [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
   > A Clash Client For OpenWrt
 
+### [byt3n33dl3](https://github.com/byt3n33dl3)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h)
+  > Macro-header for compile-time C obfuscation (tcc, win x86/x64)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [huggingface/open-r1](https://github.com/huggingface/open-r1)
+  > Fully open reproduction of DeepSeek-R1
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [xforcered/Being-A-Good-CLR-Host](https://github.com/xforcered/Being-A-Good-CLR-Host)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [lkarlslund/nifo](https://github.com/lkarlslund/nifo)
+  > Nuke It From Orbit - remove AV/EDR with physical access
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [An0nUD4Y/AV-EDR-Lab-Environment-Setup](https://github.com/An0nUD4Y/AV-EDR-Lab-Environment-Setup)
+  > AV/EDR Lab environment setup references to help in Malware development
+
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [containerscrew/nflux](https://github.com/containerscrew/nflux)
   > Simple network monitoring tool. Powered by eBPF & Rust 🐝
@@ -521,6 +532,12 @@
 ### [vvb2060](https://github.com/vvb2060)
 - ✨ 👤 [vvb2060](https://github.com/vvb2060) Created new repo [vvb2060/Ims](https://github.com/vvb2060/Ims)
 
+### [wainshine](https://github.com/wainshine)
+- 🌟 👤 [wainshine](https://github.com/wainshine) Starred [dair-iitd/pronci](https://github.com/dair-iitd/pronci)
+  > Code for the paper: "Covid vaccine is against Covid but Oxford vaccine is made at Oxford!" Semantic ...
+- 🌟 👤 [wainshine](https://github.com/wainshine) Starred [opendatalab/WanJuan1.0](https://github.com/opendatalab/WanJuan1.0)
+  > 万卷1.0多模态语料
+
 ### [yhs0602](https://github.com/yhs0602)
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [wandb/weave](https://github.com/wandb/weave)
   > Weave is a toolkit for developing AI-powered applications, built by Weights & Biases.
@@ -543,5 +560,5 @@
 
 
 ---
-*最后更新于 2025-10-12 23:19:01 UTC*
+*最后更新于 2025-10-12 23:39:00 UTC*
 *历史记录保存在 `archive` 目录中。*
