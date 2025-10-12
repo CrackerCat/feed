@@ -7,6 +7,12 @@
 ### [0x1306a94](https://github.com/0x1306a94)
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [LiYanan2004/RichText](https://github.com/LiYanan2004/RichText)
   > A supplementary TextView for SwiftUI that provides better text selection experience, as well as enab...
+- 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [AlphaGPU/leetgpu-challenges](https://github.com/AlphaGPU/leetgpu-challenges)
+  > LeetGPU Challenges
+
+### [Col-E](https://github.com/Col-E)
+- 🌟 👤 [Col-E](https://github.com/Col-E) Starred [DanielLiu1123/json4j](https://github.com/DanielLiu1123/json4j)
+  > An opinionated JSON library. Strictly follows standards, no customization, no dependencies, one sing...
 
 ### [Cossack9989](https://github.com/Cossack9989)
 - 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [antgroup/YASA-Engine](https://github.com/antgroup/YASA-Engine)
@@ -43,6 +49,10 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [libxzr/setcon](https://github.com/libxzr/setcon)
   > Run command with specific selinux context for Android
+
+### [Super12138](https://github.com/Super12138)
+- 🌟 👤 [Super12138](https://github.com/Super12138) Starred [danopdev/MergePhotos](https://github.com/danopdev/MergePhotos)
+  > Android application for marge multiple photos: panoramas, HDR, ...
 
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
@@ -116,6 +126,10 @@
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [TomClabault/HIPRT-Path-Tracer](https://github.com/TomClabault/HIPRT-Path-Tracer)
   > Unbiased & physically-based GPU HIPRT (C++/HIP) interactive path tracing renderer
 
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [byJoey/yx-tools](https://github.com/byJoey/yx-tools)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [xykt/IPQuality](https://github.com/xykt/IPQuality)
@@ -144,6 +158,10 @@
 - 🌟 👤 [mephi42](https://github.com/mephi42) Starred [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon)
   > A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
 
+### [mos9527](https://github.com/mos9527)
+- 🌟 👤 [mos9527](https://github.com/mos9527) Starred [DTolm/VkFFT](https://github.com/DTolm/VkFFT)
+  > Vulkan/CUDA/HIP/OpenCL/Level Zero/Metal Fast Fourier Transform library
+
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [DimensionDev/Flare](https://github.com/DimensionDev/Flare)
   > All your Mastodon, Bluesky, Misskey, X, RSS feeds, in one APP.
@@ -157,6 +175,8 @@
   > Autoscaling components for Kubernetes
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Kunzisoft/FileSync](https://github.com/Kunzisoft/FileSync)
   > Android application to manage file synchronization
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Snazzie/MediaOnTauri](https://github.com/Snazzie/MediaOnTauri)
+  > Native web client wrapper written in Tauri, works well with Plex Web Client
 
 ### [oalraw433](https://github.com/oalraw433)
 - 🍴 👤 [oalraw433](https://github.com/oalraw433) Forked [CrackerCat/video_decrypter](https://github.com/CrackerCat/video_decrypter) to [oalraw433/video_decrypter](https://github.com/oalraw433/video_decrypter)
@@ -201,7 +221,11 @@
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [OpenDevicePartnership/patina](https://github.com/OpenDevicePartnership/patina)
   > Patina Firmware
 
+### [zu1kbackup](https://github.com/zu1kbackup)
+- 🍴 👤 [zu1kbackup](https://github.com/zu1kbackup) Forked [pgsty/pigsty](https://github.com/pgsty/pigsty) to [zu1kbackup/pigsty](https://github.com/zu1kbackup/pigsty)
+  > Free RDS for PostgreSQL — Pigsty
+
 
 ---
-*最后更新于 2025-10-12 16:42:26 UTC*
+*最后更新于 2025-10-12 17:17:53 UTC*
 *历史记录保存在 `archive` 目录中。*
