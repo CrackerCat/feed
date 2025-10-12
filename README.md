@@ -49,6 +49,7 @@
   > Transistor level NES simulation 
 - 🌟 👤 [Nero22k](https://github.com/Nero22k) Starred [werdhaihai/msi_lateral_mv](https://github.com/werdhaihai/msi_lateral_mv)
   > Lateral Movement Bof with MSI ODBC Driver Install
+- 🌟 👤 [Nero22k](https://github.com/Nero22k) Starred [nmantani/archiver-MOTW-support-comparison](https://github.com/nmantani/archiver-MOTW-support-comparison)
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [upstash/context7](https://github.com/upstash/context7)
@@ -161,6 +162,8 @@
 ### [hanbings](https://github.com/hanbings)
 - 🌟 👤 [hanbings](https://github.com/hanbings) Starred [jutraim/niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell)
   > A very segsy desktop shell ported to niri wm.
+- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA)
+  > 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA Kernels, Tensor Cores, HGE...
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [map-A/chatgpt-rs](https://github.com/map-A/chatgpt-rs)
@@ -242,6 +245,9 @@
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [google/bindiff](https://github.com/google/bindiff)
   > Quickly find differences and similarities in disassembled code
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [DimensionDev/Flare](https://github.com/DimensionDev/Flare)
   > All your Mastodon, Bluesky, Misskey, X, RSS feeds, in one APP.
@@ -317,11 +323,15 @@
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [wandb/weave](https://github.com/wandb/weave)
   > Weave is a toolkit for developing AI-powered applications, built by Weights & Biases.
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python)
+  > Python wrapper for TA-Lib (http://ta-lib.org/).
+
 ### [zu1kbackup](https://github.com/zu1kbackup)
 - 🍴 👤 [zu1kbackup](https://github.com/zu1kbackup) Forked [pgsty/pigsty](https://github.com/pgsty/pigsty) to [zu1kbackup/pigsty](https://github.com/zu1kbackup/pigsty)
   > Free RDS for PostgreSQL — Pigsty
 
 
 ---
-*最后更新于 2025-10-12 19:16:23 UTC*
+*最后更新于 2025-10-12 19:38:31 UTC*
 *历史记录保存在 `archive` 目录中。*
