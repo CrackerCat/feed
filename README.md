@@ -10,6 +10,9 @@
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [AlphaGPU/leetgpu-challenges](https://github.com/AlphaGPU/leetgpu-challenges)
   > LeetGPU Challenges
 
+### [AabyssZG](https://github.com/AabyssZG)
+- 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [ez-lbz/http2resty-gui](https://github.com/ez-lbz/http2resty-gui)
+
 ### [Col-E](https://github.com/Col-E)
 - 🌟 👤 [Col-E](https://github.com/Col-E) Starred [DanielLiu1123/json4j](https://github.com/DanielLiu1123/json4j)
   > An opinionated JSON library. Strictly follows standards, no customization, no dependencies, one sing...
@@ -137,6 +140,8 @@
   > Dock Layout for React Component
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [githubuser0xFFFF/Qt-Advanced-Docking-System](https://github.com/githubuser0xFFFF/Qt-Advanced-Docking-System)
   > Advanced Docking System for Qt
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
+  > Agentic AI Framework for Java Developers
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [kagehq/gpu-kill](https://github.com/kagehq/gpu-kill)
@@ -243,6 +248,10 @@
 - 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [stephanfr/Xoshiro256PlusSIMD](https://github.com/stephanfr/Xoshiro256PlusSIMD)
   > Serial and SIMD implementation of the Xoroshiro256+ random number generator.
 
+### [m0nad](https://github.com/m0nad)
+- 🌟 👤 [m0nad](https://github.com/m0nad) Starred [pythonfluente/pythonfluente2e](https://github.com/pythonfluente/pythonfluente2e)
+  > Python Fluente, Segunda Edição
+
 ### [mephi42](https://github.com/mephi42)
 - 🌟 👤 [mephi42](https://github.com/mephi42) Starred [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon)
   > A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
@@ -292,6 +301,14 @@
 - 🌟 👤 [phys-winner](https://github.com/phys-winner) Starred [CrackerCat/simpread](https://github.com/CrackerCat/simpread)
   > 简悦导入文章
 
+### [qi4L](https://github.com/qi4L)
+- 🌟 👤 [qi4L](https://github.com/qi4L) Starred [NPC2000/elf_to_shellcode](https://github.com/NPC2000/elf_to_shellcode)
+  > 将任何 elf 或命令转换为 shellcode
+
+### [radioegor146](https://github.com/radioegor146)
+- ✨ 👤 [radioegor146](https://github.com/radioegor146) Created new repo [radioegor146/ntpd-exporter](https://github.com/radioegor146/ntpd-exporter)
+  > Simple prometheus exporter for ntpd time server
+
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [libxzr/setcon](https://github.com/libxzr/setcon)
   > Run command with specific selinux context for Android
@@ -325,6 +342,10 @@
 - ✨ 👤 [shunf4](https://github.com/shunf4) Created new repo [ProjectKoto/tien-kou.github.io](https://github.com/ProjectKoto/tien-kou.github.io)
 - ✨ 👤 [shunf4](https://github.com/shunf4) Created new repo [tien-kou-kari/tien-kou-kari.github.io](https://github.com/tien-kou-kari/tien-kou-kari.github.io)
 
+### [sleepyG8](https://github.com/sleepyG8)
+- ✨ 👤 [sleepyG8](https://github.com/sleepyG8) Created new repo [sleepyG8/Miner](https://github.com/sleepyG8/Miner)
+  > digging inside of code caves
+
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [opendatalab/OmniDocBench](https://github.com/opendatalab/OmniDocBench)
   > [CVPR 2025] A Comprehensive Benchmark for Document Parsing and Evaluation
@@ -357,5 +378,5 @@
 
 
 ---
-*最后更新于 2025-10-12 20:22:58 UTC*
+*最后更新于 2025-10-12 20:40:10 UTC*
 *历史记录保存在 `archive` 目录中。*
