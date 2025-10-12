@@ -13,6 +13,8 @@
 ### [Col-E](https://github.com/Col-E)
 - 🌟 👤 [Col-E](https://github.com/Col-E) Starred [DanielLiu1123/json4j](https://github.com/DanielLiu1123/json4j)
   > An opinionated JSON library. Strictly follows standards, no customization, no dependencies, one sing...
+- 🌟 👤 [Col-E](https://github.com/Col-E) Starred [vasturiano/globe.gl](https://github.com/vasturiano/globe.gl)
+  > UI component for Globe Data Visualization using ThreeJS/WebGL
 
 ### [Cossack9989](https://github.com/Cossack9989)
 - 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [antgroup/YASA-Engine](https://github.com/antgroup/YASA-Engine)
@@ -33,6 +35,12 @@
 ### [Manistein](https://github.com/Manistein)
 - 🌟 👤 [Manistein](https://github.com/Manistein) Starred [CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
   > Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
+
+### [Nero22k](https://github.com/Nero22k)
+- 🌟 👤 [Nero22k](https://github.com/Nero22k) Starred [iaddis/metalnes](https://github.com/iaddis/metalnes)
+  > Transistor level NES simulation 
+- 🌟 👤 [Nero22k](https://github.com/Nero22k) Starred [werdhaihai/msi_lateral_mv](https://github.com/werdhaihai/msi_lateral_mv)
+  > Lateral Movement Bof with MSI ODBC Driver Install
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [upstash/context7](https://github.com/upstash/context7)
@@ -57,6 +65,10 @@
 ### [TheHitMan7](https://github.com/TheHitMan7)
 - 🌟 👤 [TheHitMan7](https://github.com/TheHitMan7) Starred [fabianonline/telegram.sh](https://github.com/fabianonline/telegram.sh)
   > Send telegram messages right from your command line.
+
+### [TheNetAdmin](https://github.com/TheNetAdmin)
+- 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [g1879/DrissionPage](https://github.com/g1879/DrissionPage)
+  > Python based web automation tool. Powerful and elegant.
 
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
@@ -101,6 +113,10 @@
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [githubuser0xFFFF/Qt-Advanced-Docking-System](https://github.com/githubuser0xFFFF/Qt-Advanced-Docking-System)
   > Advanced Docking System for Qt
 
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [kagehq/gpu-kill](https://github.com/kagehq/gpu-kill)
+  > Manage your GPUs across NVIDIA, AMD, Intel, and Apple Silicon systems.
+
 ### [fr0zenrain](https://github.com/fr0zenrain)
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [Mentra-Community/MentraOS](https://github.com/Mentra-Community/MentraOS)
   > The open-source OS for smart glasses with dozens of apps. Get captions, AI assistant, notifications,...
@@ -125,12 +141,25 @@
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [map-A/chatgpt-rs](https://github.com/map-A/chatgpt-rs)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [map-A/crawl4ai](https://github.com/map-A/crawl4ai)
   > 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discor...
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [fish2018/YPrompt](https://github.com/fish2018/YPrompt)
+  > 通过对话挖掘用户需求，并自动生成专业的提示词 https://yprompt.pages.dev
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [zhaoxiaozhao07/zai-api](https://github.com/zhaoxiaozhao07/zai-api)
+  > ZAI-API：支持Tools、CCR转接CC、Kilo Code等
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [zhaoxiaozhao07/Warp2Api](https://github.com/zhaoxiaozhao07/Warp2Api)
+  > 佛法warp 2 api For ai  plugins
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [snailyp/zai-proxy](https://github.com/snailyp/zai-proxy)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [snailyp/api-key-tester](https://github.com/snailyp/api-key-tester)
+  > API Key 测活工具 - 用于批量检测 OpenAI、Claude、Gemini API 密钥有效性 | Modern API Key Tester - Batch validate OpenAI...
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [snailyp/apichecker](https://github.com/snailyp/apichecker)
+  > 浏览器插件版api检测工具
 
 ### [hoochanlon](https://github.com/hoochanlon)
 - 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [imsyy/SPlayer](https://github.com/imsyy/SPlayer) to [hoochanlon/SPlayer](https://github.com/hoochanlon/SPlayer)
   > 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 - 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [NeteaseCloudMusicApiEnhanced/api-enhanced](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) to [hoochanlon/api-enhanced](https://github.com/hoochanlon/api-enhanced)
   > 🔍 A revival project for NeteaseCloudMusicApi Node.js Services || 网易云音乐 API 备份 + 增强 || 本项目自原版v4.28.0版...
+- 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [AlloyTeam/AlloyTimer](https://github.com/AlloyTeam/AlloyTimer) to [hoochanlon/AlloyTimer](https://github.com/hoochanlon/AlloyTimer)
+  > AlloyTimer定时器 - 番茄工作法的时间管理应用
 
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [TomClabault/HIPRT-Path-Tracer](https://github.com/TomClabault/HIPRT-Path-Tracer)
@@ -172,6 +201,10 @@
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [0xflux/Sanctum](https://github.com/0xflux/Sanctum)
   > Sanctum is an experimental proof-of-concept EDR, designed to detect modern malware techniques, above...
 
+### [moonD4rk](https://github.com/moonD4rk)
+- 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system)
+  > Rust libraries and tools to interact with the Framework Computer systems
+
 ### [mos9527](https://github.com/mos9527)
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [DTolm/VkFFT](https://github.com/DTolm/VkFFT)
   > Vulkan/CUDA/HIP/OpenCL/Level Zero/Metal Fast Fourier Transform library
@@ -206,6 +239,9 @@
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [libxzr/setcon](https://github.com/libxzr/setcon)
   > Run command with specific selinux context for Android
 
+### [ravindu644](https://github.com/ravindu644)
+- ✨ 👤 [ravindu644](https://github.com/ravindu644) Created new repo [ravindu644/twrp_samsung_a245m](https://github.com/ravindu644/twrp_samsung_a245m)
+
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [scop/bash-completion](https://github.com/scop/bash-completion)
   > Programmable completion functions for bash
@@ -237,11 +273,15 @@
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [OpenDevicePartnership/patina](https://github.com/OpenDevicePartnership/patina)
   > Patina Firmware
 
+### [yhs0602](https://github.com/yhs0602)
+- 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [wandb/weave](https://github.com/wandb/weave)
+  > Weave is a toolkit for developing AI-powered applications, built by Weights & Biases.
+
 ### [zu1kbackup](https://github.com/zu1kbackup)
 - 🍴 👤 [zu1kbackup](https://github.com/zu1kbackup) Forked [pgsty/pigsty](https://github.com/pgsty/pigsty) to [zu1kbackup/pigsty](https://github.com/zu1kbackup/pigsty)
   > Free RDS for PostgreSQL — Pigsty
 
 
 ---
-*最后更新于 2025-10-12 17:38:47 UTC*
+*最后更新于 2025-10-12 18:29:08 UTC*
 *历史记录保存在 `archive` 目录中。*
