@@ -38,6 +38,10 @@
 - 🍴 👤 [dslee2022](https://github.com/dslee2022) Forked [HadessCS/Red-team-Interview-Questions](https://github.com/HadessCS/Red-team-Interview-Questions) to [dslee2022/red-team-interview-questions](https://github.com/dslee2022/red-team-interview-questions)
   > Red team Interview Questions
 
+### [elllusion](https://github.com/elllusion)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)
+  > A rule-based tunnel for Android.
+
 ### [h4sh5](https://github.com/h4sh5)
 - 🌟 👤 [h4sh5](https://github.com/h4sh5) Starred [za3k/qr-backup](https://github.com/za3k/qr-backup)
   > Paper backup of files using QR codes
@@ -48,6 +52,10 @@
 ### [hanbings](https://github.com/hanbings)
 - 🌟 👤 [hanbings](https://github.com/hanbings) Starred [jutraim/niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell)
   > A very segsy desktop shell ported to niri wm.
+
+### [hoochanlon](https://github.com/hoochanlon)
+- 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [imsyy/SPlayer](https://github.com/imsyy/SPlayer) to [hoochanlon/SPlayer](https://github.com/hoochanlon/SPlayer)
+  > 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [TomClabault/HIPRT-Path-Tracer](https://github.com/TomClabault/HIPRT-Path-Tracer)
@@ -89,6 +97,9 @@
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [whokilleddb/ClickForClickOnce](https://github.com/whokilleddb/ClickForClickOnce)
   > ClickForClickOnce - Generate configurable clickonce payloads
 
+### [sakana164](https://github.com/sakana164)
+- 🌟 👤 [sakana164](https://github.com/sakana164) Starred [Kyuofox/AnyKernel3](https://github.com/Kyuofox/AnyKernel3)
+
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
   > CLI tool for configuring and monitoring Claude Code
@@ -103,5 +114,5 @@
 
 
 ---
-*最后更新于 2025-10-12 13:39:03 UTC*
+*最后更新于 2025-10-12 14:18:48 UTC*
 *历史记录保存在 `archive` 目录中。*
