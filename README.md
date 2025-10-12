@@ -12,6 +12,8 @@
 
 ### [AabyssZG](https://github.com/AabyssZG)
 - 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [ez-lbz/http2resty-gui](https://github.com/ez-lbz/http2resty-gui)
+- 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [chasingboy/dirsx](https://github.com/chasingboy/dirsx)
+  > dirsx 是一款能够自动化过滤扫描结果的目录扫描工具
 
 ### [Col-E](https://github.com/Col-E)
 - 🌟 👤 [Col-E](https://github.com/Col-E) Starred [DanielLiu1123/json4j](https://github.com/DanielLiu1123/json4j)
@@ -50,6 +52,8 @@
 ### [Mati365](https://github.com/Mati365)
 - 🌟 👤 [Mati365](https://github.com/Mati365) Starred [MilanKovacic/vite-plugin-externalize-dependencies](https://github.com/MilanKovacic/vite-plugin-externalize-dependencies)
   > This repository provides a Vite plugin that allows you to set dependencies as external during develo...
+- 🌟 👤 [Mati365](https://github.com/Mati365) Starred [ruby/debug](https://github.com/ruby/debug)
+  > Debugging functionality for Ruby
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - ✨ 👤 [Mr-xn](https://github.com/Mr-xn) Created new repo [Mr-xn/Decrypt_EFACEGO](https://github.com/Mr-xn/Decrypt_EFACEGO)
@@ -110,6 +114,10 @@
 ### [badboycxcc](https://github.com/badboycxcc)
 - 🌟 👤 [badboycxcc](https://github.com/badboycxcc) Starred [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
   > A Clash Client For OpenWrt
+
+### [cn-kali-team](https://github.com/cn-kali-team)
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [containerscrew/nflux](https://github.com/containerscrew/nflux)
+  > Simple network monitoring tool. Powered by eBPF & Rust 🐝
 
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [securevale/swift-confidential](https://github.com/securevale/swift-confidential)
@@ -230,6 +238,8 @@
   > IP质量检测脚本 - IP Quality Check Script
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [hoothin/NCE](https://github.com/hoothin/NCE)
   > 《新概念英语》全四册在线课文朗读、单句点读
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [WakeUp-Jin/Practical-Guide-to-Context-Engineering](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering)
+  > 介绍和描述上下文工程的仓库，上下文工程的定义：是在有限的上下文窗口中，选择、组织并注入与用户输入或任务高度相关的信息，从而让大语言模型（LLM）能够在合理的边界内做出最佳推理和执行。  上下文工程中最...
 
 ### [jpillora](https://github.com/jpillora)
 - 🍴 👤 [jpillora](https://github.com/jpillora) Forked [mjakob-gh/build-static-tmux](https://github.com/mjakob-gh/build-static-tmux) to [jpillora/build-static-tmux](https://github.com/jpillora/build-static-tmux)
@@ -297,6 +307,10 @@
 - 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
   > A feature-rich command-line audio/video downloader
 
+### [pbek](https://github.com/pbek)
+- ✨ 👤 [pbek](https://github.com/pbek) Created new repo [pbek/nix-shared](https://github.com/pbek/nix-shared)
+  > Shared nix config
+
 ### [phys-winner](https://github.com/phys-winner)
 - 🌟 👤 [phys-winner](https://github.com/phys-winner) Starred [CrackerCat/simpread](https://github.com/CrackerCat/simpread)
   > 简悦导入文章
@@ -342,6 +356,10 @@
 - ✨ 👤 [shunf4](https://github.com/shunf4) Created new repo [ProjectKoto/tien-kou.github.io](https://github.com/ProjectKoto/tien-kou.github.io)
 - ✨ 👤 [shunf4](https://github.com/shunf4) Created new repo [tien-kou-kari/tien-kou-kari.github.io](https://github.com/tien-kou-kari/tien-kou-kari.github.io)
 
+### [sisoma2](https://github.com/sisoma2)
+- 🌟 👤 [sisoma2](https://github.com/sisoma2) Starred [KittenBusters/CharmingKitten](https://github.com/KittenBusters/CharmingKitten)
+  > Exposing CharmingKitten's malicious activity for IRGC-IO  Counterintelligence division (1500)
+
 ### [sleepyG8](https://github.com/sleepyG8)
 - ✨ 👤 [sleepyG8](https://github.com/sleepyG8) Created new repo [sleepyG8/Miner](https://github.com/sleepyG8/Miner)
   > digging inside of code caves
@@ -378,5 +396,5 @@
 
 
 ---
-*最后更新于 2025-10-12 20:40:10 UTC*
+*最后更新于 2025-10-12 21:18:37 UTC*
 *历史记录保存在 `archive` 目录中。*
