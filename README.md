@@ -10,6 +10,14 @@
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [AlphaGPU/leetgpu-challenges](https://github.com/AlphaGPU/leetgpu-challenges)
   > LeetGPU Challenges
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [3intermute/arm64_silent_syscall_hook](https://github.com/3intermute/arm64_silent_syscall_hook)
+  > silent syscall hooking without modifying sys_call_table/handlers via patching exception handler
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [fuqiuluo/ovo](https://github.com/fuqiuluo/ovo)
+  > Android aarch64 kernel driver module providing efficient memory operations, touch simulation and IPC...
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [fuqiuluo/kernel-hook-syscalls](https://github.com/fuqiuluo/kernel-hook-syscalls)
+  > A Kernel module to break the kernel read-only to modify the syscall_table purpose (only in the Linux...
+
 ### [AabyssZG](https://github.com/AabyssZG)
 - 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [ez-lbz/http2resty-gui](https://github.com/ez-lbz/http2resty-gui)
 - 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [chasingboy/dirsx](https://github.com/chasingboy/dirsx)
@@ -29,6 +37,10 @@
 - 🌟 👤 [Ercilan](https://github.com/Ercilan) Starred [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6)
   > A cross-version Python bytecode decompiler
 
+### [FiYHer](https://github.com/FiYHer)
+- 🌟 👤 [FiYHer](https://github.com/FiYHer) Starred [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)
+  > ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+
 ### [Forgo7ten](https://github.com/Forgo7ten)
 - 🍴 👤 [Forgo7ten](https://github.com/Forgo7ten) Forked [demoshang/siyuan-patch](https://github.com/demoshang/siyuan-patch) to [Forgo7ten/siyuan-patch](https://github.com/Forgo7ten/siyuan-patch)
   > 思源笔记本地VIP (功能特性)(第三方 S3 数据同步)
@@ -40,6 +52,10 @@
 ### [HSSkyBoy](https://github.com/HSSkyBoy)
 - 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [SagerNet/sing-box](https://github.com/SagerNet/sing-box) to [HSSkyBoy/sing-box](https://github.com/HSSkyBoy/sing-box)
   > The universal proxy platform
+
+### [LasCC](https://github.com/LasCC)
+- 🌟 👤 [LasCC](https://github.com/LasCC) Starred [SpecterOps/JamfHound](https://github.com/SpecterOps/JamfHound)
+  > JamfHound is a python3 project designed to collect and identify attack paths in Jamf Pro tenants bas...
 
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [QingChan0o0/Makcu](https://github.com/QingChan0o0/Makcu) to [Lynnette177/Makcu](https://github.com/Lynnette177/Makcu)
@@ -114,9 +130,17 @@
   > Lateral Movement Bof with MSI ODBC Driver Install
 - 🌟 👤 [Nero22k](https://github.com/Nero22k) Starred [nmantani/archiver-MOTW-support-comparison](https://github.com/nmantani/archiver-MOTW-support-comparison)
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [yang-zhongtian/KProtect](https://github.com/yang-zhongtian/KProtect)
+  > Stack-based JavaScript virtual machine
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [upstash/context7](https://github.com/upstash/context7)
   > Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+
+### [PabloCastellano](https://github.com/PabloCastellano)
+- 🌟 👤 [PabloCastellano](https://github.com/PabloCastellano) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
 
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [brendanballon/sfsymbols-svg](https://github.com/brendanballon/sfsymbols-svg)
@@ -153,11 +177,17 @@
 ### [a1ive](https://github.com/a1ive)
 - 🌟 👤 [a1ive](https://github.com/a1ive) Starred [jp7677/dxvk-nvapi](https://github.com/jp7677/dxvk-nvapi)
   > Alternative NVAPI implementation on top of DXVK.
+- 🌟 👤 [a1ive](https://github.com/a1ive) Starred [InkboxSoftware/spacegamex64](https://github.com/InkboxSoftware/spacegamex64)
+  > Recreation of a classic arcade game remade as a UEFI application for the x86_64 platform. 
 
 ### [affggh](https://github.com/affggh)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [anrui2032/ims-patches](https://github.com/anrui2032/ims-patches)
 - 🌟 👤 [affggh](https://github.com/affggh) Starred [TryExceptElseFinally/WITRN_binary](https://github.com/TryExceptElseFinally/WITRN_binary)
   > Reverse Engineering for WITRN products binary firmware
+
+### [aviraxp](https://github.com/aviraxp)
+- 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [3intermute/arm64_silent_syscall_hook](https://github.com/3intermute/arm64_silent_syscall_hook)
+  > silent syscall hooking without modifying sys_call_table/handlers via patching exception handler
 
 ### [badboycxcc](https://github.com/badboycxcc)
 - 🌟 👤 [badboycxcc](https://github.com/badboycxcc) Starred [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
@@ -170,6 +200,10 @@
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [securevale/swift-confidential](https://github.com/securevale/swift-confidential)
   > Swift literals obfuscator to defend against static reverse engineering.
+
+### [doronz88](https://github.com/doronz88)
+- 🌟 👤 [doronz88](https://github.com/doronz88) Starred [yoavst/ida-ios-helper](https://github.com/yoavst/ida-ios-helper)
+  > Plugin to ease reversing iOS projects
 
 ### [dslee2022](https://github.com/dslee2022)
 - 🌟 👤 [dslee2022](https://github.com/dslee2022) Starred [HadessCS/Red-team-Interview-Questions](https://github.com/HadessCS/Red-team-Interview-Questions)
@@ -263,12 +297,14 @@
 ### [hoochanlon](https://github.com/hoochanlon)
 - 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [imsyy/SPlayer](https://github.com/imsyy/SPlayer) to [hoochanlon/SPlayer](https://github.com/hoochanlon/SPlayer)
   > 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
-- 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [NeteaseCloudMusicApiEnhanced/api-enhanced](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) to [hoochanlon/api-enhanced](https://github.com/hoochanlon/api-enhanced)
-  > 🔍 A revival project for NeteaseCloudMusicApi Node.js Services || 网易云音乐 API 备份 + 增强 || 本项目自原版v4.28.0版...
 - 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [AlloyTeam/AlloyTimer](https://github.com/AlloyTeam/AlloyTimer) to [hoochanlon/AlloyTimer](https://github.com/hoochanlon/AlloyTimer)
   > AlloyTimer定时器 - 番茄工作法的时间管理应用
 - 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [aristorechina/Tomodoro_Chinese](https://github.com/aristorechina/Tomodoro_Chinese) to [hoochanlon/tomato](https://github.com/hoochanlon/tomato)
   > 一款带有画中画模式、白噪声生成、任务等功能的番茄钟 Web 应用！
+- 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [NeteaseCloudMusicApiEnhanced/api-enhanced](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) to [hoochanlon/api-enhanced](https://github.com/hoochanlon/api-enhanced)
+  > 🔍 A revival project for NeteaseCloudMusicApi Node.js Services || 网易云音乐 API 备份 + 增强 || 本项目自原版v4.28.0版...
+- 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) to [hoochanlon/music](https://github.com/hoochanlon/music)
+  > 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
 
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [TomClabault/HIPRT-Path-Tracer](https://github.com/TomClabault/HIPRT-Path-Tracer)
@@ -316,6 +352,12 @@
 - 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [stephanfr/Xoshiro256PlusSIMD](https://github.com/stephanfr/Xoshiro256PlusSIMD)
   > Serial and SIMD implementation of the Xoroshiro256+ random number generator.
 
+### [m0n0ph1](https://github.com/m0n0ph1)
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [nukIeer/stuxnet](https://github.com/nukIeer/stuxnet)
+  > Malicious computer worm Stuxnet and drivers
+- 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [nukIeer/stuxnet](https://github.com/nukIeer/stuxnet) to [m0n0ph1/stuxnet_bins](https://github.com/m0n0ph1/stuxnet_bins)
+  > Malicious computer worm Stuxnet and drivers
+
 ### [m0nad](https://github.com/m0nad)
 - 🌟 👤 [m0nad](https://github.com/m0nad) Starred [pythonfluente/pythonfluente2e](https://github.com/pythonfluente/pythonfluente2e)
   > Python Fluente, Segunda Edição
@@ -344,6 +386,8 @@
   > Staticcheck - The advanced Go linter
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [oncybersec/oscp-enumeration-cheat-sheet](https://github.com/oncybersec/oscp-enumeration-cheat-sheet)
   > A collection of commands and tools used for conducting enumeration during my OSCP journey
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [kjiwa/x86-boot-sector-c](https://github.com/kjiwa/x86-boot-sector-c) to [mrexodia/x86-boot-sector-c](https://github.com/mrexodia/x86-boot-sector-c)
+  > A DOS boot sector written in C
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [DimensionDev/Flare](https://github.com/DimensionDev/Flare)
@@ -458,5 +502,5 @@
 
 
 ---
-*最后更新于 2025-10-12 21:38:28 UTC*
+*最后更新于 2025-10-12 22:19:56 UTC*
 *历史记录保存在 `archive` 目录中。*
