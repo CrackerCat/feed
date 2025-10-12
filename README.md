@@ -16,9 +16,17 @@
 - 🌟 👤 [Manistein](https://github.com/Manistein) Starred [CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
   > Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
 
+### [ThunderCls](https://github.com/ThunderCls)
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
+  > Android app for streaming and downloading media.
+
 ### [a1ive](https://github.com/a1ive)
 - 🌟 👤 [a1ive](https://github.com/a1ive) Starred [jp7677/dxvk-nvapi](https://github.com/jp7677/dxvk-nvapi)
   > Alternative NVAPI implementation on top of DXVK.
+
+### [badboycxcc](https://github.com/badboycxcc)
+- 🌟 👤 [badboycxcc](https://github.com/badboycxcc) Starred [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
+  > A Clash Client For OpenWrt
 
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [securevale/swift-confidential](https://github.com/securevale/swift-confidential)
@@ -34,12 +42,23 @@
 - 🌟 👤 [h4sh5](https://github.com/h4sh5) Starred [za3k/qr-backup](https://github.com/za3k/qr-backup)
   > Paper backup of files using QR codes
 
+### [hahwul](https://github.com/hahwul)
+- ✨ 👤 [hahwul](https://github.com/hahwul) Created new repo [hahwul/homebrew-reqs](https://github.com/hahwul/homebrew-reqs)
+
+### [hanbings](https://github.com/hanbings)
+- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [jutraim/niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell)
+  > A very segsy desktop shell ported to niri wm.
+
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [TomClabault/HIPRT-Path-Tracer](https://github.com/TomClabault/HIPRT-Path-Tracer)
   > Unbiased & physically-based GPU HIPRT (C++/HIP) interactive path tracing renderer
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [byJoey/yx-tools](https://github.com/byJoey/yx-tools)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [xykt/IPQuality](https://github.com/xykt/IPQuality)
+  > IP质量检测脚本 - IP Quality Check Script
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [hoothin/NCE](https://github.com/hoothin/NCE)
+  > 《新概念英语》全四册在线课文朗读、单句点读
 
 ### [jpillora](https://github.com/jpillora)
 - 🍴 👤 [jpillora](https://github.com/jpillora) Forked [mjakob-gh/build-static-tmux](https://github.com/mjakob-gh/build-static-tmux) to [jpillora/build-static-tmux](https://github.com/jpillora/build-static-tmux)
@@ -74,11 +93,15 @@
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
   > CLI tool for configuring and monitoring Claude Code
 
+### [tom0li](https://github.com/tom0li)
+- 🌟 👤 [tom0li](https://github.com/tom0li) Starred [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)
+  > Fcitx5 input method framework and engines ported to Android
+
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [OpenDevicePartnership/patina](https://github.com/OpenDevicePartnership/patina)
   > Patina Firmware
 
 
 ---
-*最后更新于 2025-10-12 13:24:13 UTC*
+*最后更新于 2025-10-12 13:39:03 UTC*
 *历史记录保存在 `archive` 目录中。*
