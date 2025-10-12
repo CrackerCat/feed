@@ -33,6 +33,10 @@
 - 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [antgroup/YASA-Engine](https://github.com/antgroup/YASA-Engine)
   >  YASA is an open-source static program analysis project. Its core innovation lies in a unified inter...
 
+### [DeEpinGh0st](https://github.com/DeEpinGh0st)
+- 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [libaibaia/cloudSec](https://github.com/libaibaia/cloudSec)
+  > 云安全利用工具-云平台AK/SK-WEB利用工具，添加AK/SK自动检测资源，无需手动执行，支持云服务器、存储桶、数据库操作
+
 ### [Ercilan](https://github.com/Ercilan)
 - 🌟 👤 [Ercilan](https://github.com/Ercilan) Starred [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6)
   > A cross-version Python bytecode decompiler
@@ -174,6 +178,10 @@
 - 🌟 👤 [XayahSuSuSu](https://github.com/XayahSuSuSu) Starred [arrow-kt/arrow](https://github.com/arrow-kt/arrow)
   > The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent...
 
+### [XiaoliChan](https://github.com/XiaoliChan)
+- 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [NPC2000/elf_to_shellcode](https://github.com/NPC2000/elf_to_shellcode)
+  > 将任何 elf 或命令转换为 shellcode
+
 ### [a1ive](https://github.com/a1ive)
 - 🌟 👤 [a1ive](https://github.com/a1ive) Starred [jp7677/dxvk-nvapi](https://github.com/jp7677/dxvk-nvapi)
   > Alternative NVAPI implementation on top of DXVK.
@@ -188,6 +196,7 @@
 ### [aviraxp](https://github.com/aviraxp)
 - 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [3intermute/arm64_silent_syscall_hook](https://github.com/3intermute/arm64_silent_syscall_hook)
   > silent syscall hooking without modifying sys_call_table/handlers via patching exception handler
+- 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [vvb2060/Ims](https://github.com/vvb2060/Ims)
 
 ### [badboycxcc](https://github.com/badboycxcc)
 - 🌟 👤 [badboycxcc](https://github.com/badboycxcc) Starred [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
@@ -295,8 +304,6 @@
   > 浏览器插件版api检测工具
 
 ### [hoochanlon](https://github.com/hoochanlon)
-- 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [imsyy/SPlayer](https://github.com/imsyy/SPlayer) to [hoochanlon/SPlayer](https://github.com/hoochanlon/SPlayer)
-  > 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 - 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [AlloyTeam/AlloyTimer](https://github.com/AlloyTeam/AlloyTimer) to [hoochanlon/AlloyTimer](https://github.com/hoochanlon/AlloyTimer)
   > AlloyTimer定时器 - 番茄工作法的时间管理应用
 - 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [aristorechina/Tomodoro_Chinese](https://github.com/aristorechina/Tomodoro_Chinese) to [hoochanlon/tomato](https://github.com/hoochanlon/tomato)
@@ -305,6 +312,8 @@
   > 🔍 A revival project for NeteaseCloudMusicApi Node.js Services || 网易云音乐 API 备份 + 增强 || 本项目自原版v4.28.0版...
 - 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) to [hoochanlon/music](https://github.com/hoochanlon/music)
   > 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
+- 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [imsyy/SPlayer](https://github.com/imsyy/SPlayer) to [hoochanlon/SPlayer](https://github.com/hoochanlon/SPlayer)
+  > 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [TomClabault/HIPRT-Path-Tracer](https://github.com/TomClabault/HIPRT-Path-Tracer)
@@ -357,6 +366,8 @@
   > Malicious computer worm Stuxnet and drivers
 - 🍴 👤 [m0n0ph1](https://github.com/m0n0ph1) Forked [nukIeer/stuxnet](https://github.com/nukIeer/stuxnet) to [m0n0ph1/stuxnet_bins](https://github.com/m0n0ph1/stuxnet_bins)
   > Malicious computer worm Stuxnet and drivers
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [enlyze/s7-1500-software-controller-loader](https://github.com/enlyze/s7-1500-software-controller-loader)
+  > a small bootloader for the kernel used in Siemens S7-1500 Software Controllers
 
 ### [m0nad](https://github.com/m0nad)
 - 🌟 👤 [m0nad](https://github.com/m0nad) Starred [pythonfluente/pythonfluente2e](https://github.com/pythonfluente/pythonfluente2e)
@@ -466,6 +477,10 @@
 - 🌟 👤 [sisoma2](https://github.com/sisoma2) Starred [KittenBusters/CharmingKitten](https://github.com/KittenBusters/CharmingKitten)
   > Exposing CharmingKitten's malicious activity for IRGC-IO  Counterintelligence division (1500)
 
+### [skywind3000](https://github.com/skywind3000)
+- 🌟 👤 [skywind3000](https://github.com/skywind3000) Starred [amix/photoshop](https://github.com/amix/photoshop)
+  > Photoshop 1.0 Source Code
+
 ### [sleepyG8](https://github.com/sleepyG8)
 - ✨ 👤 [sleepyG8](https://github.com/sleepyG8) Created new repo [sleepyG8/Miner](https://github.com/sleepyG8/Miner)
   > digging inside of code caves
@@ -488,9 +503,20 @@
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [OpenDevicePartnership/patina](https://github.com/OpenDevicePartnership/patina)
   > Patina Firmware
 
+### [vvb2060](https://github.com/vvb2060)
+- ✨ 👤 [vvb2060](https://github.com/vvb2060) Created new repo [vvb2060/Ims](https://github.com/vvb2060/Ims)
+
 ### [yhs0602](https://github.com/yhs0602)
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [wandb/weave](https://github.com/wandb/weave)
   > Weave is a toolkit for developing AI-powered applications, built by Weights & Biases.
+
+### [yhy0](https://github.com/yhy0)
+- 🌟 👤 [yhy0](https://github.com/yhy0) Starred [xixu-me/Xget](https://github.com/xixu-me/Xget)
+  > Ultra-high-performance, secure, all-in-one acceleration engine for developer resources whose perform...
+
+### [yohanes](https://github.com/yohanes)
+- 🌟 👤 [yohanes](https://github.com/yohanes) Starred [woheller69/whoBIRD](https://github.com/woheller69/whoBIRD)
+  > Identify bird sounds in real time with this Android version of BirdNET. Bird sound recognition for m...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python)
@@ -502,5 +528,5 @@
 
 
 ---
-*最后更新于 2025-10-12 22:19:56 UTC*
+*最后更新于 2025-10-12 22:39:56 UTC*
 *历史记录保存在 `archive` 目录中。*
