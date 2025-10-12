@@ -32,6 +32,10 @@
 - 🌟 👤 [Gracker](https://github.com/Gracker) Starred [volcengine/MineContext](https://github.com/volcengine/MineContext)
   > MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
 
+### [HSSkyBoy](https://github.com/HSSkyBoy)
+- 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [SagerNet/sing-box](https://github.com/SagerNet/sing-box) to [HSSkyBoy/sing-box](https://github.com/HSSkyBoy/sing-box)
+  > The universal proxy platform
+
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [QingChan0o0/Makcu](https://github.com/QingChan0o0/Makcu) to [Lynnette177/Makcu](https://github.com/Lynnette177/Makcu)
   > Makcu调用 含鼠标监控
@@ -39,6 +43,10 @@
 ### [Manistein](https://github.com/Manistein)
 - 🌟 👤 [Manistein](https://github.com/Manistein) Starred [CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
   > Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
+
+### [Mati365](https://github.com/Mati365)
+- 🌟 👤 [Mati365](https://github.com/Mati365) Starred [MilanKovacic/vite-plugin-externalize-dependencies](https://github.com/MilanKovacic/vite-plugin-externalize-dependencies)
+  > This repository provides a Vite plugin that allows you to set dependencies as external during develo...
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - ✨ 👤 [Mr-xn](https://github.com/Mr-xn) Created new repo [Mr-xn/Decrypt_EFACEGO](https://github.com/Mr-xn/Decrypt_EFACEGO)
@@ -120,6 +128,10 @@
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [ksdme/ut](https://github.com/ksdme/ut)
   > A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [orzice/DeltaForcePrice](https://github.com/orzice/DeltaForcePrice)
+  > 三角洲行动API-真实游戏内交易行实时价格
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [ticlo/rc-dock](https://github.com/ticlo/rc-dock)
   > Dock Layout for React Component
@@ -188,6 +200,8 @@
   > 🔍 A revival project for NeteaseCloudMusicApi Node.js Services || 网易云音乐 API 备份 + 增强 || 本项目自原版v4.28.0版...
 - 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [AlloyTeam/AlloyTimer](https://github.com/AlloyTeam/AlloyTimer) to [hoochanlon/AlloyTimer](https://github.com/hoochanlon/AlloyTimer)
   > AlloyTimer定时器 - 番茄工作法的时间管理应用
+- 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [aristorechina/Tomodoro_Chinese](https://github.com/aristorechina/Tomodoro_Chinese) to [hoochanlon/tomato](https://github.com/hoochanlon/tomato)
+  > 一款带有画中画模式、白噪声生成、任务等功能的番茄钟 Web 应用！
 
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [TomClabault/HIPRT-Path-Tracer](https://github.com/TomClabault/HIPRT-Path-Tracer)
@@ -202,6 +216,8 @@
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
   > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [meel-hd/lofi-engine](https://github.com/meel-hd/lofi-engine)
+  > Generate LoFi music on the go, offline and locally.
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [byJoey/yx-tools](https://github.com/byJoey/yx-tools)
@@ -268,6 +284,10 @@
 - 🍴 👤 [oalraw433](https://github.com/oalraw433) Forked [CrackerCat/video_decrypter](https://github.com/CrackerCat/video_decrypter) to [oalraw433/video_decrypter](https://github.com/oalraw433/video_decrypter)
   > Decrypt video from a streaming site with MPEG-DASH Widevine DRM encryption.
 
+### [omeraydindev](https://github.com/omeraydindev)
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+  > A feature-rich command-line audio/video downloader
+
 ### [phys-winner](https://github.com/phys-winner)
 - 🌟 👤 [phys-winner](https://github.com/phys-winner) Starred [CrackerCat/simpread](https://github.com/CrackerCat/simpread)
   > 简悦导入文章
@@ -311,6 +331,10 @@
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
   > Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 
+### [timscriptov](https://github.com/timscriptov)
+- 🌟 👤 [timscriptov](https://github.com/timscriptov) Starred [TheDiamondYT1/NMod-Examples](https://github.com/TheDiamondYT1/NMod-Examples)
+  > NMod-Examples to ModdedPE.
+
 ### [tom0li](https://github.com/tom0li)
 - 🌟 👤 [tom0li](https://github.com/tom0li) Starred [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)
   > Fcitx5 input method framework and engines ported to Android
@@ -333,5 +357,5 @@
 
 
 ---
-*最后更新于 2025-10-12 19:38:31 UTC*
+*最后更新于 2025-10-12 20:22:58 UTC*
 *历史记录保存在 `archive` 目录中。*
