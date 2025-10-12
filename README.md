@@ -59,6 +59,54 @@
 - ✨ 👤 [Mr-xn](https://github.com/Mr-xn) Created new repo [Mr-xn/Decrypt_EFACEGO](https://github.com/Mr-xn/Decrypt_EFACEGO)
   > 汉王e脸通智慧园区管理平台 iface.server-1.0.jar 和 iface.common-1.0.jar 解密工具
 
+### [NSSpiral](https://github.com/NSSpiral)
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [Jack-R1/SiriRemoteVoiceControl](https://github.com/Jack-R1/SiriRemoteVoiceControl)
+  > Apple TV 4th Generation Remote (SiriRemote) Voice Control for macOS
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [Jack-R1/SiriRemoteVoiceDecoder](https://github.com/Jack-R1/SiriRemoteVoiceDecoder)
+  > Apple TV 4th Generation Remote (SiriRemote) Opus Voice Decoder for macOS
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [guileschool/SiriRemoteBTT](https://github.com/guileschool/SiriRemoteBTT)
+  > Use Your Siri Remote with Your Mac
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [Yanndroid/SiriRemote-Linux](https://github.com/Yanndroid/SiriRemote-Linux)
+  > Control your Linux machine with an Apple TV 4th Siri Remote
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [brandonsaldan/codex](https://github.com/brandonsaldan/codex)
+  > A minimal genetic data explorer that processes all genetic information locally.
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [NyanSatan/obscurantistic_checkm8](https://github.com/NyanSatan/obscurantistic_checkm8)
+  > checkm8 for S5L8747X & S5L8947X rewritten in C
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [tevelee/SwiftUI-Flow](https://github.com/tevelee/SwiftUI-Flow)
+  > Flow Layout implemented in SwiftUI
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [joogps/Glur](https://github.com/joogps/Glur)
+  > A library for progressive blurs in SwiftUI.
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [LukeZGD/EverPwnage](https://github.com/LukeZGD/EverPwnage)
+  > iOS 8.0-9.3.6 Jailbreak for 32-bit Devices
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [gwilymk/bin2c](https://github.com/gwilymk/bin2c)
+  > A very simple utility for converting a binary file to a c source file
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [stossy11/Pluviana](https://github.com/stossy11/Pluviana)
+  > Untethered downgrade your GSM iPhone 4 without SHSH blobs. Only for Mac. it is an updated and mainta...
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [dora2ios/ramdiskF_maker](https://github.com/dora2ios/ramdiskF_maker)
+  > for 32-bit iboot bug on ios 7
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [dora2ios/daibutsuCFW](https://github.com/dora2ios/daibutsuCFW)
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [Serhatisb/kdumper](https://github.com/Serhatisb/kdumper)
+  > Dumps iBoot and is based on kdumper. iOS 6.0-7.1.2 only.
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [GireshD/TiktokSwiftUI](https://github.com/GireshD/TiktokSwiftUI)
+  > Tiktok SwiftUI demo
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [SerotoninApp/Serotonin](https://github.com/SerotoninApp/Serotonin)
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [verygenericname/nathanlr](https://github.com/verygenericname/nathanlr)
+  > Semi-Jailbreak for 16.5.1-16.6.1
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [horsicq/XMachOViewer](https://github.com/horsicq/XMachOViewer)
+  >  XMachOViewer is a Mach-O viewer for Windows, Linux and MacOS
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [VulnerabilityResearchCentre/patch-diffing-in-the-dark](https://github.com/VulnerabilityResearchCentre/patch-diffing-in-the-dark)
+  > Leveraging patch diffing to discover new vulnerabilities
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [glasklart/hd](https://github.com/glasklart/hd)
+  > The Retina Glasklart Theme
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [mrpippy/XcodeNueve](https://github.com/mrpippy/XcodeNueve)
+  > A hack allowing the use of Xcode 9's toolchain on macOS Catalina and later
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [erikhric/ios15-mdm-bypass](https://github.com/erikhric/ios15-mdm-bypass)
+  > guide for passing MDM activation using SSHRD_Script
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
+  > 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, W...
+- 🌟 👤 [NSSpiral](https://github.com/NSSpiral) Starred [alwaysappleftd/Passra1n](https://github.com/alwaysappleftd/Passra1n)
+  > A free untethered iCloud bypass app for iOS 12.0 - 14.8.1. It is still a work in progress so please ...
+
 ### [Nero22k](https://github.com/Nero22k)
 - 🌟 👤 [Nero22k](https://github.com/Nero22k) Starred [iaddis/metalnes](https://github.com/iaddis/metalnes)
   > Transistor level NES simulation 
@@ -150,6 +198,12 @@
   > Advanced Docking System for Qt
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
   > Agentic AI Framework for Java Developers
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [zer0def/undetected-frida](https://github.com/zer0def/undetected-frida) to [fengjixuchui/undetected-frida](https://github.com/fengjixuchui/undetected-frida)
+  > Non-authoritatively making Frida less (not un-!)detectable by applying some symptomatic patches. Mel...
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [dslee2022/red-team-interview-questions](https://github.com/dslee2022/red-team-interview-questions) to [fengjixuchui/red-team-interview-questions](https://github.com/fengjixuchui/red-team-interview-questions)
+  > Red team Interview Questions
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [kagehq/gpu-kill](https://github.com/kagehq/gpu-kill)
@@ -250,6 +304,10 @@
 ### [kentcdodds](https://github.com/kentcdodds)
 - 🚀 👤 [kentcdodds](https://github.com/kentcdodds) Made [kentcdodds/remix-jam](https://github.com/kentcdodds/remix-jam) public
 
+### [kost](https://github.com/kost)
+- 🌟 👤 [kost](https://github.com/kost) Starred [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code)
+  > Roo Code gives you a whole dev team of AI agents in your code editor.
+
 ### [luochuanyuewu](https://github.com/luochuanyuewu)
 - 🌟 👤 [luochuanyuewu](https://github.com/luochuanyuewu) Starred [anyofai/anyofai.github.io](https://github.com/anyofai/anyofai.github.io)
   > 最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？如何使用GPT-5-Codex？本文会为大家重点...
@@ -282,6 +340,10 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/amplifier](https://github.com/microsoft/amplifier)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dominikh/go-tools](https://github.com/dominikh/go-tools)
+  > Staticcheck - The advanced Go linter
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [oncybersec/oscp-enumeration-cheat-sheet](https://github.com/oncybersec/oscp-enumeration-cheat-sheet)
+  > A collection of commands and tools used for conducting enumeration during my OSCP journey
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [DimensionDev/Flare](https://github.com/DimensionDev/Flare)
@@ -396,5 +458,5 @@
 
 
 ---
-*最后更新于 2025-10-12 21:18:37 UTC*
+*最后更新于 2025-10-12 21:38:28 UTC*
 *历史记录保存在 `archive` 目录中。*
