@@ -54,6 +54,10 @@
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [danopdev/MergePhotos](https://github.com/danopdev/MergePhotos)
   > Android application for marge multiple photos: panoramas, HDR, ...
 
+### [TheHitMan7](https://github.com/TheHitMan7)
+- 🌟 👤 [TheHitMan7](https://github.com/TheHitMan7) Starred [fabianonline/telegram.sh](https://github.com/fabianonline/telegram.sh)
+  > Send telegram messages right from your command line.
+
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
   > Android app for streaming and downloading media.
@@ -101,6 +105,10 @@
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [Mentra-Community/MentraOS](https://github.com/Mentra-Community/MentraOS)
   > The open-source OS for smart glasses with dozens of apps. Get captions, AI assistant, notifications,...
 
+### [gmh5225](https://github.com/gmh5225)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ticlo/rc-dock](https://github.com/ticlo/rc-dock) to [gmh5225/rc-dock](https://github.com/gmh5225/rc-dock)
+  > Dock Layout for React Component
+
 ### [h4sh5](https://github.com/h4sh5)
 - 🌟 👤 [h4sh5](https://github.com/h4sh5) Starred [za3k/qr-backup](https://github.com/za3k/qr-backup)
   > Paper backup of files using QR codes
@@ -115,6 +123,8 @@
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [map-A/chatgpt-rs](https://github.com/map-A/chatgpt-rs)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [map-A/crawl4ai](https://github.com/map-A/crawl4ai)
+  > 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discor...
 
 ### [hoochanlon](https://github.com/hoochanlon)
 - 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [imsyy/SPlayer](https://github.com/imsyy/SPlayer) to [hoochanlon/SPlayer](https://github.com/hoochanlon/SPlayer)
@@ -158,9 +168,15 @@
 - 🌟 👤 [mephi42](https://github.com/mephi42) Starred [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon)
   > A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [0xflux/Sanctum](https://github.com/0xflux/Sanctum)
+  > Sanctum is an experimental proof-of-concept EDR, designed to detect modern malware techniques, above...
+
 ### [mos9527](https://github.com/mos9527)
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [DTolm/VkFFT](https://github.com/DTolm/VkFFT)
   > Vulkan/CUDA/HIP/OpenCL/Level Zero/Metal Fast Fourier Transform library
+- 🌟 👤 [mos9527](https://github.com/mos9527) Starred [google/bindiff](https://github.com/google/bindiff)
+  > Quickly find differences and similarities in disassembled code
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [DimensionDev/Flare](https://github.com/DimensionDev/Flare)
@@ -227,5 +243,5 @@
 
 
 ---
-*最后更新于 2025-10-12 17:17:53 UTC*
+*最后更新于 2025-10-12 17:38:47 UTC*
 *历史记录保存在 `archive` 目录中。*
