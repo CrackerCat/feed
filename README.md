@@ -146,6 +146,10 @@
 - 🌟 👤 [PabloCastellano](https://github.com/PabloCastellano) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
   > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
 
+### [People-11](https://github.com/People-11)
+- 🚀 👤 [People-11](https://github.com/People-11) Made [People-11/13sKernel](https://github.com/People-11/13sKernel) public
+  > A test build for 13s
+
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [brendanballon/sfsymbols-svg](https://github.com/brendanballon/sfsymbols-svg)
   > Apple's SF Symbols in .svg format compiled into one place.
@@ -353,6 +357,9 @@
 - 🌟 👤 [kost](https://github.com/kost) Starred [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code)
   > Roo Code gives you a whole dev team of AI agents in your code editor.
 
+### [liyao-l-y](https://github.com/liyao-l-y)
+- ✨ 👤 [liyao-l-y](https://github.com/liyao-l-y) Created new repo [liyao-l-y/AIntel-Agent](https://github.com/liyao-l-y/AIntel-Agent)
+
 ### [luochuanyuewu](https://github.com/luochuanyuewu)
 - 🌟 👤 [luochuanyuewu](https://github.com/luochuanyuewu) Starred [anyofai/anyofai.github.io](https://github.com/anyofai/anyofai.github.io)
   > 最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？如何使用GPT-5-Codex？本文会为大家重点...
@@ -368,6 +375,10 @@
   > Malicious computer worm Stuxnet and drivers
 - 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [enlyze/s7-1500-software-controller-loader](https://github.com/enlyze/s7-1500-software-controller-loader)
   > a small bootloader for the kernel used in Siemens S7-1500 Software Controllers
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [x86byte/Stuxnet-Rootkit](https://github.com/x86byte/Stuxnet-Rootkit)
+  > Stuxnet extracted binaries by reversing & Stuxnet Rootkit Analysis
+- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [stuxnet999/volatility-binaries](https://github.com/stuxnet999/volatility-binaries)
+  > Contains compiled binaries of Volatility
 
 ### [m0nad](https://github.com/m0nad)
 - 🌟 👤 [m0nad](https://github.com/m0nad) Starred [pythonfluente/pythonfluente2e](https://github.com/pythonfluente/pythonfluente2e)
@@ -469,6 +480,10 @@
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
   > CLI tool for configuring and monitoring Claude Code
 
+### [shadow3aaa](https://github.com/shadow3aaa)
+- 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [fuqiuluo/kernel-hook-syscalls](https://github.com/fuqiuluo/kernel-hook-syscalls)
+  > A Kernel module to break the kernel read-only to modify the syscall_table purpose (only in the Linux...
+
 ### [shunf4](https://github.com/shunf4)
 - ✨ 👤 [shunf4](https://github.com/shunf4) Created new repo [ProjectKoto/tien-kou.github.io](https://github.com/ProjectKoto/tien-kou.github.io)
 - ✨ 👤 [shunf4](https://github.com/shunf4) Created new repo [tien-kou-kari/tien-kou-kari.github.io](https://github.com/tien-kou-kari/tien-kou-kari.github.io)
@@ -528,5 +543,5 @@
 
 
 ---
-*最后更新于 2025-10-12 22:39:56 UTC*
+*最后更新于 2025-10-12 23:19:01 UTC*
 *历史记录保存在 `archive` 目录中。*
