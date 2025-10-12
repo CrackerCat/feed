@@ -40,6 +40,10 @@
 - 🌟 👤 [Manistein](https://github.com/Manistein) Starred [CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
   > Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
 
+### [Mr-xn](https://github.com/Mr-xn)
+- ✨ 👤 [Mr-xn](https://github.com/Mr-xn) Created new repo [Mr-xn/Decrypt_EFACEGO](https://github.com/Mr-xn/Decrypt_EFACEGO)
+  > 汉王e脸通智慧园区管理平台 iface.server-1.0.jar 和 iface.common-1.0.jar 解密工具
+
 ### [Nero22k](https://github.com/Nero22k)
 - 🌟 👤 [Nero22k](https://github.com/Nero22k) Starred [iaddis/metalnes](https://github.com/iaddis/metalnes)
   > Transistor level NES simulation 
@@ -77,6 +81,10 @@
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
   > Android app for streaming and downloading media.
+
+### [XayahSuSuSu](https://github.com/XayahSuSuSu)
+- 🌟 👤 [XayahSuSuSu](https://github.com/XayahSuSuSu) Starred [arrow-kt/arrow](https://github.com/arrow-kt/arrow)
+  > The perfect companion for your Kotlin journey - Inspired by functional, data-oriented and concurrent...
 
 ### [a1ive](https://github.com/a1ive)
 - 🌟 👤 [a1ive](https://github.com/a1ive) Starred [jp7677/dxvk-nvapi](https://github.com/jp7677/dxvk-nvapi)
@@ -185,6 +193,8 @@
 ### [ilian](https://github.com/ilian)
 - 🌟 👤 [ilian](https://github.com/ilian) Starred [basil00/WinDivert](https://github.com/basil00/WinDivert)
   > WinDivert: Windows Packet Divert
+- 🌟 👤 [ilian](https://github.com/ilian) Starred [ffalcinelli/pydivert](https://github.com/ffalcinelli/pydivert)
+  > A Python binding for WinDivert driver
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
@@ -267,6 +277,9 @@
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [scop/bash-completion](https://github.com/scop/bash-completion)
   > Programmable completion functions for bash
 
+### [re-zero001](https://github.com/re-zero001)
+- 🍴 👤 [re-zero001](https://github.com/re-zero001) Forked [KyuubiRan/KeyAttestation](https://github.com/KyuubiRan/KeyAttestation) to [re-zero001/KeyAttestation](https://github.com/re-zero001/KeyAttestation)
+
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [whokilleddb/ClickForClickOnce](https://github.com/whokilleddb/ClickForClickOnce)
   > ClickForClickOnce - Generate configurable clickonce payloads
@@ -310,5 +323,5 @@
 
 
 ---
-*最后更新于 2025-10-12 18:45:48 UTC*
+*最后更新于 2025-10-12 19:16:23 UTC*
 *历史记录保存在 `archive` 目录中。*
