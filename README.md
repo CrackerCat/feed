@@ -28,6 +28,10 @@
 - 🍴 👤 [Forgo7ten](https://github.com/Forgo7ten) Forked [demoshang/siyuan-patch](https://github.com/demoshang/siyuan-patch) to [Forgo7ten/siyuan-patch](https://github.com/Forgo7ten/siyuan-patch)
   > 思源笔记本地VIP (功能特性)(第三方 S3 数据同步)
 
+### [Gracker](https://github.com/Gracker)
+- 🌟 👤 [Gracker](https://github.com/Gracker) Starred [volcengine/MineContext](https://github.com/volcengine/MineContext)
+  > MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
+
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [QingChan0o0/Makcu](https://github.com/QingChan0o0/Makcu) to [Lynnette177/Makcu](https://github.com/Lynnette177/Makcu)
   > Makcu调用 含鼠标监控
@@ -120,10 +124,23 @@
 ### [fr0zenrain](https://github.com/fr0zenrain)
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [Mentra-Community/MentraOS](https://github.com/Mentra-Community/MentraOS)
   > The open-source OS for smart glasses with dozens of apps. Get captions, AI assistant, notifications,...
+- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [cybergeek1943/MathFlow](https://github.com/cybergeek1943/MathFlow)
+  > Like `requests` for mathematical computing, making complex math feel simple.
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ticlo/rc-dock](https://github.com/ticlo/rc-dock) to [gmh5225/rc-dock](https://github.com/gmh5225/rc-dock)
   > Dock Layout for React Component
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [obra/superpowers-skills](https://github.com/obra/superpowers-skills) to [gmh5225/superpowers-skills](https://github.com/gmh5225/superpowers-skills)
+  > Community-editable skills for Claude Code's superpowers plugin
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [obra/claude-memory-extractor](https://github.com/obra/claude-memory-extractor) to [gmh5225/claude-memory-extractor](https://github.com/gmh5225/claude-memory-extractor)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [obra/coderabbit-review-helper](https://github.com/obra/coderabbit-review-helper) to [gmh5225/coderabbit-review-helper](https://github.com/gmh5225/coderabbit-review-helper)
+  > Extract CodeRabbit GitHub PR reviews for AI coding agent consumption
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ikram98ai/docgram-api](https://github.com/ikram98ai/docgram-api) to [gmh5225/docgram-api](https://github.com/gmh5225/docgram-api)
+  > Docgram is an AI-powered social platform that enables users to share and chat with PDFs in real time...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Nikelroid/Adversarial-CoEvolution](https://github.com/Nikelroid/Adversarial-CoEvolution) to [gmh5225/Adversarial-CoEvolution](https://github.com/gmh5225/Adversarial-CoEvolution)
+  > Adversarial Co-Evolution of RL and VLM/LLM Agents in Multiplayer Games
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [lalitbhagat7/multi-agent-research-companion](https://github.com/lalitbhagat7/multi-agent-research-companion) to [gmh5225/multi-agent-research-companion](https://github.com/gmh5225/multi-agent-research-companion)
+  > LangChain-based multi-agent system for automated research paper discovery with local LLMs
 
 ### [h4sh5](https://github.com/h4sh5)
 - 🌟 👤 [h4sh5](https://github.com/h4sh5) Starred [za3k/qr-backup](https://github.com/za3k/qr-backup)
@@ -164,6 +181,10 @@
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [TomClabault/HIPRT-Path-Tracer](https://github.com/TomClabault/HIPRT-Path-Tracer)
   > Unbiased & physically-based GPU HIPRT (C++/HIP) interactive path tracing renderer
+
+### [ilian](https://github.com/ilian)
+- 🌟 👤 [ilian](https://github.com/ilian) Starred [basil00/WinDivert](https://github.com/basil00/WinDivert)
+  > WinDivert: Windows Packet Divert
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
@@ -265,6 +286,12 @@
 - ✨ 👤 [shunf4](https://github.com/shunf4) Created new repo [ProjectKoto/tien-kou.github.io](https://github.com/ProjectKoto/tien-kou.github.io)
 - ✨ 👤 [shunf4](https://github.com/shunf4) Created new repo [tien-kou-kari/tien-kou-kari.github.io](https://github.com/tien-kou-kari/tien-kou-kari.github.io)
 
+### [suifei](https://github.com/suifei)
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [opendatalab/OmniDocBench](https://github.com/opendatalab/OmniDocBench)
+  > [CVPR 2025] A Comprehensive Benchmark for Document Parsing and Evaluation
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+  > Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+
 ### [tom0li](https://github.com/tom0li)
 - 🌟 👤 [tom0li](https://github.com/tom0li) Starred [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)
   > Fcitx5 input method framework and engines ported to Android
@@ -283,5 +310,5 @@
 
 
 ---
-*最后更新于 2025-10-12 18:29:08 UTC*
+*最后更新于 2025-10-12 18:45:48 UTC*
 *历史记录保存在 `archive` 目录中。*
