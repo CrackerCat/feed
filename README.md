@@ -20,6 +20,10 @@
 - 🌟 👤 [Manistein](https://github.com/Manistein) Starred [CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
   > Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [libxzr/setcon](https://github.com/libxzr/setcon)
+  > Run command with specific selinux context for Android
+
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
   > Android app for streaming and downloading media.
@@ -45,6 +49,16 @@
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)
   > A rule-based tunnel for Android.
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [emsec/ReverSim](https://github.com/emsec/ReverSim)
+  > An open-source browser environment to empirically study human aspects in hardware reverse engineerin...
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [sharkdp/bat](https://github.com/sharkdp/bat)
+  > A cat(1) clone with wings.
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [ksdme/ut](https://github.com/ksdme/ut)
+  > A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech
+
+### [fr0zenrain](https://github.com/fr0zenrain)
+- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [Mentra-Community/MentraOS](https://github.com/Mentra-Community/MentraOS)
+  > The open-source OS for smart glasses with dozens of apps. Get captions, AI assistant, notifications,...
 
 ### [h4sh5](https://github.com/h4sh5)
 - 🌟 👤 [h4sh5](https://github.com/h4sh5) Starred [za3k/qr-backup](https://github.com/za3k/qr-backup)
@@ -61,6 +75,8 @@
 ### [hoochanlon](https://github.com/hoochanlon)
 - 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [imsyy/SPlayer](https://github.com/imsyy/SPlayer) to [hoochanlon/SPlayer](https://github.com/hoochanlon/SPlayer)
   > 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
+- 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [NeteaseCloudMusicApiEnhanced/api-enhanced](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) to [hoochanlon/api-enhanced](https://github.com/hoochanlon/api-enhanced)
+  > 🔍 A revival project for NeteaseCloudMusicApi Node.js Services || 网易云音乐 API 备份 + 增强 || 本项目自原版v4.28.0版...
 
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [TomClabault/HIPRT-Path-Tracer](https://github.com/TomClabault/HIPRT-Path-Tracer)
@@ -108,6 +124,10 @@
 - 🍴 👤 [oalraw433](https://github.com/oalraw433) Forked [CrackerCat/video_decrypter](https://github.com/CrackerCat/video_decrypter) to [oalraw433/video_decrypter](https://github.com/oalraw433/video_decrypter)
   > Decrypt video from a streaming site with MPEG-DASH Widevine DRM encryption.
 
+### [phys-winner](https://github.com/phys-winner)
+- 🌟 👤 [phys-winner](https://github.com/phys-winner) Starred [CrackerCat/simpread](https://github.com/CrackerCat/simpread)
+  > 简悦导入文章
+
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [scop/bash-completion](https://github.com/scop/bash-completion)
   > Programmable completion functions for bash
@@ -115,6 +135,10 @@
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [whokilleddb/ClickForClickOnce](https://github.com/whokilleddb/ClickForClickOnce)
   > ClickForClickOnce - Generate configurable clickonce payloads
+
+### [ricardojoserf](https://github.com/ricardojoserf)
+- 🌟 👤 [ricardojoserf](https://github.com/ricardojoserf) Starred [praetorian-inc/turnt](https://github.com/praetorian-inc/turnt)
+  > A tool designed for smuggling interactive command and control traffic through legitimate TURN server...
 
 ### [sakana164](https://github.com/sakana164)
 - 🌟 👤 [sakana164](https://github.com/sakana164) Starred [Kyuofox/AnyKernel3](https://github.com/Kyuofox/AnyKernel3)
@@ -133,5 +157,5 @@
 
 
 ---
-*最后更新于 2025-10-12 14:39:25 UTC*
+*最后更新于 2025-10-12 15:20:01 UTC*
 *历史记录保存在 `archive` 目录中。*
