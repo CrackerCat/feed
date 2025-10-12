@@ -20,6 +20,10 @@
 - 🌟 👤 [Manistein](https://github.com/Manistein) Starred [CedricGuillemet/ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)
   > Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
 
+### [PoomSmart](https://github.com/PoomSmart)
+- 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [brendanballon/sfsymbols-svg](https://github.com/brendanballon/sfsymbols-svg)
+  > Apple's SF Symbols in .svg format compiled into one place.
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [libxzr/setcon](https://github.com/libxzr/setcon)
   > Run command with specific selinux context for Android
@@ -106,6 +110,10 @@
 - 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [stephanfr/Xoshiro256PlusSIMD](https://github.com/stephanfr/Xoshiro256PlusSIMD)
   > Serial and SIMD implementation of the Xoroshiro256+ random number generator.
 
+### [mephi42](https://github.com/mephi42)
+- 🌟 👤 [mephi42](https://github.com/mephi42) Starred [DLTcollab/sse2neon](https://github.com/DLTcollab/sse2neon)
+  > A translator from Intel SSE intrinsics to Arm/Aarch64 NEON implementation
+
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [DimensionDev/Flare](https://github.com/DimensionDev/Flare)
   > All your Mastodon, Bluesky, Misskey, X, RSS feeds, in one APP.
@@ -128,6 +136,10 @@
 - 🌟 👤 [phys-winner](https://github.com/phys-winner) Starred [CrackerCat/simpread](https://github.com/CrackerCat/simpread)
   > 简悦导入文章
 
+### [rankalpha](https://github.com/rankalpha)
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [libxzr/setcon](https://github.com/libxzr/setcon)
+  > Run command with specific selinux context for Android
+
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [scop/bash-completion](https://github.com/scop/bash-completion)
   > Programmable completion functions for bash
@@ -147,6 +159,9 @@
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
   > CLI tool for configuring and monitoring Claude Code
 
+### [shunf4](https://github.com/shunf4)
+- ✨ 👤 [shunf4](https://github.com/shunf4) Created new repo [ProjectKoto/tien-kou.github.io](https://github.com/ProjectKoto/tien-kou.github.io)
+
 ### [tom0li](https://github.com/tom0li)
 - 🌟 👤 [tom0li](https://github.com/tom0li) Starred [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)
   > Fcitx5 input method framework and engines ported to Android
@@ -157,5 +172,5 @@
 
 
 ---
-*最后更新于 2025-10-12 15:20:01 UTC*
+*最后更新于 2025-10-12 15:38:17 UTC*
 *历史记录保存在 `archive` 目录中。*
