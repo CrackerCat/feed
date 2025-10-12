@@ -36,6 +36,10 @@
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [brendanballon/sfsymbols-svg](https://github.com/brendanballon/sfsymbols-svg)
   > Apple's SF Symbols in .svg format compiled into one place.
 
+### [PranavPurwar](https://github.com/PranavPurwar)
+- 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [nktnet1/webview-kiosk](https://github.com/nktnet1/webview-kiosk)
+  > Turn your Android device into a locked-down web page in fullscreen mode.
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [libxzr/setcon](https://github.com/libxzr/setcon)
   > Run command with specific selinux context for Android
@@ -98,6 +102,9 @@
 ### [hanbings](https://github.com/hanbings)
 - 🌟 👤 [hanbings](https://github.com/hanbings) Starred [jutraim/niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell)
   > A very segsy desktop shell ported to niri wm.
+
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [map-A/chatgpt-rs](https://github.com/map-A/chatgpt-rs)
 
 ### [hoochanlon](https://github.com/hoochanlon)
 - 🍴 👤 [hoochanlon](https://github.com/hoochanlon) Forked [imsyy/SPlayer](https://github.com/imsyy/SPlayer) to [hoochanlon/SPlayer](https://github.com/hoochanlon/SPlayer)
@@ -196,5 +203,5 @@
 
 
 ---
-*最后更新于 2025-10-12 16:25:14 UTC*
+*最后更新于 2025-10-12 16:42:26 UTC*
 *历史记录保存在 `archive` 目录中。*
