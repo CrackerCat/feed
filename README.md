@@ -8,6 +8,10 @@
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [LiYanan2004/RichText](https://github.com/LiYanan2004/RichText)
   > A supplementary TextView for SwiftUI that provides better text selection experience, as well as enab...
 
+### [Cossack9989](https://github.com/Cossack9989)
+- 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [antgroup/YASA-Engine](https://github.com/antgroup/YASA-Engine)
+  >  YASA is an open-source static program analysis project. Its core innovation lies in a unified inter...
+
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [QingChan0o0/Makcu](https://github.com/QingChan0o0/Makcu) to [Lynnette177/Makcu](https://github.com/Lynnette177/Makcu)
   > Makcu调用 含鼠标监控
@@ -48,6 +52,7 @@
 
 ### [hahwul](https://github.com/hahwul)
 - ✨ 👤 [hahwul](https://github.com/hahwul) Created new repo [hahwul/homebrew-reqs](https://github.com/hahwul/homebrew-reqs)
+- 🚀 👤 [hahwul](https://github.com/hahwul) Made [hahwul/reqs](https://github.com/hahwul/reqs) public
 
 ### [hanbings](https://github.com/hanbings)
 - 🌟 👤 [hanbings](https://github.com/hanbings) Starred [jutraim/niri-caelestia-shell](https://github.com/jutraim/niri-caelestia-shell)
@@ -85,6 +90,20 @@
 - 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [stephanfr/Xoshiro256PlusSIMD](https://github.com/stephanfr/Xoshiro256PlusSIMD)
   > Serial and SIMD implementation of the Xoroshiro256+ random number generator.
 
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [DimensionDev/Flare](https://github.com/DimensionDev/Flare)
+  > All your Mastodon, Bluesky, Misskey, X, RSS feeds, in one APP.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [xxspell/xxspell](https://github.com/xxspell/xxspell)
+  > Dynamic README in neofetch style
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Ruddle/oxidator](https://github.com/Ruddle/oxidator)
+  > RTS game/engine in Rust and WebGPU 
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore)
+  > Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps t...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+  > Autoscaling components for Kubernetes
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Kunzisoft/FileSync](https://github.com/Kunzisoft/FileSync)
+  > Android application to manage file synchronization
+
 ### [oalraw433](https://github.com/oalraw433)
 - 🍴 👤 [oalraw433](https://github.com/oalraw433) Forked [CrackerCat/video_decrypter](https://github.com/CrackerCat/video_decrypter) to [oalraw433/video_decrypter](https://github.com/oalraw433/video_decrypter)
   > Decrypt video from a streaming site with MPEG-DASH Widevine DRM encryption.
@@ -114,5 +133,5 @@
 
 
 ---
-*最后更新于 2025-10-12 14:18:48 UTC*
+*最后更新于 2025-10-12 14:39:25 UTC*
 *历史记录保存在 `archive` 目录中。*
