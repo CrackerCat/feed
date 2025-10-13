@@ -129,6 +129,8 @@
 ### [roadwy](https://github.com/roadwy)
 - 🌟 👤 [roadwy](https://github.com/roadwy) Starred [mandiant/capa-testfiles](https://github.com/mandiant/capa-testfiles)
   > Data to test capa's code and rules.
+- 🌟 👤 [roadwy](https://github.com/roadwy) Starred [mandiant/capa-rules](https://github.com/mandiant/capa-rules)
+  > Standard collection of rules for capa: the tool for enumerating the capabilities of programs
 
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [nitrojs/nitro](https://github.com/nitrojs/nitro)
@@ -146,6 +148,10 @@
 - 🌟 👤 [tamlok](https://github.com/tamlok) Starred [sst/opencode](https://github.com/sst/opencode)
   > The AI coding agent built for the terminal.
 
+### [taviso](https://github.com/taviso)
+- 🌟 👤 [taviso](https://github.com/taviso) Starred [AngryUEFI/ZenUtils](https://github.com/AngryUEFI/ZenUtils)
+  > Binary Utils for Zen Microcode
+
 ### [yoshino-s](https://github.com/yoshino-s)
 - ✨ 👤 [yoshino-s](https://github.com/yoshino-s) Created new repo [yoshino-s/cilium-envoy-hook](https://github.com/yoshino-s/cilium-envoy-hook)
 
@@ -161,5 +167,5 @@
 
 
 ---
-*最后更新于 2025-10-13 19:39:02 UTC*
+*最后更新于 2025-10-13 20:25:18 UTC*
 *历史记录保存在 `archive` 目录中。*
