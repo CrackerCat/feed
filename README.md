@@ -47,6 +47,10 @@
 - ✨ 👤 [Ylarod](https://github.com/Ylarod) Created new repo [Ylarod/ddk-module-template](https://github.com/Ylarod/ddk-module-template)
   > DDK 内核模块开发模板
 
+### [YuKongA](https://github.com/YuKongA)
+- 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [Ylarod/ddk](https://github.com/Ylarod/ddk)
+  > 内核驱动开发工具包 (Kernel Driver Development Kit)
+
 ### [daisixuan](https://github.com/daisixuan)
 - 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [android/keyattestation](https://github.com/android/keyattestation)
   > Kotlin library for evaluating Android Key Attestation certification chains.
@@ -186,5 +190,5 @@
 
 
 ---
-*最后更新于 2025-10-13 21:19:53 UTC*
+*最后更新于 2025-10-13 21:37:49 UTC*
 *历史记录保存在 `archive` 目录中。*
