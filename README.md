@@ -43,6 +43,10 @@
 - 🌟 👤 [WindowsAddict](https://github.com/WindowsAddict) Starred [wesmar/Watermark_Remover](https://github.com/wesmar/Watermark_Remover)
   > Windows watermark remover using IAT hooking and DLL proxy injection. Patches shell32.dll via Trusted...
 
+### [Ylarod](https://github.com/Ylarod)
+- ✨ 👤 [Ylarod](https://github.com/Ylarod) Created new repo [Ylarod/ddk-module-template](https://github.com/Ylarod/ddk-module-template)
+  > DDK 内核模块开发模板
+
 ### [daisixuan](https://github.com/daisixuan)
 - 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [android/keyattestation](https://github.com/android/keyattestation)
   > Kotlin library for evaluating Android Key Attestation certification chains.
@@ -92,12 +96,18 @@
   > High level server designed to be used with axum framework.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0x676e67/wreq](https://github.com/0x676e67/wreq) to [gmh5225/wreq](https://github.com/gmh5225/wreq)
   > An ergonomic Rust HTTP Client with TLS fingerprint
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [karpathy/nanochat](https://github.com/karpathy/nanochat) to [gmh5225/nanochat](https://github.com/gmh5225/nanochat)
+  > The best ChatGPT that $100 can buy.
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [hao-ai-lab/LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding)
   > [ICML 2024] Break the Sequential Dependency of LLM Inference Using Lookahead Decoding
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server)
   > A lightweight, fast and reliable socks5 server
+
+### [joker88](https://github.com/joker88)
+- 🌟 👤 [joker88](https://github.com/joker88) Starred [CrackerCat/CVE-2024-35250](https://github.com/CrackerCat/CVE-2024-35250)
+  > PoC for the Untrusted Pointer Dereference in the ks.sys driver
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [TalNir01/reverse-socks4](https://github.com/TalNir01/reverse-socks4)
@@ -154,6 +164,8 @@
   > The glamourous AI coding agent for your favourite terminal 💘
 - 🌟 👤 [tamlok](https://github.com/tamlok) Starred [sst/opencode](https://github.com/sst/opencode)
   > The AI coding agent built for the terminal.
+- 🌟 👤 [tamlok](https://github.com/tamlok) Starred [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim)
+  > neovim frontend for opencode - a terminal-based AI coding agent
 
 ### [taviso](https://github.com/taviso)
 - 🌟 👤 [taviso](https://github.com/taviso) Starred [AngryUEFI/ZenUtils](https://github.com/AngryUEFI/ZenUtils)
@@ -174,5 +186,5 @@
 
 
 ---
-*最后更新于 2025-10-13 20:41:29 UTC*
+*最后更新于 2025-10-13 21:19:53 UTC*
 *历史记录保存在 `archive` 目录中。*
