@@ -92,6 +92,10 @@
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server)
   > A lightweight, fast and reliable socks5 server
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [TalNir01/reverse-socks4](https://github.com/TalNir01/reverse-socks4)
+  > Simple Reverse Socks (V4) - Includes a tcp-relay and a socks-agent (which connect back to the relay)...
+
 ### [llsc12](https://github.com/llsc12)
 - 🍴 👤 [llsc12](https://github.com/llsc12) Forked [appstefan/HighlightSwift](https://github.com/appstefan/HighlightSwift) to [llsc12/HighlightSwift](https://github.com/llsc12/HighlightSwift)
   > Code syntax highlighting in Swift and SwiftUI
@@ -106,6 +110,10 @@
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
   > A modern cookiecutter template for Python projects that use uv for dependency management 
 
+### [oblique](https://github.com/oblique)
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > Claude Code superpowers: core skills library
+
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar)
   > 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有...
@@ -118,6 +126,10 @@
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [rankalpha/aospdtgen](https://github.com/rankalpha/aospdtgen)
   > LineageOS device tree generator
 
+### [roadwy](https://github.com/roadwy)
+- 🌟 👤 [roadwy](https://github.com/roadwy) Starred [mandiant/capa-testfiles](https://github.com/mandiant/capa-testfiles)
+  > Data to test capa's code and rules.
+
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [nitrojs/nitro](https://github.com/nitrojs/nitro)
   > Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever...
@@ -127,6 +139,12 @@
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [codemerx/CodemerxDecompile](https://github.com/codemerx/CodemerxDecompile)
   > The first standalone .NET decompiler for Mac, Linux and Windows
+
+### [tamlok](https://github.com/tamlok)
+- 🌟 👤 [tamlok](https://github.com/tamlok) Starred [charmbracelet/crush](https://github.com/charmbracelet/crush)
+  > The glamourous AI coding agent for your favourite terminal 💘
+- 🌟 👤 [tamlok](https://github.com/tamlok) Starred [sst/opencode](https://github.com/sst/opencode)
+  > The AI coding agent built for the terminal.
 
 ### [yoshino-s](https://github.com/yoshino-s)
 - ✨ 👤 [yoshino-s](https://github.com/yoshino-s) Created new repo [yoshino-s/cilium-envoy-hook](https://github.com/yoshino-s/cilium-envoy-hook)
@@ -143,5 +161,5 @@
 
 
 ---
-*最后更新于 2025-10-13 19:17:59 UTC*
+*最后更新于 2025-10-13 19:39:02 UTC*
 *历史记录保存在 `archive` 目录中。*
