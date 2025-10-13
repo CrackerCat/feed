@@ -7,6 +7,10 @@
 ### [Abbbbbi](https://github.com/Abbbbbi)
 - 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [Alpha-Innovator/InternAgent](https://github.com/Alpha-Innovator/InternAgent)
   > When Agent Becomes the Scientist – Building Closed-Loop System from Hypothesis to Verification
+- 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)
+  > [NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs ...
+- 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [inkink365/HippoRAG-Lite](https://github.com/inkink365/HippoRAG-Lite)
+  > (v0.1.0 异步化三大函数，新增三大函数)去除了HippoRAG2中的torch，vllm，甚至openai（以requests和siliconflow api取代）；完全由api和本地cpu实现...
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [rasta-mouse/Crystal-Kit](https://github.com/rasta-mouse/Crystal-Kit)
@@ -40,6 +44,14 @@
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Nadharm/CoVirt](https://github.com/Nadharm/CoVirt) to [fengjixuchui/CoVirt1](https://github.com/fengjixuchui/CoVirt1)
   > A dynamically loadable virtual-machine based rootkit designed for Linux Kernel v5.13.0 using AMD-V (...
 
+### [gmh5225](https://github.com/gmh5225)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [libpnet/libpnet](https://github.com/libpnet/libpnet) to [gmh5225/libpnet](https://github.com/gmh5225/libpnet)
+  > Cross-platform, low level networking using the Rust programming language.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [thomiceli/opengist](https://github.com/thomiceli/opengist) to [gmh5225/opengist](https://github.com/gmh5225/opengist)
+  > Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0x676e67/rnet](https://github.com/0x676e67/rnet) to [gmh5225/rnet](https://github.com/gmh5225/rnet)
+  > A blazing-fast Python HTTP Client with TLS fingerprint
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [hao-ai-lab/LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding)
   > [ICML 2024] Break the Sequential Dependency of LLM Inference Using Lookahead Decoding
@@ -67,5 +79,5 @@
 
 
 ---
-*最后更新于 2025-10-13 15:41:58 UTC*
+*最后更新于 2025-10-13 16:29:14 UTC*
 *历史记录保存在 `archive` 目录中。*
