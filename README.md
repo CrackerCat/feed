@@ -28,6 +28,14 @@
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [gio54321/lambdifier](https://github.com/gio54321/lambdifier)
   > Python obfuscation for the average lambda enjoyer
 
+### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [0xNinjaCyclone/AsmLdr](https://github.com/0xNinjaCyclone/AsmLdr)
+  > Dynamic shellcode loader with sophisticated evasion capabilities
+
+### [WindowsAddict](https://github.com/WindowsAddict)
+- 🌟 👤 [WindowsAddict](https://github.com/WindowsAddict) Starred [wesmar/Watermark_Remover](https://github.com/wesmar/Watermark_Remover)
+  > Windows watermark remover using IAT hooking and DLL proxy injection. Patches shell32.dll via Trusted...
+
 ### [daisixuan](https://github.com/daisixuan)
 - 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [android/keyattestation](https://github.com/android/keyattestation)
   > Kotlin library for evaluating Android Key Attestation certification chains.
@@ -75,6 +83,8 @@
   > HTTP/2 library written in Rust
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0x676e67/axum-server2](https://github.com/0x676e67/axum-server2) to [gmh5225/axum-server2](https://github.com/gmh5225/axum-server2)
   > High level server designed to be used with axum framework.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0x676e67/wreq](https://github.com/0x676e67/wreq) to [gmh5225/wreq](https://github.com/gmh5225/wreq)
+  > An ergonomic Rust HTTP Client with TLS fingerprint
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [hao-ai-lab/LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding)
@@ -103,6 +113,10 @@
   > A curated list of awesome projects related to eBPF.
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [rankalpha/awesome-ebpf](https://github.com/rankalpha/awesome-ebpf)
   > A curated list of awesome projects related to eBPF.
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [sebaubuntu-python/aospdtgen](https://github.com/sebaubuntu-python/aospdtgen) to [rankalpha/aospdtgen](https://github.com/rankalpha/aospdtgen)
+  > LineageOS device tree generator
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [rankalpha/aospdtgen](https://github.com/rankalpha/aospdtgen)
+  > LineageOS device tree generator
 
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [nitrojs/nitro](https://github.com/nitrojs/nitro)
@@ -117,11 +131,17 @@
 ### [yoshino-s](https://github.com/yoshino-s)
 - ✨ 👤 [yoshino-s](https://github.com/yoshino-s) Created new repo [yoshino-s/cilium-envoy-hook](https://github.com/yoshino-s/cilium-envoy-hook)
 
+### [zer0yu](https://github.com/zer0yu)
+- 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn)
+  > 《Agentic Design Patterns》中文翻译版
+- 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [winfunc/opcode](https://github.com/winfunc/opcode)
+  > A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Cod...
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [yutiansut/QUANTAXIS](https://github.com/yutiansut/QUANTAXIS)
   > QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
 
 
 ---
-*最后更新于 2025-10-13 18:31:51 UTC*
+*最后更新于 2025-10-13 19:17:59 UTC*
 *历史记录保存在 `archive` 目录中。*
