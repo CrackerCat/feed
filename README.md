@@ -51,6 +51,10 @@
 - 🌟 👤 [SonnySwolf](https://github.com/SonnySwolf) Starred [CrackerCat/BettaFish](https://github.com/CrackerCat/BettaFish)
   > 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
+### [Walkman100](https://github.com/Walkman100)
+- 🌟 👤 [Walkman100](https://github.com/Walkman100) Starred [rtfmoz2/cloudflare-ddns](https://github.com/rtfmoz2/cloudflare-ddns)
+  > Direct Dynamic DNS for Cloudflare from Synology
+
 ### [WindowsAddict](https://github.com/WindowsAddict)
 - 🌟 👤 [WindowsAddict](https://github.com/WindowsAddict) Starred [wesmar/Watermark_Remover](https://github.com/wesmar/Watermark_Remover)
   > Windows watermark remover using IAT hooking and DLL proxy injection. Patches shell32.dll via Trusted...
@@ -163,6 +167,10 @@
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
   > A modern cookiecutter template for Python projects that use uv for dependency management 
 
+### [mr-r3b00t](https://github.com/mr-r3b00t)
+- ✨ 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Created new repo [mr-r3b00t/check_https](https://github.com/mr-r3b00t/check_https)
+  > check a list of IP addresses in a random order using curl and ignoring certificate errors
+
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > Claude Code superpowers: core skills library
@@ -226,5 +234,5 @@
 
 
 ---
-*最后更新于 2025-10-13 22:20:20 UTC*
+*最后更新于 2025-10-13 22:40:50 UTC*
 *历史记录保存在 `archive` 目录中。*
