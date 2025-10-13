@@ -20,6 +20,9 @@
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [rasta-mouse/Crystal-Kit](https://github.com/rasta-mouse/Crystal-Kit)
   > Evasion for Cobalt Strike
 
+### [DeEpinGh0st](https://github.com/DeEpinGh0st)
+- 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Robbbbbbbbb/tesla-chargeport](https://github.com/Robbbbbbbbb/tesla-chargeport)
+
 ### [KunMinX](https://github.com/KunMinX)
 - 🌟 👤 [KunMinX](https://github.com/KunMinX) Starred [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin)
   > Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
@@ -27,6 +30,10 @@
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [gio54321/lambdifier](https://github.com/gio54321/lambdifier)
   > Python obfuscation for the average lambda enjoyer
+
+### [RickyCong](https://github.com/RickyCong)
+- 🌟 👤 [RickyCong](https://github.com/RickyCong) Starred [QwenLM/Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit)
+  > Official Python toolkit for the Qwen3-ASR API. Parallel high‑throughput calls, robust long‑audio tra...
 
 ### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
 - 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [0xNinjaCyclone/AsmLdr](https://github.com/0xNinjaCyclone/AsmLdr)
@@ -167,5 +174,5 @@
 
 
 ---
-*最后更新于 2025-10-13 20:25:18 UTC*
+*最后更新于 2025-10-13 20:41:29 UTC*
 *历史记录保存在 `archive` 目录中。*
