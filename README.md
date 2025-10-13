@@ -51,6 +51,12 @@
   > Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0x676e67/rnet](https://github.com/0x676e67/rnet) to [gmh5225/rnet](https://github.com/gmh5225/rnet)
   > A blazing-fast Python HTTP Client with TLS fingerprint
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0x676e67/wreq-util](https://github.com/0x676e67/wreq-util) to [gmh5225/wreq-util](https://github.com/gmh5225/wreq-util)
+  > Common utilities for wreq
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0x676e67/boring2](https://github.com/0x676e67/boring2) to [gmh5225/boring2](https://github.com/gmh5225/boring2)
+  > BoringSSL bindings for the Rust programming language.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0x676e67/vproxy](https://github.com/0x676e67/vproxy) to [gmh5225/vproxy](https://github.com/gmh5225/vproxy)
+  > A high-performance HTTP/HTTPS/SOCKS5 proxy server
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [hao-ai-lab/LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding)
@@ -61,6 +67,8 @@
 ### [llsc12](https://github.com/llsc12)
 - 🍴 👤 [llsc12](https://github.com/llsc12) Forked [appstefan/HighlightSwift](https://github.com/appstefan/HighlightSwift) to [llsc12/HighlightSwift](https://github.com/llsc12/HighlightSwift)
   > Code syntax highlighting in Swift and SwiftUI
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [kean/Nuke](https://github.com/kean/Nuke)
+  > Image loading system
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
@@ -77,7 +85,11 @@
 ### [yoshino-s](https://github.com/yoshino-s)
 - ✨ 👤 [yoshino-s](https://github.com/yoshino-s) Created new repo [yoshino-s/cilium-envoy-hook](https://github.com/yoshino-s/cilium-envoy-hook)
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [yutiansut/QUANTAXIS](https://github.com/yutiansut/QUANTAXIS)
+  > QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
+
 
 ---
-*最后更新于 2025-10-13 16:29:14 UTC*
+*最后更新于 2025-10-13 16:48:06 UTC*
 *历史记录保存在 `archive` 目录中。*
