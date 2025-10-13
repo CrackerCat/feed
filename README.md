@@ -23,6 +23,10 @@
 ### [DeEpinGh0st](https://github.com/DeEpinGh0st)
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Robbbbbbbbb/tesla-chargeport](https://github.com/Robbbbbbbbb/tesla-chargeport)
 
+### [Forgo7ten](https://github.com/Forgo7ten)
+- 🌟 👤 [Forgo7ten](https://github.com/Forgo7ten) Starred [Achuan-2/siyuan-plugin-childdoc-organizer](https://github.com/Achuan-2/siyuan-plugin-childdoc-organizer)
+  > 简化思源笔记子文档创建、子文档归档、子文档排序等步骤
+
 ### [KunMinX](https://github.com/KunMinX)
 - 🌟 👤 [KunMinX](https://github.com/KunMinX) Starred [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin)
   > Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
@@ -38,6 +42,14 @@
 ### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
 - 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [0xNinjaCyclone/AsmLdr](https://github.com/0xNinjaCyclone/AsmLdr)
   > Dynamic shellcode loader with sophisticated evasion capabilities
+
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [Ylarod/ddk-module-template](https://github.com/Ylarod/ddk-module-template)
+  > DDK 内核模块开发模板
+
+### [SonnySwolf](https://github.com/SonnySwolf)
+- 🌟 👤 [SonnySwolf](https://github.com/SonnySwolf) Starred [CrackerCat/BettaFish](https://github.com/CrackerCat/BettaFish)
+  > 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
 ### [WindowsAddict](https://github.com/WindowsAddict)
 - 🌟 👤 [WindowsAddict](https://github.com/WindowsAddict) Starred [wesmar/Watermark_Remover](https://github.com/wesmar/Watermark_Remover)
@@ -62,6 +74,14 @@
 ### [dstmath](https://github.com/dstmath)
 - 🍴 👤 [dstmath](https://github.com/dstmath) Forked [xzzvsxd/Warp2Api_Plus](https://github.com/xzzvsxd/Warp2Api_Plus) to [dstmath/Warp2Api_Plus](https://github.com/dstmath/Warp2Api_Plus)
   > 🚀 全功能的 Warp AI 代理服务，提供 OpenAI API 兼容性。内置全自动账号池系统，实现账号的自动注册、维护和分配。基于 Python 和 Protobuf 构建。
+
+### [easychen](https://github.com/easychen)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+  > The best ChatGPT that $100 can buy.
+
+### [eerimoq](https://github.com/eerimoq)
+- 🌟 👤 [eerimoq](https://github.com/eerimoq) Starred [j6t/gitk](https://github.com/j6t/gitk)
+  > Tcl/Tk based Git history browser
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [intel/pcm](https://github.com/intel/pcm)
@@ -113,9 +133,17 @@
 - 🌟 👤 [joker88](https://github.com/joker88) Starred [CrackerCat/CVE-2024-35250](https://github.com/CrackerCat/CVE-2024-35250)
   > PoC for the Untrusted Pointer Dereference in the ks.sys driver
 
+### [jpacg](https://github.com/jpacg)
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [amitshekhariitbhu/PRDownloader](https://github.com/amitshekhariitbhu/PRDownloader)
+  > PRDownloader - A file downloader library for Android with pause and resume support
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [TalNir01/reverse-socks4](https://github.com/TalNir01/reverse-socks4)
   > Simple Reverse Socks (V4) - Includes a tcp-relay and a socks-agent (which connect back to the relay)...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [DavyLandman/compact25519](https://github.com/DavyLandman/compact25519)
+  > A compact portable X25519 + Ed25519 implementation
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [DavyLandman/portable8439](https://github.com/DavyLandman/portable8439)
+  > Portable 8439: ChaCha20-Poly1305 (RFC 8439) in portable & fast C99
 
 ### [llsc12](https://github.com/llsc12)
 - 🍴 👤 [llsc12](https://github.com/llsc12) Forked [appstefan/HighlightSwift](https://github.com/appstefan/HighlightSwift) to [llsc12/HighlightSwift](https://github.com/llsc12/HighlightSwift)
@@ -126,6 +154,10 @@
 ### [lux-QAQ](https://github.com/lux-QAQ)
 - 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [jeremy-rifkin/cpptrace](https://github.com/jeremy-rifkin/cpptrace)
   > Simple, portable, and self-contained stacktrace library for C++11 and newer
+
+### [mcr](https://github.com/mcr)
+- ✨ 👤 [mcr](https://github.com/mcr) Created new repo [mcr/mcr.github.com](https://github.com/mcr/mcr.github.com)
+  > MCR pages on github.
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
@@ -175,6 +207,10 @@
 - 🌟 👤 [taviso](https://github.com/taviso) Starred [AngryUEFI/ZenUtils](https://github.com/AngryUEFI/ZenUtils)
   > Binary Utils for Zen Microcode
 
+### [wxxsfxyzm](https://github.com/wxxsfxyzm)
+- 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries)
+  > AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin Mu...
+
 ### [yoshino-s](https://github.com/yoshino-s)
 - ✨ 👤 [yoshino-s](https://github.com/yoshino-s) Created new repo [yoshino-s/cilium-envoy-hook](https://github.com/yoshino-s/cilium-envoy-hook)
 
@@ -190,5 +226,5 @@
 
 
 ---
-*最后更新于 2025-10-13 21:37:49 UTC*
+*最后更新于 2025-10-13 22:20:20 UTC*
 *历史记录保存在 `archive` 目录中。*
