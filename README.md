@@ -215,6 +215,10 @@
 - ✨ 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Created new repo [mr-r3b00t/check_https](https://github.com/mr-r3b00t/check_https)
   > check a list of IP addresses in a random order using curl and ignoring certificate errors
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pts/bakefat](https://github.com/pts/bakefat)
+  > bootable external FAT hard disk image creator for DOS and Windows 3.1--95--98--ME
+
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > Claude Code superpowers: core skills library
@@ -286,5 +290,5 @@
 
 
 ---
-*最后更新于 2025-10-13 23:19:59 UTC*
+*最后更新于 2025-10-13 23:39:03 UTC*
 *历史记录保存在 `archive` 目录中。*
