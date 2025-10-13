@@ -16,6 +16,10 @@
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [rasta-mouse/Crystal-Kit](https://github.com/rasta-mouse/Crystal-Kit)
   > Evasion for Cobalt Strike
 
+### [KunMinX](https://github.com/KunMinX)
+- 🌟 👤 [KunMinX](https://github.com/KunMinX) Starred [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin)
+  > Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
+
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [gio54321/lambdifier](https://github.com/gio54321/lambdifier)
   > Python obfuscation for the average lambda enjoyer
@@ -63,6 +67,8 @@
   > A high-performance HTTP/HTTPS/SOCKS5 proxy server
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0x676e67/http2](https://github.com/0x676e67/http2) to [gmh5225/http2](https://github.com/gmh5225/http2)
   > HTTP/2 library written in Rust
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0x676e67/axum-server2](https://github.com/0x676e67/axum-server2) to [gmh5225/axum-server2](https://github.com/gmh5225/axum-server2)
+  > High level server designed to be used with axum framework.
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [hao-ai-lab/LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding)
@@ -99,5 +105,5 @@
 
 
 ---
-*最后更新于 2025-10-13 17:19:28 UTC*
+*最后更新于 2025-10-13 17:40:55 UTC*
 *历史记录保存在 `archive` 目录中。*
