@@ -44,6 +44,10 @@
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Nadharm/CoVirt](https://github.com/Nadharm/CoVirt) to [fengjixuchui/CoVirt1](https://github.com/fengjixuchui/CoVirt1)
   > A dynamically loadable virtual-machine based rootkit designed for Linux Kernel v5.13.0 using AMD-V (...
 
+### [gamelaster](https://github.com/gamelaster)
+- 🍴 👤 [gamelaster](https://github.com/gamelaster) Forked [zephyrproject-rtos/openocd](https://github.com/zephyrproject-rtos/openocd) to [gamelaster/openocd-zephyr](https://github.com/gamelaster/openocd-zephyr)
+  > OpenOCD with Zephyr patches for building Zephyr SDK
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [libpnet/libpnet](https://github.com/libpnet/libpnet) to [gmh5225/libpnet](https://github.com/gmh5225/libpnet)
   > Cross-platform, low level networking using the Rust programming language.
@@ -57,6 +61,8 @@
   > BoringSSL bindings for the Rust programming language.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0x676e67/vproxy](https://github.com/0x676e67/vproxy) to [gmh5225/vproxy](https://github.com/gmh5225/vproxy)
   > A high-performance HTTP/HTTPS/SOCKS5 proxy server
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [0x676e67/http2](https://github.com/0x676e67/http2) to [gmh5225/http2](https://github.com/gmh5225/http2)
+  > HTTP/2 library written in Rust
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [hao-ai-lab/LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding)
@@ -77,6 +83,8 @@
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [nitrojs/nitro](https://github.com/nitrojs/nitro)
   > Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever...
+- 🌟 👤 [semlinker](https://github.com/semlinker) Starred [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr)
+  > Multilingual Document Layout Parsing in a Single Vision-Language Model
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [codemerx/CodemerxDecompile](https://github.com/codemerx/CodemerxDecompile)
@@ -91,5 +99,5 @@
 
 
 ---
-*最后更新于 2025-10-13 16:48:06 UTC*
+*最后更新于 2025-10-13 17:19:28 UTC*
 *历史记录保存在 `archive` 目录中。*
