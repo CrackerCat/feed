@@ -12,9 +12,19 @@
 - 🌟 👤 [dr0op](https://github.com/dr0op) Starred [Meowmycks/LetMeowIn](https://github.com/Meowmycks/LetMeowIn)
   > A sophisticated, covert Windows-based credential dumper using C++ and MASM x64.
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [intel/pcm](https://github.com/intel/pcm)
+  > Intel® Performance Counter Monitor (Intel® PCM)
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Nadharm/CoVirt](https://github.com/Nadharm/CoVirt) to [fengjixuchui/CoVirt1](https://github.com/fengjixuchui/CoVirt1)
   > A dynamically loadable virtual-machine based rootkit designed for Linux Kernel v5.13.0 using AMD-V (...
+
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [hao-ai-lab/LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding)
+  > [ICML 2024] Break the Sequential Dependency of LLM Inference Using Lookahead Decoding
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server)
+  > A lightweight, fast and reliable socks5 server
 
 ### [llsc12](https://github.com/llsc12)
 - 🍴 👤 [llsc12](https://github.com/llsc12) Forked [appstefan/HighlightSwift](https://github.com/appstefan/HighlightSwift) to [llsc12/HighlightSwift](https://github.com/llsc12/HighlightSwift)
@@ -37,5 +47,5 @@
 
 
 ---
-*最后更新于 2025-10-13 13:33:16 UTC*
+*最后更新于 2025-10-13 14:24:26 UTC*
 *历史记录保存在 `archive` 目录中。*
