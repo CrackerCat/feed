@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Abbbbbi](https://github.com/Abbbbbi)
+- 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [Alpha-Innovator/InternAgent](https://github.com/Alpha-Innovator/InternAgent)
+  > When Agent Becomes the Scientist – Building Closed-Loop System from Hypothesis to Verification
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [rasta-mouse/Crystal-Kit](https://github.com/rasta-mouse/Crystal-Kit)
   > Evasion for Cobalt Strike
@@ -11,6 +15,10 @@
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [gio54321/lambdifier](https://github.com/gio54321/lambdifier)
   > Python obfuscation for the average lambda enjoyer
+
+### [daisixuan](https://github.com/daisixuan)
+- 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [android/keyattestation](https://github.com/android/keyattestation)
+  > Kotlin library for evaluating Android Key Attestation certification chains.
 
 ### [dr0op](https://github.com/dr0op)
 - 🌟 👤 [dr0op](https://github.com/dr0op) Starred [Meowmycks/LetMeowIn](https://github.com/Meowmycks/LetMeowIn)
@@ -23,6 +31,10 @@
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [intel/pcm](https://github.com/intel/pcm)
   > Intel® Performance Counter Monitor (Intel® PCM)
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [mrphrazer/obfuscation_analysis](https://github.com/mrphrazer/obfuscation_analysis)
+  > Binary Ninja plugin to analyze and simplify obfuscated code
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Nadharm/CoVirt](https://github.com/Nadharm/CoVirt) to [fengjixuchui/CoVirt1](https://github.com/fengjixuchui/CoVirt1)
@@ -55,5 +67,5 @@
 
 
 ---
-*最后更新于 2025-10-13 14:44:35 UTC*
+*最后更新于 2025-10-13 15:23:42 UTC*
 *历史记录保存在 `archive` 目录中。*
