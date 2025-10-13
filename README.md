@@ -35,6 +35,12 @@
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [gio54321/lambdifier](https://github.com/gio54321/lambdifier)
   > Python obfuscation for the average lambda enjoyer
 
+### [PranavPurwar](https://github.com/PranavPurwar)
+- 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [vinceglb/FileKit](https://github.com/vinceglb/FileKit)
+  > Pick and save Files, Medias and Folder for Kotlin Multiplatform / KMP and Compose Multiplatform / CM...
+- 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [beam-cloud/beta9](https://github.com/beam-cloud/beta9)
+  > Ultrafast serverless GPU inference, sandboxes, and background jobs
+
 ### [RickyCong](https://github.com/RickyCong)
 - 🌟 👤 [RickyCong](https://github.com/RickyCong) Starred [QwenLM/Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit)
   > Official Python toolkit for the Qwen3-ASR API. Parallel high‑throughput calls, robust long‑audio tra...
@@ -59,6 +65,10 @@
 - 🌟 👤 [WindowsAddict](https://github.com/WindowsAddict) Starred [wesmar/Watermark_Remover](https://github.com/wesmar/Watermark_Remover)
   > Windows watermark remover using IAT hooking and DLL proxy injection. Patches shell32.dll via Trusted...
 
+### [XayahSuSuSu](https://github.com/XayahSuSuSu)
+- 🌟 👤 [XayahSuSuSu](https://github.com/XayahSuSuSu) Starred [frknkrc44/HMA-OSS](https://github.com/frknkrc44/HMA-OSS)
+  > A fork of HMA project, but created as another repository due to GitHub isn't count my work when it i...
+
 ### [Ylarod](https://github.com/Ylarod)
 - ✨ 👤 [Ylarod](https://github.com/Ylarod) Created new repo [Ylarod/ddk-module-template](https://github.com/Ylarod/ddk-module-template)
   > DDK 内核模块开发模板
@@ -66,6 +76,10 @@
 ### [YuKongA](https://github.com/YuKongA)
 - 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [Ylarod/ddk](https://github.com/Ylarod/ddk)
   > 内核驱动开发工具包 (Kernel Driver Development Kit)
+
+### [ashishb](https://github.com/ashishb)
+- 🌟 👤 [ashishb](https://github.com/ashishb) Starred [steveyegge/beads](https://github.com/steveyegge/beads)
+  > Beads - A memory upgrade for your coding agent
 
 ### [daisixuan](https://github.com/daisixuan)
 - 🌟 👤 [daisixuan](https://github.com/daisixuan) Starred [android/keyattestation](https://github.com/android/keyattestation)
@@ -127,6 +141,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [karpathy/nanochat](https://github.com/karpathy/nanochat) to [gmh5225/nanochat](https://github.com/gmh5225/nanochat)
   > The best ChatGPT that $100 can buy.
 
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+  > The best ChatGPT that $100 can buy.
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [hao-ai-lab/LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding)
   > [ICML 2024] Break the Sequential Dependency of LLM Inference Using Lookahead Decoding
@@ -140,6 +158,8 @@
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [amitshekhariitbhu/PRDownloader](https://github.com/amitshekhariitbhu/PRDownloader)
   > PRDownloader - A file downloader library for Android with pause and resume support
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
+  > A library for debugging android databases and shared preferences - Make Debugging Great Again
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [TalNir01/reverse-socks4](https://github.com/TalNir01/reverse-socks4)
@@ -159,6 +179,30 @@
 - 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [jeremy-rifkin/cpptrace](https://github.com/jeremy-rifkin/cpptrace)
   > Simple, portable, and self-contained stacktrace library for C++11 and newer
 
+### [mahmoudimus](https://github.com/mahmoudimus)
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+  > The best ChatGPT that $100 can buy.
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > Claude Code superpowers: core skills library
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [mrphrazer/obfuscation_analysis](https://github.com/mrphrazer/obfuscation_analysis)
+  > Binary Ninja plugin to analyze and simplify obfuscated code
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [NullTerminatorr/NullHook](https://github.com/NullTerminatorr/NullHook)
+  > Kernel driver that .text hooks a syscall in dxgkrnl.sys which can be called from our user-mode clien...
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [Mati365/ts-c-compiler](https://github.com/Mati365/ts-c-compiler)
+  > ⚙️ C99-compatible multipass compiler written in TypeScript with GCC extensions support. Features a h...
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [yang-zhongtian/KProtect](https://github.com/yang-zhongtian/KProtect)
+  > Stack-based JavaScript virtual machine
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [zer0def/undetected-frida](https://github.com/zer0def/undetected-frida)
+  > Non-authoritatively making Frida less (not un-!)detectable by applying some symptomatic patches. Mel...
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [Berk000x/BinaryLens](https://github.com/Berk000x/BinaryLens)
+  > An IDA plugin that uses language models to speed up binary analysis.
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [scabench-org/hound](https://github.com/scabench-org/hound)
+  > Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep...
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [junron/agar](https://github.com/junron/agar)
+  > Assisting Go Analysis and Reversing
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [mgeeky/ShellcodeFluctuation](https://github.com/mgeeky/ShellcodeFluctuation)
+  > An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAcces...
+
 ### [mcr](https://github.com/mcr)
 - ✨ 👤 [mcr](https://github.com/mcr) Created new repo [mcr/mcr.github.com](https://github.com/mcr/mcr.github.com)
   > MCR pages on github.
@@ -175,6 +219,10 @@
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > Claude Code superpowers: core skills library
 
+### [omeraydindev](https://github.com/omeraydindev)
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+  > The Free Software Media System - Server Backend & API
+
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar)
   > 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有...
@@ -186,6 +234,10 @@
   > LineageOS device tree generator
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [rankalpha/aospdtgen](https://github.com/rankalpha/aospdtgen)
   > LineageOS device tree generator
+
+### [reveng007](https://github.com/reveng007)
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [invictus-ir/Invictus-AWS](https://github.com/invictus-ir/Invictus-AWS)
+  > A tool for AWS incident response, that allows for enumeration, acquisition and analysis of data from...
 
 ### [roadwy](https://github.com/roadwy)
 - 🌟 👤 [roadwy](https://github.com/roadwy) Starred [mandiant/capa-testfiles](https://github.com/mandiant/capa-testfiles)
@@ -234,5 +286,5 @@
 
 
 ---
-*最后更新于 2025-10-13 22:40:50 UTC*
+*最后更新于 2025-10-13 23:19:59 UTC*
 *历史记录保存在 `archive` 目录中。*
