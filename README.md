@@ -12,6 +12,10 @@
 - 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [inkink365/HippoRAG-Lite](https://github.com/inkink365/HippoRAG-Lite)
   > (v0.1.0 异步化三大函数，新增三大函数)去除了HippoRAG2中的torch，vllm，甚至openai（以requests和siliconflow api取代）；完全由api和本地cpu实现...
 
+### [AlSch092](https://github.com/AlSch092)
+- 🌟 👤 [AlSch092](https://github.com/AlSch092) Starred [skylot/jadx](https://github.com/skylot/jadx)
+  > Dex to Java decompiler
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [rasta-mouse/Crystal-Kit](https://github.com/rasta-mouse/Crystal-Kit)
   > Evasion for Cobalt Strike
@@ -51,6 +55,8 @@
 ### [gamelaster](https://github.com/gamelaster)
 - 🍴 👤 [gamelaster](https://github.com/gamelaster) Forked [zephyrproject-rtos/openocd](https://github.com/zephyrproject-rtos/openocd) to [gamelaster/openocd-zephyr](https://github.com/gamelaster/openocd-zephyr)
   > OpenOCD with Zephyr patches for building Zephyr SDK
+- 🍴 👤 [gamelaster](https://github.com/gamelaster) Forked [zephyrproject-rtos/sdk-ng](https://github.com/zephyrproject-rtos/sdk-ng) to [gamelaster/zephyr-sdk-ng](https://github.com/gamelaster/zephyr-sdk-ng)
+  > Zephyr SDK (Toolchains, Development Tools)
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [libpnet/libpnet](https://github.com/libpnet/libpnet) to [gmh5225/libpnet](https://github.com/gmh5225/libpnet)
@@ -82,9 +88,21 @@
 - 🌟 👤 [llsc12](https://github.com/llsc12) Starred [kean/Nuke](https://github.com/kean/Nuke)
   > Image loading system
 
+### [lux-QAQ](https://github.com/lux-QAQ)
+- 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [jeremy-rifkin/cpptrace](https://github.com/jeremy-rifkin/cpptrace)
+  > Simple, portable, and self-contained stacktrace library for C++11 and newer
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
   > A modern cookiecutter template for Python projects that use uv for dependency management 
+
+### [rankalpha](https://github.com/rankalpha)
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar)
+  > 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有...
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) to [rankalpha/awesome-ebpf](https://github.com/rankalpha/awesome-ebpf)
+  > A curated list of awesome projects related to eBPF.
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [rankalpha/awesome-ebpf](https://github.com/rankalpha/awesome-ebpf)
+  > A curated list of awesome projects related to eBPF.
 
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [nitrojs/nitro](https://github.com/nitrojs/nitro)
@@ -105,5 +123,5 @@
 
 
 ---
-*最后更新于 2025-10-13 17:40:55 UTC*
+*最后更新于 2025-10-13 18:31:51 UTC*
 *历史记录保存在 `archive` 目录中。*
