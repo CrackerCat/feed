@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [rasta-mouse/Crystal-Kit](https://github.com/rasta-mouse/Crystal-Kit)
+  > Evasion for Cobalt Strike
+
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [gio54321/lambdifier](https://github.com/gio54321/lambdifier)
   > Python obfuscation for the average lambda enjoyer
@@ -11,6 +15,10 @@
 ### [dr0op](https://github.com/dr0op)
 - 🌟 👤 [dr0op](https://github.com/dr0op) Starred [Meowmycks/LetMeowIn](https://github.com/Meowmycks/LetMeowIn)
   > A sophisticated, covert Windows-based credential dumper using C++ and MASM x64.
+
+### [dstmath](https://github.com/dstmath)
+- 🍴 👤 [dstmath](https://github.com/dstmath) Forked [xzzvsxd/Warp2Api_Plus](https://github.com/xzzvsxd/Warp2Api_Plus) to [dstmath/Warp2Api_Plus](https://github.com/dstmath/Warp2Api_Plus)
+  > 🚀 全功能的 Warp AI 代理服务，提供 OpenAI API 兼容性。内置全自动账号池系统，实现账号的自动注册、维护和分配。基于 Python 和 Protobuf 构建。
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [intel/pcm](https://github.com/intel/pcm)
@@ -47,5 +55,5 @@
 
 
 ---
-*最后更新于 2025-10-13 14:24:26 UTC*
+*最后更新于 2025-10-13 14:44:35 UTC*
 *历史记录保存在 `archive` 目录中。*
