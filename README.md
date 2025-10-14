@@ -8,9 +8,23 @@
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [pointfreeco/sqlite-data](https://github.com/pointfreeco/sqlite-data)
   > A fast, lightweight replacement for SwiftData, powered by SQL and supporting CloudKit synchronizatio...
 
+### [0xb0bb](https://github.com/0xb0bb)
+- 🍴 👤 [0xb0bb](https://github.com/0xb0bb) Forked [seanghay/vocal](https://github.com/seanghay/vocal) to [0xb0bb/vocal](https://github.com/0xb0bb/vocal)
+  > A vocal source separation
+
 ### [521xueweihan](https://github.com/521xueweihan)
 - 🌟 👤 [521xueweihan](https://github.com/521xueweihan) Starred [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi)
   > Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)
+
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [nitrojs/nitro](https://github.com/nitrojs/nitro)
+  > Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever...
+
+### [AnkioTomas](https://github.com/AnkioTomas)
+- 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR)
+  > 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle an...
+- 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [wangzhaode/onnx-llm](https://github.com/wangzhaode/onnx-llm)
+  > llm deploy project based onnx.
 
 ### [Carson-Ho](https://github.com/Carson-Ho)
 - ✨ 👤 [Carson-Ho](https://github.com/Carson-Ho) Created new repo [Carson-Ho/Kotlin-NullSafe-Lint](https://github.com/Carson-Ho/Kotlin-NullSafe-Lint)
@@ -30,10 +44,26 @@
 - 🌟 👤 [DeHby](https://github.com/DeHby) Starred [heyheysky/vulnerable-driver](https://github.com/heyheysky/vulnerable-driver)
 - 🌟 👤 [DeHby](https://github.com/DeHby) Starred [BlackSnufkin/BYOVD](https://github.com/BlackSnufkin/BYOVD)
   > BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology. ...
+- 🌟 👤 [DeHby](https://github.com/DeHby) Starred [notscimmy/libcapcom](https://github.com/notscimmy/libcapcom)
+  > Capcom driver exploit wrapper
+
+### [EvMac0](https://github.com/EvMac0)
+- 🌟 👤 [EvMac0](https://github.com/EvMac0) Starred [CrackerCat/strongR-frida-android](https://github.com/CrackerCat/strongR-frida-android)
+  > An anti detection version frida-server for android.
 
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [cokeBeer/go-sec-code](https://github.com/cokeBeer/go-sec-code)
   > Go-sec-code is a  project for learning Go vulnerability code.
+
+### [KingJA](https://github.com/KingJA)
+- 🌟 👤 [KingJA](https://github.com/KingJA) Starred [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+  > :tada: A magical vue admin                                                                https://pa...
+- 🌟 👤 [KingJA](https://github.com/KingJA) Starred [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
+  > a vue2.0 minimal admin template 
+
+### [KuNgia09](https://github.com/KuNgia09)
+- 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
+  > The most advanced browser fingerprinting library.
 
 ### [LimerBoy](https://github.com/LimerBoy)
 - 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [0xRedpoll/WhatsAppKeyBOF](https://github.com/0xRedpoll/WhatsAppKeyBOF)
@@ -55,8 +85,26 @@
 - 🌟 👤 [Rabb1tQ](https://github.com/Rabb1tQ) Starred [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps)
   > RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
 
+### [SimonTheCoder](https://github.com/SimonTheCoder)
+- 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar)
+  > 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有...
+
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [FANGG3/ATTD-GUI](https://github.com/FANGG3/ATTD-GUI)
+
+### [ThomasThelen](https://github.com/ThomasThelen)
+- 🌟 👤 [ThomasThelen](https://github.com/ThomasThelen) Starred [apache/age](https://github.com/apache/age)
+  > Graph database optimized for fast analysis and real-time data processing. It is provided as an exten...
+
+### [ba0gu0](https://github.com/ba0gu0)
+- 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [teamdArk5/FscanPlus](https://github.com/teamdArk5/FscanPlus)
+  > 这是Fscan的功能完善、增强、定制版本
+
+### [dodola](https://github.com/dodola)
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+  > Anthropic's Interactive Prompt Engineering Tutorial
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [LLMQuant/quant-wiki](https://github.com/LLMQuant/quant-wiki)
+  > We are committed to the open-sourcing quantitative knowledge, aiming to bridge the information gap b...
 
 ### [feicong](https://github.com/feicong)
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [fatalcoder524/KernelFlasher](https://github.com/fatalcoder524/KernelFlasher) to [feicong/KernelFlasher](https://github.com/feicong/KernelFlasher)
@@ -118,8 +166,12 @@
 - 🌟 👤 [hmtheboy154](https://github.com/hmtheboy154) Starred [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass)
   > Jetpack Compose Liquid Glass
 
+### [hoochanlon](https://github.com/hoochanlon)
+- ✨ 👤 [hoochanlon](https://github.com/hoochanlon) Created new repo [hoochanlon/img](https://github.com/hoochanlon/img)
+
 ### [iUIShop](https://github.com/iUIShop)
 - ✨ 👤 [iUIShop](https://github.com/iUIShop) Created new repo [iUIShop/iUIToolset](https://github.com/iUIShop/iUIToolset)
+- ✨ 👤 [iUIShop](https://github.com/iUIShop) Created new repo [iUIShop/Publib](https://github.com/iUIShop/Publib)
 
 ### [ibaoger](https://github.com/ibaoger)
 - 🌟 👤 [ibaoger](https://github.com/ibaoger) Starred [lucasg/Dependencies](https://github.com/lucasg/Dependencies)
@@ -187,7 +239,11 @@
 - 🌟 👤 [yohanes](https://github.com/yohanes) Starred [mrphrazer/obfuscation_analysis](https://github.com/mrphrazer/obfuscation_analysis)
   > Binary Ninja plugin to analyze and simplify obfuscated code
 
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [mootdx/mootdx](https://github.com/mootdx/mootdx)
+  > 通达信数据读取的一个简便使用封装
+
 
 ---
-*最后更新于 2025-10-14 11:39:21 UTC*
+*最后更新于 2025-10-14 12:51:24 UTC*
 *历史记录保存在 `archive` 目录中。*
