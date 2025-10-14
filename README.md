@@ -8,6 +8,10 @@
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [pointfreeco/sqlite-data](https://github.com/pointfreeco/sqlite-data)
   > A fast, lightweight replacement for SwiftData, powered by SQL and supporting CloudKit synchronizatio...
 
+### [0x3f97](https://github.com/0x3f97)
+- 🌟 👤 [0x3f97](https://github.com/0x3f97) Starred [yorkeccak/Polyseer](https://github.com/yorkeccak/Polyseer)
+  > Polymarket alpha at the speed of now.
+
 ### [0xb0bb](https://github.com/0xb0bb)
 - 🍴 👤 [0xb0bb](https://github.com/0xb0bb) Forked [seanghay/vocal](https://github.com/seanghay/vocal) to [0xb0bb/vocal](https://github.com/0xb0bb/vocal)
   > A vocal source separation
@@ -67,6 +71,9 @@
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
   > The most advanced browser fingerprinting library.
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [shiroha-233/RoadWeaver](https://github.com/shiroha-233/RoadWeaver)
+
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [pytauri/pytauri](https://github.com/pytauri/pytauri)
   > Tauri binding for Python through Pyo3
@@ -110,6 +117,10 @@
 - 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [salvogiangri/KnoxPatch](https://github.com/salvogiangri/KnoxPatch)
   > LSPosed module to get Samsung apps/features working again in your rooted Galaxy device.
 
+### [TheNetAdmin](https://github.com/TheNetAdmin)
+- 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [acsandmann/rift](https://github.com/acsandmann/rift)
+  > a tiling window manager for macos
+
 ### [ThomasThelen](https://github.com/ThomasThelen)
 - 🌟 👤 [ThomasThelen](https://github.com/ThomasThelen) Starred [apache/age](https://github.com/apache/age)
   > Graph database optimized for fast analysis and real-time data processing. It is provided as an exten...
@@ -135,6 +146,20 @@
   > Anthropic's Interactive Prompt Engineering Tutorial
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [LLMQuant/quant-wiki](https://github.com/LLMQuant/quant-wiki)
   > We are committed to the open-sourcing quantitative knowledge, aiming to bridge the information gap b...
+
+### [dstmath](https://github.com/dstmath)
+- 🌟 👤 [dstmath](https://github.com/dstmath) Starred [1e0n/req-replace](https://github.com/1e0n/req-replace)
+  > 一个基于 Node.js 的网络代理服务，支持请求体字符串替换和流式响应转发。
+
+### [easychen](https://github.com/easychen)
+- 🍴 👤 [easychen](https://github.com/easychen) Forked [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) to [easychen/mac-mouse-fix](https://github.com/easychen/mac-mouse-fix)
+  > Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
+  > DigitalPlat FreeDomain: Free Domain For Everyone
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [pytauri/pytauri](https://github.com/pytauri/pytauri)
+  > Tauri binding for Python through Pyo3
 
 ### [feicong](https://github.com/feicong)
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [fatalcoder524/KernelFlasher](https://github.com/fatalcoder524/KernelFlasher) to [feicong/KernelFlasher](https://github.com/feicong/KernelFlasher)
@@ -199,6 +224,12 @@
   > HTTP traffic logger and analyzer for Node.js applications
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [obra/claude-docs-setup](https://github.com/obra/claude-docs-setup) to [gmh5225/claude-docs-setup](https://github.com/gmh5225/claude-docs-setup)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [microsoft/amplifier](https://github.com/microsoft/amplifier) to [gmh5225/amplifier](https://github.com/gmh5225/amplifier)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [inclusionAI/Ling](https://github.com/inclusionAI/Ling) to [gmh5225/Ling](https://github.com/gmh5225/Ling)
+  > Ling is a MoE LLM provided and open-sourced by InclusionAI. 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [inclusionAI/Ling-V2](https://github.com/inclusionAI/Ling-V2) to [gmh5225/Ling-V2](https://github.com/gmh5225/Ling-V2)
+  > Ling-V2 is a MoE LLM provided and open-sourced by InclusionAI.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [pytauri/pytauri](https://github.com/pytauri/pytauri) to [gmh5225/pytauri](https://github.com/gmh5225/pytauri)
+  > Tauri binding for Python through Pyo3
 
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
@@ -211,6 +242,8 @@
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [LoseNine/ruyiBrowser](https://github.com/LoseNine/ruyiBrowser)
   > 免费Chromium指纹浏览器，Chromium119版本指纹浏览器，可完美过BrowserScan\PxielScan\Creepjs网站浏览器指纹检测，过绝大多数网站风控，指纹传参，一键变换指纹信...
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [bysstudio/by-chrome-app](https://github.com/bysstudio/by-chrome-app)
+  > by-chrome-app 提供 指纹浏览器(fingerprint browser) 多开管理、代理管理、同步器窗口排列等功能，批量操作多个 Chrome 窗口，实现窗口批量打开、排列以及之间的同步...
 
 ### [hmtheboy154](https://github.com/hmtheboy154)
 - 🌟 👤 [hmtheboy154](https://github.com/hmtheboy154) Starred [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass)
@@ -267,6 +300,10 @@
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [FuzzingLabs/fuzzforge_ai](https://github.com/FuzzingLabs/fuzzforge_ai)
   > AI-powered workflow automation and AI Agents platform for AppSec, Fuzzing & Offensive Security. Auto...
 
+### [notify-bibi](https://github.com/notify-bibi)
+- 🌟 👤 [notify-bibi](https://github.com/notify-bibi) Starred [wezterm/wezterm](https://github.com/wezterm/wezterm)
+  > A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented i...
+
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [cxasm/notepad--](https://github.com/cxasm/notepad--)
   > 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
@@ -307,6 +344,12 @@
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
   > The best ChatGPT that $100 can buy.
 
+### [shellsec](https://github.com/shellsec)
+- 🌟 👤 [shellsec](https://github.com/shellsec) Starred [jd1378/otphelper](https://github.com/jd1378/otphelper)
+  > open-source application that can copy OTP and codes from notifications automatically for you
+- 🍴 👤 [shellsec](https://github.com/shellsec) Forked [jd1378/otphelper](https://github.com/jd1378/otphelper) to [shellsec/otphelper](https://github.com/shellsec/otphelper)
+  > open-source application that can copy OTP and codes from notifications automatically for you
+
 ### [smallevilbeast](https://github.com/smallevilbeast)
 - 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [hhhweihan/EasyTshark](https://github.com/hhhweihan/EasyTshark)
   > EasyTshark是一个基于tshark的网络数据包分析工具，提供实时抓包和离线分析功能，支持数据包的SQLite存储和XML/JSON格式转换
@@ -316,6 +359,10 @@
   > Windows watermark remover using IAT hooking and DLL proxy injection. Patches shell32.dll via Trusted...
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [wesmar/Watermark_Remover](https://github.com/wesmar/Watermark_Remover) to [smallzhong/Watermark_Remover](https://github.com/smallzhong/Watermark_Remover)
   > Windows watermark remover using IAT hooking and DLL proxy injection. Patches shell32.dll via Trusted...
+
+### [taielab](https://github.com/taielab)
+- 🌟 👤 [taielab](https://github.com/taielab) Starred [opactorai/Claudable](https://github.com/opactorai/Claudable)
+  > Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex,...
 
 ### [uknownothingsnow](https://github.com/uknownothingsnow)
 - 🌟 👤 [uknownothingsnow](https://github.com/uknownothingsnow) Starred [tisfeng/Easydict](https://github.com/tisfeng/Easydict)
@@ -335,5 +382,5 @@
 
 
 ---
-*最后更新于 2025-10-14 13:33:21 UTC*
+*最后更新于 2025-10-14 14:24:13 UTC*
 *历史记录保存在 `archive` 目录中。*
