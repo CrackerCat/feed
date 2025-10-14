@@ -38,6 +38,8 @@
 ### [anticomputer](https://github.com/anticomputer)
 - 🍴 👤 [anticomputer](https://github.com/anticomputer) Forked [anticomputer/mcp.el](https://github.com/anticomputer/mcp.el) to [anticomputer/mcp.el](https://github.com/anticomputer/mcp.el)
   > An Mcp client inside Emacs
+- 🍴 👤 [anticomputer](https://github.com/anticomputer) Forked [anticomputer/apheleia](https://github.com/anticomputer/apheleia) to [anticomputer/apheleia](https://github.com/anticomputer/apheleia)
+  > 🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programm...
 
 ### [belumume](https://github.com/belumume)
 - 🌟 👤 [belumume](https://github.com/belumume) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -54,6 +56,10 @@
 ### [harrygens](https://github.com/harrygens)
 - 🌟 👤 [harrygens](https://github.com/harrygens) Starred [jwpl190/WechatPCAPI](https://github.com/jwpl190/WechatPCAPI)
   > 微信PC版的API接口，可通过Python调用微信获取好友、群、公众号列表，并收发消息等功能。
+
+### [metadot01](https://github.com/metadot01)
+- 🌟 👤 [metadot01](https://github.com/metadot01) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [salandise](https://github.com/salandise)
 - 🌟 👤 [salandise](https://github.com/salandise) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
@@ -87,5 +93,5 @@
 
 
 ---
-*最后更新于 2025-10-14 20:42:19 UTC*
+*最后更新于 2025-10-14 21:19:40 UTC*
 *历史记录保存在 `archive` 目录中。*
