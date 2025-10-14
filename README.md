@@ -35,6 +35,14 @@
 - 🌟 👤 [alexy-os](https://github.com/alexy-os) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [anticomputer](https://github.com/anticomputer)
+- 🍴 👤 [anticomputer](https://github.com/anticomputer) Forked [anticomputer/mcp.el](https://github.com/anticomputer/mcp.el) to [anticomputer/mcp.el](https://github.com/anticomputer/mcp.el)
+  > An Mcp client inside Emacs
+
+### [belumume](https://github.com/belumume)
+- 🌟 👤 [belumume](https://github.com/belumume) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [ccsnow127](https://github.com/ccsnow127)
 - 🌟 👤 [ccsnow127](https://github.com/ccsnow127) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -79,5 +87,5 @@
 
 
 ---
-*最后更新于 2025-10-14 18:33:43 UTC*
+*最后更新于 2025-10-14 19:18:47 UTC*
 *历史记录保存在 `archive` 目录中。*
