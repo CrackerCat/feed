@@ -94,6 +94,17 @@
   > 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [estebanpdl/tik-spyder](https://github.com/estebanpdl/tik-spyder) to [gmh5225/tik-spyder](https://github.com/gmh5225/tik-spyder)
   > A Python command-line tool designed to collect TikTok data using SerpAPI for Google search results a...
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+  > Anthropic's Interactive Prompt Engineering Tutorial
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [anza-xyz/wincode](https://github.com/anza-xyz/wincode) to [gmh5225/wincode](https://github.com/gmh5225/wincode)
+  > Fast, bincode‑compatible serializer/deserializer focused on in‑place initialization and direct memor...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [th3-j0k3r/DepConfuse](https://github.com/th3-j0k3r/DepConfuse) to [gmh5225/DepConfuse](https://github.com/gmh5225/DepConfuse)
+  > tool for checking potential dependency confusion 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [steveyegge/beads](https://github.com/steveyegge/beads) to [gmh5225/beads](https://github.com/gmh5225/beads)
+  > Beads - A memory upgrade for your coding agent
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [AndnixSH/APKToolGUI](https://github.com/AndnixSH/APKToolGUI) to [gmh5225/APKToolGUI](https://github.com/gmh5225/APKToolGUI)
+  > GUI for apktool, signapk, zipalign and baksmali utilities.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [joleencfh/ti-to-sigma-crew](https://github.com/joleencfh/ti-to-sigma-crew) to [gmh5225/ti-to-sigma-crew](https://github.com/gmh5225/ti-to-sigma-crew)
 
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
@@ -158,11 +169,17 @@
 - 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [hhhweihan/EasyTshark](https://github.com/hhhweihan/EasyTshark)
   > EasyTshark是一个基于tshark的网络数据包分析工具，提供实时抓包和离线分析功能，支持数据包的SQLite存储和XML/JSON格式转换
 
+### [smallzhong](https://github.com/smallzhong)
+- 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [wesmar/Watermark_Remover](https://github.com/wesmar/Watermark_Remover)
+  > Windows watermark remover using IAT hooking and DLL proxy injection. Patches shell32.dll via Trusted...
+- 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [wesmar/Watermark_Remover](https://github.com/wesmar/Watermark_Remover) to [smallzhong/Watermark_Remover](https://github.com/smallzhong/Watermark_Remover)
+  > Windows watermark remover using IAT hooking and DLL proxy injection. Patches shell32.dll via Trusted...
+
 ### [yohanes](https://github.com/yohanes)
 - 🌟 👤 [yohanes](https://github.com/yohanes) Starred [mrphrazer/obfuscation_analysis](https://github.com/mrphrazer/obfuscation_analysis)
   > Binary Ninja plugin to analyze and simplify obfuscated code
 
 
 ---
-*最后更新于 2025-10-14 10:45:13 UTC*
+*最后更新于 2025-10-14 11:18:51 UTC*
 *历史记录保存在 `archive` 目录中。*
