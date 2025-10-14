@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0linlin0](https://github.com/0linlin0)
+- 🌟 👤 [0linlin0](https://github.com/0linlin0) Starred [guchengwuyue/yshopmall](https://github.com/guchengwuyue/yshopmall)
+  > yshop基于当前流行技术组合的前后端分离商城系统： SpringBoot3+MybatisPlus+SpringSecurity+jwt+redis+Vue的前后端分离的商城系统， 包含商城、sku...
+
 ### [0x1306a94](https://github.com/0x1306a94)
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [pointfreeco/sqlite-data](https://github.com/pointfreeco/sqlite-data)
   > A fast, lightweight replacement for SwiftData, powered by SQL and supporting CloudKit synchronizatio...
@@ -146,6 +150,8 @@
   > A powerful tool for automated LLM fuzzing. It is designed to help developers and security researcher...
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [projectdiscovery/nuclei-ai-extension](https://github.com/projectdiscovery/nuclei-ai-extension)
   > Nuclei AI - Browser Extension for Rapid Nuclei Template Generation
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [kevoreilly/CAPEv2](https://github.com/kevoreilly/CAPEv2)
+  > Malware Configuration And Payload Extraction
 
 ### [cxapython](https://github.com/cxapython)
 - 🌟 👤 [cxapython](https://github.com/cxapython) Starred [daijro/camoufox](https://github.com/daijro/camoufox)
@@ -281,6 +287,8 @@
 ### [idkhidden](https://github.com/idkhidden)
 - 🌟 👤 [idkhidden](https://github.com/idkhidden) Starred [backengineering/vmp2](https://github.com/backengineering/vmp2)
   > VMProtect2 Deobfuscation Tooling
+- 🌟 👤 [idkhidden](https://github.com/idkhidden) Starred [mrexodia/x86-real-mode-bootloader](https://github.com/mrexodia/x86-real-mode-bootloader)
+  > Boot loader for real mode written in C.
 
 ### [je5442804](https://github.com/je5442804)
 - 🌟 👤 [je5442804](https://github.com/je5442804) Starred [TwoSevenOneT/IAmAntimalware](https://github.com/TwoSevenOneT/IAmAntimalware)
@@ -392,6 +400,10 @@
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [wesmar/Watermark_Remover](https://github.com/wesmar/Watermark_Remover) to [smallzhong/Watermark_Remover](https://github.com/smallzhong/Watermark_Remover)
   > Windows watermark remover using IAT hooking and DLL proxy injection. Patches shell32.dll via Trusted...
 
+### [t-wy](https://github.com/t-wy)
+- 🌟 👤 [t-wy](https://github.com/t-wy) Starred [Sekai-World/sekai-viewer](https://github.com/Sekai-World/sekai-viewer)
+  > Web Database Viewer of Project Sekai
+
 ### [taielab](https://github.com/taielab)
 - 🌟 👤 [taielab](https://github.com/taielab) Starred [opactorai/Claudable](https://github.com/opactorai/Claudable)
   > Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex,...
@@ -412,9 +424,17 @@
 - 🍴 👤 [ultraji](https://github.com/ultraji) Forked [EasyTier/luci-app-easytier](https://github.com/EasyTier/luci-app-easytier) to [ultraji/luci-app-easytier](https://github.com/ultraji/luci-app-easytier)
   > OpenWrt里的EasyTier安装包（IPK和APK）
 
+### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [TartanLlama/sdb](https://github.com/TartanLlama/sdb)
+  > Source code for the book Building a Debugger
+
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [moyuwa/ApkCheckPack](https://github.com/moyuwa/ApkCheckPack)
   > apk加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，全网最全开源加固特征，支持40个厂商的加固检测，欢迎大家提交无法识别的app
+
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [x86matthew/WinVisor](https://github.com/x86matthew/WinVisor)
+  > WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hyperviso...
 
 ### [yohanes](https://github.com/yohanes)
 - 🌟 👤 [yohanes](https://github.com/yohanes) Starred [mrphrazer/obfuscation_analysis](https://github.com/mrphrazer/obfuscation_analysis)
@@ -434,5 +454,5 @@
 
 
 ---
-*最后更新于 2025-10-14 16:29:25 UTC*
+*最后更新于 2025-10-14 16:48:57 UTC*
 *历史记录保存在 `archive` 目录中。*
