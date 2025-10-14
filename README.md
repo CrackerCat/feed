@@ -82,6 +82,10 @@
 - 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [0xRedpoll/WhatsAppKeyBOF](https://github.com/0xRedpoll/WhatsAppKeyBOF)
   > A BOF to retrieve decryption keys for WhatsApp Desktop and a utility script to decrypt the databases...
 
+### [Markakd](https://github.com/Markakd)
+- 🌟 👤 [Markakd](https://github.com/Markakd) Starred [BigBrotherTrade/trader](https://github.com/BigBrotherTrade/trader)
+  > 交易模块
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter)
   > Write a simple interpreter of C. Inspired by c4 and largely based on it.
@@ -364,6 +368,14 @@
 - 🌟 👤 [taielab](https://github.com/taielab) Starred [opactorai/Claudable](https://github.com/opactorai/Claudable)
   > Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex,...
 
+### [taisuii](https://github.com/taisuii)
+- 🌟 👤 [taisuii](https://github.com/taisuii) Starred [qtgolang/SunnyNet](https://github.com/qtgolang/SunnyNet)
+  > SunnyNet网络中间件
+
+### [tamlok](https://github.com/tamlok)
+- 🍴 👤 [tamlok](https://github.com/tamlok) Forked [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) to [tamlok/opencode.nvim](https://github.com/tamlok/opencode.nvim)
+  > Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and req...
+
 ### [uknownothingsnow](https://github.com/uknownothingsnow)
 - 🌟 👤 [uknownothingsnow](https://github.com/uknownothingsnow) Starred [tisfeng/Easydict](https://github.com/tisfeng/Easydict)
   > 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百...
@@ -382,5 +394,5 @@
 
 
 ---
-*最后更新于 2025-10-14 14:46:19 UTC*
+*最后更新于 2025-10-14 15:26:16 UTC*
 *历史记录保存在 `archive` 目录中。*
