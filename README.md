@@ -57,6 +57,10 @@
 - 🌟 👤 [harrygens](https://github.com/harrygens) Starred [jwpl190/WechatPCAPI](https://github.com/jwpl190/WechatPCAPI)
   > 微信PC版的API接口，可通过Python调用微信获取好友、群、公众号列表，并收发消息等功能。
 
+### [johnoliv](https://github.com/johnoliv)
+- 🌟 👤 [johnoliv](https://github.com/johnoliv) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [metadot01](https://github.com/metadot01)
 - 🌟 👤 [metadot01](https://github.com/metadot01) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -93,5 +97,5 @@
 
 
 ---
-*最后更新于 2025-10-14 21:39:01 UTC*
+*最后更新于 2025-10-14 22:21:16 UTC*
 *历史记录保存在 `archive` 目录中。*
