@@ -138,6 +138,8 @@
   > Anthropic's Interactive Prompt Engineering Tutorial
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli)
   > iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your r...
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI)
+  > A powerful tool for automated LLM fuzzing. It is designed to help developers and security researcher...
 
 ### [cxapython](https://github.com/cxapython)
 - 🌟 👤 [cxapython](https://github.com/cxapython) Starred [daijro/camoufox](https://github.com/daijro/camoufox)
@@ -296,6 +298,10 @@
 - 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
   > 所有小初高、大学PDF教材。
 
+### [marcan](https://github.com/marcan)
+- 🍴 👤 [marcan](https://github.com/marcan) Forked [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) to [marcan/autorestic](https://github.com/marcan/autorestic)
+  > Config driven, easy backup cli for restic.
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
   > The best ChatGPT that $100 can buy.
@@ -348,6 +354,12 @@
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
   > The best ChatGPT that $100 can buy.
 
+### [shadow3aaa](https://github.com/shadow3aaa)
+- ✨ 👤 [shadow3aaa](https://github.com/shadow3aaa) Created new repo [shadow3aaa/PigSeek](https://github.com/shadow3aaa/PigSeek)
+  > 🐷🐷
+- 🌟 👤 [shadow3aaa](https://github.com/shadow3aaa) Starred [shadow3aaa/PigSeek](https://github.com/shadow3aaa/PigSeek)
+  > 🐷🐷
+
 ### [shellsec](https://github.com/shellsec)
 - 🌟 👤 [shellsec](https://github.com/shellsec) Starred [jd1378/otphelper](https://github.com/jd1378/otphelper)
   > open-source application that can copy OTP and codes from notifications automatically for you
@@ -394,5 +406,5 @@
 
 
 ---
-*最后更新于 2025-10-14 15:26:16 UTC*
+*最后更新于 2025-10-14 15:41:38 UTC*
 *历史记录保存在 `archive` 目录中。*
