@@ -8,6 +8,10 @@
 - 🌟 👤 [521xueweihan](https://github.com/521xueweihan) Starred [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi)
   > Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)
 
+### [DeEpinGh0st](https://github.com/DeEpinGh0st)
+- 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Yuri08loveElaina/CVE-2025-49844](https://github.com/Yuri08loveElaina/CVE-2025-49844)
+  > A powerful Redis exploitation tool that leverages CVE-2025-4984
+
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [cokeBeer/go-sec-code](https://github.com/cokeBeer/go-sec-code)
   > Go-sec-code is a  project for learning Go vulnerability code.
@@ -40,6 +44,10 @@
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
   > DeerFlow is a community-driven Deep Research framework, combining language models with tools like we...
 
+### [ibaoger](https://github.com/ibaoger)
+- 🌟 👤 [ibaoger](https://github.com/ibaoger) Starred [lucasg/Dependencies](https://github.com/lucasg/Dependencies)
+  > A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load d...
+
 ### [je5442804](https://github.com/je5442804)
 - 🌟 👤 [je5442804](https://github.com/je5442804) Starred [TwoSevenOneT/IAmAntimalware](https://github.com/TwoSevenOneT/IAmAntimalware)
   > This tool helps inject code into the processes of Antivirus programs.
@@ -51,6 +59,14 @@
 ### [llsc12](https://github.com/llsc12)
 - 🌟 👤 [llsc12](https://github.com/llsc12) Starred [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge)
   > swift-bridge facilitates Rust and Swift interop.
+
+### [pwh-pwh](https://github.com/pwh-pwh)
+- 🍴 👤 [pwh-pwh](https://github.com/pwh-pwh) Forked [majoson-chen/sui-best-practices](https://github.com/majoson-chen/sui-best-practices) to [pwh-pwh/sui-best-practices](https://github.com/pwh-pwh/sui-best-practices)
+  > 社区驱动的 SUI 最佳实践指南。
+
+### [rootkiter](https://github.com/rootkiter)
+- 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+  > :books: Freely available programming books
 
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [coleam00/Archon](https://github.com/coleam00/Archon)
@@ -64,5 +80,5 @@
 
 
 ---
-*最后更新于 2025-10-14 08:49:20 UTC*
+*最后更新于 2025-10-14 09:25:46 UTC*
 *历史记录保存在 `archive` 目录中。*
