@@ -110,6 +110,10 @@
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
   > DeerFlow is a community-driven Deep Research framework, combining language models with tools like we...
 
+### [gyyyy](https://github.com/gyyyy)
+- 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli)
+  > iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your r...
+
 ### [hmtheboy154](https://github.com/hmtheboy154)
 - 🌟 👤 [hmtheboy154](https://github.com/hmtheboy154) Starred [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass)
   > Jetpack Compose Liquid Glass
@@ -140,6 +144,10 @@
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [FuzzingLabs/fuzzforge_ai](https://github.com/FuzzingLabs/fuzzforge_ai)
   > AI-powered workflow automation and AI Agents platform for AppSec, Fuzzing & Offensive Security. Auto...
+
+### [noxke](https://github.com/noxke)
+- 🌟 👤 [noxke](https://github.com/noxke) Starred [cxasm/notepad--](https://github.com/cxasm/notepad--)
+  > 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 
 ### [pwh-pwh](https://github.com/pwh-pwh)
 - 🍴 👤 [pwh-pwh](https://github.com/pwh-pwh) Forked [majoson-chen/sui-best-practices](https://github.com/majoson-chen/sui-best-practices) to [pwh-pwh/sui-best-practices](https://github.com/pwh-pwh/sui-best-practices)
@@ -181,5 +189,5 @@
 
 
 ---
-*最后更新于 2025-10-14 11:18:51 UTC*
+*最后更新于 2025-10-14 11:39:21 UTC*
 *历史记录保存在 `archive` 目录中。*
