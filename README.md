@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0x1306a94](https://github.com/0x1306a94)
+- 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [pointfreeco/sqlite-data](https://github.com/pointfreeco/sqlite-data)
+  > A fast, lightweight replacement for SwiftData, powered by SQL and supporting CloudKit synchronizatio...
+
 ### [521xueweihan](https://github.com/521xueweihan)
 - 🌟 👤 [521xueweihan](https://github.com/521xueweihan) Starred [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi)
   > Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)
@@ -12,9 +16,17 @@
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Yuri08loveElaina/CVE-2025-49844](https://github.com/Yuri08loveElaina/CVE-2025-49844)
   > A powerful Redis exploitation tool that leverages CVE-2025-4984
 
+### [DeHby](https://github.com/DeHby)
+- 🌟 👤 [DeHby](https://github.com/DeHby) Starred [matterpreter/DefenderCheck](https://github.com/matterpreter/DefenderCheck)
+  > Identifies the bytes that Microsoft Defender flags on.
+
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [cokeBeer/go-sec-code](https://github.com/cokeBeer/go-sec-code)
   > Go-sec-code is a  project for learning Go vulnerability code.
+
+### [LimerBoy](https://github.com/LimerBoy)
+- 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [0xRedpoll/WhatsAppKeyBOF](https://github.com/0xRedpoll/WhatsAppKeyBOF)
+  > A BOF to retrieve decryption keys for WhatsApp Desktop and a utility script to decrypt the databases...
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent)
@@ -23,6 +35,16 @@
 ### [Proteas](https://github.com/Proteas)
 - 🌟 👤 [Proteas](https://github.com/Proteas) Starred [AngryUEFI/ZenUtils](https://github.com/AngryUEFI/ZenUtils)
   > Binary Utils for Zen Microcode
+
+### [Rabb1tQ](https://github.com/Rabb1tQ)
+- 🌟 👤 [Rabb1tQ](https://github.com/Rabb1tQ) Starred [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps)
+  > RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
+
+### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
+- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [FANGG3/ATTD-GUI](https://github.com/FANGG3/ATTD-GUI)
+
+### [fynch3r](https://github.com/fynch3r)
+- 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463) to [gmh5225/CVE-2025-32463--](https://github.com/gmh5225/CVE-2025-32463--)
@@ -64,6 +86,10 @@
 - 🍴 👤 [pwh-pwh](https://github.com/pwh-pwh) Forked [majoson-chen/sui-best-practices](https://github.com/majoson-chen/sui-best-practices) to [pwh-pwh/sui-best-practices](https://github.com/pwh-pwh/sui-best-practices)
   > 社区驱动的 SUI 最佳实践指南。
 
+### [reveng007](https://github.com/reveng007)
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [aws/aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp)
+  > AWS SDK for C++
+
 ### [rootkiter](https://github.com/rootkiter)
 - 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
   > :books: Freely available programming books
@@ -74,11 +100,15 @@
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
   > The best ChatGPT that $100 can buy.
 
+### [smallevilbeast](https://github.com/smallevilbeast)
+- 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [hhhweihan/EasyTshark](https://github.com/hhhweihan/EasyTshark)
+  > EasyTshark是一个基于tshark的网络数据包分析工具，提供实时抓包和离线分析功能，支持数据包的SQLite存储和XML/JSON格式转换
+
 ### [yohanes](https://github.com/yohanes)
 - 🌟 👤 [yohanes](https://github.com/yohanes) Starred [mrphrazer/obfuscation_analysis](https://github.com/mrphrazer/obfuscation_analysis)
   > Binary Ninja plugin to analyze and simplify obfuscated code
 
 
 ---
-*最后更新于 2025-10-14 09:25:46 UTC*
+*最后更新于 2025-10-14 09:43:12 UTC*
 *历史记录保存在 `archive` 目录中。*
