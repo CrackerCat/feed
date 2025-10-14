@@ -152,6 +152,8 @@
   > Nuclei AI - Browser Extension for Rapid Nuclei Template Generation
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [kevoreilly/CAPEv2](https://github.com/kevoreilly/CAPEv2)
   > Malware Configuration And Payload Extraction
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [protectai/vulnhuntr](https://github.com/protectai/vulnhuntr)
+  > Zero shot vulnerability discovery using LLMs
 
 ### [cxapython](https://github.com/cxapython)
 - 🌟 👤 [cxapython](https://github.com/cxapython) Starred [daijro/camoufox](https://github.com/daijro/camoufox)
@@ -400,6 +402,10 @@
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [wesmar/Watermark_Remover](https://github.com/wesmar/Watermark_Remover) to [smallzhong/Watermark_Remover](https://github.com/smallzhong/Watermark_Remover)
   > Windows watermark remover using IAT hooking and DLL proxy injection. Patches shell32.dll via Trusted...
 
+### [survivalizeed](https://github.com/survivalizeed)
+- 🌟 👤 [survivalizeed](https://github.com/survivalizeed) Starred [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger)
+  > A native, user-mode, multi-process, graphical debugger.
+
 ### [t-wy](https://github.com/t-wy)
 - 🌟 👤 [t-wy](https://github.com/t-wy) Starred [Sekai-World/sekai-viewer](https://github.com/Sekai-World/sekai-viewer)
   > Web Database Viewer of Project Sekai
@@ -454,5 +460,5 @@
 
 
 ---
-*最后更新于 2025-10-14 16:48:57 UTC*
+*最后更新于 2025-10-14 17:18:59 UTC*
 *历史记录保存在 `archive` 目录中。*
