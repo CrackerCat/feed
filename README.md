@@ -12,6 +12,14 @@
 - 🌟 👤 [521xueweihan](https://github.com/521xueweihan) Starred [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi)
   > Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)
 
+### [Carson-Ho](https://github.com/Carson-Ho)
+- ✨ 👤 [Carson-Ho](https://github.com/Carson-Ho) Created new repo [Carson-Ho/Kotlin-NullSafe-Lint](https://github.com/Carson-Ho/Kotlin-NullSafe-Lint)
+  > Kotlin空指针检查
+
+### [Cossack9989](https://github.com/Cossack9989)
+- 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy)
+  > Claude Code to OpenAI API Proxy
+
 ### [DeEpinGh0st](https://github.com/DeEpinGh0st)
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Yuri08loveElaina/CVE-2025-49844](https://github.com/Yuri08loveElaina/CVE-2025-49844)
   > A powerful Redis exploitation tool that leverages CVE-2025-4984
@@ -43,8 +51,16 @@
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [FANGG3/ATTD-GUI](https://github.com/FANGG3/ATTD-GUI)
 
+### [feicong](https://github.com/feicong)
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [fatalcoder524/KernelFlasher](https://github.com/fatalcoder524/KernelFlasher) to [feicong/KernelFlasher](https://github.com/feicong/KernelFlasher)
+  > Kernel Flasher is an Android app to flash, backup, and restore kernels.
+
 ### [fynch3r](https://github.com/fynch3r)
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
+- 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [larsbaunwall/vscode-copilot-bridge](https://github.com/larsbaunwall/vscode-copilot-bridge)
+  > A local interface for GitHub Copilot built on the official VS Code Language Models API
+- 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [rizinorg/cutter](https://github.com/rizinorg/cutter)
+  > Free and Open Source Reverse Engineering Platform powered by rizin
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463) to [gmh5225/CVE-2025-32463--](https://github.com/gmh5225/CVE-2025-32463--)
@@ -61,10 +77,19 @@
   > The fastest way to create a Nitro app.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nitrojs/nitro-deploys](https://github.com/nitrojs/nitro-deploys) to [gmh5225/nitro-deploys](https://github.com/gmh5225/nitro-deploys)
   > Continues Nitro deployments for end-to-end testing deployment providers.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) to [gmh5225/amazon-q-developer-cli](https://github.com/gmh5225/amazon-q-developer-cli)
+  > ✨ Agentic chat experience in your terminal. Build applications using natural language.
 
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
   > DeerFlow is a community-driven Deep Research framework, combining language models with tools like we...
+
+### [hmtheboy154](https://github.com/hmtheboy154)
+- 🌟 👤 [hmtheboy154](https://github.com/hmtheboy154) Starred [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass)
+  > Jetpack Compose Liquid Glass
+
+### [iUIShop](https://github.com/iUIShop)
+- ✨ 👤 [iUIShop](https://github.com/iUIShop) Created new repo [iUIShop/iUIToolset](https://github.com/iUIShop/iUIToolset)
 
 ### [ibaoger](https://github.com/ibaoger)
 - 🌟 👤 [ibaoger](https://github.com/ibaoger) Starred [lucasg/Dependencies](https://github.com/lucasg/Dependencies)
@@ -82,6 +107,14 @@
 - 🌟 👤 [llsc12](https://github.com/llsc12) Starred [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge)
   > swift-bridge facilitates Rust and Swift interop.
 
+### [lqqyt2423](https://github.com/lqqyt2423)
+- 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+  > 所有小初高、大学PDF教材。
+
+### [mzfr](https://github.com/mzfr)
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [FuzzingLabs/fuzzforge_ai](https://github.com/FuzzingLabs/fuzzforge_ai)
+  > AI-powered workflow automation and AI Agents platform for AppSec, Fuzzing & Offensive Security. Auto...
+
 ### [pwh-pwh](https://github.com/pwh-pwh)
 - 🍴 👤 [pwh-pwh](https://github.com/pwh-pwh) Forked [majoson-chen/sui-best-practices](https://github.com/majoson-chen/sui-best-practices) to [pwh-pwh/sui-best-practices](https://github.com/pwh-pwh/sui-best-practices)
   > 社区驱动的 SUI 最佳实践指南。
@@ -93,6 +126,10 @@
 ### [rootkiter](https://github.com/rootkiter)
 - 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
   > :books: Freely available programming books
+
+### [rushiiMachine](https://github.com/rushiiMachine)
+- 🌟 👤 [rushiiMachine](https://github.com/rushiiMachine) Starred [chinedufn/swift-bridge](https://github.com/chinedufn/swift-bridge)
+  > swift-bridge facilitates Rust and Swift interop.
 
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [coleam00/Archon](https://github.com/coleam00/Archon)
@@ -110,5 +147,5 @@
 
 
 ---
-*最后更新于 2025-10-14 09:43:12 UTC*
+*最后更新于 2025-10-14 10:25:05 UTC*
 *历史记录保存在 `archive` 目录中。*
