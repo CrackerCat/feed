@@ -27,6 +27,9 @@
 ### [DeHby](https://github.com/DeHby)
 - 🌟 👤 [DeHby](https://github.com/DeHby) Starred [matterpreter/DefenderCheck](https://github.com/matterpreter/DefenderCheck)
   > Identifies the bytes that Microsoft Defender flags on.
+- 🌟 👤 [DeHby](https://github.com/DeHby) Starred [heyheysky/vulnerable-driver](https://github.com/heyheysky/vulnerable-driver)
+- 🌟 👤 [DeHby](https://github.com/DeHby) Starred [BlackSnufkin/BYOVD](https://github.com/BlackSnufkin/BYOVD)
+  > BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology. ...
 
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [cokeBeer/go-sec-code](https://github.com/cokeBeer/go-sec-code)
@@ -39,6 +42,10 @@
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent)
   > AI agent for autonomous cyber operations
+
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [tpde2/tpde](https://github.com/tpde2/tpde)
+  > A fast framework for writing baseline compiler back-ends in C++
 
 ### [Proteas](https://github.com/Proteas)
 - 🌟 👤 [Proteas](https://github.com/Proteas) Starred [AngryUEFI/ZenUtils](https://github.com/AngryUEFI/ZenUtils)
@@ -79,6 +86,14 @@
   > Continues Nitro deployments for end-to-end testing deployment providers.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) to [gmh5225/amazon-q-developer-cli](https://github.com/gmh5225/amazon-q-developer-cli)
   > ✨ Agentic chat experience in your terminal. Build applications using natural language.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nrc/simple-perf-egs](https://github.com/nrc/simple-perf-egs) to [gmh5225/simple-perf-egs](https://github.com/gmh5225/simple-perf-egs)
+  > Simple examples of performance measurement and optimisation
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [KittenBusters/CharmingKitten](https://github.com/KittenBusters/CharmingKitten) to [gmh5225/CharmingKitten](https://github.com/gmh5225/CharmingKitten)
+  > Exposing CharmingKitten's malicious activity for IRGC-IO  Counterintelligence division (1500)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) to [gmh5225/TrendRadar](https://github.com/gmh5225/TrendRadar)
+  > 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [estebanpdl/tik-spyder](https://github.com/estebanpdl/tik-spyder) to [gmh5225/tik-spyder](https://github.com/gmh5225/tik-spyder)
+  > A Python command-line tool designed to collect TikTok data using SerpAPI for Google search results a...
 
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
@@ -122,6 +137,8 @@
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [aws/aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp)
   > AWS SDK for C++
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [0xflux/Wyrm](https://github.com/0xflux/Wyrm)
+  >  The dragon in the dark. A red team post exploitation framework for testing security controls during...
 
 ### [rootkiter](https://github.com/rootkiter)
 - 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
@@ -147,5 +164,5 @@
 
 
 ---
-*最后更新于 2025-10-14 10:25:05 UTC*
+*最后更新于 2025-10-14 10:45:13 UTC*
 *历史记录保存在 `archive` 目录中。*
