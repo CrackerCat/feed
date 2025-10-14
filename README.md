@@ -109,6 +109,8 @@
 ### [Resery](https://github.com/Resery)
 - 🌟 👤 [Resery](https://github.com/Resery) Starred [TAC-UCB/pixnapping](https://github.com/TAC-UCB/pixnapping)
   > Artifacts for the ACM CCS 2025 paper "Pixnapping: Bringing Pixel Stealing out of the Stone Age"
+- 🌟 👤 [Resery](https://github.com/Resery) Starred [FuzzingLabs/fuzzforge_ai](https://github.com/FuzzingLabs/fuzzforge_ai)
+  > AI-powered workflow automation and AI Agents platform for AppSec, Fuzzing & Offensive Security. Auto...
 
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar)
@@ -132,6 +134,8 @@
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [teamdArk5/FscanPlus](https://github.com/teamdArk5/FscanPlus)
   > 这是Fscan的功能完善、增强、定制版本
+- 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+  > The best ChatGPT that $100 can buy.
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
@@ -140,6 +144,8 @@
   > iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your r...
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI)
   > A powerful tool for automated LLM fuzzing. It is designed to help developers and security researcher...
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [projectdiscovery/nuclei-ai-extension](https://github.com/projectdiscovery/nuclei-ai-extension)
+  > Nuclei AI - Browser Extension for Rapid Nuclei Template Generation
 
 ### [cxapython](https://github.com/cxapython)
 - 🌟 👤 [cxapython](https://github.com/cxapython) Starred [daijro/camoufox](https://github.com/daijro/camoufox)
@@ -250,6 +256,8 @@
   > 免费Chromium指纹浏览器，Chromium119版本指纹浏览器，可完美过BrowserScan\PxielScan\Creepjs网站浏览器指纹检测，过绝大多数网站风控，指纹传参，一键变换指纹信...
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [bysstudio/by-chrome-app](https://github.com/bysstudio/by-chrome-app)
   > by-chrome-app 提供 指纹浏览器(fingerprint browser) 多开管理、代理管理、同步器窗口排列等功能，批量操作多个 Chrome 窗口，实现窗口批量打开、排列以及之间的同步...
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [liangdabiao/claude-data-analysis](https://github.com/liangdabiao/claude-data-analysis)
+  > Create a data analysis AI agent with Claude Code. Make data analysis as simple as having a chat!​​ 别...
 
 ### [hmtheboy154](https://github.com/hmtheboy154)
 - 🌟 👤 [hmtheboy154](https://github.com/hmtheboy154) Starred [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass)
@@ -298,6 +306,10 @@
 - 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
   > 所有小初高、大学PDF教材。
 
+### [lyy289065406](https://github.com/lyy289065406)
+- 🌟 👤 [lyy289065406](https://github.com/lyy289065406) Starred [redis/RedisInsight](https://github.com/redis/RedisInsight)
+  > Redis GUI by Redis
+
 ### [marcan](https://github.com/marcan)
 - 🍴 👤 [marcan](https://github.com/marcan) Forked [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) to [marcan/autorestic](https://github.com/marcan/autorestic)
   > Config driven, easy backup cli for restic.
@@ -317,6 +329,10 @@
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [cxasm/notepad--](https://github.com/cxasm/notepad--)
   > 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
+
+### [paradiseduo](https://github.com/paradiseduo)
+- 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku)
+  > Free and open source manga reader for iOS and iPadOS
 
 ### [pilgun](https://github.com/pilgun)
 - 🌟 👤 [pilgun](https://github.com/pilgun) Starred [yulate/CtfAgent](https://github.com/yulate/CtfAgent)
@@ -392,6 +408,14 @@
 - 🌟 👤 [uknownothingsnow](https://github.com/uknownothingsnow) Starred [tisfeng/Easydict](https://github.com/tisfeng/Easydict)
   > 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百...
 
+### [ultraji](https://github.com/ultraji)
+- 🍴 👤 [ultraji](https://github.com/ultraji) Forked [EasyTier/luci-app-easytier](https://github.com/EasyTier/luci-app-easytier) to [ultraji/luci-app-easytier](https://github.com/ultraji/luci-app-easytier)
+  > OpenWrt里的EasyTier安装包（IPK和APK）
+
+### [xiaoweigege](https://github.com/xiaoweigege)
+- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [moyuwa/ApkCheckPack](https://github.com/moyuwa/ApkCheckPack)
+  > apk加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，全网最全开源加固特征，支持40个厂商的加固检测，欢迎大家提交无法识别的app
+
 ### [yohanes](https://github.com/yohanes)
 - 🌟 👤 [yohanes](https://github.com/yohanes) Starred [mrphrazer/obfuscation_analysis](https://github.com/mrphrazer/obfuscation_analysis)
   > Binary Ninja plugin to analyze and simplify obfuscated code
@@ -400,11 +424,15 @@
 - 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [Rhydon1337/windows-kernel-dll-injector](https://github.com/Rhydon1337/windows-kernel-dll-injector)
   > Kernel mode to user mode dll injection
 
+### [zinja-coder](https://github.com/zinja-coder)
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [libnet/nemesis](https://github.com/libnet/nemesis)
+  > A command-line network packet crafting and injection utility
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [mootdx/mootdx](https://github.com/mootdx/mootdx)
   > 通达信数据读取的一个简便使用封装
 
 
 ---
-*最后更新于 2025-10-14 15:41:38 UTC*
+*最后更新于 2025-10-14 16:29:25 UTC*
 *历史记录保存在 `archive` 目录中。*
