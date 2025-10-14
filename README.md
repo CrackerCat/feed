@@ -60,14 +60,24 @@
   > :tada: A magical vue admin                                                                https://pa...
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
   > a vue2.0 minimal admin template 
+- 🌟 👤 [KingJA](https://github.com/KingJA) Starred [pure-admin/pure-admin-thin](https://github.com/pure-admin/pure-admin-thin)
+  > vue-pure-admin官方精简版
 
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
   > The most advanced browser fingerprinting library.
 
+### [Lil-Ran](https://github.com/Lil-Ran)
+- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [pytauri/pytauri](https://github.com/pytauri/pytauri)
+  > Tauri binding for Python through Pyo3
+
 ### [LimerBoy](https://github.com/LimerBoy)
 - 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [0xRedpoll/WhatsAppKeyBOF](https://github.com/0xRedpoll/WhatsAppKeyBOF)
   > A BOF to retrieve decryption keys for WhatsApp Desktop and a utility script to decrypt the databases...
+
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter)
+  > Write a simple interpreter of C. Inspired by c4 and largely based on it.
 
 ### [Mrack](https://github.com/Mrack)
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [westonbrown/Cyber-AutoAgent](https://github.com/westonbrown/Cyber-AutoAgent)
@@ -85,12 +95,20 @@
 - 🌟 👤 [Rabb1tQ](https://github.com/Rabb1tQ) Starred [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps)
   > RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
 
+### [Resery](https://github.com/Resery)
+- 🌟 👤 [Resery](https://github.com/Resery) Starred [TAC-UCB/pixnapping](https://github.com/TAC-UCB/pixnapping)
+  > Artifacts for the ACM CCS 2025 paper "Pixnapping: Bringing Pixel Stealing out of the Stone Age"
+
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar)
   > 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有...
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [FANGG3/ATTD-GUI](https://github.com/FANGG3/ATTD-GUI)
+
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [salvogiangri/KnoxPatch](https://github.com/salvogiangri/KnoxPatch)
+  > LSPosed module to get Samsung apps/features working again in your rooted Galaxy device.
 
 ### [ThomasThelen](https://github.com/ThomasThelen)
 - 🌟 👤 [ThomasThelen](https://github.com/ThomasThelen) Starred [apache/age](https://github.com/apache/age)
@@ -99,6 +117,18 @@
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [teamdArk5/FscanPlus](https://github.com/teamdArk5/FscanPlus)
   > 这是Fscan的功能完善、增强、定制版本
+
+### [cn-kali-team](https://github.com/cn-kali-team)
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+  > Anthropic's Interactive Prompt Engineering Tutorial
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli)
+  > iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your r...
+
+### [cxapython](https://github.com/cxapython)
+- 🌟 👤 [cxapython](https://github.com/cxapython) Starred [daijro/camoufox](https://github.com/daijro/camoufox)
+  > 🦊 Anti-detect browser
+- 🍴 👤 [cxapython](https://github.com/cxapython) Forked [daijro/camoufox](https://github.com/daijro/camoufox) to [cxapython/camoufox](https://github.com/cxapython/camoufox)
+  > 🦊 Anti-detect browser
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
@@ -116,6 +146,18 @@
   > A local interface for GitHub Copilot built on the official VS Code Language Models API
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [rizinorg/cutter](https://github.com/rizinorg/cutter)
   > Free and Open Source Reverse Engineering Platform powered by rizin
+
+### [gh0stkey](https://github.com/gh0stkey)
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [deskflow/deskflow](https://github.com/deskflow/deskflow)
+  > Share a single keyboard and mouse between multiple computers.
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [microsoft/vscode-ripgrep](https://github.com/microsoft/vscode-ripgrep)
+  > For consuming the ripgrep binary from microsoft/ripgrep-prebuilt in a Node project
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [dajva/rg.el](https://github.com/dajva/rg.el)
+  > Emacs search tool based on ripgrep
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [luleyleo/clapgrep](https://github.com/luleyleo/clapgrep)
+  > Search through all your files
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [rhysd/hgrep](https://github.com/rhysd/hgrep)
+  > Grep with human-friendly search results
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463) to [gmh5225/CVE-2025-32463--](https://github.com/gmh5225/CVE-2025-32463--)
@@ -153,6 +195,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [AndnixSH/APKToolGUI](https://github.com/AndnixSH/APKToolGUI) to [gmh5225/APKToolGUI](https://github.com/gmh5225/APKToolGUI)
   > GUI for apktool, signapk, zipalign and baksmali utilities.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [joleencfh/ti-to-sigma-crew](https://github.com/joleencfh/ti-to-sigma-crew) to [gmh5225/ti-to-sigma-crew](https://github.com/gmh5225/ti-to-sigma-crew)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [obra/node-traffic-logger](https://github.com/obra/node-traffic-logger) to [gmh5225/node-traffic-logger](https://github.com/gmh5225/node-traffic-logger)
+  > HTTP traffic logger and analyzer for Node.js applications
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [obra/claude-docs-setup](https://github.com/obra/claude-docs-setup) to [gmh5225/claude-docs-setup](https://github.com/gmh5225/claude-docs-setup)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [microsoft/amplifier](https://github.com/microsoft/amplifier) to [gmh5225/amplifier](https://github.com/gmh5225/amplifier)
 
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
@@ -162,12 +208,20 @@
 - 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli)
   > iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your r...
 
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [LoseNine/ruyiBrowser](https://github.com/LoseNine/ruyiBrowser)
+  > 免费Chromium指纹浏览器，Chromium119版本指纹浏览器，可完美过BrowserScan\PxielScan\Creepjs网站浏览器指纹检测，过绝大多数网站风控，指纹传参，一键变换指纹信...
+
 ### [hmtheboy154](https://github.com/hmtheboy154)
 - 🌟 👤 [hmtheboy154](https://github.com/hmtheboy154) Starred [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass)
   > Jetpack Compose Liquid Glass
 
 ### [hoochanlon](https://github.com/hoochanlon)
 - ✨ 👤 [hoochanlon](https://github.com/hoochanlon) Created new repo [hoochanlon/img](https://github.com/hoochanlon/img)
+
+### [iAklis](https://github.com/iAklis)
+- 🌟 👤 [iAklis](https://github.com/iAklis) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+  > The best ChatGPT that $100 can buy.
 
 ### [iUIShop](https://github.com/iUIShop)
 - ✨ 👤 [iUIShop](https://github.com/iUIShop) Created new repo [iUIShop/iUIToolset](https://github.com/iUIShop/iUIToolset)
@@ -177,9 +231,21 @@
 - 🌟 👤 [ibaoger](https://github.com/ibaoger) Starred [lucasg/Dependencies](https://github.com/lucasg/Dependencies)
   > A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load d...
 
+### [idkhidden](https://github.com/idkhidden)
+- 🌟 👤 [idkhidden](https://github.com/idkhidden) Starred [backengineering/vmp2](https://github.com/backengineering/vmp2)
+  > VMProtect2 Deobfuscation Tooling
+
 ### [je5442804](https://github.com/je5442804)
 - 🌟 👤 [je5442804](https://github.com/je5442804) Starred [TwoSevenOneT/IAmAntimalware](https://github.com/TwoSevenOneT/IAmAntimalware)
   > This tool helps inject code into the processes of Antivirus programs.
+
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+  > The best ChatGPT that $100 can buy.
+
+### [le31ei](https://github.com/le31ei)
+- 🌟 👤 [le31ei](https://github.com/le31ei) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+  > The best ChatGPT that $100 can buy.
 
 ### [ljy1058318852](https://github.com/ljy1058318852)
 - 🌟 👤 [ljy1058318852](https://github.com/ljy1058318852) Starred [HotBoy-java/Resource](https://github.com/HotBoy-java/Resource)
@@ -193,6 +259,10 @@
 - 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
   > 所有小初高、大学PDF教材。
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+  > The best ChatGPT that $100 can buy.
+
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [FuzzingLabs/fuzzforge_ai](https://github.com/FuzzingLabs/fuzzforge_ai)
   > AI-powered workflow automation and AI Agents platform for AppSec, Fuzzing & Offensive Security. Auto...
@@ -201,9 +271,21 @@
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [cxasm/notepad--](https://github.com/cxasm/notepad--)
   > 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 
+### [pilgun](https://github.com/pilgun)
+- 🌟 👤 [pilgun](https://github.com/pilgun) Starred [yulate/CtfAgent](https://github.com/yulate/CtfAgent)
+  > ctf awd比赛快速hook java题，提供一键流量转发，无痛修复
+
+### [prife](https://github.com/prife)
+- 🌟 👤 [prife](https://github.com/prife) Starred [prife/goadb](https://github.com/prife/goadb)
+  > A Golang library for interacting with adb. fork from https://github.com/zach-klippenstein/goadb
+
 ### [pwh-pwh](https://github.com/pwh-pwh)
 - 🍴 👤 [pwh-pwh](https://github.com/pwh-pwh) Forked [majoson-chen/sui-best-practices](https://github.com/majoson-chen/sui-best-practices) to [pwh-pwh/sui-best-practices](https://github.com/pwh-pwh/sui-best-practices)
   > 社区驱动的 SUI 最佳实践指南。
+
+### [rand-tech](https://github.com/rand-tech)
+- 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/xrefer-test](https://github.com/rand-tech/xrefer-test) public
+  > Curated datasets of ITW+lab-made executables.
 
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [aws/aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp)
@@ -235,9 +317,17 @@
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [wesmar/Watermark_Remover](https://github.com/wesmar/Watermark_Remover) to [smallzhong/Watermark_Remover](https://github.com/smallzhong/Watermark_Remover)
   > Windows watermark remover using IAT hooking and DLL proxy injection. Patches shell32.dll via Trusted...
 
+### [uknownothingsnow](https://github.com/uknownothingsnow)
+- 🌟 👤 [uknownothingsnow](https://github.com/uknownothingsnow) Starred [tisfeng/Easydict](https://github.com/tisfeng/Easydict)
+  > 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百...
+
 ### [yohanes](https://github.com/yohanes)
 - 🌟 👤 [yohanes](https://github.com/yohanes) Starred [mrphrazer/obfuscation_analysis](https://github.com/mrphrazer/obfuscation_analysis)
   > Binary Ninja plugin to analyze and simplify obfuscated code
+
+### [zhaotianff](https://github.com/zhaotianff)
+- 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [Rhydon1337/windows-kernel-dll-injector](https://github.com/Rhydon1337/windows-kernel-dll-injector)
+  > Kernel mode to user mode dll injection
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [mootdx/mootdx](https://github.com/mootdx/mootdx)
@@ -245,5 +335,5 @@
 
 
 ---
-*最后更新于 2025-10-14 12:51:24 UTC*
+*最后更新于 2025-10-14 13:33:21 UTC*
 *历史记录保存在 `archive` 目录中。*
