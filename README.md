@@ -83,6 +83,10 @@
 - 🌟 👤 [taubeskiceh](https://github.com/taubeskiceh) Starred [aliasrobotics/Infosec_Reference](https://github.com/aliasrobotics/Infosec_Reference)
   > An Information Security Reference That Doesn't Suck
 
+### [unic0rn-team](https://github.com/unic0rn-team)
+- 🍴 👤 [unic0rn-team](https://github.com/unic0rn-team) Forked [unic0rn-team/cai](https://github.com/unic0rn-team/cai) to [unic0rn-team/cai](https://github.com/unic0rn-team/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [waiveyk](https://github.com/waiveyk)
 - 🌟 👤 [waiveyk](https://github.com/waiveyk) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -97,5 +101,5 @@
 
 
 ---
-*最后更新于 2025-10-14 22:21:16 UTC*
+*最后更新于 2025-10-14 22:41:16 UTC*
 *历史记录保存在 `archive` 目录中。*
