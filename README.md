@@ -34,6 +34,10 @@
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [wangzhaode/onnx-llm](https://github.com/wangzhaode/onnx-llm)
   > llm deploy project based onnx.
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [Stuk/jszip](https://github.com/Stuk/jszip)
+  > Create, read and edit .zip files with Javascript
+
 ### [Carson-Ho](https://github.com/Carson-Ho)
 - ✨ 👤 [Carson-Ho](https://github.com/Carson-Ho) Created new repo [Carson-Ho/Kotlin-NullSafe-Lint](https://github.com/Carson-Ho/Kotlin-NullSafe-Lint)
   > Kotlin空指针检查
@@ -90,6 +94,12 @@
 - 🌟 👤 [Markakd](https://github.com/Markakd) Starred [BigBrotherTrade/trader](https://github.com/BigBrotherTrade/trader)
   > 交易模块
 
+### [MikaCybertron](https://github.com/MikaCybertron)
+- 🌟 👤 [MikaCybertron](https://github.com/MikaCybertron) Starred [fedes1to/XposedImGuiMenu](https://github.com/fedes1to/XposedImGuiMenu)
+  > Xposed ImGui Injection for Unity Games
+- 🍴 👤 [MikaCybertron](https://github.com/MikaCybertron) Forked [fedes1to/XposedImGuiMenu](https://github.com/fedes1to/XposedImGuiMenu) to [MikaCybertron/XposedImGuiMenu](https://github.com/MikaCybertron/XposedImGuiMenu)
+  > Xposed ImGui Injection for Unity Games
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter)
   > Write a simple interpreter of C. Inspired by c4 and largely based on it.
@@ -101,6 +111,12 @@
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [tpde2/tpde](https://github.com/tpde2/tpde)
   > A fast framework for writing baseline compiler back-ends in C++
+
+### [NightOfTwelve](https://github.com/NightOfTwelve)
+- 🌟 👤 [NightOfTwelve](https://github.com/NightOfTwelve) Starred [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
+  > The most advanced browser fingerprinting library.
+- 🍴 👤 [NightOfTwelve](https://github.com/NightOfTwelve) Forked [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) to [NightOfTwelve/fingerprintjs](https://github.com/NightOfTwelve/fingerprintjs)
+  > The most advanced browser fingerprinting library.
 
 ### [Proteas](https://github.com/Proteas)
 - 🌟 👤 [Proteas](https://github.com/Proteas) Starred [AngryUEFI/ZenUtils](https://github.com/AngryUEFI/ZenUtils)
@@ -154,6 +170,8 @@
   > Malware Configuration And Payload Extraction
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [protectai/vulnhuntr](https://github.com/protectai/vulnhuntr)
   > Zero shot vulnerability discovery using LLMs
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [davidhalter/jedi](https://github.com/davidhalter/jedi)
+  > Awesome autocompletion, static analysis and refactoring library for python
 
 ### [cxapython](https://github.com/cxapython)
 - 🌟 👤 [cxapython](https://github.com/cxapython) Starred [daijro/camoufox](https://github.com/daijro/camoufox)
@@ -340,6 +358,10 @@
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [cxasm/notepad--](https://github.com/cxasm/notepad--)
   > 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [rictic/jsonriver](https://github.com/rictic/jsonriver)
+  > A simple, fast streaming JSON parser built on standards.
+
 ### [paradiseduo](https://github.com/paradiseduo)
 - 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku)
   > Free and open source manga reader for iOS and iPadOS
@@ -402,6 +424,10 @@
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [wesmar/Watermark_Remover](https://github.com/wesmar/Watermark_Remover) to [smallzhong/Watermark_Remover](https://github.com/smallzhong/Watermark_Remover)
   > Windows watermark remover using IAT hooking and DLL proxy injection. Patches shell32.dll via Trusted...
 
+### [std-microblock](https://github.com/std-microblock)
+- 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [BryanGIG/PADumper](https://github.com/BryanGIG/PADumper)
+  > Process Android Memory Dumper
+
 ### [survivalizeed](https://github.com/survivalizeed)
 - 🌟 👤 [survivalizeed](https://github.com/survivalizeed) Starred [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger)
   > A native, user-mode, multi-process, graphical debugger.
@@ -453,6 +479,10 @@
 ### [zinja-coder](https://github.com/zinja-coder)
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [libnet/nemesis](https://github.com/libnet/nemesis)
   > A command-line network packet crafting and injection utility
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [balle/bluediving](https://github.com/balle/bluediving)
+  > The Bluetooth penetration testing tool suite
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [Offensive-Wireless/Bluetooth-Penetration-Testing](https://github.com/Offensive-Wireless/Bluetooth-Penetration-Testing)
+  > Explore the realm of Bluetooth Penetration Testing through our comprehensive website. Learn about di...
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [mootdx/mootdx](https://github.com/mootdx/mootdx)
@@ -460,5 +490,5 @@
 
 
 ---
-*最后更新于 2025-10-14 17:18:59 UTC*
+*最后更新于 2025-10-14 17:39:42 UTC*
 *历史记录保存在 `archive` 目录中。*
