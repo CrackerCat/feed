@@ -8,9 +8,17 @@
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [CrackerCat/PMPatch](https://github.com/CrackerCat/PMPatch) to [CrackerCat/PMPatch](https://github.com/CrackerCat/PMPatch)
   > Disable signature verification for Android
 
+### [bear7066](https://github.com/bear7066)
+- 🌟 👤 [bear7066](https://github.com/bear7066) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [chaoxi72](https://github.com/chaoxi72)
 - 🌟 👤 [chaoxi72](https://github.com/chaoxi72) Starred [vova7878-modules/PMPatch](https://github.com/vova7878-modules/PMPatch)
   > Disable signature verification for Android
+
+### [chenyansong1](https://github.com/chenyansong1)
+- 🌟 👤 [chenyansong1](https://github.com/chenyansong1) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [f-coded](https://github.com/f-coded)
 - 🌟 👤 [f-coded](https://github.com/f-coded) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -48,5 +56,5 @@
 
 
 ---
-*最后更新于 2025-10-15 07:23:30 UTC*
+*最后更新于 2025-10-15 07:41:30 UTC*
 *历史记录保存在 `archive` 目录中。*
