@@ -12,6 +12,10 @@
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [CrackerCat/PMPatch](https://github.com/CrackerCat/PMPatch) to [CrackerCat/PMPatch](https://github.com/CrackerCat/PMPatch)
   > Disable signature verification for Android
 
+### [JuaniVeltri](https://github.com/JuaniVeltri)
+- 🌟 👤 [JuaniVeltri](https://github.com/JuaniVeltri) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [Karamel911](https://github.com/Karamel911)
 - 🍴 👤 [Karamel911](https://github.com/Karamel911) Forked [Karamel911/cai](https://github.com/Karamel911/cai) to [Karamel911/cai](https://github.com/Karamel911/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -140,5 +144,5 @@
 
 
 ---
-*最后更新于 2025-10-15 17:20:13 UTC*
+*最后更新于 2025-10-15 17:41:15 UTC*
 *历史记录保存在 `archive` 目录中。*
