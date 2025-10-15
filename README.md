@@ -24,6 +24,14 @@
 - 🌟 👤 [f-coded](https://github.com/f-coded) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [hufhsg45](https://github.com/hufhsg45)
+- 🌟 👤 [hufhsg45](https://github.com/hufhsg45) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
+### [jalalmansour](https://github.com/jalalmansour)
+- 🌟 👤 [jalalmansour](https://github.com/jalalmansour) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [jiomvk](https://github.com/jiomvk)
 - 🌟 👤 [jiomvk](https://github.com/jiomvk) Starred [vova7878-modules/PMPatch](https://github.com/vova7878-modules/PMPatch)
   > Disable signature verification for Android
@@ -56,5 +64,5 @@
 
 
 ---
-*最后更新于 2025-10-15 07:41:30 UTC*
+*最后更新于 2025-10-15 08:32:42 UTC*
 *历史记录保存在 `archive` 目录中。*
