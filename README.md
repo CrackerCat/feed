@@ -20,6 +20,10 @@
 - 🌟 👤 [bear7066](https://github.com/bear7066) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [bhhxx](https://github.com/bhhxx)
+- 🌟 👤 [bhhxx](https://github.com/bhhxx) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 ### [chaoxi72](https://github.com/chaoxi72)
 - 🌟 👤 [chaoxi72](https://github.com/chaoxi72) Starred [vova7878-modules/PMPatch](https://github.com/vova7878-modules/PMPatch)
   > Disable signature verification for Android
@@ -78,7 +82,13 @@
 - 🌟 👤 [sdtanyanlan](https://github.com/sdtanyanlan) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
+### [wjjspyral](https://github.com/wjjspyral)
+- 🌟 👤 [wjjspyral](https://github.com/wjjspyral) Starred [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses)
+  > 名校公开课程评价网
+- 🌟 👤 [wjjspyral](https://github.com/wjjspyral) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+
 
 ---
-*最后更新于 2025-10-15 10:26:21 UTC*
+*最后更新于 2025-10-15 10:46:46 UTC*
 *历史记录保存在 `archive` 目录中。*
