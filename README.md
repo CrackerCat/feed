@@ -28,9 +28,20 @@
 - 🌟 👤 [RedJJ94](https://github.com/RedJJ94) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [Sean-Kiz8](https://github.com/Sean-Kiz8)
+- 🌟 👤 [Sean-Kiz8](https://github.com/Sean-Kiz8) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [Skorpion96](https://github.com/Skorpion96)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [pacbypass/CVE-2025-11001](https://github.com/pacbypass/CVE-2025-11001)
+  > Exploit for CVE-2025-11001 or CVE-2025-11002
+
 ### [affggh](https://github.com/affggh)
 - 🚀 👤 [affggh](https://github.com/affggh) Made [CircleCashTeam/e2fsprogs_build](https://github.com/CircleCashTeam/e2fsprogs_build) public
   > Build e2fsprogs with cmake
+
+### [altuzh](https://github.com/altuzh)
+- 🌟 👤 [altuzh](https://github.com/altuzh) Starred [vova7878-modules/PaySecurityBypass](https://github.com/vova7878-modules/PaySecurityBypass)
 
 ### [bear7066](https://github.com/bear7066)
 - 🌟 👤 [bear7066](https://github.com/bear7066) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -144,5 +155,5 @@
 
 
 ---
-*最后更新于 2025-10-15 19:18:58 UTC*
+*最后更新于 2025-10-15 19:39:11 UTC*
 *历史记录保存在 `archive` 目录中。*
