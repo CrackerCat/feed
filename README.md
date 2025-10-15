@@ -114,6 +114,10 @@
 - 🌟 👤 [sunmondy](https://github.com/sunmondy) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [vinceajello](https://github.com/vinceajello)
+- 🌟 👤 [vinceajello](https://github.com/vinceajello) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [vpranavkrishna](https://github.com/vpranavkrishna)
 - 🌟 👤 [vpranavkrishna](https://github.com/vpranavkrishna) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -136,5 +140,5 @@
 
 
 ---
-*最后更新于 2025-10-15 15:41:38 UTC*
+*最后更新于 2025-10-15 16:26:04 UTC*
 *历史记录保存在 `archive` 目录中。*
