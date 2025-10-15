@@ -12,11 +12,21 @@
 - 🌟 👤 [chaoxi72](https://github.com/chaoxi72) Starred [vova7878-modules/PMPatch](https://github.com/vova7878-modules/PMPatch)
   > Disable signature verification for Android
 
+### [jiomvk](https://github.com/jiomvk)
+- 🌟 👤 [jiomvk](https://github.com/jiomvk) Starred [vova7878-modules/PMPatch](https://github.com/vova7878-modules/PMPatch)
+  > Disable signature verification for Android
+
 ### [qiuzhiqian](https://github.com/qiuzhiqian)
 - 🌟 👤 [qiuzhiqian](https://github.com/qiuzhiqian) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [qt-pay](https://github.com/qt-pay)
+- 🌟 👤 [qt-pay](https://github.com/qt-pay) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+- 🍴 👤 [qt-pay](https://github.com/qt-pay) Forked [qt-pay/flash-linux0.11-talk](https://github.com/qt-pay/flash-linux0.11-talk) to [qt-pay/flash-linux0.11-talk](https://github.com/qt-pay/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 
 ---
-*最后更新于 2025-10-15 01:49:39 UTC*
+*最后更新于 2025-10-15 03:07:38 UTC*
 *历史记录保存在 `archive` 目录中。*
