@@ -71,6 +71,10 @@
 - 🌟 👤 [f-coded](https://github.com/f-coded) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [fernandomxm](https://github.com/fernandomxm)
+- 🌟 👤 [fernandomxm](https://github.com/fernandomxm) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [g60cBQ](https://github.com/g60cBQ)
 - 🌟 👤 [g60cBQ](https://github.com/g60cBQ) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -155,5 +159,5 @@
 
 
 ---
-*最后更新于 2025-10-15 20:26:35 UTC*
+*最后更新于 2025-10-15 20:43:40 UTC*
 *历史记录保存在 `archive` 目录中。*
