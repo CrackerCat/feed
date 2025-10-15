@@ -8,6 +8,10 @@
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [CrackerCat/PMPatch](https://github.com/CrackerCat/PMPatch) to [CrackerCat/PMPatch](https://github.com/CrackerCat/PMPatch)
   > Disable signature verification for Android
 
+### [Karamel911](https://github.com/Karamel911)
+- 🍴 👤 [Karamel911](https://github.com/Karamel911) Forked [Karamel911/cai](https://github.com/Karamel911/cai) to [Karamel911/cai](https://github.com/Karamel911/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [RedJJ94](https://github.com/RedJJ94)
 - 🌟 👤 [RedJJ94](https://github.com/RedJJ94) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -82,6 +86,10 @@
 - 🌟 👤 [sdtanyanlan](https://github.com/sdtanyanlan) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
+### [wibo-666](https://github.com/wibo-666)
+- 🌟 👤 [wibo-666](https://github.com/wibo-666) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+
 ### [wjjspyral](https://github.com/wjjspyral)
 - 🌟 👤 [wjjspyral](https://github.com/wjjspyral) Starred [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses)
   > 名校公开课程评价网
@@ -90,5 +98,5 @@
 
 
 ---
-*最后更新于 2025-10-15 10:46:46 UTC*
+*最后更新于 2025-10-15 11:19:42 UTC*
 *历史记录保存在 `archive` 目录中。*
