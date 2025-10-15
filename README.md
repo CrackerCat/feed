@@ -67,6 +67,10 @@
 - 🌟 👤 [chenyansong1](https://github.com/chenyansong1) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [ciroautuori](https://github.com/ciroautuori)
+- 🌟 👤 [ciroautuori](https://github.com/ciroautuori) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [f-coded](https://github.com/f-coded)
 - 🌟 👤 [f-coded](https://github.com/f-coded) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -159,5 +163,5 @@
 
 
 ---
-*最后更新于 2025-10-15 20:43:40 UTC*
+*最后更新于 2025-10-15 21:20:10 UTC*
 *历史记录保存在 `archive` 目录中。*
