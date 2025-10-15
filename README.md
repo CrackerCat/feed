@@ -12,6 +12,10 @@
 - 🌟 👤 [chaoxi72](https://github.com/chaoxi72) Starred [vova7878-modules/PMPatch](https://github.com/vova7878-modules/PMPatch)
   > Disable signature verification for Android
 
+### [f-coded](https://github.com/f-coded)
+- 🌟 👤 [f-coded](https://github.com/f-coded) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [jiomvk](https://github.com/jiomvk)
 - 🌟 👤 [jiomvk](https://github.com/jiomvk) Starred [vova7878-modules/PMPatch](https://github.com/vova7878-modules/PMPatch)
   > Disable signature verification for Android
@@ -28,5 +32,5 @@
 
 
 ---
-*最后更新于 2025-10-15 03:07:38 UTC*
+*最后更新于 2025-10-15 03:50:54 UTC*
 *历史记录保存在 `archive` 目录中。*
