@@ -12,6 +12,10 @@
 - 🍴 👤 [Karamel911](https://github.com/Karamel911) Forked [Karamel911/cai](https://github.com/Karamel911/cai) to [Karamel911/cai](https://github.com/Karamel911/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [QAZqazWSXwsx](https://github.com/QAZqazWSXwsx)
+- 🌟 👤 [QAZqazWSXwsx](https://github.com/QAZqazWSXwsx) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [RedJJ94](https://github.com/RedJJ94)
 - 🌟 👤 [RedJJ94](https://github.com/RedJJ94) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -22,6 +26,10 @@
 
 ### [bear7066](https://github.com/bear7066)
 - 🌟 👤 [bear7066](https://github.com/bear7066) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [beyefendi](https://github.com/beyefendi)
+- 🌟 👤 [beyefendi](https://github.com/beyefendi) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [bhhxx](https://github.com/bhhxx)
@@ -59,6 +67,10 @@
 ### [kuangjunhua](https://github.com/kuangjunhua)
 - 🌟 👤 [kuangjunhua](https://github.com/kuangjunhua) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+### [linghumuchen](https://github.com/linghumuchen)
+- 🌟 👤 [linghumuchen](https://github.com/linghumuchen) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
 ### [lt1031](https://github.com/lt1031)
 - 🌟 👤 [lt1031](https://github.com/lt1031) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
@@ -108,7 +120,13 @@
 - 🌟 👤 [wjjspyral](https://github.com/wjjspyral) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
+### [y11en](https://github.com/y11en)
+- 🌟 👤 [y11en](https://github.com/y11en) Starred [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)
+  > A C++ header-only HTTP/HTTPS server and client library
+- 🍴 👤 [y11en](https://github.com/y11en) Forked [y11en/cpp-httplib](https://github.com/y11en/cpp-httplib) to [y11en/cpp-httplib](https://github.com/y11en/cpp-httplib)
+  > A C++ header-only HTTP/HTTPS server and client library
+
 
 ---
-*最后更新于 2025-10-15 13:34:52 UTC*
+*最后更新于 2025-10-15 14:24:36 UTC*
 *历史记录保存在 `archive` 目录中。*
