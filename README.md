@@ -20,6 +20,10 @@
 - 🌟 👤 [jiomvk](https://github.com/jiomvk) Starred [vova7878-modules/PMPatch](https://github.com/vova7878-modules/PMPatch)
   > Disable signature verification for Android
 
+### [lt1031](https://github.com/lt1031)
+- 🌟 👤 [lt1031](https://github.com/lt1031) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 ### [qiuzhiqian](https://github.com/qiuzhiqian)
 - 🌟 👤 [qiuzhiqian](https://github.com/qiuzhiqian) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -32,5 +36,5 @@
 
 
 ---
-*最后更新于 2025-10-15 04:27:20 UTC*
+*最后更新于 2025-10-15 04:45:00 UTC*
 *历史记录保存在 `archive` 目录中。*
