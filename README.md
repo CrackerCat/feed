@@ -36,6 +36,10 @@
 - 🌟 👤 [bhhxx](https://github.com/bhhxx) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [brianlinhung](https://github.com/brianlinhung)
+- 🍴 👤 [brianlinhung](https://github.com/brianlinhung) Forked [brianlinhung/cai](https://github.com/brianlinhung/cai) to [brianlinhung/cai](https://github.com/brianlinhung/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [chaoxi72](https://github.com/chaoxi72)
 - 🌟 👤 [chaoxi72](https://github.com/chaoxi72) Starred [vova7878-modules/PMPatch](https://github.com/vova7878-modules/PMPatch)
   > Disable signature verification for Android
@@ -128,5 +132,5 @@
 
 
 ---
-*最后更新于 2025-10-15 14:24:36 UTC*
+*最后更新于 2025-10-15 14:46:52 UTC*
 *历史记录保存在 `archive` 目录中。*
