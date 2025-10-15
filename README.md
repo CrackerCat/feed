@@ -55,6 +55,10 @@
 - 🌟 👤 [bhhxx](https://github.com/bhhxx) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [boussouira](https://github.com/boussouira)
+- 🌟 👤 [boussouira](https://github.com/boussouira) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [brianlinhung](https://github.com/brianlinhung)
 - 🍴 👤 [brianlinhung](https://github.com/brianlinhung) Forked [brianlinhung/cai](https://github.com/brianlinhung/cai) to [brianlinhung/cai](https://github.com/brianlinhung/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -163,5 +167,5 @@
 
 
 ---
-*最后更新于 2025-10-15 22:40:11 UTC*
+*最后更新于 2025-10-15 23:20:06 UTC*
 *历史记录保存在 `archive` 目录中。*
