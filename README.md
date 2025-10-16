@@ -90,6 +90,10 @@
 - 🌟 👤 [nimosec](https://github.com/nimosec) Starred [AlienwareHe/awesome-reverse](https://github.com/AlienwareHe/awesome-reverse)
   > awesome-逆向基础入门，包括JS、安卓APP/Native
 
+### [nsr0776](https://github.com/nsr0776)
+- 🌟 👤 [nsr0776](https://github.com/nsr0776) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [ohcocacola](https://github.com/ohcocacola)
 - 🌟 👤 [ohcocacola](https://github.com/ohcocacola) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -132,5 +136,5 @@
 
 
 ---
-*最后更新于 2025-10-16 10:26:17 UTC*
+*最后更新于 2025-10-16 10:45:37 UTC*
 *历史记录保存在 `archive` 目录中。*
