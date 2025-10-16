@@ -82,6 +82,10 @@
 - 🌟 👤 [kirankc](https://github.com/kirankc) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [louis-xer](https://github.com/louis-xer)
+- 🍴 👤 [louis-xer](https://github.com/louis-xer) Forked [louis-xer/cai](https://github.com/louis-xer/cai) to [louis-xer/cai](https://github.com/louis-xer/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [mazachaka](https://github.com/mazachaka)
 - 🍴 👤 [mazachaka](https://github.com/mazachaka) Forked [mazachaka/cai](https://github.com/mazachaka/cai) to [mazachaka/cai](https://github.com/mazachaka/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -114,6 +118,10 @@
 - 🌟 👤 [renjinxi](https://github.com/renjinxi) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
+### [somls](https://github.com/somls)
+- 🌟 👤 [somls](https://github.com/somls) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [sunnywatter](https://github.com/sunnywatter)
 - 🌟 👤 [sunnywatter](https://github.com/sunnywatter) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
@@ -138,11 +146,15 @@
 - 🌟 👤 [y11en](https://github.com/y11en) Starred [zodiacon/TotalPE2](https://github.com/zodiacon/TotalPE2)
   > PE Viewer
 
+### [zfb132](https://github.com/zfb132)
+- 🌟 👤 [zfb132](https://github.com/zfb132) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [zjmqlf](https://github.com/zjmqlf)
 - 🌟 👤 [zjmqlf](https://github.com/zjmqlf) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
 
 ---
-*最后更新于 2025-10-16 11:39:33 UTC*
+*最后更新于 2025-10-16 12:50:42 UTC*
 *历史记录保存在 `archive` 目录中。*
