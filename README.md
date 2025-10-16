@@ -78,6 +78,10 @@
 - 🌟 👤 [fuwu1245](https://github.com/fuwu1245) Starred [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses)
   > 名校公开课程评价网
 
+### [judiw](https://github.com/judiw)
+- 🌟 👤 [judiw](https://github.com/judiw) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [kaiyuLiu](https://github.com/kaiyuLiu)
 - 🍴 👤 [kaiyuLiu](https://github.com/kaiyuLiu) Forked [kaiyuLiu/PythonPark](https://github.com/kaiyuLiu/PythonPark) to [kaiyuLiu/PythonPark](https://github.com/kaiyuLiu/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
@@ -89,6 +93,10 @@
 ### [louis-xer](https://github.com/louis-xer)
 - 🍴 👤 [louis-xer](https://github.com/louis-xer) Forked [louis-xer/cai](https://github.com/louis-xer/cai) to [louis-xer/cai](https://github.com/louis-xer/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
+
+### [luosiyuan2000-arch](https://github.com/luosiyuan2000-arch)
+- 🌟 👤 [luosiyuan2000-arch](https://github.com/luosiyuan2000-arch) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
 ### [mazachaka](https://github.com/mazachaka)
 - 🍴 👤 [mazachaka](https://github.com/mazachaka) Forked [mazachaka/cai](https://github.com/mazachaka/cai) to [mazachaka/cai](https://github.com/mazachaka/cai)
@@ -160,5 +168,5 @@
 
 
 ---
-*最后更新于 2025-10-16 13:34:28 UTC*
+*最后更新于 2025-10-16 14:24:07 UTC*
 *历史记录保存在 `archive` 目录中。*
