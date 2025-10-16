@@ -56,6 +56,10 @@
 - 🌟 👤 [Yqh-alt](https://github.com/Yqh-alt) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
+### [amugoodbad229](https://github.com/amugoodbad229)
+- 🌟 👤 [amugoodbad229](https://github.com/amugoodbad229) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [aynakeya](https://github.com/aynakeya)
 - 🌟 👤 [aynakeya](https://github.com/aynakeya) Starred [kardolus/chatgpt-cli](https://github.com/kardolus/chatgpt-cli)
   > ChatGPT CLI is a versatile tool for interacting with LLMs through OpenAI, Azure, and other popular p...
@@ -89,6 +93,10 @@
 ### [fuwu1245](https://github.com/fuwu1245)
 - 🌟 👤 [fuwu1245](https://github.com/fuwu1245) Starred [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses)
   > 名校公开课程评价网
+
+### [hematomy](https://github.com/hematomy)
+- 🌟 👤 [hematomy](https://github.com/hematomy) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [judiw](https://github.com/judiw)
 - 🌟 👤 [judiw](https://github.com/judiw) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
@@ -191,5 +199,5 @@
 
 
 ---
-*最后更新于 2025-10-16 17:41:12 UTC*
+*最后更新于 2025-10-16 18:33:23 UTC*
 *历史记录保存在 `archive` 目录中。*
