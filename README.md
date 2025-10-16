@@ -36,6 +36,10 @@
 - 🍴 👤 [Gohanckz](https://github.com/Gohanckz) Forked [Gohanckz/cai](https://github.com/Gohanckz/cai) to [Gohanckz/cai](https://github.com/Gohanckz/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [Ingospi](https://github.com/Ingospi)
+- 🌟 👤 [Ingospi](https://github.com/Ingospi) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [MeeseeksX](https://github.com/MeeseeksX)
 - 🌟 👤 [MeeseeksX](https://github.com/MeeseeksX) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -168,5 +172,5 @@
 
 
 ---
-*最后更新于 2025-10-16 14:24:07 UTC*
+*最后更新于 2025-10-16 14:46:09 UTC*
 *历史记录保存在 `archive` 目录中。*
