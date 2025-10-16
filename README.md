@@ -56,6 +56,10 @@
 - 🌟 👤 [kirankc](https://github.com/kirankc) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [mjmalafa](https://github.com/mjmalafa)
+- 🍴 👤 [mjmalafa](https://github.com/mjmalafa) Forked [mjmalafa/cai](https://github.com/mjmalafa/cai) to [mjmalafa/cai](https://github.com/mjmalafa/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [nimosec](https://github.com/nimosec)
 - 🌟 👤 [nimosec](https://github.com/nimosec) Starred [AlienwareHe/awesome-reverse](https://github.com/AlienwareHe/awesome-reverse)
   > awesome-逆向基础入门，包括JS、安卓APP/Native
@@ -94,5 +98,5 @@
 
 
 ---
-*最后更新于 2025-10-16 07:23:26 UTC*
+*最后更新于 2025-10-16 07:40:53 UTC*
 *历史记录保存在 `archive` 目录中。*
