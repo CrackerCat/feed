@@ -16,8 +16,16 @@
 - 🌟 👤 [Baronofthehorde](https://github.com/Baronofthehorde) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [Fishheadrabbit](https://github.com/Fishheadrabbit)
+- 🌟 👤 [Fishheadrabbit](https://github.com/Fishheadrabbit) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [Gohanckz](https://github.com/Gohanckz)
 - 🍴 👤 [Gohanckz](https://github.com/Gohanckz) Forked [Gohanckz/cai](https://github.com/Gohanckz/cai) to [Gohanckz/cai](https://github.com/Gohanckz/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [MeeseeksX](https://github.com/MeeseeksX)
+- 🌟 👤 [MeeseeksX](https://github.com/MeeseeksX) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [Yqh-alt](https://github.com/Yqh-alt)
@@ -62,5 +70,5 @@
 
 
 ---
-*最后更新于 2025-10-16 03:51:33 UTC*
+*最后更新于 2025-10-16 04:26:54 UTC*
 *历史记录保存在 `archive` 目录中。*
