@@ -24,6 +24,10 @@
 - 🌟 👤 [DaikonSushi](https://github.com/DaikonSushi) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
+- 🌟 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Starred [auven/pandazone](https://github.com/auven/pandazone)
+  > 仿qq空间的说说、博客系统
+
 ### [Muhtasham](https://github.com/Muhtasham)
 - 🌟 👤 [Muhtasham](https://github.com/Muhtasham) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -53,6 +57,8 @@
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [HexRaysSA/ida-cyberchef](https://github.com/HexRaysSA/ida-cyberchef)
   > A Qt-based CyberChef interface designed for malware analysis workflows, particularly in IDA Pro
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [backengineering/vmp2](https://github.com/backengineering/vmp2)
+  > VMProtect2 Deobfuscation Tooling
 
 ### [izdiwho](https://github.com/izdiwho)
 - 🌟 👤 [izdiwho](https://github.com/izdiwho) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -78,6 +84,10 @@
 - 🌟 👤 [rosatiara](https://github.com/rosatiara) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [ryarmst](https://github.com/ryarmst)
+- 🌟 👤 [ryarmst](https://github.com/ryarmst) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [susie-umaru](https://github.com/susie-umaru)
 - 🌟 👤 [susie-umaru](https://github.com/susie-umaru) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
@@ -100,5 +110,5 @@
 
 
 ---
-*最后更新于 2025-10-17 15:42:19 UTC*
+*最后更新于 2025-10-17 16:28:34 UTC*
 *历史记录保存在 `archive` 目录中。*
