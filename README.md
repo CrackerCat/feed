@@ -24,6 +24,10 @@
 - 🌟 👤 [DaikonSushi](https://github.com/DaikonSushi) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [Liuxj-blue](https://github.com/Liuxj-blue)
+- 🌟 👤 [Liuxj-blue](https://github.com/Liuxj-blue) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
 - 🌟 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Starred [auven/pandazone](https://github.com/auven/pandazone)
   > 仿qq空间的说说、博客系统
@@ -46,6 +50,10 @@
 
 ### [SudoHopeX](https://github.com/SudoHopeX)
 - 🌟 👤 [SudoHopeX](https://github.com/SudoHopeX) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [TinkAnet](https://github.com/TinkAnet)
+- 🌟 👤 [TinkAnet](https://github.com/TinkAnet) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [algapanovich](https://github.com/algapanovich)
@@ -126,5 +134,5 @@
 
 
 ---
-*最后更新于 2025-10-17 18:30:45 UTC*
+*最后更新于 2025-10-17 19:17:52 UTC*
 *历史记录保存在 `archive` 目录中。*
