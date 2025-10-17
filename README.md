@@ -46,6 +46,10 @@
 - 🍴 👤 [exit1100](https://github.com/exit1100) Forked [exit1100/cai](https://github.com/exit1100/cai) to [exit1100/cai](https://github.com/exit1100/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [HexRaysSA/ida-cyberchef](https://github.com/HexRaysSA/ida-cyberchef)
+  > A Qt-based CyberChef interface designed for malware analysis workflows, particularly in IDA Pro
+
 ### [izdiwho](https://github.com/izdiwho)
 - 🌟 👤 [izdiwho](https://github.com/izdiwho) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -88,5 +92,5 @@
 
 
 ---
-*最后更新于 2025-10-17 12:49:19 UTC*
+*最后更新于 2025-10-17 13:31:10 UTC*
 *历史记录保存在 `archive` 目录中。*
