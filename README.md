@@ -52,10 +52,22 @@
 - 🌟 👤 [algapanovich](https://github.com/algapanovich) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [badbsally](https://github.com/badbsally)
+- 🌟 👤 [badbsally](https://github.com/badbsally) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [bngomez98](https://github.com/bngomez98)
+- 🌟 👤 [bngomez98](https://github.com/bngomez98) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [exit1100](https://github.com/exit1100)
 - 🌟 👤 [exit1100](https://github.com/exit1100) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 - 🍴 👤 [exit1100](https://github.com/exit1100) Forked [exit1100/cai](https://github.com/exit1100/cai) to [exit1100/cai](https://github.com/exit1100/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [fefortunato](https://github.com/fefortunato)
+- 🌟 👤 [fefortunato](https://github.com/fefortunato) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
@@ -114,5 +126,5 @@
 
 
 ---
-*最后更新于 2025-10-17 17:40:29 UTC*
+*最后更新于 2025-10-17 18:30:45 UTC*
 *历史记录保存在 `archive` 目录中。*
