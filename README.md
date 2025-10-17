@@ -20,6 +20,12 @@
 - 🌟 👤 [algapanovich](https://github.com/algapanovich) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [exit1100](https://github.com/exit1100)
+- 🌟 👤 [exit1100](https://github.com/exit1100) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+- 🍴 👤 [exit1100](https://github.com/exit1100) Forked [exit1100/cai](https://github.com/exit1100/cai) to [exit1100/cai](https://github.com/exit1100/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [izdiwho](https://github.com/izdiwho)
 - 🌟 👤 [izdiwho](https://github.com/izdiwho) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -44,11 +50,15 @@
 - 🌟 👤 [sweetoonion](https://github.com/sweetoonion) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [ztca](https://github.com/ztca)
+- 🌟 👤 [ztca](https://github.com/ztca) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [zyq16](https://github.com/zyq16)
 - 🌟 👤 [zyq16](https://github.com/zyq16) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
 
 ---
-*最后更新于 2025-10-17 08:31:34 UTC*
+*最后更新于 2025-10-17 09:25:34 UTC*
 *历史记录保存在 `archive` 目录中。*
