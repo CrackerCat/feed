@@ -12,6 +12,14 @@
 - 🌟 👤 [255SN](https://github.com/255SN) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
+### [CLiang4235](https://github.com/CLiang4235)
+- 🌟 👤 [CLiang4235](https://github.com/CLiang4235) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+### [Muhtasham](https://github.com/Muhtasham)
+- 🌟 👤 [Muhtasham](https://github.com/Muhtasham) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [Ooo0xffooO](https://github.com/Ooo0xffooO)
 - 🌟 👤 [Ooo0xffooO](https://github.com/Ooo0xffooO) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -58,6 +66,10 @@
 - 🌟 👤 [sweetoonion](https://github.com/sweetoonion) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [youfak](https://github.com/youfak)
+- 🍴 👤 [youfak](https://github.com/youfak) Forked [youfak/NPatch](https://github.com/youfak/NPatch) to [youfak/NPatch](https://github.com/youfak/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [ztca](https://github.com/ztca)
 - 🌟 👤 [ztca](https://github.com/ztca) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -68,5 +80,5 @@
 
 
 ---
-*最后更新于 2025-10-17 10:43:37 UTC*
+*最后更新于 2025-10-17 11:18:38 UTC*
 *历史记录保存在 `archive` 目录中。*
