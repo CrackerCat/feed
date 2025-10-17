@@ -56,6 +56,10 @@
 - 🌟 👤 [TinkAnet](https://github.com/TinkAnet) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [aajonaa](https://github.com/aajonaa)
+- 🌟 👤 [aajonaa](https://github.com/aajonaa) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 ### [algapanovich](https://github.com/algapanovich)
 - 🌟 👤 [algapanovich](https://github.com/algapanovich) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -134,5 +138,5 @@
 
 
 ---
-*最后更新于 2025-10-17 19:39:05 UTC*
+*最后更新于 2025-10-17 20:25:30 UTC*
 *历史记录保存在 `archive` 目录中。*
