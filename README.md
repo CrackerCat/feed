@@ -44,6 +44,10 @@
 - 🌟 👤 [luca12357](https://github.com/luca12357) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [moon2l](https://github.com/moon2l)
+- 🌟 👤 [moon2l](https://github.com/moon2l) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 ### [x3340804438](https://github.com/x3340804438)
 - 🌟 👤 [x3340804438](https://github.com/x3340804438) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -58,5 +62,5 @@
 
 
 ---
-*最后更新于 2025-10-18 12:42:12 UTC*
+*最后更新于 2025-10-18 13:25:13 UTC*
 *历史记录保存在 `archive` 目录中。*
