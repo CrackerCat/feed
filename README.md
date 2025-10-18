@@ -16,6 +16,14 @@
 - 🌟 👤 [Dongle-c](https://github.com/Dongle-c) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [FiorenMas](https://github.com/FiorenMas)
+- 🌟 👤 [FiorenMas](https://github.com/FiorenMas) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
+### [MDB4241](https://github.com/MDB4241)
+- 🌟 👤 [MDB4241](https://github.com/MDB4241) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [Manohar-coder05](https://github.com/Manohar-coder05)
 - 🌟 👤 [Manohar-coder05](https://github.com/Manohar-coder05) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -60,6 +68,10 @@
 - 🌟 👤 [jinjuncheng1](https://github.com/jinjuncheng1) Starred [jwpl190/WechatPCAPI](https://github.com/jwpl190/WechatPCAPI)
   > 微信PC版的API接口，可通过Python调用微信获取好友、群、公众号列表，并收发消息等功能。
 
+### [lokyliu](https://github.com/lokyliu)
+- 🌟 👤 [lokyliu](https://github.com/lokyliu) Starred [eastmountyxz/SystemSecurity-ReverseAnalysis](https://github.com/eastmountyxz/SystemSecurity-ReverseAnalysis)
+  > 该资源为系统安全和逆向分析实验，包括作者从零学习恶意代码分析、病毒逆向分析的工具及样本，基础性文章，希望对您有所帮助~
+
 ### [luca12357](https://github.com/luca12357)
 - 🌟 👤 [luca12357](https://github.com/luca12357) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -67,6 +79,10 @@
 ### [moon2l](https://github.com/moon2l)
 - 🌟 👤 [moon2l](https://github.com/moon2l) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+### [qianqi32](https://github.com/qianqi32)
+- 🌟 👤 [qianqi32](https://github.com/qianqi32) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
 ### [rajukani100](https://github.com/rajukani100)
 - 🌟 👤 [rajukani100](https://github.com/rajukani100) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -86,5 +102,5 @@
 
 
 ---
-*最后更新于 2025-10-18 15:38:36 UTC*
+*最后更新于 2025-10-18 16:26:02 UTC*
 *历史记录保存在 `archive` 目录中。*
