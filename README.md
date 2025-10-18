@@ -77,6 +77,14 @@
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [lifting-bits/patchestry](https://github.com/lifting-bits/patchestry)
   > Patchestry is a binary patching framework built with MLIR and Ghidra.
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [kthohr/optim](https://github.com/kthohr/optim)
+  > OptimLib: a lightweight C++ library of numerical optimization methods for nonlinear functions
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [hack-different/apple-knowledge](https://github.com/hack-different/apple-knowledge)
+  > A collection of reverse engineered Apple things, as well as a machine-readable database of Apple har...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [TorusHyperV/XboxGreenProject](https://github.com/TorusHyperV/XboxGreenProject)
+  > Here be dragons
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [sgpthomas/diospyros](https://github.com/sgpthomas/diospyros)
+  > Search-based compiler for high-performance DSP programming
 
 ### [integraloddity](https://github.com/integraloddity)
 - 🌟 👤 [integraloddity](https://github.com/integraloddity) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -122,6 +130,10 @@
 - 🌟 👤 [rajukani100](https://github.com/rajukani100) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [sult4n](https://github.com/sult4n)
+- 🌟 👤 [sult4n](https://github.com/sult4n) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [x3340804438](https://github.com/x3340804438)
 - 🌟 👤 [x3340804438](https://github.com/x3340804438) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -136,5 +148,5 @@
 
 
 ---
-*最后更新于 2025-10-18 22:40:08 UTC*
+*最后更新于 2025-10-18 23:19:49 UTC*
 *历史记录保存在 `archive` 目录中。*
