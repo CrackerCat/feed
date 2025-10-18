@@ -32,8 +32,20 @@
 - 🍴 👤 [anticomputer](https://github.com/anticomputer) Forked [anticomputer/trafilatura](https://github.com/anticomputer/trafilatura) to [anticomputer/trafilatura](https://github.com/anticomputer/trafilatura)
   > Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, o...
 
+### [cn0xroot](https://github.com/cn0xroot)
+- 🌟 👤 [cn0xroot](https://github.com/cn0xroot) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [ekajaya740](https://github.com/ekajaya740)
 - 🌟 👤 [ekajaya740](https://github.com/ekajaya740) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [lifting-bits/patchestry](https://github.com/lifting-bits/patchestry)
+  > Patchestry is a binary patching framework built with MLIR and Ghidra.
+
+### [integraloddity](https://github.com/integraloddity)
+- 🌟 👤 [integraloddity](https://github.com/integraloddity) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [jinjuncheng1](https://github.com/jinjuncheng1)
@@ -47,6 +59,10 @@
 ### [moon2l](https://github.com/moon2l)
 - 🌟 👤 [moon2l](https://github.com/moon2l) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+### [rajukani100](https://github.com/rajukani100)
+- 🌟 👤 [rajukani100](https://github.com/rajukani100) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [x3340804438](https://github.com/x3340804438)
 - 🌟 👤 [x3340804438](https://github.com/x3340804438) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
@@ -62,5 +78,5 @@
 
 
 ---
-*最后更新于 2025-10-18 13:39:33 UTC*
+*最后更新于 2025-10-18 14:18:50 UTC*
 *历史记录保存在 `archive` 目录中。*
