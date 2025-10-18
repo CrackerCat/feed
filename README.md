@@ -36,6 +36,10 @@
 - 🌟 👤 [Xiaoxi1185](https://github.com/Xiaoxi1185) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [abderahmanamarnis](https://github.com/abderahmanamarnis)
+- 🌟 👤 [abderahmanamarnis](https://github.com/abderahmanamarnis) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [anticomputer](https://github.com/anticomputer)
 - 🍴 👤 [anticomputer](https://github.com/anticomputer) Forked [anticomputer/trafilatura](https://github.com/anticomputer/trafilatura) to [anticomputer/trafilatura](https://github.com/anticomputer/trafilatura)
   > Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, o...
@@ -72,6 +76,10 @@
 - 🌟 👤 [integraloddity](https://github.com/integraloddity) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [jakko07](https://github.com/jakko07)
+- 🌟 👤 [jakko07](https://github.com/jakko07) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [jinjuncheng1](https://github.com/jinjuncheng1)
 - 🌟 👤 [jinjuncheng1](https://github.com/jinjuncheng1) Starred [jwpl190/WechatPCAPI](https://github.com/jwpl190/WechatPCAPI)
   > 微信PC版的API接口，可通过Python调用微信获取好友、群、公众号列表，并收发消息等功能。
@@ -83,6 +91,10 @@
 ### [luca12357](https://github.com/luca12357)
 - 🌟 👤 [luca12357](https://github.com/luca12357) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
+### [mohdhw34](https://github.com/mohdhw34)
+- 🌟 👤 [mohdhw34](https://github.com/mohdhw34) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [moon2l](https://github.com/moon2l)
 - 🌟 👤 [moon2l](https://github.com/moon2l) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
@@ -110,5 +122,5 @@
 
 
 ---
-*最后更新于 2025-10-18 19:38:36 UTC*
+*最后更新于 2025-10-18 20:23:00 UTC*
 *历史记录保存在 `archive` 目录中。*
