@@ -28,6 +28,12 @@
 - 🌟 👤 [Manohar-coder05](https://github.com/Manohar-coder05) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [Na9ib](https://github.com/Na9ib)
+- 🌟 👤 [Na9ib](https://github.com/Na9ib) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+- 🍴 👤 [Na9ib](https://github.com/Na9ib) Forked [Na9ib/Cybersecurity-AI-CAI-the-framework-for-AI-Security](https://github.com/Na9ib/Cybersecurity-AI-CAI-the-framework-for-AI-Security) to [Na9ib/Cybersecurity-AI-CAI-the-framework-for-AI-Security](https://github.com/Na9ib/Cybersecurity-AI-CAI-the-framework-for-AI-Security)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [Xh1Xxhg](https://github.com/Xh1Xxhg)
 - 🌟 👤 [Xh1Xxhg](https://github.com/Xh1Xxhg) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -130,5 +136,5 @@
 
 
 ---
-*最后更新于 2025-10-18 21:38:40 UTC*
+*最后更新于 2025-10-18 22:19:43 UTC*
 *历史记录保存在 `archive` 目录中。*
