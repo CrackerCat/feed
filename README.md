@@ -12,6 +12,10 @@
 - 🌟 👤 [BreezeConfirmingWms](https://github.com/BreezeConfirmingWms) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [Dongle-c](https://github.com/Dongle-c)
+- 🌟 👤 [Dongle-c](https://github.com/Dongle-c) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [Manohar-coder05](https://github.com/Manohar-coder05)
 - 🌟 👤 [Manohar-coder05](https://github.com/Manohar-coder05) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -32,6 +36,10 @@
 - 🌟 👤 [ekajaya740](https://github.com/ekajaya740) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [jinjuncheng1](https://github.com/jinjuncheng1)
+- 🌟 👤 [jinjuncheng1](https://github.com/jinjuncheng1) Starred [jwpl190/WechatPCAPI](https://github.com/jwpl190/WechatPCAPI)
+  > 微信PC版的API接口，可通过Python调用微信获取好友、群、公众号列表，并收发消息等功能。
+
 ### [luca12357](https://github.com/luca12357)
 - 🌟 👤 [luca12357](https://github.com/luca12357) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -44,7 +52,11 @@
 - 🌟 👤 [yashika-git](https://github.com/yashika-git) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [ymdzq](https://github.com/ymdzq)
+- 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [CircleCashTeam/magiskboot_build](https://github.com/CircleCashTeam/magiskboot_build)
+  > unofficial magiskboot build system (and port) targeting multi-platform (does not require NDK)
+
 
 ---
-*最后更新于 2025-10-18 11:39:04 UTC*
+*最后更新于 2025-10-18 12:42:12 UTC*
 *历史记录保存在 `archive` 目录中。*
