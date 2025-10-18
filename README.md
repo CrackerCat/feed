@@ -16,6 +16,10 @@
 - 🌟 👤 [Xh1Xxhg](https://github.com/Xh1Xxhg) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [Xiaoxi1185](https://github.com/Xiaoxi1185)
+- 🌟 👤 [Xiaoxi1185](https://github.com/Xiaoxi1185) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [anticomputer](https://github.com/anticomputer)
 - 🍴 👤 [anticomputer](https://github.com/anticomputer) Forked [anticomputer/trafilatura](https://github.com/anticomputer/trafilatura) to [anticomputer/trafilatura](https://github.com/anticomputer/trafilatura)
   > Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, o...
@@ -28,11 +32,15 @@
 - 🌟 👤 [luca12357](https://github.com/luca12357) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [x3340804438](https://github.com/x3340804438)
+- 🌟 👤 [x3340804438](https://github.com/x3340804438) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [yashika-git](https://github.com/yashika-git)
 - 🌟 👤 [yashika-git](https://github.com/yashika-git) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 
 ---
-*最后更新于 2025-10-18 09:39:03 UTC*
+*最后更新于 2025-10-18 10:21:38 UTC*
 *历史记录保存在 `archive` 目录中。*
