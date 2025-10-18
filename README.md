@@ -44,6 +44,10 @@
 - 🌟 👤 [aronpilcher9](https://github.com/aronpilcher9) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [aryan-rajoria](https://github.com/aryan-rajoria)
+- 🌟 👤 [aryan-rajoria](https://github.com/aryan-rajoria) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [changqiushan](https://github.com/changqiushan)
 - 🍴 👤 [changqiushan](https://github.com/changqiushan) Forked [changqiushan/flash-linux0.11-talk](https://github.com/changqiushan/flash-linux0.11-talk) to [changqiushan/flash-linux0.11-talk](https://github.com/changqiushan/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -106,5 +110,5 @@
 
 
 ---
-*最后更新于 2025-10-18 17:38:18 UTC*
+*最后更新于 2025-10-18 18:29:20 UTC*
 *历史记录保存在 `archive` 目录中。*
