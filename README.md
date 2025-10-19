@@ -8,6 +8,22 @@
 - 🌟 👤 [0xkhalz](https://github.com/0xkhalz) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [Abassam08](https://github.com/Abassam08)
+- 🌟 👤 [Abassam08](https://github.com/Abassam08) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [GGtascher](https://github.com/GGtascher)
+- 🌟 👤 [GGtascher](https://github.com/GGtascher) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [Isco24](https://github.com/Isco24)
+- 🌟 👤 [Isco24](https://github.com/Isco24) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [L1iith](https://github.com/L1iith)
+- 🌟 👤 [L1iith](https://github.com/L1iith) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [LeakorgX](https://github.com/LeakorgX)
 - 🌟 👤 [LeakorgX](https://github.com/LeakorgX) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -15,6 +31,8 @@
 ### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
 - 🍴 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Forked [Utility-Software-Collection/iStoreOS-Actions](https://github.com/Utility-Software-Collection/iStoreOS-Actions) to [Utility-Software-Collection/iStoreOS-Actions](https://github.com/Utility-Software-Collection/iStoreOS-Actions)
   > Support for iStoreOS in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2,...
+- 🌟 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Starred [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)
+  > Transparent Proxy with Mihomo on OpenWrt.
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [blacktop/aarch64-cssc](https://github.com/blacktop/aarch64-cssc)
@@ -46,5 +64,5 @@
 
 
 ---
-*最后更新于 2025-10-19 08:43:43 UTC*
+*最后更新于 2025-10-19 09:20:39 UTC*
 *历史记录保存在 `archive` 目录中。*
