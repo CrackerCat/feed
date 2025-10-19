@@ -44,6 +44,10 @@
 - 🍴 👤 [Violetta147](https://github.com/Violetta147) Forked [Violetta147/cai](https://github.com/Violetta147/cai) to [Violetta147/cai](https://github.com/Violetta147/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [jeelmakani](https://github.com/jeelmakani)
+- 🌟 👤 [jeelmakani](https://github.com/jeelmakani) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [pkure](https://github.com/pkure)
 - 🌟 👤 [pkure](https://github.com/pkure) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -62,5 +66,5 @@
 
 
 ---
-*最后更新于 2025-10-19 20:40:49 UTC*
+*最后更新于 2025-10-19 21:18:59 UTC*
 *历史记录保存在 `archive` 目录中。*
