@@ -20,6 +20,10 @@
 - 🌟 👤 [Isco24](https://github.com/Isco24) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [KaledKelevra](https://github.com/KaledKelevra)
+- 🌟 👤 [KaledKelevra](https://github.com/KaledKelevra) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [L1iith](https://github.com/L1iith)
 - 🌟 👤 [L1iith](https://github.com/L1iith) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -33,6 +37,10 @@
   > Support for iStoreOS in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2,...
 - 🌟 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Starred [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)
   > Transparent Proxy with Mihomo on OpenWrt.
+
+### [abdullah-bl](https://github.com/abdullah-bl)
+- 🌟 👤 [abdullah-bl](https://github.com/abdullah-bl) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [edsa9](https://github.com/edsa9)
 - 🌟 👤 [edsa9](https://github.com/edsa9) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -48,6 +56,10 @@
 
 ### [import-mel](https://github.com/import-mel)
 - 🌟 👤 [import-mel](https://github.com/import-mel) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [ixotv](https://github.com/ixotv)
+- 🌟 👤 [ixotv](https://github.com/ixotv) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [kingstar788](https://github.com/kingstar788)
@@ -78,5 +90,5 @@
 
 
 ---
-*最后更新于 2025-10-19 11:38:54 UTC*
+*最后更新于 2025-10-19 12:42:11 UTC*
 *历史记录保存在 `archive` 目录中。*
