@@ -8,7 +8,11 @@
 - 🌟 👤 [3101816498](https://github.com/3101816498) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [xFerZx](https://github.com/xFerZx)
+- 🌟 👤 [xFerZx](https://github.com/xFerZx) Starred [vova7878-modules/PMPatch](https://github.com/vova7878-modules/PMPatch)
+  > Disable signature verification for Android
+
 
 ---
-*最后更新于 2025-10-19 14:18:44 UTC*
+*最后更新于 2025-10-19 14:39:50 UTC*
 *历史记录保存在 `archive` 目录中。*
