@@ -40,11 +40,15 @@
 - 🍴 👤 [Violetta147](https://github.com/Violetta147) Forked [Violetta147/cai](https://github.com/Violetta147/cai) to [Violetta147/cai](https://github.com/Violetta147/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [pkure](https://github.com/pkure)
+- 🌟 👤 [pkure](https://github.com/pkure) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [xFerZx](https://github.com/xFerZx)
 - 🌟 👤 [xFerZx](https://github.com/xFerZx) Starred [vova7878-modules/PMPatch](https://github.com/vova7878-modules/PMPatch)
   > Disable signature verification for Android
 
 
 ---
-*最后更新于 2025-10-19 17:38:43 UTC*
+*最后更新于 2025-10-19 18:29:48 UTC*
 *历史记录保存在 `archive` 目录中。*
