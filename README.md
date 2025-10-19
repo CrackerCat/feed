@@ -58,11 +58,15 @@
 - 🌟 👤 [leandro-elias-fontes](https://github.com/leandro-elias-fontes) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [nclv](https://github.com/nclv)
+- 🌟 👤 [nclv](https://github.com/nclv) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [xBnDr](https://github.com/xBnDr)
 - 🌟 👤 [xBnDr](https://github.com/xBnDr) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 
 ---
-*最后更新于 2025-10-19 09:20:39 UTC*
+*最后更新于 2025-10-19 09:38:44 UTC*
 *历史记录保存在 `archive` 目录中。*
