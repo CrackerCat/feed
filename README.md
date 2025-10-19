@@ -8,8 +8,16 @@
 - 🌟 👤 [3101816498](https://github.com/3101816498) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [Haduckientechnology17092005](https://github.com/Haduckientechnology17092005)
+- 🌟 👤 [Haduckientechnology17092005](https://github.com/Haduckientechnology17092005) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [Mikroyem](https://github.com/Mikroyem)
 - 🌟 👤 [Mikroyem](https://github.com/Mikroyem) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [Violetta147](https://github.com/Violetta147)
+- 🍴 👤 [Violetta147](https://github.com/Violetta147) Forked [Violetta147/cai](https://github.com/Violetta147/cai) to [Violetta147/cai](https://github.com/Violetta147/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [xFerZx](https://github.com/xFerZx)
@@ -18,5 +26,5 @@
 
 
 ---
-*最后更新于 2025-10-19 15:38:41 UTC*
+*最后更新于 2025-10-19 16:25:51 UTC*
 *历史记录保存在 `archive` 目录中。*
