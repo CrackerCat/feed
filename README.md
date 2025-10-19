@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [LeakorgX](https://github.com/LeakorgX)
+- 🌟 👤 [LeakorgX](https://github.com/LeakorgX) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [import-mel](https://github.com/import-mel)
 - 🌟 👤 [import-mel](https://github.com/import-mel) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -22,5 +26,5 @@
 
 
 ---
-*最后更新于 2025-10-19 04:31:05 UTC*
+*最后更新于 2025-10-19 05:22:06 UTC*
 *历史记录保存在 `archive` 目录中。*
