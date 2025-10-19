@@ -34,6 +34,10 @@
 - 🌟 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Starred [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)
   > Transparent Proxy with Mihomo on OpenWrt.
 
+### [edsa9](https://github.com/edsa9)
+- 🌟 👤 [edsa9](https://github.com/edsa9) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [blacktop/aarch64-cssc](https://github.com/blacktop/aarch64-cssc)
   > AArch64 FEAT_CSSC support for IDA Pro (disassembler/Hex-Rays) and Ghidra
@@ -66,7 +70,13 @@
 - 🌟 👤 [xBnDr](https://github.com/xBnDr) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [y11en](https://github.com/y11en)
+- 🌟 👤 [y11en](https://github.com/y11en) Starred [VoldeSec/PatchlessCLRLoader](https://github.com/VoldeSec/PatchlessCLRLoader)
+  > .NET assembly loader with patchless AMSI and ETW bypass
+- 🍴 👤 [y11en](https://github.com/y11en) Forked [y11en/PatchlessCLRLoader](https://github.com/y11en/PatchlessCLRLoader) to [y11en/PatchlessCLRLoader](https://github.com/y11en/PatchlessCLRLoader)
+  > .NET assembly loader with patchless AMSI and ETW bypass
+
 
 ---
-*最后更新于 2025-10-19 10:40:50 UTC*
+*最后更新于 2025-10-19 11:16:55 UTC*
 *历史记录保存在 `archive` 目录中。*
