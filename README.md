@@ -8,12 +8,20 @@
 - 🌟 👤 [3101816498](https://github.com/3101816498) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [9qwr](https://github.com/9qwr)
+- 🌟 👤 [9qwr](https://github.com/9qwr) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [HE460](https://github.com/HE460)
 - 🌟 👤 [HE460](https://github.com/HE460) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
 ### [Haduckientechnology17092005](https://github.com/Haduckientechnology17092005)
 - 🌟 👤 [Haduckientechnology17092005](https://github.com/Haduckientechnology17092005) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [Marky3012](https://github.com/Marky3012)
+- 🌟 👤 [Marky3012](https://github.com/Marky3012) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [Mikroyem](https://github.com/Mikroyem)
@@ -34,5 +42,5 @@
 
 
 ---
-*最后更新于 2025-10-19 16:43:46 UTC*
+*最后更新于 2025-10-19 17:18:02 UTC*
 *历史记录保存在 `archive` 目录中。*
