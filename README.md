@@ -74,13 +74,25 @@
 - 🌟 👤 [leandro-elias-fontes](https://github.com/leandro-elias-fontes) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [lichen-brain](https://github.com/lichen-brain)
+- 🌟 👤 [lichen-brain](https://github.com/lichen-brain) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 ### [nclv](https://github.com/nclv)
 - 🌟 👤 [nclv](https://github.com/nclv) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [renehonig](https://github.com/renehonig)
+- 🌟 👤 [renehonig](https://github.com/renehonig) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [xBnDr](https://github.com/xBnDr)
 - 🌟 👤 [xBnDr](https://github.com/xBnDr) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
+
+### [xiaomu18](https://github.com/xiaomu18)
+- 🌟 👤 [xiaomu18](https://github.com/xiaomu18) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
 ### [y11en](https://github.com/y11en)
 - 🌟 👤 [y11en](https://github.com/y11en) Starred [VoldeSec/PatchlessCLRLoader](https://github.com/VoldeSec/PatchlessCLRLoader)
@@ -90,5 +102,5 @@
 
 
 ---
-*最后更新于 2025-10-19 12:42:11 UTC*
+*最后更新于 2025-10-19 13:25:42 UTC*
 *历史记录保存在 `archive` 目录中。*
