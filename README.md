@@ -24,6 +24,10 @@
 - 🌟 👤 [Haduckientechnology17092005](https://github.com/Haduckientechnology17092005) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [Jason25841](https://github.com/Jason25841)
+- 🌟 👤 [Jason25841](https://github.com/Jason25841) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [Marky3012](https://github.com/Marky3012)
 - 🌟 👤 [Marky3012](https://github.com/Marky3012) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -44,11 +48,15 @@
 - 🌟 👤 [pkure](https://github.com/pkure) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [teeol](https://github.com/teeol)
+- 🌟 👤 [teeol](https://github.com/teeol) Starred [vova7878-modules/PMPatch](https://github.com/vova7878-modules/PMPatch)
+  > Disable signature verification for Android
+
 ### [xFerZx](https://github.com/xFerZx)
 - 🌟 👤 [xFerZx](https://github.com/xFerZx) Starred [vova7878-modules/PMPatch](https://github.com/vova7878-modules/PMPatch)
   > Disable signature verification for Android
 
 
 ---
-*最后更新于 2025-10-19 18:46:57 UTC*
+*最后更新于 2025-10-19 19:16:53 UTC*
 *历史记录保存在 `archive` 目录中。*
