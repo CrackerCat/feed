@@ -56,6 +56,10 @@
 - 🌟 👤 [devilkun](https://github.com/devilkun) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [dr-ke](https://github.com/dr-ke)
+- 🌟 👤 [dr-ke](https://github.com/dr-ke) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [dyetto](https://github.com/dyetto)
 - 🍴 👤 [dyetto](https://github.com/dyetto) Forked [dyetto/cai](https://github.com/dyetto/cai) to [dyetto/cai](https://github.com/dyetto/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -86,5 +90,5 @@
 
 
 ---
-*最后更新于 2025-10-20 13:32:48 UTC*
+*最后更新于 2025-10-20 14:23:02 UTC*
 *历史记录保存在 `archive` 目录中。*
