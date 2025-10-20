@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [49Simon](https://github.com/49Simon)
+- 🌟 👤 [49Simon](https://github.com/49Simon) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+- 🍴 👤 [49Simon](https://github.com/49Simon) Forked [49Simon/cai](https://github.com/49Simon/cai) to [49Simon/cai](https://github.com/49Simon/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [BSeany](https://github.com/BSeany)
 - 🌟 👤 [BSeany](https://github.com/BSeany) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -33,6 +39,10 @@
 ### [T0bs3l](https://github.com/T0bs3l)
 - 🌟 👤 [T0bs3l](https://github.com/T0bs3l) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
+
+### [XiaoTong6666](https://github.com/XiaoTong6666)
+- 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
 ### [aalhommada](https://github.com/aalhommada)
 - 🌟 👤 [aalhommada](https://github.com/aalhommada) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -116,5 +126,5 @@
 
 
 ---
-*最后更新于 2025-10-20 17:41:53 UTC*
+*最后更新于 2025-10-20 18:35:23 UTC*
 *历史记录保存在 `archive` 目录中。*
