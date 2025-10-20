@@ -12,7 +12,15 @@
 - 🌟 👤 [devilkun](https://github.com/devilkun) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [manggu](https://github.com/manggu)
+- 🌟 👤 [manggu](https://github.com/manggu) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+### [wings098](https://github.com/wings098)
+- 🌟 👤 [wings098](https://github.com/wings098) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 
 ---
-*最后更新于 2025-10-20 03:20:05 UTC*
+*最后更新于 2025-10-20 03:59:31 UTC*
 *历史记录保存在 `archive` 目录中。*
