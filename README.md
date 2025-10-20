@@ -56,6 +56,10 @@
 - 🍴 👤 [danielsanchezprieto01](https://github.com/danielsanchezprieto01) Forked [danielsanchezprieto01/cai](https://github.com/danielsanchezprieto01/cai) to [danielsanchezprieto01/cai](https://github.com/danielsanchezprieto01/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [daxiaamu](https://github.com/daxiaamu)
+- 🌟 👤 [daxiaamu](https://github.com/daxiaamu) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [degnk](https://github.com/degnk)
 - 🌟 👤 [degnk](https://github.com/degnk) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -92,6 +96,12 @@
 - 🌟 👤 [userDaziR](https://github.com/userDaziR) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
+### [weidong-zhu](https://github.com/weidong-zhu)
+- 🌟 👤 [weidong-zhu](https://github.com/weidong-zhu) Starred [aliasrobotics/RVD](https://github.com/aliasrobotics/RVD)
+  > Robot Vulnerability Database. An archive of robot vulnerabilities and bugs.
+- 🍴 👤 [weidong-zhu](https://github.com/weidong-zhu) Forked [weidong-zhu/RVD](https://github.com/weidong-zhu/RVD) to [weidong-zhu/RVD](https://github.com/weidong-zhu/RVD)
+  > Robot Vulnerability Database. An archive of robot vulnerabilities and bugs.
+
 ### [wings098](https://github.com/wings098)
 - 🌟 👤 [wings098](https://github.com/wings098) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -106,5 +116,5 @@
 
 
 ---
-*最后更新于 2025-10-20 16:49:32 UTC*
+*最后更新于 2025-10-20 17:20:13 UTC*
 *历史记录保存在 `archive` 目录中。*
