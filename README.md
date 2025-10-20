@@ -116,6 +116,10 @@
 - 🍴 👤 [weidong-zhu](https://github.com/weidong-zhu) Forked [weidong-zhu/RVD](https://github.com/weidong-zhu/RVD) to [weidong-zhu/RVD](https://github.com/weidong-zhu/RVD)
   > Robot Vulnerability Database. An archive of robot vulnerabilities and bugs.
 
+### [wildaces215](https://github.com/wildaces215)
+- 🌟 👤 [wildaces215](https://github.com/wildaces215) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [wings098](https://github.com/wings098)
 - 🌟 👤 [wings098](https://github.com/wings098) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -130,5 +134,5 @@
 
 
 ---
-*最后更新于 2025-10-20 21:21:13 UTC*
+*最后更新于 2025-10-20 21:40:21 UTC*
 *历史记录保存在 `archive` 目录中。*
