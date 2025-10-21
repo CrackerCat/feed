@@ -82,6 +82,8 @@
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [lsrcz/grisette](https://github.com/lsrcz/grisette)
+  > A monadic library for symbolic evaluation
 
 ### [fxcksh](https://github.com/fxcksh)
 - 🌟 👤 [fxcksh](https://github.com/fxcksh) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -145,5 +147,5 @@
 
 
 ---
-*最后更新于 2025-10-21 16:30:05 UTC*
+*最后更新于 2025-10-21 16:49:14 UTC*
 *历史记录保存在 `archive` 目录中。*
