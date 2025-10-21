@@ -8,6 +8,10 @@
 - 🌟 👤 [AlexanderZhanxiake](https://github.com/AlexanderZhanxiake) Starred [eastmountyxz/SystemSecurity-ReverseAnalysis](https://github.com/eastmountyxz/SystemSecurity-ReverseAnalysis)
   > 该资源为系统安全和逆向分析实验，包括作者从零学习恶意代码分析、病毒逆向分析的工具及样本，基础性文章，希望对您有所帮助~
 
+### [AndreyRainchik](https://github.com/AndreyRainchik)
+- 🌟 👤 [AndreyRainchik](https://github.com/AndreyRainchik) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [fxcksh](https://github.com/fxcksh)
 - 🌟 👤 [fxcksh](https://github.com/fxcksh) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -30,5 +34,5 @@
 
 
 ---
-*最后更新于 2025-10-21 05:22:30 UTC*
+*最后更新于 2025-10-21 05:42:01 UTC*
 *历史记录保存在 `archive` 目录中。*
