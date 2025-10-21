@@ -72,10 +72,6 @@
 - 🌟 👤 [chandan6](https://github.com/chandan6) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
-### [cooper3650](https://github.com/cooper3650)
-- 🌟 👤 [cooper3650](https://github.com/cooper3650) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
-  > Cybersecurity AI (CAI), the framework for AI Security
-
 ### [deerlove-lxq](https://github.com/deerlove-lxq)
 - 🌟 👤 [deerlove-lxq](https://github.com/deerlove-lxq) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -159,5 +155,5 @@
 
 
 ---
-*最后更新于 2025-10-21 20:27:08 UTC*
+*最后更新于 2025-10-21 20:45:01 UTC*
 *历史记录保存在 `archive` 目录中。*
