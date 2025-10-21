@@ -24,6 +24,10 @@
 - 🌟 👤 [ShakeelPK](https://github.com/ShakeelPK) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [aamalco](https://github.com/aamalco)
+- 🌟 👤 [aamalco](https://github.com/aamalco) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [auto-water](https://github.com/auto-water)
 - 🌟 👤 [auto-water](https://github.com/auto-water) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -56,6 +60,10 @@
 - 🌟 👤 [proact1ve](https://github.com/proact1ve) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [replace6](https://github.com/replace6)
+- 🌟 👤 [replace6](https://github.com/replace6) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 ### [useada](https://github.com/useada)
 - 🌟 👤 [useada](https://github.com/useada) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -70,5 +78,5 @@
 
 
 ---
-*最后更新于 2025-10-21 09:44:17 UTC*
+*最后更新于 2025-10-21 10:25:30 UTC*
 *历史记录保存在 `archive` 目录中。*
