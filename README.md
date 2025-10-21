@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [5p1n6a11](https://github.com/5p1n6a11)
+- 🌟 👤 [5p1n6a11](https://github.com/5p1n6a11) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [Aaronjwork](https://github.com/Aaronjwork)
+- 🌟 👤 [Aaronjwork](https://github.com/Aaronjwork) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [AhmedKElshahed](https://github.com/AhmedKElshahed)
 - 🌟 👤 [AhmedKElshahed](https://github.com/AhmedKElshahed) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -151,5 +159,5 @@
 
 
 ---
-*最后更新于 2025-10-21 19:40:01 UTC*
+*最后更新于 2025-10-21 20:27:08 UTC*
 *历史记录保存在 `archive` 目录中。*
