@@ -24,7 +24,11 @@
 - 🌟 👤 [yel-hadd](https://github.com/yel-hadd) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [yoo07](https://github.com/yoo07)
+- 🌟 👤 [yoo07](https://github.com/yoo07) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 
 ---
-*最后更新于 2025-10-21 03:50:51 UTC*
+*最后更新于 2025-10-21 04:27:38 UTC*
 *历史记录保存在 `archive` 目录中。*
