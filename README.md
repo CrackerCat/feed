@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Annalia321](https://github.com/Annalia321)
+- 🌟 👤 [Annalia321](https://github.com/Annalia321) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 ### [Cabelis](https://github.com/Cabelis)
 - 🌟 👤 [Cabelis](https://github.com/Cabelis) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -19,6 +23,10 @@
 ### [ClydeTN](https://github.com/ClydeTN)
 - 🌟 👤 [ClydeTN](https://github.com/ClydeTN) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
+
+### [Gian1010-lucky](https://github.com/Gian1010-lucky)
+- 🌟 👤 [Gian1010-lucky](https://github.com/Gian1010-lucky) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
 ### [HLing27](https://github.com/HLing27)
 - 🌟 👤 [HLing27](https://github.com/HLing27) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
@@ -55,6 +63,8 @@
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [HexHive/Sourcerer](https://github.com/HexHive/Sourcerer)
   > Channeling the void
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [jaehyungkim0/CRT-FHE](https://github.com/jaehyungkim0/CRT-FHE)
+  > Proof-of-concept implementation for the paper "Homomorphic Encryption for Large Integers from Nested...
 
 ### [gogogoghost](https://github.com/gogogoghost)
 - 🌟 👤 [gogogoghost](https://github.com/gogogoghost) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
@@ -86,7 +96,11 @@
 - 🍴 👤 [yuri-alias](https://github.com/yuri-alias) Forked [yuri-alias/cai](https://github.com/yuri-alias/cai) to [yuri-alias/cai](https://github.com/yuri-alias/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [zhao-jingyan](https://github.com/zhao-jingyan)
+- 🌟 👤 [zhao-jingyan](https://github.com/zhao-jingyan) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 
 ---
-*最后更新于 2025-10-22 11:40:23 UTC*
+*最后更新于 2025-10-22 12:52:01 UTC*
 *历史记录保存在 `archive` 目录中。*
