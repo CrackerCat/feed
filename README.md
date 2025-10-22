@@ -16,6 +16,10 @@
 - 🌟 👤 [ST-2](https://github.com/ST-2) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [aooiuu](https://github.com/aooiuu)
+- 🌟 👤 [aooiuu](https://github.com/aooiuu) Starred [lugg/react-native-config](https://github.com/lugg/react-native-config)
+  > Bring some 12 factor love to your mobile apps!
+
 ### [bbBOZ](https://github.com/bbBOZ)
 - 🌟 👤 [bbBOZ](https://github.com/bbBOZ) Starred [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses)
   > 名校公开课程评价网
@@ -48,5 +52,5 @@
 
 
 ---
-*最后更新于 2025-10-22 04:28:39 UTC*
+*最后更新于 2025-10-22 04:47:04 UTC*
 *历史记录保存在 `archive` 目录中。*
