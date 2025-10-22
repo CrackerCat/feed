@@ -65,6 +65,8 @@
   > Channeling the void
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [jaehyungkim0/CRT-FHE](https://github.com/jaehyungkim0/CRT-FHE)
   > Proof-of-concept implementation for the paper "Homomorphic Encryption for Large Integers from Nested...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [EC-DIGIT-CSIRC/sysdiagnose](https://github.com/EC-DIGIT-CSIRC/sysdiagnose)
+  > Forensic toolkit for iOS sysdiagnose feature
 
 ### [gogogoghost](https://github.com/gogogoghost)
 - 🌟 👤 [gogogoghost](https://github.com/gogogoghost) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
@@ -72,6 +74,10 @@
 
 ### [leiherman](https://github.com/leiherman)
 - 🌟 👤 [leiherman](https://github.com/leiherman) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [omer-repo](https://github.com/omer-repo)
+- 🌟 👤 [omer-repo](https://github.com/omer-repo) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [smiling11123](https://github.com/smiling11123)
@@ -102,5 +108,5 @@
 
 
 ---
-*最后更新于 2025-10-22 12:52:01 UTC*
+*最后更新于 2025-10-22 13:35:52 UTC*
 *历史记录保存在 `archive` 目录中。*
