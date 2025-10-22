@@ -70,7 +70,11 @@
 - 🍴 👤 [wangqier666-alt](https://github.com/wangqier666-alt) Forked [wangqier666-alt/comments-for-awesome-courses](https://github.com/wangqier666-alt/comments-for-awesome-courses) to [wangqier666-alt/comments-for-awesome-courses](https://github.com/wangqier666-alt/comments-for-awesome-courses)
   > 名校公开课程评价网
 
+### [yuri-alias](https://github.com/yuri-alias)
+- 🍴 👤 [yuri-alias](https://github.com/yuri-alias) Forked [yuri-alias/cai](https://github.com/yuri-alias/cai) to [yuri-alias/cai](https://github.com/yuri-alias/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 
 ---
-*最后更新于 2025-10-22 07:23:08 UTC*
+*最后更新于 2025-10-22 07:41:26 UTC*
 *历史记录保存在 `archive` 目录中。*
