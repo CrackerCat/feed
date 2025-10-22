@@ -56,6 +56,10 @@
 - 🍴 👤 [betmendlx](https://github.com/betmendlx) Forked [betmendlx/cai](https://github.com/betmendlx/cai) to [betmendlx/cai](https://github.com/betmendlx/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [burakcanbalta](https://github.com/burakcanbalta)
+- 🌟 👤 [burakcanbalta](https://github.com/burakcanbalta) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [chenvista](https://github.com/chenvista)
 - 🌟 👤 [chenvista](https://github.com/chenvista) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -143,5 +147,5 @@
 
 
 ---
-*最后更新于 2025-10-22 19:17:31 UTC*
+*最后更新于 2025-10-22 19:39:56 UTC*
 *历史记录保存在 `archive` 目录中。*
