@@ -83,6 +83,8 @@
   > Proof-of-concept implementation for the paper "Homomorphic Encryption for Large Integers from Nested...
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [EC-DIGIT-CSIRC/sysdiagnose](https://github.com/EC-DIGIT-CSIRC/sysdiagnose)
   > Forensic toolkit for iOS sysdiagnose feature
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide)
+  > Hiding kernel-driver for x86/x64.
 
 ### [gogogoghost](https://github.com/gogogoghost)
 - 🌟 👤 [gogogoghost](https://github.com/gogogoghost) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
@@ -147,5 +149,5 @@
 
 
 ---
-*最后更新于 2025-10-22 20:27:18 UTC*
+*最后更新于 2025-10-22 20:42:25 UTC*
 *历史记录保存在 `archive` 目录中。*
