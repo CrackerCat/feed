@@ -8,6 +8,14 @@
 - 🌟 👤 [Cabelis](https://github.com/Cabelis) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [CharlotteLiu223](https://github.com/CharlotteLiu223)
+- 🌟 👤 [CharlotteLiu223](https://github.com/CharlotteLiu223) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+### [ClockworkBoat](https://github.com/ClockworkBoat)
+- 🌟 👤 [ClockworkBoat](https://github.com/ClockworkBoat) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 ### [HLing27](https://github.com/HLing27)
 - 🌟 👤 [HLing27](https://github.com/HLing27) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
@@ -40,9 +48,17 @@
 - 🌟 👤 [drx1000g](https://github.com/drx1000g) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [HexHive/Sourcerer](https://github.com/HexHive/Sourcerer)
+  > Channeling the void
+
 ### [gogogoghost](https://github.com/gogogoghost)
 - 🌟 👤 [gogogoghost](https://github.com/gogogoghost) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
+### [smiling11123](https://github.com/smiling11123)
+- 🌟 👤 [smiling11123](https://github.com/smiling11123) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
 ### [tadeucbm](https://github.com/tadeucbm)
 - 🌟 👤 [tadeucbm](https://github.com/tadeucbm) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -56,5 +72,5 @@
 
 
 ---
-*最后更新于 2025-10-22 06:35:49 UTC*
+*最后更新于 2025-10-22 07:23:08 UTC*
 *历史记录保存在 `archive` 目录中。*
