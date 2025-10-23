@@ -68,6 +68,10 @@
 - 🌟 👤 [jimdi](https://github.com/jimdi) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [jinghengLi](https://github.com/jinghengLi)
+- 🌟 👤 [jinghengLi](https://github.com/jinghengLi) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 ### [lucasfelz](https://github.com/lucasfelz)
 - 🌟 👤 [lucasfelz](https://github.com/lucasfelz) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -124,5 +128,5 @@
 
 
 ---
-*最后更新于 2025-10-23 19:19:02 UTC*
+*最后更新于 2025-10-23 19:39:52 UTC*
 *历史记录保存在 `archive` 目录中。*
