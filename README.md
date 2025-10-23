@@ -8,6 +8,10 @@
 - 🍴 👤 [AllreadyTaken](https://github.com/AllreadyTaken) Forked [AllreadyTaken/cai](https://github.com/AllreadyTaken/cai) to [AllreadyTaken/cai](https://github.com/AllreadyTaken/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [Eventidec](https://github.com/Eventidec)
+- 🌟 👤 [Eventidec](https://github.com/Eventidec) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [Hnisec](https://github.com/Hnisec)
 - 🌟 👤 [Hnisec](https://github.com/Hnisec) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -18,6 +22,10 @@
 
 ### [MohamedRaslan](https://github.com/MohamedRaslan)
 - 🌟 👤 [MohamedRaslan](https://github.com/MohamedRaslan) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [Rabbit0007](https://github.com/Rabbit0007)
+- 🌟 👤 [Rabbit0007](https://github.com/Rabbit0007) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [Ran24705](https://github.com/Ran24705)
@@ -32,8 +40,20 @@
 - 🌟 👤 [cmndcntrlcyber](https://github.com/cmndcntrlcyber) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [owasp-dep-scan/blint](https://github.com/owasp-dep-scan/blint)
+  > BLint is a Binary Linter to check the security properties, and capabilities in your executables. Sin...
+
+### [jimdi](https://github.com/jimdi)
+- 🌟 👤 [jimdi](https://github.com/jimdi) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [lucasfelz](https://github.com/lucasfelz)
 - 🌟 👤 [lucasfelz](https://github.com/lucasfelz) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [mqrious](https://github.com/mqrious)
+- 🌟 👤 [mqrious](https://github.com/mqrious) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [rrubush](https://github.com/rrubush)
@@ -62,6 +82,10 @@
 - 🌟 👤 [yamazaki1412](https://github.com/yamazaki1412) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [yuchuan520](https://github.com/yuchuan520)
+- 🌟 👤 [yuchuan520](https://github.com/yuchuan520) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+
 ### [yumi-river](https://github.com/yumi-river)
 - 🌟 👤 [yumi-river](https://github.com/yumi-river) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
@@ -72,5 +96,5 @@
 
 
 ---
-*最后更新于 2025-10-23 11:39:46 UTC*
+*最后更新于 2025-10-23 12:51:29 UTC*
 *历史记录保存在 `archive` 目录中。*
