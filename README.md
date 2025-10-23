@@ -12,6 +12,10 @@
 - 🌟 👤 [andrebaumgartfht](https://github.com/andrebaumgartfht) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [tatakya](https://github.com/tatakya)
+- 🌟 👤 [tatakya](https://github.com/tatakya) Starred [madawei2699/notion-sites](https://github.com/madawei2699/notion-sites)
+  > 发掘Notion好站
+
 ### [xiaozhengrong3-collab](https://github.com/xiaozhengrong3-collab)
 - 🌟 👤 [xiaozhengrong3-collab](https://github.com/xiaozhengrong3-collab) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -26,5 +30,5 @@
 
 
 ---
-*最后更新于 2025-10-23 03:50:43 UTC*
+*最后更新于 2025-10-23 04:27:29 UTC*
 *历史记录保存在 `archive` 目录中。*
