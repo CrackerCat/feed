@@ -94,6 +94,10 @@
 - 🌟 👤 [mqrious](https://github.com/mqrious) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [rasta-mouse](https://github.com/rasta-mouse)
+- 🌟 👤 [rasta-mouse](https://github.com/rasta-mouse) Starred [bytewreck/DumpGuard](https://github.com/bytewreck/DumpGuard)
+  > Proof-of-Concept tool for extracting NTLMv1 hashes from sessions on modern Windows systems.
+
 ### [rrubush](https://github.com/rrubush)
 - 🌟 👤 [rrubush](https://github.com/rrubush) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -138,5 +142,5 @@
 
 
 ---
-*最后更新于 2025-10-23 20:25:19 UTC*
+*最后更新于 2025-10-23 20:42:22 UTC*
 *历史记录保存在 `archive` 目录中。*
