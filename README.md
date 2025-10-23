@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [00xNetrunner](https://github.com/00xNetrunner)
+- 🌟 👤 [00xNetrunner](https://github.com/00xNetrunner) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [13023665650](https://github.com/13023665650)
 - 🌟 👤 [13023665650](https://github.com/13023665650) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
@@ -14,6 +18,12 @@
 
 ### [AllreadyTaken](https://github.com/AllreadyTaken)
 - 🍴 👤 [AllreadyTaken](https://github.com/AllreadyTaken) Forked [AllreadyTaken/cai](https://github.com/AllreadyTaken/cai) to [AllreadyTaken/cai](https://github.com/AllreadyTaken/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [DevilCoders](https://github.com/DevilCoders)
+- 🌟 👤 [DevilCoders](https://github.com/DevilCoders) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+- 🍴 👤 [DevilCoders](https://github.com/DevilCoders) Forked [DevilCoders/cai](https://github.com/DevilCoders/cai) to [DevilCoders/cai](https://github.com/DevilCoders/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [Eventidec](https://github.com/Eventidec)
@@ -128,5 +138,5 @@
 
 
 ---
-*最后更新于 2025-10-23 19:39:52 UTC*
+*最后更新于 2025-10-23 20:25:19 UTC*
 *历史记录保存在 `archive` 目录中。*
