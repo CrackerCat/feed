@@ -44,6 +44,10 @@
 - 🌟 👤 [andrebaumgartfht](https://github.com/andrebaumgartfht) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [bmbferreira](https://github.com/bmbferreira)
+- 🌟 👤 [bmbferreira](https://github.com/bmbferreira) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [cmndcntrlcyber](https://github.com/cmndcntrlcyber)
 - 🌟 👤 [cmndcntrlcyber](https://github.com/cmndcntrlcyber) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -112,5 +116,5 @@
 
 
 ---
-*最后更新于 2025-10-23 15:41:31 UTC*
+*最后更新于 2025-10-23 16:30:04 UTC*
 *历史记录保存在 `archive` 目录中。*
