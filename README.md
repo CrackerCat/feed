@@ -8,12 +8,20 @@
 - 🌟 👤 [Hnisec](https://github.com/Hnisec) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [Lukafin](https://github.com/Lukafin)
+- 🌟 👤 [Lukafin](https://github.com/Lukafin) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [andrebaumgartfht](https://github.com/andrebaumgartfht)
 - 🌟 👤 [andrebaumgartfht](https://github.com/andrebaumgartfht) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [cmndcntrlcyber](https://github.com/cmndcntrlcyber)
 - 🌟 👤 [cmndcntrlcyber](https://github.com/cmndcntrlcyber) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [lucasfelz](https://github.com/lucasfelz)
+- 🌟 👤 [lucasfelz](https://github.com/lucasfelz) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [tatakya](https://github.com/tatakya)
@@ -44,5 +52,5 @@
 
 
 ---
-*最后更新于 2025-10-23 06:35:03 UTC*
+*最后更新于 2025-10-23 07:23:12 UTC*
 *历史记录保存在 `archive` 目录中。*
