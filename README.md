@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [AllreadyTaken](https://github.com/AllreadyTaken)
+- 🍴 👤 [AllreadyTaken](https://github.com/AllreadyTaken) Forked [AllreadyTaken/cai](https://github.com/AllreadyTaken/cai) to [AllreadyTaken/cai](https://github.com/AllreadyTaken/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [Hnisec](https://github.com/Hnisec)
 - 🌟 👤 [Hnisec](https://github.com/Hnisec) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -11,6 +15,10 @@
 ### [Lukafin](https://github.com/Lukafin)
 - 🌟 👤 [Lukafin](https://github.com/Lukafin) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
+
+### [Ran24705](https://github.com/Ran24705)
+- 🌟 👤 [Ran24705](https://github.com/Ran24705) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
 ### [andrebaumgartfht](https://github.com/andrebaumgartfht)
 - 🌟 👤 [andrebaumgartfht](https://github.com/andrebaumgartfht) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -22,6 +30,10 @@
 
 ### [lucasfelz](https://github.com/lucasfelz)
 - 🌟 👤 [lucasfelz](https://github.com/lucasfelz) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [rrubush](https://github.com/rrubush)
+- 🌟 👤 [rrubush](https://github.com/rrubush) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [tangerine-xw](https://github.com/tangerine-xw)
@@ -56,5 +68,5 @@
 
 
 ---
-*最后更新于 2025-10-23 08:32:27 UTC*
+*最后更新于 2025-10-23 09:26:36 UTC*
 *历史记录保存在 `archive` 目录中。*
