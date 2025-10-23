@@ -12,6 +12,10 @@
 - 🌟 👤 [andrebaumgartfht](https://github.com/andrebaumgartfht) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [cmndcntrlcyber](https://github.com/cmndcntrlcyber)
+- 🌟 👤 [cmndcntrlcyber](https://github.com/cmndcntrlcyber) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [tatakya](https://github.com/tatakya)
 - 🌟 👤 [tatakya](https://github.com/tatakya) Starred [madawei2699/notion-sites](https://github.com/madawei2699/notion-sites)
   > 发掘Notion好站
@@ -30,5 +34,5 @@
 
 
 ---
-*最后更新于 2025-10-23 04:45:10 UTC*
+*最后更新于 2025-10-23 05:22:42 UTC*
 *历史记录保存在 `archive` 目录中。*
