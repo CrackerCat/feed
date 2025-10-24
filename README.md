@@ -62,11 +62,15 @@
 - 🌟 👤 [ryptozee](https://github.com/ryptozee) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [stuartcampbell](https://github.com/stuartcampbell)
+- 🌟 👤 [stuartcampbell](https://github.com/stuartcampbell) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [zpw1129](https://github.com/zpw1129)
 - 🌟 👤 [zpw1129](https://github.com/zpw1129) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
 
 ---
-*最后更新于 2025-10-24 11:39:43 UTC*
+*最后更新于 2025-10-24 12:51:09 UTC*
 *历史记录保存在 `archive` 目录中。*
