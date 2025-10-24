@@ -26,7 +26,11 @@
 - 🍴 👤 [macaugh](https://github.com/macaugh) Forked [macaugh/cai](https://github.com/macaugh/cai) to [macaugh/cai](https://github.com/macaugh/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [ryptozee](https://github.com/ryptozee)
+- 🌟 👤 [ryptozee](https://github.com/ryptozee) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 
 ---
-*最后更新于 2025-10-24 04:44:25 UTC*
+*最后更新于 2025-10-24 05:22:05 UTC*
 *历史记录保存在 `archive` 目录中。*
