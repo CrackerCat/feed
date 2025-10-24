@@ -16,6 +16,10 @@
 - 🌟 👤 [ImBIOS](https://github.com/ImBIOS) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [KoelhoSec](https://github.com/KoelhoSec)
+- 🌟 👤 [KoelhoSec](https://github.com/KoelhoSec) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [Marlondy](https://github.com/Marlondy)
 - 🌟 👤 [Marlondy](https://github.com/Marlondy) Starred [AlienwareHe/awesome-reverse](https://github.com/AlienwareHe/awesome-reverse)
   > awesome-逆向基础入门，包括JS、安卓APP/Native
@@ -48,6 +52,10 @@
 - 🌟 👤 [kxyang1123](https://github.com/kxyang1123) Starred [jwpl190/WechatPCAPI](https://github.com/jwpl190/WechatPCAPI)
   > 微信PC版的API接口，可通过Python调用微信获取好友、群、公众号列表，并收发消息等功能。
 
+### [lanlinga](https://github.com/lanlinga)
+- 🍴 👤 [lanlinga](https://github.com/lanlinga) Forked [lanlinga/ZPatch](https://github.com/lanlinga/ZPatch) to [lanlinga/ZPatch](https://github.com/lanlinga/ZPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [macaugh](https://github.com/macaugh)
 - 🌟 👤 [macaugh](https://github.com/macaugh) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -72,5 +80,5 @@
 
 
 ---
-*最后更新于 2025-10-24 15:25:00 UTC*
+*最后更新于 2025-10-24 15:43:21 UTC*
 *历史记录保存在 `archive` 目录中。*
