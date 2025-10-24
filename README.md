@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [825267674](https://github.com/825267674)
+- 🌟 👤 [825267674](https://github.com/825267674) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+
 ### [Cyarun](https://github.com/Cyarun)
 - 🌟 👤 [Cyarun](https://github.com/Cyarun) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -38,7 +42,11 @@
 - 🌟 👤 [ryptozee](https://github.com/ryptozee) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [yeahsure258](https://github.com/yeahsure258)
+- 🌟 👤 [yeahsure258](https://github.com/yeahsure258) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 
 ---
-*最后更新于 2025-10-24 06:33:40 UTC*
+*最后更新于 2025-10-24 07:22:35 UTC*
 *历史记录保存在 `archive` 目录中。*
