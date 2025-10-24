@@ -32,6 +32,10 @@
 - 🍴 👤 [RMtz88](https://github.com/RMtz88) Forked [RMtz88/cai](https://github.com/RMtz88/cai) to [RMtz88/cai](https://github.com/RMtz88/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [Rai-B-Freitas-Ipnet](https://github.com/Rai-B-Freitas-Ipnet)
+- 🌟 👤 [Rai-B-Freitas-Ipnet](https://github.com/Rai-B-Freitas-Ipnet) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [SubatAhmat](https://github.com/SubatAhmat)
 - 🌟 👤 [SubatAhmat](https://github.com/SubatAhmat) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
@@ -51,6 +55,10 @@
 ### [jerryorto](https://github.com/jerryorto)
 - 🌟 👤 [jerryorto](https://github.com/jerryorto) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+
+### [johnny-mimi](https://github.com/johnny-mimi)
+- 🌟 👤 [johnny-mimi](https://github.com/johnny-mimi) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
 ### [kxyang1123](https://github.com/kxyang1123)
 - 🌟 👤 [kxyang1123](https://github.com/kxyang1123) Starred [jwpl190/WechatPCAPI](https://github.com/jwpl190/WechatPCAPI)
@@ -84,5 +92,5 @@
 
 
 ---
-*最后更新于 2025-10-24 17:41:28 UTC*
+*最后更新于 2025-10-24 18:31:17 UTC*
 *历史记录保存在 `archive` 目录中。*
