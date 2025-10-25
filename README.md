@@ -27,6 +27,10 @@
 - 🌟 👤 [ittooo](https://github.com/ittooo) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [lkys37en](https://github.com/lkys37en)
+- 🌟 👤 [lkys37en](https://github.com/lkys37en) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [matt-starr](https://github.com/matt-starr)
 - 🌟 👤 [matt-starr](https://github.com/matt-starr) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -63,5 +67,5 @@
 
 
 ---
-*最后更新于 2025-10-25 13:25:35 UTC*
+*最后更新于 2025-10-25 13:40:01 UTC*
 *历史记录保存在 `archive` 目录中。*
