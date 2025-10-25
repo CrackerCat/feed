@@ -23,6 +23,10 @@
 - 🌟 👤 [WuYaZe123](https://github.com/WuYaZe123) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [VisionR1/KeyAttestation](https://github.com/VisionR1/KeyAttestation)
+  > This fork have all the feature from original (Thanks @vvb2060).  Plus, have extra features added by ...
+
 ### [inefuinefuin](https://github.com/inefuinefuin)
 - 🌟 👤 [inefuinefuin](https://github.com/inefuinefuin) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -79,5 +83,5 @@
 
 
 ---
-*最后更新于 2025-10-25 16:44:50 UTC*
+*最后更新于 2025-10-25 17:18:18 UTC*
 *历史记录保存在 `archive` 目录中。*
