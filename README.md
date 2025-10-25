@@ -47,6 +47,10 @@
 - 🍴 👤 [pabloezm](https://github.com/pabloezm) Forked [pabloezm/cai](https://github.com/pabloezm/cai) to [pabloezm/cai](https://github.com/pabloezm/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [ritiksinghsahib](https://github.com/ritiksinghsahib)
+- 🍴 👤 [ritiksinghsahib](https://github.com/ritiksinghsahib) Forked [ritiksinghsahib/cai](https://github.com/ritiksinghsahib/cai) to [ritiksinghsahib/cai](https://github.com/ritiksinghsahib/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [strzlee](https://github.com/strzlee)
 - 🌟 👤 [strzlee](https://github.com/strzlee) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -56,7 +60,7 @@
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
 ### [tlsbollei](https://github.com/tlsbollei)
-- 🍴 👤 [tlsbollei](https://github.com/tlsbollei) Forked [tlsbollei/tlsbollei](https://github.com/tlsbollei/tlsbollei) to [tlsbollei/tlsbollei](https://github.com/tlsbollei/tlsbollei)
+- 🍴 👤 [tlsbollei](https://github.com/tlsbollei) Forked [tlsbollei/tlsbollei.github.io](https://github.com/tlsbollei/tlsbollei.github.io) to [tlsbollei/tlsbollei.github.io](https://github.com/tlsbollei/tlsbollei.github.io)
   > Professional blog!
 
 ### [user-with-username](https://github.com/user-with-username)
@@ -75,5 +79,5 @@
 
 
 ---
-*最后更新于 2025-10-25 15:38:57 UTC*
+*最后更新于 2025-10-25 16:26:44 UTC*
 *历史记录保存在 `archive` 目录中。*
