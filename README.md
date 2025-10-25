@@ -24,12 +24,20 @@
 - 🌟 👤 [ittooo](https://github.com/ittooo) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [matt-starr](https://github.com/matt-starr)
+- 🌟 👤 [matt-starr](https://github.com/matt-starr) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [nay-monian](https://github.com/nay-monian)
 - 🌟 👤 [nay-monian](https://github.com/nay-monian) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
 ### [pabloezm](https://github.com/pabloezm)
 - 🍴 👤 [pabloezm](https://github.com/pabloezm) Forked [pabloezm/cai](https://github.com/pabloezm/cai) to [pabloezm/cai](https://github.com/pabloezm/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [strzlee](https://github.com/strzlee)
+- 🌟 👤 [strzlee](https://github.com/strzlee) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [user-with-username](https://github.com/user-with-username)
@@ -44,5 +52,5 @@
 
 
 ---
-*最后更新于 2025-10-25 09:38:36 UTC*
+*最后更新于 2025-10-25 10:21:39 UTC*
 *历史记录保存在 `archive` 目录中。*
