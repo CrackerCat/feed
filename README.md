@@ -38,6 +38,10 @@
 - 🚀 👤 [TwoSevenOneT](https://github.com/TwoSevenOneT) Made [TwoSevenOneT/EDR-Redir](https://github.com/TwoSevenOneT/EDR-Redir) public
   > EDR-Redir : a tool used to redirect the EDR's folder to another location.
 
+### [caoxuekuncode](https://github.com/caoxuekuncode)
+- 🍴 👤 [caoxuekuncode](https://github.com/caoxuekuncode) Forked [caoxuekuncode/flash-linux0.11-talk](https://github.com/caoxuekuncode/flash-linux0.11-talk) to [caoxuekuncode/flash-linux0.11-talk](https://github.com/caoxuekuncode/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 ### [egermncxe](https://github.com/egermncxe)
 - 🌟 👤 [egermncxe](https://github.com/egermncxe) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -77,5 +81,5 @@
 
 
 ---
-*最后更新于 2025-10-26 15:20:45 UTC*
+*最后更新于 2025-10-26 15:39:24 UTC*
 *历史记录保存在 `archive` 目录中。*
