@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Burningfoam](https://github.com/Burningfoam)
+- 🌟 👤 [Burningfoam](https://github.com/Burningfoam) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [GithubKillsMyOpsec](https://github.com/GithubKillsMyOpsec)
 - 🌟 👤 [GithubKillsMyOpsec](https://github.com/GithubKillsMyOpsec) Starred [OpenAttackDefenseTools/ataka](https://github.com/OpenAttackDefenseTools/ataka)
   > Runs exploits, fast.
@@ -25,6 +29,10 @@
 ### [Sidra-009](https://github.com/Sidra-009)
 - 🌟 👤 [Sidra-009](https://github.com/Sidra-009) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
+
+### [TwoSevenOneT](https://github.com/TwoSevenOneT)
+- 🚀 👤 [TwoSevenOneT](https://github.com/TwoSevenOneT) Made [TwoSevenOneT/EDR-Redir](https://github.com/TwoSevenOneT/EDR-Redir) public
+  > EDR-Redir : a tool used to redirect the EDR's folder to another location.
 
 ### [egermncxe](https://github.com/egermncxe)
 - 🌟 👤 [egermncxe](https://github.com/egermncxe) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
@@ -57,5 +65,5 @@
 
 
 ---
-*最后更新于 2025-10-26 13:41:22 UTC*
+*最后更新于 2025-10-26 14:19:23 UTC*
 *历史记录保存在 `archive` 目录中。*
