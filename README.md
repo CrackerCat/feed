@@ -8,6 +8,10 @@
 - 🌟 👤 [GithubKillsMyOpsec](https://github.com/GithubKillsMyOpsec) Starred [OpenAttackDefenseTools/ataka](https://github.com/OpenAttackDefenseTools/ataka)
   > Runs exploits, fast.
 
+### [MiyazKaori](https://github.com/MiyazKaori)
+- 🌟 👤 [MiyazKaori](https://github.com/MiyazKaori) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
 - 🍴 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Forked [Utility-Software-Collection/openclash-yaml](https://github.com/Utility-Software-Collection/openclash-yaml) to [Utility-Software-Collection/openclash-yaml](https://github.com/Utility-Software-Collection/openclash-yaml)
   > Some subscription rule sets suitable for openclash
@@ -45,5 +49,5 @@
 
 
 ---
-*最后更新于 2025-10-26 10:41:10 UTC*
+*最后更新于 2025-10-26 11:17:35 UTC*
 *历史记录保存在 `archive` 目录中。*
