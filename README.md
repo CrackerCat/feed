@@ -21,6 +21,10 @@
 - 🌟 👤 [gong-web](https://github.com/gong-web) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [instant2fa](https://github.com/instant2fa)
+- 🍴 👤 [instant2fa](https://github.com/instant2fa) Forked [instant2fa/cai](https://github.com/instant2fa/cai) to [instant2fa/cai](https://github.com/instant2fa/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [randwong](https://github.com/randwong)
 - 🍴 👤 [randwong](https://github.com/randwong) Forked [randwong/flash-linux0.11-talk](https://github.com/randwong/flash-linux0.11-talk) to [randwong/flash-linux0.11-talk](https://github.com/randwong/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -31,5 +35,5 @@
 
 
 ---
-*最后更新于 2025-10-26 03:53:01 UTC*
+*最后更新于 2025-10-26 04:26:05 UTC*
 *历史记录保存在 `archive` 目录中。*
