@@ -20,6 +20,8 @@
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [JustasMasiulis/rep_mov_ept_detecc](https://github.com/JustasMasiulis/rep_mov_ept_detecc)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [hadipourh/espresso](https://github.com/hadipourh/espresso)
+  > Espresso Logic Minimizer - Modernized Edition
 
 ### [gong-web](https://github.com/gong-web)
 - 🌟 👤 [gong-web](https://github.com/gong-web) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -43,5 +45,5 @@
 
 
 ---
-*最后更新于 2025-10-26 07:38:22 UTC*
+*最后更新于 2025-10-26 08:27:45 UTC*
 *历史记录保存在 `archive` 目录中。*
