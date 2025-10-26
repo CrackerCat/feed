@@ -22,6 +22,10 @@
 - 🌟 👤 [Sidra-009](https://github.com/Sidra-009) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [egermncxe](https://github.com/egermncxe)
+- 🌟 👤 [egermncxe](https://github.com/egermncxe) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [JustasMasiulis/rep_mov_ept_detecc](https://github.com/JustasMasiulis/rep_mov_ept_detecc)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [hadipourh/espresso](https://github.com/hadipourh/espresso)
@@ -49,5 +53,5 @@
 
 
 ---
-*最后更新于 2025-10-26 11:39:03 UTC*
+*最后更新于 2025-10-26 12:43:33 UTC*
 *历史记录保存在 `archive` 目录中。*
