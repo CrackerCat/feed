@@ -8,6 +8,10 @@
 - 🌟 👤 [GithubKillsMyOpsec](https://github.com/GithubKillsMyOpsec) Starred [OpenAttackDefenseTools/ataka](https://github.com/OpenAttackDefenseTools/ataka)
   > Runs exploits, fast.
 
+### [KHwang9883](https://github.com/KHwang9883)
+- 🌟 👤 [KHwang9883](https://github.com/KHwang9883) Starred [meteo-dream/mario-worker-ce](https://github.com/meteo-dream/mario-worker-ce)
+  > Mario Worker: Community Edition - A level editor for Mario Forever
+
 ### [MiyazKaori](https://github.com/MiyazKaori)
 - 🌟 👤 [MiyazKaori](https://github.com/MiyazKaori) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -53,5 +57,5 @@
 
 
 ---
-*最后更新于 2025-10-26 12:43:33 UTC*
+*最后更新于 2025-10-26 13:26:43 UTC*
 *历史记录保存在 `archive` 目录中。*
