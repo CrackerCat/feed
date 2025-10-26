@@ -87,7 +87,11 @@
 - 🌟 👤 [yimububu](https://github.com/yimububu) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [zer0def](https://github.com/zer0def)
+- 🍴 👤 [zer0def](https://github.com/zer0def) Forked [zer0def/linux](https://github.com/zer0def/linux) to [zer0def/linux](https://github.com/zer0def/linux)
+  > Linux kernel source tree
+
 
 ---
-*最后更新于 2025-10-26 16:45:36 UTC*
+*最后更新于 2025-10-26 17:18:33 UTC*
 *历史记录保存在 `archive` 目录中。*
