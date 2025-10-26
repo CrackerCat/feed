@@ -71,6 +71,10 @@
 - 🍴 👤 [instant2fa](https://github.com/instant2fa) Forked [instant2fa/cai](https://github.com/instant2fa/cai) to [instant2fa/cai](https://github.com/instant2fa/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [kashyaprpuranik](https://github.com/kashyaprpuranik)
+- 🌟 👤 [kashyaprpuranik](https://github.com/kashyaprpuranik) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [lullabyalready](https://github.com/lullabyalready)
 - 🌟 👤 [lullabyalready](https://github.com/lullabyalready) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
@@ -101,5 +105,5 @@
 
 
 ---
-*最后更新于 2025-10-26 21:38:50 UTC*
+*最后更新于 2025-10-26 22:21:06 UTC*
 *历史记录保存在 `archive` 目录中。*
