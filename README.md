@@ -63,7 +63,11 @@
 - 🌟 👤 [sblrm](https://github.com/sblrm) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [thepsiwa](https://github.com/thepsiwa)
+- 🌟 👤 [thepsiwa](https://github.com/thepsiwa) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 
 ---
-*最后更新于 2025-10-26 14:19:23 UTC*
+*最后更新于 2025-10-26 14:40:28 UTC*
 *历史记录保存在 `archive` 目录中。*
