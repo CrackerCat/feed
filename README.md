@@ -14,6 +14,10 @@
 - 🍴 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Forked [Utility-Software-Collection/Custom_OpenClash_Rules](https://github.com/Utility-Software-Collection/Custom_OpenClash_Rules) to [Utility-Software-Collection/Custom_OpenClash_Rules](https://github.com/Utility-Software-Collection/Custom_OpenClash_Rules)
   > 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人
 
+### [Sidra-009](https://github.com/Sidra-009)
+- 🌟 👤 [Sidra-009](https://github.com/Sidra-009) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [JustasMasiulis/rep_mov_ept_detecc](https://github.com/JustasMasiulis/rep_mov_ept_detecc)
 
@@ -39,5 +43,5 @@
 
 
 ---
-*最后更新于 2025-10-26 04:43:18 UTC*
+*最后更新于 2025-10-26 05:21:54 UTC*
 *历史记录保存在 `archive` 目录中。*
