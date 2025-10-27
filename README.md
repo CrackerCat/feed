@@ -16,6 +16,10 @@
 - 🌟 👤 [Eternity-real](https://github.com/Eternity-real) Starred [AlienwareHe/awesome-reverse](https://github.com/AlienwareHe/awesome-reverse)
   > awesome-逆向基础入门，包括JS、安卓APP/Native
 
+### [JOUYO](https://github.com/JOUYO)
+- 🌟 👤 [JOUYO](https://github.com/JOUYO) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [Nova-xiao](https://github.com/Nova-xiao)
 - 🌟 👤 [Nova-xiao](https://github.com/Nova-xiao) Starred [aliasrobotics/RVD](https://github.com/aliasrobotics/RVD)
   > Robot Vulnerability Database. An archive of robot vulnerabilities and bugs.
@@ -118,5 +122,5 @@
 
 
 ---
-*最后更新于 2025-10-27 17:41:48 UTC*
+*最后更新于 2025-10-27 18:34:19 UTC*
 *历史记录保存在 `archive` 目录中。*
