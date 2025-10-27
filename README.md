@@ -68,6 +68,10 @@
 - 🍴 👤 [dhanunjayavuppala](https://github.com/dhanunjayavuppala) Forked [dhanunjayavuppala/cai](https://github.com/dhanunjayavuppala/cai) to [dhanunjayavuppala/cai](https://github.com/dhanunjayavuppala/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [diaa-abushaqra](https://github.com/diaa-abushaqra)
+- 🍴 👤 [diaa-abushaqra](https://github.com/diaa-abushaqra) Forked [secureonelabs/cai](https://github.com/secureonelabs/cai) to [secureonelabs/cai](https://github.com/secureonelabs/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [dkapt](https://github.com/dkapt)
 - 🌟 👤 [dkapt](https://github.com/dkapt) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -114,5 +118,5 @@
 
 
 ---
-*最后更新于 2025-10-27 17:20:20 UTC*
+*最后更新于 2025-10-27 17:41:48 UTC*
 *历史记录保存在 `archive` 目录中。*
