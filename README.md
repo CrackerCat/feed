@@ -20,7 +20,11 @@
 - 🍴 👤 [nianxiang-zeng](https://github.com/nianxiang-zeng) Forked [nianxiang-zeng/PythonPark](https://github.com/nianxiang-zeng/PythonPark) to [nianxiang-zeng/PythonPark](https://github.com/nianxiang-zeng/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
+### [yh727-git](https://github.com/yh727-git)
+- 🌟 👤 [yh727-git](https://github.com/yh727-git) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+
 
 ---
-*最后更新于 2025-10-27 03:25:04 UTC*
+*最后更新于 2025-10-27 04:04:07 UTC*
 *历史记录保存在 `archive` 目录中。*
