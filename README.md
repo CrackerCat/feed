@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [Ahmex000](https://github.com/Ahmex000)
+- 🌟 👤 [Ahmex000](https://github.com/Ahmex000) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [Bairea](https://github.com/Bairea)
 - 🌟 👤 [Bairea](https://github.com/Bairea) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -138,5 +142,5 @@
 
 
 ---
-*最后更新于 2025-10-27 22:21:14 UTC*
+*最后更新于 2025-10-27 22:42:08 UTC*
 *历史记录保存在 `archive` 目录中。*
