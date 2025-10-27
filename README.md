@@ -20,6 +20,10 @@
 - 🌟 👤 [JOUYO](https://github.com/JOUYO) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [LiTriLaDuaNhanVien](https://github.com/LiTriLaDuaNhanVien)
+- 🌟 👤 [LiTriLaDuaNhanVien](https://github.com/LiTriLaDuaNhanVien) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [Nova-xiao](https://github.com/Nova-xiao)
 - 🌟 👤 [Nova-xiao](https://github.com/Nova-xiao) Starred [aliasrobotics/RVD](https://github.com/aliasrobotics/RVD)
   > Robot Vulnerability Database. An archive of robot vulnerabilities and bugs.
@@ -130,5 +134,5 @@
 
 
 ---
-*最后更新于 2025-10-27 19:39:05 UTC*
+*最后更新于 2025-10-27 20:24:28 UTC*
 *历史记录保存在 `archive` 目录中。*
