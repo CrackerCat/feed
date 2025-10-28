@@ -26,6 +26,10 @@
 - 🌟 👤 [SecLoop](https://github.com/SecLoop) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [gwanjama](https://github.com/gwanjama)
+- 🍴 👤 [gwanjama](https://github.com/gwanjama) Forked [gwanjama/cai](https://github.com/gwanjama/cai) to [gwanjama/cai](https://github.com/gwanjama/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [hanqing2025](https://github.com/hanqing2025)
 - 🌟 👤 [hanqing2025](https://github.com/hanqing2025) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -48,5 +52,5 @@
 
 
 ---
-*最后更新于 2025-10-28 11:38:56 UTC*
+*最后更新于 2025-10-28 12:50:05 UTC*
 *历史记录保存在 `archive` 目录中。*
