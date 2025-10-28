@@ -90,7 +90,11 @@
 - 🌟 👤 [vodka-J](https://github.com/vodka-J) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [zer0def](https://github.com/zer0def)
+- 🌟 👤 [zer0def](https://github.com/zer0def) Starred [openstack/ovn-bgp-agent](https://github.com/openstack/ovn-bgp-agent)
+  > OVN BGP Agent exposes VMs/containers through BGP on OVN environments. Mirror of code maintained at o...
+
 
 ---
-*最后更新于 2025-10-28 17:43:20 UTC*
+*最后更新于 2025-10-28 18:35:49 UTC*
 *历史记录保存在 `archive` 目录中。*
