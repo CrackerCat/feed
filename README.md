@@ -18,6 +18,10 @@
 - 🍴 👤 [Cherno-x](https://github.com/Cherno-x) Forked [Cherno-x/cai](https://github.com/Cherno-x/cai) to [Cherno-x/cai](https://github.com/Cherno-x/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [Evil0ctal](https://github.com/Evil0ctal)
+- 🌟 👤 [Evil0ctal](https://github.com/Evil0ctal) Starred [AlienwareHe/awesome-reverse](https://github.com/AlienwareHe/awesome-reverse)
+  > awesome-逆向基础入门，包括JS、安卓APP/Native
+
 ### [Fansirsqi](https://github.com/Fansirsqi)
 - 🌟 👤 [Fansirsqi](https://github.com/Fansirsqi) Starred [cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB)
   > 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
@@ -37,6 +41,10 @@
 ### [SecLoop](https://github.com/SecLoop)
 - 🌟 👤 [SecLoop](https://github.com/SecLoop) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
+
+### [SuperVIPuser](https://github.com/SuperVIPuser)
+- 🌟 👤 [SuperVIPuser](https://github.com/SuperVIPuser) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
 ### [ValentinoRusconi-EH](https://github.com/ValentinoRusconi-EH)
 - 🌟 👤 [ValentinoRusconi-EH](https://github.com/ValentinoRusconi-EH) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -104,5 +112,5 @@
 
 
 ---
-*最后更新于 2025-10-28 21:40:22 UTC*
+*最后更新于 2025-10-28 22:22:51 UTC*
 *历史记录保存在 `archive` 目录中。*
