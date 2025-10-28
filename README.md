@@ -8,6 +8,10 @@
 - 🌟 👤 [Blu3Orang3](https://github.com/Blu3Orang3) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [COOLMSF](https://github.com/COOLMSF)
+- 🌟 👤 [COOLMSF](https://github.com/COOLMSF) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 ### [Cherno-x](https://github.com/Cherno-x)
 - 🌟 👤 [Cherno-x](https://github.com/Cherno-x) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -16,6 +20,10 @@
 
 ### [Leen0th](https://github.com/Leen0th)
 - 🌟 👤 [Leen0th](https://github.com/Leen0th) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [hanqing2025](https://github.com/hanqing2025)
+- 🌟 👤 [hanqing2025](https://github.com/hanqing2025) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [hoafnganh](https://github.com/hoafnganh)
@@ -32,5 +40,5 @@
 
 
 ---
-*最后更新于 2025-10-28 08:32:28 UTC*
+*最后更新于 2025-10-28 09:26:13 UTC*
 *历史记录保存在 `archive` 目录中。*
