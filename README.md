@@ -18,6 +18,10 @@
 - 🍴 👤 [Cherno-x](https://github.com/Cherno-x) Forked [Cherno-x/cai](https://github.com/Cherno-x/cai) to [Cherno-x/cai](https://github.com/Cherno-x/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [HatsuneMikuUwU](https://github.com/HatsuneMikuUwU)
+- 🍴 👤 [HatsuneMikuUwU](https://github.com/HatsuneMikuUwU) Forked [HatsuneMikuUwU/NPatch](https://github.com/HatsuneMikuUwU/NPatch) to [HatsuneMikuUwU/NPatch](https://github.com/HatsuneMikuUwU/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [Leen0th](https://github.com/Leen0th)
 - 🌟 👤 [Leen0th](https://github.com/Leen0th) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -46,11 +50,15 @@
 - 🌟 👤 [luoqiu0512](https://github.com/luoqiu0512) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [thelicato](https://github.com/thelicato)
+- 🌟 👤 [thelicato](https://github.com/thelicato) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [vodka-J](https://github.com/vodka-J)
 - 🌟 👤 [vodka-J](https://github.com/vodka-J) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
 
 ---
-*最后更新于 2025-10-28 14:25:06 UTC*
+*最后更新于 2025-10-28 14:47:04 UTC*
 *历史记录保存在 `archive` 目录中。*
