@@ -30,6 +30,10 @@
 - 🌟 👤 [Leen0th](https://github.com/Leen0th) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [Meteorsss](https://github.com/Meteorsss)
+- 🌟 👤 [Meteorsss](https://github.com/Meteorsss) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [SecLoop](https://github.com/SecLoop)
 - 🌟 👤 [SecLoop](https://github.com/SecLoop) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -74,6 +78,10 @@
 - 🌟 👤 [luoqiu0512](https://github.com/luoqiu0512) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [thang197](https://github.com/thang197)
+- 🌟 👤 [thang197](https://github.com/thang197) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [thelicato](https://github.com/thelicato)
 - 🌟 👤 [thelicato](https://github.com/thelicato) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -84,5 +92,5 @@
 
 
 ---
-*最后更新于 2025-10-28 15:46:10 UTC*
+*最后更新于 2025-10-28 16:32:21 UTC*
 *历史记录保存在 `archive` 目录中。*
