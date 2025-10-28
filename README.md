@@ -22,6 +22,10 @@
 - 🌟 👤 [Leen0th](https://github.com/Leen0th) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [SecLoop](https://github.com/SecLoop)
+- 🌟 👤 [SecLoop](https://github.com/SecLoop) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [hanqing2025](https://github.com/hanqing2025)
 - 🌟 👤 [hanqing2025](https://github.com/hanqing2025) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -40,5 +44,5 @@
 
 
 ---
-*最后更新于 2025-10-28 10:26:59 UTC*
+*最后更新于 2025-10-28 10:47:30 UTC*
 *历史记录保存在 `archive` 目录中。*
