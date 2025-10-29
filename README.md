@@ -28,6 +28,10 @@
 - 🌟 👤 [MoreCsharp](https://github.com/MoreCsharp) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [RITIK-02](https://github.com/RITIK-02)
+- 🌟 👤 [RITIK-02](https://github.com/RITIK-02) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [Ruan0423](https://github.com/Ruan0423)
 - 🌟 👤 [Ruan0423](https://github.com/Ruan0423) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -42,6 +46,10 @@
 
 ### [fengyu123123](https://github.com/fengyu123123)
 - 🌟 👤 [fengyu123123](https://github.com/fengyu123123) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+### [jidushan](https://github.com/jidushan)
+- 🌟 👤 [jidushan](https://github.com/jidushan) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
 ### [niyingla](https://github.com/niyingla)
@@ -76,5 +84,5 @@
 
 
 ---
-*最后更新于 2025-10-29 10:26:37 UTC*
+*最后更新于 2025-10-29 10:47:08 UTC*
 *历史记录保存在 `archive` 目录中。*
