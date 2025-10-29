@@ -12,6 +12,14 @@
 - 🌟 👤 [DieselNiu](https://github.com/DieselNiu) Starred [AlienwareHe/awesome-reverse](https://github.com/AlienwareHe/awesome-reverse)
   > awesome-逆向基础入门，包括JS、安卓APP/Native
 
+### [LexingtonHX](https://github.com/LexingtonHX)
+- 🌟 👤 [LexingtonHX](https://github.com/LexingtonHX) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
+### [niyingla](https://github.com/niyingla)
+- 🍴 👤 [niyingla](https://github.com/niyingla) Forked [niyingla/flash-linux0.11-talk](https://github.com/niyingla/flash-linux0.11-talk) to [niyingla/flash-linux0.11-talk](https://github.com/niyingla/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 ### [owijos](https://github.com/owijos)
 - 🌟 👤 [owijos](https://github.com/owijos) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -20,7 +28,11 @@
 - 🌟 👤 [qfmc7040](https://github.com/qfmc7040) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [yangdongze10](https://github.com/yangdongze10)
+- 🌟 👤 [yangdongze10](https://github.com/yangdongze10) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+
 
 ---
-*最后更新于 2025-10-29 03:19:59 UTC*
+*最后更新于 2025-10-29 03:59:24 UTC*
 *历史记录保存在 `archive` 目录中。*
