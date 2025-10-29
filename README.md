@@ -28,6 +28,14 @@
 - 🌟 👤 [Ruan0423](https://github.com/Ruan0423) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [daoge88](https://github.com/daoge88)
+- 🌟 👤 [daoge88](https://github.com/daoge88) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+### [drArli](https://github.com/drArli)
+- 🌟 👤 [drArli](https://github.com/drArli) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [niyingla](https://github.com/niyingla)
 - 🍴 👤 [niyingla](https://github.com/niyingla) Forked [niyingla/flash-linux0.11-talk](https://github.com/niyingla/flash-linux0.11-talk) to [niyingla/flash-linux0.11-talk](https://github.com/niyingla/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -39,6 +47,14 @@
 ### [qfmc7040](https://github.com/qfmc7040)
 - 🌟 👤 [qfmc7040](https://github.com/qfmc7040) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
+### [sannianji1122](https://github.com/sannianji1122)
+- 🌟 👤 [sannianji1122](https://github.com/sannianji1122) Starred [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses)
+  > 名校公开课程评价网
+
+### [slantingsun](https://github.com/slantingsun)
+- 🌟 👤 [slantingsun](https://github.com/slantingsun) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
 ### [y11en](https://github.com/y11en)
 - 🌟 👤 [y11en](https://github.com/y11en) Starred [wquguru/nof0](https://github.com/wquguru/nof0)
@@ -52,5 +68,5 @@
 
 
 ---
-*最后更新于 2025-10-29 07:41:22 UTC*
+*最后更新于 2025-10-29 08:33:03 UTC*
 *历史记录保存在 `archive` 目录中。*
