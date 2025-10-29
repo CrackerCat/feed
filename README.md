@@ -48,6 +48,10 @@
 - 🌟 👤 [Ruan0423](https://github.com/Ruan0423) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [Vivekz0o](https://github.com/Vivekz0o)
+- 🌟 👤 [Vivekz0o](https://github.com/Vivekz0o) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [christ-jevavix](https://github.com/christ-jevavix)
 - 🌟 👤 [christ-jevavix](https://github.com/christ-jevavix) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -120,5 +124,5 @@
 
 
 ---
-*最后更新于 2025-10-29 20:27:02 UTC*
+*最后更新于 2025-10-29 20:44:47 UTC*
 *历史记录保存在 `archive` 目录中。*
