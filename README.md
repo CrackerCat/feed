@@ -84,6 +84,14 @@
 - 🌟 👤 [qfmc7040](https://github.com/qfmc7040) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [quora-cosmic](https://github.com/quora-cosmic)
+- 🌟 👤 [quora-cosmic](https://github.com/quora-cosmic) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+### [rasta-mouse](https://github.com/rasta-mouse)
+- 🚀 👤 [rasta-mouse](https://github.com/rasta-mouse) Made [rasta-mouse/LibGate](https://github.com/rasta-mouse/LibGate) public
+  > A Crystal Palace shared library to resolve & perform syscalls
+
 ### [sannianji1122](https://github.com/sannianji1122)
 - 🌟 👤 [sannianji1122](https://github.com/sannianji1122) Starred [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses)
   > 名校公开课程评价网
@@ -112,5 +120,5 @@
 
 
 ---
-*最后更新于 2025-10-29 16:32:25 UTC*
+*最后更新于 2025-10-29 17:22:10 UTC*
 *历史记录保存在 `archive` 目录中。*
