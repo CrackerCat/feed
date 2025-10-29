@@ -12,9 +12,17 @@
 - 🌟 👤 [DieselNiu](https://github.com/DieselNiu) Starred [AlienwareHe/awesome-reverse](https://github.com/AlienwareHe/awesome-reverse)
   > awesome-逆向基础入门，包括JS、安卓APP/Native
 
+### [H3d45](https://github.com/H3d45)
+- 🌟 👤 [H3d45](https://github.com/H3d45) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [LexingtonHX](https://github.com/LexingtonHX)
 - 🌟 👤 [LexingtonHX](https://github.com/LexingtonHX) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
+### [Ruan0423](https://github.com/Ruan0423)
+- 🌟 👤 [Ruan0423](https://github.com/Ruan0423) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [niyingla](https://github.com/niyingla)
 - 🍴 👤 [niyingla](https://github.com/niyingla) Forked [niyingla/flash-linux0.11-talk](https://github.com/niyingla/flash-linux0.11-talk) to [niyingla/flash-linux0.11-talk](https://github.com/niyingla/flash-linux0.11-talk)
@@ -34,5 +42,5 @@
 
 
 ---
-*最后更新于 2025-10-29 05:44:12 UTC*
+*最后更新于 2025-10-29 06:36:40 UTC*
 *历史记录保存在 `archive` 目录中。*
