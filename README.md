@@ -24,6 +24,10 @@
 - 🌟 👤 [H3d45](https://github.com/H3d45) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [HanaKDev](https://github.com/HanaKDev)
+- 🌟 👤 [HanaKDev](https://github.com/HanaKDev) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [LexingtonHX](https://github.com/LexingtonHX)
 - 🌟 👤 [LexingtonHX](https://github.com/LexingtonHX) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -124,5 +128,5 @@
 
 
 ---
-*最后更新于 2025-10-29 22:22:47 UTC*
+*最后更新于 2025-10-29 22:42:57 UTC*
 *历史记录保存在 `archive` 目录中。*
