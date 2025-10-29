@@ -12,6 +12,10 @@
 - 🌟 👤 [DieselNiu](https://github.com/DieselNiu) Starred [AlienwareHe/awesome-reverse](https://github.com/AlienwareHe/awesome-reverse)
   > awesome-逆向基础入门，包括JS、安卓APP/Native
 
+### [DinoSandro](https://github.com/DinoSandro)
+- 🍴 👤 [DinoSandro](https://github.com/DinoSandro) Forked [DinoSandro/cai](https://github.com/DinoSandro/cai) to [DinoSandro/cai](https://github.com/DinoSandro/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [G-bit94](https://github.com/G-bit94)
 - 🌟 👤 [G-bit94](https://github.com/G-bit94) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -96,5 +100,5 @@
 
 
 ---
-*最后更新于 2025-10-29 13:35:55 UTC*
+*最后更新于 2025-10-29 14:25:24 UTC*
 *历史记录保存在 `archive` 目录中。*
