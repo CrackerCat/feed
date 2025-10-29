@@ -20,6 +20,10 @@
 - 🌟 👤 [LexingtonHX](https://github.com/LexingtonHX) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [MoreCsharp](https://github.com/MoreCsharp)
+- 🌟 👤 [MoreCsharp](https://github.com/MoreCsharp) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [Ruan0423](https://github.com/Ruan0423)
 - 🌟 👤 [Ruan0423](https://github.com/Ruan0423) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -42,5 +46,5 @@
 
 
 ---
-*最后更新于 2025-10-29 06:36:40 UTC*
+*最后更新于 2025-10-29 07:23:37 UTC*
 *历史记录保存在 `archive` 目录中。*
