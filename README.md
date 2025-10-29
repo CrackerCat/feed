@@ -12,6 +12,10 @@
 - 🌟 👤 [DieselNiu](https://github.com/DieselNiu) Starred [AlienwareHe/awesome-reverse](https://github.com/AlienwareHe/awesome-reverse)
   > awesome-逆向基础入门，包括JS、安卓APP/Native
 
+### [G-bit94](https://github.com/G-bit94)
+- 🌟 👤 [G-bit94](https://github.com/G-bit94) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [H3d45](https://github.com/H3d45)
 - 🌟 👤 [H3d45](https://github.com/H3d45) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -72,6 +76,10 @@
 - 🌟 👤 [slantingsun](https://github.com/slantingsun) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [xiekunfeng123](https://github.com/xiekunfeng123)
+- 🌟 👤 [xiekunfeng123](https://github.com/xiekunfeng123) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+
 ### [y11en](https://github.com/y11en)
 - 🌟 👤 [y11en](https://github.com/y11en) Starred [wquguru/nof0](https://github.com/wquguru/nof0)
   > nof1.ai完整复刻版（持续开发）
@@ -84,5 +92,5 @@
 
 
 ---
-*最后更新于 2025-10-29 10:47:08 UTC*
+*最后更新于 2025-10-29 11:20:40 UTC*
 *历史记录保存在 `archive` 目录中。*
