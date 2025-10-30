@@ -8,6 +8,10 @@
 - 🌟 👤 [Fansirsqi](https://github.com/Fansirsqi) Starred [xfgryujk/blivedm](https://github.com/xfgryujk/blivedm)
   > 获取bilibili直播弹幕，使用WebSocket协议，支持web端和B站直播开放平台两种接口
 
+### [GXF1227](https://github.com/GXF1227)
+- 🌟 👤 [GXF1227](https://github.com/GXF1227) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
 ### [KHwang9883](https://github.com/KHwang9883)
 - 🌟 👤 [KHwang9883](https://github.com/KHwang9883) Starred [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd)
   > Game Preservation Project
@@ -62,5 +66,5 @@
 
 
 ---
-*最后更新于 2025-10-30 09:26:10 UTC*
+*最后更新于 2025-10-30 09:44:20 UTC*
 *历史记录保存在 `archive` 目录中。*
