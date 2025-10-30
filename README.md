@@ -20,6 +20,10 @@
 - 🌟 👤 [KHwang9883](https://github.com/KHwang9883) Starred [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd)
   > Game Preservation Project
 
+### [Libor-Jolly](https://github.com/Libor-Jolly)
+- 🌟 👤 [Libor-Jolly](https://github.com/Libor-Jolly) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+
 ### [Morzorz](https://github.com/Morzorz)
 - 🌟 👤 [Morzorz](https://github.com/Morzorz) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -56,6 +60,10 @@
 - 🌟 👤 [landondavis2211-design](https://github.com/landondavis2211-design) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [lee-bot1](https://github.com/lee-bot1)
+- 🌟 👤 [lee-bot1](https://github.com/lee-bot1) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+
 ### [lookout2020](https://github.com/lookout2020)
 - 🌟 👤 [lookout2020](https://github.com/lookout2020) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -78,5 +86,5 @@
 
 
 ---
-*最后更新于 2025-10-30 13:34:10 UTC*
+*最后更新于 2025-10-30 14:24:37 UTC*
 *历史记录保存在 `archive` 目录中。*
