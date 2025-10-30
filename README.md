@@ -72,6 +72,10 @@
 - 🌟 👤 [m-fazel](https://github.com/m-fazel) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [offsoc](https://github.com/offsoc)
+- 🍴 👤 [offsoc](https://github.com/offsoc) Forked [offsoc/cai](https://github.com/offsoc/cai) to [offsoc/cai](https://github.com/offsoc/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [qing1zhuo](https://github.com/qing1zhuo)
 - 🌟 👤 [qing1zhuo](https://github.com/qing1zhuo) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
@@ -86,5 +90,5 @@
 
 
 ---
-*最后更新于 2025-10-30 14:24:37 UTC*
+*最后更新于 2025-10-30 14:46:01 UTC*
 *历史记录保存在 `archive` 目录中。*
