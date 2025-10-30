@@ -118,6 +118,10 @@
 - 🌟 👤 [m-fazel](https://github.com/m-fazel) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [nikhase](https://github.com/nikhase)
+- 🌟 👤 [nikhase](https://github.com/nikhase) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [offsoc](https://github.com/offsoc)
 - 🍴 👤 [offsoc](https://github.com/offsoc) Forked [offsoc/cai](https://github.com/offsoc/cai) to [offsoc/cai](https://github.com/offsoc/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -128,6 +132,10 @@
 
 ### [rodjac-lab](https://github.com/rodjac-lab)
 - 🌟 👤 [rodjac-lab](https://github.com/rodjac-lab) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [thevilledev](https://github.com/thevilledev)
+- 🌟 👤 [thevilledev](https://github.com/thevilledev) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [virtualguard101](https://github.com/virtualguard101)
@@ -147,5 +155,5 @@
 
 
 ---
-*最后更新于 2025-10-30 21:21:19 UTC*
+*最后更新于 2025-10-30 21:40:14 UTC*
 *历史记录保存在 `archive` 目录中。*
