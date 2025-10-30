@@ -102,6 +102,10 @@
 - 🌟 👤 [gigachaand](https://github.com/gigachaand) Starred [vova7878-modules/PMPatch](https://github.com/vova7878-modules/PMPatch)
   > Disable signature verification for Android
 
+### [h4x0r-dz](https://github.com/h4x0r-dz)
+- 🌟 👤 [h4x0r-dz](https://github.com/h4x0r-dz) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [ic2y](https://github.com/ic2y)
 - 🌟 👤 [ic2y](https://github.com/ic2y) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -171,5 +175,5 @@
 
 
 ---
-*最后更新于 2025-10-30 23:20:47 UTC*
+*最后更新于 2025-10-30 23:39:18 UTC*
 *历史记录保存在 `archive` 目录中。*
