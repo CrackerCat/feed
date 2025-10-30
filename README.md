@@ -12,6 +12,10 @@
 - 🌟 👤 [Arbhow](https://github.com/Arbhow) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [Chillobre0](https://github.com/Chillobre0)
+- 🍴 👤 [Chillobre0](https://github.com/Chillobre0) Forked [Chillobre0/comments-for-awesome-courses](https://github.com/Chillobre0/comments-for-awesome-courses) to [Chillobre0/comments-for-awesome-courses](https://github.com/Chillobre0/comments-for-awesome-courses)
+  > 名校公开课程评价网
+
 ### [Dmitri131313](https://github.com/Dmitri131313)
 - 🍴 👤 [Dmitri131313](https://github.com/Dmitri131313) Forked [Dmitri131313/cai](https://github.com/Dmitri131313/cai) to [Dmitri131313/cai](https://github.com/Dmitri131313/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -119,5 +123,5 @@
 
 
 ---
-*最后更新于 2025-10-30 17:42:52 UTC*
+*最后更新于 2025-10-30 18:34:28 UTC*
 *历史记录保存在 `archive` 目录中。*
