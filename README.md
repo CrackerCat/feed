@@ -70,9 +70,17 @@
 - 🌟 👤 [cyber-ranger](https://github.com/cyber-ranger) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [gigachaand](https://github.com/gigachaand)
+- 🌟 👤 [gigachaand](https://github.com/gigachaand) Starred [vova7878-modules/PMPatch](https://github.com/vova7878-modules/PMPatch)
+  > Disable signature verification for Android
+
 ### [ic2y](https://github.com/ic2y)
 - 🌟 👤 [ic2y](https://github.com/ic2y) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+### [jmccar](https://github.com/jmccar)
+- 🍴 👤 [jmccar](https://github.com/jmccar) Forked [jmccar/cai](https://github.com/jmccar/cai) to [jmccar/cai](https://github.com/jmccar/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [landondavis2211-design](https://github.com/landondavis2211-design)
 - 🌟 👤 [landondavis2211-design](https://github.com/landondavis2211-design) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -111,5 +119,5 @@
 
 
 ---
-*最后更新于 2025-10-30 16:30:59 UTC*
+*最后更新于 2025-10-30 17:21:32 UTC*
 *历史记录保存在 `archive` 目录中。*
