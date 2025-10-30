@@ -8,6 +8,10 @@
 - 🌟 👤 [12009](https://github.com/12009) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [Arbhow](https://github.com/Arbhow)
+- 🌟 👤 [Arbhow](https://github.com/Arbhow) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [Fansirsqi](https://github.com/Fansirsqi)
 - 🌟 👤 [Fansirsqi](https://github.com/Fansirsqi) Starred [xfgryujk/blivedm](https://github.com/xfgryujk/blivedm)
   > 获取bilibili直播弹幕，使用WebSocket协议，支持web端和B站直播开放平台两种接口
@@ -19,6 +23,8 @@
 ### [KHwang9883](https://github.com/KHwang9883)
 - 🌟 👤 [KHwang9883](https://github.com/KHwang9883) Starred [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd)
   > Game Preservation Project
+- 🌟 👤 [KHwang9883](https://github.com/KHwang9883) Starred [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper)
+  > 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
 
 ### [Libor-Jolly](https://github.com/Libor-Jolly)
 - 🌟 👤 [Libor-Jolly](https://github.com/Libor-Jolly) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
@@ -90,5 +96,5 @@
 
 
 ---
-*最后更新于 2025-10-30 15:27:16 UTC*
+*最后更新于 2025-10-30 15:45:49 UTC*
 *历史记录保存在 `archive` 目录中。*
