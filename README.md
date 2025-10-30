@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [12009](https://github.com/12009)
+- 🌟 👤 [12009](https://github.com/12009) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [Fansirsqi](https://github.com/Fansirsqi)
 - 🌟 👤 [Fansirsqi](https://github.com/Fansirsqi) Starred [xfgryujk/blivedm](https://github.com/xfgryujk/blivedm)
   > 获取bilibili直播弹幕，使用WebSocket协议，支持web端和B站直播开放平台两种接口
@@ -66,5 +70,5 @@
 
 
 ---
-*最后更新于 2025-10-30 09:44:20 UTC*
+*最后更新于 2025-10-30 10:26:13 UTC*
 *历史记录保存在 `archive` 目录中。*
