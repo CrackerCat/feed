@@ -52,6 +52,10 @@
 - 🌟 👤 [ic2y](https://github.com/ic2y) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [landondavis2211-design](https://github.com/landondavis2211-design)
+- 🌟 👤 [landondavis2211-design](https://github.com/landondavis2211-design) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [lookout2020](https://github.com/lookout2020)
 - 🌟 👤 [lookout2020](https://github.com/lookout2020) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -74,5 +78,5 @@
 
 
 ---
-*最后更新于 2025-10-30 11:39:59 UTC*
+*最后更新于 2025-10-30 12:50:29 UTC*
 *历史记录保存在 `archive` 目录中。*
