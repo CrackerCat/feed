@@ -199,6 +199,10 @@
 - 🌟 👤 [basilinq](https://github.com/basilinq) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [bredamatt](https://github.com/bredamatt)
+- 🌟 👤 [bredamatt](https://github.com/bredamatt) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [brianmulder](https://github.com/brianmulder)
 - 🌟 👤 [brianmulder](https://github.com/brianmulder) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -229,6 +233,10 @@
 
 ### [futurisold](https://github.com/futurisold)
 - 🌟 👤 [futurisold](https://github.com/futurisold) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [gdfernandes2019](https://github.com/gdfernandes2019)
+- 🌟 👤 [gdfernandes2019](https://github.com/gdfernandes2019) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [gnol719](https://github.com/gnol719)
@@ -415,5 +423,5 @@
 
 
 ---
-*最后更新于 2025-10-31 21:39:07 UTC*
+*最后更新于 2025-10-31 22:22:19 UTC*
 *历史记录保存在 `archive` 目录中。*
