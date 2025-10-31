@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [3esawe](https://github.com/3esawe)
+- 🍴 👤 [3esawe](https://github.com/3esawe) Forked [3esawe/cai](https://github.com/3esawe/cai) to [3esawe/cai](https://github.com/3esawe/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [Acustimet](https://github.com/Acustimet)
 - 🌟 👤 [Acustimet](https://github.com/Acustimet) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -138,5 +142,5 @@
 
 
 ---
-*最后更新于 2025-10-31 07:22:10 UTC*
+*最后更新于 2025-10-31 07:39:57 UTC*
 *历史记录保存在 `archive` 目录中。*
