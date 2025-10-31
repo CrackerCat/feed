@@ -136,6 +136,10 @@
 - 🌟 👤 [ViCrack](https://github.com/ViCrack) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [WJF233](https://github.com/WJF233)
+- 🌟 👤 [WJF233](https://github.com/WJF233) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [Zer0Risk](https://github.com/Zer0Risk)
 - 🌟 👤 [Zer0Risk](https://github.com/Zer0Risk) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -324,6 +328,10 @@
 - 🌟 👤 [weilan2007](https://github.com/weilan2007) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 
+### [willasaywhat](https://github.com/willasaywhat)
+- 🌟 👤 [willasaywhat](https://github.com/willasaywhat) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [xposed73](https://github.com/xposed73)
 - 🌟 👤 [xposed73](https://github.com/xposed73) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -344,5 +352,5 @@
 
 
 ---
-*最后更新于 2025-10-31 16:50:59 UTC*
+*最后更新于 2025-10-31 17:21:36 UTC*
 *历史记录保存在 `archive` 目录中。*
