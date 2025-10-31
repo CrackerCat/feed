@@ -195,6 +195,10 @@
 - 🌟 👤 [basilinq](https://github.com/basilinq) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [brianmulder](https://github.com/brianmulder)
+- 🌟 👤 [brianmulder](https://github.com/brianmulder) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [bwiko](https://github.com/bwiko)
 - 🌟 👤 [bwiko](https://github.com/bwiko) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -303,6 +307,10 @@
 - 🌟 👤 [numman-ali](https://github.com/numman-ali) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [rmonier](https://github.com/rmonier)
+- 🌟 👤 [rmonier](https://github.com/rmonier) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [rmoriguti](https://github.com/rmoriguti)
 - 🌟 👤 [rmoriguti](https://github.com/rmoriguti) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -327,6 +335,10 @@
 
 ### [shunkakinoki](https://github.com/shunkakinoki)
 - 🌟 👤 [shunkakinoki](https://github.com/shunkakinoki) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [sofilip](https://github.com/sofilip)
+- 🌟 👤 [sofilip](https://github.com/sofilip) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [softdream1981](https://github.com/softdream1981)
@@ -391,5 +403,5 @@
 
 
 ---
-*最后更新于 2025-10-31 19:39:11 UTC*
+*最后更新于 2025-10-31 20:26:22 UTC*
 *历史记录保存在 `archive` 目录中。*
