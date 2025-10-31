@@ -156,6 +156,10 @@
 - 🌟 👤 [aptosui](https://github.com/aptosui) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [basilinq](https://github.com/basilinq)
+- 🌟 👤 [basilinq](https://github.com/basilinq) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [bwiko](https://github.com/bwiko)
 - 🌟 👤 [bwiko](https://github.com/bwiko) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -206,6 +210,10 @@
 
 ### [luxiao](https://github.com/luxiao)
 - 🌟 👤 [luxiao](https://github.com/luxiao) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [m-fierek](https://github.com/m-fierek)
+- 🌟 👤 [m-fierek](https://github.com/m-fierek) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [m7medVision](https://github.com/m7medVision)
@@ -308,5 +316,5 @@
 
 
 ---
-*最后更新于 2025-10-31 15:23:55 UTC*
+*最后更新于 2025-10-31 15:42:57 UTC*
 *历史记录保存在 `archive` 目录中。*
