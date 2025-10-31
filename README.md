@@ -8,6 +8,10 @@
 - 🌟 👤 [Acustimet](https://github.com/Acustimet) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [EvE-VeV](https://github.com/EvE-VeV)
+- 🌟 👤 [EvE-VeV](https://github.com/EvE-VeV) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [H3d45](https://github.com/H3d45)
 - 🌟 👤 [H3d45](https://github.com/H3d45) Starred [eastmountyxz/SystemSecurity-ReverseAnalysis](https://github.com/eastmountyxz/SystemSecurity-ReverseAnalysis)
   > 该资源为系统安全和逆向分析实验，包括作者从零学习恶意代码分析、病毒逆向分析的工具及样本，基础性文章，希望对您有所帮助~
@@ -18,6 +22,10 @@
 
 ### [Imkamac](https://github.com/Imkamac)
 - 🌟 👤 [Imkamac](https://github.com/Imkamac) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [Merculous](https://github.com/Merculous)
+- 🌟 👤 [Merculous](https://github.com/Merculous) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [adeptusnull](https://github.com/adeptusnull)
@@ -52,6 +60,10 @@
 - 🌟 👤 [tamersalama](https://github.com/tamersalama) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [tocha688](https://github.com/tocha688)
+- 🌟 👤 [tocha688](https://github.com/tocha688) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [umutkeltek](https://github.com/umutkeltek)
 - 🌟 👤 [umutkeltek](https://github.com/umutkeltek) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -66,5 +78,5 @@
 
 
 ---
-*最后更新于 2025-10-31 04:30:18 UTC*
+*最后更新于 2025-10-31 05:24:12 UTC*
 *历史记录保存在 `archive` 目录中。*
