@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xPier](https://github.com/0xPier)
+- 🌟 👤 [0xPier](https://github.com/0xPier) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [0xricksanchez](https://github.com/0xricksanchez)
 - 🌟 👤 [0xricksanchez](https://github.com/0xricksanchez) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -340,5 +344,5 @@
 
 
 ---
-*最后更新于 2025-10-31 16:30:08 UTC*
+*最后更新于 2025-10-31 16:50:59 UTC*
 *历史记录保存在 `archive` 目录中。*
