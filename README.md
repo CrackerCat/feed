@@ -231,6 +231,10 @@
 - 🌟 👤 [guessthepw](https://github.com/guessthepw) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [harosama](https://github.com/harosama)
+- 🌟 👤 [harosama](https://github.com/harosama) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [hooiv](https://github.com/hooiv)
 - 🌟 👤 [hooiv](https://github.com/hooiv) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -387,5 +391,5 @@
 
 
 ---
-*最后更新于 2025-10-31 19:17:40 UTC*
+*最后更新于 2025-10-31 19:39:11 UTC*
 *历史记录保存在 `archive` 目录中。*
