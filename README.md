@@ -8,6 +8,10 @@
 - 🌟 👤 [Acustimet](https://github.com/Acustimet) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [DrinkDifferent](https://github.com/DrinkDifferent)
+- 🌟 👤 [DrinkDifferent](https://github.com/DrinkDifferent) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [EvE-VeV](https://github.com/EvE-VeV)
 - 🌟 👤 [EvE-VeV](https://github.com/EvE-VeV) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -56,8 +60,20 @@
 - 🌟 👤 [hypn00o](https://github.com/hypn00o) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [lokeshloki65](https://github.com/lokeshloki65)
+- 🌟 👤 [lokeshloki65](https://github.com/lokeshloki65) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [luxiao](https://github.com/luxiao)
+- 🌟 👤 [luxiao](https://github.com/luxiao) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [numman-ali](https://github.com/numman-ali)
 - 🌟 👤 [numman-ali](https://github.com/numman-ali) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [rockrong89](https://github.com/rockrong89)
+- 🌟 👤 [rockrong89](https://github.com/rockrong89) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [samChen69](https://github.com/samChen69)
@@ -80,11 +96,17 @@
 - 🌟 👤 [vcjpierre](https://github.com/vcjpierre) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [xposed73](https://github.com/xposed73)
+- 🌟 👤 [xposed73](https://github.com/xposed73) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+- 🍴 👤 [xposed73](https://github.com/xposed73) Forked [xposed73/cai](https://github.com/xposed73/cai) to [xposed73/cai](https://github.com/xposed73/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [zhang-theo](https://github.com/zhang-theo)
 - 🌟 👤 [zhang-theo](https://github.com/zhang-theo) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
 
 ---
-*最后更新于 2025-10-31 05:43:11 UTC*
+*最后更新于 2025-10-31 06:35:19 UTC*
 *历史记录保存在 `archive` 目录中。*
