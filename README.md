@@ -152,6 +152,10 @@
 - 🌟 👤 [adeptusnull](https://github.com/adeptusnull) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [adriancarayol](https://github.com/adriancarayol)
+- 🌟 👤 [adriancarayol](https://github.com/adriancarayol) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [afmaghribi](https://github.com/afmaghribi)
 - 🌟 👤 [afmaghribi](https://github.com/afmaghribi) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -200,8 +204,16 @@
 - 🌟 👤 [codingdrone](https://github.com/codingdrone) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [ecentric](https://github.com/ecentric)
+- 🌟 👤 [ecentric](https://github.com/ecentric) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [ergikruja](https://github.com/ergikruja)
 - 🌟 👤 [ergikruja](https://github.com/ergikruja) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [falmanna](https://github.com/falmanna)
+- 🌟 👤 [falmanna](https://github.com/falmanna) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [futurisold](https://github.com/futurisold)
@@ -212,8 +224,16 @@
 - 🌟 👤 [gnol719](https://github.com/gnol719) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [guessthepw](https://github.com/guessthepw)
+- 🌟 👤 [guessthepw](https://github.com/guessthepw) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [hooiv](https://github.com/hooiv)
 - 🌟 👤 [hooiv](https://github.com/hooiv) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [htlcalbbs](https://github.com/htlcalbbs)
+- 🍴 👤 [htlcalbbs](https://github.com/htlcalbbs) Forked [htlcalbbs/cai](https://github.com/htlcalbbs/cai) to [htlcalbbs/cai](https://github.com/htlcalbbs/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [hypn00o](https://github.com/hypn00o)
@@ -230,6 +250,10 @@
 
 ### [jtmelton](https://github.com/jtmelton)
 - 🌟 👤 [jtmelton](https://github.com/jtmelton) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [khaledmraad](https://github.com/khaledmraad)
+- 🌟 👤 [khaledmraad](https://github.com/khaledmraad) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [llavandaa](https://github.com/llavandaa)
@@ -352,5 +376,5 @@
 
 
 ---
-*最后更新于 2025-10-31 17:41:36 UTC*
+*最后更新于 2025-10-31 18:34:14 UTC*
 *历史记录保存在 `archive` 目录中。*
