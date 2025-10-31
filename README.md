@@ -4,12 +4,20 @@
 
 ## 今日动态
 
+### [0xricksanchez](https://github.com/0xricksanchez)
+- 🌟 👤 [0xricksanchez](https://github.com/0xricksanchez) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [3esawe](https://github.com/3esawe)
 - 🍴 👤 [3esawe](https://github.com/3esawe) Forked [3esawe/cai](https://github.com/3esawe/cai) to [3esawe/cai](https://github.com/3esawe/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [40TOHH](https://github.com/40TOHH)
 - 🌟 👤 [40TOHH](https://github.com/40TOHH) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [4renwald](https://github.com/4renwald)
+- 🌟 👤 [4renwald](https://github.com/4renwald) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [ASHS21](https://github.com/ASHS21)
@@ -22,6 +30,10 @@
 
 ### [AkiAfroo](https://github.com/AkiAfroo)
 - 🌟 👤 [AkiAfroo](https://github.com/AkiAfroo) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [Ammar-Alnagar](https://github.com/Ammar-Alnagar)
+- 🌟 👤 [Ammar-Alnagar](https://github.com/Ammar-Alnagar) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [AnthonyRonning](https://github.com/AnthonyRonning)
@@ -120,6 +132,10 @@
 - 🌟 👤 [ViCrack](https://github.com/ViCrack) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [Zer0Risk](https://github.com/Zer0Risk)
+- 🌟 👤 [Zer0Risk](https://github.com/Zer0Risk) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [aallen90](https://github.com/aallen90)
 - 🌟 👤 [aallen90](https://github.com/aallen90) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -156,6 +172,10 @@
 - 🌟 👤 [aptosui](https://github.com/aptosui) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [arnxxau](https://github.com/arnxxau)
+- 🌟 👤 [arnxxau](https://github.com/arnxxau) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [basilinq](https://github.com/basilinq)
 - 🌟 👤 [basilinq](https://github.com/basilinq) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -182,6 +202,10 @@
 
 ### [gnol719](https://github.com/gnol719)
 - 🌟 👤 [gnol719](https://github.com/gnol719) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [hooiv](https://github.com/hooiv)
+- 🌟 👤 [hooiv](https://github.com/hooiv) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [hypn00o](https://github.com/hypn00o)
@@ -316,5 +340,5 @@
 
 
 ---
-*最后更新于 2025-10-31 15:42:57 UTC*
+*最后更新于 2025-10-31 16:30:08 UTC*
 *历史记录保存在 `archive` 目录中。*
