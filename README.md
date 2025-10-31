@@ -96,6 +96,10 @@
 - 🌟 👤 [afmaghribi](https://github.com/afmaghribi) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [akfincode](https://github.com/akfincode)
+- 🌟 👤 [akfincode](https://github.com/akfincode) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [alghamdima](https://github.com/alghamdima)
 - 🌟 👤 [alghamdima](https://github.com/alghamdima) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -228,5 +232,5 @@
 
 
 ---
-*最后更新于 2025-10-31 11:19:19 UTC*
+*最后更新于 2025-10-31 11:39:12 UTC*
 *历史记录保存在 `archive` 目录中。*
