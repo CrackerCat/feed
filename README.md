@@ -12,12 +12,20 @@
 - 🌟 👤 [Acustimet](https://github.com/Acustimet) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [AkiAfroo](https://github.com/AkiAfroo)
+- 🌟 👤 [AkiAfroo](https://github.com/AkiAfroo) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [DrinkDifferent](https://github.com/DrinkDifferent)
 - 🌟 👤 [DrinkDifferent](https://github.com/DrinkDifferent) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [EvE-VeV](https://github.com/EvE-VeV)
 - 🌟 👤 [EvE-VeV](https://github.com/EvE-VeV) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [Glider232](https://github.com/Glider232)
+- 🌟 👤 [Glider232](https://github.com/Glider232) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [H3d45](https://github.com/H3d45)
@@ -76,6 +84,10 @@
 - 🌟 👤 [ceballosol](https://github.com/ceballosol) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [gnol719](https://github.com/gnol719)
+- 🌟 👤 [gnol719](https://github.com/gnol719) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [hypn00o](https://github.com/hypn00o)
 - 🌟 👤 [hypn00o](https://github.com/hypn00o) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -122,6 +134,10 @@
 - 🌟 👤 [softdream1981](https://github.com/softdream1981) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [szm9527](https://github.com/szm9527)
+- 🌟 👤 [szm9527](https://github.com/szm9527) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+
 ### [tamersalama](https://github.com/tamersalama)
 - 🌟 👤 [tamersalama](https://github.com/tamersalama) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -142,6 +158,12 @@
 - 🌟 👤 [vcjpierre](https://github.com/vcjpierre) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [weilan2007](https://github.com/weilan2007)
+- 🍴 👤 [weilan2007](https://github.com/weilan2007) Forked [weilan2007/PythonPark](https://github.com/weilan2007/PythonPark) to [weilan2007/PythonPark](https://github.com/weilan2007/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+- 🌟 👤 [weilan2007](https://github.com/weilan2007) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+
 ### [xposed73](https://github.com/xposed73)
 - 🌟 👤 [xposed73](https://github.com/xposed73) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -158,5 +180,5 @@
 
 
 ---
-*最后更新于 2025-10-31 08:30:47 UTC*
+*最后更新于 2025-10-31 09:26:03 UTC*
 *历史记录保存在 `archive` 目录中。*
