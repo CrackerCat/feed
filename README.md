@@ -28,6 +28,10 @@
 - 🌟 👤 [ceballosol](https://github.com/ceballosol) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [hypn00o](https://github.com/hypn00o)
+- 🌟 👤 [hypn00o](https://github.com/hypn00o) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [numman-ali](https://github.com/numman-ali)
 - 🌟 👤 [numman-ali](https://github.com/numman-ali) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -40,7 +44,11 @@
 - 🌟 👤 [vcjpierre](https://github.com/vcjpierre) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [zhang-theo](https://github.com/zhang-theo)
+- 🌟 👤 [zhang-theo](https://github.com/zhang-theo) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 
 ---
-*最后更新于 2025-10-31 01:52:45 UTC*
+*最后更新于 2025-10-31 03:14:07 UTC*
 *历史记录保存在 `archive` 目录中。*
