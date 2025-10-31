@@ -120,6 +120,10 @@
 - 🌟 👤 [alghamdima](https://github.com/alghamdima) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [amine123ait](https://github.com/amine123ait)
+- 🌟 👤 [amine123ait](https://github.com/amine123ait) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [anupamme](https://github.com/anupamme)
 - 🌟 👤 [anupamme](https://github.com/anupamme) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -140,6 +144,10 @@
 - 🌟 👤 [codingdrone](https://github.com/codingdrone) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [ergikruja](https://github.com/ergikruja)
+- 🌟 👤 [ergikruja](https://github.com/ergikruja) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [futurisold](https://github.com/futurisold)
 - 🌟 👤 [futurisold](https://github.com/futurisold) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -154,6 +162,14 @@
 
 ### [jackdepew](https://github.com/jackdepew)
 - 🍴 👤 [jackdepew](https://github.com/jackdepew) Forked [jackdepew/cai](https://github.com/jackdepew/cai) to [jackdepew/cai](https://github.com/jackdepew/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [jctmf](https://github.com/jctmf)
+- 🌟 👤 [jctmf](https://github.com/jctmf) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [jtmelton](https://github.com/jtmelton)
+- 🌟 👤 [jtmelton](https://github.com/jtmelton) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [llavandaa](https://github.com/llavandaa)
@@ -260,5 +276,5 @@
 
 
 ---
-*最后更新于 2025-10-31 12:50:15 UTC*
+*最后更新于 2025-10-31 13:33:12 UTC*
 *历史记录保存在 `archive` 目录中。*
