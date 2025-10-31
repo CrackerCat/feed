@@ -80,6 +80,10 @@
 - 🌟 👤 [hypn00o](https://github.com/hypn00o) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [llavandaa](https://github.com/llavandaa)
+- 🌟 👤 [llavandaa](https://github.com/llavandaa) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [lokeshloki65](https://github.com/lokeshloki65)
 - 🌟 👤 [lokeshloki65](https://github.com/lokeshloki65) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -108,6 +112,14 @@
 - 🌟 👤 [scops](https://github.com/scops) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 - 🍴 👤 [scops](https://github.com/scops) Forked [scops/cai](https://github.com/scops/cai) to [scops/cai](https://github.com/scops/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [shunkakinoki](https://github.com/shunkakinoki)
+- 🌟 👤 [shunkakinoki](https://github.com/shunkakinoki) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [softdream1981](https://github.com/softdream1981)
+- 🌟 👤 [softdream1981](https://github.com/softdream1981) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [tamersalama](https://github.com/tamersalama)
@@ -140,7 +152,11 @@
 - 🌟 👤 [zhang-theo](https://github.com/zhang-theo) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [zyufoye](https://github.com/zyufoye)
+- 🌟 👤 [zyufoye](https://github.com/zyufoye) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 
 ---
-*最后更新于 2025-10-31 07:39:57 UTC*
+*最后更新于 2025-10-31 08:30:47 UTC*
 *历史记录保存在 `archive` 目录中。*
