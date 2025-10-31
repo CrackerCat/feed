@@ -88,6 +88,9 @@
 - 🌟 👤 [Imkamac](https://github.com/Imkamac) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [KHwang9883](https://github.com/KHwang9883)
+- 🌟 👤 [KHwang9883](https://github.com/KHwang9883) Starred [xlzhen-940218/Android16-Origin-Debian12-GUI](https://github.com/xlzhen-940218/Android16-Origin-Debian12-GUI)
+
 ### [LordGlorfindell](https://github.com/LordGlorfindell)
 - 🌟 👤 [LordGlorfindell](https://github.com/LordGlorfindell) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -288,6 +291,10 @@
 - 🌟 👤 [mickelfeng](https://github.com/mickelfeng) Starred [CircleCashTeam/MagiskPatcher](https://github.com/CircleCashTeam/MagiskPatcher)
   > Patch boot image by using a static website.
 
+### [noahmurphx](https://github.com/noahmurphx)
+- 🌟 👤 [noahmurphx](https://github.com/noahmurphx) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [numman-ali](https://github.com/numman-ali)
 - 🌟 👤 [numman-ali](https://github.com/numman-ali) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -356,6 +363,10 @@
 - 🌟 👤 [willasaywhat](https://github.com/willasaywhat) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [x11t200z](https://github.com/x11t200z)
+- 🌟 👤 [x11t200z](https://github.com/x11t200z) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [xposed73](https://github.com/xposed73)
 - 🌟 👤 [xposed73](https://github.com/xposed73) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -376,5 +387,5 @@
 
 
 ---
-*最后更新于 2025-10-31 18:34:14 UTC*
+*最后更新于 2025-10-31 19:17:40 UTC*
 *历史记录保存在 `archive` 目录中。*
