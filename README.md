@@ -28,6 +28,10 @@
 - 🌟 👤 [Merculous](https://github.com/Merculous) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [ViCrack](https://github.com/ViCrack)
+- 🌟 👤 [ViCrack](https://github.com/ViCrack) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [adeptusnull](https://github.com/adeptusnull)
 - 🌟 👤 [adeptusnull](https://github.com/adeptusnull) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -56,6 +60,10 @@
 - 🌟 👤 [numman-ali](https://github.com/numman-ali) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [samChen69](https://github.com/samChen69)
+- 🌟 👤 [samChen69](https://github.com/samChen69) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
+  > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
+
 ### [tamersalama](https://github.com/tamersalama)
 - 🌟 👤 [tamersalama](https://github.com/tamersalama) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -78,5 +86,5 @@
 
 
 ---
-*最后更新于 2025-10-31 05:24:12 UTC*
+*最后更新于 2025-10-31 05:43:11 UTC*
 *历史记录保存在 `archive` 目录中。*
