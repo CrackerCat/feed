@@ -16,6 +16,10 @@
 - 🌟 👤 [AkiAfroo](https://github.com/AkiAfroo) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [AnthonyRonning](https://github.com/AnthonyRonning)
+- 🌟 👤 [AnthonyRonning](https://github.com/AnthonyRonning) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [DrinkDifferent](https://github.com/DrinkDifferent)
 - 🌟 👤 [DrinkDifferent](https://github.com/DrinkDifferent) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -48,6 +52,10 @@
 - 🌟 👤 [Luffy0xCyber](https://github.com/Luffy0xCyber) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [MChorfa](https://github.com/MChorfa)
+- 🌟 👤 [MChorfa](https://github.com/MChorfa) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [MRIQUE](https://github.com/MRIQUE)
 - 🌟 👤 [MRIQUE](https://github.com/MRIQUE) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -58,6 +66,14 @@
 
 ### [Oakleysecurity](https://github.com/Oakleysecurity)
 - 🌟 👤 [Oakleysecurity](https://github.com/Oakleysecurity) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [Rayane-Boucheraine](https://github.com/Rayane-Boucheraine)
+- 🌟 👤 [Rayane-Boucheraine](https://github.com/Rayane-Boucheraine) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [RazviAlex](https://github.com/RazviAlex)
+- 🌟 👤 [RazviAlex](https://github.com/RazviAlex) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [SINENSIA](https://github.com/SINENSIA)
@@ -212,5 +228,5 @@
 
 
 ---
-*最后更新于 2025-10-31 10:45:21 UTC*
+*最后更新于 2025-10-31 11:19:19 UTC*
 *历史记录保存在 `archive` 目录中。*
