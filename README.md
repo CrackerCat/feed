@@ -76,6 +76,10 @@
 - 🌟 👤 [afmaghribi](https://github.com/afmaghribi) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [alghamdima](https://github.com/alghamdima)
+- 🌟 👤 [alghamdima](https://github.com/alghamdima) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [anupamme](https://github.com/anupamme)
 - 🌟 👤 [anupamme](https://github.com/anupamme) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -90,6 +94,10 @@
 
 ### [ceballosol](https://github.com/ceballosol)
 - 🌟 👤 [ceballosol](https://github.com/ceballosol) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [futurisold](https://github.com/futurisold)
+- 🌟 👤 [futurisold](https://github.com/futurisold) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [gnol719](https://github.com/gnol719)
@@ -115,6 +123,14 @@
 ### [m7medVision](https://github.com/m7medVision)
 - 🌟 👤 [m7medVision](https://github.com/m7medVision) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
+
+### [manzil-infinity180](https://github.com/manzil-infinity180)
+- 🌟 👤 [manzil-infinity180](https://github.com/manzil-infinity180) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [mickelfeng](https://github.com/mickelfeng)
+- 🌟 👤 [mickelfeng](https://github.com/mickelfeng) Starred [CircleCashTeam/MagiskPatcher](https://github.com/CircleCashTeam/MagiskPatcher)
+  > Patch boot image by using a static website.
 
 ### [numman-ali](https://github.com/numman-ali)
 - 🌟 👤 [numman-ali](https://github.com/numman-ali) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -188,5 +204,5 @@
 
 
 ---
-*最后更新于 2025-10-31 09:43:19 UTC*
+*最后更新于 2025-10-31 10:25:41 UTC*
 *历史记录保存在 `archive` 目录中。*
