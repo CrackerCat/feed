@@ -20,8 +20,20 @@
 - 🌟 👤 [Imkamac](https://github.com/Imkamac) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [adeptusnull](https://github.com/adeptusnull)
+- 🌟 👤 [adeptusnull](https://github.com/adeptusnull) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [anupamme](https://github.com/anupamme)
 - 🌟 👤 [anupamme](https://github.com/anupamme) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [aooiuu](https://github.com/aooiuu)
+- 🌟 👤 [aooiuu](https://github.com/aooiuu) Starred [react-native-linear-gradient/react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient)
+  > A <LinearGradient /> component for react-native
+
+### [aptosui](https://github.com/aptosui)
+- 🌟 👤 [aptosui](https://github.com/aptosui) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [ceballosol](https://github.com/ceballosol)
@@ -34,6 +46,10 @@
 
 ### [numman-ali](https://github.com/numman-ali)
 - 🌟 👤 [numman-ali](https://github.com/numman-ali) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [tamersalama](https://github.com/tamersalama)
+- 🌟 👤 [tamersalama](https://github.com/tamersalama) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [umutkeltek](https://github.com/umutkeltek)
@@ -50,5 +66,5 @@
 
 
 ---
-*最后更新于 2025-10-31 03:14:07 UTC*
+*最后更新于 2025-10-31 03:55:52 UTC*
 *历史记录保存在 `archive` 目录中。*
