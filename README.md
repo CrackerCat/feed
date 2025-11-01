@@ -4,6 +4,18 @@
 
 ## 今日动态
 
+### [Everboat](https://github.com/Everboat)
+- 🌟 👤 [Everboat](https://github.com/Everboat) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
+### [JacobJacob](https://github.com/JacobJacob)
+- 🌟 👤 [JacobJacob](https://github.com/JacobJacob) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [akshaydinesh02](https://github.com/akshaydinesh02)
+- 🌟 👤 [akshaydinesh02](https://github.com/akshaydinesh02) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [andsnw](https://github.com/andsnw)
 - 🌟 👤 [andsnw](https://github.com/andsnw) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -18,5 +30,5 @@
 
 
 ---
-*最后更新于 2025-11-01 01:56:00 UTC*
+*最后更新于 2025-11-01 03:15:55 UTC*
 *历史记录保存在 `archive` 目录中。*
