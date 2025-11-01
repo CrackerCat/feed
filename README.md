@@ -16,6 +16,10 @@
 - 🌟 👤 [Ritesh0604](https://github.com/Ritesh0604) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [TakakuTakuya](https://github.com/TakakuTakuya)
+- 🌟 👤 [TakakuTakuya](https://github.com/TakakuTakuya) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [akaedu2012](https://github.com/akaedu2012)
 - 🌟 👤 [akaedu2012](https://github.com/akaedu2012) Starred [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)
   > Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
@@ -42,6 +46,10 @@
 - 🌟 👤 [katsumi-axis](https://github.com/katsumi-axis) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [latreon](https://github.com/latreon)
+- 🌟 👤 [latreon](https://github.com/latreon) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [lvprelvpre](https://github.com/lvprelvpre)
 - 🍴 👤 [lvprelvpre](https://github.com/lvprelvpre) Forked [lvprelvpre/NPatch](https://github.com/lvprelvpre/NPatch) to [lvprelvpre/NPatch](https://github.com/lvprelvpre/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -56,5 +64,5 @@
 
 
 ---
-*最后更新于 2025-11-01 09:39:18 UTC*
+*最后更新于 2025-11-01 10:22:33 UTC*
 *历史记录保存在 `archive` 目录中。*
