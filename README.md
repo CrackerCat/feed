@@ -16,6 +16,10 @@
 - 🌟 👤 [JacobJacob](https://github.com/JacobJacob) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [KHwang9883](https://github.com/KHwang9883)
+- 🌟 👤 [KHwang9883](https://github.com/KHwang9883) Starred [CST1229/NSMF2012SlightlyFixed](https://github.com/CST1229/NSMF2012SlightlyFixed)
+  > New Super Mario Forever 2012: Slightly-Fixed Edition
+
 ### [Kouket0space](https://github.com/Kouket0space)
 - 🌟 👤 [Kouket0space](https://github.com/Kouket0space) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -122,5 +126,5 @@
 
 
 ---
-*最后更新于 2025-11-01 17:37:51 UTC*
+*最后更新于 2025-11-01 18:29:31 UTC*
 *历史记录保存在 `archive` 目录中。*
