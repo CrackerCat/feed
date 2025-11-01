@@ -58,6 +58,10 @@
 - 🌟 👤 [enigma522](https://github.com/enigma522) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [fabiohj7](https://github.com/fabiohj7)
+- 🌟 👤 [fabiohj7](https://github.com/fabiohj7) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [ftroo2m](https://github.com/ftroo2m)
 - 🌟 👤 [ftroo2m](https://github.com/ftroo2m) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -65,6 +69,10 @@
 ### [graygraygray7](https://github.com/graygraygray7)
 - 🌟 👤 [graygraygray7](https://github.com/graygraygray7) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+### [hxteam](https://github.com/hxteam)
+- 🌟 👤 [hxteam](https://github.com/hxteam) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [katsumi-axis](https://github.com/katsumi-axis)
 - 🌟 👤 [katsumi-axis](https://github.com/katsumi-axis) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -110,5 +118,5 @@
 
 
 ---
-*最后更新于 2025-11-01 16:42:27 UTC*
+*最后更新于 2025-11-01 17:17:31 UTC*
 *历史记录保存在 `archive` 目录中。*
