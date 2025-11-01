@@ -82,6 +82,10 @@
 - 🌟 👤 [hxteam](https://github.com/hxteam) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [jb-prompts](https://github.com/jb-prompts)
+- 🍴 👤 [jb-prompts](https://github.com/jb-prompts) Forked [jb-prompts/cai](https://github.com/jb-prompts/cai) to [jb-prompts/cai](https://github.com/jb-prompts/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [katsumi-axis](https://github.com/katsumi-axis)
 - 🌟 👤 [katsumi-axis](https://github.com/katsumi-axis) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -126,5 +130,5 @@
 
 
 ---
-*最后更新于 2025-11-01 18:29:31 UTC*
+*最后更新于 2025-11-01 18:46:14 UTC*
 *历史记录保存在 `archive` 目录中。*
