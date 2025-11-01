@@ -32,7 +32,11 @@
 - 🍴 👤 [lvprelvpre](https://github.com/lvprelvpre) Forked [lvprelvpre/NPatch](https://github.com/lvprelvpre/NPatch) to [lvprelvpre/NPatch](https://github.com/lvprelvpre/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
+### [peko19](https://github.com/peko19)
+- 🌟 👤 [peko19](https://github.com/peko19) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 
 ---
-*最后更新于 2025-11-01 06:31:42 UTC*
+*最后更新于 2025-11-01 07:19:44 UTC*
 *历史记录保存在 `archive` 目录中。*
