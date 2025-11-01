@@ -42,6 +42,10 @@
 - 🌟 👤 [enigma522](https://github.com/enigma522) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [ftroo2m](https://github.com/ftroo2m)
+- 🌟 👤 [ftroo2m](https://github.com/ftroo2m) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
+  > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 ### [graygraygray7](https://github.com/graygraygray7)
 - 🌟 👤 [graygraygray7](https://github.com/graygraygray7) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -66,7 +70,21 @@
 - 🌟 👤 [peko19](https://github.com/peko19) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [y11en](https://github.com/y11en)
+- 🌟 👤 [y11en](https://github.com/y11en) Starred [rasta-mouse/LibGate](https://github.com/rasta-mouse/LibGate)
+  > A Crystal Palace shared library to resolve & perform syscalls
+- 🍴 👤 [y11en](https://github.com/y11en) Forked [y11en/LibGate](https://github.com/y11en/LibGate) to [y11en/LibGate](https://github.com/y11en/LibGate)
+  > A Crystal Palace shared library to resolve & perform syscalls
+
+### [ziz123](https://github.com/ziz123)
+- 🌟 👤 [ziz123](https://github.com/ziz123) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
+  > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+### [zombie12138](https://github.com/zombie12138)
+- 🌟 👤 [zombie12138](https://github.com/zombie12138) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 
 ---
-*最后更新于 2025-11-01 11:39:01 UTC*
+*最后更新于 2025-11-01 12:42:49 UTC*
 *历史记录保存在 `archive` 目录中。*
