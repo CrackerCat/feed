@@ -38,6 +38,10 @@
 - 🍴 👤 [andypeng2015](https://github.com/andypeng2015) Forked [andypeng2015/flash-linux0.11-talk](https://github.com/andypeng2015/flash-linux0.11-talk) to [andypeng2015/flash-linux0.11-talk](https://github.com/andypeng2015/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [enigma522](https://github.com/enigma522)
+- 🌟 👤 [enigma522](https://github.com/enigma522) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [graygraygray7](https://github.com/graygraygray7)
 - 🌟 👤 [graygraygray7](https://github.com/graygraygray7) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
@@ -64,5 +68,5 @@
 
 
 ---
-*最后更新于 2025-11-01 10:41:01 UTC*
+*最后更新于 2025-11-01 11:17:26 UTC*
 *历史记录保存在 `archive` 目录中。*
