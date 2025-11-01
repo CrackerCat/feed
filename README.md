@@ -78,6 +78,10 @@
 - 🌟 👤 [graygraygray7](https://github.com/graygraygray7) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [huolter](https://github.com/huolter)
+- 🌟 👤 [huolter](https://github.com/huolter) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [hxteam](https://github.com/hxteam)
 - 🌟 👤 [hxteam](https://github.com/hxteam) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -130,5 +134,5 @@
 
 
 ---
-*最后更新于 2025-11-01 20:22:14 UTC*
+*最后更新于 2025-11-01 20:39:16 UTC*
 *历史记录保存在 `archive` 目录中。*
