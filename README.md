@@ -38,6 +38,10 @@
 - 🌟 👤 [akshaydinesh02](https://github.com/akshaydinesh02) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [amol-can](https://github.com/amol-can)
+- 🌟 👤 [amol-can](https://github.com/amol-can) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [andsnw](https://github.com/andsnw)
 - 🌟 👤 [andsnw](https://github.com/andsnw) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -45,6 +49,10 @@
 ### [andypeng2015](https://github.com/andypeng2015)
 - 🍴 👤 [andypeng2015](https://github.com/andypeng2015) Forked [andypeng2015/flash-linux0.11-talk](https://github.com/andypeng2015/flash-linux0.11-talk) to [andypeng2015/flash-linux0.11-talk](https://github.com/andypeng2015/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+### [ayarikba](https://github.com/ayarikba)
+- 🌟 👤 [ayarikba](https://github.com/ayarikba) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [enigma522](https://github.com/enigma522)
 - 🌟 👤 [enigma522](https://github.com/enigma522) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -98,5 +106,5 @@
 
 
 ---
-*最后更新于 2025-11-01 15:37:55 UTC*
+*最后更新于 2025-11-01 16:25:28 UTC*
 *历史记录保存在 `archive` 目录中。*
