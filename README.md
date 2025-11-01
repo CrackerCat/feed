@@ -38,6 +38,10 @@
 - 🌟 👤 [akshaydinesh02](https://github.com/akshaydinesh02) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [amirkode](https://github.com/amirkode)
+- 🌟 👤 [amirkode](https://github.com/amirkode) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [amol-can](https://github.com/amol-can)
 - 🌟 👤 [amol-can](https://github.com/amol-can) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -118,5 +122,5 @@
 
 
 ---
-*最后更新于 2025-11-01 17:17:31 UTC*
+*最后更新于 2025-11-01 17:37:51 UTC*
 *历史记录保存在 `archive` 目录中。*
