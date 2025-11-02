@@ -8,10 +8,16 @@
 - 🌟 👤 [AndySung320](https://github.com/AndySung320) Starred [conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses)
   > 名校公开课程评价网
 
+### [MiraclePatrick](https://github.com/MiraclePatrick)
+- 🌟 👤 [MiraclePatrick](https://github.com/MiraclePatrick) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
 - 🌟 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Starred [LHQQ/sudoku_universe](https://github.com/LHQQ/sudoku_universe)
 - 🍴 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Forked [Utility-Software-Collection/sudoku_universe](https://github.com/Utility-Software-Collection/sudoku_universe) to [Utility-Software-Collection/sudoku_universe](https://github.com/Utility-Software-Collection/sudoku_universe)
   > 使用 Python 制作的数独推算程序
+- 🌟 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Starred [zmrlft/GreenWall](https://github.com/zmrlft/GreenWall)
+  > 在你的GitHub贡献历史上画画！customizing the GitHub contribution graph, allowing you to draw various patterns on...
 
 ### [Nguyen-Trung-Kien](https://github.com/Nguyen-Trung-Kien)
 - 🌟 👤 [Nguyen-Trung-Kien](https://github.com/Nguyen-Trung-Kien) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -31,5 +37,5 @@
 
 
 ---
-*最后更新于 2025-11-02 06:33:23 UTC*
+*最后更新于 2025-11-02 07:20:47 UTC*
 *历史记录保存在 `archive` 目录中。*
