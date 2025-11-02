@@ -3,7 +3,7 @@ name: Daily Digest
 on:
   schedule:
     # 每 30 分钟运行一次
-    - cron: '*/30 * * * *'
+    - cron: '*/60 * * * *'
   # 允许手动触发
   workflow_dispatch:
 
