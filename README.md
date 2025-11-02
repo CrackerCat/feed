@@ -39,6 +39,10 @@
 - 🌟 👤 [dkalvelis-spider](https://github.com/dkalvelis-spider) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [haastrupea](https://github.com/haastrupea)
+- 🌟 👤 [haastrupea](https://github.com/haastrupea) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [kisskissbinbin](https://github.com/kisskissbinbin)
 - 🌟 👤 [kisskissbinbin](https://github.com/kisskissbinbin) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
@@ -46,6 +50,10 @@
 ### [luckyfatpig](https://github.com/luckyfatpig)
 - 🌟 👤 [luckyfatpig](https://github.com/luckyfatpig) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
+### [rub3ncill0](https://github.com/rub3ncill0)
+- 🌟 👤 [rub3ncill0](https://github.com/rub3ncill0) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
 
 ### [wxxsfxyzm](https://github.com/wxxsfxyzm)
 - 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass)
@@ -57,7 +65,11 @@
 - 🍴 👤 [xieisabug](https://github.com/xieisabug) Forked [xieisabug/cai](https://github.com/xieisabug/cai) to [xieisabug/cai](https://github.com/xieisabug/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [y11en](https://github.com/y11en)
+- 🌟 👤 [y11en](https://github.com/y11en) Starred [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
+  > "AI-Trader: Can AI Beat the Market?" Live Trading: https://hkuds.github.io/AI-Trader/
+
 
 ---
-*最后更新于 2025-11-02 09:38:50 UTC*
+*最后更新于 2025-11-02 10:21:28 UTC*
 *历史记录保存在 `archive` 目录中。*
