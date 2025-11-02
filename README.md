@@ -39,6 +39,10 @@
 - 🌟 👤 [dkalvelis-spider](https://github.com/dkalvelis-spider) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
   > Cybersecurity AI (CAI), the framework for AI Security
 
+### [kisskissbinbin](https://github.com/kisskissbinbin)
+- 🌟 👤 [kisskissbinbin](https://github.com/kisskissbinbin) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 ### [luckyfatpig](https://github.com/luckyfatpig)
 - 🌟 👤 [luckyfatpig](https://github.com/luckyfatpig) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
@@ -55,5 +59,5 @@
 
 
 ---
-*最后更新于 2025-11-02 08:26:42 UTC*
+*最后更新于 2025-11-02 08:43:40 UTC*
 *历史记录保存在 `archive` 目录中。*
