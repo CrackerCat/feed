@@ -6,6 +6,8 @@
 
 ### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
 - 🌟 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Starred [LHQQ/sudoku_universe](https://github.com/LHQQ/sudoku_universe)
+- 🍴 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Forked [Utility-Software-Collection/sudoku_universe](https://github.com/Utility-Software-Collection/sudoku_universe) to [Utility-Software-Collection/sudoku_universe](https://github.com/Utility-Software-Collection/sudoku_universe)
+  > 使用 Python 制作的数独推算程序
 
 ### [acrogenesis](https://github.com/acrogenesis)
 - 🌟 👤 [acrogenesis](https://github.com/acrogenesis) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -17,5 +19,5 @@
 
 
 ---
-*最后更新于 2025-11-02 01:58:42 UTC*
+*最后更新于 2025-11-02 03:20:13 UTC*
 *历史记录保存在 `archive` 目录中。*
