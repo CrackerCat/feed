@@ -17,7 +17,11 @@
 - 🌟 👤 [cypress927](https://github.com/cypress927) Starred [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk)
   > 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+### [dkalvelis-spider](https://github.com/dkalvelis-spider)
+- 🌟 👤 [dkalvelis-spider](https://github.com/dkalvelis-spider) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
 
 ---
-*最后更新于 2025-11-02 03:20:13 UTC*
+*最后更新于 2025-11-02 03:57:10 UTC*
 *历史记录保存在 `archive` 目录中。*
