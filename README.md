@@ -1,184 +1,183 @@
-# 每日 GitHub 动态 (2025-11-18)
+# 每日 GitHub 动态 (2025-11-19)
 
 我关注用户的今日公开动态 (每15分钟更新)。
 
 ## 今日动态
 
-### [AMJIYU](https://github.com/AMJIYU)
-- 🌟 👤 [AMJIYU](https://github.com/AMJIYU) Starred [BannyLon/DifyAIA](https://github.com/BannyLon/DifyAIA)
-  > 基于Dify自主创建的AI应用DSL工作流，你可以免费获取，无论是出于个人需求还是学习目的，它都能为您开启一段充满无限可能的智能之旅。
+### [4ESTSEC](https://github.com/4ESTSEC)
+- 🌟 👤 [4ESTSEC](https://github.com/4ESTSEC) Starred [4ESTSEC/sensitive_data](https://github.com/4ESTSEC/sensitive_data)
+  > 探测数据库中的敏感信息，从而在测试的过程中更好、更快的对数据库做信息收集。
 
-### [BryanGIG](https://github.com/BryanGIG)
-- 🍴 👤 [BryanGIG](https://github.com/BryanGIG) Forked [BryanGIG/GKI_KernelSU_SUSFS](https://github.com/BryanGIG/GKI_KernelSU_SUSFS) to [BryanGIG/GKI_KernelSU_SUSFS](https://github.com/BryanGIG/GKI_KernelSU_SUSFS)
-  > GKI Kernels with KernelSU & SUSFS
+### [Abbbbbi](https://github.com/Abbbbbi)
+- 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine)
+  > 🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework.
+- 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+  > RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge...
+- 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [shivkumarganesh/Agentic-Context-Engineering](https://github.com/shivkumarganesh/Agentic-Context-Engineering)
+  > Agentic Context Engineering Paper Implementation
 
-### [Fansirsqi](https://github.com/Fansirsqi)
-- 🌟 👤 [Fansirsqi](https://github.com/Fansirsqi) Starred [o8oo8o/WebCurl](https://github.com/o8oo8o/WebCurl)
-  > 极简网页版API调试神器
-- 🍴 👤 [Fansirsqi](https://github.com/Fansirsqi) Forked [Fansirsqi/WebCurl](https://github.com/Fansirsqi/WebCurl) to [Fansirsqi/WebCurl](https://github.com/Fansirsqi/WebCurl)
-  > 极简网页版API调试神器
+### [DoranekoSystems](https://github.com/DoranekoSystems)
+- 🌟 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Starred [melonattacker/threat-thinker](https://github.com/melonattacker/threat-thinker)
+  > Threat Thinker is an open-source tool that automatically performs lightweight, low-noise threat mode...
 
-### [J0o1ey](https://github.com/J0o1ey)
-- 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [supabase/auth](https://github.com/supabase/auth)
-  > A JWT based API for managing users and issuing JWT tokens
+### [Drun1baby](https://github.com/Drun1baby)
+- 🌟 👤 [Drun1baby](https://github.com/Drun1baby) Starred [bytedance/PatchEval](https://github.com/bytedance/PatchEval)
+  > PatchEval: A New Benchmark for Evaluating LLMs on Patching Real-World Vulnerabilities
 
-### [KickedDroid](https://github.com/KickedDroid)
-- 🌟 👤 [KickedDroid](https://github.com/KickedDroid) Starred [facebookexperimental/semcode](https://github.com/facebookexperimental/semcode)
-  > semcode
+### [Lakr233](https://github.com/Lakr233)
+- 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [FFRI/CVE-2025-24204](https://github.com/FFRI/CVE-2025-24204)
+  > PoC and technical details of CVE-2025-24204
 
-### [PIKACHUIM](https://github.com/PIKACHUIM)
-- 🌟 👤 [PIKACHUIM](https://github.com/PIKACHUIM) Starred [PIKACHUIM/easytier-worker](https://github.com/PIKACHUIM/easytier-worker)
-  > Easytier Public Server Aggregation and Distribution API
+### [Lotus6](https://github.com/Lotus6)
+- 🌟 👤 [Lotus6](https://github.com/Lotus6) Starred [dirkjanm/BloodHound.py](https://github.com/dirkjanm/BloodHound.py)
+  > A Python based ingestor for BloodHound
 
-### [RicardoJiang](https://github.com/RicardoJiang)
-- 🍴 👤 [RicardoJiang](https://github.com/RicardoJiang) Forked [RicardoJiang/coil](https://github.com/RicardoJiang/coil) to [RicardoJiang/coil](https://github.com/RicardoJiang/coil)
-  > Image loading for Android and Compose Multiplatform.
+### [Proteas](https://github.com/Proteas)
+- 🌟 👤 [Proteas](https://github.com/Proteas) Starred [HexRaysSA/plugin-repository](https://github.com/HexRaysSA/plugin-repository)
+  > public index of IDA Pro plugins
 
-### [Skorpion96](https://github.com/Skorpion96)
-- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
-  > Software simulation for Android hardware-backed key pairs with key attestation
+### [Samael-Z](https://github.com/Samael-Z)
+- 🌟 👤 [Samael-Z](https://github.com/Samael-Z) Starred [noobpk/frida-ios-hook](https://github.com/noobpk/frida-ios-hook)
+  > A tool that helps you easy trace classes, functions, and modify the return values of methods on iOS ...
 
-### [SummerSec](https://github.com/SummerSec)
-- 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [liujuntao123/smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next)
-  > A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Langu...
+### [TheNetAdmin](https://github.com/TheNetAdmin)
+- 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [tikel1/HA-isometric-animated-picture-card](https://github.com/tikel1/HA-isometric-animated-picture-card)
+  > Custom Lovelace cards that let Home-Assistant picture-elements play WebM (or PNG) animations whose f...
 
-### [Udyz](https://github.com/Udyz)
-- 🌟 👤 [Udyz](https://github.com/Udyz) Starred [RomainMichau/cloudscraper_go](https://github.com/RomainMichau/cloudscraper_go)
-  > Simple go module to bypass CloudFlare securities
-- 🌟 👤 [Udyz](https://github.com/Udyz) Starred [ZFC-Digital/cf-clearance-scraper](https://github.com/ZFC-Digital/cf-clearance-scraper)
-  > This library was created for testing and training purposes to retrieve the page source of websites, ...
+### [XayahSuSuSu](https://github.com/XayahSuSuSu)
+- 🌟 👤 [XayahSuSuSu](https://github.com/XayahSuSuSu) Starred [Dimezis/BlurView](https://github.com/Dimezis/BlurView)
+  > Dynamic iOS-like blur of underlying Views for Android
 
-### [YuKongA](https://github.com/YuKongA)
-- 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [compose-miuix-ui/miuix](https://github.com/compose-miuix-ui/miuix)
-  > A UI library for Compose MultiPlatform
+### [any86](https://github.com/any86)
+- 🌟 👤 [any86](https://github.com/any86) Starred [oschwartz10612/poppler-windows](https://github.com/oschwartz10612/poppler-windows)
+  > Download Poppler binaries packaged for Windows with dependencies
 
-### [asmjmp0](https://github.com/asmjmp0)
-- 🌟 👤 [asmjmp0](https://github.com/asmjmp0) Starred [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)
-  > iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore ...
+### [breaking153](https://github.com/breaking153)
+- 🌟 👤 [breaking153](https://github.com/breaking153) Starred [ZeroMemoryEx/Blackout](https://github.com/ZeroMemoryEx/Blackout)
+  > kill anti-malware protected processes ( BYOVD ) ( Microsoft Won ) 
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [maxandrews/Epstein-doc-explorer](https://github.com/maxandrews/Epstein-doc-explorer)
-  > a graph explorer of the Epstein emails
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bytecodealliance/wasmtime-py](https://github.com/bytecodealliance/wasmtime-py)
+  > Python WebAssembly runtime powered by Wasmtime
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [senaykt/cloud-security-resources](https://github.com/senaykt/cloud-security-resources)
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [fxdeniz/NeSync](https://github.com/fxdeniz/NeSync)
-  > Local file sync & backups
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
-  > 🐶 A curated list of Web Security materials and resources.
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
-  > ALL IN ONE Hacking Tool For Hackers
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [github/codeql](https://github.com/github/codeql)
-  > CodeQL: the libraries and queries that power security researchers around the world, as well as code ...
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [GoTurkiye/training](https://github.com/GoTurkiye/training)
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [fatihacet/turkcekaynaklar-com](https://github.com/fatihacet/turkcekaynaklar-com)
-  > Özenle seçilmiş Türkçe kaynaklar listesi En: Curated list of Turkish resources 
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [LuNiZz/siber-guvenlik-sss](https://github.com/LuNiZz/siber-guvenlik-sss)
-  > SSS sorulari burada...
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [LuNiZz/fatboy-pentest](https://github.com/LuNiZz/fatboy-pentest)
-  > A debian docker image, considerably fat with tools and env installation ;) but still lean in terms o...
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [LuNiZz/MakeWindows10GreatAgain](https://github.com/LuNiZz/MakeWindows10GreatAgain)
-  > Tweaks to make Windows 10 less annoying and more usable
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [elbee-cyber/RopView](https://github.com/elbee-cyber/RopView)
-  > A BinaryNinja plugin for contextual gadget analysis and semantic/hueristic based querying.
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [ocatak/malware_api_class](https://github.com/ocatak/malware_api_class)
-  > Malware dataset for security researchers, data scientists. Public malware dataset generated by Cucko...
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [shaded-enmity/r2-ropstats](https://github.com/shaded-enmity/r2-ropstats)
-  > A set of tools based on radare2 for analysis of ROP gadgets and payloads.
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [trailofbits/anamorpher](https://github.com/trailofbits/anamorpher)
+  > image scaling attacks for multi-modal prompt injection
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [geo-tp/ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate)
+  > A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol 
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [jags111/ComfyUI_Jags_Audiotools](https://github.com/jags111/ComfyUI_Jags_Audiotools)
+  > A collection amazing audio tools for working with audio and sound files in comfyUI
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [bennjordan/PlateShapez](https://github.com/bennjordan/PlateShapez)
+  > A quick and simple way to automate small, hardly-noticeable, random gaussian shapes to confuse AI li...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [EarthScope/mseedconvert](https://github.com/EarthScope/mseedconvert)
+  > Convert miniSEED data to different versions, encodings, etc.
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [OpenMANET/openwrt](https://github.com/OpenMANET/openwrt)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [ffainelli/cecd](https://github.com/ffainelli/cecd)
+  > libcec/cecd - an HDMI-CEC library and daemon
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [ffainelli/openal-example](https://github.com/ffainelli/openal-example)
+  > OpenAL example
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Cr4sh/s6_pcie_microblaze](https://github.com/Cr4sh/s6_pcie_microblaze)
+  > PCI Express DIY hacking toolkit for Xilinx SP605. This repository is also home of Hyper-V Backdoor a...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Cr4sh/SmmBackdoor](https://github.com/Cr4sh/SmmBackdoor)
+  > First open source and publicly available System Management Mode backdoor for UEFI based platforms. G...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [f-bader/TokenTacticsV2](https://github.com/f-bader/TokenTacticsV2)
+  > A fork of the great TokenTactics with support for CAE and token endpoint v2
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [rvrsh3ll/TokenTactics](https://github.com/rvrsh3ll/TokenTactics)
+  > Azure JWT Token Manipulation Toolset
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [EspressoCake/Toggle_Token_Privileges_BOF](https://github.com/EspressoCake/Toggle_Token_Privileges_BOF)
+  > Syscall BOF to arbitrarily add/detract process token privilege rights.
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [EspressoCake/ReadRemoteProcessCommandline_BOF](https://github.com/EspressoCake/ReadRemoteProcessCommandline_BOF)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [williamknows/BOF.NET](https://github.com/williamknows/BOF.NET)
+  > A .NET Runtime for Cobalt Strike's Beacon Object Files
 
-### [coder-pig](https://github.com/coder-pig)
-- 🌟 👤 [coder-pig](https://github.com/coder-pig) Starred [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)
-  > Android real-time display control software
+### [ch4ncellor](https://github.com/ch4ncellor)
+- 🌟 👤 [ch4ncellor](https://github.com/ch4ncellor) Starred [36hours/idaemu](https://github.com/36hours/idaemu)
+  > idaemu is an IDA Pro Plugin - use for emulating code in IDA Pro.
+- 🌟 👤 [ch4ncellor](https://github.com/ch4ncellor) Starred [tkmru/nao](https://github.com/tkmru/nao)
+  > Simple No-meaning Assembly Omitter for IDA Pro (This is just a prototype)
 
-### [ctkqiang](https://github.com/ctkqiang)
-- 🍴 👤 [ctkqiang](https://github.com/ctkqiang) Forked [ctkqiang/WebRTC-Flutter-SDK](https://github.com/ctkqiang/WebRTC-Flutter-SDK) to [ctkqiang/WebRTC-Flutter-SDK](https://github.com/ctkqiang/WebRTC-Flutter-SDK)
-  > Ant Media Server WebRTC Flutter SDK
+### [chenwen1126](https://github.com/chenwen1126)
+- 🌟 👤 [chenwen1126](https://github.com/chenwen1126) Starred [qcoro/qcoro](https://github.com/qcoro/qcoro)
+  > C++ Coroutines for Qt
 
-### [darbra](https://github.com/darbra)
-- 🌟 👤 [darbra](https://github.com/darbra) Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
-  > cloudflare email 邮箱  临时邮箱 邮件发送 mail
+### [cn-kali-team](https://github.com/cn-kali-team)
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [okieraised/go-license-management](https://github.com/okieraised/go-license-management)
+  > license management api
 
-### [freddiebarrsmith](https://github.com/freddiebarrsmith)
-- 🌟 👤 [freddiebarrsmith](https://github.com/freddiebarrsmith) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
-  > Fully automatic censorship removal for language models
+### [cr0eax](https://github.com/cr0eax)
+- 🍴 👤 [cr0eax](https://github.com/cr0eax) Forked [cr0eax/AdaptixC2](https://github.com/cr0eax/AdaptixC2) to [cr0eax/AdaptixC2](https://github.com/cr0eax/AdaptixC2)
+
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [u-root/u-root](https://github.com/u-root/u-root)
+  > A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initram...
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gmh5225/karpathy](https://github.com/gmh5225/karpathy) to [gmh5225/karpathy](https://github.com/gmh5225/karpathy)
-  > An agentic Machine Learning Engineer
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gmh5225/poolviz](https://github.com/gmh5225/poolviz) to [gmh5225/poolviz](https://github.com/gmh5225/poolviz)
+  > PoolViz provides an interactive visualization of memory allocation patterns across multiple layers o...
 
-### [h3h3qaq](https://github.com/h3h3qaq)
-- 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [N1etzsche0/GOAD](https://github.com/N1etzsche0/GOAD)
+### [heyhu](https://github.com/heyhu)
+- 🌟 👤 [heyhu](https://github.com/heyhu) Starred [Erich8200/Karl_Gerat_U_co](https://github.com/Erich8200/Karl_Gerat_U_co)
+  > 自研Android脱壳机
 
-### [huaerxiela](https://github.com/huaerxiela)
-- 🌟 👤 [huaerxiela](https://github.com/huaerxiela) Starred [sidex15/susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module)
-  > An addon root hiding service for KernelSU
-- 🍴 👤 [huaerxiela](https://github.com/huaerxiela) Forked [NewSpongeBob/susfs4ksu-module](https://github.com/NewSpongeBob/susfs4ksu-module) to [NewSpongeBob/susfs4ksu-module](https://github.com/NewSpongeBob/susfs4ksu-module)
-  > An addon root hiding service for KernelSU
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win)
+  > Windows software for sharing locally connected USB devices to other machines, including Hyper-V gues...
 
-### [jeningogo](https://github.com/jeningogo)
-- 🌟 👤 [jeningogo](https://github.com/jeningogo) Starred [howmp/iisproxy](https://github.com/howmp/iisproxy)
-  > 通过websocket在IIS8(Windows Server 2012)以上实现socks5代理
-- 🍴 👤 [jeningogo](https://github.com/jeningogo) Forked [jeningogo/iisproxy](https://github.com/jeningogo/iisproxy) to [jeningogo/iisproxy](https://github.com/jeningogo/iisproxy)
-  > 通过websocket在IIS8(Windows Server 2012)以上实现socks5代理
+### [illera88](https://github.com/illera88)
+- 🌟 👤 [illera88](https://github.com/illera88) Starred [w3c/webappsec-dbsc](https://github.com/w3c/webappsec-dbsc)
+  > Device Bound Session Credentials: A Protocol for Protecting From Cookie Theft
 
-### [kingking888](https://github.com/kingking888)
-- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [19h/ida-semray](https://github.com/19h/ida-semray)
-  > High-performance, AI-driven semantic analysis for the IDA Pro decompiler.
-- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [h2o/h2o](https://github.com/h2o/h2o)
-  > H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
+### [jpillora](https://github.com/jpillora)
+- 🌟 👤 [jpillora](https://github.com/jpillora) Starred [coder/guts](https://github.com/coder/guts)
+  > Guts is a code generator that converts Golang types to Typescript. Useful for keeping types in sync ...
 
-### [mgeeky](https://github.com/mgeeky)
-- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [keystone-engine/keypatch](https://github.com/keystone-engine/keypatch)
-  > Multi-architecture assembler for IDA Pro. Powered by Keystone Engine.
-- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [FelixBer/FindFunc](https://github.com/FelixBer/FindFunc)
-  > FindFunc is an IDA Pro plugin to find code functions that contain a certain assembly or byte pattern...
+### [linxid](https://github.com/linxid)
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [Tencent-Hunyuan/HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT)
+  > Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understand...
 
-### [miunasu](https://github.com/miunasu)
-- 🌟 👤 [miunasu](https://github.com/miunasu) Starred [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
-  > A powerful obfuscator for JavaScript and Node.js
-- 🌟 👤 [miunasu](https://github.com/miunasu) Starred [Acmesec/PromptJailbreakManual](https://github.com/Acmesec/PromptJailbreakManual)
-  > Prompt越狱手册
-
-### [oureveryday](https://github.com/oureveryday)
-- 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [AceSLS/SLSsteam](https://github.com/AceSLS/SLSsteam)
-
-### [smallzhong](https://github.com/smallzhong)
-- 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [Cyan4973/xxHash](https://github.com/Cyan4973/xxHash)
-  > Extremely fast non-cryptographic hash algorithm
-- 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [smallzhong/xxHash](https://github.com/smallzhong/xxHash) to [smallzhong/xxHash](https://github.com/smallzhong/xxHash)
-  > Extremely fast non-cryptographic hash algorithm
-- 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [aappleby/smhasher](https://github.com/aappleby/smhasher)
-  > Automatically exported from code.google.com/p/smhasher
-- 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [smallzhong/smhasher](https://github.com/smallzhong/smhasher) to [smallzhong/smhasher](https://github.com/smallzhong/smhasher)
-  > Automatically exported from code.google.com/p/smhasher
-
-### [summitt](https://github.com/summitt)
-- 🚀 👤 [summitt](https://github.com/summitt) Made [factionsecurity/GitHub-Issues-Extension](https://github.com/factionsecurity/GitHub-Issues-Extension) public
-  > This is a Faction AppStore Extension that integrations Faction with GitHub Issues.
-
-### [xiaoweigege](https://github.com/xiaoweigege)
-- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [techinz/camoufox-captcha](https://github.com/techinz/camoufox-captcha)
-  > Automatic captcha solving using Camoufox (Playwright)
-
-### [yige666](https://github.com/yige666)
-- 🌟 👤 [yige666](https://github.com/yige666) Starred [ChinaRan0/Attack_login](https://github.com/ChinaRan0/Attack_login)
-  > 适用于红队攻防演练获得目标账户批量登录，报告编写
-- 🌟 👤 [yige666](https://github.com/yige666) Starred [Niiiiko/FastjsonScan4Burp](https://github.com/Niiiiko/FastjsonScan4Burp)
-  > FastjsonScan4Burp 一款基于burp被动扫描的fastjson漏洞探测插件，可针对数据包中存在json的参数或请求体进行payload测试。旨在帮助安全人员更加便捷的发现、探测、深入利...
-
-### [yux1azhengye](https://github.com/yux1azhengye)
-- 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
+### [mdcgqq](https://github.com/mdcgqq)
+- 🌟 👤 [mdcgqq](https://github.com/mdcgqq) Starred [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)
   > 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对...
 
-### [zhaotianff](https://github.com/zhaotianff)
-- 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite)
-  > Video game library manager with support for wide range of 3rd party libraries and game emulation sup...
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [Prayag2/drawy](https://github.com/Prayag2/drawy)
+  > Your handy, infinite, brainstorming tool!
 
-### [zy445566](https://github.com/zy445566)
-- 🌟 👤 [zy445566](https://github.com/zy445566) Starred [chaitin/MonkeyCode](https://github.com/chaitin/MonkeyCode)
-  > 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计。
+### [plusls](https://github.com/plusls)
+- 🌟 👤 [plusls](https://github.com/plusls) Starred [xxh/xxh](https://github.com/xxh/xxh)
+  > 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so ...
+- 🌟 👤 [plusls](https://github.com/plusls) Starred [chenxvb/Unicorn-Trace](https://github.com/chenxvb/Unicorn-Trace)
+  > 基于 Unicorn 引擎的轻量级 ARM64 动态追踪模拟工具。支持 IDA Pro、生成 Tenet 日志、本地代码模拟、内存转储、寄存器状态追踪和指令级日志记录。
+
+### [qwqdanchun](https://github.com/qwqdanchun)
+- 🌟 👤 [qwqdanchun](https://github.com/qwqdanchun) Starred [keowu/Ryujin](https://github.com/keowu/Ryujin)
+  > Ryūjin Protector - Is a Intel Arch - BIN2BIN - PE Obfuscation/Protection/DRM tool
+
+### [re-zero001](https://github.com/re-zero001)
+- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [Rukkhadevata123/min_hook_rs](https://github.com/Rukkhadevata123/min_hook_rs)
+  > Min Hook rewritten in rust 
+- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [A-Archives-and-Forks/Snap.Hutao](https://github.com/A-Archives-and-Forks/Snap.Hutao)
+  > 实用的开源多功能原神工具箱 🧰 / Multifunctional Open-source Genshin Impact Toolkit 🧰
+
+### [shellsec](https://github.com/shellsec)
+- 🌟 👤 [shellsec](https://github.com/shellsec) Starred [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb)
+  > MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
+- 🍴 👤 [shellsec](https://github.com/shellsec) Forked [shellsec/GeoLite.mmdb](https://github.com/shellsec/GeoLite.mmdb) to [shellsec/GeoLite.mmdb](https://github.com/shellsec/GeoLite.mmdb)
+  > MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
+
+### [vova7878](https://github.com/vova7878)
+- 🌟 👤 [vova7878](https://github.com/vova7878) Starred [Nalen98/self-targeting-overlay-demo](https://github.com/Nalen98/self-targeting-overlay-demo)
+  > Modify Android app’s resources at runtime with self-targeting overlay
+
+### [yhnu](https://github.com/yhnu)
+- 🌟 👤 [yhnu](https://github.com/yhnu) Starred [Cookee24/PairTranslate](https://github.com/Cookee24/PairTranslate)
+  > A browser extension for side-by-side translation of web pages
+
+### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
+- 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [SeeFlowerX/frida-smali-trace](https://github.com/SeeFlowerX/frida-smali-trace)
+  > smali trace
 
 
 ---
-*最后更新于 2025-11-18 01:37:43 UTC*
+*最后更新于 2025-11-19 01:38:13 UTC*
 *历史记录保存在 `archive` 目录中。*
