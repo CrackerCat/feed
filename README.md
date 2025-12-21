@@ -1,94 +1,88 @@
-# 每日 GitHub 动态 (2025-12-20)
+# 每日 GitHub 动态 (2025-12-21)
 
 我关注用户的今日公开动态 (每15分钟更新)。
 
 ## 今日动态
 
-### [Cracked5pider](https://github.com/Cracked5pider)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [cristianzsh/amcache-evilhunter](https://github.com/cristianzsh/amcache-evilhunter)
-  > Parse and analyze a Windows Amcache.hve registry hive, VirusTotal integration.
+### [AlSch092](https://github.com/AlSch092)
+- 🌟 👤 [AlSch092](https://github.com/AlSch092) Starred [jonomango/chum](https://github.com/jonomango/chum)
+  > Binary rewriter for 64-bit PE files.
+- 🌟 👤 [AlSch092](https://github.com/AlSch092) Starred [jonomango/superfetch](https://github.com/jonomango/superfetch)
+  > Translate virtual addresses to physical addresses from usermode.
 
-### [Firebasky](https://github.com/Firebasky)
-- 🌟 👤 [Firebasky](https://github.com/Firebasky) Starred [DataDog/pathfinding.cloud](https://github.com/DataDog/pathfinding.cloud)
-  > An AWS IAM Privilege Escalation Path Library
-- 🍴 👤 [Firebasky](https://github.com/Firebasky) Forked [DataDog/pathfinding.cloud](https://github.com/DataDog/pathfinding.cloud) to [Firebasky/pathfinding.cloud](https://github.com/Firebasky/pathfinding.cloud)
-  > An AWS IAM Privilege Escalation Path Library
+### [CHYbeta](https://github.com/CHYbeta)
+- 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open)
+  > crypto-trading-open
+- 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [anthropics/skills](https://github.com/anthropics/skills)
+  > Public repository for Agent Skills
+- 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)
+  > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — ...
+- 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [openai/skills](https://github.com/openai/skills)
+  > Skills Catalog for Codex
+- 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [FunnyWolf/agentic-soc-platform](https://github.com/FunnyWolf/agentic-soc-platform)
+  > Open Source Agentic SOC Platform 
 
-### [LabGuy94](https://github.com/LabGuy94)
-- 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [DaedalusFrame/Nemesis](https://github.com/DaedalusFrame/Nemesis)
-  > Windows kernel driver that detects hypervisors by probing SIDT/LIDT edge cases, paging/TLB behaviors...
+### [DErDYAST1R](https://github.com/DErDYAST1R)
+- 🌟 👤 [DErDYAST1R](https://github.com/DErDYAST1R) Starred [DErDYAST1R/KRNLDriver](https://github.com/DErDYAST1R/KRNLDriver)
+  > My personal / private P2C Project undetected for 8- Months Straight leaked & resold so I am publishi...
 
-### [Margular](https://github.com/Margular)
-- 🌟 👤 [Margular](https://github.com/Margular) Starred [denoland/deno](https://github.com/denoland/deno)
-  > A modern runtime for JavaScript and TypeScript.
+### [Lakr233](https://github.com/Lakr233)
+- 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [tisfeng/SelectedTextKit](https://github.com/tisfeng/SelectedTextKit)
+  > This is a macOS library that allows you to easily get the selected text.
 
-### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
-- 🌟 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Starred [keleus/BewlyCat](https://github.com/keleus/BewlyCat)
-  > BewlyCat——基于BewlyBewly开发的Bilibili拓展
+### [TheNetAdmin](https://github.com/TheNetAdmin)
+- 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [SierraSoftworks/tailscale-udm](https://github.com/SierraSoftworks/tailscale-udm)
+  > Run Tailscale on your Unifi Dream Machine
 
-### [PoomSmart](https://github.com/PoomSmart)
-- 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [RoversX/LaunchNext](https://github.com/RoversX/LaunchNext)
-  > Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free.
+### [UEFI-code](https://github.com/UEFI-code)
+- 🍴 👤 [UEFI-code](https://github.com/UEFI-code) Forked [ftk/kbled](https://github.com/ftk/kbled) to [UEFI-code/kbled](https://github.com/UEFI-code/kbled)
+  > Global keyboard layout switching and indicating using scroll lock led
 
-### [RicterZ](https://github.com/RicterZ)
-- 🍴 👤 [RicterZ](https://github.com/RicterZ) Forked [TexTools/xivModdingFramework](https://github.com/TexTools/xivModdingFramework) to [RicterZ/xivModdingFramework](https://github.com/RicterZ/xivModdingFramework)
+### [VonChange](https://github.com/VonChange)
+- 🌟 👤 [VonChange](https://github.com/VonChange) Starred [askama-rs/askama](https://github.com/askama-rs/askama)
+  > A template rendering engine based on Jinja, generating type-safe Rust code at compile time.
 
 ### [WAY29](https://github.com/WAY29)
-- 🌟 👤 [WAY29](https://github.com/WAY29) Starred [zpano/Sapling](https://github.com/zpano/Sapling)
+- 🌟 👤 [WAY29](https://github.com/WAY29) Starred [argonui/SCED](https://github.com/argonui/SCED)
 
-### [busy10](https://github.com/busy10)
-- 🌟 👤 [busy10](https://github.com/busy10) Starred [miroslavpejic85/rnnoise-poc](https://github.com/miroslavpejic85/rnnoise-poc)
-  > 🎧 RNNoise - Audio Noise Suppression POC
+### [ba0gu0](https://github.com/ba0gu0)
+- 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [aoguai/LiYing](https://github.com/aoguai/LiYing)
+  > LiYing is an automated photo processing program designed for automating the post-processing workflow...
 
-### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ineesdv/Tangled](https://github.com/ineesdv/Tangled) to [gmh5225/Tangled](https://github.com/gmh5225/Tangled)
-  > Open-source offensive security platform for conducting phishing campaigns that weaponizes iCalendar ...
+### [easychen](https://github.com/easychen)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [Tencent/vap](https://github.com/Tencent/vap)
+  > VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台。
 
-### [j0nk0](https://github.com/j0nk0)
-- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
-  > A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as ...
+### [hahwul](https://github.com/hahwul)
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay)
+  > Pure and reproducible nix overlay of binary distributed rust toolchains
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [leereilly/gh-yule-log](https://github.com/leereilly/gh-yule-log)
+  > A Yule log extension for GitHub CLI.  ̶Y̶u̶l̶e̶ You'll love it! 🪵 🔥
 
-### [janisslsm](https://github.com/janisslsm)
-- 🍴 👤 [janisslsm](https://github.com/janisslsm) Forked [7723mod/LSPatch](https://github.com/7723mod/LSPatch) to [janisslsm/LSPatch](https://github.com/janisslsm/LSPatch)
-  > A non-root Xposed framework extending from LSPosed
+### [huaerxiela](https://github.com/huaerxiela)
+- 🌟 👤 [huaerxiela](https://github.com/huaerxiela) Starred [sollyu/gradle-proguard-dic](https://github.com/sollyu/gradle-proguard-dic)
+  > 各种变态的混淆文件
+- 🍴 👤 [huaerxiela](https://github.com/huaerxiela) Forked [sollyu/gradle-proguard-dic](https://github.com/sollyu/gradle-proguard-dic) to [NewSpongeBob/gradle-proguard-dic](https://github.com/NewSpongeBob/gradle-proguard-dic)
+  > 各种变态的混淆文件
 
-### [jhalon](https://github.com/jhalon)
-- 🚀 👤 [jhalon](https://github.com/jhalon) Made [jhalon/cSessionHop](https://github.com/jhalon/cSessionHop) public
-  > Beacon Object File (BOF) for Windows Session Hijacking via IHxHelpPaneServer COM
+### [lxz-jiandan](https://github.com/lxz-jiandan)
+- 🌟 👤 [lxz-jiandan](https://github.com/lxz-jiandan) Starred [joydo/d810](https://github.com/joydo/d810)
 
-### [jianglin-code](https://github.com/jianglin-code)
-- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Xilinx/qemu-devicetrees](https://github.com/Xilinx/qemu-devicetrees)
-  > Device trees used by QEMU to describe the hardware
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [aadi1011/AI-ML-Roadmap-from-scratch](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch)
+  > Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Scie...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [we-promise/sure](https://github.com/we-promise/sure)
+  > The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
 
-### [joydo](https://github.com/joydo)
-- 🌟 👤 [joydo](https://github.com/joydo) Starred [openai/CLIP](https://github.com/openai/CLIP)
-  > CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an imag...
+### [surunzi](https://github.com/surunzi)
+- 🌟 👤 [surunzi](https://github.com/surunzi) Starred [iib0011/omni-tools](https://github.com/iib0011/omni-tools)
+  > Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fas...
 
-### [linuxmobile](https://github.com/linuxmobile)
-- 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [RayZ3R0/nozo](https://github.com/RayZ3R0/nozo)
-  > Preview links instantly without leaving your current context. Nozo provides a seamless, secure, and ...
-
-### [meowette](https://github.com/meowette)
-- 🌟 👤 [meowette](https://github.com/meowette) Starred [rust-embedded/qemu-exit](https://github.com/rust-embedded/qemu-exit)
-  > Exit QEMU with user-defined code
-
-### [rmuxnet](https://github.com/rmuxnet)
-- 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [toraidl/hyperos_port](https://github.com/toraidl/hyperos_port) to [rmuxnet/hyperos_port](https://github.com/rmuxnet/hyperos_port)
-  > HyperOS stock/xiaomi.eu ROM port for Android 13 based ROM - 小米HyperOS系统（Android 14）移植，测试支持小米10/10Pro...
-- 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [ymdzq/OFRP-device_xiaomi_elish](https://github.com/ymdzq/OFRP-device_xiaomi_elish) to [PipaDB/OFRP-device_xiaomi_pipa](https://github.com/PipaDB/OFRP-device_xiaomi_pipa)
-  > 小米平板5 Pro 橙狐设备树 (Xiaomi Pad 5 Pro)
-- 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [ymdzq/OrangeFox-Action-Builder](https://github.com/ymdzq/OrangeFox-Action-Builder) to [PipaDB/OrangeFox-Action-Builder](https://github.com/PipaDB/OrangeFox-Action-Builder)
-  > Orange Fox Recovery Project - Action Builder - Work in Progress
-
-### [tiann](https://github.com/tiann)
-- 🌟 👤 [tiann](https://github.com/tiann) Starred [batrachianai/toad](https://github.com/batrachianai/toad)
-  > A unified interface for AI in your terminal.
-
-### [yanyaoli](https://github.com/yanyaoli)
-- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store)
-  > A free, open-source app store for GitHub releases — browse, discover, and install apps with one clic...
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus)
+  > Trying to tame the three-headed dog.
 
 
 ---
-*最后更新于 2025-12-20 01:38:41 UTC*
+*最后更新于 2025-12-21 01:49:55 UTC*
 *历史记录保存在 `archive` 目录中。*
