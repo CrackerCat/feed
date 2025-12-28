@@ -1,136 +1,103 @@
-# 每日 GitHub 动态 (2025-12-27)
+# 每日 GitHub 动态 (2025-12-28)
 
 我关注用户的今日公开动态 (每15分钟更新)。
 
 ## 今日动态
 
-### [AVGirl](https://github.com/AVGirl)
-- 🌟 👤 [AVGirl](https://github.com/AVGirl) Starred [rix4uni/cvemapping](https://github.com/rix4uni/cvemapping)
-  > This repo Gathers all available cve exploits from github.⚠️ Be careful Malware.
-- 🍴 👤 [AVGirl](https://github.com/AVGirl) Forked [rix4uni/cvemapping](https://github.com/rix4uni/cvemapping) to [AVGirl/cvemapping](https://github.com/AVGirl/cvemapping)
-  > This repo Gathers all available cve exploits from github.⚠️ Be careful Malware.
-
-### [CHYbeta](https://github.com/CHYbeta)
-- 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [0xSojalSec/Decepticon](https://github.com/0xSojalSec/Decepticon)
-  > Autonomous Multi-Agent Based Red Team Testing Service / AI hacker
-
-### [Colton1skees](https://github.com/Colton1skees)
-- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [sparsemat/sprs](https://github.com/sparsemat/sprs)
-  > sparse linear algebra library for rust
-
-### [Ercilan](https://github.com/Ercilan)
-- 🌟 👤 [Ercilan](https://github.com/Ercilan) Starred [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)
-  > Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP ba...
-
-### [FunnyWolf](https://github.com/FunnyWolf)
-- 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [criblpacks/cribl-ocsf-parquet-schemas](https://github.com/criblpacks/cribl-ocsf-parquet-schemas)
-  > Cribl Parquet Schemas for Open Cybersecurity Schema Framework
-
-### [LunFengChen](https://github.com/LunFengChen)
-- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [LSPosed/LSParanoid](https://github.com/LSPosed/LSParanoid)
-  > String obfuscator for Android applications
-
-### [M0Rf30](https://github.com/M0Rf30)
-- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [hyuuwu/audiovis](https://github.com/hyuuwu/audiovis)
-  > cava but customisable
-
-### [RickyCong](https://github.com/RickyCong)
-- 🌟 👤 [RickyCong](https://github.com/RickyCong) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
-  > Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-
-### [UEFI-code](https://github.com/UEFI-code)
-- 🍴 👤 [UEFI-code](https://github.com/UEFI-code) Forked [kamalmostafa/minimodem](https://github.com/kamalmostafa/minimodem) to [UEFI-code/minimodem](https://github.com/UEFI-code/minimodem)
-  > general-purpose software audio FSK modem
-
-### [codingsf](https://github.com/codingsf)
-- 🌟 👤 [codingsf](https://github.com/codingsf) Starred [idootop/open-xiaoai](https://github.com/idootop/open-xiaoai)
-  > 🔊 让小爱音箱「听见你的声音」，解锁无限可能。 
-
-### [ctkqiang](https://github.com/ctkqiang)
-- 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [rebeyond/Behinder](https://github.com/rebeyond/Behinder)
-  > “冰蝎”动态二进制加密网站管理客户端
-
-### [dwisiswant0](https://github.com/dwisiswant0)
-- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [apoorvnandan/tensor.h](https://github.com/apoorvnandan/tensor.h)
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [apoorvnandan/tensor.h](https://github.com/apoorvnandan/tensor.h)
   > creating a tiny tensor library in raw C
-- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
-  > Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigr...
-- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [gocanto/money](https://github.com/gocanto/money)
-  > A Go implementation of Martin Fowler's Money pattern
-- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [clipperhouse/rate](https://github.com/clipperhouse/rate)
-  > A composable rate limiter for Go
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch)
+  > Implement a reasoning LLM in PyTorch from scratch, step by step
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [hyunwoongko/transformer](https://github.com/hyunwoongko/transformer)
+  > Transformer: PyTorch Implementation of "Attention Is All You Need"
 
-### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sparsemat/sprs](https://github.com/sparsemat/sprs) to [gmh5225/sprs](https://github.com/gmh5225/sprs)
-  > sparse linear algebra library for rust
+### [Fansirsqi](https://github.com/Fansirsqi)
+- 🍴 👤 [Fansirsqi](https://github.com/Fansirsqi) Forked [ColdWindScholar/TIK](https://github.com/ColdWindScholar/TIK) to [Fansirsqi/TIK5](https://github.com/Fansirsqi/TIK5)
+  > 开源的安卓全版本ROM处理工具
 
-### [kyle-sylvestre](https://github.com/kyle-sylvestre)
-- 🌟 👤 [kyle-sylvestre](https://github.com/kyle-sylvestre) Starred [SuperTux/supertux](https://github.com/SuperTux/supertux)
-  > SuperTux source code
+### [QingYuan688](https://github.com/QingYuan688)
+- 🍴 👤 [QingYuan688](https://github.com/QingYuan688) Forked [Numbersf/Action-Build](https://github.com/Numbersf/Action-Build) to [QingYuan688/Action-Build](https://github.com/QingYuan688/Action-Build)
+  > Build SukiSU Ultra Kernels For All OnePlus QCOM & MTK Devices (GKI2.0), Supporting SUSFS, KPM, ZRAM,...
 
-### [m0n0ph1](https://github.com/m0n0ph1)
-- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [gpac/gpac](https://github.com/gpac/gpac)
-  > GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
-- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [86Box/86Box](https://github.com/86Box/86Box)
-  > Emulator of x86-based machines.
-- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [vmware/open-vm-tools](https://github.com/vmware/open-vm-tools)
-  > Official repository of VMware open-vm-tools project
-- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [jElhamm/Virtual-Memory](https://github.com/jElhamm/Virtual-Memory)
-  > "Implementation of Virtual Memory available in operating systems"
-- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [CMU-SAFARI/Virtuoso](https://github.com/CMU-SAFARI/Virtuoso)
-  > Virtuoso is a  fast, accurate and versatile simulation framework designed for virtual memory researc...
-- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [CMU-SAFARI/ramulator](https://github.com/CMU-SAFARI/ramulator)
-  > A Fast and Extensible DRAM Simulator, with built-in support for modeling many different DRAM technol...
-- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [shanselman/TinyOS](https://github.com/shanselman/TinyOS)
-  > TinyOS in C#
-- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [tinyos/tinyos-main](https://github.com/tinyos/tinyos-main)
-  > Main development repository for TinyOS (an OS for embedded, wireless devices).
-- 🌟 👤 [m0n0ph1](https://github.com/m0n0ph1) Starred [msiemens/tinydb](https://github.com/msiemens/tinydb)
-  > TinyDB is a lightweight document oriented database optimized for your happiness :)
+### [SodaMilk233](https://github.com/SodaMilk233)
+- 🍴 👤 [SodaMilk233](https://github.com/SodaMilk233) Forked [Tingwei0512/llvm-19](https://github.com/Tingwei0512/llvm-19) to [SodaMilk233/llvm-19](https://github.com/SodaMilk233/llvm-19)
+  > llvm 19.0.1
+
+### [X1r0z](https://github.com/X1r0z)
+- 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [google/osv-scanner](https://github.com/google/osv-scanner)
+  > Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+
+### [YuKongA](https://github.com/YuKongA)
+- 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [Kindness-Kismet/Stelliberty](https://github.com/Kindness-Kismet/Stelliberty)
+  > A modern client built with Flutter and Rust, powered by Mihomo
+
+### [asLody](https://github.com/asLody)
+- 🌟 👤 [asLody](https://github.com/asLody) Starred [danier97/flolpips](https://github.com/danier97/flolpips)
+  > [IEEE PCS 2022 best paper finalist] "FloLPIPS: A Bespoke Video Quality Metric for Frame Interpoation...
+
+### [buzzer-re](https://github.com/buzzer-re)
+- 🌟 👤 [buzzer-re](https://github.com/buzzer-re) Starred [MFDGaming/YADE](https://github.com/MFDGaming/YADE)
+  > YetAnotherDvdExploit, a dvd exploit for the Play Station 2 (fully working on dvd player v3.00E and p...
+
+### [cxapython](https://github.com/cxapython)
+- 🌟 👤 [cxapython](https://github.com/cxapython) Starred [acejarvis/large-text-viewer](https://github.com/acejarvis/large-text-viewer)
+  > Large text file viewer to handle > 10GB text file reading, purely written in Rust
+- 🍴 👤 [cxapython](https://github.com/cxapython) Forked [acejarvis/large-text-viewer](https://github.com/acejarvis/large-text-viewer) to [cxapython/large-text-viewer](https://github.com/cxapython/large-text-viewer)
+  > Large text file viewer to handle > 10GB text file reading, purely written in Rust
+
+### [doronz88](https://github.com/doronz88)
+- 🌟 👤 [doronz88](https://github.com/doronz88) Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
+  > Why is this running?
+
+### [houjingyi233](https://github.com/houjingyi233)
+- 🌟 👤 [houjingyi233](https://github.com/houjingyi233) Starred [NiTianErXing666/SmallVmp](https://github.com/NiTianErXing666/SmallVmp)
+  > 简单的基于llvm实现vmp保护
+
+### [jiji262](https://github.com/jiji262)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [sundt/uihash-hotnews](https://github.com/sundt/uihash-hotnews)
+
+### [jiqiu2022](https://github.com/jiqiu2022)
+- 🌟 👤 [jiqiu2022](https://github.com/jiqiu2022) Starred [selfshore/YSbrowser](https://github.com/selfshore/YSbrowser)
+  > 魔改的chromium，指纹浏览器，过掉F12反调试，当前chromium版本140
+
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [Luokavin/AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android)
+  > 基于 Open-AutoGLM 的 Android 原生手机智能助手应用 | Native Android Phone AI Assistant Based on Open-AutoGLM
+- 🍴 👤 [joydo](https://github.com/joydo) Forked [Luokavin/AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android) to [joydo/AutoGLM-For-Android](https://github.com/joydo/AutoGLM-For-Android)
+  > 基于 Open-AutoGLM 的 Android 原生手机智能助手应用 | Native Android Phone AI Assistant Based on Open-AutoGLM
 
 ### [meowette](https://github.com/meowette)
-- 🌟 👤 [meowette](https://github.com/meowette) Starred [myn/DisplayShadersPowerToy](https://github.com/myn/DisplayShadersPowerToy)
-
-### [mos9527](https://github.com/mos9527)
-- 🌟 👤 [mos9527](https://github.com/mos9527) Starred [gameknife/gkNextEngine](https://github.com/gameknife/gkNextEngine)
-  > gkNextEngine: cross platform 3D game engine written in modern c++ and vulkan with modern rendering f...
-- 🌟 👤 [mos9527](https://github.com/mos9527) Starred [zeux/niagara_bistro](https://github.com/zeux/niagara_bistro)
-- 🌟 👤 [mos9527](https://github.com/mos9527) Starred [cgvirus/Principled-Baker](https://github.com/cgvirus/Principled-Baker)
-  > Blender Add-on: Bake PBR textures with a few clicks
-- 🍴 👤 [mos9527](https://github.com/mos9527) Forked [cgvirus/Principled-Baker](https://github.com/cgvirus/Principled-Baker) to [mos9527/Principled-Baker](https://github.com/mos9527/Principled-Baker)
-  > Blender Add-on: Bake PBR textures with a few clicks
+- 🌟 👤 [meowette](https://github.com/meowette) Starred [dtolnay/linkme](https://github.com/dtolnay/linkme)
+  > Safe cross-platform linker shenanigans
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [steveyegge/vc](https://github.com/steveyegge/vc)
-  > VC - AI-orchestrated coding agent colony
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xdslproject/xdsl](https://github.com/xdslproject/xdsl)
+  > A Python compiler design toolkit.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [PeterHackz/zyrox](https://github.com/PeterHackz/zyrox)
+  > LLVM based, compile-time obfuscator plugin.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zeldaret/tp](https://github.com/zeldaret/tp)
+  > Decompilation of The Legend of Zelda: Twilight Princess
+
+### [ntpopgetdope](https://github.com/ntpopgetdope)
+- 🌟 👤 [ntpopgetdope](https://github.com/ntpopgetdope) Starred [EMsoft-org/EMsoftOO](https://github.com/EMsoft-org/EMsoftOO)
+  > Object Oriented version of the EMsoft package (beta)
 
 ### [re-zero001](https://github.com/re-zero001)
-- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [Mrack/TinyDump](https://github.com/Mrack/TinyDump)
-  > Android native SO and DEX dumper.
+- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [Mrack/MemDetection](https://github.com/Mrack/MemDetection)
+  > 计算内存中的libc.so，libart.so的crc与文件中的对比检测apk是否处于异常环境。
+- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [DreamMoonCai/EzHook](https://github.com/DreamMoonCai/EzHook)
+  > An AOP framework for KotlinMultiplatform, supporting Kotlin/Native and Kotlin/JS.
 
-### [wainshine](https://github.com/wainshine)
-- 🌟 👤 [wainshine](https://github.com/wainshine) Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
-  > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [Leask/Tabminal](https://github.com/Leask/Tabminal)
+  > Tab(ter)minal, the Cloud-Native, Proactive AI Integrated Terminal works in modern browsers.
 
-### [wszqkzqk](https://github.com/wszqkzqk)
-- 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [rdkit/rdkit](https://github.com/rdkit/rdkit) to [wszqkzqk/rdkit](https://github.com/wszqkzqk/rdkit)
-  > The official sources for the RDKit library
-
-### [y11en](https://github.com/y11en)
-- 🌟 👤 [y11en](https://github.com/y11en) Starred [sapdragon/syscalls-cpp](https://github.com/sapdragon/syscalls-cpp)
-  > A modern C++20 header-only library for advanced direct system call invocation.
-- 🍴 👤 [y11en](https://github.com/y11en) Forked [sapdragon/syscalls-cpp](https://github.com/sapdragon/syscalls-cpp) to [y11en/syscalls-cpp](https://github.com/y11en/syscalls-cpp)
-  > A modern C++20 header-only library for advanced direct system call invocation.
-
-### [zacbre](https://github.com/zacbre)
-- 🌟 👤 [zacbre](https://github.com/zacbre) Starred [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr)
-  > 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
-
-### [zu1k](https://github.com/zu1k)
-- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
-  > A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+### [zhaoboy9692](https://github.com/zhaoboy9692)
+- 🍴 👤 [zhaoboy9692](https://github.com/zhaoboy9692) Forked [aik002/insert_dylib](https://github.com/aik002/insert_dylib) to [zhaoboy9692/insert_dylib](https://github.com/zhaoboy9692/insert_dylib)
+  > macOS dylib injector compatible with M1 12.0+
 
 
 ---
-*最后更新于 2025-12-27 01:42:23 UTC*
+*最后更新于 2025-12-28 01:55:00 UTC*
 *历史记录保存在 `archive` 目录中。*
