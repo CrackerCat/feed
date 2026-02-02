@@ -31,6 +31,10 @@
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [25smoking/CloudProxyPool](https://github.com/25smoking/CloudProxyPool)
   > 使用 GO开发基于腾讯云 SCF 的IP 代理池，用于绕过 WAF IP限制，支持安全扫描工具调用。
 
+### [EvilAnne](https://github.com/EvilAnne)
+- 🌟 👤 [EvilAnne](https://github.com/EvilAnne) Starred [jxroot/ZeroPulse](https://github.com/jxroot/ZeroPulse)
+  > 🔒 Modern C2 Platform with Cloudflare Tunnel Integration | WinRM & SSH Remote Management | Real-time ...
+
 ### [FishMan132](https://github.com/FishMan132)
 - 🌟 👤 [FishMan132](https://github.com/FishMan132) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
   > Anti-LLM obfuscation via finger counting 
@@ -40,6 +44,8 @@
   > Headless IDA MCP Server
 - 🌟 👤 [FishMan132](https://github.com/FishMan132) Starred [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed)
   > LSPosed Framework resuscitated
+- 🌟 👤 [FishMan132](https://github.com/FishMan132) Starred [retrage/svc-hook](https://github.com/retrage/svc-hook)
+  > System Call Hook for ARM64
 
 ### [FunnyWolf](https://github.com/FunnyWolf)
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [vstorm-co/full-stack-fastapi-nextjs-llm-template](https://github.com/vstorm-co/full-stack-fastapi-nextjs-llm-template)
@@ -57,9 +63,17 @@
 - 🌟 👤 [Hzllaga](https://github.com/Hzllaga) Starred [adityatelange/frida-ui](https://github.com/adityatelange/frida-ui)
   > Interact with Frida devices, processes, and scripts directly from your browser.
 
+### [KingJA](https://github.com/KingJA)
+- 🌟 👤 [KingJA](https://github.com/KingJA) Starred [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills)
+  > Agent Skills 终极指南：快速入门、推荐技能、最新资讯与实战案例 ｜The Definitive Guide to Agent Skills: Quick Start, Recommende...
+
 ### [Knight-ZXW](https://github.com/Knight-ZXW)
 - 🌟 👤 [Knight-ZXW](https://github.com/Knight-ZXW) Starred [steipete/mcporter](https://github.com/steipete/mcporter)
   > Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
+
+### [L4ys](https://github.com/L4ys)
+- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [NASP-THU/ProphetFuzz](https://github.com/NASP-THU/ProphetFuzz)
+  > [CCS'24] An LLM-based, fully automated fuzzing tool for option combination testing.
 
 ### [LabGuy94](https://github.com/LabGuy94)
 - 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
@@ -75,10 +89,16 @@
   > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
 - 🌟 👤 [Margular](https://github.com/Margular) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+- 🌟 👤 [Margular](https://github.com/Margular) Starred [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)
+  > My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be und...
 
 ### [MartinKayJr](https://github.com/MartinKayJr)
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [kirklin/qzone-history](https://github.com/kirklin/qzone-history)
   > QZone History 是一个旨在还原和重建 QQ 空间历史的项目。通过收集和分析用户的活动记录，即使某些说说、留言板消息等内容已被删除，本项目也能够进行推理并进行数据重建，帮助用户找回珍贵的历史...
+
+### [Mati365](https://github.com/Mati365)
+- 🌟 👤 [Mati365](https://github.com/Mati365) Starred [0xarchit/github-profile-analyzer](https://github.com/0xarchit/github-profile-analyzer)
+  > AI Powered Github Profile analyzer or analyser and reviewer tool. Gives review based on first 100 re...
 
 ### [Monster-GM](https://github.com/Monster-GM)
 - 🌟 👤 [Monster-GM](https://github.com/Monster-GM) Starred [NiTianErXing666/SmallVmp](https://github.com/NiTianErXing666/SmallVmp)
@@ -108,6 +128,10 @@
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [steveyegge/gastown](https://github.com/steveyegge/gastown)
   > Gas Town - multi-agent workspace manager
 
+### [OfficialKatana](https://github.com/OfficialKatana)
+- 🍴 👤 [OfficialKatana](https://github.com/OfficialKatana) Forked [XTLS/Xray-core](https://github.com/XTLS/Xray-core) to [OfficialKatana/Xray-core](https://github.com/OfficialKatana/Xray-core)
+  > Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for...
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Olcmyk/HuChenFeng](https://github.com/Olcmyk/HuChenFeng)
   > 收集户晨风的所有内容
@@ -120,6 +144,10 @@
 - 🌟 👤 [Pangu-Immortal](https://github.com/Pangu-Immortal) Starred [Pangu-Immortal/CyberWeather](https://github.com/Pangu-Immortal/CyberWeather)
   > 🌤️ 一个立体赛博风格天气应用，丰富的天气动画效果，Built with 100% SwiftUI.
 
+### [Paper-Pen](https://github.com/Paper-Pen)
+- 🌟 👤 [Paper-Pen](https://github.com/Paper-Pen) Starred [hijack1r/CVE_PushService](https://github.com/hijack1r/CVE_PushService)
+  > 一款面向网络安全从业者的--漏洞实时情报自动推送工具 （An automatic push tool for real-time information of vulnerabilities for ...
+
 ### [Proteas](https://github.com/Proteas)
 - 🌟 👤 [Proteas](https://github.com/Proteas) Starred [mozilla-spidermonkey/iongraph](https://github.com/mozilla-spidermonkey/iongraph)
 
@@ -127,13 +155,27 @@
 - 🌟 👤 [Ridter](https://github.com/Ridter) Starred [jxroot/ZeroPulse](https://github.com/jxroot/ZeroPulse)
   > 🔒 Modern C2 Platform with Cloudflare Tunnel Integration | WinRM & SSH Remote Management | Real-time ...
 
+### [SHangwendada](https://github.com/SHangwendada)
+- 🌟 👤 [SHangwendada](https://github.com/SHangwendada) Starred [1193776794/launch](https://github.com/1193776794/launch)
+  > 检测工具
+- 🍴 👤 [SHangwendada](https://github.com/SHangwendada) Forked [1193776794/launch](https://github.com/1193776794/launch) to [SHangwendada/launch](https://github.com/SHangwendada/launch)
+  > 检测工具
+
 ### [SakuraKoi](https://github.com/SakuraKoi)
 - 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)
   > JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
 
+### [Samael-Z](https://github.com/Samael-Z)
+- 🌟 👤 [Samael-Z](https://github.com/Samael-Z) Starred [wailsapp/wails](https://github.com/wailsapp/wails)
+  > Create beautiful applications using Go
+- 🌟 👤 [Samael-Z](https://github.com/Samael-Z) Starred [1193776794/launch](https://github.com/1193776794/launch)
+  > 检测工具
+
 ### [Sndav](https://github.com/Sndav)
 - 🍴 👤 [Sndav](https://github.com/Sndav) Forked [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) to [Sndav/llvm-mingw](https://github.com/Sndav/llvm-mingw)
   > An LLVM/Clang/LLD based mingw-w64 toolchain
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [wellle/rmq](https://github.com/wellle/rmq)
+  > Message queue system written in Go and backed by Redis
 
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [1494389516/cloudphone-risk-detector](https://github.com/1494389516/cloudphone-risk-detector)
@@ -162,6 +204,10 @@
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [hugoj0s3/jobmaster-net](https://github.com/hugoj0s3/jobmaster-net)
   > Distributed background job orchestration for .NET built for seamless horizontal scaling and multi-pr...
 
+### [Xunzhuo](https://github.com/Xunzhuo)
+- 🌟 👤 [Xunzhuo](https://github.com/Xunzhuo) Starred [RouteWorks/RouterArena](https://github.com/RouteWorks/RouterArena)
+  > RouterArena: An open framework for evaluating LLM routers with standardized datasets, metrics, an au...
+
 ### [Y4er](https://github.com/Y4er)
 - 🌟 👤 [Y4er](https://github.com/Y4er) Starred [RedTeamPentesting/keycred](https://github.com/RedTeamPentesting/keycred)
   > Generate and Manage KeyCredentialLinks
@@ -181,9 +227,17 @@
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)
   > iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore ...
 
+### [asLody](https://github.com/asLody)
+- 🌟 👤 [asLody](https://github.com/asLody) Starred [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
+  > 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+
 ### [b3x206](https://github.com/b3x206)
 - 🌟 👤 [b3x206](https://github.com/b3x206) Starred [er-bharat/Win8DE](https://github.com/er-bharat/Win8DE)
   > windows 8 like de for linux
+
+### [ba0gu0](https://github.com/ba0gu0)
+- 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)
+  > My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be und...
 
 ### [besscroft](https://github.com/besscroft)
 - 🌟 👤 [besscroft](https://github.com/besscroft) Starred [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai)
@@ -202,6 +256,16 @@
   > cecli - (a.k.a aider-ce)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [owenthereal/upterm](https://github.com/owenthereal/upterm)
   > Instant Terminal Sharing
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox)
+  > Firefox user.js for optimal privacy and security. Your favorite browser, but better.
+
+### [bin4re](https://github.com/bin4re)
+- 🌟 👤 [bin4re](https://github.com/bin4re) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
+  > Anti-LLM obfuscation via finger counting 
+- 🌟 👤 [bin4re](https://github.com/bin4re) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
+  > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+- 🌟 👤 [bin4re](https://github.com/bin4re) Starred [bin4re/Ttd2Trace](https://github.com/bin4re/Ttd2Trace)
+  > Extract trace information from TTD replay.
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [lukehinds/nono](https://github.com/lukehinds/nono)
@@ -215,6 +279,10 @@
 - 🌟 👤 [coder-pig](https://github.com/coder-pig) Starred [iszhouhua/social-media-copilot](https://github.com/iszhouhua/social-media-copilot)
   > 社媒助手开源版 - 小红书、抖音、快手等平台数据采集的浏览器插件，可通过API调用，支持Docker部署。
 
+### [cozis](https://github.com/cozis)
+- 🌟 👤 [cozis](https://github.com/cozis) Starred [ThePrimeagen/99](https://github.com/ThePrimeagen/99)
+  > Neovim AI agent done right
+
 ### [csersoft](https://github.com/csersoft)
 - 🌟 👤 [csersoft](https://github.com/csersoft) Starred [lvgl/lvgl](https://github.com/lvgl/lvgl)
   > Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. 
@@ -222,6 +290,8 @@
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🍴 👤 [ctkqiang](https://github.com/ctkqiang) Forked [11firefly11/ApiHunter](https://github.com/11firefly11/ApiHunter) to [ctkqiang/ApiHunter](https://github.com/ctkqiang/ApiHunter)
   > api接口测试工具,包括swagger文档,一键自动跑接口
+- 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)
+  > My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be und...
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [DDULDDUCK/every-pdf](https://github.com/DDULDDUCK/every-pdf)
@@ -242,6 +312,14 @@
   > the easiest way to run natural language-described workflows automatically
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [openclaw/lobster](https://github.com/openclaw/lobster)
   > Lobster is a Clawdbot-native workflow shell: a typed, local-first “macro engine” that turns skills/t...
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent)
+  > Universal API for automatic coding agents in sandboxes. Supports Claude Code, Codex, OpenCode, and A...
+
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [tobiasehlert/teslamateapi](https://github.com/tobiasehlert/teslamateapi)
+  > TeslaMateApi is a RESTful API to get data collected by self-hosted data logger TeslaMate in JSON.
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [tobiasehlert/teslamateapi](https://github.com/tobiasehlert/teslamateapi) to [enovella/teslamateapi](https://github.com/enovella/teslamateapi)
+  > TeslaMateApi is a RESTful API to get data collected by self-hosted data logger TeslaMate in JSON.
 
 ### [fanzhidongyzby](https://github.com/fanzhidongyzby)
 - 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
@@ -262,6 +340,8 @@
   > HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) a...
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
   > Official inference framework for 1-bit LLMs
+- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [AutoRecon/AutoRecon](https://github.com/AutoRecon/AutoRecon)
+  > AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of se...
 
 ### [fynch3r](https://github.com/fynch3r)
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
@@ -282,6 +362,10 @@
   > A macOS app that blurs your screen when you slouch.
 - 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [vadi2/postured](https://github.com/vadi2/postured)
   > A Linux app that lets you know when you slouch
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [h9zdev/WireTapper](https://github.com/h9zdev/WireTapper)
+  > WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, ...
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [chain00x/WMPFDebugger-arm](https://github.com/chain00x/WMPFDebugger-arm)
+  > WMPFDebugger-arm
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [alamenai/terrae](https://github.com/alamenai/terrae) to [gmh5225/terrae](https://github.com/gmh5225/terrae)
@@ -300,6 +384,18 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) to [gmh5225/claude-code-video-toolkit](https://github.com/gmh5225/claude-code-video-toolkit)
   > AI-native video production toolkit for Claude Code
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) to [gmh5225/threejs-skills](https://github.com/gmh5225/threejs-skills)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) to [gmh5225/jira-cli](https://github.com/gmh5225/jira-cli)
+  > 🔥 Feature-rich interactive Jira command line.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) to [gmh5225/antigravity-awesome-skills](https://github.com/gmh5225/antigravity-awesome-skills)
+  > The Ultimate Collection of 600+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, hi...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Eruditi/CE-MCP-Plugin](https://github.com/Eruditi/CE-MCP-Plugin) to [gmh5225/CE-MCP-Plugin](https://github.com/gmh5225/CE-MCP-Plugin)
+  > CE MCP Plugin是一个Cheat Engine插件，它实现了Model Context Protocol (MCP)，允许AI模型与Cheat Engine进行交互。通过这个插件，AI可以使...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [rohansx/vgx](https://github.com/rohansx/vgx) to [gmh5225/vgx](https://github.com/gmh5225/vgx)
+  > A Git pre-commit security scanner with LLM integration to detect vulnerabilities before they enter y...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) to [gmh5225/useful-ai-prompts](https://github.com/gmh5225/useful-ai-prompts)
+  > A curated collection of useful AI prompts for various tasks and use cases
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) to [gmh5225/ai-agents-skills](https://github.com/gmh5225/ai-agents-skills)
+  > 🧠 AI Agent Skills Repository - A curated collection of specialized skills for AI coding agents (Clau...
 
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [first-fluke/oh-my-ag](https://github.com/first-fluke/oh-my-ag)
@@ -319,6 +415,10 @@
 - 🍴 👤 [huaerxiela](https://github.com/huaerxiela) Forked [lidongyooo/kpm-backtrace](https://github.com/lidongyooo/kpm-backtrace) to [NewSpongeBob/kpm-backtrace](https://github.com/NewSpongeBob/kpm-backtrace)
   > Traceback the user stack in kernel
 
+### [hyrathon](https://github.com/hyrathon)
+- 🌟 👤 [hyrathon](https://github.com/hyrathon) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
+  > Headless IDA MCP Server
+
 ### [ibaoger](https://github.com/ibaoger)
 - 🍴 👤 [ibaoger](https://github.com/ibaoger) Forked [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) to [ibaoger/pyvideotrans](https://github.com/ibaoger/pyvideotrans)
   > Translate the video from one language to another and embed dubbing & subtitles.
@@ -335,11 +435,21 @@
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples)
   > Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 
+### [jiji262](https://github.com/jiji262)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [voocel/openclaw-mini](https://github.com/voocel/openclaw-mini)
+  > OpenClaw 核心架构的极简复现，涵盖 sessionKey 会话域、队列串行、工具化记忆检索、按需上下文加载、可扩展技能与主动心跳唤醒机
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [CaiGaoQing/all-2-api](https://github.com/CaiGaoQing/all-2-api)
+  > 一个强大的 API 代理服务，通过 Kiro API 和 Gemini Antigravity API 免费使用 Claude/Gemini 顶级模型，并封装为标准 OpenAI 兼容接口。
+
 ### [jiqiu2022](https://github.com/jiqiu2022)
 - 🌟 👤 [jiqiu2022](https://github.com/jiqiu2022) Starred [escapeWu/perplexity-ai](https://github.com/escapeWu/perplexity-ai)
   > A third-party Perplexity MCP/REST API implementation that leverages Pro accounts to provide unlimite...
 - 🌟 👤 [jiqiu2022](https://github.com/jiqiu2022) Starred [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)
   > Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
+
+### [jixiaoyong](https://github.com/jixiaoyong)
+- 🌟 👤 [jixiaoyong](https://github.com/jixiaoyong) Starred [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)
+  > My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be und...
 
 ### [johnlui](https://github.com/johnlui)
 - 🍴 👤 [johnlui](https://github.com/johnlui) Forked [awsl-project/maxx](https://github.com/awsl-project/maxx) to [johnlui/maxx](https://github.com/johnlui/maxx)
@@ -357,6 +467,10 @@
 - 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
+### [linxid](https://github.com/linxid)
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [SkyworkAI/SkyReels-V3](https://github.com/SkyworkAI/SkyReels-V3)
+  > SkyReels V3: Multimodal Video Generation Model
+
 ### [lqqyt2423](https://github.com/lqqyt2423)
 - 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)
   > My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be und...
@@ -364,6 +478,10 @@
 ### [lz6688](https://github.com/lz6688)
 - 🌟 👤 [lz6688](https://github.com/lz6688) Starred [frida/frida-website](https://github.com/frida/frida-website)
   > Frida's website
+
+### [miunasu](https://github.com/miunasu)
+- 🌟 👤 [miunasu](https://github.com/miunasu) Starred [PwCUK-CTO/SmartJump](https://github.com/PwCUK-CTO/SmartJump)
+  > IDA Pro plugin to enhance the 'g' keyboard shortcut
 
 ### [mr-m0nst3r](https://github.com/mr-m0nst3r)
 - 🌟 👤 [mr-m0nst3r](https://github.com/mr-m0nst3r) Starred [TrustedRootProgram/Program-Requirements](https://github.com/TrustedRootProgram/Program-Requirements)
@@ -381,6 +499,10 @@
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [Resery/Reverse_Android_Note](https://github.com/Resery/Reverse_Android_Note)
+
+### [netxfly](https://github.com/netxfly)
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [ecnusse/Kea2](https://github.com/ecnusse/Kea2)
+  > Fusing automated UI testing with scripts (property-based testing) for effectively fuzzing Android ap...
 
 ### [notxx](https://github.com/notxx)
 - 🍴 👤 [notxx](https://github.com/notxx) Forked [anomalyco/opencode](https://github.com/anomalyco/opencode) to [notxx/opencode](https://github.com/notxx/opencode)
@@ -414,6 +536,10 @@
 - 🌟 👤 [r0ysue](https://github.com/r0ysue) Starred [ollvm-adaplite/ollvm-clang](https://github.com/ollvm-adaplite/ollvm-clang)
   > ollvm adaption to llvm
 
+### [semlinker](https://github.com/semlinker)
+- 🌟 👤 [semlinker](https://github.com/semlinker) Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+  > "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+
 ### [smallfawn](https://github.com/smallfawn)
 - 🌟 👤 [smallfawn](https://github.com/smallfawn) Starred [jiyulany/dingxiangAST](https://github.com/jiyulany/dingxiangAST)
   > 用于反混淆greenseer.js
@@ -421,6 +547,10 @@
 ### [std-microblock](https://github.com/std-microblock)
 - 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [alibaba/arthas](https://github.com/alibaba/arthas)
   > Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+
+### [strongcourage](https://github.com/strongcourage)
+- 🌟 👤 [strongcourage](https://github.com/strongcourage) Starred [Vasco0x4/AIDA](https://github.com/Vasco0x4/AIDA)
+  > AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP
 
 ### [szcf-weiya](https://github.com/szcf-weiya)
 - 🌟 👤 [szcf-weiya](https://github.com/szcf-weiya) Starred [szcf-weiya/ZJU-MATH4901M-2025Fall](https://github.com/szcf-weiya/ZJU-MATH4901M-2025Fall)
@@ -432,9 +562,17 @@
 - 🌟 👤 [uknownothingsnow](https://github.com/uknownothingsnow) Starred [dxxzst/mml-book-chinese](https://github.com/dxxzst/mml-book-chinese)
   > mml-book-chinese《Mathematics For Machine Learning》机器学习中的数学 中文版
 
+### [vipstone](https://github.com/vipstone)
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
+  > Browser automation CLI for AI agents
+
 ### [wooluo](https://github.com/wooluo)
 - 🌟 👤 [wooluo](https://github.com/wooluo) Starred [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
   > Nuclei is a fast, customizable vulnerability scanner powered by the global security community and bu...
+
+### [wrlu](https://github.com/wrlu)
+- 🌟 👤 [wrlu](https://github.com/wrlu) Starred [agno-agi/agno](https://github.com/agno-agi/agno)
+  > Build multi-agent systems that learn and improve with every interaction.
 
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🌟 👤 [wszqkzqk](https://github.com/wszqkzqk) Starred [lcpu-club/devtools-loong64](https://github.com/lcpu-club/devtools-loong64)
@@ -469,6 +607,16 @@
 - 🌟 👤 [yikeke](https://github.com/yikeke) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
+### [ys1231](https://github.com/ys1231)
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [zhizhuodemao/android_proxy_mcp](https://github.com/zhizhuodemao/android_proxy_mcp)
+  > 基于 MCP 的 Android 抓包服务，让 AI 助手通过自然语言分析网络请求。
+- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+  > LLM inference in C/C++
+
+### [yujincheng08](https://github.com/yujincheng08)
+- 🍴 👤 [yujincheng08](https://github.com/yujincheng08) Forked [huggingface/diffusers](https://github.com/huggingface/diffusers) to [yujincheng08/diffusers](https://github.com/yujincheng08/diffusers)
+  > 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [n-WN/SubgroupX](https://github.com/n-WN/SubgroupX)
   > 正规子群.AI Agent | SubgroupX: A high-performance AI Agent for offensive security, CTF operations, and a...
@@ -495,5 +643,5 @@
 
 
 ---
-*最后更新于 2026-02-02 07:49:52 UTC*
+*最后更新于 2026-02-02 09:51:22 UTC*
 *历史记录保存在 `archive` 目录中。*
