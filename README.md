@@ -41,6 +41,10 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki)
   > Come and join us, we need you!
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena)
+  > Useless LSPosed Framework Fork
+- 🍴 👤 [Mufanc](https://github.com/Mufanc) Forked [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) to [Mufanc/LSPosed-Irena](https://github.com/Mufanc/LSPosed-Irena)
+  > Useless LSPosed Framework Fork
 
 ### [Prslc](https://github.com/Prslc)
 - 🌟 👤 [Prslc](https://github.com/Prslc) Starred [zly2006/zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus)
@@ -201,6 +205,10 @@
   > Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesyste...
 - 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [The-Vibe-Company/claude-code-controller](https://github.com/The-Vibe-Company/claude-code-controller)
   > Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesyste...
+- 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [ibelick/webclaw](https://github.com/ibelick/webclaw)
+  > Fast web client for OpenClaw
+- 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)
+  > Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
 
 ### [monkeyWie](https://github.com/monkeyWie)
 - 🌟 👤 [monkeyWie](https://github.com/monkeyWie) Starred [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
@@ -228,6 +236,18 @@
 - 🌟 👤 [p1g3](https://github.com/p1g3) Starred [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
   > Chinese copywriting guidelines for better written communication／中文文案排版指北
 
+### [rankalpha](https://github.com/rankalpha)
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [tiann/hapi](https://github.com/tiann/hapi)
+  > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [JianChengXingYun/Em-Mcts](https://github.com/JianChengXingYun/Em-Mcts) to [rankalpha/Em-Mcts](https://github.com/rankalpha/Em-Mcts)
+  > Empirical-MCTS: A dual-loop inference-time scaling framework that transforms stateless Monte Carlo T...
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [rankalpha/Em-Mcts](https://github.com/rankalpha/Em-Mcts)
+  > Empirical-MCTS: A dual-loop inference-time scaling framework that transforms stateless Monte Carlo T...
+
+### [riba2534](https://github.com/riba2534)
+- 🌟 👤 [riba2534](https://github.com/riba2534) Starred [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
+  > Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen...
+
 ### [s045pd](https://github.com/s045pd)
 - 🌟 👤 [s045pd](https://github.com/s045pd) Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
   > 一款提示词优化器，助力于编写高质量的提示词
@@ -240,11 +260,21 @@
 - 🌟 👤 [wsxyeah](https://github.com/wsxyeah) Starred [karinushka/paneru](https://github.com/karinushka/paneru)
   > A sliding, tiling window manager for MacOS.
 
+### [yanyaoli](https://github.com/yanyaoli)
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)
+  > Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
+
+### [yogeshojha](https://github.com/yogeshojha)
+- 🌟 👤 [yogeshojha](https://github.com/yogeshojha) Starred [projectdiscovery/tldfinder](https://github.com/projectdiscovery/tldfinder)
+  > A streamlined tool for discovering private TLDs for security research.
+- 🌟 👤 [yogeshojha](https://github.com/yogeshojha) Starred [yuyudhn/TLDHunt](https://github.com/yuyudhn/TLDHunt)
+  > Domain Availability Checker
+
 ### [ytcoode](https://github.com/ytcoode)
 - 🌟 👤 [ytcoode](https://github.com/ytcoode) Starred [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring)
   > An io_uring backed runtime for Rust
 
 
 ---
-*最后更新于 2026-02-08 05:03:09 UTC*
+*最后更新于 2026-02-08 06:51:26 UTC*
 *历史记录保存在 `archive` 目录中。*
