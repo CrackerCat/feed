@@ -4,8 +4,16 @@
 
 ## 今日动态
 
+### [1q23lyc45](https://github.com/1q23lyc45)
+- 🍴 👤 [1q23lyc45](https://github.com/1q23lyc45) Forked [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) to [1q23lyc45/GKI_KernelSU_SUSFS](https://github.com/1q23lyc45/GKI_KernelSU_SUSFS)
+  > GKI Kernels with KernelSU & SUSFS
+
 ### [AVGirl](https://github.com/AVGirl)
 - 🍴 👤 [AVGirl](https://github.com/AVGirl) Forked [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) to [AVGirl/shannon](https://github.com/AVGirl/shannon)
+  > Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
+
+### [Chordp](https://github.com/Chordp)
+- 🌟 👤 [Chordp](https://github.com/Chordp) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
   > Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
 
 ### [CyberSecurityUP](https://github.com/CyberSecurityUP)
@@ -26,6 +34,18 @@
 - 🍴 👤 [KingJA](https://github.com/KingJA) Forked [op7418/CodePilot](https://github.com/op7418/CodePilot) to [KingJA/CodePilot](https://github.com/KingJA/CodePilot)
   > A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron...
 
+### [MorvanZhou](https://github.com/MorvanZhou)
+- 🌟 👤 [MorvanZhou](https://github.com/MorvanZhou) Starred [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)
+  > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — ...
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki)
+  > Come and join us, we need you!
+
+### [Prslc](https://github.com/Prslc)
+- 🌟 👤 [Prslc](https://github.com/Prslc) Starred [zly2006/zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus)
+  > 去广告、占用低、AI大模型powered的新时代知乎安卓端体验。
+
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [nadoo/glider](https://github.com/nadoo/glider)
   > glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset man...
@@ -36,9 +56,23 @@
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [Kindness-Kismet/Storage-redirection-X-Public](https://github.com/Kindness-Kismet/Storage-redirection-X-Public)
   > 存储重定向 X
 
+### [StephenDev0](https://github.com/StephenDev0)
+- 🌟 👤 [StephenDev0](https://github.com/StephenDev0) Starred [kakashidinho/metalangle](https://github.com/kakashidinho/metalangle)
+  > MetalANGLE: OpenGL ES to Metal API translation layer
+- 🍴 👤 [StephenDev0](https://github.com/StephenDev0) Forked [kakashidinho/metalangle](https://github.com/kakashidinho/metalangle) to [StephenDev0/metalangle](https://github.com/StephenDev0/metalangle)
+  > MetalANGLE: OpenGL ES to Metal API translation layer
+- 🌟 👤 [StephenDev0](https://github.com/StephenDev0) Starred [google/angle](https://github.com/google/angle)
+  > A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
+- 🍴 👤 [StephenDev0](https://github.com/StephenDev0) Forked [google/angle](https://github.com/google/angle) to [StephenDev0/angle](https://github.com/StephenDev0/angle)
+  > A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
+
 ### [TUGOhost](https://github.com/TUGOhost)
 - 🌟 👤 [TUGOhost](https://github.com/TUGOhost) Starred [openai/skills](https://github.com/openai/skills)
   > Skills Catalog for Codex
+
+### [aooiuu](https://github.com/aooiuu)
+- 🌟 👤 [aooiuu](https://github.com/aooiuu) Starred [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+  > Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit...
 
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
@@ -71,9 +105,15 @@
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot)
   > 超好用的截图工具
 
+### [doodlewind](https://github.com/doodlewind)
+- 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [grammyjs/grammY](https://github.com/grammyjs/grammY)
+  > The Telegram Bot Framework.
+
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)
   > The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [miantiao-me/cloud-claw](https://github.com/miantiao-me/cloud-claw)
+  > Run OpenClaw with One Click on Cloudflare Containers to Create Your Personal Agent
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [oven-sh/bun](https://github.com/oven-sh/bun)
@@ -126,10 +166,6 @@
 - 🌟 👤 [jiqiu2022](https://github.com/jiqiu2022) Starred [adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium)
   > An open source fingerprint browser based on Ungoogled Chromium. 指纹浏览器 隐私浏览器
 
-### [jverkoey](https://github.com/jverkoey)
-- 🌟 👤 [jverkoey](https://github.com/jverkoey) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
-  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-
 ### [liuzjMr](https://github.com/liuzjMr)
 - 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [Ye-Yu-Mo/FundVal-Live](https://github.com/Ye-Yu-Mo/FundVal-Live) to [liuzjMr/FundVal-Live](https://github.com/liuzjMr/FundVal-Live)
   > 盘中基金估值，实时估值，基金净值
@@ -137,6 +173,14 @@
   > 基金实时估值查看
 - 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [etocs/fund-miniapp](https://github.com/etocs/fund-miniapp) to [liuzjMr/fund-miniapp](https://github.com/liuzjMr/fund-miniapp)
   > 一个基金估值程序
+
+### [luochuanyuewu](https://github.com/luochuanyuewu)
+- 🌟 👤 [luochuanyuewu](https://github.com/luochuanyuewu) Starred [ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm)
+  > A complete starter kit for an Obsidian + Claude Code personal knowledge management system.
+
+### [lynnux](https://github.com/lynnux)
+- 🌟 👤 [lynnux](https://github.com/lynnux) Starred [solemnwarning/rehex](https://github.com/solemnwarning/rehex)
+  > Reverse Engineers' Hex Editor
 
 ### [lz6688](https://github.com/lz6688)
 - 🍴 👤 [lz6688](https://github.com/lz6688) Forked [openclaw/openclaw](https://github.com/openclaw/openclaw) to [lz6688/openclaw](https://github.com/lz6688/openclaw)
@@ -184,6 +228,14 @@
 - 🌟 👤 [p1g3](https://github.com/p1g3) Starred [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
   > Chinese copywriting guidelines for better written communication／中文文案排版指北
 
+### [s045pd](https://github.com/s045pd)
+- 🌟 👤 [s045pd](https://github.com/s045pd) Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+  > 一款提示词优化器，助力于编写高质量的提示词
+
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)
+  > Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-...
+
 ### [wsxyeah](https://github.com/wsxyeah)
 - 🌟 👤 [wsxyeah](https://github.com/wsxyeah) Starred [karinushka/paneru](https://github.com/karinushka/paneru)
   > A sliding, tiling window manager for MacOS.
@@ -194,5 +246,5 @@
 
 
 ---
-*最后更新于 2026-02-08 02:35:30 UTC*
+*最后更新于 2026-02-08 05:03:09 UTC*
 *历史记录保存在 `archive` 目录中。*
