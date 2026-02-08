@@ -12,6 +12,10 @@
 - 🍴 👤 [AVGirl](https://github.com/AVGirl) Forked [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) to [AVGirl/shannon](https://github.com/AVGirl/shannon)
   > Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
 
+### [Abbbbbi](https://github.com/Abbbbbi)
+- 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory)
+  > Local persistent memory store for LLM applications including claude desktop, github copilot, codex, ...
+
 ### [Chordp](https://github.com/Chordp)
 - 🌟 👤 [Chordp](https://github.com/Chordp) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
   > Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% s...
@@ -27,6 +31,18 @@
   > Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact ...
 - 🌟 👤 [CyberSecurityUP](https://github.com/CyberSecurityUP) Starred [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)
   > Autonomous multi-session AI coding
+
+### [GaoYuCan](https://github.com/GaoYuCan)
+- 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [Dax89/QHexView](https://github.com/Dax89/QHexView)
+  > A versatile Hexadecimal widget for Qt6 (and Qt5)
+
+### [GermanAizek](https://github.com/GermanAizek)
+- 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [hughsie/colord](https://github.com/hughsie/colord)
+  > Making color management just work
+- 🍴 👤 [GermanAizek](https://github.com/GermanAizek) Forked [hughsie/colord](https://github.com/hughsie/colord) to [GermanAizek/colord](https://github.com/GermanAizek/colord)
+  > Making color management just work
+- 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [kraj/musl](https://github.com/kraj/musl)
+  > musl - an implementation of the standard library for Linux-based systems - ( Downstream )
 
 ### [KingJA](https://github.com/KingJA)
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [op7418/CodePilot](https://github.com/op7418/CodePilot)
@@ -60,6 +76,17 @@
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [Kindness-Kismet/Storage-redirection-X-Public](https://github.com/Kindness-Kismet/Storage-redirection-X-Public)
   > 存储重定向 X
 
+### [SodaMilk233](https://github.com/SodaMilk233)
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [actionbook/rust-skills](https://github.com/actionbook/rust-skills)
+  > Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [tiann/hapi](https://github.com/tiann/hapi)
+  > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [s1nec-1o/TraceClean](https://github.com/s1nec-1o/TraceClean)
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [thebabush/idagui](https://github.com/thebabush/idagui)
+  > IDA Pro + ImGui
+
 ### [StephenDev0](https://github.com/StephenDev0)
 - 🌟 👤 [StephenDev0](https://github.com/StephenDev0) Starred [kakashidinho/metalangle](https://github.com/kakashidinho/metalangle)
   > MetalANGLE: OpenGL ES to Metal API translation layer
@@ -78,9 +105,22 @@
 - 🌟 👤 [aooiuu](https://github.com/aooiuu) Starred [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
   > Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit...
 
+### [apkunpacker](https://github.com/apkunpacker)
+- 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [nitanmarcel/r2agent](https://github.com/nitanmarcel/r2agent)
+  > Automate radare2 workflows through autonomous agents.
+
+### [applicazza](https://github.com/applicazza)
+- 🍴 👤 [applicazza](https://github.com/applicazza) Forked [OBDb/Aiways-U5](https://github.com/OBDb/Aiways-U5) to [applicazza/Aiways-U5](https://github.com/applicazza/Aiways-U5)
+
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
   > Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen...
+
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+  > Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [poco-ai/poco-agent](https://github.com/poco-ai/poco-agent)
+  > An intelligent agent harnessing cloud-based Claude Code to realize a Manus-like autonomous experienc...
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [R41N3RZUF477/QuickAssist_UAC_Bypass](https://github.com/R41N3RZUF477/QuickAssist_UAC_Bypass)
@@ -118,6 +158,8 @@
   > The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [miantiao-me/cloud-claw](https://github.com/miantiao-me/cloud-claw)
   > Run OpenClaw with One Click on Cloudflare Containers to Create Your Personal Agent
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [ibelick/webclaw](https://github.com/ibelick/webclaw)
+  > Fast web client for OpenClaw
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [oven-sh/bun](https://github.com/oven-sh/bun)
@@ -156,11 +198,11 @@
 - 🌟 👤 [guiying712](https://github.com/guiying712) Starred [automata/aicodeguide](https://github.com/automata/aicodeguide)
   > AI Code Guide is a roadmap to start coding with AI
 
-### [hahwul](https://github.com/hahwul)
-- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [mitchellh/vouch](https://github.com/mitchellh/vouch)
-  > A contributor trust management system based on explicit vouches to participate.
-- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter)
-  > A natural language interface for computers
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [prosch88/ALEX](https://github.com/prosch88/ALEX)
+  > Extract files from ADB devices on Windows, Linux and MacOS. Mostly a wrapper for adbutils. 
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [RealityNet/android_triage](https://github.com/RealityNet/android_triage)
+  > Bash script to extract data from an Android device
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [openai/skills](https://github.com/openai/skills)
@@ -169,6 +211,12 @@
 ### [jiqiu2022](https://github.com/jiqiu2022)
 - 🌟 👤 [jiqiu2022](https://github.com/jiqiu2022) Starred [adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium)
   > An open source fingerprint browser based on Ungoogled Chromium. 指纹浏览器 隐私浏览器
+
+### [kingking888](https://github.com/kingking888)
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [MCGA25/bilibili-spider](https://github.com/MCGA25/bilibili-spider)
+  > 支持输入关键词自动搜索并下载B站视频
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [pskdje/bilibili-API-collect](https://github.com/pskdje/bilibili-API-collect)
+  > 仓库SocialSisterYi/bilibili-API-collect的贡献者复刻，基础内容同步在master分支于2026年1月25日。main分支用于额外存档部分外部资源，若只要原始仓库存档应...
 
 ### [liuzjMr](https://github.com/liuzjMr)
 - 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [Ye-Yu-Mo/FundVal-Live](https://github.com/Ye-Yu-Mo/FundVal-Live) to [liuzjMr/FundVal-Live](https://github.com/liuzjMr/FundVal-Live)
@@ -214,6 +262,10 @@
 - 🌟 👤 [monkeyWie](https://github.com/monkeyWie) Starred [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
   > SVG icons for popular brands
 
+### [mustime](https://github.com/mustime)
+- 🌟 👤 [mustime](https://github.com/mustime) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+  > A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
+
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [rui314/mold](https://github.com/rui314/mold)
   > mold: A Modern Linker 🦠
@@ -248,9 +300,20 @@
 - 🌟 👤 [riba2534](https://github.com/riba2534) Starred [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
   > Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen...
 
+### [rmuxnet](https://github.com/rmuxnet)
+- 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [Vuemony/vue-after-free](https://github.com/Vuemony/vue-after-free) to [rmuxnet/vue-after-free](https://github.com/rmuxnet/vue-after-free)
+  > PlayStation Vue code execution exploit
+
 ### [s045pd](https://github.com/s045pd)
 - 🌟 👤 [s045pd](https://github.com/s045pd) Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
   > 一款提示词优化器，助力于编写高质量的提示词
+
+### [safe6Sec](https://github.com/safe6Sec)
+- 🌟 👤 [safe6Sec](https://github.com/safe6Sec) Starred [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker)
+  > Run Cloudflare WARP in Docker.
+
+### [uvbs](https://github.com/uvbs)
+- 🌟 👤 [uvbs](https://github.com/uvbs) Starred [ByNaz0801/Mikrotik-CHR-arm64-Docker](https://github.com/ByNaz0801/Mikrotik-CHR-arm64-Docker)
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)
@@ -264,6 +327,10 @@
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)
   > Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
 
+### [yinsel](https://github.com/yinsel)
+- 🍴 👤 [yinsel](https://github.com/yinsel) Forked [RowTeam/SharpDecryptPwd](https://github.com/RowTeam/SharpDecryptPwd) to [yinsel/SharpDecryptPwd](https://github.com/yinsel/SharpDecryptPwd)
+  > SharpDecryptPwd source, To Decrypt Navicat,Xmanager,Filezilla,Foxmail,WinSCP,etc
+
 ### [yogeshojha](https://github.com/yogeshojha)
 - 🌟 👤 [yogeshojha](https://github.com/yogeshojha) Starred [projectdiscovery/tldfinder](https://github.com/projectdiscovery/tldfinder)
   > A streamlined tool for discovering private TLDs for security research.
@@ -276,5 +343,5 @@
 
 
 ---
-*最后更新于 2026-02-08 06:51:26 UTC*
+*最后更新于 2026-02-08 08:34:05 UTC*
 *历史记录保存在 `archive` 目录中。*
