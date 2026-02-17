@@ -24,6 +24,20 @@
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [myinvestpilot/ai-architecture](https://github.com/myinvestpilot/ai-architecture)
   > Design notes, architecture, and trade-offs for MyInvestPilot — an AI-native investment OS built with...
 
+### [ColdWindScholar](https://github.com/ColdWindScholar)
+- 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [AltraMayor/f3](https://github.com/AltraMayor/f3)
+  > F3 - Fight Flash Fraud
+- 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [G4p-Studios/ThriveMessenger](https://github.com/G4p-Studios/ThriveMessenger)
+  > Chat like it's 2005!
+- 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [torvalds/uemacs](https://github.com/torvalds/uemacs)
+  > Random version of microemacs with my private modificatons
+- 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [YuzukiTsuru/OpenixSuit](https://github.com/YuzukiTsuru/OpenixSuit)
+  > Open Source Tool to Flash Firmware to Devices. Support Windows, Linux, macOS
+- 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [flutter/flutter](https://github.com/flutter/flutter)
+  > Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [reindex-ot/astro-koharu](https://github.com/reindex-ot/astro-koharu)
+  > astro-koharu 是一个萌系/二次元/粉蓝配色的 astro 主题博客，灵感来自 Hexo 的 Shoka 主题，加了很多自己的小巧思，性能优越。
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [nielssp/classic-stylesheets](https://github.com/nielssp/classic-stylesheets)
   > Classic stylesheets for web applications.
@@ -40,9 +54,17 @@
 - 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [VKCOM/vk-java-sdk](https://github.com/VKCOM/vk-java-sdk)
   > Java library for working with VK API
 
+### [H3d9](https://github.com/H3d9)
+- 🌟 👤 [H3d9](https://github.com/H3d9) Starred [networkupstools/nut](https://github.com/networkupstools/nut)
+  > The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF a...
+
 ### [HanSolo](https://github.com/HanSolo)
 - 🍴 👤 [HanSolo](https://github.com/HanSolo) Forked [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) to [HanSolo/spring-petclinic](https://github.com/HanSolo/spring-petclinic)
   > A sample Spring-based application
+
+### [Idov31](https://github.com/Idov31)
+- 🌟 👤 [Idov31](https://github.com/Idov31) Starred [cispa/StackWarp](https://github.com/cispa/StackWarp)
+  > Proof-of-concept for the paper "StackWarp: Breaking AMD SEV-SNP Integrity via Deterministic Stack-Po...
 
 ### [KHwang9883](https://github.com/KHwang9883)
 - 🍴 👤 [KHwang9883](https://github.com/KHwang9883) Forked [InnovationLeap/super-mario-worker-project-2](https://github.com/InnovationLeap/super-mario-worker-project-2) to [KHwang9883/super-mario-worker-project-2](https://github.com/KHwang9883/super-mario-worker-project-2)
@@ -57,6 +79,8 @@
 ### [Lakr233](https://github.com/Lakr233)
 - 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI)
   > Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signin...
+- 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [applidium/OverlayContainer](https://github.com/applidium/OverlayContainer)
+  > Non-intrusive iOS UI library to implement overlay based interfaces
 
 ### [LimerBoy](https://github.com/LimerBoy)
 - 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng)
@@ -81,9 +105,16 @@
 - 🌟 👤 [Nep-Timeline](https://github.com/Nep-Timeline) Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
   > 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them...
 
+### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+  > A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
+
 ### [SakuraKoi](https://github.com/SakuraKoi)
 - 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [Kindness-Kismet/Storage-redirection-X-Public](https://github.com/Kindness-Kismet/Storage-redirection-X-Public)
   > 存储重定向 X
+
+### [Sndav](https://github.com/Sndav)
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [GANGE666/xVMP](https://github.com/GANGE666/xVMP)
 
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [djskncxm/TraceParse](https://github.com/djskncxm/TraceParse)
@@ -93,6 +124,8 @@
   > Kalendar is no ordinary library — it’s the Elder Wand of calendar components, crafted for Compose (n...
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [JoshAtticus/Compressor](https://github.com/JoshAtticus/Compressor)
   > Lightning fast, ad free, super lightweight native video compressor for Android
+- 🌟 👤 [Super12138](https://github.com/Super12138) Starred [Super12138/VerveDo](https://github.com/Super12138/VerveDo)
+  > 一个简约的、遵循 Material 3 Expressive 的待办应用，使用 Jetpack Compose 编写 | A concise to-do app that follows Materi...
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)
@@ -109,9 +142,21 @@
 - 🌟 👤 [aooiuu](https://github.com/aooiuu) Starred [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)
   > Socket-based TS/JavaScript API for WhatsApp Web
 
+### [ashishb](https://github.com/ashishb)
+- 🌟 👤 [ashishb](https://github.com/ashishb) Starred [devicelab-dev/maestro-runner](https://github.com/devicelab-dev/maestro-runner)
+  > Fast mobile UI test automation for Android, iOS, React Native, Flutter & Expo. Open-source Maestro a...
+
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio)
   > Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It f...
+
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [shell-pool/shpool](https://github.com/shell-pool/shpool)
+  > Think tmux, then aim... lower
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [neurosnap/zmx](https://github.com/neurosnap/zmx)
+  > Session persistence for terminal processes
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [jerome-pouiller/reredirect](https://github.com/jerome-pouiller/reredirect)
+  > Tool to dynamicly redirect outputs of a running process
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
@@ -128,6 +173,8 @@
 ### [darkskygit](https://github.com/darkskygit)
 - 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [oxters168/Pluvia](https://github.com/oxters168/Pluvia)
   > Lightweight unofficial Steam client for Android
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [ZhangHanDong/agent-estimation](https://github.com/ZhangHanDong/agent-estimation)
+  > Ready to estimate AI agent work effort using tool-call rounds as the base unit   instead of human ti...
 
 ### [dartcv](https://github.com/dartcv)
 - 🌟 👤 [dartcv](https://github.com/dartcv) Starred [lihangleo2/ShadowLayout](https://github.com/lihangleo2/ShadowLayout)
@@ -155,14 +202,32 @@
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [TheQmaks/clsdumper](https://github.com/TheQmaks/clsdumper)
   > Android Dynamic Class Dumper — dump all DEX files from running Android apps using Frida
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [TheQmaks/clsdumper](https://github.com/TheQmaks/clsdumper) to [enovella/clsdumper](https://github.com/enovella/clsdumper)
+  > Android Dynamic Class Dumper — dump all DEX files from running Android apps using Frida
 
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [unitedbyai/droidclaw](https://github.com/unitedbyai/droidclaw)
   > turn old phones into ai agents - give it a goal in plain english. it reads the screen, thinks about ...
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [biomejs/gritql](https://github.com/biomejs/gritql)
+  > GritQL is a query language for searching, linting, and modifying code.
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [facebook/mariana-trench](https://github.com/facebook/mariana-trench)
+  > A security focused static analysis tool for Android and Java applications.
+
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [stonerl/Thaw](https://github.com/stonerl/Thaw)
+  > Menu bar manager for macOS 26
+
 ### [fr0zenrain](https://github.com/fr0zenrain)
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [TheQmaks/clsdumper](https://github.com/TheQmaks/clsdumper)
+  > Android Dynamic Class Dumper — dump all DEX files from running Android apps using Frida
 
 ### [gh0stkey](https://github.com/gh0stkey)
 - 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy)
@@ -173,6 +238,10 @@
   > Provides automated reverse engineering assistance through the use of local large language models (LL...
 - 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
   > Headless IDA Pro MCP Server
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [KuNgia09/TInjector_Symbi](https://github.com/KuNgia09/TInjector_Symbi)
+  > 更稳定的劫持Zygote在App启动前注入so
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [Mrack/TInjector_Symbi](https://github.com/Mrack/TInjector_Symbi)
+  > 更稳定的劫持Zygote在App启动前注入so
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ddttom/mlx-llm-tutorial](https://github.com/ddttom/mlx-llm-tutorial) to [gmh5225/mlx-llm-tutorial](https://github.com/gmh5225/mlx-llm-tutorial)
@@ -200,6 +269,8 @@
   > Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [prateekmedia/claude-agent-sdk-pi](https://github.com/prateekmedia/claude-agent-sdk-pi) to [gmh5225/claude-agent-sdk-pi](https://github.com/gmh5225/claude-agent-sdk-pi)
   > Claude agent sdk as a provider for pi
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) to [gmh5225/App-Store-Connect-CLI](https://github.com/gmh5225/App-Store-Connect-CLI)
+  > Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signin...
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [alibaba/zvec](https://github.com/alibaba/zvec)
@@ -226,8 +297,32 @@
 - 🌟 👤 [kost](https://github.com/kost) Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
   > A light-weight and powerful meta-prompting, context engineering and spec-driven development system f...
 
+### [luk1337](https://github.com/luk1337)
+- 🍴 👤 [luk1337](https://github.com/luk1337) Forked [LineageOS/android_hardware_qcom_display](https://github.com/LineageOS/android_hardware_qcom_display) to [sony-sm6375/android_hardware_qcom_display](https://github.com/sony-sm6375/android_hardware_qcom_display)
+- 🍴 👤 [luk1337](https://github.com/luk1337) Forked [LineageOS/android_vendor_qcom_opensource_agm](https://github.com/LineageOS/android_vendor_qcom_opensource_agm) to [sony-sm6375/android_vendor_qcom_opensource_agm](https://github.com/sony-sm6375/android_vendor_qcom_opensource_agm)
+- 🍴 👤 [luk1337](https://github.com/luk1337) Forked [LineageOS/android_vendor_qcom_opensource_arpal-lx](https://github.com/LineageOS/android_vendor_qcom_opensource_arpal-lx) to [sony-sm6375/android_vendor_qcom_opensource_arpal-lx](https://github.com/sony-sm6375/android_vendor_qcom_opensource_arpal-lx)
+- 🍴 👤 [luk1337](https://github.com/luk1337) Forked [LineageOS/android_vendor_qcom_opensource_audioreach-graphservices](https://github.com/LineageOS/android_vendor_qcom_opensource_audioreach-graphservices) to [sony-sm6375/android_vendor_qcom_opensource_audioreach-graphservices](https://github.com/sony-sm6375/android_vendor_qcom_opensource_audioreach-graphservices)
+- 🍴 👤 [luk1337](https://github.com/luk1337) Forked [LineageOS/android_vendor_qcom_opensource_display-core](https://github.com/LineageOS/android_vendor_qcom_opensource_display-core) to [sony-sm6375/android_vendor_qcom_opensource_display-core](https://github.com/sony-sm6375/android_vendor_qcom_opensource_display-core)
+- 🍴 👤 [luk1337](https://github.com/luk1337) Forked [LineageOS/android_vendor_qcom_opensource_display-intf](https://github.com/LineageOS/android_vendor_qcom_opensource_display-intf) to [sony-sm6375/android_vendor_qcom_opensource_display-intf](https://github.com/sony-sm6375/android_vendor_qcom_opensource_display-intf)
+- 🍴 👤 [luk1337](https://github.com/luk1337) Forked [LineageOS/android_hardware_qcom_audio-ar](https://github.com/LineageOS/android_hardware_qcom_audio-ar) to [sony-sm6375/android_hardware_qcom_audio-ar](https://github.com/sony-sm6375/android_hardware_qcom_audio-ar)
+
+### [lyming99](https://github.com/lyming99)
+- 🌟 👤 [lyming99](https://github.com/lyming99) Starred [DartGit-dev/git2dart](https://github.com/DartGit-dev/git2dart)
+
+### [mborgerson](https://github.com/mborgerson)
+- 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [lxe/yapyap](https://github.com/lxe/yapyap)
+  > fast and simple push to talk dictation
+- 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [dannymcc/bluehood](https://github.com/dannymcc/bluehood)
+  > Monitor your local neighbourhood's bluetooth activity
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [SlavomirDurej/claude-usage-widget](https://github.com/SlavomirDurej/claude-usage-widget)
+  > Claude usage widget for Windows
+
 ### [misterch0c](https://github.com/misterch0c)
 - 🌟 👤 [misterch0c](https://github.com/misterch0c) Starred [Maniesh-Neupane/BugBounty-Recon-Methodology](https://github.com/Maniesh-Neupane/BugBounty-Recon-Methodology)
+- 🌟 👤 [misterch0c](https://github.com/misterch0c) Starred [Zierax/Grafana-Final-Scanner](https://github.com/Zierax/Grafana-Final-Scanner)
+  > Grafana scanner with all public CVEs that I collected in one script to make grafana testing easier
 
 ### [mo-xiaoxi](https://github.com/mo-xiaoxi)
 - 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [memohai/Memoh](https://github.com/memohai/Memoh)
@@ -301,8 +396,19 @@
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [CheckPointSW/Scout](https://github.com/CheckPointSW/Scout)
   > Scout - Instruction based research debugger (a poor man's debugger)
 
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [Tomotsugu-dev/HumanMoveMouse](https://github.com/Tomotsugu-dev/HumanMoveMouse)
+  > HumanMoveMouse is a realistic mouse‑movement simulator based on a statistical model trained on 300 s...
+
 ### [sakana164](https://github.com/sakana164)
 - 🌟 👤 [sakana164](https://github.com/sakana164) Starred [chsbuffer/ReVancedXposed_Spotify](https://github.com/chsbuffer/ReVancedXposed_Spotify)
+
+### [semlinker](https://github.com/semlinker)
+- 🌟 👤 [semlinker](https://github.com/semlinker) Starred [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX)
+  > ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-base...
+
+### [su-vikas](https://github.com/su-vikas)
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [loyaltypollution/ida2llvm](https://github.com/loyaltypollution/ida2llvm)
 
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [microsoft/litebox](https://github.com/microsoft/litebox)
@@ -326,11 +432,14 @@
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [Eanya-Tonic/CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer)
   > 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频
 
+### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
+- 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [FANGG3/ATTD-GUI](https://github.com/FANGG3/ATTD-GUI)
+
 ### [yohanes](https://github.com/yohanes)
 - 🌟 👤 [yohanes](https://github.com/yohanes) Starred [zboralski/unflutter](https://github.com/zboralski/unflutter)
   > Static analyzer for Flutter/Dart AOT snapshots
 
 
 ---
-*最后更新于 2026-02-17 08:48:11 UTC*
+*最后更新于 2026-02-17 10:45:54 UTC*
 *历史记录保存在 `archive` 目录中。*
