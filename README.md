@@ -4,13 +4,42 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)
+  > A simple, decentralized mesh VPN with WireGuard support.
+
+### [AbhiTheModder](https://github.com/AbhiTheModder)
+- 🍴 👤 [AbhiTheModder](https://github.com/AbhiTheModder) Forked [facebook/mariana-trench](https://github.com/facebook/mariana-trench) to [AbhiTheModder/mariana-trench](https://github.com/AbhiTheModder/mariana-trench)
+  > A security focused static analysis tool for Android and Java applications.
+
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [shallowdream204/BitDance](https://github.com/shallowdream204/BitDance)
   > BitDance: Open-source autoregressive model with binary visual tokens. A research project for buildin...
 
+### [AndnixSH](https://github.com/AndnixSH)
+- 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [Saganaki22/AgebypassX](https://github.com/Saganaki22/AgebypassX)
+  > Bypass Twitter/X's age restrictions and unlock sensitive media
+
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [a-konrad/fastpoly](https://github.com/a-konrad/fastpoly)
+  > FastPoly: An Efficient Polynomial Package for the Verification of Integer Arithmetic Circuits
+- 🍴 👤 [Colton1skees](https://github.com/Colton1skees) Forked [a-konrad/fastpoly](https://github.com/a-konrad/fastpoly) to [Colton1skees/fastpoly](https://github.com/Colton1skees/fastpoly)
+  > FastPoly: An Efficient Polynomial Package for the Verification of Integer Arithmetic Circuits
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [temelmertcan/multgen](https://github.com/temelmertcan/multgen)
+  > Integer Multiplier Generator for Verilog
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [CheckPointSW/Scout](https://github.com/CheckPointSW/Scout)
   > Scout - Instruction based research debugger (a poor man's debugger)
+
+### [EgeBalci](https://github.com/EgeBalci)
+- 🌟 👤 [EgeBalci](https://github.com/EgeBalci) Starred [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)
+- 🌟 👤 [EgeBalci](https://github.com/EgeBalci) Starred [SuperagenticAI/superclaw](https://github.com/SuperagenticAI/superclaw)
+  > SuperClaw: Red-Team AI Agents Before They Red-Team You
+
+### [Evian-Zhang](https://github.com/Evian-Zhang)
+- 🍴 👤 [Evian-Zhang](https://github.com/Evian-Zhang) Forked [nyx-fuzz/libxdc_experiments](https://github.com/nyx-fuzz/libxdc_experiments) to [Evian-Zhang/libxdc_experiments](https://github.com/Evian-Zhang/libxdc_experiments)
+  > data for experiments & tests with libxdc
 
 ### [FunnyWolf](https://github.com/FunnyWolf)
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [vintasoftware/django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate)
@@ -83,6 +112,12 @@
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [SpecterOps/at-ps](https://github.com/SpecterOps/at-ps)
   > Adversary Tactics - PowerShell Training
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [franc-pentest/ldeep](https://github.com/franc-pentest/ldeep)
+  > In-depth ldap enumeration utility
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [arch1m3d/xworm-c2-path-traversal](https://github.com/arch1m3d/xworm-c2-path-traversal)
+  > Path traversal exploit for XWorm C2 servers (Up until v6.5). Arbitrary file write via unsanitized HW...
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [anchore/grype](https://github.com/anchore/grype)
+  > A vulnerability scanner for container images and filesystems
 
 ### [cristeigabriela](https://github.com/cristeigabriela)
 - 🌟 👤 [cristeigabriela](https://github.com/cristeigabriela) Starred [naorhaziz/irql](https://github.com/naorhaziz/irql)
@@ -116,6 +151,10 @@
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
   > ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
+### [gh0stkey](https://github.com/gh0stkey)
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
+  > 94 models. 30 providers. One command to find what runs on your hardware.
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [elysiajs/arona](https://github.com/elysiajs/arona) to [gmh5225/arona](https://github.com/gmh5225/arona)
   > Elysia AI doc search
@@ -144,6 +183,16 @@
   > The macOS screen recorder for the rest of us - always free and open source with a native look and fe...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Fragmentaim/Auto_aim](https://github.com/Fragmentaim/Auto_aim) to [gmh5225/Auto_aim](https://github.com/gmh5225/Auto_aim)
   > Core code for a real-time AI assistant using DXGI, TensorRT, and driver-level input.
+
+### [happydog-intj](https://github.com/happydog-intj)
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [happydog-intj/OpenClaw-installer](https://github.com/happydog-intj/OpenClaw-installer)
+  >  OpenClaw 一键安装工具 - 图形化界面，零技术门槛 🦞
+
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [memovai/mimiclaw](https://github.com/memovai/mimiclaw)
+  > MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS....
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [microsoft/rust_win_etw](https://github.com/microsoft/rust_win_etw)
+  > Allows Rust code to log events to ETW
 
 ### [jialeicui](https://github.com/jialeicui)
 - 🌟 👤 [jialeicui](https://github.com/jialeicui) Starred [ublue-os/bluefin](https://github.com/ublue-os/bluefin)
@@ -189,6 +238,10 @@
 - 🌟 👤 [mkr-infinity](https://github.com/mkr-infinity) Starred [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
   > A list of developer portfolios for your inspiration
 
+### [mos9527](https://github.com/mos9527)
+- 🌟 👤 [mos9527](https://github.com/mos9527) Starred [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd)
+  > 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
+
 ### [motikan2010](https://github.com/motikan2010)
 - 🌟 👤 [motikan2010](https://github.com/motikan2010) Starred [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian)
   > Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to quer...
@@ -197,9 +250,20 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [medigateio/ida_medigate](https://github.com/medigateio/ida_medigate)
   > Medigate plugin for c++ reverse engineering and other utils
 
+### [polygraphene](https://github.com/polygraphene)
+- 🌟 👤 [polygraphene](https://github.com/polygraphene) Starred [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation)
+
+### [reveng007](https://github.com/reveng007)
+- 🌟 👤 [reveng007](https://github.com/reveng007) Starred [darkoperator/mimikatz-missing-manual](https://github.com/darkoperator/mimikatz-missing-manual)
+  > The Mimikatz Missing Manual
+
 ### [riba2534](https://github.com/riba2534)
 - 🌟 👤 [riba2534](https://github.com/riba2534) Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
   > OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifie...
+
+### [rmuxnet](https://github.com/rmuxnet)
+- 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [GoldHEN/GoldHEN_Plugins_Repository](https://github.com/GoldHEN/GoldHEN_Plugins_Repository) to [rmuxnet/GoldHEN_Plugins_Repository](https://github.com/rmuxnet/GoldHEN_Plugins_Repository)
+  > Custom Plugins for GoldHEN PS4
 
 ### [sotasan](https://github.com/sotasan)
 - 🌟 👤 [sotasan](https://github.com/sotasan) Starred [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)
@@ -208,6 +272,14 @@
 ### [stonedreamforest](https://github.com/stonedreamforest)
 - 🌟 👤 [stonedreamforest](https://github.com/stonedreamforest) Starred [binsnake/omill](https://github.com/binsnake/omill)
   > Binary lifter and deobfuscator using remill for x86_64 Windows binaries
+
+### [strongcourage](https://github.com/strongcourage)
+- 🌟 👤 [strongcourage](https://github.com/strongcourage) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
+  > Cybersecurity AI (CAI), the framework for AI Security
+
+### [taielab](https://github.com/taielab)
+- 🌟 👤 [taielab](https://github.com/taielab) Starred [taielab/resume-optimization-pro](https://github.com/taielab/resume-optimization-pro)
+  > 专业简历优化技能 | 8维度评分体系 + 迭代优化流程 | 为你打造90+分简历 | Claude Code Skill
 
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [juliusdeane/bootloaders](https://github.com/juliusdeane/bootloaders)
@@ -218,6 +290,8 @@
   > A personal AI assistant built in Rust. Single binary, multi-provider LLMs, long-term memory, sandbox...
 - 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [Ryan-D-Gast/quill](https://github.com/Ryan-D-Gast/quill)
   > Quill 🪶- Simple 2D plotting for Rust
+- 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [rust-cross/cargo-xwin](https://github.com/rust-cross/cargo-xwin)
+  > Cross compile Cargo project to Windows MSVC target with ease
 
 ### [wxxsfxyzm](https://github.com/wxxsfxyzm)
 - 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [fei-ke/unlock-cn-gms](https://github.com/fei-ke/unlock-cn-gms)
@@ -230,6 +304,12 @@
 ### [xsser](https://github.com/xsser)
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
   > OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifie...
+
+### [y11en](https://github.com/y11en)
+- 🌟 👤 [y11en](https://github.com/y11en) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
+  > Stealthy Linux Kernel Rootkit for modern kernels (6x)
+- 🍴 👤 [y11en](https://github.com/y11en) Forked [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity) to [y11en/Singularity](https://github.com/y11en/Singularity)
+  > Stealthy Linux Kernel Rootkit for modern kernels (6x)
 
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [andyhuo520/rf-detr-detection](https://github.com/andyhuo520/rf-detr-detection)
@@ -295,8 +375,10 @@
   > PENIOT: Penetration Testing Tool for IoT
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [touhidshaikh/Wireless-Pentest-Cheatsheet](https://github.com/touhidshaikh/Wireless-Pentest-Cheatsheet)
   > The Wireless Pentest cheat sheet was created to provide concise collection of high value information...
+- 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [utmapp/UTM](https://github.com/utmapp/UTM)
+  > Virtual machines for iOS and macOS
 
 
 ---
-*最后更新于 2026-02-18 07:50:35 UTC*
+*最后更新于 2026-02-18 09:49:39 UTC*
 *历史记录保存在 `archive` 目录中。*
