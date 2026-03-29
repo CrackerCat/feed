@@ -8,6 +8,8 @@
 - 🌟 👤 [1c7](https://github.com/1c7) Starred [riba2534/feishu-cli](https://github.com/riba2534/feishu-cli)
 - 🌟 👤 [1c7](https://github.com/1c7) Starred [larksuite/cli](https://github.com/larksuite/cli)
   > A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core busi...
+- 🌟 👤 [1c7](https://github.com/1c7) Starred [xvirobotics/metabot](https://github.com/xvirobotics/metabot)
+  > 构建受监督的、自我进化的 Agent 组织的基础设施 | Infrastructure for supervised, self-improving agent organization. 从飞书/T...
 
 ### [3intermute](https://github.com/3intermute)
 - 🌟 👤 [3intermute](https://github.com/3intermute) Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
@@ -28,6 +30,10 @@
 
 ### [CreditTone](https://github.com/CreditTone)
 - 🌟 👤 [CreditTone](https://github.com/CreditTone) Starred [CreditTone/android-reverse-engineering-skill](https://github.com/CreditTone/android-reverse-engineering-skill)
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine)
+  > Modern, advanced, portable, multiprotocol bootloader and boot manager. (Official mirror of https://c...
 
 ### [GangJust](https://github.com/GangJust)
 - 🌟 👤 [GangJust](https://github.com/GangJust) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
@@ -61,6 +67,10 @@
 - 🌟 👤 [Natsume324](https://github.com/Natsume324) Starred [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS)
   > A lightweight, LXC-inspired container runtime for Android and Linux. Run full Linux distributions na...
 
+### [PalmDevs](https://github.com/PalmDevs)
+- 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)
+  > Weighs the soul of incoming HTTP requests to stop AI crawlers
+
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [s-yata/marisa-trie](https://github.com/s-yata/marisa-trie)
   > MARISA: Matching Algorithm with Recursively Implemented StorAge
@@ -68,6 +78,8 @@
 ### [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO)
 - 🌟 👤 [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO) Starred [shenhao-stu/ohmycaptcha](https://github.com/shenhao-stu/ohmycaptcha)
   > ⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-comp...
+- 🌟 👤 [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO) Starred [guchangan1/All-Defense-Tool](https://github.com/guchangan1/All-Defense-Tool)
+  > 本项目集成了全网优秀的攻防武器工具项目，包含自动化利用，子域名、目录扫描、端口扫描等信息收集工具，各大中间件、cms、OA漏洞利用工具，爆破工具、内网横向、免杀、社工钓鱼以及应急响应、甲方安全资料等其...
 
 ### [Soulghost](https://github.com/Soulghost)
 - 🌟 👤 [Soulghost](https://github.com/Soulghost) Starred [obra/superpowers](https://github.com/obra/superpowers)
@@ -95,6 +107,10 @@
 - 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [eze-is/web-access](https://github.com/eze-is/web-access)
   > 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
 
+### [boy-hack](https://github.com/boy-hack)
+- 🌟 👤 [boy-hack](https://github.com/boy-hack) Starred [slavingia/skills](https://github.com/slavingia/skills)
+  > Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
+
 ### [buzzer-re](https://github.com/buzzer-re)
 - 🌟 👤 [buzzer-re](https://github.com/buzzer-re) Starred [dariushoule/x64dbg-rippy](https://github.com/dariushoule/x64dbg-rippy)
   > AI reverse engineering assistant for x64dbg. Embeds a chat panel directly in the debugger with tool-...
@@ -111,12 +127,17 @@
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt)
   > GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 
+### [dreamland-blog](https://github.com/dreamland-blog)
+- 🌟 👤 [dreamland-blog](https://github.com/dreamland-blog) Starred [dreamland-blog/PerimeterX-SDK-IOS](https://github.com/dreamland-blog/PerimeterX-SDK-IOS)
+
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [aabalke/gojit](https://github.com/aabalke/gojit)
   > JIT code-generation in golang!
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [RSamaium/RPG-JS](https://github.com/RSamaium/RPG-JS)
+  > Framework to create an RPG or MMORPG (with the same code) in the browser with Typescript
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Boweii22/Code-graph](https://github.com/Boweii22/Code-graph)
@@ -126,6 +147,10 @@
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
   > AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th...
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [wasmerio/edgejs](https://github.com/wasmerio/edgejs)
+  > Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads
+
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [punitarani/fli](https://github.com/punitarani/fli)
   > Google Flights MCP and Python Library
@@ -133,6 +158,10 @@
   > Local speech-to-text for macOS — on-device AI, fully private, no cloud
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [Shpigford/clearly](https://github.com/Shpigford/clearly)
   > A clean, native markdown editor for macOS.
+
+### [flankerhqd](https://github.com/flankerhqd)
+- 🌟 👤 [flankerhqd](https://github.com/flankerhqd) Starred [htimesnine/DarkSword-RCE](https://github.com/htimesnine/DarkSword-RCE)
+  > DarkSword webkit exploit captured ITW
 
 ### [gclm](https://github.com/gclm)
 - 🍴 👤 [gclm](https://github.com/gclm) Forked [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) to [gclm/CodexMonitor](https://github.com/gclm/CodexMonitor)
@@ -183,6 +212,10 @@
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
   > Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 
+### [jmpews](https://github.com/jmpews)
+- 🌟 👤 [jmpews](https://github.com/jmpews) Starred [yologdev/yoyo-evolve](https://github.com/yologdev/yoyo-evolve)
+  > A coding agent that evolves itself. One commit per day.
+
 ### [kylesmile1103](https://github.com/kylesmile1103)
 - 🌟 👤 [kylesmile1103](https://github.com/kylesmile1103) Starred [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
   > practice made claude perfect
@@ -203,6 +236,10 @@
   > Hypervisor based anti anti debug plugin for x64dbg
 - 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [hjcapple/MetaLisp](https://github.com/hjcapple/MetaLisp)
   > 使用 C++ 模板元编程模拟 Lisp
+
+### [m4ll0k](https://github.com/m4ll0k)
+- 🍴 👤 [m4ll0k](https://github.com/m4ll0k) Forked [ShawnPana/smux](https://github.com/ShawnPana/smux) to [m4ll0k/smux](https://github.com/m4ll0k/smux)
+  > tmux config with built-in terminal automation and agent-to-agent communication.
 
 ### [madeye](https://github.com/madeye)
 - 🌟 👤 [madeye](https://github.com/madeye) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
@@ -233,10 +270,6 @@
 ### [qazbnm456](https://github.com/qazbnm456)
 - 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
 
-### [riba2534](https://github.com/riba2534)
-- 🌟 👤 [riba2534](https://github.com/riba2534) Starred [larksuite/cli](https://github.com/larksuite/cli)
-  > A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core busi...
-
 ### [rootkiter](https://github.com/rootkiter)
 - 🌟 👤 [rootkiter](https://github.com/rootkiter) Starred [udpcat/Cross-Compilers](https://github.com/udpcat/Cross-Compilers)
   > A mirror of uclibc.org cross-compilers.
@@ -246,6 +279,8 @@
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [oschwartz10612/poppler-windows](https://github.com/oschwartz10612/poppler-windows)
   > Download Poppler binaries packaged for Windows with dependencies
+- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [KDE/okteta](https://github.com/KDE/okteta)
+  > Hex editor for viewing and editing the raw data of files
 
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [Hello-Mr-Crab/pywechat](https://github.com/Hello-Mr-Crab/pywechat)
@@ -261,6 +296,10 @@
 - 🌟 👤 [winmt](https://github.com/winmt) Starred [nen9mA0/IDA-YES-MCP](https://github.com/nen9mA0/IDA-YES-MCP)
   > Say "yes" to IDA Pro MCP but not always
 
+### [wishihab](https://github.com/wishihab)
+- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+  > Clone any website with one command using AI coding agents
+
 ### [wjcsharp](https://github.com/wjcsharp)
 - 🌟 👤 [wjcsharp](https://github.com/wjcsharp) Starred [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
   > ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
@@ -273,6 +312,10 @@
 - 🌟 👤 [wsxyeah](https://github.com/wsxyeah) Starred [nervosnetwork/molecule](https://github.com/nervosnetwork/molecule)
   > Another serialization system: minimalist and canonicalization.
 
+### [wxxsfxyzm](https://github.com/wxxsfxyzm)
+- 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [microsoft/WSL](https://github.com/microsoft/WSL)
+  > Windows Subsystem for Linux
+
 ### [yikeke](https://github.com/yikeke)
 - 🌟 👤 [yikeke](https://github.com/yikeke) Starred [MiniMax-AI/OpenRoom](https://github.com/MiniMax-AI/OpenRoom)
   > A browser-based desktop where AI Agent operates every app through natural language.
@@ -284,7 +327,11 @@
   >  AI agent skills for professional document generation (DOCX, PDF, XLSX) extracted from Kimi. Designe...
 - 🌟 👤 [zhanghecn](https://github.com/zhanghecn) Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
 
+### [zhangyoufu](https://github.com/zhangyoufu)
+- 🍴 👤 [zhangyoufu](https://github.com/zhangyoufu) Forked [james58899/hath-rust](https://github.com/james58899/hath-rust) to [zhangyoufu/hath-rust](https://github.com/zhangyoufu/hath-rust)
+  > The unofficial Hentai@Home client written in Rust
+
 
 ---
-*最后更新于 2026-03-29 07:04:03 UTC*
+*最后更新于 2026-03-29 08:41:01 UTC*
 *历史记录保存在 `archive` 目录中。*
