@@ -19,9 +19,51 @@
 ### [0xjacklove](https://github.com/0xjacklove)
 - 🍴 👤 [0xjacklove](https://github.com/0xjacklove) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [0xjacklove/claude-code-sourcemap](https://github.com/0xjacklove/claude-code-sourcemap)
 
+### [0xjiayu](https://github.com/0xjiayu)
+- 🌟 👤 [0xjiayu](https://github.com/0xjiayu) Starred [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)
+- 🌟 👤 [0xjiayu](https://github.com/0xjiayu) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
+### [1013503897](https://github.com/1013503897)
+- 🌟 👤 [1013503897](https://github.com/1013503897) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🍴 👤 [1013503897](https://github.com/1013503897) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [1013503897/claude-code](https://github.com/1013503897/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
+### [10code15bugs](https://github.com/10code15bugs)
+- 🌟 👤 [10code15bugs](https://github.com/10code15bugs) Starred [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)
+- 🍴 👤 [10code15bugs](https://github.com/10code15bugs) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [10code15bugs/claude-code-sourcemap](https://github.com/10code15bugs/claude-code-sourcemap)
+
+### [2Y2s1mple](https://github.com/2Y2s1mple)
+- 🍴 👤 [2Y2s1mple](https://github.com/2Y2s1mple) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [2Y2s1mple/claude-code-sourcemap](https://github.com/2Y2s1mple/claude-code-sourcemap)
+- 🍴 👤 [2Y2s1mple](https://github.com/2Y2s1mple) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [2Y2s1mple/claude-code](https://github.com/2Y2s1mple/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🌟 👤 [2Y2s1mple](https://github.com/2Y2s1mple) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
+### [474172261](https://github.com/474172261)
+- 🌟 👤 [474172261](https://github.com/474172261) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🍴 👤 [474172261](https://github.com/474172261) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [474172261/claude-code](https://github.com/474172261/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
 ### [Aar0n3906](https://github.com/Aar0n3906)
 - 🌟 👤 [Aar0n3906](https://github.com/Aar0n3906) Starred [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace)
   > qbdi based android arm64 trace tool
+
+### [Ackites](https://github.com/Ackites)
+- 🌟 👤 [Ackites](https://github.com/Ackites) Starred [instructkr/clawd-code](https://github.com/instructkr/clawd-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [glwhappen/claude-code](https://github.com/glwhappen/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+
+### [AlongWY](https://github.com/AlongWY)
+- 🍴 👤 [AlongWY](https://github.com/AlongWY) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [AlongWY/claude-code](https://github.com/AlongWY/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [Ascotbe](https://github.com/Ascotbe)
 - 🍴 👤 [Ascotbe](https://github.com/Ascotbe) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [Ascotbe/claude-code-sourcemap](https://github.com/Ascotbe/claude-code-sourcemap)
@@ -36,6 +78,9 @@
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit)
   > Open-source mobile security testing suite for iOS and Android. Previously Passionfruit
 
+### [Chordp](https://github.com/Chordp)
+- 🌟 👤 [Chordp](https://github.com/Chordp) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
+
 ### [CreditTone](https://github.com/CreditTone)
 - 🌟 👤 [CreditTone](https://github.com/CreditTone) Starred [PandaTestGrid/panda-web-scrcpy](https://github.com/PandaTestGrid/panda-web-scrcpy)
   > 设备管理工具，Android投屏，安装、日志、 无需本地adb环境、在线投屏使用
@@ -49,6 +94,8 @@
 ### [EggUncle](https://github.com/EggUncle)
 - 🌟 👤 [EggUncle](https://github.com/EggUncle) Starred [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
   > 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！
+- 🌟 👤 [EggUncle](https://github.com/EggUncle) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [Ershu1](https://github.com/Ershu1)
 - 🌟 👤 [Ershu1](https://github.com/Ershu1) Starred [joeseesun/markdown-proxy](https://github.com/joeseesun/markdown-proxy)
@@ -67,6 +114,10 @@
 - 🍴 👤 [Firebasky](https://github.com/Firebasky) Forked [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) to [Firebasky/billd-desk](https://github.com/Firebasky/billd-desk)
   > 基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制
 - 🍴 👤 [Firebasky](https://github.com/Firebasky) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [Firebasky/claude-code-sourcemap](https://github.com/Firebasky/claude-code-sourcemap)
+- 🌟 👤 [Firebasky](https://github.com/Firebasky) Starred [JulietSecurity/abom](https://github.com/JulietSecurity/abom)
+- 🌟 👤 [Firebasky](https://github.com/Firebasky) Starred [Lupin-Holmes/sandwich](https://github.com/Lupin-Holmes/sandwich)
+- 🌟 👤 [Firebasky](https://github.com/Firebasky) Starred [hashicorp/consul](https://github.com/hashicorp/consul)
+  > Consul is a distributed, highly available, and data center aware solution to connect and configure a...
 
 ### [FunnyWolf](https://github.com/FunnyWolf)
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [kubescape/kubescape](https://github.com/kubescape/kubescape)
@@ -87,19 +138,30 @@
 - 🌟 👤 [GcsSloop](https://github.com/GcsSloop) Starred [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
   > 🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!
 
+### [Germey](https://github.com/Germey)
+- 🍴 👤 [Germey](https://github.com/Germey) Forked [pengchengneo/Claude-Code](https://github.com/pengchengneo/Claude-Code) to [Germey/Claude-Code](https://github.com/Germey/Claude-Code)
+  > 可运行的Claude Code源码
+
+### [Gracker](https://github.com/Gracker)
+- 🌟 👤 [Gracker](https://github.com/Gracker) Starred [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)
+
 ### [Grigory-Rylov](https://github.com/Grigory-Rylov)
 - 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [n4hy/NPU_OrangePi6Plus](https://github.com/n4hy/NPU_OrangePi6Plus)
+- 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [TheTom/llama-cpp-turboquant](https://github.com/TheTom/llama-cpp-turboquant)
+  > LLM inference in C/C++
+
+### [Ivonhoe](https://github.com/Ivonhoe)
+- 🍴 👤 [Ivonhoe](https://github.com/Ivonhoe) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [Ivonhoe/claude-code](https://github.com/Ivonhoe/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [Clearzero22/Claude-Code-rev](https://github.com/Clearzero22/Claude-Code-rev)
 
 ### [JasonWei512](https://github.com/JasonWei512)
 - 🌟 👤 [JasonWei512](https://github.com/JasonWei512) Starred [shitagaki-lab/see-through](https://github.com/shitagaki-lab/see-through)
   > "Single-image Layer Decomposition for Anime Characters" (SIGGRAPH 2026, Conditionally Accepted)
-
-### [Jefino9488](https://github.com/Jefino9488)
-- 🚀 👤 [Jefino9488](https://github.com/Jefino9488) Made [TeamHcl/HotelManagementSystem](https://github.com/TeamHcl/HotelManagementSystem) public
 
 ### [JeremyLiao](https://github.com/JeremyLiao)
 - 🌟 👤 [JeremyLiao](https://github.com/JeremyLiao) Starred [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
@@ -126,16 +188,32 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [34306/vphone-aio](https://github.com/34306/vphone-aio)
   > 1 script run the vphone
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [instructkr/clawd-code](https://github.com/instructkr/clawd-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
+### [LaPhilosophie](https://github.com/LaPhilosophie)
+- 🌟 👤 [LaPhilosophie](https://github.com/LaPhilosophie) Starred [instructkr/clawd-code](https://github.com/instructkr/clawd-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🍴 👤 [LaPhilosophie](https://github.com/LaPhilosophie) Forked [instructkr/clawd-code](https://github.com/instructkr/clawd-code) to [LaPhilosophie/claude-code](https://github.com/LaPhilosophie/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [LanBaiCode](https://github.com/LanBaiCode)
 - 🌟 👤 [LanBaiCode](https://github.com/LanBaiCode) Starred [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace)
   > qbdi based android arm64 trace tool
 - 🍴 👤 [LanBaiCode](https://github.com/LanBaiCode) Forked [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace) to [LanBaiCode/QTrace](https://github.com/LanBaiCode/QTrace)
   > qbdi based android arm64 trace tool
+- 🌟 👤 [LanBaiCode](https://github.com/LanBaiCode) Starred [instructkr/clawd-code](https://github.com/instructkr/clawd-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🌟 👤 [LanBaiCode](https://github.com/LanBaiCode) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
 
 ### [Le1a](https://github.com/Le1a)
 - 🌟 👤 [Le1a](https://github.com/Le1a) Starred [ink1ing/anti-api](https://github.com/ink1ing/anti-api)
   > Turn Antigravity / codex / github copilot into Anthropic & Openai API compatible server. Usable with...
+
+### [LimerBoy](https://github.com/LimerBoy)
+- 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [lolc2/lolc2.github.io](https://github.com/lolc2/lolc2.github.io)
+  > lolC2 is a collection of C2 frameworks that leverage legitimate services to evade detection
 
 ### [Lotus6](https://github.com/Lotus6)
 - 🌟 👤 [Lotus6](https://github.com/Lotus6) Starred [atredispartners/llmchainhunter](https://github.com/atredispartners/llmchainhunter)
@@ -179,6 +257,12 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [MicrosoftDocs/winrt-api](https://github.com/MicrosoftDocs/winrt-api)
   > WinRT reference content for developing Microsoft Universal Windows Platform (UWP) apps
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [57xv/r3-aio](https://github.com/57xv/r3-aio)
+  > r3 aio is an all in one multi tool that contains account checkers, xbox followers, imap checker, for...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev)
+  > Runnable ClaudeCode source code
+- 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev) to [MiroKaku/claude-code-rev](https://github.com/MiroKaku/claude-code-rev)
+  > Runnable ClaudeCode source code
 
 ### [MisakiKata](https://github.com/MisakiKata)
 - 🌟 👤 [MisakiKata](https://github.com/MisakiKata) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
@@ -191,11 +275,14 @@
 ### [MrWQ](https://github.com/MrWQ)
 - 🍴 👤 [MrWQ](https://github.com/MrWQ) Forked [3stoneBrother/code-audit](https://github.com/3stoneBrother/code-audit) to [MrWQ/code-audit](https://github.com/MrWQ/code-audit)
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
+
 ### [NightOfTwelve](https://github.com/NightOfTwelve)
 - 🌟 👤 [NightOfTwelve](https://github.com/NightOfTwelve) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 - 🍴 👤 [NightOfTwelve](https://github.com/NightOfTwelve) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [NightOfTwelve/claude-code](https://github.com/NightOfTwelve/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [No-Github](https://github.com/No-Github)
 - 🍴 👤 [No-Github](https://github.com/No-Github) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [No-Github/claude-code-sourcemap](https://github.com/No-Github/claude-code-sourcemap)
@@ -207,13 +294,13 @@
 
 ### [PenguinAndy](https://github.com/PenguinAndy)
 - 🍴 👤 [PenguinAndy](https://github.com/PenguinAndy) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [PenguinAndy/claude-code](https://github.com/PenguinAndy/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [People-11](https://github.com/People-11)
 - 🌟 👤 [People-11](https://github.com/People-11) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
   > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
 - 🌟 👤 [People-11](https://github.com/People-11) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [PranavPurwar](https://github.com/PranavPurwar)
 - 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [inference4j/inference4j](https://github.com/inference4j/inference4j)
@@ -260,9 +347,15 @@
 - 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy)
   > 📱 Display and control your Android device graphically with scrcpy.
 
+### [Surendrajat](https://github.com/Surendrajat)
+- 🌟 👤 [Surendrajat](https://github.com/Surendrajat) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
 ### [TUGOhost](https://github.com/TUGOhost)
 - 🌟 👤 [TUGOhost](https://github.com/TUGOhost) Starred [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
   > A cheatsheet of modern C++ language and library features.
+- 🍴 👤 [TUGOhost](https://github.com/TUGOhost) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [TUGOhost/claude-code](https://github.com/TUGOhost/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [Tardis07](https://github.com/Tardis07)
 - 🌟 👤 [Tardis07](https://github.com/Tardis07) Starred [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket)
@@ -284,9 +377,26 @@
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [mini-software/MiniWord](https://github.com/mini-software/MiniWord)
   > .NET Word(docx) exporting template engine without COM+ & interop (support Linux and Mac)
 
+### [TonyChen56](https://github.com/TonyChen56)
+- 🌟 👤 [TonyChen56](https://github.com/TonyChen56) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+  > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- 🌟 👤 [TonyChen56](https://github.com/TonyChen56) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+  > Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+
 ### [Tornaco](https://github.com/Tornaco)
 - 🍴 👤 [Tornaco](https://github.com/Tornaco) Forked [anggrayudi/SimpleStorage](https://github.com/anggrayudi/SimpleStorage) to [Tornaco/SimpleStorage](https://github.com/Tornaco/SimpleStorage)
   > 💾 Simplify Android Storage Access Framework for file management across API levels.
+
+### [WAY29](https://github.com/WAY29)
+- 🌟 👤 [WAY29](https://github.com/WAY29) Starred [ccbkkb/MicroWARP](https://github.com/ccbkkb/MicroWARP)
+  > 🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare...
+- 🌟 👤 [WAY29](https://github.com/WAY29) Starred [lupantech/AgentFlow](https://github.com/lupantech/AgentFlow)
+  > AgentFlow: In-the-Flow Agentic System Optimization
+
+### [Wh0ale](https://github.com/Wh0ale)
+- 🌟 👤 [Wh0ale](https://github.com/Wh0ale) Starred [3stoneBrother/code-audit](https://github.com/3stoneBrother/code-audit)
+- 🌟 👤 [Wh0ale](https://github.com/Wh0ale) Starred [0x727/BypassPro](https://github.com/0x727/BypassPro)
+  > 对Auth/Waf 自动化bypass的burpsuite插件
 
 ### [X1r0z](https://github.com/X1r0z)
 - 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
@@ -306,11 +416,20 @@
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
   > Run frontier AI locally.
 
+### [allpaca](https://github.com/allpaca)
+- 🍴 👤 [allpaca](https://github.com/allpaca) Forked [nirholas/claude-code](https://github.com/nirholas/claude-code) to [allpaca/claude-code](https://github.com/allpaca/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+
 ### [androidmalin](https://github.com/androidmalin)
 - 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
   > Use Codex from Claude Code to review code or delegate tasks.
 - 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
   > 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！
+- 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [system-pclub/mobile-mcp](https://github.com/system-pclub/mobile-mcp)
+- 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [nirholas/claude-code](https://github.com/nirholas/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+- 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [apkunpacker](https://github.com/apkunpacker)
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [eset/ipyida](https://github.com/eset/ipyida)
@@ -330,6 +449,10 @@
 ### [b1n4ri0](https://github.com/b1n4ri0)
 - 🍴 👤 [b1n4ri0](https://github.com/b1n4ri0) Forked [TarlogicSecurity/BSAM](https://github.com/TarlogicSecurity/BSAM) to [b1n4ri0/BSAM](https://github.com/b1n4ri0/BSAM)
   > Bluetooth Security Assessment Methodology
+
+### [ba0gu0](https://github.com/ba0gu0)
+- 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [badboycxcc](https://github.com/badboycxcc)
 - 🌟 👤 [badboycxcc](https://github.com/badboycxcc) Starred [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound)
@@ -389,19 +512,33 @@
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
   > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
+### [chicharitomu14](https://github.com/chicharitomu14)
+- 🍴 👤 [chicharitomu14](https://github.com/chicharitomu14) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [chicharitomu14/claude-code](https://github.com/chicharitomu14/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
 ### [cloudwindby](https://github.com/cloudwindby)
 - 🌟 👤 [cloudwindby](https://github.com/cloudwindby) Starred [DarKDevz/DarKSward](https://github.com/DarKDevz/DarKSward)
   > DarkSword exploit chain, unpackaged
+
+### [cmzy](https://github.com/cmzy)
+- 🌟 👤 [cmzy](https://github.com/cmzy) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🍴 👤 [cmzy](https://github.com/cmzy) Forked [freestylefly/claude-code](https://github.com/freestylefly/claude-code) to [cmzy/claude-code](https://github.com/cmzy/claude-code)
+  > Claude Code 官网已泄露代码备份
 
 ### [coder-pig](https://github.com/coder-pig)
 - 🌟 👤 [coder-pig](https://github.com/coder-pig) Starred [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)
   > Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - 🍴 👤 [coder-pig](https://github.com/coder-pig) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [coder-pig/claude-code](https://github.com/coder-pig/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [whatsapp-sdk/whatsapp-handshake](https://github.com/whatsapp-sdk/whatsapp-handshake)
   > WhatsApp's handshake implementation using Noise Protocol
+
+### [cristeigabriela](https://github.com/cristeigabriela)
+- 🌟 👤 [cristeigabriela](https://github.com/cristeigabriela) Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
+  > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)
@@ -410,6 +547,8 @@
 ### [cxapython](https://github.com/cxapython)
 - 🍴 👤 [cxapython](https://github.com/cxapython) Forked [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace) to [cxapython/QTraceNew](https://github.com/cxapython/QTraceNew)
   > qbdi based android arm64 trace tool
+- 🍴 👤 [cxapython](https://github.com/cxapython) Forked [instructkr/clawd-code](https://github.com/instructkr/clawd-code) to [cxapython/claude-code](https://github.com/cxapython/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [d3adzo](https://github.com/d3adzo)
 - 🌟 👤 [d3adzo](https://github.com/d3adzo) Starred [Whispergate/InfraGuard](https://github.com/Whispergate/InfraGuard)
@@ -428,13 +567,13 @@
 
 ### [deskid](https://github.com/deskid)
 - 🍴 👤 [deskid](https://github.com/deskid) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [deskid/claude-code](https://github.com/deskid/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [oaker-io/wewrite](https://github.com/oaker-io/wewrite)
   > 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱
 - 🍴 👤 [dodola](https://github.com/dodola) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [dodola/claude-code](https://github.com/dodola/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [doodlewind](https://github.com/doodlewind)
 - 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [fastclaw-ai/anyclaw](https://github.com/fastclaw-ai/anyclaw)
@@ -443,6 +582,10 @@
 
 ### [dstmath](https://github.com/dstmath)
 - 🍴 👤 [dstmath](https://github.com/dstmath) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [dstmath/claude-code-sourcemap](https://github.com/dstmath/claude-code-sourcemap)
+- 🌟 👤 [dstmath](https://github.com/dstmath) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🍴 👤 [dstmath](https://github.com/dstmath) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [dstmath/claude-code](https://github.com/dstmath/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [wled/WLED](https://github.com/wled/WLED)
@@ -451,6 +594,10 @@
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [elder-plinius/V3SP3R](https://github.com/elder-plinius/V3SP3R)
   > AI Flipper control
+
+### [eternalsakura](https://github.com/eternalsakura)
+- 🍴 👤 [eternalsakura](https://github.com/eternalsakura) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [eternalsakura/claude-code](https://github.com/eternalsakura/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [holzschu/python_ios](https://github.com/holzschu/python_ios)
@@ -468,12 +615,17 @@
 - 🍴 👤 [everettjf](https://github.com/everettjf) Forked [holzschu/network_ios](https://github.com/holzschu/network_ios) to [everettjf/network_ios](https://github.com/everettjf/network_ios)
   > Extension to ios_system, doing network-based commands
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [mactive/devScape](https://github.com/mactive/devScape)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [fanzhidongyzby](https://github.com/fanzhidongyzby)
 - 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
   > 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！
 - 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
   > Use Codex from Claude Code to review code or delegate tasks.
+
+### [fawdlstty](https://github.com/fawdlstty)
+- 🌟 👤 [fawdlstty](https://github.com/fawdlstty) Starred [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [dzxpert/ReNamr](https://github.com/dzxpert/ReNamr) to [fengjixuchui/ReNamr](https://github.com/fengjixuchui/ReNamr)
@@ -493,19 +645,21 @@
 - 🌟 👤 [fishso](https://github.com/fishso) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
   > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
 - 🌟 👤 [fishso](https://github.com/fishso) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 - 🍴 👤 [fishso](https://github.com/fishso) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [fishso/claude-code](https://github.com/fishso/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🌟 👤 [fishso](https://github.com/fishso) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+  > 753+ structured cybersecurity skills for AI agents · MITRE ATT&CK mapped · agentskills.io open stand...
 
 ### [flankerhqd](https://github.com/flankerhqd)
 - 🌟 👤 [flankerhqd](https://github.com/flankerhqd) Starred [flankerhqd/outlook-skill](https://github.com/flankerhqd/outlook-skill)
   > AI coding assistant skill for Microsoft Outlook on Mac — query, search, draft emails and manage cale...
 - 🌟 👤 [flankerhqd](https://github.com/flankerhqd) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [for-A1kaid](https://github.com/for-A1kaid)
-- 🌟 👤 [for-A1kaid](https://github.com/for-A1kaid) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+- 🌟 👤 [for-A1kaid](https://github.com/for-A1kaid) Starred [instructkr/clawd-code](https://github.com/instructkr/clawd-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz)
@@ -516,12 +670,18 @@
   > fly ai agent skill
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
   > 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！
-- 🍴 👤 [fynch3r](https://github.com/fynch3r) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [fynch3r/claude-code](https://github.com/fynch3r/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+- 🍴 👤 [fynch3r](https://github.com/fynch3r) Forked [instructkr/clawd-code](https://github.com/instructkr/clawd-code) to [fynch3r/claude-code](https://github.com/fynch3r/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [g0dA](https://github.com/g0dA)
 - 🌟 👤 [g0dA](https://github.com/g0dA) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
   > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+
+### [galis](https://github.com/galis)
+- 🌟 👤 [galis](https://github.com/galis) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🍴 👤 [galis](https://github.com/galis) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [galis/claude-code](https://github.com/galis/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [gh0stkey](https://github.com/gh0stkey)
 - 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [joeyespo/grip](https://github.com/joeyespo/grip)
@@ -572,9 +732,33 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [kyle41111/RedTeamHelp](https://github.com/kyle41111/RedTeamHelp) to [gmh5225/RedTeamHelp](https://github.com/gmh5225/RedTeamHelp)
   > Tools I use on red team engagements and more
 
+### [gnahz77](https://github.com/gnahz77)
+- 🌟 👤 [gnahz77](https://github.com/gnahz77) Starred [instructkr/clawd-code](https://github.com/instructkr/clawd-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🍴 👤 [gnahz77](https://github.com/gnahz77) Forked [instructkr/clawd-code](https://github.com/instructkr/clawd-code) to [gnahz77/claude-code](https://github.com/gnahz77/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🌟 👤 [gnahz77](https://github.com/gnahz77) Starred [pengchengneo/Claude-Code](https://github.com/pengchengneo/Claude-Code)
+  > 可运行的Claude Code源码
+- 🍴 👤 [gnahz77](https://github.com/gnahz77) Forked [pengchengneo/Claude-Code](https://github.com/pengchengneo/Claude-Code) to [gnahz77/Claude-Code-Rec](https://github.com/gnahz77/Claude-Code-Rec)
+  > 可运行的Claude Code源码
+
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
   > Use Codex from Claude Code to review code or delegate tasks.
+
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev)
+  > Runnable ClaudeCode source code
+- 🍴 👤 [hhhaiai](https://github.com/hhhaiai) Forked [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev) to [hhhaiai/claude-code-rev](https://github.com/hhhaiai/claude-code-rev)
+  > Runnable ClaudeCode source code
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)
+- 🍴 👤 [hhhaiai](https://github.com/hhhaiai) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [hhhaiai/claude-code-sourcemap](https://github.com/hhhaiai/claude-code-sourcemap)
+- 🍴 👤 [hhhaiai](https://github.com/hhhaiai) Forked [hangsman/claude-code-source](https://github.com/hangsman/claude-code-source) to [hhhaiai/claude-code-source](https://github.com/hhhaiai/claude-code-source)
+  > claude code source map v2.1.88
+- 🍴 👤 [hhhaiai](https://github.com/hhhaiai) Forked [adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium) to [hhhaiai/fingerprint-chromium](https://github.com/hhhaiai/fingerprint-chromium)
+  > An open source fingerprint browser based on Ungoogled Chromium. 指纹浏览器 隐私浏览器
+- 🍴 👤 [hhhaiai](https://github.com/hhhaiai) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [hhhaiai/claude-code](https://github.com/hhhaiai/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [howmp](https://github.com/howmp)
 - 🌟 👤 [howmp](https://github.com/howmp) Starred [RuoJi6/java-audit-skills](https://github.com/RuoJi6/java-audit-skills)
@@ -583,6 +767,17 @@
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [donato-fiore/TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt)
   > iOS IPA Decrypter for TrollStore
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)
+  > Claude Code's Source Code & Breakdown from a leaked map file in their NPM registry
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [nirholas/claude-code](https://github.com/nirholas/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [Leonxlnx/claude-code-system-prompts](https://github.com/Leonxlnx/claude-code-system-prompts)
+  > Independent research documenting the internal prompt architecture, agent directives, and security cl...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [VineeTagarwaL-code/claude-code](https://github.com/VineeTagarwaL-code/claude-code)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+  > Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, ...
 
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
@@ -596,6 +791,10 @@
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [Pdawg-bytes/Trident](https://github.com/Pdawg-bytes/Trident)
   > A very WIP GBA emulator written in C#.
 
+### [iswbm](https://github.com/iswbm)
+- 🍴 👤 [iswbm](https://github.com/iswbm) Forked [anthropics/claude-code](https://github.com/anthropics/claude-code) to [iswbm/claude-code](https://github.com/iswbm/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [xmfbit/DQN-FlappyBird](https://github.com/xmfbit/DQN-FlappyBird)
   > Play flappy bird with DQN, a demo for reinforcement learning, implemented using PyTorch
@@ -605,6 +804,12 @@
   > Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).
 - 🍴 👤 [jianglin-code](https://github.com/jianglin-code) Forked [yenchenlin/DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird) to [jianglin-code/DeepLearningFlappyBird](https://github.com/jianglin-code/DeepLearningFlappyBird)
   > Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [hilllief/polarquant-kv](https://github.com/hilllief/polarquant-kv)
+  > LLM KV Cache compression - K+V dual compression, 73-99% VRAM savings, zero accuracy loss
+
+### [jiji262](https://github.com/jiji262)
+- 🚀 👤 [jiji262](https://github.com/jiji262) Made [jiji262/claude-code-sourcecodes](https://github.com/jiji262/claude-code-sourcecodes) public
+  > Unofficial research mirror reconstructed from publicly distributed Claude Code artifacts.
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [Textualize/textual](https://github.com/Textualize/textual)
@@ -657,6 +862,14 @@
 - 🌟 👤 [laozig](https://github.com/laozig) Starred [garinasset/leak-check](https://github.com/garinasset/leak-check)
   > 个人信息 “泄漏” 检测接口
 
+### [le31ei](https://github.com/le31ei)
+- 🌟 👤 [le31ei](https://github.com/le31ei) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
+### [lefex](https://github.com/lefex)
+- 🍴 👤 [lefex](https://github.com/lefex) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [lefex/claude-code](https://github.com/lefex/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
 ### [leommxj](https://github.com/leommxj)
 - 🌟 👤 [leommxj](https://github.com/leommxj) Starred [akamai/patchdiff-ai](https://github.com/akamai/patchdiff-ai)
 
@@ -681,13 +894,22 @@
 
 ### [lizhangqu](https://github.com/lizhangqu)
 - 🌟 👤 [lizhangqu](https://github.com/lizhangqu) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 - 🍴 👤 [lizhangqu](https://github.com/lizhangqu) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [lizhangqu/claude-code](https://github.com/lizhangqu/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🌟 👤 [lizhangqu](https://github.com/lizhangqu) Starred [Rito-w/ClaudeCode](https://github.com/Rito-w/ClaudeCode)
+  > 可运行的Claude Code源码
+- 🌟 👤 [lizhangqu](https://github.com/lizhangqu) Starred [Rito-w/claude-code](https://github.com/Rito-w/claude-code)
   > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+- 🌟 👤 [lizhangqu](https://github.com/lizhangqu) Starred [Rito-w/claude-code-best-practice-zh](https://github.com/Rito-w/claude-code-best-practice-zh)
+  > Claude Code 最佳实践 - 中文翻译版
+- 🍴 👤 [lizhangqu](https://github.com/lizhangqu) Forked [Rito-w/ClaudeCode](https://github.com/Rito-w/ClaudeCode) to [lizhangqu/ClaudeCode](https://github.com/lizhangqu/ClaudeCode)
+  > 可运行的Claude Code源码
+- 🌟 👤 [lizhangqu](https://github.com/lizhangqu) Starred [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)
 
 ### [ljy1058318852](https://github.com/ljy1058318852)
-- 🍴 👤 [ljy1058318852](https://github.com/ljy1058318852) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [ljy1058318852/claude-code](https://github.com/ljy1058318852/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+- 🍴 👤 [ljy1058318852](https://github.com/ljy1058318852) Forked [instructkr/clawd-code](https://github.com/instructkr/clawd-code) to [ljy1058318852/claude-code](https://github.com/ljy1058318852/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [ltlly](https://github.com/ltlly)
 - 🌟 👤 [ltlly](https://github.com/ltlly) Starred [ltlly/MikuModIL](https://github.com/ltlly/MikuModIL)
@@ -705,21 +927,40 @@
 - 🌟 👤 [luoyesiqiu](https://github.com/luoyesiqiu) Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)
   > Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering,...
 
+### [lupinuss](https://github.com/lupinuss)
+- 🍴 👤 [lupinuss](https://github.com/lupinuss) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [lupinuss/claude-code](https://github.com/lupinuss/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
 ### [lux-QAQ](https://github.com/lux-QAQ)
 - 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [garinasset/leak-check](https://github.com/garinasset/leak-check)
   > 个人信息 “泄漏” 检测接口
 
 ### [lxraa](https://github.com/lxraa)
 - 🍴 👤 [lxraa](https://github.com/lxraa) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [lxraa/claude-code](https://github.com/lxraa/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
+### [lxzh](https://github.com/lxzh)
+- 🍴 👤 [lxzh](https://github.com/lxzh) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [lxzh/claude-code](https://github.com/lxzh/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [lz6688](https://github.com/lz6688)
 - 🍴 👤 [lz6688](https://github.com/lz6688) Forked [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) to [lz6688/ida-pro-mcp](https://github.com/lz6688/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+- 🍴 👤 [lz6688](https://github.com/lz6688) Forked [keystone-engine/keystone](https://github.com/keystone-engine/keystone) to [lz6688/keystone](https://github.com/lz6688/keystone)
+  > Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bind...
+- 🍴 👤 [lz6688](https://github.com/lz6688) Forked [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) to [lz6688/ctf-skills](https://github.com/lz6688/ctf-skills)
+  > Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering,...
+- 🍴 👤 [lz6688](https://github.com/lz6688) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [lz6688/claude-code-sourcemap](https://github.com/lz6688/claude-code-sourcemap)
+
+### [mak7im01](https://github.com/mak7im01)
+- 🌟 👤 [mak7im01](https://github.com/mak7im01) Starred [Chimioo/InxLocker](https://github.com/Chimioo/InxLocker)
+  > Xposed-based Installer Locker for Android (Powered by YukiHookAPI)
 
 ### [mdcgqq](https://github.com/mdcgqq)
 - 🌟 👤 [mdcgqq](https://github.com/mdcgqq) Starred [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
   > ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- 🍴 👤 [mdcgqq](https://github.com/mdcgqq) Forked [instructkr/clawd-code](https://github.com/instructkr/clawd-code) to [mdcgqq/claude-code](https://github.com/mdcgqq/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [nicocha30/ligolo-iwa](https://github.com/nicocha30/ligolo-iwa)
@@ -728,8 +969,12 @@
 ### [miunasu](https://github.com/miunasu)
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [rocky/python-decompile3](https://github.com/rocky/python-decompile3)
   > Python decompiler for 3.7-3.8 Stripped down from uncompyle6 so we can refactor and start to fix up s...
-- 🍴 👤 [miunasu](https://github.com/miunasu) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [miunasu/claude-code](https://github.com/miunasu/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+- 🍴 👤 [miunasu](https://github.com/miunasu) Forked [instructkr/clawd-code](https://github.com/instructkr/clawd-code) to [miunasu/claude-code](https://github.com/miunasu/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)
+  > Claude Code's Source Code & Breakdown from a leaked map file in their NPM registry
 
 ### [mstfknn](https://github.com/mstfknn)
 - 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
@@ -749,6 +994,10 @@
 - 🍴 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Forked [lidongyooo/GumTrace](https://github.com/lidongyooo/GumTrace) to [nek0y4nsu/GumTrace](https://github.com/nek0y4nsu/GumTrace)
   > 基于 Frida Gum (Stalker) 引擎的 ARM64 动态指令追踪工具，支持 Android 和 iOS 平台。
 
+### [netxfly](https://github.com/netxfly)
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [huaibaobao/MobileManger](https://github.com/huaibaobao/MobileManger)
+  > MobileManager 是一个强大的移动设备管理系统，基于 ADB (Android Debug Bridge) 实现设备控制和管理。系统采用 GoFrame + Vue3 Pure Admin ...
+
 ### [njcx](https://github.com/njcx)
 - 🌟 👤 [njcx](https://github.com/njcx) Starred [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
   > Fullstack app framework for web, desktop, and mobile.
@@ -759,6 +1008,14 @@
 ### [oureveryday](https://github.com/oureveryday)
 - 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [Kiowx/c_cleaner_plus](https://github.com/Kiowx/c_cleaner_plus)
   > Windows的开源C盘强力清理工具，可扫描并清理全盘中的垃圾文件、大文件、重复文件及系统残留等
+
+### [paradiseduo](https://github.com/paradiseduo)
+- 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🍴 👤 [paradiseduo](https://github.com/paradiseduo) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [paradiseduo/claude-code](https://github.com/paradiseduo/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [pengchengneo/Claude-Code](https://github.com/pengchengneo/Claude-Code)
+  > 可运行的Claude Code源码
 
 ### [peiqiF4ck](https://github.com/peiqiF4ck)
 - 🌟 👤 [peiqiF4ck](https://github.com/peiqiF4ck) Starred [qncosfh/Audit_Platform](https://github.com/qncosfh/Audit_Platform)
@@ -786,6 +1043,14 @@
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [mirage/mirage](https://github.com/mirage/mirage)
   > MirageOS is a library operating system that constructs unikernels
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [unikraft/unikraft](https://github.com/unikraft/unikraft)
+  > A next-generation cloud native kernel designed to unlock best-in-class performance, security primiti...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs)
+  > Hermit for Rust.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [hermit-os/uhyve](https://github.com/hermit-os/uhyve)
+  > A specialized hypervisor for Hermit.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [avkcode/firecracker-sandbox](https://github.com/avkcode/firecracker-sandbox)
+  > Firecracker sandbox
 
 ### [ret2ldz](https://github.com/ret2ldz)
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [chenjiandongx/mmjpg](https://github.com/chenjiandongx/mmjpg)
@@ -793,7 +1058,7 @@
 
 ### [retme7](https://github.com/retme7)
 - 🌟 👤 [retme7](https://github.com/retme7) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [kyle41111/RedTeamHelp](https://github.com/kyle41111/RedTeamHelp)
@@ -811,6 +1076,12 @@
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [MoYeRanqianzhi/AutoContinue](https://github.com/MoYeRanqianzhi/AutoContinue)
   > 继续！继续！继续！
 
+### [sakana164](https://github.com/sakana164)
+- 🌟 👤 [sakana164](https://github.com/sakana164) Starred [instructkr/clawd-code](https://github.com/instructkr/clawd-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🌟 👤 [sakana164](https://github.com/sakana164) Starred [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev)
+  > Runnable ClaudeCode source code
+
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [nicobailon/pi-interview-tool](https://github.com/nicobailon/pi-interview-tool)
   > Interactive form tool for pi-agent to gather user responses with keyboard navigation, themes, and im...
@@ -819,9 +1090,17 @@
 - 🌟 👤 [seritools](https://github.com/seritools) Starred [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono)
   > Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 
+### [skywind3000](https://github.com/skywind3000)
+- 🍴 👤 [skywind3000](https://github.com/skywind3000) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [skywind3000/claude-code](https://github.com/skywind3000/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
 ### [smallfawn](https://github.com/smallfawn)
 - 🌟 👤 [smallfawn](https://github.com/smallfawn) Starred [dou-jiang/codex-console](https://github.com/dou-jiang/codex-console)
   > codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。
+- 🌟 👤 [smallfawn](https://github.com/smallfawn) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
+  > Plugin for JADX to integrate MCP server
+- 🌟 👤 [smallfawn](https://github.com/smallfawn) Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)
+  > CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
 ### [smartdone](https://github.com/smartdone)
 - 🌟 👤 [smartdone](https://github.com/smartdone) Starred [califio/publications](https://github.com/califio/publications)
@@ -838,9 +1117,9 @@
 ### [suifei](https://github.com/suifei)
 - 🚀 👤 [suifei](https://github.com/suifei) Made [suifei/vscode-ext-ai-context-generator](https://github.com/suifei/vscode-ext-ai-context-generator) public
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 - 🍴 👤 [suifei](https://github.com/suifei) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [suifei/claude-code](https://github.com/suifei/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [ucbepic/DataAgentBench](https://github.com/ucbepic/DataAgentBench)
@@ -850,9 +1129,11 @@
 
 ### [surunzi](https://github.com/surunzi)
 - 🍴 👤 [surunzi](https://github.com/surunzi) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [surunzi/claude-code](https://github.com/surunzi/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 - 🌟 👤 [surunzi](https://github.com/surunzi) Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
   > 🌈 React for interactive command-line apps
+- 🌟 👤 [surunzi](https://github.com/surunzi) Starred [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048)
+  > The source code for 2048 
 
 ### [tanweai](https://github.com/tanweai)
 - 🍴 👤 [tanweai](https://github.com/tanweai) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [tanweai/claude-code-sourcemap](https://github.com/tanweai/claude-code-sourcemap)
@@ -862,6 +1143,8 @@
 ### [thatqier](https://github.com/thatqier)
 - 🌟 👤 [thatqier](https://github.com/thatqier) Starred [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
   > 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！
+- 🌟 👤 [thatqier](https://github.com/thatqier) Starred [cli/cli](https://github.com/cli/cli)
+  > GitHub’s official command line tool
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
@@ -887,6 +1170,10 @@
   > Hypervisor-based debugger for AMD processors
 - 🌟 👤 [uvbs](https://github.com/uvbs) Starred [zxcvbnmkl112/UnrealDbg](https://github.com/zxcvbnmkl112/UnrealDbg)
   > 一个基于VT的开源调试器 界面是delphi编写
+- 🌟 👤 [uvbs](https://github.com/uvbs) Starred [76op/titan_VMprotect_devirt](https://github.com/76op/titan_VMprotect_devirt)
+  > titan_VMprotect_devirt
+- 🌟 👤 [uvbs](https://github.com/uvbs) Starred [Cxbx-Reloaded/Cxbx-Reloaded](https://github.com/Cxbx-Reloaded/Cxbx-Reloaded)
+  > Xbox (Original) Emulator
 
 ### [v9d0g](https://github.com/v9d0g)
 - 🌟 👤 [v9d0g](https://github.com/v9d0g) Starred [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
@@ -900,6 +1187,9 @@
 - 🌟 👤 [veaba](https://github.com/veaba) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
   > Open-Source Frontier Voice AI
 
+### [veritas501](https://github.com/veritas501)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [summershrimp/claude-code](https://github.com/summershrimp/claude-code)
+
 ### [wainshine](https://github.com/wainshine)
 - 🌟 👤 [wainshine](https://github.com/wainshine) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
 
@@ -909,9 +1199,15 @@
 
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 - 🍴 👤 [waruqi](https://github.com/waruqi) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [waruqi/claude-code](https://github.com/waruqi/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
+### [weizhiao](https://github.com/weizhiao)
+- 🍴 👤 [weizhiao](https://github.com/weizhiao) Forked [instructkr/clawd-code](https://github.com/instructkr/clawd-code) to [weizhiao/claude-code](https://github.com/weizhiao/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🌟 👤 [weizhiao](https://github.com/weizhiao) Starred [instructkr/clawd-code](https://github.com/instructkr/clawd-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [winezer0](https://github.com/winezer0)
 - 🌟 👤 [winezer0](https://github.com/winezer0) Starred [gelusus/wxvl](https://github.com/gelusus/wxvl)
@@ -919,6 +1215,10 @@
 
 ### [winmin](https://github.com/winmin)
 - 🌟 👤 [winmin](https://github.com/winmin) Starred [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus)
+
+### [wnxd](https://github.com/wnxd)
+- 🍴 👤 [wnxd](https://github.com/wnxd) Forked [Darkamulet/claude-code](https://github.com/Darkamulet/claude-code) to [wnxd/claude-code](https://github.com/wnxd/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
 
 ### [wonderkun](https://github.com/wonderkun)
 - 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [Xiangyu-CAS/xiaohongshu-ops-skill](https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill)
@@ -930,7 +1230,7 @@
 
 ### [wwh1004](https://github.com/wwh1004)
 - 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [xbyl1234](https://github.com/xbyl1234)
 - 🍴 👤 [xbyl1234](https://github.com/xbyl1234) Forked [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) to [xbyl1234/Awesome-MCP-ZH](https://github.com/xbyl1234/Awesome-MCP-ZH)
@@ -953,6 +1253,10 @@
 ### [xiandanin](https://github.com/xiandanin)
 - 🌟 👤 [xiandanin](https://github.com/xiandanin) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
 
+### [xiaobfly](https://github.com/xiaobfly)
+- 🍴 👤 [xiaobfly](https://github.com/xiaobfly) Forked [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev) to [xiaobfly/claude-code-rev](https://github.com/xiaobfly/claude-code-rev)
+  > Runnable ClaudeCode source code
+
 ### [xiaotujinbnb](https://github.com/xiaotujinbnb)
 - 🌟 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Starred [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace)
   > qbdi based android arm64 trace tool
@@ -961,18 +1265,39 @@
 
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [jhlee0409/claude-code-history-viewer](https://github.com/jhlee0409/claude-code-history-viewer)
+  > desktop app to browse and analyze your Claude Code conversation history
 
 ### [xsser](https://github.com/xsser)
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [phuryn/pm-skills](https://github.com/phuryn/pm-skills)
   > PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, exec...
+- 🌟 👤 [xsser](https://github.com/xsser) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🌟 👤 [xsser](https://github.com/xsser) Starred [tanweai/claude-code-sourcemap](https://github.com/tanweai/claude-code-sourcemap)
+- 🌟 👤 [xsser](https://github.com/xsser) Starred [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+  > ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- 🌟 👤 [xsser](https://github.com/xsser) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+  > Use Codex from Claude Code to review code or delegate tasks.
+
+### [xtiankisutsa](https://github.com/xtiankisutsa)
+- 🍴 👤 [xtiankisutsa](https://github.com/xtiankisutsa) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [xtiankisutsa/claude-code](https://github.com/xtiankisutsa/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [xunchahaha](https://github.com/xunchahaha)
-- 🍴 👤 [xunchahaha](https://github.com/xunchahaha) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [xunchahaha/claude-code](https://github.com/xunchahaha/claude-code)
-  > Claude Code Snapshot for Research. All original source code is the property of Anthropic.
+- 🍴 👤 [xunchahaha](https://github.com/xunchahaha) Forked [instructkr/clawd-code](https://github.com/instructkr/clawd-code) to [xunchahaha/claude-code](https://github.com/xunchahaha/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [0reki/cocodex](https://github.com/0reki/cocodex)
   > Get the most out of Codex in the way that fits you best.
+- 🍴 👤 [yanyaoli](https://github.com/yanyaoli) Forked [instructkr/clawd-code](https://github.com/instructkr/clawd-code) to [yanyaoli/claude-code](https://github.com/yanyaoli/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [beita6969/claude-code](https://github.com/beita6969/claude-code)
+  > Claude Code Source - Buildable Research Fork. Reverse-engineered build system, runnable with Bun.
+
+### [yaofeifly](https://github.com/yaofeifly)
+- 🌟 👤 [yaofeifly](https://github.com/yaofeifly) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
@@ -980,15 +1305,25 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)
   > Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | c...
 
+### [yhnu](https://github.com/yhnu)
+- 🌟 👤 [yhnu](https://github.com/yhnu) Starred [geekjourneyx/md2wechat-lite](https://github.com/geekjourneyx/md2wechat-lite)
+  > AI Agent 自动排版公众号 —— Markdown 转微信排版 CLI 工具
+- 🌟 👤 [yhnu](https://github.com/yhnu) Starred [0731coderlee-sudo/wechat-publisher](https://github.com/0731coderlee-sudo/wechat-publisher)
+  > 一键发布 Markdown 到微信公众号草稿箱 | One-click Markdown to WeChat Official Account
+- 🌟 👤 [yhnu](https://github.com/yhnu) Starred [instructkr/claude-code](https://github.com/instructkr/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+
 ### [yhs0602](https://github.com/yhs0602)
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [keploy/keploy](https://github.com/keploy/keploy)
   > Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E ...
 
 ### [yhy0](https://github.com/yhy0)
-- 🍴 👤 [yhy0](https://github.com/yhy0) Forked [hangsman/claude-code-source](https://github.com/hangsman/claude-code-source) to [yhy0/claude-code-source](https://github.com/yhy0/claude-code-source)
-  > claude code source map v2.1.88
 - 🍴 👤 [yhy0](https://github.com/yhy0) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [yhy0/claude-code-sourcemap](https://github.com/yhy0/claude-code-sourcemap)
 - 🌟 👤 [yhy0](https://github.com/yhy0) Starred [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)
+
+### [ylytdeng](https://github.com/ylytdeng)
+- 🍴 👤 [ylytdeng](https://github.com/ylytdeng) Forked [instructkr/claude-code](https://github.com/instructkr/claude-code) to [ylytdeng/claude-code](https://github.com/ylytdeng/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 ### [yulate](https://github.com/yulate)
 - 🌟 👤 [yulate](https://github.com/yulate) Starred [shouc/agentflow](https://github.com/shouc/agentflow)
@@ -1019,6 +1354,24 @@
 - 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [zai-org/CogVLM2](https://github.com/zai-org/CogVLM2)
   > GPT4V-level open-source multi-modal model based on Llama3-8B
 
+### [zhanghecn](https://github.com/zhanghecn)
+- 🍴 👤 [zhanghecn](https://github.com/zhanghecn) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [zhanghecn/claude-code-sourcemap](https://github.com/zhanghecn/claude-code-sourcemap)
+- 🍴 👤 [zhanghecn](https://github.com/zhanghecn) Forked [instructkr/clawd-code](https://github.com/instructkr/clawd-code) to [zhanghecn/claude-code](https://github.com/zhanghecn/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🌟 👤 [zhanghecn](https://github.com/zhanghecn) Starred [instructkr/clawd-code](https://github.com/instructkr/clawd-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
+- 🌟 👤 [zhanghecn](https://github.com/zhanghecn) Starred [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)
+- 🌟 👤 [zhanghecn](https://github.com/zhanghecn) Starred [leaked-claude-code/leaked-claude-code](https://github.com/leaked-claude-code/leaked-claude-code)
+  > [ LEAKED | LEAK ] Claude Code source code. 
+- 🌟 👤 [zhanghecn](https://github.com/zhanghecn) Starred [openedclaude/claude-reviews-claude](https://github.com/openedclaude/claude-reviews-claude)
+  > 🪞 An AI reading its own source code. Claude's architectural analysis of Claude Code
+- 🍴 👤 [zhanghecn](https://github.com/zhanghecn) Forked [openedclaude/claude-reviews-claude](https://github.com/openedclaude/claude-reviews-claude) to [zhanghecn/claude-reviews-claude](https://github.com/zhanghecn/claude-reviews-claude)
+  > 🪞 An AI reading its own source code. Claude's architectural analysis of Claude Code
+- 🌟 👤 [zhanghecn](https://github.com/zhanghecn) Starred [andforce/Andclaw](https://github.com/andforce/Andclaw)
+  > 无需ROOT，无需连电脑，像Openclaw控制电脑一样，让Andclaw控制你的安卓手机
+- 🍴 👤 [zhanghecn](https://github.com/zhanghecn) Forked [andforce/Andclaw](https://github.com/andforce/Andclaw) to [zhanghecn/Andclaw](https://github.com/zhanghecn/Andclaw)
+  > 无需ROOT，无需连电脑，像Openclaw控制电脑一样，让Andclaw控制你的安卓手机
+
 ### [zhaotianff](https://github.com/zhaotianff)
 - 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [semihcevik/hwidspoofer](https://github.com/semihcevik/hwidspoofer)
   > HardwareID Spoofer using kernelmode
@@ -1030,8 +1383,16 @@
   > Android UI component library that provides real-time, dynamic Gaussian blur effects. It uses native ...
 - 🌟 👤 [zjw-swun](https://github.com/zjw-swun) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > An agentic skills framework & software development methodology that works.
+- 🍴 👤 [zjw-swun](https://github.com/zjw-swun) Forked [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code) to [zjw-swun/claude-code-source-code](https://github.com/zjw-swun/claude-code-source-code)
+  > Claude Code v2.1.88 Source Code
+- 🍴 👤 [zjw-swun](https://github.com/zjw-swun) Forked [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code) to [RainbowPhantoms/cc-source](https://github.com/RainbowPhantoms/cc-source)
+  > Claude Code v2.1.88 Source Code
+
+### [zzzcccyyyggg](https://github.com/zzzcccyyyggg)
+- 🍴 👤 [zzzcccyyyggg](https://github.com/zzzcccyyyggg) Forked [instructkr/clawd-code](https://github.com/instructkr/clawd-code) to [zzzcccyyyggg/claude-code](https://github.com/zzzcccyyyggg/claude-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make shit things...
 
 
 ---
-*最后更新于 2026-03-31 10:52:52 UTC*
+*最后更新于 2026-03-31 13:19:58 UTC*
 *历史记录保存在 `archive` 目录中。*
