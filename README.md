@@ -62,6 +62,9 @@
 - 🍴 👤 [Drun1baby](https://github.com/Drun1baby) Forked [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) to [Drun1baby/claude-code](https://github.com/Drun1baby/claude-code)
   > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
 
+### [Dump-GUY](https://github.com/Dump-GUY)
+- 🌟 👤 [Dump-GUY](https://github.com/Dump-GUY) Starred [milankovo/ida-search](https://github.com/milankovo/ida-search)
+
 ### [EZForever](https://github.com/EZForever)
 - 🌟 👤 [EZForever](https://github.com/EZForever) Starred [symisc/PH7](https://github.com/symisc/PH7)
   > An Embedded Implementation of PHP (C Library)
@@ -98,6 +101,10 @@
 ### [GcsSloop](https://github.com/GcsSloop)
 - 🍴 👤 [GcsSloop](https://github.com/GcsSloop) Forked [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev) to [GcsSloop/claude-code-rev](https://github.com/GcsSloop/claude-code-rev)
   > Runnable ClaudeCode source code
+- 🌟 👤 [GcsSloop](https://github.com/GcsSloop) Starred [gaoxiang12/lightning-lm](https://github.com/gaoxiang12/lightning-lm)
+  > Lidar Localization and Mapping
+- 🌟 👤 [GcsSloop](https://github.com/GcsSloop) Starred [jackwener/opencli](https://github.com/jackwener/opencli)
+  > Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, ...
 
 ### [GitSquared](https://github.com/GitSquared)
 - 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)
@@ -112,6 +119,10 @@
   > Claude Code 源码深度研究报告
 - 🌟 👤 [Gracker](https://github.com/Gracker) Starred [paoloanzn/free-code](https://github.com/paoloanzn/free-code)
   > The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all exper...
+
+### [HdShare](https://github.com/HdShare)
+- 🌟 👤 [HdShare](https://github.com/HdShare) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+  > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
 
 ### [Honlan](https://github.com/Honlan)
 - 🌟 👤 [Honlan](https://github.com/Honlan) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
@@ -184,6 +195,8 @@
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🍴 👤 [MiroKaku](https://github.com/MiroKaku) Forked [57xv/r3-aio](https://github.com/57xv/r3-aio) to [MiroKaku/r3-aio](https://github.com/MiroKaku/r3-aio)
   > r3 aio is an all in one multi tool that contains account checkers, xbox followers, imap checker, for...
+- 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+  > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
 
 ### [NightOfTwelve](https://github.com/NightOfTwelve)
 - 🌟 👤 [NightOfTwelve](https://github.com/NightOfTwelve) Starred [leaked-claude-code/leaked-claude-code](https://github.com/leaked-claude-code/leaked-claude-code)
@@ -273,6 +286,10 @@
 - 🌟 👤 [Twi1ight](https://github.com/Twi1ight) Starred [ghostbyt3/nday-automation-ai](https://github.com/ghostbyt3/nday-automation-ai)
   > This repository contains AI-generated analysis reports produced as part of an automated N-day resear...
 
+### [Werneror](https://github.com/Werneror)
+- 🍴 👤 [Werneror](https://github.com/Werneror) Forked [chaitin/workspace-cli](https://github.com/chaitin/workspace-cli) to [Werneror/workspace-cli](https://github.com/Werneror/workspace-cli)
+  > Chaitin Workspace CLI for products
+
 ### [WindXaa](https://github.com/WindXaa)
 - 🍴 👤 [WindXaa](https://github.com/WindXaa) Forked [taisuii/sentry](https://github.com/taisuii/sentry) to [WindXaa/sentry](https://github.com/WindXaa/sentry)
   > frida检测 和环境检测
@@ -320,6 +337,8 @@
   > ollvm (obfuscator llvm) plugin ported to llvm 22. add bogus control flow, flattening, splitting, sub...
 - 🌟 👤 [antiwar3](https://github.com/antiwar3) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+- 🌟 👤 [antiwar3](https://github.com/antiwar3) Starred [winsoft666/Fark](https://github.com/winsoft666/Fark)
+  > Windows ARK.
 
 ### [aviraxp](https://github.com/aviraxp)
 - 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [vova7878/DexFile](https://github.com/vova7878/DexFile)
@@ -334,6 +353,13 @@
   > ApexPanda 官方仓库 · 仅供合法合规使用，禁止用于任何违法用途
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [Y4er/dotnet-deserialization](https://github.com/Y4er/dotnet-deserialization)
   > dotnet 反序列化学习笔记
+
+### [banteg](https://github.com/banteg)
+- 🌟 👤 [banteg](https://github.com/banteg) Starred [wavey0x/vesting-escrow-app](https://github.com/wavey0x/vesting-escrow-app)
+
+### [baotiao](https://github.com/baotiao)
+- 🌟 👤 [baotiao](https://github.com/baotiao) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+  > Open-Source Frontier Voice AI
 
 ### [bigsinger](https://github.com/bigsinger)
 - 🌟 👤 [bigsinger](https://github.com/bigsinger) Starred [jackwener/opencli](https://github.com/jackwener/opencli)
@@ -368,6 +394,10 @@
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [derailed/k9s](https://github.com/derailed/k9s)
   > 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+
+### [c26root](https://github.com/c26root)
+- 🌟 👤 [c26root](https://github.com/c26root) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
@@ -428,6 +458,8 @@
   > Cross-Platform C++ 2D/3D game engine
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [songguoxs/gpt4o-image-prompts](https://github.com/songguoxs/gpt4o-image-prompts)
   > Nano Banana(nanobanana),GPT-5(GPT5),GPT-4o(GPT4o) Image Prompts，Nanobanana Prompts，nanobanana提示词
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [ngwnos/files](https://github.com/ngwnos/files)
+- 🍴 👤 [dodola](https://github.com/dodola) Forked [ngwnos/files](https://github.com/ngwnos/files) to [dodola/files](https://github.com/dodola/files)
 
 ### [doodlewind](https://github.com/doodlewind)
 - 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [shipany-ai/open-agent-sdk](https://github.com/shipany-ai/open-agent-sdk)
@@ -436,14 +468,28 @@
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [chrisvoncsefalvay/autostar](https://github.com/chrisvoncsefalvay/autostar)
   > Autoresearch ALL THE THINGS. RLVR for the masses. 
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [shipany-ai/open-agent-sdk](https://github.com/shipany-ai/open-agent-sdk)
   > Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
 
+### [einverne](https://github.com/einverne)
+- 🌟 👤 [einverne](https://github.com/einverne) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Abdenasser/neohtop-cli](https://github.com/Abdenasser/neohtop-cli)
   > All the power of NeoHtop, right in your terminal. Real-time CPU sparklines, memory bars, process tre...
+
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)
+  > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
+
+### [fanqieVip](https://github.com/fanqieVip)
+- 🌟 👤 [fanqieVip](https://github.com/fanqieVip) Starred [programadorthi/kotlin-routing](https://github.com/programadorthi/kotlin-routing)
+  > An extensible and multiplatform routing system powered by Ktor
 
 ### [firesunCN](https://github.com/firesunCN)
 - 🍴 👤 [firesunCN](https://github.com/firesunCN) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [firesunCN/claude-code-sourcemap](https://github.com/firesunCN/claude-code-sourcemap)
@@ -529,10 +575,14 @@
 - 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [Ta0ing/claude-code_evil](https://github.com/Ta0ing/claude-code_evil)
   > cc完整版，含手册，编译等
 
+### [ha1vk](https://github.com/ha1vk)
+- 🍴 👤 [ha1vk](https://github.com/ha1vk) Forked [l3tchupkt/claude-code](https://github.com/l3tchupkt/claude-code) to [ha1vk/claude-code](https://github.com/ha1vk/claude-code)
+  > Claude Code's Source Code & Breakdown from a leaked map file in their NPM registry
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
-- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
   > Claude Code in Rust & a Breakdown of How it Works
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [jesse-ai/jesse](https://github.com/jesse-ai/jesse)
   > An advanced crypto trading bot written in Python
@@ -553,8 +603,12 @@
 - 🌟 👤 [hanbings](https://github.com/hanbings) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
+### [happylishang](https://github.com/happylishang)
+- 🌟 👤 [happylishang](https://github.com/happylishang) Starred [Waikato/wekaDeeplearning4j](https://github.com/Waikato/wekaDeeplearning4j)
+  > Weka package for the Deeplearning4j java library
+
 ### [hhhaiai](https://github.com/hhhaiai)
-- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
   > Claude Code in Rust & a Breakdown of How it Works
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [HsMirage/CliproxyAccountCleaner](https://github.com/HsMirage/CliproxyAccountCleaner)
   > 一个用于CLI Proxy API 批量账号管理的工具：Cliproxy Account Cleaner
@@ -574,9 +628,18 @@
   > The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all exper...
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [revfactory/harness](https://github.com/revfactory/harness)
   > A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [lucas-flatwhite/claude-code-system-prompts](https://github.com/lucas-flatwhite/claude-code-system-prompts)
+  > Comprehensive analysis and documentation of Claude Code’s internal prompt architecture and multi-age...
+
+### [hzhsohn](https://github.com/hzhsohn)
+- 🍴 👤 [hzhsohn](https://github.com/hzhsohn) Forked [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha) to [hzhsohn/claude-code-haha](https://github.com/hzhsohn/claude-code-haha)
+  > Claude Code leaked source - locally runnable version
 
 ### [imbaya2466](https://github.com/imbaya2466)
 - 🌟 👤 [imbaya2466](https://github.com/imbaya2466) Starred [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
+
+### [imlk0](https://github.com/imlk0)
+- 🍴 👤 [imlk0](https://github.com/imlk0) Forked [openanolis/trustee](https://github.com/openanolis/trustee) to [imlk0/trustee](https://github.com/imlk0/trustee)
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
@@ -590,6 +653,8 @@
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 - 🍴 👤 [jiji262](https://github.com/jiji262) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [jiji262/claw-code](https://github.com/jiji262/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+- 🍴 👤 [jiji262](https://github.com/jiji262) Forked [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) to [jiji262/claude-code](https://github.com/jiji262/claude-code)
+  > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
 
 ### [jixiaoyong](https://github.com/jixiaoyong)
 - 🌟 👤 [jixiaoyong](https://github.com/jixiaoyong) Starred [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP)
@@ -598,7 +663,7 @@
 ### [jmpews](https://github.com/jmpews)
 - 🌟 👤 [jmpews](https://github.com/jmpews) Starred [paoloanzn/free-code](https://github.com/paoloanzn/free-code)
   > The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all exper...
-- 🌟 👤 [jmpews](https://github.com/jmpews) Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)
+- 🌟 👤 [jmpews](https://github.com/jmpews) Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
   > Claude Code in Rust & a Breakdown of How it Works
 
 ### [joychic](https://github.com/joychic)
@@ -608,6 +673,8 @@
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
   > A full-featured download manager — rebuilt from the ground up
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
 ### [jweny](https://github.com/jweny)
 - 🌟 👤 [jweny](https://github.com/jweny) Starred [louislam/dockge](https://github.com/louislam/dockge)
@@ -620,6 +687,12 @@
 ### [kagancapar](https://github.com/kagancapar)
 - 🌟 👤 [kagancapar](https://github.com/kagancapar) Starred [github/codeql](https://github.com/github/codeql)
   > CodeQL: the libraries and queries that power security researchers around the world, as well as code ...
+
+### [keesj](https://github.com/keesj)
+- 🌟 👤 [keesj](https://github.com/keesj) Starred [AlexsJones/llmserve](https://github.com/AlexsJones/llmserve)
+  > A simple TUI for serving local LLM models. Pick a model, pick a backend, serve it
+- 🌟 👤 [keesj](https://github.com/keesj) Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
+  > Hundreds of models & providers. One command to find what runs on your hardware.
 
 ### [kernelzeroday](https://github.com/kernelzeroday)
 - 🌟 👤 [kernelzeroday](https://github.com/kernelzeroday) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
@@ -648,6 +721,10 @@
 ### [libtero](https://github.com/libtero)
 - 🌟 👤 [libtero](https://github.com/libtero) Starred [skylot/jadx](https://github.com/skylot/jadx)
   > Dex to Java decompiler
+
+### [linxid](https://github.com/linxid)
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
+  > Visualize Your Ideas With Code
 
 ### [lizhangqu](https://github.com/lizhangqu)
 - 🌟 👤 [lizhangqu](https://github.com/lizhangqu) Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)
@@ -761,7 +838,7 @@
   > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
 
 ### [miunasu](https://github.com/miunasu)
-- 🌟 👤 [miunasu](https://github.com/miunasu) Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)
+- 🌟 👤 [miunasu](https://github.com/miunasu) Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
   > Claude Code in Rust & a Breakdown of How it Works
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
@@ -778,6 +855,8 @@
 ### [moyada](https://github.com/moyada)
 - 🌟 👤 [moyada](https://github.com/moyada) Starred [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha)
   > Claude Code leaked source - locally runnable version
+- 🌟 👤 [moyada](https://github.com/moyada) Starred [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw)
+  > Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tnkuehne/gether](https://github.com/tnkuehne/gether)
@@ -786,6 +865,16 @@
   > A Notion-like editor for your GitHub repos.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EveryInc/proof-sdk](https://github.com/EveryInc/proof-sdk)
   > Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mandiant/flare-learning-hub](https://github.com/mandiant/flare-learning-hub)
+  > Free educational content on reverse engineering and malware analysis from the FLARE team
+
+### [mxway](https://github.com/mxway)
+- 🌟 👤 [mxway](https://github.com/mxway) Starred [icyguider/UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza)
+  > Collection of UAC Bypass Techniques Weaponized as BOFs
+
+### [mzfr](https://github.com/mzfr)
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+  > Use Codex from Claude Code to review code or delegate tasks.
 
 ### [mzule](https://github.com/mzule)
 - 🍴 👤 [mzule](https://github.com/mzule) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [mzule/claw-code](https://github.com/mzule/claw-code)
@@ -794,6 +883,10 @@
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [Pixel-Props/sensitive-props](https://github.com/Pixel-Props/sensitive-props)
   > This Magisk module helps you bypass SafetyNet and Play Integrity on rooted Android devices by modify...
+
+### [nblog](https://github.com/nblog)
+- 🍴 👤 [nblog](https://github.com/nblog) Forked [github/awesome-copilot](https://github.com/github/awesome-copilot) to [nblog/awesome-copilot](https://github.com/nblog/awesome-copilot)
+  > Community-contributed instructions, agents, skills, and configurations to help you make the most of ...
 
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)
@@ -806,6 +899,8 @@
   > 一款 LLM 驱动的智能电子墨水屏桌面伴侣，为你递送有温度的"慢信息"——纸墨之间，皆是智慧。
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
 ### [npjohnson](https://github.com/npjohnson)
 - 🌟 👤 [npjohnson](https://github.com/npjohnson) Starred [vvb2060/Magica](https://github.com/vvb2060/Magica)
@@ -821,6 +916,15 @@
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [gengstah/windbg-mcp](https://github.com/gengstah/windbg-mcp)
   > An MCP (Model Context Protocol) server that turns all pybag Windows debugger functions into native M...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [m417z/ntdoc](https://github.com/m417z/ntdoc)
+  > Native API online documentation, based on the System Informer (formerly Process Hacker) phnt headers
+
+### [oobbb](https://github.com/oobbb)
+- 🌟 👤 [oobbb](https://github.com/oobbb) Starred [jakogut/tinyvm](https://github.com/jakogut/tinyvm)
+  > TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.
+
+### [out0fmemory](https://github.com/out0fmemory)
+- 🌟 👤 [out0fmemory](https://github.com/out0fmemory) Starred [zhanjindong/mini-claude-code](https://github.com/zhanjindong/mini-claude-code)
 
 ### [overfl0](https://github.com/overfl0)
 - 🌟 👤 [overfl0](https://github.com/overfl0) Starred [maestun/silm-depack](https://github.com/maestun/silm-depack)
@@ -836,9 +940,17 @@
 - 🌟 👤 [peiqiF4ck](https://github.com/peiqiF4ck) Starred [Tas9er/ByPassTamperPlus](https://github.com/Tas9er/ByPassTamperPlus)
   > ByPassTamperPlus / SQLMap加强绕WAF / Code By:Tas9er
 
+### [qazbnm456](https://github.com/qazbnm456)
+- 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [crabtalk/crabtalk](https://github.com/crabtalk/crabtalk)
+  > Agents daemon that hides nothing
+
 ### [qfrtt](https://github.com/qfrtt)
 - 🍴 👤 [qfrtt](https://github.com/qfrtt) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [qfrtt/oh-my-pi](https://github.com/qfrtt/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
+### [qq908323236](https://github.com/qq908323236)
+- 🌟 👤 [qq908323236](https://github.com/qq908323236) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+  > Use Codex from Claude Code to review code or delegate tasks.
 
 ### [quangnh89](https://github.com/quangnh89)
 - 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
@@ -851,12 +963,17 @@
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [jikefan/iCode](https://github.com/jikefan/iCode)
   > 顶级Coding智能体
-- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
   > Claude Code in Rust & a Breakdown of How it Works
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api)
   > 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
   > omo; the best agent harness - previously oh-my-opencode
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [code-yeongyu/opencode-memory](https://github.com/code-yeongyu/opencode-memory)
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [code-yeongyu/opencode-supermemory](https://github.com/code-yeongyu/opencode-supermemory)
+  > Supermemory plugin for OpenCode
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [code-yeongyu/awesome-opencode](https://github.com/code-yeongyu/awesome-opencode)
+  > A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
@@ -866,6 +983,8 @@
 
 ### [redbearder](https://github.com/redbearder)
 - 🌟 👤 [redbearder](https://github.com/redbearder) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+- 🍴 👤 [redbearder](https://github.com/redbearder) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [redbearder/claw-code](https://github.com/redbearder/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
 ### [ri-char](https://github.com/ri-char)
@@ -879,6 +998,24 @@
 ### [satan1a](https://github.com/satan1a)
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
   > It will be revised soon.
+
+### [shellsec](https://github.com/shellsec)
+- 🌟 👤 [shellsec](https://github.com/shellsec) Starred [iZiTTMarvin/Claude-code-open-explain](https://github.com/iZiTTMarvin/Claude-code-open-explain)
+  > 针对cc客户端源码的详细讲解，面向新手。
+- 🍴 👤 [shellsec](https://github.com/shellsec) Forked [iZiTTMarvin/Claude-code-open-explain](https://github.com/iZiTTMarvin/Claude-code-open-explain) to [shellsec/Claude-code-open-explain](https://github.com/shellsec/Claude-code-open-explain)
+  > 针对cc客户端源码的详细讲解，面向新手。
+- 🌟 👤 [shellsec](https://github.com/shellsec) Starred [paoloanzn/free-code](https://github.com/paoloanzn/free-code)
+  > The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all exper...
+- 🍴 👤 [shellsec](https://github.com/shellsec) Forked [paoloanzn/free-code](https://github.com/paoloanzn/free-code) to [shellsec/free-code](https://github.com/shellsec/free-code)
+  > The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all exper...
+- 🍴 👤 [shellsec](https://github.com/shellsec) Forked [anthropics/claude-code](https://github.com/anthropics/claude-code) to [shellsec/claude-code](https://github.com/shellsec/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+- 🌟 👤 [shellsec](https://github.com/shellsec) Starred [jclown/FileBackupGuardian](https://github.com/jclown/FileBackupGuardian)
+  > 一个功能完善的文件备份工具
+- 🌟 👤 [shellsec](https://github.com/shellsec) Starred [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha)
+  > Claude Code leaked source - locally runnable version
+- 🍴 👤 [shellsec](https://github.com/shellsec) Forked [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha) to [shellsec/claude-code-haha](https://github.com/shellsec/claude-code-haha)
+  > Claude Code leaked source - locally runnable version
 
 ### [shuai19980](https://github.com/shuai19980)
 - 🍴 👤 [shuai19980](https://github.com/shuai19980) Forked [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code) to [shuai19980/claude-code-source-code](https://github.com/shuai19980/claude-code-source-code)
@@ -912,6 +1049,12 @@
   > 收集/转帖/整理一些淘宝/闲鱼等阿里系逆向文件，尤其是libsgmain.so的信息
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [taisuii/sentry](https://github.com/taisuii/sentry)
   > frida检测 和环境检测
+- 🌟 👤 [taisuii](https://github.com/taisuii) Starred [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
+  > MCP Server for Ghidra
+
+### [thatqier](https://github.com/thatqier)
+- 🌟 👤 [thatqier](https://github.com/thatqier) Starred [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+  > Clone any website with one command using AI coding agents
 
 ### [uvbs](https://github.com/uvbs)
 - 🌟 👤 [uvbs](https://github.com/uvbs) Starred [coinvpn/Kernel_driver_hack](https://github.com/coinvpn/Kernel_driver_hack)
@@ -947,6 +1090,10 @@
 ### [wishihab](https://github.com/wishihab)
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [torvalds/linux](https://github.com/torvalds/linux)
   > Linux kernel source tree
+
+### [wkbin](https://github.com/wkbin)
+- 🌟 👤 [wkbin](https://github.com/wkbin) Starred [suyiiyii/AutoGLM-GUI](https://github.com/suyiiyii/AutoGLM-GUI)
+  > AutoGLM 的现代化 Web 图形界面 - 让 AI 自动化操作 Android 设备变得简单 已进化为你的专属自动化生产力工具
 
 ### [wonderkun](https://github.com/wonderkun)
 - 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
@@ -1001,6 +1148,9 @@
 - 🌟 👤 [yhy0](https://github.com/yhy0) Starred [paoloanzn/free-code](https://github.com/paoloanzn/free-code)
   > The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all exper...
 
+### [yichen115](https://github.com/yichen115)
+- 🌟 👤 [yichen115](https://github.com/yichen115) Starred [g1at/ClawLock](https://github.com/g1at/ClawLock)
+
 ### [yulate](https://github.com/yulate)
 - 🌟 👤 [yulate](https://github.com/yulate) Starred [Windy3f3f3f3f/how-claude-code-works](https://github.com/Windy3f3f3f3f/how-claude-code-works)
   > Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入...
@@ -1048,6 +1198,10 @@
 - 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [777genius/claude-code-source-code](https://github.com/777genius/claude-code-source-code)
   > Claude code source code
 
+### [zhanghecn](https://github.com/zhanghecn)
+- 🌟 👤 [zhanghecn](https://github.com/zhanghecn) Starred [paoloanzn/free-code](https://github.com/paoloanzn/free-code)
+  > The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all exper...
+
 ### [zhangke3016](https://github.com/zhangke3016)
 - 🍴 👤 [zhangke3016](https://github.com/zhangke3016) Forked [777genius/claude-code-source-code](https://github.com/777genius/claude-code-source-code) to [zhangke3016/claude-code-source-code](https://github.com/zhangke3016/claude-code-source-code)
   > Claude code source code
@@ -1082,5 +1236,5 @@
 
 
 ---
-*最后更新于 2026-04-01 07:21:30 UTC*
+*最后更新于 2026-04-01 09:05:12 UTC*
 *历史记录保存在 `archive` 目录中。*
