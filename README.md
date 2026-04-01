@@ -23,12 +23,12 @@
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [hangsman/claude-code-source](https://github.com/hangsman/claude-code-source)
   > claude code source map v2.1.88
-- 🌟 👤 [20000s](https://github.com/20000s) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
-  > It will be revised soon.
+- 🌟 👤 [20000s](https://github.com/20000s) Starred [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
+  > Research on Coding Agents
 
 ### [3intermute](https://github.com/3intermute)
-- 🌟 👤 [3intermute](https://github.com/3intermute) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
-  > It will be revised soon.
+- 🌟 👤 [3intermute](https://github.com/3intermute) Starred [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
+  > Research on Coding Agents
 
 ### [AabyssZG](https://github.com/AabyssZG)
 - 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [motiful/cc-gateway](https://github.com/motiful/cc-gateway)
@@ -38,12 +38,26 @@
 - 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)
   > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
 
+### [Al1ex](https://github.com/Al1ex)
+- 🌟 👤 [Al1ex](https://github.com/Al1ex) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [hyperliquid-dex/hyperliquid-python-sdk](https://github.com/hyperliquid-dex/hyperliquid-python-sdk)
   > SDK for Hyperliquid API trading with Python.
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [hyperliquid-dex/hyperliquid-rust-sdk](https://github.com/hyperliquid-dex/hyperliquid-rust-sdk)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [troldal/OpenXLSX](https://github.com/troldal/OpenXLSX)
   > A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter)
+  > A C library for creating Excel XLSX files.
+
+### [Angelic47](https://github.com/Angelic47)
+- 🌟 👤 [Angelic47](https://github.com/Angelic47) Starred [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover)
+  > A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScr...
+
+### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
+- 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [muellerberndt/frida-detection](https://github.com/muellerberndt/frida-detection)
+  > A couple of methods for detecting Frida on Android.
 
 ### [Chordp](https://github.com/Chordp)
 - 🌟 👤 [Chordp](https://github.com/Chordp) Starred [bitdefender/napoca](https://github.com/bitdefender/napoca)
@@ -57,6 +71,12 @@
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [eigenform/perfect](https://github.com/eigenform/perfect)
   > x86 JIT playground for documenting and exploring microarchitectural implementation details
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [34306/vphone-aio](https://github.com/34306/vphone-aio)
+  > 1 script run the vphone
+
+### [CreditTone](https://github.com/CreditTone)
+- 🌟 👤 [CreditTone](https://github.com/CreditTone) Starred [NoOne-hub/JSReverser-MCP](https://github.com/NoOne-hub/JSReverser-MCP)
+  > JSReverser-MCP 是一个面向 JavaScript 逆向分析的 MCP 工具，专门用于帮助开发者在真实浏览器环境中高效定位前端核心逻辑。它   将脚本检索、断点调试、函数 Hook、网络请...
 
 ### [Drun1baby](https://github.com/Drun1baby)
 - 🍴 👤 [Drun1baby](https://github.com/Drun1baby) Forked [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) to [Drun1baby/claude-code](https://github.com/Drun1baby/claude-code)
@@ -84,9 +104,15 @@
 - 🌟 👤 [Escapingbug](https://github.com/Escapingbug) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
+### [FaceAISDK](https://github.com/FaceAISDK)
+- 🌟 👤 [FaceAISDK](https://github.com/FaceAISDK) Starred [oldprincess/Android-Silent-Face-Anti-Spoofing](https://github.com/oldprincess/Android-Silent-Face-Anti-Spoofing)
+  > 安卓静默活体检测，是对小视科技（Minivision）静默活体检测项目的二次开发
+
 ### [GangJust](https://github.com/GangJust)
 - 🌟 👤 [GangJust](https://github.com/GangJust) Starred [ParkSnoopy/rust_llvm-arkari_ollvm](https://github.com/ParkSnoopy/rust_llvm-arkari_ollvm)
   > merge rust-lang's llvm and KomiMoe's Arkari (llvm) to produce obfuscated llvm for rustc
+- 🌟 👤 [GangJust](https://github.com/GangJust) Starred [tanweai/pua](https://github.com/tanweai/pua)
+  > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed ...
 
 ### [GaoYuCan](https://github.com/GaoYuCan)
 - 🍴 👤 [GaoYuCan](https://github.com/GaoYuCan) Forked [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev) to [GaoYuCan/claude-code-rev](https://github.com/GaoYuCan/claude-code-rev)
@@ -105,6 +131,10 @@
   > Lidar Localization and Mapping
 - 🌟 👤 [GcsSloop](https://github.com/GcsSloop) Starred [jackwener/opencli](https://github.com/jackwener/opencli)
   > Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, ...
+- 🌟 👤 [GcsSloop](https://github.com/GcsSloop) Starred [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
+  > OfficeCLI is the first and best command-line tool purpose-built for AI agents to read, edit, and aut...
+- 🌟 👤 [GcsSloop](https://github.com/GcsSloop) Starred [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli)
+  > 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信
 
 ### [GitSquared](https://github.com/GitSquared)
 - 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain)
@@ -125,16 +155,16 @@
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
 
 ### [Honlan](https://github.com/Honlan)
-- 🌟 👤 [Honlan](https://github.com/Honlan) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
-  > It will be revised soon.
+- 🌟 👤 [Honlan](https://github.com/Honlan) Starred [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
+  > Research on Coding Agents
 
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)
   > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
 
 ### [JnuSimba](https://github.com/JnuSimba)
-- 🍴 👤 [JnuSimba](https://github.com/JnuSimba) Forked [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code) to [JnuSimba/claude-code-source-code](https://github.com/JnuSimba/claude-code-source-code)
-  > It will be revised soon.
+- 🍴 👤 [JnuSimba](https://github.com/JnuSimba) Forked [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) to [JnuSimba/claude-code-source-code](https://github.com/JnuSimba/claude-code-source-code)
+  > Research on Coding Agents
 
 ### [Keyird](https://github.com/Keyird)
 - 🌟 👤 [Keyird](https://github.com/Keyird) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
@@ -151,10 +181,10 @@
   > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
 
 ### [KpLi0rn](https://github.com/KpLi0rn)
-- 🍴 👤 [KpLi0rn](https://github.com/KpLi0rn) Forked [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code) to [KpLi0rn/claude-code-source-code](https://github.com/KpLi0rn/claude-code-source-code)
-  > It will be revised soon.
-- 🌟 👤 [KpLi0rn](https://github.com/KpLi0rn) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
-  > It will be revised soon.
+- 🍴 👤 [KpLi0rn](https://github.com/KpLi0rn) Forked [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) to [KpLi0rn/claude-code-source-code](https://github.com/KpLi0rn/claude-code-source-code)
+  > Research on Coding Agents
+- 🌟 👤 [KpLi0rn](https://github.com/KpLi0rn) Starred [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
+  > Research on Coding Agents
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
@@ -173,6 +203,8 @@
 ### [Lotus6](https://github.com/Lotus6)
 - 🌟 👤 [Lotus6](https://github.com/Lotus6) Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)
   > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
+- 🌟 👤 [Lotus6](https://github.com/Lotus6) Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+  > GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph...
 
 ### [LunFengChen](https://github.com/LunFengChen)
 - 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace)
@@ -198,6 +230,14 @@
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
 
+### [MisakiKata](https://github.com/MisakiKata)
+- 🌟 👤 [MisakiKata](https://github.com/MisakiKata) Starred [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)
+  > 🎭 193 个即插即用的 AI 专家角色 — 支持 OpenClaw/Claude Code/Cursor/Copilot 等 14 种工具，覆盖工程/设计/营销/产品等 18 个部门。含 46 个中...
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [motiful/cc-gateway](https://github.com/motiful/cc-gateway)
+  > AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privac...
+
 ### [NightOfTwelve](https://github.com/NightOfTwelve)
 - 🌟 👤 [NightOfTwelve](https://github.com/NightOfTwelve) Starred [leaked-claude-code/leaked-claude-code](https://github.com/leaked-claude-code/leaked-claude-code)
   > [ LEAKED | LEAK ] Claude Code source code. full claude code opensource.
@@ -219,9 +259,15 @@
 ### [PushpenderIndia](https://github.com/PushpenderIndia)
 - 🚀 👤 [PushpenderIndia](https://github.com/PushpenderIndia) Made [PikoClaw/homebrew-pikoclaw](https://github.com/PikoClaw/homebrew-pikoclaw) public
   > homebrew-pikoclaw
+- 🌟 👤 [PushpenderIndia](https://github.com/PushpenderIndia) Starred [PikoClaw/PikoClaw](https://github.com/PikoClaw/PikoClaw)
+  > High-performance AI agents for modern developers. 
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [JohnDMcMaster/usbrply](https://github.com/JohnDMcMaster/usbrply)
+  > Replay USB messages from Wireshark (.cap) files
 
 ### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
-- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [Leonxlnx/claude-code-system-prompts](https://github.com/Leonxlnx/claude-code-system-prompts)
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)
   > Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordinat...
 
 ### [Satar07](https://github.com/Satar07)
@@ -271,6 +317,8 @@
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 - 🍴 👤 [ThomasKing2014](https://github.com/ThomasKing2014) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [ThomasKing2014/claw-code](https://github.com/ThomasKing2014/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+- 🌟 👤 [ThomasKing2014](https://github.com/ThomasKing2014) Starred [ml-explore/mlx](https://github.com/ml-explore/mlx)
+  > MLX: An array framework for Apple silicon
 
 ### [Tornaco](https://github.com/Tornaco)
 - 🌟 👤 [Tornaco](https://github.com/Tornaco) Starred [tielan/claude-code-source-code](https://github.com/tielan/claude-code-source-code)
@@ -311,6 +359,10 @@
   > Open-Source Frontier Voice AI
 - 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
   > Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature...
+- 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt)
+  > GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
+- 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd)
+  > ✨ Perfect virtual display for game streaming
 
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🍴 👤 [ZephrFish](https://github.com/ZephrFish) Forked [buildkite/packages-publish-oidc-example](https://github.com/buildkite/packages-publish-oidc-example) to [ZephrFish/packages-publish-oidc-example](https://github.com/ZephrFish/packages-publish-oidc-example)
@@ -327,6 +379,10 @@
   > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
 - 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
   > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+- 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [motiful/cc-gateway](https://github.com/motiful/cc-gateway)
+  > AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privac...
+- 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [jackwener/opencli](https://github.com/jackwener/opencli)
+  > Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, ...
 
 ### [anggrayudi](https://github.com/anggrayudi)
 - 🌟 👤 [anggrayudi](https://github.com/anggrayudi) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
@@ -423,13 +479,19 @@
 - 🌟 👤 [ciyze0101](https://github.com/ciyze0101) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
+### [cn-kali-team](https://github.com/cn-kali-team)
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [1Password/passkey-rs](https://github.com/1Password/passkey-rs)
+  > A framework for defining Webauthn Authenticators that support passkeys
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [bitwarden/sdk-sm](https://github.com/bitwarden/sdk-sm)
+  > Bitwarden Secrets Manager SDK.
+
 ### [codezjx](https://github.com/codezjx)
 - 🌟 👤 [codezjx](https://github.com/codezjx) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
-- 🌟 👤 [codezjx](https://github.com/codezjx) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
-  > It will be revised soon.
-- 🍴 👤 [codezjx](https://github.com/codezjx) Forked [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code) to [codezjx/claude-code-source-code](https://github.com/codezjx/claude-code-source-code)
-  > It will be revised soon.
+- 🌟 👤 [codezjx](https://github.com/codezjx) Starred [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
+  > Research on Coding Agents
+- 🍴 👤 [codezjx](https://github.com/codezjx) Forked [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) to [codezjx/claude-code-source-code](https://github.com/codezjx/claude-code-source-code)
+  > Research on Coding Agents
 
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🍴 👤 [ctkqiang](https://github.com/ctkqiang) Forked [hacklcx/HFish](https://github.com/hacklcx/HFish) to [ctkqiang/HFish](https://github.com/ctkqiang/HFish)
@@ -444,6 +506,7 @@
 ### [darbra](https://github.com/darbra)
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [iammaimai/claude-code-fixed](https://github.com/iammaimai/claude-code-fixed)
 
 ### [dee1024](https://github.com/dee1024)
 - 🌟 👤 [dee1024](https://github.com/dee1024) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
@@ -462,7 +525,7 @@
 - 🍴 👤 [dodola](https://github.com/dodola) Forked [ngwnos/files](https://github.com/ngwnos/files) to [dodola/files](https://github.com/dodola/files)
 
 ### [doodlewind](https://github.com/doodlewind)
-- 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [shipany-ai/open-agent-sdk](https://github.com/shipany-ai/open-agent-sdk)
+- 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript)
   > Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
@@ -472,7 +535,7 @@
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
 ### [easychen](https://github.com/easychen)
-- 🌟 👤 [easychen](https://github.com/easychen) Starred [shipany-ai/open-agent-sdk](https://github.com/shipany-ai/open-agent-sdk)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript)
   > Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
 
 ### [einverne](https://github.com/einverne)
@@ -491,6 +554,12 @@
 - 🌟 👤 [fanqieVip](https://github.com/fanqieVip) Starred [programadorthi/kotlin-routing](https://github.com/programadorthi/kotlin-routing)
   > An extensible and multiplatform routing system powered by Ktor
 
+### [feicong](https://github.com/feicong)
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [cloudflare/filterforge](https://github.com/cloudflare/filterforge) to [feicong/filterforge](https://github.com/feicong/filterforge)
+  > Tool for solving BPF filters and crafting packets based on these.
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [lasting-yang/frida_dump](https://github.com/lasting-yang/frida_dump) to [feicong/frida_dump](https://github.com/feicong/frida_dump)
+  > frida dump dex, frida dump so
+
 ### [firesunCN](https://github.com/firesunCN)
 - 🍴 👤 [firesunCN](https://github.com/firesunCN) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [firesunCN/claude-code-sourcemap](https://github.com/firesunCN/claude-code-sourcemap)
 
@@ -506,9 +575,18 @@
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [motiful/cc-gateway](https://github.com/motiful/cc-gateway)
   > AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privac...
 
+### [flankerhqd](https://github.com/flankerhqd)
+- 🌟 👤 [flankerhqd](https://github.com/flankerhqd) Starred [yetone/voice-input-src](https://github.com/yetone/voice-input-src)
+
 ### [for-A1kaid](https://github.com/for-A1kaid)
 - 🌟 👤 [for-A1kaid](https://github.com/for-A1kaid) Starred [isboyjc/claude-code](https://github.com/isboyjc/claude-code)
   > 从 @anthropic-ai/claude-code npm 包的 cli.js.map 中还原出的完整 TypeScript 源码，可一键本地编译运行。
+
+### [fpleihub](https://github.com/fpleihub)
+- 🌟 👤 [fpleihub](https://github.com/fpleihub) Starred [wuyijinjing/Fitness](https://github.com/wuyijinjing/Fitness)
+  > 健身房预约小程序的核心功能：用户可以根据自身的需求，进行对应课程的预约。同时为了方便健身馆安排课程和学员健身时间，用户在线提交预约，可以更有利与健身房工作人员的安排。对于一些专项的运动项目，需要健身教...
+- 🌟 👤 [fpleihub](https://github.com/fpleihub) Starred [jiandanleige/PrivateEdu](https://github.com/jiandanleige/PrivateEdu)
+  > 上门私教预约小程序：包括教练端、客户端、以及管理端，顾客可以根据自己的时间规划，在小程序上面，选择附近或者喜欢的私教，进行预约下单，等待教练上门授课！平台有用户下单，系统会收到提示，方便平台联系教练，...
 
 ### [fynch3r](https://github.com/fynch3r)
 - 🍴 👤 [fynch3r](https://github.com/fynch3r) Forked [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) to [fynch3r/claude-code-origin](https://github.com/fynch3r/claude-code-origin)
@@ -583,7 +661,7 @@
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
-  > Claude Code in Rust & a Breakdown of How it Works
+  > Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [jesse-ai/jesse](https://github.com/jesse-ai/jesse)
   > An advanced crypto trading bot written in Python
 
@@ -607,12 +685,25 @@
 - 🌟 👤 [happylishang](https://github.com/happylishang) Starred [Waikato/wekaDeeplearning4j](https://github.com/Waikato/wekaDeeplearning4j)
   > Weka package for the Deeplearning4j java library
 
+### [heroims](https://github.com/heroims)
+- 🌟 👤 [heroims](https://github.com/heroims) Starred [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus)
+- 🌟 👤 [heroims](https://github.com/heroims) Starred [jundot/omlx](https://github.com/jundot/omlx)
+  > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
+
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
-  > Claude Code in Rust & a Breakdown of How it Works
+  > Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [HsMirage/CliproxyAccountCleaner](https://github.com/HsMirage/CliproxyAccountCleaner)
   > 一个用于CLI Proxy API 批量账号管理的工具：Cliproxy Account Cleaner
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [iammaimai/claude-code-fixed](https://github.com/iammaimai/claude-code-fixed)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [accomplish-ai/accomplish](https://github.com/accomplish-ai/accomplish)
+  > Accomplish™ is the open source Al coworker that lives on your desktop
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [versperai/VersperClaw](https://github.com/versperai/VersperClaw)
+  >  VersperClaw is an agentic research workspace that combines search, browser control, coding, and lon...
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [RapidAI/RapidDoc](https://github.com/RapidAI/RapidDoc)
+  > A high-performance, open-source PDF data extraction tool.   一站式开源高性能数据提取工具，将复杂 PDF 文档转换为 Markdown 和 ...
 
 ### [hsheep](https://github.com/hsheep)
 - 🌟 👤 [hsheep](https://github.com/hsheep) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
@@ -630,10 +721,18 @@
   > A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the...
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [lucas-flatwhite/claude-code-system-prompts](https://github.com/lucas-flatwhite/claude-code-system-prompts)
   > Comprehensive analysis and documentation of Claude Code’s internal prompt architecture and multi-age...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+  > Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compati...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [youknowone/pyre](https://github.com/youknowone/pyre)
+  > PyRe will be a very fast and compliant implementation of the Python language.
 
 ### [hzhsohn](https://github.com/hzhsohn)
 - 🍴 👤 [hzhsohn](https://github.com/hzhsohn) Forked [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha) to [hzhsohn/claude-code-haha](https://github.com/hzhsohn/claude-code-haha)
   > Claude Code leaked source - locally runnable version
+
+### [hzqst](https://github.com/hzqst)
+- 🌟 👤 [hzqst](https://github.com/hzqst) Starred [motiful/cc-gateway](https://github.com/motiful/cc-gateway)
+  > AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privac...
 
 ### [imbaya2466](https://github.com/imbaya2466)
 - 🌟 👤 [imbaya2466](https://github.com/imbaya2466) Starred [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
@@ -641,12 +740,22 @@
 ### [imlk0](https://github.com/imlk0)
 - 🍴 👤 [imlk0](https://github.com/imlk0) Forked [openanolis/trustee](https://github.com/openanolis/trustee) to [imlk0/trustee](https://github.com/imlk0/trustee)
 
+### [ioncodes](https://github.com/ioncodes)
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [xOx-Liy-Codez-XD-oXo/lilyskategc](https://github.com/xOx-Liy-Codez-XD-oXo/lilyskategc) to [ioncodes/lilyskategc](https://github.com/ioncodes/lilyskategc)
+  > Same thing but for fucking gamecube
+
+### [jeanboydev](https://github.com/jeanboydev)
+- 🌟 👤 [jeanboydev](https://github.com/jeanboydev) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+
 ### [jianglin-code](https://github.com/jianglin-code)
-- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
-  > It will be revised soon.
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
+  > Research on Coding Agents
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [deskflow/deskflow](https://github.com/deskflow/deskflow)
   > Share a single keyboard and mouse between multiple computers.
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [ZhangHanDong/harness-engineering-from-cc-to-ai-coding](https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding)
+  > Harness Engineering From Claude Code source code to AI Coding
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
@@ -656,6 +765,14 @@
 - 🍴 👤 [jiji262](https://github.com/jiji262) Forked [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) to [jiji262/claude-code](https://github.com/jiji262/claude-code)
   > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
 
+### [jiutian666](https://github.com/jiutian666)
+- 🌟 👤 [jiutian666](https://github.com/jiutian666) Starred [ShirkNeko/GKI_KernelSU_SUSFS](https://github.com/ShirkNeko/GKI_KernelSU_SUSFS)
+  > 使用 SukiSU 和 SUSFS 的 GKI 内核
+- 🌟 👤 [jiutian666](https://github.com/jiutian666) Starred [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
+  > Kernel-based Android Root Solution & KPM
+- 🌟 👤 [jiutian666](https://github.com/jiutian666) Starred [ys1231/MoveCertificate](https://github.com/ys1231/MoveCertificate)
+  > 支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-16, compatible with magiskv20.4+/...
+
 ### [jixiaoyong](https://github.com/jixiaoyong)
 - 🌟 👤 [jixiaoyong](https://github.com/jixiaoyong) Starred [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP)
   >  收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！  ...
@@ -664,7 +781,7 @@
 - 🌟 👤 [jmpews](https://github.com/jmpews) Starred [paoloanzn/free-code](https://github.com/paoloanzn/free-code)
   > The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all exper...
 - 🌟 👤 [jmpews](https://github.com/jmpews) Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
-  > Claude Code in Rust & a Breakdown of How it Works
+  > Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
 
 ### [joychic](https://github.com/joychic)
 - 🌟 👤 [joychic](https://github.com/joychic) Starred [larksuite/cli](https://github.com/larksuite/cli)
@@ -697,14 +814,20 @@
 ### [kernelzeroday](https://github.com/kernelzeroday)
 - 🌟 👤 [kernelzeroday](https://github.com/kernelzeroday) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+- 🌟 👤 [kernelzeroday](https://github.com/kernelzeroday) Starred [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite)
+  > iOS and macOS Decompiler
+- 🌟 👤 [kernelzeroday](https://github.com/kernelzeroday) Starred [openai/shap-e](https://github.com/openai/shap-e)
+  > Generate 3D objects conditioned on text or images
 
 ### [kingking888](https://github.com/kingking888)
 - 🌟 👤 [kingking888](https://github.com/kingking888) Starred [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace)
   > qbdi based android arm64 trace tool
 - 🌟 👤 [kingking888](https://github.com/kingking888) Starred [taisuii/sentry](https://github.com/taisuii/sentry)
   > frida检测 和环境检测
-- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
-  > It will be revised soon.
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
+  > Research on Coding Agents
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [ponponon/claude_code_src](https://github.com/ponponon/claude_code_src)
+  > 2026.3.31 claude code 意外把包含源码的文件上传到 npm 仓库，版本号是 2.1.88，其中 cli.js.map 文件有 57MB 的体积，claude code 的源码在该文...
 
 ### [laozig](https://github.com/laozig)
 - 🌟 👤 [laozig](https://github.com/laozig) Starred [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher)
@@ -713,6 +836,10 @@
 ### [le31ei](https://github.com/le31ei)
 - 🌟 👤 [le31ei](https://github.com/le31ei) Starred [tanweai/pua-code](https://github.com/tanweai/pua-code)
   > pua code
+
+### [leavesCZY](https://github.com/leavesCZY)
+- 🌟 👤 [leavesCZY](https://github.com/leavesCZY) Starred [vinceglb/FileKit](https://github.com/vinceglb/FileKit)
+  > Pick and save Files, Medias and Folder for Kotlin Multiplatform / KMP and Compose Multiplatform / CM...
 
 ### [leolovenet](https://github.com/leolovenet)
 - 🌟 👤 [leolovenet](https://github.com/leolovenet) Starred [yetone/voice-input-src](https://github.com/yetone/voice-input-src)
@@ -739,6 +866,9 @@
   > 🌈 React for interactive command-line apps
 - 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
   > OBS Studio - Free and open source software for live streaming and screen recording
+- 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
+- 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
 ### [ltlly](https://github.com/ltlly)
 - 🌟 👤 [ltlly](https://github.com/ltlly) Starred [un1novvn/claude-code-sourcemap](https://github.com/un1novvn/claude-code-sourcemap)
@@ -839,7 +969,7 @@
 
 ### [miunasu](https://github.com/miunasu)
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
-  > Claude Code in Rust & a Breakdown of How it Works
+  > Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
@@ -852,11 +982,17 @@
 - 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [lmoudamir/thalamus](https://github.com/lmoudamir/thalamus)
   > Bridge Cursor subscriptions to run Claude Code seamlessly using Anthropic and OpenAI APIs without ne...
 
+### [mos9527](https://github.com/mos9527)
+- 🌟 👤 [mos9527](https://github.com/mos9527) Starred [pal1000/mesa-dist-win](https://github.com/pal1000/mesa-dist-win)
+  > Pre-built Mesa3D drivers for Windows
+
 ### [moyada](https://github.com/moyada)
 - 🌟 👤 [moyada](https://github.com/moyada) Starred [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha)
   > Claude Code leaked source - locally runnable version
 - 🌟 👤 [moyada](https://github.com/moyada) Starred [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw)
   > Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw
+- 🌟 👤 [moyada](https://github.com/moyada) Starred [xorbitsai/inference](https://github.com/xorbitsai/inference)
+  > Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech,...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tnkuehne/gether](https://github.com/tnkuehne/gether)
@@ -905,6 +1041,10 @@
 ### [npjohnson](https://github.com/npjohnson)
 - 🌟 👤 [npjohnson](https://github.com/npjohnson) Starred [vvb2060/Magica](https://github.com/vvb2060/Magica)
 
+### [nu11secur1ty](https://github.com/nu11secur1ty)
+- 🌟 👤 [nu11secur1ty](https://github.com/nu11secur1ty) Starred [PortSwigger/active-scan-plus-plus](https://github.com/PortSwigger/active-scan-plus-plus)
+  > ActiveScan++ Burp Suite Plugin
+
 ### [null-dev](https://github.com/null-dev)
 - 🍴 👤 [null-dev](https://github.com/null-dev) Forked [Byron/trash-rs](https://github.com/Byron/trash-rs) to [null-dev/trash-rs](https://github.com/null-dev/trash-rs)
   > A Rust library for moving files to the Recycle Bin
@@ -933,12 +1073,16 @@
   > Silmarils game engine re-implementation
 
 ### [paradiseduo](https://github.com/paradiseduo)
-- 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
-  > It will be revised soon.
+- 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
+  > Research on Coding Agents
 
 ### [peiqiF4ck](https://github.com/peiqiF4ck)
 - 🌟 👤 [peiqiF4ck](https://github.com/peiqiF4ck) Starred [Tas9er/ByPassTamperPlus](https://github.com/Tas9er/ByPassTamperPlus)
   > ByPassTamperPlus / SQLMap加强绕WAF / Code By:Tas9er
+
+### [pwh-pwh](https://github.com/pwh-pwh)
+- 🌟 👤 [pwh-pwh](https://github.com/pwh-pwh) Starred [xgit01/sgkrank](https://github.com/xgit01/sgkrank)
+  > 2026最新免费社工库排行
 
 ### [qazbnm456](https://github.com/qazbnm456)
 - 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [crabtalk/crabtalk](https://github.com/crabtalk/crabtalk)
@@ -947,6 +1091,10 @@
 ### [qfrtt](https://github.com/qfrtt)
 - 🍴 👤 [qfrtt](https://github.com/qfrtt) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [qfrtt/oh-my-pi](https://github.com/qfrtt/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
+### [qi4L](https://github.com/qi4L)
+- 🌟 👤 [qi4L](https://github.com/qi4L) Starred [openai/codex](https://github.com/openai/codex)
+  > Lightweight coding agent that runs in your terminal
 
 ### [qq908323236](https://github.com/qq908323236)
 - 🌟 👤 [qq908323236](https://github.com/qq908323236) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
@@ -964,7 +1112,7 @@
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [jikefan/iCode](https://github.com/jikefan/iCode)
   > 顶级Coding智能体
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
-  > Claude Code in Rust & a Breakdown of How it Works
+  > Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api)
   > 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
@@ -994,10 +1142,12 @@
 ### [samanL33T](https://github.com/samanL33T)
 - 🌟 👤 [samanL33T](https://github.com/samanL33T) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
   > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+- 🌟 👤 [samanL33T](https://github.com/samanL33T) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
 
 ### [satan1a](https://github.com/satan1a)
-- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
-  > It will be revised soon.
+- 🌟 👤 [satan1a](https://github.com/satan1a) Starred [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
+  > Research on Coding Agents
 
 ### [shellsec](https://github.com/shellsec)
 - 🌟 👤 [shellsec](https://github.com/shellsec) Starred [iZiTTMarvin/Claude-code-open-explain](https://github.com/iZiTTMarvin/Claude-code-open-explain)
@@ -1018,8 +1168,8 @@
   > Claude Code leaked source - locally runnable version
 
 ### [shuai19980](https://github.com/shuai19980)
-- 🍴 👤 [shuai19980](https://github.com/shuai19980) Forked [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code) to [shuai19980/claude-code-source-code](https://github.com/shuai19980/claude-code-source-code)
-  > It will be revised soon.
+- 🍴 👤 [shuai19980](https://github.com/shuai19980) Forked [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) to [shuai19980/claude-code-source-code](https://github.com/shuai19980/claude-code-source-code)
+  > Research on Coding Agents
 
 ### [skywind3000](https://github.com/skywind3000)
 - 🍴 👤 [skywind3000](https://github.com/skywind3000) Forked [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) to [skywind3000/claude-code-sourcemap](https://github.com/skywind3000/claude-code-sourcemap)
@@ -1037,8 +1187,8 @@
 ### [sonny-T](https://github.com/sonny-T)
 - 🌟 👤 [sonny-T](https://github.com/sonny-T) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > An agentic skills framework & software development methodology that works.
-- 🍴 👤 [sonny-T](https://github.com/sonny-T) Forked [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code) to [sonny-T/claude-code-source-code](https://github.com/sonny-T/claude-code-source-code)
-  > It will be revised soon.
+- 🍴 👤 [sonny-T](https://github.com/sonny-T) Forked [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) to [sonny-T/claude-code-source-code](https://github.com/sonny-T/claude-code-source-code)
+  > Research on Coding Agents
 
 ### [ssfdust](https://github.com/ssfdust)
 - 🍴 👤 [ssfdust](https://github.com/ssfdust) Forked [doctest/doctest](https://github.com/doctest/doctest) to [ssfdust/doctest](https://github.com/ssfdust/doctest)
@@ -1061,8 +1211,8 @@
   > Android/Linux Kernel driver read and write memory.
 
 ### [v9d0g](https://github.com/v9d0g)
-- 🌟 👤 [v9d0g](https://github.com/v9d0g) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
-  > It will be revised soon.
+- 🌟 👤 [v9d0g](https://github.com/v9d0g) Starred [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
+  > Research on Coding Agents
 
 ### [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz)
 - 🌟 👤 [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz) Starred [go-co-op/gocron](https://github.com/go-co-op/gocron)
@@ -1073,6 +1223,10 @@
   > An open-source AI agent that brings the power of Gemini directly into your terminal.
 - 🌟 👤 [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz) Starred [matschik/jsonl-db](https://github.com/matschik/jsonl-db)
   > 💾  Node.js library to work with JSONL files. Simple CRUD API on a JSONL file.
+
+### [vivian8725118](https://github.com/vivian8725118)
+- 🌟 👤 [vivian8725118](https://github.com/vivian8725118) Starred [liuup/claude-code-analysis](https://github.com/liuup/claude-code-analysis)
+  > The analysis of Claude Code
 
 ### [wainshine](https://github.com/wainshine)
 - 🌟 👤 [wainshine](https://github.com/wainshine) Starred [apache/iotdb](https://github.com/apache/iotdb)
@@ -1106,6 +1260,8 @@
 ### [x7dbg](https://github.com/x7dbg)
 - 🍴 👤 [x7dbg](https://github.com/x7dbg) Forked [lintsinghua/claude-code-book](https://github.com/lintsinghua/claude-code-book) to [x7dbg/claude-code-book](https://github.com/x7dbg/claude-code-book)
   > 42万字拆解 AI Agent 的骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：
+- 🍴 👤 [x7dbg](https://github.com/x7dbg) Forked [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) to [x7dbg/claude-code](https://github.com/x7dbg/claude-code)
+  > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
 
 ### [xiandanin](https://github.com/xiandanin)
 - 🌟 👤 [xiandanin](https://github.com/xiandanin) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
@@ -1157,9 +1313,13 @@
 - 🌟 👤 [yulate](https://github.com/yulate) Starred [Windy3f3f3f3f/claude-code-from-scratch](https://github.com/Windy3f3f3f3f/claude-code-from-scratch)
   > Build your own coding agent from scratch in ~1300 lines of TypeScript. / 从零构建你自己的 Claude Code，~1300 ...
 
+### [yuvaly0](https://github.com/yuvaly0)
+- 🌟 👤 [yuvaly0](https://github.com/yuvaly0) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+
 ### [yux1azhengye](https://github.com/yux1azhengye)
-- 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code)
-  > It will be revised soon.
+- 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)
+  > Research on Coding Agents
 
 ### [yuzheng14](https://github.com/yuzheng14)
 - 🍴 👤 [yuzheng14](https://github.com/yuzheng14) Forked [ryuujo1573/cc](https://github.com/ryuujo1573/cc) to [yuzheng14/cc](https://github.com/yuzheng14/cc)
@@ -1210,13 +1370,17 @@
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [deadjoe/woodgate](https://github.com/deadjoe/woodgate)
   > 一个基于Model Context Protocol (MCP)的服务器，用于自动化搜索和从Red Hat客户门户提取数据
 
+### [zhaoboy9692](https://github.com/zhaoboy9692)
+- 🍴 👤 [zhaoboy9692](https://github.com/zhaoboy9692) Forked [SeeFlowerX/frida_dump](https://github.com/SeeFlowerX/frida_dump) to [zhaoboy9692/frida_dump](https://github.com/zhaoboy9692/frida_dump)
+  > frida dump android elf, support spawn and attach mode
+
 ### [zhaotianff](https://github.com/zhaotianff)
 - 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [rizinorg/cutter](https://github.com/rizinorg/cutter)
   > Free and Open Source Reverse Engineering Platform powered by rizin
 
 ### [zhizhuodemao](https://github.com/zhizhuodemao)
-- 🍴 👤 [zhizhuodemao](https://github.com/zhizhuodemao) Forked [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code) to [zhizhuodemao/claude-code-source-code](https://github.com/zhizhuodemao/claude-code-source-code)
-  > It will be revised soon.
+- 🍴 👤 [zhizhuodemao](https://github.com/zhizhuodemao) Forked [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) to [zhizhuodemao/claude-code-source-code](https://github.com/zhizhuodemao/claude-code-source-code)
+  > Research on Coding Agents
 
 ### [zhuguohui](https://github.com/zhuguohui)
 - 🌟 👤 [zhuguohui](https://github.com/zhuguohui) Starred [antarikshc/perfetto-mcp](https://github.com/antarikshc/perfetto-mcp)
@@ -1225,6 +1389,8 @@
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)
   > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [scalar/scalar](https://github.com/scalar/scalar)
+  > Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Clien...
 
 ### [zzzcccyyyggg](https://github.com/zzzcccyyyggg)
 - 🍴 👤 [zzzcccyyyggg](https://github.com/zzzcccyyyggg) Forked [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent) to [zzzcccyyyggg/ctf-agent](https://github.com/zzzcccyyyggg/ctf-agent)
@@ -1236,5 +1402,5 @@
 
 
 ---
-*最后更新于 2026-04-01 09:05:12 UTC*
+*最后更新于 2026-04-01 10:56:48 UTC*
 *历史记录保存在 `archive` 目录中。*
