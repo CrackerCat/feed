@@ -16,7 +16,7 @@
 
 ### [10code15bugs](https://github.com/10code15bugs)
 - 🌟 👤 [10code15bugs](https://github.com/10code15bugs) Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
-  > The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done...
+  > [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: ...
 
 ### [188080501](https://github.com/188080501)
 - 🍴 👤 [188080501](https://github.com/188080501) Forked [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) to [188080501/ddns-go](https://github.com/188080501/ddns-go)
@@ -51,6 +51,23 @@
   > Lightweight coding agent that runs in your terminal
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
   > Show usage stats for OpenAI Codex and Claude Code, without having to login.
+
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [ptal/turbo](https://github.com/ptal/turbo)
+  > A constraint solver purely on GPUs (CUDA)
+
+### [DearXiaoGui](https://github.com/DearXiaoGui)
+- 🍴 👤 [DearXiaoGui](https://github.com/DearXiaoGui) Forked [gleitz/midi-js-soundfonts](https://github.com/gleitz/midi-js-soundfonts) to [DearXiaoGui/midi-js-soundfonts](https://github.com/DearXiaoGui/midi-js-soundfonts)
+  > Pre-rendered General MIDI soundfonts that can be used immediately with MIDI.js
+
+### [Dump-GUY](https://github.com/Dump-GUY)
+- 🌟 👤 [Dump-GUY](https://github.com/Dump-GUY) Starred [elastic/supply-chain-monitor](https://github.com/elastic/supply-chain-monitor)
+
+### [EggUncle](https://github.com/EggUncle)
+- 🌟 👤 [EggUncle](https://github.com/EggUncle) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
+  > Plugin for JADX to integrate MCP server
+- 🌟 👤 [EggUncle](https://github.com/EggUncle) Starred [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev)
+  > Runnable ClaudeCode source code
 
 ### [Gracker](https://github.com/Gracker)
 - 🌟 👤 [Gracker](https://github.com/Gracker) Starred [NanmiCoder/claude-code-haha](https://github.com/NanmiCoder/claude-code-haha)
@@ -92,9 +109,19 @@
 - 🌟 👤 [KpLi0rn](https://github.com/KpLi0rn) Starred [Windy3f3f3f3f/how-claude-code-works](https://github.com/Windy3f3f3f3f/how-claude-code-works)
   > Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入...
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)
+  > 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era....
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill)
+  > 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. 
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill)
+  > 与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。
+
 ### [Lakr233](https://github.com/Lakr233)
 - 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [Paidax01/math-curve-loaders](https://github.com/Paidax01/math-curve-loaders)
   > A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, ...
+- 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [liyown/marknative](https://github.com/liyown/marknative)
+  > A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, n...
 
 ### [Le1a](https://github.com/Le1a)
 - 🍴 👤 [Le1a](https://github.com/Le1a) Forked [0Chencc/clawgod](https://github.com/0Chencc/clawgod) to [Le1a/clawgod](https://github.com/Le1a/clawgod)
@@ -132,6 +159,10 @@
 - 🌟 👤 [NoOne-hub](https://github.com/NoOne-hub) Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)
   > 原汁原昧 Claude Code 可运行,可构建版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker)
+  > Pastebin on Cloudflare worker, with friendly CLI usage and rich features
+
 ### [OoWoodOne](https://github.com/OoWoodOne)
 - 🌟 👤 [OoWoodOne](https://github.com/OoWoodOne) Starred [tokauth/SkillScan](https://github.com/tokauth/SkillScan)
   > A skill to scan skill.
@@ -149,10 +180,16 @@
   > OpenAI-compatible AI proxy: Anthropic Claude, Google Gemini, GPT-5, Cloudflare AI. Free hosting, aut...
 - 🌟 👤 [PIKACHUIM](https://github.com/PIKACHUIM) Starred [afoim/GithubSiteProxyForCloudflareWorker](https://github.com/afoim/GithubSiteProxyForCloudflareWorker)
   > 这是一个基于Cloudflare Workers的GitHub代理服务，允许通过替代域名访问GitHub资源，解决某些网络环境下GitHub访问受限的问题。代理服务通过域名映射和资源转发，提供无缝的G...
+- 🌟 👤 [PIKACHUIM](https://github.com/PIKACHUIM) Starred [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy)
+  > 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 Claw...
 
 ### [PenguinAndy](https://github.com/PenguinAndy)
 - 🌟 👤 [PenguinAndy](https://github.com/PenguinAndy) Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
   > Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compati...
+
+### [SakuraKoi](https://github.com/SakuraKoi)
+- 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [jtydhr88/ComfyUI-See-through](https://github.com/jtydhr88/ComfyUI-See-through)
+  > A ComfyUI plugin that wraps [See-through](https://github.com/dmMaze/see-through) — an AI system that...
 
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
@@ -160,6 +197,10 @@
 ### [TheNetAdmin](https://github.com/TheNetAdmin)
 - 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [calesthio/Crucix](https://github.com/calesthio/Crucix)
   > Your personal intelligence agent. Watches the world from multiple data sources and pings you when so...
+
+### [X1r0z](https://github.com/X1r0z)
+- 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage)
+  > A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 
 ### [XayahSuSuSu](https://github.com/XayahSuSuSu)
 - 🌟 👤 [XayahSuSuSu](https://github.com/XayahSuSuSu) Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)
@@ -203,6 +244,9 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [fandango-fuzzer/fandango](https://github.com/fandango-fuzzer/fandango)
   > FANDANGO is a language-based fuzzer that leverages formal input specifications (grammars) combined w...
 
+### [black-binary](https://github.com/black-binary)
+- 🍴 👤 [black-binary](https://github.com/black-binary) Forked [utilityai/llama-cpp-rs](https://github.com/utilityai/llama-cpp-rs) to [black-binary/llama-cpp-rs](https://github.com/black-binary/llama-cpp-rs)
+
 ### [burpheart](https://github.com/burpheart)
 - 🌟 👤 [burpheart](https://github.com/burpheart) Starred [0Chencc/clawgod](https://github.com/0Chencc/clawgod)
   > This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the offic...
@@ -216,6 +260,10 @@
   > Transform geospatial relations into graphs for Graph Neural Networks and network analysis
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [alphafox02/iridium-sniffer](https://github.com/alphafox02/iridium-sniffer)
   > Standalone Iridium satellite burst detector and demodulator in C
+
+### [byt3n33dl3](https://github.com/byt3n33dl3)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [RajChowdhury240/OSCP-CheatSheet](https://github.com/RajChowdhury240/OSCP-CheatSheet)
+  > My OSCP Prep Sandbox!!
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [yazaldefilimone/ffmpreg](https://github.com/yazaldefilimone/ffmpreg)
@@ -242,24 +290,48 @@
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill)
   > A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, indus...
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume)
+  > free online AI resume editor，the only official website is  https://magicv.art
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
+  > ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video genera...
+- 🍴 👤 [dodola](https://github.com/dodola) Forked [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) to [dodola/InfiniteTalk](https://github.com/dodola/InfiniteTalk)
+  > ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video genera...
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [Karka-Admin/gruber-darker-vscode](https://github.com/Karka-Admin/gruber-darker-vscode)
   > Gruber Darker theme for Visual Studio Code
 
+### [elllusion](https://github.com/elllusion)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [bugst/go-serial](https://github.com/bugst/go-serial)
+  > A cross-platform serial library for go-lang.
+
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript)
+  > Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
+- 🍴 👤 [everettjf](https://github.com/everettjf) Forked [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript) to [everettjf/open-agent-sdk-typescript](https://github.com/everettjf/open-agent-sdk-typescript)
+  > Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [Adamlixi/codenano](https://github.com/Adamlixi/codenano)
+  > Lightweight AI coding agent SDK extracted from Claude Code. 5,500 lines vs 510,000+. Same power, 97%...
+
 ### [fawdlstty](https://github.com/fawdlstty)
 - 🌟 👤 [fawdlstty](https://github.com/fawdlstty) Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
-  > The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done...
+  > [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: ...
 
 ### [fei-ke](https://github.com/fei-ke)
 - 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [openai/symphony](https://github.com/openai/symphony)
   > Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage ...
+- 🍴 👤 [fei-ke](https://github.com/fei-ke) Forked [fankes/AndroidNotifyIconAdapt](https://github.com/fankes/AndroidNotifyIconAdapt) to [fei-ke/AndroidNotifyIconAdapt](https://github.com/fei-ke/AndroidNotifyIconAdapt)
+  > An online rules platform that adapts native notification icons and standard icon repairs for non-sta...
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient)
   > One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-...
+
+### [flankerhqd](https://github.com/flankerhqd)
+- 🌟 👤 [flankerhqd](https://github.com/flankerhqd) Starred [veritas501/ida-hub-agent-skills](https://github.com/veritas501/ida-hub-agent-skills)
+  > Orchestrate multiple IDA Pro instances through a central Hub, enabling AI agents to perform complex ...
 
 ### [fly55555](https://github.com/fly55555)
 - 🌟 👤 [fly55555](https://github.com/fly55555) Starred [saileaxh/cpueaxh](https://github.com/saileaxh/cpueaxh)
@@ -286,6 +358,10 @@
   > 42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [kagancapar/CVE-2026-5201](https://github.com/kagancapar/CVE-2026-5201) to [gmh5225/CVE-2026-5201](https://github.com/gmh5225/CVE-2026-5201)
   > CVE-2026-5201: Heap-based buffer overflow in gdk-pixbuf JPEG loader (CWE-122, CVSS 7.5)
+
+### [goatmilkkk](https://github.com/goatmilkkk)
+- 🌟 👤 [goatmilkkk](https://github.com/goatmilkkk) Starred [mandiant/flare-learning-hub](https://github.com/mandiant/flare-learning-hub)
+  > Free educational content on reverse engineering and malware analysis from the FLARE team
 
 ### [h3h3qaq](https://github.com/h3h3qaq)
 - 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [joernio/joern](https://github.com/joernio/joern)
@@ -333,6 +409,14 @@
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [fdu-sec/JDD](https://github.com/fdu-sec/JDD)
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [zaydlang/GayBoy](https://github.com/zaydlang/GayBoy)
+  > GBA Bios Patcher
+
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [meituan-longcat/LongCat-AudioDiT](https://github.com/meituan-longcat/LongCat-AudioDiT)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [wangdongdut/DUT-Anti-UAV](https://github.com/wangdongdut/DUT-Anti-UAV)
+
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
   > AI Agent 源码深度研究报告
@@ -344,9 +428,12 @@
   > Not about success. About what to do after you get laid off.
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [hchcx/fanqie_auto_publish](https://github.com/hchcx/fanqie_auto_publish)
   > 番茄小说自动发布机
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [sunbigfly/ppt-agent-skills](https://github.com/sunbigfly/ppt-agent-skills)
+  > A code-driven presentation generation framework. 像构建软件工程一样生成演示文稿。
 
 ### [jixiaoyong](https://github.com/jixiaoyong)
 - 🌟 👤 [jixiaoyong](https://github.com/jixiaoyong) Starred [emdash-cms/emdash](https://github.com/emdash-cms/emdash)
+  > EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace)
@@ -390,10 +477,15 @@
 
 ### [lightless233](https://github.com/lightless233)
 - 🌟 👤 [lightless233](https://github.com/lightless233) Starred [emdash-cms/emdash](https://github.com/emdash-cms/emdash)
+  > EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 
 ### [lizhangqu](https://github.com/lizhangqu)
 - 🌟 👤 [lizhangqu](https://github.com/lizhangqu) Starred [toby-bridges/api-relay-audit](https://github.com/toby-bridges/api-relay-audit)
   > Security audit tool for third-party AI API relay/proxy services. Detects hidden prompt injection, pr...
+
+### [lqqyt2423](https://github.com/lqqyt2423)
+- 🍴 👤 [lqqyt2423](https://github.com/lqqyt2423) Forked [badlogic/pi-mono](https://github.com/badlogic/pi-mono) to [lqqyt2423/pi-mono](https://github.com/lqqyt2423/pi-mono)
+  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
 ### [luochuanyuewu](https://github.com/luochuanyuewu)
 - 🌟 👤 [luochuanyuewu](https://github.com/luochuanyuewu) Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)
@@ -406,6 +498,10 @@
 ### [motikan2010](https://github.com/motikan2010)
 - 🌟 👤 [motikan2010](https://github.com/motikan2010) Starred [step-security/agent](https://github.com/step-security/agent)
   > Purpose-built security agent for hosted runners
+
+### [mstfknn](https://github.com/mstfknn)
+- 🍴 👤 [mstfknn](https://github.com/mstfknn) Forked [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) to [mstfknn/shhgit](https://github.com/mstfknn/shhgit)
+  > Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket reposi...
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [sayan011/Immunefi-bug-bounty-writeups-list](https://github.com/sayan011/Immunefi-bug-bounty-writeups-list)
@@ -446,6 +542,10 @@
 - 🌟 👤 [redbearder](https://github.com/redbearder) Starred [fcitx/fcitx5](https://github.com/fcitx/fcitx5)
   > Next generation of fcitx, cross-platform input method framework.
 
+### [s045pd](https://github.com/s045pd)
+- 🌟 👤 [s045pd](https://github.com/s045pd) Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
+  > [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: ...
+
 ### [sakana164](https://github.com/sakana164)
 - 🌟 👤 [sakana164](https://github.com/sakana164) Starred [Pik-4/SimpleGBL](https://github.com/Pik-4/SimpleGBL)
   > A simple gbl app that allows you to persistently obtain root privileges.
@@ -464,7 +564,11 @@
 
 ### [strivexjun](https://github.com/strivexjun)
 - 🌟 👤 [strivexjun](https://github.com/strivexjun) Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
-  > The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done...
+  > [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: ...
+
+### [suqi8](https://github.com/suqi8)
+- 🍴 👤 [suqi8](https://github.com/suqi8) Forked [kdxsydq/ClaudeCode](https://github.com/kdxsydq/ClaudeCode) to [suqi8/ClaudeCode](https://github.com/suqi8/ClaudeCode)
+  > 可运行的Claude Code源码
 
 ### [szcf-weiya](https://github.com/szcf-weiya)
 - 🌟 👤 [szcf-weiya](https://github.com/szcf-weiya) Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
@@ -476,6 +580,10 @@
 ### [uforever](https://github.com/uforever)
 - 🍴 👤 [uforever](https://github.com/uforever) Forked [feicong/libcurl-android](https://github.com/feicong/libcurl-android) to [uforever/libcurl-android](https://github.com/uforever/libcurl-android)
   > Compile curl & openssl & zlib for android with NDK.
+
+### [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz)
+- 🌟 👤 [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz) Starred [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)
+  > Bash for Agents
 
 ### [veaba](https://github.com/veaba)
 - 🌟 👤 [veaba](https://github.com/veaba) Starred [motiful/cc-gateway](https://github.com/motiful/cc-gateway)
@@ -506,11 +614,19 @@
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [ZimoLiao/scholaraio](https://github.com/ZimoLiao/scholaraio) to [wszqkzqk/scholaraio](https://github.com/wszqkzqk/scholaraio)
   > Scholar All-In-One: AI agent-powered research terminal
 
+### [wxhzhwxhzh](https://github.com/wxhzhwxhzh)
+- 🍴 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Forked [0xsdeo/AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker) to [wxhzhwxhzh/AntiDebug_Breaker](https://github.com/wxhzhwxhzh/AntiDebug_Breaker)
+  > JavaScript Reverse Tools -- JS逆向工具
+
 ### [x7dbg](https://github.com/x7dbg)
 - 🍴 👤 [x7dbg](https://github.com/x7dbg) Forked [zhongjianhua163/BlackMoonKernelStaticLib](https://github.com/zhongjianhua163/BlackMoonKernelStaticLib) to [x7dbg/BlackMoonKernelStaticLib](https://github.com/x7dbg/BlackMoonKernelStaticLib)
   > 黑月编译器插件的核心静态库部分的源码
 - 🍴 👤 [x7dbg](https://github.com/x7dbg) Forked [aiqinxuancai/AutoLinker](https://github.com/aiqinxuancai/AutoLinker) to [x7dbg/AutoLinker](https://github.com/x7dbg/AutoLinker)
   > AutoLinker支持库，支持不同源文件使用不同的Linker，调试编译时动态与静态ec自动切换，易语言AI Agent。
+
+### [xbyl1234](https://github.com/xbyl1234)
+- 🍴 👤 [xbyl1234](https://github.com/xbyl1234) Forked [enetx/surf](https://github.com/enetx/surf) to [xbyl1234/surf](https://github.com/xbyl1234/surf)
+  > SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerpri...
 
 ### [xiaolai](https://github.com/xiaolai)
 - 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) to [xiaolai/awesome-mcp-servers](https://github.com/xiaolai/awesome-mcp-servers)
@@ -544,10 +660,14 @@
 ### [yulate](https://github.com/yulate)
 - 🌟 👤 [yulate](https://github.com/yulate) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > An agentic skills framework & software development methodology that works.
+- 🌟 👤 [yulate](https://github.com/yulate) Starred [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+  > practice made claude perfect
 
 ### [yuzheng14](https://github.com/yuzheng14)
 - 🌟 👤 [yuzheng14](https://github.com/yuzheng14) Starred [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
   > AI Agent 源码深度研究报告
+- 🌟 👤 [yuzheng14](https://github.com/yuzheng14) Starred [motiful/cc-gateway](https://github.com/motiful/cc-gateway)
+  > AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privac...
 
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
@@ -556,12 +676,17 @@
 ### [zhanghai](https://github.com/zhanghai)
 - 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [openai/codex](https://github.com/openai/codex)
   > Lightweight coding agent that runs in your terminal
+- 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
 
 ### [zhanghecn](https://github.com/zhanghecn)
 - 🌟 👤 [zhanghecn](https://github.com/zhanghecn) Starred [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)
   > 原汁原昧 Claude Code 可运行,可构建版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 - 🍴 👤 [zhanghecn](https://github.com/zhanghecn) Forked [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) to [zhanghecn/claude-code](https://github.com/zhanghecn/claude-code)
   > 原汁原昧 Claude Code 可运行,可构建版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
+
+### [zhangkanqi](https://github.com/zhangkanqi)
+- 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [chipsalliance/riscv-vector-tests](https://github.com/chipsalliance/riscv-vector-tests)
+  > Unit tests generator for RVV 1.0
 
 ### [zhizhuodemao](https://github.com/zhizhuodemao)
 - 🍴 👤 [zhizhuodemao](https://github.com/zhizhuodemao) Forked [0Chencc/clawgod](https://github.com/0Chencc/clawgod) to [zhizhuodemao/clawgod](https://github.com/zhizhuodemao/clawgod)
@@ -583,5 +708,5 @@
 
 
 ---
-*最后更新于 2026-04-02 07:13:32 UTC*
+*最后更新于 2026-04-02 08:57:42 UTC*
 *历史记录保存在 `archive` 目录中。*
