@@ -15,6 +15,16 @@
 ### [AnkioTomas](https://github.com/AnkioTomas)
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [HowieHChen/hyperx-compose](https://github.com/HowieHChen/hyperx-compose)
 
+### [DarkLineX](https://github.com/DarkLineX)
+- 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [sensepost/objection](https://github.com/sensepost/objection)
+  > 📱 objection - runtime mobile exploration
+- 🍴 👤 [DarkLineX](https://github.com/DarkLineX) Forked [lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida) to [DarkLineX/ZygiskFrida](https://github.com/DarkLineX/ZygiskFrida)
+  > Injects frida gadget using zygisk to bypass anti-tamper checks.
+
+### [Dump-GUY](https://github.com/Dump-GUY)
+- 🌟 👤 [Dump-GUY](https://github.com/Dump-GUY) Starred [cristeigabriela/bb](https://github.com/cristeigabriela/bb)
+  > Benowin Blanc — Windows through a detective's lens.
+
 ### [FeeiCN](https://github.com/FeeiCN)
 - 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit)
   > a pure css implementation of some sunlight streaming in through the window
@@ -46,6 +56,14 @@
 ### [LaPhilosophie](https://github.com/LaPhilosophie)
 - 🌟 👤 [LaPhilosophie](https://github.com/LaPhilosophie) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
   > Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your ...
+
+### [Lakr233](https://github.com/Lakr233)
+- 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [s1ntoneli/AppUpdater](https://github.com/s1ntoneli/AppUpdater)
+  > A simple app-updater for macOS, checks your GitHub releases for a binary asset and silently updates ...
+
+### [PalmDevs](https://github.com/PalmDevs)
+- 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [Llucs/odin4](https://github.com/Llucs/odin4)
+  > odin4 is a flash tool for Samsung devices.
 
 ### [People-11](https://github.com/People-11)
 - 🌟 👤 [People-11](https://github.com/People-11) Starred [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
@@ -89,6 +107,10 @@
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
   > SGLang is a high-performance serving framework for large language models and multimodal models.
 
+### [YuHuanTin](https://github.com/YuHuanTin)
+- 🌟 👤 [YuHuanTin](https://github.com/YuHuanTin) Starred [cristeigabriela/bb](https://github.com/cristeigabriela/bb)
+  > Benowin Blanc — Windows through a detective's lens.
+
 ### [aviraxp](https://github.com/aviraxp)
 - 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [halal-beef/houston-pub](https://github.com/halal-beef/houston-pub)
   > We had a problem - and now, publicly, a solution :)
@@ -96,6 +118,14 @@
 ### [cdong1012](https://github.com/cdong1012)
 - 🌟 👤 [cdong1012](https://github.com/cdong1012) Starred [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
   > Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplif...
+
+### [chsbuffer](https://github.com/chsbuffer)
+- 🍴 👤 [chsbuffer](https://github.com/chsbuffer) Forked [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) to [NexAlloy/morphe-patches](https://github.com/NexAlloy/morphe-patches)
+  > Morphe Patches
+
+### [codehz](https://github.com/codehz)
+- 🌟 👤 [codehz](https://github.com/codehz) Starred [BitsForPeople/esp-tamp](https://github.com/BitsForPeople/esp-tamp)
+  > ESP32-optimized variant of the Tamp lossless compression library.
 
 ### [cwuom](https://github.com/cwuom)
 - 🌟 👤 [cwuom](https://github.com/cwuom) Starred [TheSmallHanCat/NeriPlayer-LTW](https://github.com/TheSmallHanCat/NeriPlayer-LTW)
@@ -113,6 +143,10 @@
   > Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your ...
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding)
   > 超低成本硬件短信转发器，支持移动联通电信，ML307R+ESP32C3
+
+### [elllusion](https://github.com/elllusion)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [DMTF/libspdm](https://github.com/DMTF/libspdm)
+  > DMTF's Reference Implementation of SPDM
 
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli)
@@ -152,6 +186,8 @@
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [apple/ml-ssd](https://github.com/apple/ml-ssd)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
+  > Lightweight process-based sandbox for Linux, no container, no VM, no root.
 
 ### [jpillora](https://github.com/jpillora)
 - 🌟 👤 [jpillora](https://github.com/jpillora) Starred [bbenkle/YotoBookMaker](https://github.com/bbenkle/YotoBookMaker)
@@ -166,6 +202,8 @@
   > PVSnesLib : A small, open and free development kit for the Nintendo SNES
 - 🌟 👤 [kernelzeroday](https://github.com/kernelzeroday) Starred [Xeeynamo/psyz](https://github.com/Xeeynamo/psyz)
   > PlayStation 1 porting SDK
+- 🌟 👤 [kernelzeroday](https://github.com/kernelzeroday) Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
+  > Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia...
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)
@@ -190,6 +228,10 @@
 - 🌟 👤 [luckyzyx](https://github.com/luckyzyx) Starred [BetterAndroid/Adbrowser](https://github.com/BetterAndroid/Adbrowser)
   > A modern cross-platform Android file manager powered by ADB.
 
+### [luochuanyuewu](https://github.com/luochuanyuewu)
+- 🌟 👤 [luochuanyuewu](https://github.com/luochuanyuewu) Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
+  > The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. ...
+
 ### [lyy289065406](https://github.com/lyy289065406)
 - 🍴 👤 [lyy289065406](https://github.com/lyy289065406) Forked [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) to [Visuals-AI/colleague-skill](https://github.com/Visuals-AI/colleague-skill)
   > 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era....
@@ -206,7 +248,7 @@
 
 ### [mo-xiaoxi](https://github.com/mo-xiaoxi)
 - 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [wong2/diffx](https://github.com/wong2/diffx)
-  > A local GitHub-like code review tool
+  > A local code review tool designed for the coding agent workflow
 - 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [badlogic/pi-diff-review](https://github.com/badlogic/pi-diff-review)
 - 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [team9ai/team9](https://github.com/team9ai/team9)
   > Team9 is a collaborative workspace for AI agents, currently built on OpenClaw and its ecosystem.
@@ -224,6 +266,10 @@
 ### [moyada](https://github.com/moyada)
 - 🌟 👤 [moyada](https://github.com/moyada) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
   > TradingAgents: Multi-Agents LLM Financial Trading Framework
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [nicobailon/pi-interactive-shell](https://github.com/nicobailon/pi-interactive-shell)
@@ -259,9 +305,37 @@
 - 🍴 👤 [shuixi2013](https://github.com/shuixi2013) Forked [taisuii/sentry](https://github.com/taisuii/sentry) to [shuixi2013/sentry](https://github.com/shuixi2013/sentry)
   > frida检测 和环境检测
 
+### [sjshb57](https://github.com/sjshb57)
+- 🌟 👤 [sjshb57](https://github.com/sjshb57) Starred [kejichangqing/QingMusic](https://github.com/kejichangqing/QingMusic)
+  > 青听音乐-一款免费无广告的本地音乐播放器。
+
+### [smallfawn](https://github.com/smallfawn)
+- 🌟 👤 [smallfawn](https://github.com/smallfawn) Starred [agluo/ql-script-hub](https://github.com/agluo/ql-script-hub)
+  > 🎯 青龙面板自动化签到脚本集合 - 支持多平台签到、监控，含随机化功能     |顺丰速运|什么值得买|阿里云盘|恩山论坛|nodeseek|夸克网盘|贴吧|ikuuu|百度网盘|NGA论坛|天翼云盘...
+- 🌟 👤 [smallfawn](https://github.com/smallfawn) Starred [lzwme/ql-scripts](https://github.com/lzwme/ql-scripts)
+  > 支持青龙面板的脚本集
+- 🌟 👤 [smallfawn](https://github.com/smallfawn) Starred [checkToke/yangtai](https://github.com/checkToke/yangtai)
+  > 青龙面板、上车， 巴奴火锅、一汽大众、海底捞、屈臣氏、霸王茶姬、华住会、东呈会、万达酒店、益禾堂 自动签到 。大疆商城监控库存、价格变化
+- 🌟 👤 [smallfawn](https://github.com/smallfawn) Starred [sudojia/AutoTaskScript](https://github.com/sudojia/AutoTaskScript)
+  > 自动化任务脚本助手，支持青龙面板及 Docker 部署
+- 🌟 👤 [smallfawn](https://github.com/smallfawn) Starred [3288588344/toulu](https://github.com/3288588344/toulu)
+  > TL库    2025最新青龙面板脚本   青龙脚本       QQ频道：98do10s246      tg频道：https://t.me/TLtoulu     微信公众号:哆啦A梦的藏宝箱
+- 🌟 👤 [smallfawn](https://github.com/smallfawn) Starred [2061360308/Cloud189Checkin](https://github.com/2061360308/Cloud189Checkin)
+  > 天翼网盘自动签到
+- 🌟 👤 [smallfawn](https://github.com/smallfawn) Starred [wes-lin/Cloud189Checkin](https://github.com/wes-lin/Cloud189Checkin)
+  > 天翼网盘自动签到
+
 ### [sotasan](https://github.com/sotasan)
 - 🌟 👤 [sotasan](https://github.com/sotasan) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+
+### [su-vikas](https://github.com/su-vikas)
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [34306/FilzaJailedDS](https://github.com/34306/FilzaJailedDS)
+  > Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Fil...
+
+### [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz)
+- 🌟 👤 [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz) Starred [vaibhavpandeyvpz/prayog](https://github.com/vaibhavpandeyvpz/prayog)
+  > A dead simple, minimal REPL (Read-Evaluate-Print-Loop) for PHP 8.2+
 
 ### [vilebbit](https://github.com/vilebbit)
 - 🌟 👤 [vilebbit](https://github.com/vilebbit) Starred [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP)
@@ -292,7 +366,11 @@
 - 🍴 👤 [zetaloop](https://github.com/zetaloop) Forked [sigbit/mcp-auth-proxy](https://github.com/sigbit/mcp-auth-proxy) to [zetaloop/mcp-auth-proxy](https://github.com/zetaloop/mcp-auth-proxy)
   > MCP Auth Proxy is a secure OAuth 2.1 authentication proxy for Model Context Protocol (MCP) servers
 
+### [zhangkanqi](https://github.com/zhangkanqi)
+- 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [hoseinyavarzadeh/tdxray](https://github.com/hoseinyavarzadeh/tdxray)
+  > TDXRay Framework
+
 
 ---
-*最后更新于 2026-04-05 07:07:13 UTC*
+*最后更新于 2026-04-05 08:43:53 UTC*
 *历史记录保存在 `archive` 目录中。*
