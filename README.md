@@ -29,15 +29,27 @@
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Muz1K1zuM/UnderlayCopy_bof](https://github.com/Muz1K1zuM/UnderlayCopy_bof)
   > BOF for Havoc that copies locked Windows files (SAM, SYSTEM, NTDS.dit) via raw MFT parsing — no VSS,...
 
+### [Fplyth0ner-Combie](https://github.com/Fplyth0ner-Combie)
+- 🌟 👤 [Fplyth0ner-Combie](https://github.com/Fplyth0ner-Combie) Starred [utoni/mingw-w64-ksocket](https://github.com/utoni/mingw-w64-ksocket)
+  > Windows Kernel <-> User mode socket communication made for "Mingw64 Driver Plus Plus".
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [daijro/camoufox](https://github.com/daijro/camoufox)
   > 🦊 Anti-detect browser
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [Vogadero/proxy-pulse](https://github.com/Vogadero/proxy-pulse) to [Mr-xn/proxy-pulse](https://github.com/Mr-xn/proxy-pulse)
   > ProxyPulse-具有Web GUI的高可用性免费代理池管理器High-Availability Free Proxy Pool Manager with Web GUI
 
+### [Samael-Z](https://github.com/Samael-Z)
+- 🌟 👤 [Samael-Z](https://github.com/Samael-Z) Starred [datalab-to/marker](https://github.com/datalab-to/marker)
+  > Convert PDF to markdown + JSON quickly with high accuracy
+
 ### [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO)
 - 🌟 👤 [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO) Starred [Xposed-Modules-Repo/com.jingyu233.bluetoothhook](https://github.com/Xposed-Modules-Repo/com.jingyu233.bluetoothhook)
   > BluetoothHook - 向 Android 系统蓝牙扫描结果中注入虚拟 BLE 设备
+
+### [Surendrajat](https://github.com/Surendrajat)
+- 🌟 👤 [Surendrajat](https://github.com/Surendrajat) Starred [electrondefuser/protecttai-reversal](https://github.com/electrondefuser/protecttai-reversal)
+  > Complete analysis of the Protectt.ai android RASP system for mobile applications
 
 ### [Tardis07](https://github.com/Tardis07)
 - 🌟 👤 [Tardis07](https://github.com/Tardis07) Starred [Esonhugh/How-AI-Kills-the-VShell](https://github.com/Esonhugh/How-AI-Kills-the-VShell)
@@ -55,6 +67,14 @@
 - 🌟 👤 [Trijal08](https://github.com/Trijal08) Starred [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel)
   > Rust Linux-compatible kernel
 
+### [ZhanLang](https://github.com/ZhanLang)
+- 🌟 👤 [ZhanLang](https://github.com/ZhanLang) Starred [secnova-ai/ClawdSecbot](https://github.com/secnova-ai/ClawdSecbot)
+  > ClawdSecbot is a professional AI Bot security protection solution, providing security capabilities i...
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+  > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+
 ### [chsbuffer](https://github.com/chsbuffer)
 - 🍴 👤 [chsbuffer](https://github.com/chsbuffer) Forked [LuckyPray/DexKit](https://github.com/LuckyPray/DexKit) to [NexAlloy/DexKit](https://github.com/NexAlloy/DexKit)
   > An easy-to-use, high-performance dex deobfuscation library.
@@ -62,6 +82,10 @@
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [foxyproxy/browser-extension](https://github.com/foxyproxy/browser-extension)
   > Version 8 and above. Browser extension source code for Firefox, Chrome, and other Chromium-based bro...
+
+### [codehz](https://github.com/codehz)
+- 🌟 👤 [codehz](https://github.com/codehz) Starred [couchbaselabs/crouton](https://github.com/couchbaselabs/crouton)
+  > C++20 coroutine runtime and cross-platform I/O library
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [junjiezhou1122/GptCrate](https://github.com/junjiezhou1122/GptCrate)
@@ -76,6 +100,16 @@
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [ekzhang/bore](https://github.com/ekzhang/bore)
   > 🕳 bore is a simple CLI tool for making tunnels to localhost
 
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [farouqaldori/claude-island](https://github.com/farouqaldori/claude-island)
+  > Claude Code notifications without the context switch. A minimal, always-present session manager for ...
+- 🍴 👤 [everettjf](https://github.com/everettjf) Forked [farouqaldori/claude-island](https://github.com/farouqaldori/claude-island) to [everettjf/claude-island](https://github.com/everettjf/claude-island)
+  > Claude Code notifications without the context switch. A minimal, always-present session manager for ...
+
+### [fanzhidongyzby](https://github.com/fanzhidongyzby)
+- 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [EvoMap/awesome-agent-evolution](https://github.com/EvoMap/awesome-agent-evolution)
+  > A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvemen...
+
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [ts1/BLEUnlock](https://github.com/ts1/BLEUnlock)
   > Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices
@@ -85,6 +119,19 @@
   > 🕳 bore is a simple CLI tool for making tunnels to localhost
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [coder/ghostty-web](https://github.com/coder/ghostty-web)
   > Ghostty for the web with xterm.js API compatibility
+
+### [hanbings](https://github.com/hanbings)
+- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
+  > MCP for xiaohongshu.com
+
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy)
+  > Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, ...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama)
+  > Set of tools to assess and improve LLM security.
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel)
+  > Apple Intelligence from the command line. On-device LLM via FoundationModels framework. No API keys,...
 
 ### [jay-to-the-dee](https://github.com/jay-to-the-dee)
 - 🌟 👤 [jay-to-the-dee](https://github.com/jay-to-the-dee) Starred [MKWB/RaspberryFluke](https://github.com/MKWB/RaspberryFluke)
@@ -100,6 +147,8 @@
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [sum2yang/novel-tool](https://github.com/sum2yang/novel-tool)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [Narcooo/inkos](https://github.com/Narcooo/inkos)
   > Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels with human review gat...
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [dikoweii/xianyu-auto-reply-1](https://github.com/dikoweii/xianyu-auto-reply-1)
+  > 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
 
 ### [jpillora](https://github.com/jpillora)
 - 🌟 👤 [jpillora](https://github.com/jpillora) Starred [maaslalani/sheets](https://github.com/maaslalani/sheets)
@@ -122,10 +171,36 @@
   > Custom Avatar Loader Mod for DesktopMate!
 - 🌟 👤 [oobbb](https://github.com/oobbb) Starred [assimp/assimp](https://github.com/assimp/assimp)
   > The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and ...
+- 🌟 👤 [oobbb](https://github.com/oobbb) Starred [clice-io/clice](https://github.com/clice-io/clice)
+  > A next-generation C++ language server for modern C++, focused on high performance and deep code inte...
 
 ### [psifertex](https://github.com/psifertex)
 - 🌟 👤 [psifertex](https://github.com/psifertex) Starred [jogolden/whoomp](https://github.com/jogolden/whoomp)
   > WHOOP 4.0 reverse engineering
+
+### [radioegor146](https://github.com/radioegor146)
+- 🚀 👤 [radioegor146](https://github.com/radioegor146) Made [radioegor146/radioegor146.github.io](https://github.com/radioegor146/radioegor146.github.io) public
+  > Main blog and articles dump site
+
+### [smallfawn](https://github.com/smallfawn)
+- 🌟 👤 [smallfawn](https://github.com/smallfawn) Starred [cscnk52/wechat-windows-versions](https://github.com/cscnk52/wechat-windows-versions)
+  > Automated Archive of WeChat for Windows
+
+### [su-vikas](https://github.com/su-vikas)
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [quarkslab/sighthouse](https://github.com/quarkslab/sighthouse)
+  > SightHouse is a tool designed to assist reverse engineers by retrieving information and metadata fro...
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [CLARATION/Antrag](https://github.com/CLARATION/Antrag)
+  > An app to list iOS/iPadOS app's, for stock devices.
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+  > Run iOS apps without actually installing them!
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [roothide/Developer](https://github.com/roothide/Developer)
+  > Developer
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [roothide/Dopamine2-roothide](https://github.com/roothide/Dopamine2-roothide)
+  > Dopamine is a semi-untethered jailbreak for iOS 15 and 16
+
+### [superfish9](https://github.com/superfish9)
+- 🍴 👤 [superfish9](https://github.com/superfish9) Forked [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) to [superfish9/learn-coding-agent](https://github.com/superfish9/learn-coding-agent)
+  > Research on Coding Agents
 
 ### [taisuii](https://github.com/taisuii)
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
@@ -141,7 +216,15 @@
 - 🌟 👤 [yikeke](https://github.com/yikeke) Starred [iuroc/bilidown](https://github.com/iuroc/bilidown)
   > 哔哩哔哩视频解析下载工具，支持 8K 视频、Hi-Res 音频、杜比视界下载、批量解析，可扫码登录，常驻托盘。
 
+### [yuan-xy](https://github.com/yuan-xy)
+- 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+  > 🎥      Make videos programmatically with React
+
+### [zenghongtu](https://github.com/zenghongtu)
+- 🌟 👤 [zenghongtu](https://github.com/zenghongtu) Starred [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify)
+  > A tool designed to simplify the creation of OpenCore EFI
+
 
 ---
-*最后更新于 2026-04-06 02:34:31 UTC*
+*最后更新于 2026-04-06 05:24:57 UTC*
 *历史记录保存在 `archive` 目录中。*
