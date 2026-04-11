@@ -13,6 +13,9 @@
 ### [AD1024](https://github.com/AD1024)
 - 🌟 👤 [AD1024](https://github.com/AD1024) Starred [strata-org/Strata](https://github.com/strata-org/Strata)
 
+### [AabyssZG](https://github.com/AabyssZG)
+- 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [incursi0n/GodPotatoBOF](https://github.com/incursi0n/GodPotatoBOF)
+
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [garrytan/gbrain](https://github.com/garrytan/gbrain)
   > Garry's Opinionated OpenClaw/Hermes Agent Brain
@@ -49,12 +52,15 @@
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [BetterAndroid/Adbrowser](https://github.com/BetterAndroid/Adbrowser)
+  > A modern cross-platform Android file manager powered by ADB.
 
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [klezVirus/BYOUD](https://github.com/klezVirus/BYOUD)
   > Bring your own Unwind Data Framework
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [klezVirus/SilentMoonwalk](https://github.com/klezVirus/SilentMoonwalk)
   > PoC Implementation of a fully dynamic call stack spoofer
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [codewhitesec/SysmonEnte](https://github.com/codewhitesec/SysmonEnte)
 
 ### [Nep-Timeline](https://github.com/Nep-Timeline)
 - 🍴 👤 [Nep-Timeline](https://github.com/Nep-Timeline) Forked [5ec1cff/ddk-module-builder](https://github.com/5ec1cff/ddk-module-builder) to [Nep-Timeline/ddk-module-builder](https://github.com/Nep-Timeline/ddk-module-builder)
@@ -67,6 +73,9 @@
   > A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs int...
 - 🍴 👤 [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO) Forked [QuantumNous/new-api](https://github.com/QuantumNous/new-api) to [SetsunaYukiOvO/new-api](https://github.com/SetsunaYukiOvO/new-api)
   > A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs int...
+
+### [Seyud](https://github.com/Seyud)
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [bmax121/KernelHook](https://github.com/bmax121/KernelHook)
 
 ### [ShirkNeko](https://github.com/ShirkNeko)
 - 🌟 👤 [ShirkNeko](https://github.com/ShirkNeko) Starred [SlimeVR/SlimeVR-Server](https://github.com/SlimeVR/SlimeVR-Server)
@@ -91,6 +100,12 @@
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [yanyongyu/JceStruct](https://github.com/yanyongyu/JceStruct)
   > JCE Encode/Decode using pydantic
+- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [TarsCloud/Tars](https://github.com/TarsCloud/Tars)
+  > Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated ad...
+
+### [SummerSec](https://github.com/SummerSec)
+- 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [chujianyun/skills](https://github.com/chujianyun/skills)
+  > WuMing's Claude Skills
 
 ### [Super12138](https://github.com/Super12138)
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [google/material-design-icons](https://github.com/google/material-design-icons)
@@ -162,6 +177,14 @@
 ### [ejpir](https://github.com/ejpir)
 - 🌟 👤 [ejpir](https://github.com/ejpir) Starred [mitkox/tnt](https://github.com/mitkox/tnt)
 
+### [everettjf](https://github.com/everettjf)
+- 🚀 👤 [everettjf](https://github.com/everettjf) Made [openrocky/openrocky](https://github.com/openrocky/openrocky) public
+  > Rocky is a voice-first AI Agent app for iPhone. OpenRocky is the open-source project behind it.
+- 🚀 👤 [everettjf](https://github.com/everettjf) Made [openrocky/openrocky_android](https://github.com/openrocky/openrocky_android) public
+  > Rocky is the app — the voice-first AI Agent you install and use on Android. OpenRocky is the open-so...
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [openrocky/openrocky](https://github.com/openrocky/openrocky)
+  > Rocky is a voice-first AI Agent app for iPhone. OpenRocky is the open-source project behind it.
+
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [MhmRdd/google-rkp-sw](https://github.com/MhmRdd/google-rkp-sw)
 
@@ -181,10 +204,20 @@
 - 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [datalab-to/chandra](https://github.com/datalab-to/chandra)
   > OCR model that handles complex tables, forms, handwriting with full layout.
 - 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland)
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+  > AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th...
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)
+  > A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locall...
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [HKUDS/Paper2Slides](https://github.com/HKUDS/Paper2Slides)
   > "Paper2Slides: From Paper to Presentation in One Click"
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift)
+  > Swift API for MLX
+
+### [iswbm](https://github.com/iswbm)
+- 🍴 👤 [iswbm](https://github.com/iswbm) Forked [lewislulu/terminal-setup](https://github.com/lewislulu/terminal-setup) to [iswbm/terminal-setup](https://github.com/iswbm/terminal-setup)
+  > One-script macOS terminal setup: Ghostty + Fish + Starship + Nerd Font + modern CLI tools
 
 ### [jweny](https://github.com/jweny)
 - 🌟 👤 [jweny](https://github.com/jweny) Starred [spaceraccoon/vulnerability-spoiler-alert](https://github.com/spaceraccoon/vulnerability-spoiler-alert)
@@ -197,6 +230,14 @@
 ### [kkent030315](https://github.com/kkent030315)
 - 🌟 👤 [kkent030315](https://github.com/kkent030315) Starred [domainexpert/branch-probability](https://github.com/domainexpert/branch-probability)
   > Example usage of BranchProbabilityInfo function pass. 
+
+### [kmiit](https://github.com/kmiit)
+- 🍴 👤 [kmiit](https://github.com/kmiit) Forked [YuKongA/payload_extract_rs](https://github.com/YuKongA/payload_extract_rs) to [kmiit/payload_extract_rs](https://github.com/kmiit/payload_extract_rs)
+  > [Multiplatform] Android OTA payload.bin extractor
+
+### [konieshadow](https://github.com/konieshadow)
+- 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
+  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
 ### [laozig](https://github.com/laozig)
 - 🌟 👤 [laozig](https://github.com/laozig) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
@@ -236,6 +277,10 @@
 
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [bmax121/KernelHook](https://github.com/bmax121/KernelHook)
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [lyshark/LyScript](https://github.com/lyshark/LyScript)
+  > 专为x32/x64dbg打造的AI驱动调试助手，助力逆向工程、漏洞挖掘、恶意软件分析效率倍增，是您的智能副驾。
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [YuKongA/payload_extract_rs](https://github.com/YuKongA/payload_extract_rs)
+  > [Multiplatform] Android OTA payload.bin extractor
 
 ### [niqiuqiux](https://github.com/niqiuqiux)
 - 🌟 👤 [niqiuqiux](https://github.com/niqiuqiux) Starred [bmax121/KernelHook](https://github.com/bmax121/KernelHook)
@@ -279,6 +324,7 @@
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [YuKongA/payload_extract_rs](https://github.com/YuKongA/payload_extract_rs)
+  > [Multiplatform] Android OTA payload.bin extractor
 
 ### [shellsec](https://github.com/shellsec)
 - 🌟 👤 [shellsec](https://github.com/shellsec) Starred [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)
@@ -294,8 +340,16 @@
 - 🍴 👤 [skywind3000](https://github.com/skywind3000) Forked [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) to [skywind3000/learn-claude-code](https://github.com/skywind3000/learn-claude-code)
   > Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 
+### [smallevilbeast](https://github.com/smallevilbeast)
+- 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp)
+  > MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running ...
+
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🍴 👤 [sonyps5201314](https://github.com/sonyps5201314) Forked [dvb01/BorDebug](https://github.com/dvb01/BorDebug) to [sonyps5201314/BorDebug](https://github.com/sonyps5201314/BorDebug)
+
+### [suqi8](https://github.com/suqi8)
+- 🍴 👤 [suqi8](https://github.com/suqi8) Forked [Laomaoi/Action-KernelSU-Next](https://github.com/Laomaoi/Action-KernelSU-Next) to [suqi8/Action-KernelSU-Next](https://github.com/suqi8/Action-KernelSU-Next)
+  > 使用Github Action自动编译一加KernelSU Next内核
 
 ### [t-wy](https://github.com/t-wy)
 - 🌟 👤 [t-wy](https://github.com/t-wy) Starred [tbenthompson/cppimport](https://github.com/tbenthompson/cppimport)
@@ -308,6 +362,8 @@
 ### [wangshub](https://github.com/wangshub)
 - 🌟 👤 [wangshub](https://github.com/wangshub) Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
   > LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interl...
+- 🌟 👤 [wangshub](https://github.com/wangshub) Starred [YishenTu/claudian](https://github.com/YishenTu/claudian)
+  > An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
 
 ### [wizardforcel](https://github.com/wizardforcel)
 - 🌟 👤 [wizardforcel](https://github.com/wizardforcel) Starred [CyberNewair/openclaw-guide](https://github.com/CyberNewair/openclaw-guide)
@@ -340,5 +396,5 @@
 
 
 ---
-*最后更新于 2026-04-11 07:49:45 UTC*
+*最后更新于 2026-04-11 08:42:47 UTC*
 *历史记录保存在 `archive` 目录中。*
