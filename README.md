@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [0xHJK](https://github.com/0xHJK)
+- 🌟 👤 [0xHJK](https://github.com/0xHJK) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
+
 ### [0xbug](https://github.com/0xbug)
 - 🌟 👤 [0xbug](https://github.com/0xbug) Starred [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll)
   > Dynamic Island for macOS
+
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [arman-bd/guppylm](https://github.com/arman-bd/guppylm)
+  > A ~9M parameter LLM that talks like a small fish.
 
 ### [Ascotbe](https://github.com/Ascotbe)
 - 🌟 👤 [Ascotbe](https://github.com/Ascotbe) Starred [HughYau/qiushi-skill](https://github.com/HughYau/qiushi-skill)
@@ -19,6 +27,10 @@
 ### [GangJust](https://github.com/GangJust)
 - 🌟 👤 [GangJust](https://github.com/GangJust) Starred [rathole-org/rathole](https://github.com/rathole-org/rathole)
   > A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative ...
+
+### [GitSquared](https://github.com/GitSquared)
+- 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [apple/container](https://github.com/apple/container)
+  > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
 
 ### [Gracker](https://github.com/Gracker)
 - 🌟 👤 [Gracker](https://github.com/Gracker) Starred [superset-sh/superset](https://github.com/superset-sh/superset)
@@ -35,8 +47,13 @@
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [MhmRdd/google-rkp-sw](https://github.com/MhmRdd/google-rkp-sw)
 
+### [Lakr233](https://github.com/Lakr233)
+- 🍴 👤 [Lakr233](https://github.com/Lakr233) Forked [kylehowells/demucs-mlx-swift](https://github.com/kylehowells/demucs-mlx-swift) to [Lakr233/demucs-mlx-swift](https://github.com/Lakr233/demucs-mlx-swift)
+
 ### [LanBaiCode](https://github.com/LanBaiCode)
 - 🌟 👤 [LanBaiCode](https://github.com/LanBaiCode) Starred [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register)
+- 🌟 👤 [LanBaiCode](https://github.com/LanBaiCode) Starred [mayocream/koharu](https://github.com/mayocream/koharu)
+  > ML-powered manga translator, written in Rust.
 
 ### [LockGit](https://github.com/LockGit)
 - 🌟 👤 [LockGit](https://github.com/LockGit) Starred [claw-codes/wx4py](https://github.com/claw-codes/wx4py)
@@ -64,6 +81,8 @@
   > A cross-platform declarative UI framework, inspired by SwiftUI.
 - 🌟 👤 [StephenDev0](https://github.com/StephenDev0) Starred [dominikmartn/ProgressiveBlurHeader](https://github.com/dominikmartn/ProgressiveBlurHeader)
   > Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and A...
+- 🌟 👤 [StephenDev0](https://github.com/StephenDev0) Starred [EduAlexxis/ByeTunes](https://github.com/EduAlexxis/ByeTunes)
+  > The first app of its kind: seamless, on-device music and ringtone injection for iOS. Bypass iTunes a...
 
 ### [TheNetAdmin](https://github.com/TheNetAdmin)
 - 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [skeeto/dcmake](https://github.com/skeeto/dcmake)
@@ -72,6 +91,10 @@
 ### [Tornaco](https://github.com/Tornaco)
 - 🌟 👤 [Tornaco](https://github.com/Tornaco) Starred [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass)
   > Compose Multiplatform Liquid Glass effect
+
+### [XiaoTong6666](https://github.com/XiaoTong6666)
+- 🍴 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Forked [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) to [XiaoTong6666/ghidra-mcp](https://github.com/XiaoTong6666/ghidra-mcp)
+  > Ghidra MCP Server — 194 MCP tools for AI-powered reverse engineering. GUI plugin + headless server, ...
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [flatimage/flatimage](https://github.com/flatimage/flatimage)
@@ -150,8 +173,14 @@
 - 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)
   > Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [Neighbor-Z/SwiftMTP](https://github.com/Neighbor-Z/SwiftMTP)
+  > A modern MTP device management tool for macOS.
+
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [bmax121/KernelHook](https://github.com/bmax121/KernelHook)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [Shirasuki/MX](https://github.com/Shirasuki/MX)
+  > A memory modifier similar to GameGuardian, written in Kotlin+Rust, based on android-wuwa!
 
 ### [ganyao114](https://github.com/ganyao114)
 - 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [JiaboLi-GitHub/renderdoc-mcp](https://github.com/JiaboLi-GitHub/renderdoc-mcp)
@@ -201,9 +230,25 @@
 - 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [happydog-intj/weibo-autoposter](https://github.com/happydog-intj/weibo-autoposter)
   > 微博自动发帖工具 — 自动登录检测、填写内容、一键发送
 
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [langfuse/langfuse](https://github.com/langfuse/langfuse)
+  > 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playgr...
+
+### [jayli](https://github.com/jayli)
+- 🌟 👤 [jayli](https://github.com/jayli) Starred [jayli/mc-lite](https://github.com/jayli/mc-lite)
+  > minecraft lite
+
 ### [je5442804](https://github.com/je5442804)
 - 🌟 👤 [je5442804](https://github.com/je5442804) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
   > Windows Analysis and Research Toolkit
+
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [VeriGu/spoq2](https://github.com/VeriGu/spoq2)
+  > [ASPLOS 2026] Highly Automated Verification of  Security Properties for Unmodified System Software
+
+### [jpacg](https://github.com/jpacg)
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [perkfly/ex-skill](https://github.com/perkfly/ex-skill)
+  > 前任 skill
 
 ### [jpillora](https://github.com/jpillora)
 - 🌟 👤 [jpillora](https://github.com/jpillora) Starred [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
@@ -236,6 +281,8 @@
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
   > Windows Analysis and Research Toolkit
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [rasta-mouse/Crystal-Loaders](https://github.com/rasta-mouse/Crystal-Loaders)
+  > A small collection of Crystal Palace PIC loaders designed for use with Cobalt Strike
 
 ### [mingheyan](https://github.com/mingheyan)
 - 🌟 👤 [mingheyan](https://github.com/mingheyan) Starred [cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS)
@@ -261,6 +308,10 @@
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
   > Windows Analysis and Research Toolkit
 
+### [poorevil](https://github.com/poorevil)
+- 🌟 👤 [poorevil](https://github.com/poorevil) Starred [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP)
+  > FreeRDP is a free remote desktop protocol library and clients
+
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
   > HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) a...
@@ -272,6 +323,10 @@
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [build2/build2](https://github.com/build2/build2)
   > build2 build system
+
+### [ret2ldz](https://github.com/ret2ldz)
+- 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent)
+  > A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemin...
 
 ### [rogxo](https://github.com/rogxo)
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [2dengine/profile.lua](https://github.com/2dengine/profile.lua)
@@ -295,9 +350,21 @@
 - 🌟 👤 [surunzi](https://github.com/surunzi) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
   > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
 
+### [taisuii](https://github.com/taisuii)
+- 🌟 👤 [taisuii](https://github.com/taisuii) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
+
+### [topcoco](https://github.com/topcoco)
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [robotn/gohook](https://github.com/robotn/gohook)
+  > GoHook, Go global keyboard and mouse listener hook
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
+
+### [xiaoweigege](https://github.com/xiaoweigege)
+- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+  > A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project...
 
 ### [zenghongtu](https://github.com/zenghongtu)
 - 🌟 👤 [zenghongtu](https://github.com/zenghongtu) Starred [zenghongtu/paseo-relay](https://github.com/zenghongtu/paseo-relay)
@@ -313,5 +380,5 @@
 
 
 ---
-*最后更新于 2026-04-12 07:14:40 UTC*
+*最后更新于 2026-04-12 08:50:27 UTC*
 *历史记录保存在 `archive` 目录中。*
