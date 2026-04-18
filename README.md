@@ -54,13 +54,19 @@
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
   > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
 
+### [FBLeee](https://github.com/FBLeee)
+- 🌟 👤 [FBLeee](https://github.com/FBLeee) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
+
 ### [Firebasky](https://github.com/Firebasky)
 - 🌟 👤 [Firebasky](https://github.com/Firebasky) Starred [wang-h/werss](https://github.com/wang-h/werss)
   > WeRSS - AI Powered 微信公众号热度分析系统，支持微信公众号定时采集、文章导出、关键词提取、主题聚类分析、可视化、文章导出、飞书/钉钉/微信消息支持，附带外部可访问API/MCP及AI...
 
+### [Germey](https://github.com/Germey)
+- 🌟 👤 [Germey](https://github.com/Germey) Starred [AceDataCloud/X402Client](https://github.com/AceDataCloud/X402Client)
+  > X402 payment protocol client for AceDataCloud APIs
+
 ### [Gracker](https://github.com/Gracker)
 - 🌟 👤 [Gracker](https://github.com/Gracker) Starred [wellwind/claude-code-from-source-zh-tw](https://github.com/wellwind/claude-code-from-source-zh-tw)
-- 🍴 👤 [Gracker](https://github.com/Gracker) Forked [wellwind/claude-code-from-source-zh-tw](https://github.com/wellwind/claude-code-from-source-zh-tw) to [Gracker/claude-code-from-source-zh](https://github.com/Gracker/claude-code-from-source-zh)
 
 ### [Lakr233](https://github.com/Lakr233)
 - 🚀 👤 [Lakr233](https://github.com/Lakr233) Made [Lakr233/bgclick-rev-skill](https://github.com/Lakr233/bgclick-rev-skill) public
@@ -80,6 +86,10 @@
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) to [Mr-xn/CLIProxyAPI](https://github.com/Mr-xn/CLIProxyAPI)
   > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible...
+
+### [OnesoftQwQ](https://github.com/OnesoftQwQ)
+- 🍴 👤 [OnesoftQwQ](https://github.com/OnesoftQwQ) Forked [JohanChane/clashtui](https://github.com/JohanChane/clashtui) to [OnesoftQwQ/clashtui](https://github.com/OnesoftQwQ/clashtui)
+  > Mihomo (Clash.Meta) TUI Client
 
 ### [P001water](https://github.com/P001water)
 - 🚀 👤 [P001water](https://github.com/P001water) Made [SecuraPath/DaofaGui](https://github.com/SecuraPath/DaofaGui) public
@@ -129,6 +139,10 @@
   > Cheat Engine. A development environment focused on modding
 - 🍴 👤 [bb33bb](https://github.com/bb33bb) Forked [LLiloMaster/iPhone16_bootrom](https://github.com/LLiloMaster/iPhone16_bootrom) to [bb33bb/iPhone16_bootrom](https://github.com/bb33bb/iPhone16_bootrom)
 
+### [chancerly](https://github.com/chancerly)
+- 🌟 👤 [chancerly](https://github.com/chancerly) Starred [nowsecure/r2frida](https://github.com/nowsecure/r2frida)
+  > Radare2 and Frida better together.
+
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [cloudwego/pilota](https://github.com/cloudwego/pilota)
   > A thrift and protobuf implementation in pure rust with high performance and extensibility.
@@ -145,8 +159,20 @@
 - 🌟 👤 [deathmemory](https://github.com/deathmemory) Starred [virjar/team-talk](https://github.com/virjar/team-talk)
   > 团队协作沟通软件，打算做成开源免费的钉钉/飞书，预期使用5年时间完成这个巨大的目标。
 
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [mandiant/gopacket](https://github.com/mandiant/gopacket)
+  > Gopacket is a clean Go implementation of Impacket, a library intended for working with network proto...
+
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [KelvinMsft/ThreadSpy](https://github.com/KelvinMsft/ThreadSpy)
+
+### [fanzhidongyzby](https://github.com/fanzhidongyzby)
+- 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [SJTU-IPADS/SkVM](https://github.com/SJTU-IPADS/SkVM)
+  > The Language Virtual Machine for Agent Skills
+- 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
+- 🍴 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Forked [EvoMap/evolver](https://github.com/EvoMap/evolver) to [fanzhidongyzby/evolver](https://github.com/fanzhidongyzby/evolver)
+  > The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [yarasaa/Clippy](https://github.com/yarasaa/Clippy)
@@ -161,6 +187,14 @@
   > Tool to build & run portable, lightweight, self-contained virtual machines.
 - 🌟 👤 [gabime](https://github.com/gabime) Starred [NetBSDfr/smolBSD](https://github.com/NetBSDfr/smolBSD)
   > smolBSD is a tiny BSD UNIX (NetBSD) system creation tool, primarily aimed at building modern, lightw...
+
+### [gal2xy](https://github.com/gal2xy)
+- 🌟 👤 [gal2xy](https://github.com/gal2xy) Starred [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)
+  > Google SafetyNet attestation workarounds for Magisk
+- 🌟 👤 [gal2xy](https://github.com/gal2xy) Starred [ebrasha/Abdal-DroidGuard](https://github.com/ebrasha/Abdal-DroidGuard)
+  > Abdal DroidGuard is an advanced and powerful Android application hardening tool developed by  Ebrahi...
+- 🍴 👤 [gal2xy](https://github.com/gal2xy) Forked [ebrasha/Abdal-DroidGuard](https://github.com/ebrasha/Abdal-DroidGuard) to [gal2xy/Abdal-DroidGuard](https://github.com/gal2xy/Abdal-DroidGuard)
+  > Abdal DroidGuard is an advanced and powerful Android application hardening tool developed by  Ebrahi...
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [smol-machines/smolvm](https://github.com/smol-machines/smolvm) to [gmh5225/smolvm](https://github.com/gmh5225/smolvm)
@@ -185,18 +219,38 @@
   > A lightweight easy to use markdown viewer
 - 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [morpho-org/metamorpho](https://github.com/morpho-org/metamorpho)
   > MetaMorpho
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [GreatV/oar-ocr](https://github.com/GreatV/oar-ocr)
+  > An Optical Character Recognition (OCR) and Document Layout Analysis library written in Rust.
 
 ### [guiying712](https://github.com/guiying712)
 - 🌟 👤 [guiying712](https://github.com/guiying712) Starred [mayukh4/linux-android](https://github.com/mayukh4/linux-android)
   > A script that sets up linux on your anroid device via termux
 
+### [hanc00l](https://github.com/hanc00l)
+- 🌟 👤 [hanc00l](https://github.com/hanc00l) Starred [wgpsec/AboutSecurity](https://github.com/wgpsec/AboutSecurity)
+  > Everything for pentest. | 用于渗透测试的 payload 和 bypass 字典.
+
 ### [happydog-intj](https://github.com/happydog-intj)
 - 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [googleworkspace/cli](https://github.com/googleworkspace/cli)
   > Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, ...
 
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [tobyilee/book-writer](https://github.com/tobyilee/book-writer)
+  > Automated book-writing harness with Toby-style voice (11 agents + 10 skills, EPUB output)
+
 ### [i64](https://github.com/i64)
 - 🌟 👤 [i64](https://github.com/i64) Starred [plabayo/rama](https://github.com/plabayo/rama)
   > modular service framework to move and transform network packets
+
+### [imlk0](https://github.com/imlk0)
+- 🌟 👤 [imlk0](https://github.com/imlk0) Starred [supabase/supabase](https://github.com/supabase/supabase)
+  > The Postgres development platform. Supabase gives you a dedicated Postgres database to build your we...
+
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [libai1943/UAV-Path-Planning](https://github.com/libai1943/UAV-Path-Planning)
+  > Unmanned Combat Aerial Vehicles Path Planning Using a Novel Probability Density Model Based on Artif...
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [libai2020/Single_Vehicle_Parking_Trajectory_Planning](https://github.com/libai2020/Single_Vehicle_Parking_Trajectory_Planning)
+  > 第二章. 混合A*做路径决策，S-T图搜索做速度决策，数值求解最优控制问题做轨迹优化
 
 ### [kagancapar](https://github.com/kagancapar)
 - 🌟 👤 [kagancapar](https://github.com/kagancapar) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
@@ -207,14 +261,29 @@
 ### [kasnria001](https://github.com/kasnria001)
 - 🌟 👤 [kasnria001](https://github.com/kasnria001) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
   > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
+- 🌟 👤 [kasnria001](https://github.com/kasnria001) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
+  > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
+- 🌟 👤 [kasnria001](https://github.com/kasnria001) Starred [zyb2ww/BOOT.XF.2.1](https://github.com/zyb2ww/BOOT.XF.2.1)
 
 ### [kylesmile1103](https://github.com/kylesmile1103)
 - 🌟 👤 [kylesmile1103](https://github.com/kylesmile1103) Starred [crisng95/flowkit](https://github.com/crisng95/flowkit)
   > AI agent can create video content better than you. No reason why you do it manually in google flow!
 
+### [leavesCZY](https://github.com/leavesCZY)
+- 🍴 👤 [leavesCZY](https://github.com/leavesCZY) Forked [larksuite/openclaw-lark](https://github.com/larksuite/openclaw-lark) to [leavesCZY/openclaw-lark](https://github.com/leavesCZY/openclaw-lark)
+  > 飞书官方出品的 OpenClaw 飞书/Lark Channel 插件
+
 ### [linuxmobile](https://github.com/linuxmobile)
 - 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes)
   > Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration.
+
+### [linxid](https://github.com/linxid)
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [NVlabs/OmniVinci](https://github.com/NVlabs/OmniVinci)
+  > OmniVinci is an omni-modal LLM for joint understanding of vision, audio, and language.
+
+### [lixeon](https://github.com/lixeon)
+- 🌟 👤 [lixeon](https://github.com/lixeon) Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+  > FinceptTerminal is a modern finance application offering advanced market analytics, investment resea...
 
 ### [luoyesiqiu](https://github.com/luoyesiqiu)
 - 🌟 👤 [luoyesiqiu](https://github.com/luoyesiqiu) Starred [DingTalk-Real-AI/dingtalk-openclaw-connector](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector)
@@ -237,6 +306,9 @@
 ### [mcxiaoke](https://github.com/mcxiaoke)
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator)
   > 视觉小说翻译器 / Visual Novel Translator
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [DylanDavis1/DSCourier](https://github.com/DylanDavis1/DSCourier)
 
 ### [mingheyan](https://github.com/mingheyan)
 - 🌟 👤 [mingheyan](https://github.com/mingheyan) Starred [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
@@ -266,6 +338,12 @@
 - 🌟 👤 [sotasan](https://github.com/sotasan) Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
   > Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [symgraph/GhidrAssistMCP](https://github.com/symgraph/GhidrAssistMCP)
+  > An MCP extension for Ghidra
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [mandiant/gopacket](https://github.com/mandiant/gopacket)
+  > Gopacket is a clean Go implementation of Impacket, a library intended for working with network proto...
+
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🌟 👤 [wszqkzqk](https://github.com/wszqkzqk) Starred [SPONGEMM/SPONGE](https://github.com/SPONGEMM/SPONGE)
   > Main Repository of SPONGE
@@ -288,6 +366,10 @@
 - 🍴 👤 [yhs0602](https://github.com/yhs0602) Forked [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) to [yhs0602/korean-law-mcp](https://github.com/yhs0602/korean-law-mcp)
   > 국가법령정보MCP | 법제처 41개 API → 16개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 + LLM 환각 방지 인용 검증 | 41 Korean legal ...
 
+### [yhy0](https://github.com/yhy0)
+- 🌟 👤 [yhy0](https://github.com/yhy0) Starred [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager)
+  > 🛰️ Represent any GraphQL API as an interactive graph
+
 ### [yuan-xy](https://github.com/yuan-xy)
 - 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [mikedh/trimesh](https://github.com/mikedh/trimesh)
   > Python library for loading and using triangular meshes.
@@ -302,5 +384,5 @@
 
 
 ---
-*最后更新于 2026-04-18 07:09:02 UTC*
+*最后更新于 2026-04-18 08:52:13 UTC*
 *历史记录保存在 `archive` 目录中。*
