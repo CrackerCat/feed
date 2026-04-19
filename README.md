@@ -16,6 +16,14 @@
 - 🍴 👤 [AVGirl](https://github.com/AVGirl) Forked [dragonkeep/GoAttack](https://github.com/dragonkeep/GoAttack) to [AVGirl/GoAttack](https://github.com/AVGirl/GoAttack)
   > GoAttack 是一款运用Go语言作为后端和Vue 3作为前端开发的现代化网络安全扫描分析平台。它被设计用于对标商业级漏洞扫描器，并提供一系列包括主机探测、端点梳理、资产测绘、漏扫POC验证和自动报...
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [hfiref0x/UPGDSED](https://github.com/hfiref0x/UPGDSED)
+  > Universal PatchGuard and Driver Signature Enforcement Disable
+
+### [Drun1baby](https://github.com/Drun1baby)
+- 🌟 👤 [Drun1baby](https://github.com/Drun1baby) Starred [oritera/Cairn](https://github.com/oritera/Cairn)
+  > AI 自动化通用问题解决 / AI 自动化渗透测试系统
+
 ### [Dump-GUY](https://github.com/Dump-GUY)
 - 🌟 👤 [Dump-GUY](https://github.com/Dump-GUY) Starred [hwbp/CLR-Unhook](https://github.com/hwbp/CLR-Unhook)
   > Modern security products (CrowdStrike, Bitdefender, SentinelOne, etc.) hook the nLoadImage function ...
@@ -48,6 +56,15 @@
 - 🌟 👤 [L4ys](https://github.com/L4ys) Starred [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)
   > 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol anal...
 
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
+### [Lil-Ran](https://github.com/Lil-Ran)
+- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [mizchi/moonbit-practice](https://github.com/mizchi/moonbit-practice)
+  > MoonBit best practices plugin for Claude Code
+- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [moonbit-community/setup-moonbit](https://github.com/moonbit-community/setup-moonbit)
+
 ### [Lz1y](https://github.com/Lz1y)
 - 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)
   > "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
@@ -56,13 +73,20 @@
 - 🌟 👤 [MolotovCherry](https://github.com/MolotovCherry) Starred [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
   > Free and open source manga reader for Android
 
+### [Monster-GM](https://github.com/Monster-GM)
+- 🌟 👤 [Monster-GM](https://github.com/Monster-GM) Starred [Thehepta/HideApk](https://github.com/Thehepta/HideApk)
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [intel/libipt](https://github.com/intel/libipt)
   > libipt - an Intel(R) Processor Trace decoder library
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [repnz/etw-providers-docs](https://github.com/repnz/etw-providers-docs)
+  > Document ETW providers
 
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [WeaponizedVSCode/Extension](https://github.com/WeaponizedVSCode/Extension)
   >  Weaponized VSCode Extensions 
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [upstash/context7](https://github.com/upstash/context7)
+  > Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [mineek/mineekck2](https://github.com/mineek/mineekck2)
@@ -85,6 +109,10 @@
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [MistyKuu/ZibStack.NET](https://github.com/MistyKuu/ZibStack.NET)
   > Zero-reflection .NET source generators: [Log] structured logging, [Trace] OpenTelemetry spans, [Aop]...
+
+### [TonyChen56](https://github.com/TonyChen56)
+- 🌟 👤 [TonyChen56](https://github.com/TonyChen56) Starred [lixiaolin94/skills](https://github.com/lixiaolin94/skills)
+  > Collection of AI agent skills for Claude Code
 
 ### [XIU2](https://github.com/XIU2)
 - 🌟 👤 [XIU2](https://github.com/XIU2) Starred [LiaoGuoYin/lixian.online](https://github.com/LiaoGuoYin/lixian.online)
@@ -120,6 +148,8 @@
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [waryas/WaryasSWHE](https://github.com/waryas/WaryasSWHE)
   > Usermode exploit to bypass any AC using a 0day shatter attack.
+- 🌟 👤 [codingsf](https://github.com/codingsf) Starred [cv-cat/DouYin_Spider](https://github.com/cv-cat/DouYin_Spider)
+  > 抖音逆向，抖音爬虫，抖音全部api、直播间监听
 
 ### [cyal1](https://github.com/cyal1)
 - 🌟 👤 [cyal1](https://github.com/cyal1) Starred [devsisters/libquic](https://github.com/devsisters/libquic)
@@ -153,9 +183,16 @@
 - 🍴 👤 [eltavine](https://github.com/eltavine) Forked [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) to [eltavine/PLFM_RADAR](https://github.com/eltavine/PLFM_RADAR)
   > Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 
+### [ergo720](https://github.com/ergo720)
+- 🌟 👤 [ergo720](https://github.com/ergo720) Starred [Cxbx-Reloaded/Cxbx-Reloaded](https://github.com/Cxbx-Reloaded/Cxbx-Reloaded)
+
 ### [erupmi](https://github.com/erupmi)
 - 🌟 👤 [erupmi](https://github.com/erupmi) Starred [elves/elvish](https://github.com/elves/elvish)
   > Powerful scripting language & versatile interactive shell
+
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
+  > Build your own AI SRE agents. The open source toolkit for the AI era ✨ 
 
 ### [fanzhidongyzby](https://github.com/fanzhidongyzby)
 - 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [camel-ai/halo](https://github.com/camel-ai/halo)
@@ -164,6 +201,22 @@
 ### [fawdlstty](https://github.com/fawdlstty)
 - 🌟 👤 [fawdlstty](https://github.com/fawdlstty) Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
   > Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+
+### [feicong](https://github.com/feicong)
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [colby57/VMP-Imports-Deobfuscator](https://github.com/colby57/VMP-Imports-Deobfuscator) to [feicong/VMP-Imports-Deobfuscator](https://github.com/feicong/VMP-Imports-Deobfuscator)
+  > VMProtect 2.x-3.x x64 Import Deobfuscator
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [ac3ss0r/cvm.h](https://github.com/ac3ss0r/cvm.h) to [feicong/cvm.h](https://github.com/feicong/cvm.h)
+  > CVM is a header-only turing-complete virtual machine engine made in pure C.
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [JonathanSalwan/VMProtect-devirtualization](https://github.com/JonathanSalwan/VMProtect-devirtualization) to [feicong/VMProtect-devirtualization](https://github.com/feicong/VMProtect-devirtualization)
+  > Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symb...
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [0xnobody/vmpattack](https://github.com/0xnobody/vmpattack) to [feicong/vmpattack](https://github.com/feicong/vmpattack)
+  > A VMP to VTIL lifter.
+- 🌟 👤 [feicong](https://github.com/feicong) Starred [mappu/miqt](https://github.com/mappu/miqt)
+  > MIT-licensed Qt bindings for Go
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [mappu/miqt](https://github.com/mappu/miqt) to [feicong/miqt](https://github.com/feicong/miqt)
+  > MIT-licensed Qt bindings for Go
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [pop-rip/vtil2](https://github.com/pop-rip/vtil2) to [feicong/vtil2](https://github.com/feicong/vtil2)
+  > VTIL2 is a ground-up reimagination of the VTIL Project, completely rewritten in modern C# with enter...
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
@@ -183,9 +236,15 @@
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
   > Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 
+### [gh0stkey](https://github.com/gh0stkey)
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [mnfst/manifest](https://github.com/mnfst/manifest)
+  > Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [manjustice/datadome-vm-internals](https://github.com/manjustice/datadome-vm-internals) to [gmh5225/datadome-vm-internals](https://github.com/gmh5225/datadome-vm-internals)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [KuwaitiSt/Astral_Projection](https://github.com/KuwaitiSt/Astral_Projection) to [gmh5225/Astral_Projection](https://github.com/gmh5225/Astral_Projection)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [apache/logging-log4j2](https://github.com/apache/logging-log4j2) to [gmh5225/logging-log4j2](https://github.com/gmh5225/logging-log4j2)
+  > Apache Log4j is a versatile, feature-rich, efficient logging API and backend for Java.
 
 ### [h3h3qaq](https://github.com/h3h3qaq)
 - 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [oritera/Cairn](https://github.com/oritera/Cairn)
@@ -235,6 +294,10 @@
 - 🌟 👤 [kmiit](https://github.com/kmiit) Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
   > Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 
+### [lqqyt2423](https://github.com/lqqyt2423)
+- 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [nashsu/Viral_Writer_Skill](https://github.com/nashsu/Viral_Writer_Skill)
+  >  基于 11 个内容洞见维度的自媒体创作 Skill，适用于各种智能体  给它一个主题，它给你一篇完整的文章、5 个备选标题、以及每张配图的生成 prompt。
+
 ### [luoyesiqiu](https://github.com/luoyesiqiu)
 - 🌟 👤 [luoyesiqiu](https://github.com/luoyesiqiu) Starred [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center)
   > Turn OpenClaw from a black box into a local control center you can see, trust, and control.
@@ -265,6 +328,10 @@
 ### [progmboy](https://github.com/progmboy)
 - 🌟 👤 [progmboy](https://github.com/progmboy) Starred [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)
   > 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol anal...
+
+### [pumPCin](https://github.com/pumPCin)
+- 🍴 👤 [pumPCin](https://github.com/pumPCin) Forked [KometTeam/Komet](https://github.com/KometTeam/Komet) to [pumPCin/Komet](https://github.com/pumPCin/Komet)
+  > Multifunctional Max client written in Dart / Мультифункциональный клиент Max написанный на Dart
 
 ### [qfrtt](https://github.com/qfrtt)
 - 🌟 👤 [qfrtt](https://github.com/qfrtt) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
@@ -309,6 +376,10 @@
 - 🌟 👤 [threedr3am](https://github.com/threedr3am) Starred [larksuite/cli](https://github.com/larksuite/cli)
   > The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents...
 
+### [wnxd](https://github.com/wnxd)
+- 🍴 👤 [wnxd](https://github.com/wnxd) Forked [VanillaNahida/Custom-UGC-Avatar](https://github.com/VanillaNahida/Custom-UGC-Avatar) to [wnxd/Custom-UGC-Avatar](https://github.com/wnxd/Custom-UGC-Avatar)
+  > 自定义原神千星奇域头像，基于接管拦截原神流量请求实现的全自动替换头像数据程序，添加了友好的图形化界面和头像编辑器，Fork自 @星渊清梦
+
 ### [wsxyeah](https://github.com/wsxyeah)
 - 🌟 👤 [wsxyeah](https://github.com/wsxyeah) Starred [monuk7735/mew-notch](https://github.com/monuk7735/mew-notch)
   > Make the Notches on newer Macs Useful!
@@ -322,5 +393,5 @@
 
 
 ---
-*最后更新于 2026-04-19 07:20:25 UTC*
+*最后更新于 2026-04-19 08:54:47 UTC*
 *历史记录保存在 `archive` 目录中。*
