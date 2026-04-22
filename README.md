@@ -208,6 +208,10 @@
 - 🌟 👤 [PabloCastellano](https://github.com/PabloCastellano) Starred [getsentry/sentry-mcp](https://github.com/getsentry/sentry-mcp)
   > An MCP server for interacting with Sentry via LLMs.
 
+### [PalmDevs](https://github.com/PalmDevs)
+- 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [developit/snarkdown](https://github.com/developit/snarkdown)
+  > :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
+
 ### [Pengrey](https://github.com/Pengrey)
 - 🚀 👤 [Pengrey](https://github.com/Pengrey) Made [Future-Sight-Group/kasper_spy](https://github.com/Future-Sight-Group/kasper_spy) public
   > PoC for native messaging hijacking for Kaspersky Protection extension
@@ -448,6 +452,10 @@
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [dchu917/ctx](https://github.com/dchu917/ctx)
   > Local context manager for Claude Code and Codex with workstreams, transcript binding, and branching.
 
+### [dr0op](https://github.com/dr0op)
+- 🌟 👤 [dr0op](https://github.com/dr0op) Starred [IgorKorkin/MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)
+  > MemoryRanger protects kernel data and code by running drivers and hosting data in isolated kernel en...
+
 ### [dstmath](https://github.com/dstmath)
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [guanxiaol/WindsurfPoolAPI](https://github.com/guanxiaol/WindsurfPoolAPI)
   > Multi-account pool proxy for Windsurf — 113+ models (Claude/GPT/Gemini/Grok/Kimi) via OpenAI & Anthr...
@@ -456,6 +464,7 @@
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [kulikov0/whitelist-bypass](https://github.com/kulikov0/whitelist-bypass)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [MuntashirAkon/libadb-android](https://github.com/MuntashirAkon/libadb-android)
   > ADB library for Android
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [browser-use/video-use](https://github.com/browser-use/video-use)
 
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [IgorKorkin/MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)
@@ -488,6 +497,12 @@
 - 🍴 👤 [everettjf](https://github.com/everettjf) Forked [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) to [everettjf/diagram-design](https://github.com/everettjf/diagram-design)
   > Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-...
 
+### [fei-ke](https://github.com/fei-ke)
+- 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit)
+  > The modern toolkit for building drag and drop interfaces
+- 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [a9gent/mindfs](https://github.com/a9gent/mindfs)
+  > Access your personal AI agents and workstation data anywhere, anytime through MindFS.
+
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [stephenschoettler/hermes-lcm](https://github.com/stephenschoettler/hermes-lcm)
   > Lossless Context Management plugin for Hermes Agent — DAG-based context engine that never loses a me...
@@ -501,6 +516,10 @@
   > The best-benchmarked open-source AI memory system. And it's free.
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
   > A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [AnyDSL/MimIR](https://github.com/AnyDSL/MimIR)
+  > MimIR is my Intermediate Representation
 
 ### [fynch3r](https://github.com/fynch3r)
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [Bwkyd/wexin-read-mcp](https://github.com/Bwkyd/wexin-read-mcp)
@@ -658,6 +677,10 @@
 - 🌟 👤 [lizhangqu](https://github.com/lizhangqu) Starred [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
   > Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → p...
 
+### [llsc12](https://github.com/llsc12)
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [elementary-swift/elementary](https://github.com/elementary-swift/elementary)
+  > A modern and efficient HTML rendering library - inspired by SwiftUI, built for the web.
+
 ### [lordidiot](https://github.com/lordidiot)
 - 🌟 👤 [lordidiot](https://github.com/lordidiot) Starred [pavlobu/deskreen](https://github.com/pavlobu/deskreen)
   > Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to s...
@@ -774,6 +797,10 @@
 ### [npjohnson](https://github.com/npjohnson)
 - 🍴 👤 [npjohnson](https://github.com/npjohnson) Forked [LineageOS/android_kernel_google_msm-4.14](https://github.com/LineageOS/android_kernel_google_msm-4.14) to [npjohnson/android_kernel_google_msm-4.14](https://github.com/npjohnson/android_kernel_google_msm-4.14)
 
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [imputnet/helium](https://github.com/imputnet/helium)
+  > Private, fast, and honest web browser
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [PhoenixHairpin/mcp-termux](https://github.com/PhoenixHairpin/mcp-termux)
   > MCP RE v7.0 — Android逆向工程一体化MCP服务器 | 73个工具 | stackplz eBPF + paradise内存 + radare2静态分析 | ARM64 Root
@@ -855,6 +882,9 @@
 - 🌟 👤 [s045pd](https://github.com/s045pd) Starred [NoOne-hub/JSReverser-MCP](https://github.com/NoOne-hub/JSReverser-MCP)
   > JSReverser-MCP 是一个面向 JavaScript 逆向分析的 MCP 工具，专门用于帮助开发者在真实浏览器环境中高效定位前端核心逻辑。它   将脚本检索、断点调试、函数 Hook、网络请...
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [YuKongA/JoyoseEdit](https://github.com/YuKongA/JoyoseEdit)
+
 ### [shomykohai](https://github.com/shomykohai)
 - 🌟 👤 [shomykohai](https://github.com/shomykohai) Starred [OxB0/MtkWiresharkProtocals](https://github.com/OxB0/MtkWiresharkProtocals)
   > Wireshark lua scripts for analyzing mtk protocals
@@ -866,6 +896,14 @@
 ### [sleepyG8](https://github.com/sleepyG8)
 - 🌟 👤 [sleepyG8](https://github.com/sleepyG8) Starred [teabound/rophi](https://github.com/teabound/rophi)
   > Injecting code by recompiling shellcode into a ROP chain.
+
+### [smx-smx](https://github.com/smx-smx)
+- 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [Burnt-o/CEER](https://github.com/Burnt-o/CEER)
+  > Halo CE Enemy Randomiser
+
+### [snowsnowsnows](https://github.com/snowsnowsnows)
+- 🌟 👤 [snowsnowsnows](https://github.com/snowsnowsnows) Starred [Colton1skees/Dna](https://github.com/Colton1skees/Dna)
+  > LLVM based static binary analysis framework 
 
 ### [ssfdust](https://github.com/ssfdust)
 - 🌟 👤 [ssfdust](https://github.com/ssfdust) Starred [sony-aufsehe/vagrant-libvirt](https://github.com/sony-aufsehe/vagrant-libvirt)
@@ -985,6 +1023,10 @@
 - 🍴 👤 [xbyl1234](https://github.com/xbyl1234) Forked [0xsdeo/AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker) to [xbyl1234/AntiDebug_Breaker](https://github.com/xbyl1234/AntiDebug_Breaker)
   > JavaScript Reverse Tools -- JS逆向工具
 
+### [xhz444](https://github.com/xhz444)
+- 🍴 👤 [xhz444](https://github.com/xhz444) Forked [cctv18/oppo_oplus_realme_sm8650](https://github.com/cctv18/oppo_oplus_realme_sm8650) to [xhz444/oppo_oplus_realme_sm8650](https://github.com/xhz444/oppo_oplus_realme_sm8650)
+  > An automatic kernel builder for Oppo/Oneplus/Realme Snapdragon sm8650 series in a completely new way...
+
 ### [xiaolai](https://github.com/xiaolai)
 - 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) to [xiaolai/claude-seo](https://github.com/xiaolai/claude-seo)
   > Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecraw...
@@ -1004,6 +1046,16 @@
   > Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to p...
 - 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [kangraemin/claude-inspector](https://github.com/kangraemin/claude-inspector) to [xiaolai/claude-inspector](https://github.com/xiaolai/claude-inspector)
   > Claude Code Prompt Mechanism Visualizer — Electron desktop app
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) to [xiaolai/oh-my-openagent](https://github.com/xiaolai/oh-my-openagent)
+  > omo; the best agent harness - previously oh-my-opencode
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) to [xiaolai/claude-code-best-practice](https://github.com/xiaolai/claude-code-best-practice)
+  > from vibe coding to agentic engineering - practice makes claude perfect
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) to [xiaolai/oh-my-claudecode](https://github.com/xiaolai/oh-my-claudecode)
+  > Teams-first Multi-agent orchestration for Claude Code
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) to [xiaolai/claude-howto](https://github.com/xiaolai/claude-howto)
+  > A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-pa...
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) to [xiaolai/claude-code-templates](https://github.com/xiaolai/claude-code-templates)
+  > CLI tool for configuring and monitoring Claude Code
 
 ### [xingfengwxx](https://github.com/xingfengwxx)
 - 🌟 👤 [xingfengwxx](https://github.com/xingfengwxx) Starred [android/skills](https://github.com/android/skills)
@@ -1061,11 +1113,15 @@
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [pandaadir05/snoop](https://github.com/pandaadir05/snoop)
   > A modern syscall tracer built on eBPF. Think strace, but with a real TUI, smart filters, TLS decrypt...
 
+### [zznop](https://github.com/zznop)
+- 🌟 👤 [zznop](https://github.com/zznop) Starred [idaholab/bn-st10-arch](https://github.com/idaholab/bn-st10-arch)
+  > Binary Ninja plugin adding C166/ST10 architecture support for embedded firmware. Enables accurate di...
+
 ### [zzzzfeng](https://github.com/zzzzfeng)
 - 🌟 👤 [zzzzfeng](https://github.com/zzzzfeng) Starred [aospbooks/aosp-internal-book](https://github.com/aospbooks/aosp-internal-book)
   > The book introduces the internal of AOSP
 
 
 ---
-*最后更新于 2026-04-22 17:02:01 UTC*
+*最后更新于 2026-04-22 19:14:14 UTC*
 *历史记录保存在 `archive` 目录中。*
