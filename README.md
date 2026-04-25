@@ -53,6 +53,10 @@
 - 🌟 👤 [NotRequiem](https://github.com/NotRequiem) Starred [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware)
   > Advanced VM detection library and tool
 
+### [Seyud](https://github.com/Seyud)
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [Miuzarte/ScrcpyForAndroid](https://github.com/Miuzarte/ScrcpyForAndroid)
+  > scrcpy android client
+
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [google/osv-scanner](https://github.com/google/osv-scanner)
   > Vulnerability scanner written in Go which uses the data provided by https://osv.dev
@@ -60,6 +64,10 @@
 ### [Super12138](https://github.com/Super12138)
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme)
   > Send files and folders anywhere in the world without storing in cloud - any size, any format, no acc...
+
+### [Tardis07](https://github.com/Tardis07)
+- 🍴 👤 [Tardis07](https://github.com/Tardis07) Forked [QuantumNous/new-api](https://github.com/QuantumNous/new-api) to [Tardis07/new-api-OTEL](https://github.com/Tardis07/new-api-OTEL)
+  > A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs int...
 
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [NdoleStudio/httpsms](https://github.com/NdoleStudio/httpsms)
@@ -121,6 +129,8 @@
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [Soul-AILab/SoulX-FlashHead](https://github.com/Soul-AILab/SoulX-FlashHead)
   > SoulX-FlashHead: A unified 1.3B-parameter framework designed for high-fidelity, infinite-length, and...
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown)
+  > macOS Quick Look extension for Markdown files.
 
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
@@ -177,15 +187,27 @@
 - 🌟 👤 [iswbm](https://github.com/iswbm) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [magiblot/tvision](https://github.com/magiblot/tvision)
+  > A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross...
+
 ### [k0mraid3](https://github.com/k0mraid3)
 - 🌟 👤 [k0mraid3](https://github.com/k0mraid3) Starred [basil00/WinDivert](https://github.com/basil00/WinDivert)
   > WinDivert: Windows Packet Divert
+
+### [konieshadow](https://github.com/konieshadow)
+- 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)
+  > Run Windows apps on 🐧 Linux with ✨ seamless integration
 
 ### [le31ei](https://github.com/le31ei)
 - 🌟 👤 [le31ei](https://github.com/le31ei) Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
   > A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - 🌟 👤 [le31ei](https://github.com/le31ei) Starred [aaronjmars/MiroShark](https://github.com/aaronjmars/MiroShark)
   > Simulate anything, for $1 & less than 10 min — Universal Swarm Intelligence Engine
+
+### [lizhangqu](https://github.com/lizhangqu)
+- 🌟 👤 [lizhangqu](https://github.com/lizhangqu) Starred [Loongphy/codex-auth](https://github.com/Loongphy/codex-auth)
+  > A CLI tool to switch and manage Codex accounts
 
 ### [lordidiot](https://github.com/lordidiot)
 - 🌟 👤 [lordidiot](https://github.com/lordidiot) Starred [Retera/WarsmashModEngine](https://github.com/Retera/WarsmashModEngine)
@@ -195,11 +217,17 @@
 - 🌟 👤 [madeye](https://github.com/madeye) Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
   > Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [whokilleddb/BeaconHTTPSniff](https://github.com/whokilleddb/BeaconHTTPSniff)
+  > Where are these payloads beaconing to?
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)
   > Token-efficient MCP adapter for Pi coding agent
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Swival/swival](https://github.com/Swival/swival)
   > A small, powerful, open-source CLI coding agent that works with open models.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zblurx/dploot](https://github.com/zblurx/dploot)
+  > DPAPI looting remotely and locally in Python
 
 ### [nfh994](https://github.com/nfh994)
 - 🌟 👤 [nfh994](https://github.com/nfh994) Starred [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)
@@ -249,12 +277,18 @@
 ### [the1812](https://github.com/the1812)
 - 🌟 👤 [the1812](https://github.com/the1812) Starred [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb)
 
+### [vipstone](https://github.com/vipstone)
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
+  > A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
 ### [xingguangcuican6666](https://github.com/xingguangcuican6666)
 - 🍴 👤 [xingguangcuican6666](https://github.com/xingguangcuican6666) Forked [nubia-sm8650-devs/nubia_sm8650_eng](https://github.com/nubia-sm8650-devs/nubia_sm8650_eng) to [xingguangcuican6666/nubia_sm8650_eng](https://github.com/xingguangcuican6666/nubia_sm8650_eng)
 
 ### [yhy0](https://github.com/yhy0)
 - 🌟 👤 [yhy0](https://github.com/yhy0) Starred [MasuRii/pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer)
   > Pi extension that optimizes RTK command rewriting and tool output compaction for the coding agent.
+- 🌟 👤 [yhy0](https://github.com/yhy0) Starred [wgpsec/AboutSecurity](https://github.com/wgpsec/AboutSecurity)
+  > Everything for pentest. | 渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论。
 
 ### [zacbre](https://github.com/zacbre)
 - 🌟 👤 [zacbre](https://github.com/zacbre) Starred [openai/whisper](https://github.com/openai/whisper)
@@ -270,5 +304,5 @@
 
 
 ---
-*最后更新于 2026-04-25 07:17:32 UTC*
+*最后更新于 2026-04-25 08:53:19 UTC*
 *历史记录保存在 `archive` 目录中。*
