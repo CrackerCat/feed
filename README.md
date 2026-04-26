@@ -16,6 +16,14 @@
 - 🌟 👤 [GangJust](https://github.com/GangJust) Starred [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground)
   > 基于 OpenAI gpt-image-2 接口的图片生成与编辑工具
 
+### [GaoYuCan](https://github.com/GaoYuCan)
+- 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli)
+  > ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+
+### [GermanAizek](https://github.com/GermanAizek)
+- 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [sal063/AC6_recomp](https://github.com/sal063/AC6_recomp)
+  > static Recomp of AC6 with Rexglue
+
 ### [HdShare](https://github.com/HdShare)
 - 🍴 👤 [HdShare](https://github.com/HdShare) Forked [JingMatrix/Vector](https://github.com/JingMatrix/Vector) to [HdShare/Vector](https://github.com/HdShare/Vector)
   > Modern Xposed Framework
@@ -31,9 +39,21 @@
 ### [Lake1059](https://github.com/Lake1059)
 - 🌟 👤 [Lake1059](https://github.com/Lake1059) Starred [columbina-main/kawaii-nrc-releases](https://github.com/columbina-main/kawaii-nrc-releases)
 
+### [Metatronxl](https://github.com/Metatronxl)
+- 🌟 👤 [Metatronxl](https://github.com/Metatronxl) Starred [chekusu/wanman](https://github.com/chekusu/wanman)
+  > wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human use...
+
+### [MikaCybertron](https://github.com/MikaCybertron)
+- 🌟 👤 [MikaCybertron](https://github.com/MikaCybertron) Starred [versx/iOSDyldIntegrityBypass](https://github.com/versx/iOSDyldIntegrityBypass)
+  > Guide and Tweak on how to bypass applications compiled with Integrity checks. Designed for Jailed Tw...
+
 ### [MlgmXyysd](https://github.com/MlgmXyysd)
 - 🌟 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Starred [tltangliang/open-HAT-PCIe](https://github.com/tltangliang/open-HAT-PCIe)
   > A boring board, converting the Pi's PCIe HAT into a PCIe x1 card. 
+
+### [Nero22k](https://github.com/Nero22k)
+- 🌟 👤 [Nero22k](https://github.com/Nero22k) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
+  > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
 
 ### [PalmDevs](https://github.com/PalmDevs)
 - 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor)
@@ -48,6 +68,9 @@
 ### [TUGOhost](https://github.com/TUGOhost)
 - 🌟 👤 [TUGOhost](https://github.com/TUGOhost) Starred [fukangwei/Japanese_Note](https://github.com/fukangwei/Japanese_Note)
   > 付康为的日语笔记
+
+### [TomAPU](https://github.com/TomAPU)
+- 🌟 👤 [TomAPU](https://github.com/TomAPU) Starred [isec-tugraz/KernelSnitch](https://github.com/isec-tugraz/KernelSnitch)
 
 ### [XiaoliChan](https://github.com/XiaoliChan)
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy)
@@ -106,10 +129,16 @@
   > Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, ...
 - 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
   > Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+  > "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui)
   > Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+
+### [iamr0s](https://github.com/iamr0s)
+- 🌟 👤 [iamr0s](https://github.com/iamr0s) Starred [iamr0s/InstallerX](https://github.com/iamr0s/InstallerX)
+  > A modern and functional Android app installer. (You know some birds are not meant to be caged, their...
 
 ### [jpillora](https://github.com/jpillora)
 - 🌟 👤 [jpillora](https://github.com/jpillora) Starred [teorth/erdosproblems](https://github.com/teorth/erdosproblems)
@@ -164,6 +193,12 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Sandermage/genesis-vllm-patches](https://github.com/Sandermage/genesis-vllm-patches)
   > Runtime monkey-patches + plugin for vLLM dev205+ — Qwen3.6-35B-A3B-FP8 hybrid GDN+MoE on NVIDIA Ampe...
 
+### [phith0n](https://github.com/phith0n)
+- 🌟 👤 [phith0n](https://github.com/phith0n) Starred [cloudwego/eino](https://github.com/cloudwego/eino)
+  > The ultimate LLM/AI application development framework in Go.
+- 🌟 👤 [phith0n](https://github.com/phith0n) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
+  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+
 ### [refgd](https://github.com/refgd)
 - 🍴 👤 [refgd](https://github.com/refgd) Forked [TheArtOfficial/ArtOfficialStudio](https://github.com/TheArtOfficial/ArtOfficialStudio) to [refgd/ArtOfficialStudio](https://github.com/refgd/ArtOfficialStudio)
 
@@ -183,6 +218,19 @@
 - 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [ErikSom/WarsmashModEngine](https://github.com/ErikSom/WarsmashModEngine)
   > An emulation engine to improve Warcraft III modding
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/restart-ida](https://github.com/milankovo/restart-ida)
+
+### [wsxyeah](https://github.com/wsxyeah)
+- 🌟 👤 [wsxyeah](https://github.com/wsxyeah) Starred [xataio/pgroll](https://github.com/xataio/pgroll)
+  > PostgreSQL zero-downtime migrations made easy
+- 🌟 👤 [wsxyeah](https://github.com/wsxyeah) Starred [postgrespro/zson](https://github.com/postgrespro/zson)
+  > ZSON is a PostgreSQL extension for transparent JSONB compression
+- 🌟 👤 [wsxyeah](https://github.com/wsxyeah) Starred [cybertec-postgresql/pg_timetable](https://github.com/cybertec-postgresql/pg_timetable)
+  > pg_timetable: Advanced scheduling for PostgreSQL
+- 🌟 👤 [wsxyeah](https://github.com/wsxyeah) Starred [orioledb/orioledb](https://github.com/orioledb/orioledb)
+  > OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked pro...
+
 ### [xhz444](https://github.com/xhz444)
 - 🌟 👤 [xhz444](https://github.com/xhz444) Starred [epicxafang/FsTimeSpoof-kpm](https://github.com/epicxafang/FsTimeSpoof-kpm)
   > 伪造文件和文件夹的修改时间 - KernelPatch 模块
@@ -196,10 +244,25 @@
   > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed ...
 - 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [upstash/context7](https://github.com/upstash/context7) to [xiaolai/context7](https://github.com/xiaolai/context7)
   > Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) to [xiaolai/ui-ux-pro-max-skill](https://github.com/xiaolai/ui-ux-pro-max-skill)
+  > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) to [xiaolai/claude-code-router](https://github.com/xiaolai/claude-code-router)
+  > Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact ...
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) to [xiaolai/visual-explainer](https://github.com/xiaolai/visual-explainer)
+  > Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, d...
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) to [xiaolai/Agent-Skills-for-Context-Engineering](https://github.com/xiaolai/Agent-Skills-for-Context-Engineering)
+  > A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and p...
+
+### [yehgdotnet](https://github.com/yehgdotnet)
+- 🌟 👤 [yehgdotnet](https://github.com/yehgdotnet) Starred [redrays-io/ABAP-Code-Scanner](https://github.com/redrays-io/ABAP-Code-Scanner)
+  > RedRays ABAP Code Analyzer: Open-Source Security Scanner for SAP ABAP
 
 ### [yhy0](https://github.com/yhy0)
 - 🌟 👤 [yhy0](https://github.com/yhy0) Starred [gh0stkey/opf-privacy-filter](https://github.com/gh0stkey/opf-privacy-filter)
   > Docker service for OpenAI Privacy Filter (PII redaction API)
+
+### [yichen115](https://github.com/yichen115)
+- 🌟 👤 [yichen115](https://github.com/yichen115) Starred [SeenamZaSodaSingha/UNIQLO_Akamai_TShirt_Base64](https://github.com/SeenamZaSodaSingha/UNIQLO_Akamai_TShirt_Base64)
 
 ### [yifengyou](https://github.com/yifengyou)
 - 🌟 👤 [yifengyou](https://github.com/yifengyou) Starred [Alicey0719/docker-POC_CVE-2024-1086](https://github.com/Alicey0719/docker-POC_CVE-2024-1086)
@@ -207,6 +270,10 @@
 ### [zenghongtu](https://github.com/zenghongtu)
 - 🌟 👤 [zenghongtu](https://github.com/zenghongtu) Starred [ljquan/opentu](https://github.com/ljquan/opentu)
   > 开放的AI应用平台
+- 🌟 👤 [zenghongtu](https://github.com/zenghongtu) Starred [rainnoon/oc-claw](https://github.com/rainnoon/oc-claw)
+  > A desktop pet that monitors your AI coding agents (OpenClaw, Claude Code, Codex, Cursor) in real tim...
+- 🌟 👤 [zenghongtu](https://github.com/zenghongtu) Starred [0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge)
+  > Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from ...
 
 ### [zer0def](https://github.com/zer0def)
 - 🌟 👤 [zer0def](https://github.com/zer0def) Starred [ZDoom/Raze](https://github.com/ZDoom/Raze)
@@ -221,5 +288,5 @@
 
 
 ---
-*最后更新于 2026-04-26 05:39:47 UTC*
+*最后更新于 2026-04-26 07:39:58 UTC*
 *历史记录保存在 `archive` 目录中。*
