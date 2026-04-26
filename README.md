@@ -4,12 +4,36 @@
 
 ## 今日动态
 
+### [DreamSoule](https://github.com/DreamSoule)
+- 🌟 👤 [DreamSoule](https://github.com/DreamSoule) Starred [daoqi/NTE-ai](https://github.com/daoqi/NTE-ai)
+  > NTE异环薄荷aiNeverness to Everness
+
+### [FldBudin](https://github.com/FldBudin)
+- 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [Cranot/super-hermes](https://github.com/Cranot/super-hermes)
+  > Skills that teach Hermes Agent to write its own analytical prompts
+
+### [GangJust](https://github.com/GangJust)
+- 🌟 👤 [GangJust](https://github.com/GangJust) Starred [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground)
+  > 基于 OpenAI gpt-image-2 接口的图片生成与编辑工具
+
 ### [HdShare](https://github.com/HdShare)
 - 🍴 👤 [HdShare](https://github.com/HdShare) Forked [JingMatrix/Vector](https://github.com/JingMatrix/Vector) to [HdShare/Vector](https://github.com/HdShare/Vector)
   > Modern Xposed Framework
 
+### [Konano](https://github.com/Konano)
+- 🌟 👤 [Konano](https://github.com/Konano) Starred [zersh01/iptables_interactive_scheme](https://github.com/zersh01/iptables_interactive_scheme)
+  > Interactive scheme iptables
+
+### [Kwansy98](https://github.com/Kwansy98)
+- 🍴 👤 [Kwansy98](https://github.com/Kwansy98) Forked [Oxygen1a1/InfinityHook_latest](https://github.com/Oxygen1a1/InfinityHook_latest) to [Kwansy98/InfinityHook_latest](https://github.com/Kwansy98/InfinityHook_latest)
+  > etw hook (syscall/infinity hook) compatible with the latest Windows version of PG
+
 ### [Lake1059](https://github.com/Lake1059)
 - 🌟 👤 [Lake1059](https://github.com/Lake1059) Starred [columbina-main/kawaii-nrc-releases](https://github.com/columbina-main/kawaii-nrc-releases)
+
+### [MlgmXyysd](https://github.com/MlgmXyysd)
+- 🌟 👤 [MlgmXyysd](https://github.com/MlgmXyysd) Starred [tltangliang/open-HAT-PCIe](https://github.com/tltangliang/open-HAT-PCIe)
+  > A boring board, converting the Pi's PCIe HAT into a PCIe x1 card. 
 
 ### [PalmDevs](https://github.com/PalmDevs)
 - 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor)
@@ -25,28 +49,89 @@
 - 🌟 👤 [TUGOhost](https://github.com/TUGOhost) Starred [fukangwei/Japanese_Note](https://github.com/fukangwei/Japanese_Note)
   > 付康为的日语笔记
 
+### [XiaoliChan](https://github.com/XiaoliChan)
+- 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy)
+  > Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code an...
+
 ### [ZehMatt](https://github.com/ZehMatt)
 - 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [arajay/7d2d](https://github.com/arajay/7d2d)
   > 7 Days to Die: Mod Collection and Custom Modlets
+
+### [andy0andy](https://github.com/andy0andy)
+- 🌟 👤 [andy0andy](https://github.com/andy0andy) Starred [715494637/reverse-skill](https://github.com/715494637/reverse-skill)
+  > 面向 Web JS 逆向分析的技能仓库，覆盖请求链定位、运行时诊断、AST 混淆恢复、JSVMP、worker、WASM、webpack/runtime 与协议语义分析。
+- 🌟 👤 [andy0andy](https://github.com/andy0andy) Starred [lwjjike/xbsReverseSkill](https://github.com/lwjjike/xbsReverseSkill)
+  > Ai逆向的skill目录
+- 🌟 👤 [andy0andy](https://github.com/andy0andy) Starred [openai/openai-agents-python](https://github.com/openai/openai-agents-python)
+  > A lightweight, powerful framework for multi-agent workflows
 
 ### [aooiuu](https://github.com/aooiuu)
 - 🌟 👤 [aooiuu](https://github.com/aooiuu) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
   > A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project...
 
+### [chenjiandongx](https://github.com/chenjiandongx)
+- 🌟 👤 [chenjiandongx](https://github.com/chenjiandongx) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
+  > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
+
 ### [darbra](https://github.com/darbra)
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api)
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [worldwonderer/oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode)
+  > 网络小说创作工具箱 — 7 个 Claude Code skill，覆盖长篇与短篇网文的扫榜、拆文、写作全流程
 
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [DimaReverse/nuitka-static-unpacker](https://github.com/DimaReverse/nuitka-static-unpacker)
   > Nuitka Static Unpacker — a static-first research tool for analyzing Nuitka-compiled binaries (consta...
 
+### [feicong](https://github.com/feicong)
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [Rust-for-Linux/rust-out-of-tree-module](https://github.com/Rust-for-Linux/rust-out-of-tree-module) to [feicong/rust-out-of-tree-module](https://github.com/feicong/rust-out-of-tree-module)
+  > Basic template for an out-of-tree Linux kernel module written in Rust.
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) to [fengjixuchui/agent-skills](https://github.com/fengjixuchui/agent-skills)
+  > Production-grade engineering skills for AI coding agents.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [KNSoft/ClawSandbox](https://github.com/KNSoft/ClawSandbox) to [fengjixuchui/ClawSandbox](https://github.com/fengjixuchui/ClawSandbox)
+  > Kernel-mode sandbox for OpenClaw
+
+### [gmh5225](https://github.com/gmh5225)
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [pooler/cpuminer](https://github.com/pooler/cpuminer)
+  > CPU miner for Litecoin and Bitcoin
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [pooler/cpuminer](https://github.com/pooler/cpuminer) to [gmh5225/cpuminer](https://github.com/gmh5225/cpuminer)
+  > CPU miner for Litecoin and Bitcoin
+
+### [h3h3qaq](https://github.com/h3h3qaq)
+- 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [chunxue-ai/cc-archive](https://github.com/chunxue-ai/cc-archive)
+
+### [happydog-intj](https://github.com/happydog-intj)
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)
+  > Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, ...
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+  > Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
+
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui)
   > Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 
+### [jpillora](https://github.com/jpillora)
+- 🌟 👤 [jpillora](https://github.com/jpillora) Starred [teorth/erdosproblems](https://github.com/teorth/erdosproblems)
+  > A community database for the problems on the erdosproblems.com site
+
 ### [kasnria001](https://github.com/kasnria001)
 - 🌟 👤 [kasnria001](https://github.com/kasnria001) Starred [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)
   > A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windo...
+
+### [kost](https://github.com/kost)
+- 🌟 👤 [kost](https://github.com/kost) Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
+  > Desktop app to manage markdown knowledge bases
+- 🌟 👤 [kost](https://github.com/kost) Starred [google/skills](https://github.com/google/skills)
+  > Agent Skills for Google products and technologies
+- 🌟 👤 [kost](https://github.com/kost) Starred [trustedsec/SysmonCommunityGuide](https://github.com/trustedsec/SysmonCommunityGuide)
+  > TrustedSec Sysinternals Sysmon Community Guide
+- 🌟 👤 [kost](https://github.com/kost) Starred [jfmaes/claude-ai-re-client](https://github.com/jfmaes/claude-ai-re-client)
+  > Reverse‑engineered Claude AI's HTTPS completion API to build a free, API‑less CLI client. Modify pro...
+
+### [leleliu008](https://github.com/leleliu008)
+- 🌟 👤 [leleliu008](https://github.com/leleliu008) Starred [ezrosent/frawk](https://github.com/ezrosent/frawk)
+  > an efficient awk-like language
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [Caladog/HeyGem](https://github.com/Caladog/HeyGem)
@@ -57,6 +142,12 @@
 ### [luckyzyx](https://github.com/luckyzyx)
 - 🌟 👤 [luckyzyx](https://github.com/luckyzyx) Starred [iCurrer/OMaster](https://github.com/iCurrer/OMaster)
   > 每次想拍出满意的照片，却要在互联网的海量信息里像大海捞针一样搜索参数，OMaster 为你打造了一个界面简洁清爽的平台，所有数据都一目了然，让你轻松告别参数焦虑
+
+### [luoyesiqiu](https://github.com/luoyesiqiu)
+- 🌟 👤 [luoyesiqiu](https://github.com/luoyesiqiu) Starred [taisuii/rusda](https://github.com/taisuii/rusda)
+  > 对frida 的patch，产物可直接下载Release
+- 🌟 👤 [luoyesiqiu](https://github.com/luoyesiqiu) Starred [prompt-security/ps-fuzz](https://github.com/prompt-security/ps-fuzz)
+  > Make your GenAI Apps Safe & Secure :rocket: Test & harden your system prompt
 
 ### [m4ll0k](https://github.com/m4ll0k)
 - 🌟 👤 [m4ll0k](https://github.com/m4ll0k) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
@@ -130,5 +221,5 @@
 
 
 ---
-*最后更新于 2026-04-26 02:46:38 UTC*
+*最后更新于 2026-04-26 05:39:47 UTC*
 *历史记录保存在 `archive` 目录中。*
