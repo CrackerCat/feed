@@ -7,6 +7,12 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [HexRaysSA/ida-cyberchef](https://github.com/HexRaysSA/ida-cyberchef)
   > A Qt-based CyberChef interface designed for malware analysis workflows, particularly in IDA Pro
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [corelan/mona3](https://github.com/corelan/mona3)
+  > Repository for mona v3 - Corelan's exploit dev tool for Windbg, WindbgX etc
+
+### [1c7](https://github.com/1c7)
+- 🌟 👤 [1c7](https://github.com/1c7) Starred [stripe/stripe-cli](https://github.com/stripe/stripe-cli)
+  > A command-line tool for Stripe
 
 ### [1orz](https://github.com/1orz)
 - 🍴 👤 [1orz](https://github.com/1orz) Forked [anasfanani/magisk-tailscaled](https://github.com/anasfanani/magisk-tailscaled) to [1orz/magisk-tailscaled-fork](https://github.com/1orz/magisk-tailscaled-fork)
@@ -18,6 +24,10 @@
 - 🍴 👤 [1orz](https://github.com/1orz) Forked [ArchChen1/Magisk-Tailscaled-GUI](https://github.com/ArchChen1/Magisk-Tailscaled-GUI) to [1orz/Magisk-Tailscaled-GUI-fork](https://github.com/1orz/Magisk-Tailscaled-GUI-fork)
   > 为 Magisk-Tailscaled 提供图形化控制界面和 TailDrop 功能的应用软件
 
+### [AEnjoy](https://github.com/AEnjoy)
+- 🌟 👤 [AEnjoy](https://github.com/AEnjoy) Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+  > A powerful little TUI framework 🏗
+
 ### [Angelic47](https://github.com/Angelic47)
 - 🌟 👤 [Angelic47](https://github.com/Angelic47) Starred [ssp97/SakuhamioDiskInfo-MP](https://github.com/ssp97/SakuhamioDiskInfo-MP)
 
@@ -26,6 +36,8 @@
   > 跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具
 - 🌟 👤 [Ar3h](https://github.com/Ar3h) Starred [oritera/Cairn](https://github.com/oritera/Cairn)
   > AI 自动化通用问题解决 / AI 自动化渗透测试系统
+- 🌟 👤 [Ar3h](https://github.com/Ar3h) Starred [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+  > Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, explo...
 
 ### [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut)
 - 🌟 👤 [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut) Starred [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su)
@@ -150,6 +162,10 @@
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs)
   > Video discussing this curriculum:
 
+### [Solaree](https://github.com/Solaree)
+- 🌟 👤 [Solaree](https://github.com/Solaree) Starred [SuperteamDAO/earn](https://github.com/SuperteamDAO/earn)
+  > An open source platform connecting crypto founders with elite talent to create bounties, and acceler...
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [codeganesh/BlazorScreenRecorder](https://github.com/codeganesh/BlazorScreenRecorder)
   > A simple screen recorder app in Blazor
@@ -161,6 +177,10 @@
 ### [TomKing062](https://github.com/TomKing062)
 - 🌟 👤 [TomKing062](https://github.com/TomKing062) Starred [TransWithAI/Faster-Whisper-TransWithAI-ChickenRice](https://github.com/TransWithAI/Faster-Whisper-TransWithAI-ChickenRice)
 
+### [TonyChen56](https://github.com/TonyChen56)
+- 🌟 👤 [TonyChen56](https://github.com/TonyChen56) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+  > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
+
 ### [Udyz](https://github.com/Udyz)
 - 🌟 👤 [Udyz](https://github.com/Udyz) Starred [adepierre/SniffCraft](https://github.com/adepierre/SniffCraft)
   > C++ program to capture and display all traffic between a client and a server in minecraft
@@ -168,6 +188,7 @@
 ### [WAY29](https://github.com/WAY29)
 - 🌟 👤 [WAY29](https://github.com/WAY29) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
   > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
+- 🌟 👤 [WAY29](https://github.com/WAY29) Starred [evoiz/Agentic-Design-Patterns](https://github.com/evoiz/Agentic-Design-Patterns)
 
 ### [X1r0z](https://github.com/X1r0z)
 - 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)
@@ -184,6 +205,10 @@
 - 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
 
+### [aviraxp](https://github.com/aviraxp)
+- 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [ka-pi-ba-la/AIbijia](https://github.com/ka-pi-ba-la/AIbijia)
+  > 分享便宜靠谱Token，抹平信息差
+
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
   > Coding agent for DeepSeek models that runs in your terminal
@@ -191,6 +216,10 @@
 ### [binary-husky](https://github.com/binary-husky)
 - 🍴 👤 [binary-husky](https://github.com/binary-husky) Forked [anomalyco/opencode](https://github.com/anomalyco/opencode) to [binary-husky/opencode](https://github.com/binary-husky/opencode)
   > The open source coding agent.
+
+### [blanboom](https://github.com/blanboom)
+- 🍴 👤 [blanboom](https://github.com/blanboom) Forked [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) to [blanboom/App-Store-Connect-CLI](https://github.com/blanboom/App-Store-Connect-CLI)
+  > Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signin...
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [microsoft/pyright](https://github.com/microsoft/pyright)
@@ -235,6 +264,10 @@
   > A pykd maintenance fork
 - 🍴 👤 [gerhart01](https://github.com/gerhart01) Forked [ivellioscolin/pykd-ext](https://github.com/ivellioscolin/pykd-ext) to [gerhart01/pykd-ext](https://github.com/gerhart01/pykd-ext)
   > A pykd-ext maintenance fork
+
+### [gh0stkey](https://github.com/gh0stkey)
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+  > Coding Agent Harness
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) to [gmh5225/DeepSeek-TUI](https://github.com/gmh5225/DeepSeek-TUI)
@@ -286,6 +319,10 @@
 - 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research)
   > "Your Fully-Automated Personal AI Assistant"
 
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [PolarisOffice/polaris_dvc](https://github.com/PolarisOffice/polaris_dvc)
+  > Rust로 포팅한 Hancom DVC
+
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [NVIDIA-RTX/RTXPT](https://github.com/NVIDIA-RTX/RTXPT) to [hzqst/RTXPT-fork](https://github.com/hzqst/RTXPT-fork)
   > Real-time path tracing library and sample
@@ -333,6 +370,8 @@
   > GitHub Agentic Workflows
 - 🌟 👤 [jmpews](https://github.com/jmpews) Starred [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus)
   > Codex++ tweak system for the Codex desktop app
+- 🌟 👤 [jmpews](https://github.com/jmpews) Starred [CarlosHuyghusrl/facturaia-ocr](https://github.com/CarlosHuyghusrl/facturaia-ocr)
+  > FacturaIA - Backend Go para OCR de facturas con Claude Opus 4.5 via CLIProxyAPI
 
 ### [konieshadow](https://github.com/konieshadow)
 - 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
@@ -349,6 +388,8 @@
 ### [llsc12](https://github.com/llsc12)
 - 🌟 👤 [llsc12](https://github.com/llsc12) Starred [apple/swift-crypto](https://github.com/apple/swift-crypto)
   > Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use o...
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [ticohq/tico](https://github.com/ticohq/tico)
+  > The first custom emulation frontend for Nintendo Switch — a controller-first, native C++ interface d...
 
 ### [lqqyt2423](https://github.com/lqqyt2423)
 - 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [soxoj/maigret](https://github.com/soxoj/maigret)
@@ -373,6 +414,10 @@
 ### [moyada](https://github.com/moyada)
 - 🌟 👤 [moyada](https://github.com/moyada) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
   > Write HTML. Render video. Built for agents.
+
+### [mzfr](https://github.com/mzfr)
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [mediar-ai/terminator](https://github.com/mediar-ai/terminator)
+  > playwright for windows computer use 
 
 ### [nblog](https://github.com/nblog)
 - 🌟 👤 [nblog](https://github.com/nblog) Starred [dotnet/skills](https://github.com/dotnet/skills)
@@ -403,6 +448,10 @@
 ### [raesene](https://github.com/raesene)
 - 🌟 👤 [raesene](https://github.com/raesene) Starred [Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC](https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC)
 
+### [redbearder](https://github.com/redbearder)
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [openai/symphony](https://github.com/openai/symphony)
+  > Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage ...
+
 ### [safe6Sec](https://github.com/safe6Sec)
 - 🌟 👤 [safe6Sec](https://github.com/safe6Sec) Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
   > FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L...
@@ -412,6 +461,9 @@
 ### [sandyz987](https://github.com/sandyz987)
 - 🌟 👤 [sandyz987](https://github.com/sandyz987) Starred [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
   > MCP for xiaohongshu.com
+
+### [sgnls](https://github.com/sgnls)
+- 🌟 👤 [sgnls](https://github.com/sgnls) Starred [wh1te4ever/super-tart-vphone-writeup](https://github.com/wh1te4ever/super-tart-vphone-writeup)
 
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [pnpm/pacquet](https://github.com/pnpm/pacquet)
@@ -448,6 +500,10 @@
 - 🍴 👤 [virjar](https://github.com/virjar) Forked [virjar/team-talk](https://github.com/virjar/team-talk) to [yint-tech/team-talk-iinti](https://github.com/yint-tech/team-talk-iinti)
   > 团队协作沟通软件，打算做成开源免费的钉钉/飞书，预期使用5年时间完成这个巨大的目标。
 
+### [wainshine](https://github.com/wainshine)
+- 🚀 👤 [wainshine](https://github.com/wainshine) Made [wainshine/dict_build_py](https://github.com/wainshine/dict_build_py) public
+- 🌟 👤 [wainshine](https://github.com/wainshine) Starred [wainshine/dict_build_py](https://github.com/wainshine/dict_build_py)
+
 ### [wishihab](https://github.com/wishihab)
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security)
   > 🚗  A curated list of resources for learning about vehicle security and car hacking.
@@ -478,5 +534,5 @@
 
 
 ---
-*最后更新于 2026-05-01 13:19:03 UTC*
+*最后更新于 2026-05-01 14:55:29 UTC*
 *历史记录保存在 `archive` 目录中。*
