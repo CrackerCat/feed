@@ -8,6 +8,25 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [HexRaysSA/ida-cyberchef](https://github.com/HexRaysSA/ida-cyberchef)
   > A Qt-based CyberChef interface designed for malware analysis workflows, particularly in IDA Pro
 
+### [1orz](https://github.com/1orz)
+- 🍴 👤 [1orz](https://github.com/1orz) Forked [anasfanani/magisk-tailscaled](https://github.com/anasfanani/magisk-tailscaled) to [1orz/magisk-tailscaled-fork](https://github.com/1orz/magisk-tailscaled-fork)
+  > Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way...
+- 🌟 👤 [1orz](https://github.com/1orz) Starred [anasfanani/tailscale-android-cli](https://github.com/anasfanani/tailscale-android-cli)
+  > Tailscale build for android cli (termux/shell) with enabled ssh access.
+- 🍴 👤 [1orz](https://github.com/1orz) Forked [anasfanani/tailscale-android-cli](https://github.com/anasfanani/tailscale-android-cli) to [1orz/tailscale-android-cli-fork](https://github.com/1orz/tailscale-android-cli-fork)
+  > Tailscale build for android cli (termux/shell) with enabled ssh access.
+- 🍴 👤 [1orz](https://github.com/1orz) Forked [ArchChen1/Magisk-Tailscaled-GUI](https://github.com/ArchChen1/Magisk-Tailscaled-GUI) to [1orz/Magisk-Tailscaled-GUI-fork](https://github.com/1orz/Magisk-Tailscaled-GUI-fork)
+  > 为 Magisk-Tailscaled 提供图形化控制界面和 TailDrop 功能的应用软件
+
+### [Angelic47](https://github.com/Angelic47)
+- 🌟 👤 [Angelic47](https://github.com/Angelic47) Starred [ssp97/SakuhamioDiskInfo-MP](https://github.com/ssp97/SakuhamioDiskInfo-MP)
+
+### [Ar3h](https://github.com/Ar3h)
+- 🌟 👤 [Ar3h](https://github.com/Ar3h) Starred [wux1an/wxapkg](https://github.com/wux1an/wxapkg)
+  > 跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具
+- 🌟 👤 [Ar3h](https://github.com/Ar3h) Starred [oritera/Cairn](https://github.com/oritera/Cairn)
+  > AI 自动化通用问题解决 / AI 自动化渗透测试系统
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [DOS-History/Paterson-Listings](https://github.com/DOS-History/Paterson-Listings)
   > Transcription of Tim Paterson's DOS printouts.
@@ -55,6 +74,10 @@
 - 🌟 👤 [Metatronxl](https://github.com/Metatronxl) Starred [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
   > Coding agent for DeepSeek models that runs in your terminal
 
+### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
+- 🍴 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Forked [PaperMC/website](https://github.com/PaperMC/website) to [Colorful-Palette/CWS-website](https://github.com/Colorful-Palette/CWS-website)
+  > The PaperMC website
+
 ### [NewYoungCode](https://github.com/NewYoungCode)
 - 🌟 👤 [NewYoungCode](https://github.com/NewYoungCode) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
@@ -74,6 +97,8 @@
   > 📊 Check your GitHub rating, view results and enhance your profile quality.
 - 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [PranavPurwar/javac-android](https://github.com/PranavPurwar/javac-android)
   > Ported JDK compiler for android runtime
+- 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap)
+  > Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreet...
 
 ### [Prslc](https://github.com/Prslc)
 - 🌟 👤 [Prslc](https://github.com/Prslc) Starred [AlexLiuDev233/StopVintf](https://github.com/AlexLiuDev233/StopVintf)
@@ -123,6 +148,10 @@
 - 🍴 👤 [binary-husky](https://github.com/binary-husky) Forked [anomalyco/opencode](https://github.com/anomalyco/opencode) to [binary-husky/opencode](https://github.com/binary-husky/opencode)
   > The open source coding agent.
 
+### [cristianadam](https://github.com/cristianadam)
+- 🍴 👤 [cristianadam](https://github.com/cristianadam) Forked [ryanmcdermott/markus](https://github.com/ryanmcdermott/markus) to [cristianadam/markus](https://github.com/cristianadam/markus)
+  > Vibe Coded Single Header Markdown Parser
+
 ### [darkskygit](https://github.com/darkskygit)
 - 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [kittors/CliRelay](https://github.com/kittors/CliRelay)
   > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claud...
@@ -136,8 +165,24 @@
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [Automations-Project/VSCode-Perplexity-MCP](https://github.com/Automations-Project/VSCode-Perplexity-MCP)
   > Perplexity AI search, reasoning, research, and compute - MCP server, dashboard, and multi-IDE auto-c...
 
+### [easychen](https://github.com/easychen)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [YGYOOO/WorldX](https://github.com/YGYOOO/WorldX)
+  > One sentence creates an AI-driven world — generate maps, characters, and watch stories emerge on the...
+
+### [eltavine](https://github.com/eltavine)
+- 🌟 👤 [eltavine](https://github.com/eltavine) Starred [Chevey339/kelivo](https://github.com/Chevey339/kelivo)
+  > A Flutter LLM Chat Client. Support Mobile & Desktop.
+- 🍴 👤 [eltavine](https://github.com/eltavine) Forked [Chevey339/kelivo](https://github.com/Chevey339/kelivo) to [eltavine/Yurimashi-Client](https://github.com/eltavine/Yurimashi-Client)
+  > A Flutter LLM Chat Client. Support Mobile & Desktop.
+
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [jrainlau/himi-recorder](https://github.com/jrainlau/himi-recorder)
+
+### [gerhart01](https://github.com/gerhart01)
+- 🍴 👤 [gerhart01](https://github.com/gerhart01) Forked [ivellioscolin/pykd](https://github.com/ivellioscolin/pykd) to [gerhart01/pykd](https://github.com/gerhart01/pykd)
+  > A pykd maintenance fork
+- 🍴 👤 [gerhart01](https://github.com/gerhart01) Forked [ivellioscolin/pykd-ext](https://github.com/ivellioscolin/pykd-ext) to [gerhart01/pykd-ext](https://github.com/gerhart01/pykd-ext)
+  > A pykd-ext maintenance fork
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) to [gmh5225/DeepSeek-TUI](https://github.com/gmh5225/DeepSeek-TUI)
@@ -182,6 +227,10 @@
   > 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 - 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar)
   > Semi-automated research assistant for academic research and software development. Supports Claude Co...
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [huggingface/datasets](https://github.com/huggingface/datasets)
+  > 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data m...
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
+  > A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts,...
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [NVIDIA-RTX/RTXPT](https://github.com/NVIDIA-RTX/RTXPT) to [hzqst/RTXPT-fork](https://github.com/hzqst/RTXPT-fork)
@@ -203,9 +252,14 @@
 - 🌟 👤 [j3ssie](https://github.com/j3ssie) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
+### [je5442804](https://github.com/je5442804)
+- 🌟 👤 [je5442804](https://github.com/je5442804) Starred [SilentisVox/DoomSyscalls](https://github.com/SilentisVox/DoomSyscalls)
+  > Clean Indirect Syscalls with Hook Evasion & Return Address Spoofing.
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [DOS-History/Paterson-Listings](https://github.com/DOS-History/Paterson-Listings)
   > Transcription of Tim Paterson's DOS printouts.
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
 
 ### [jingyaogong](https://github.com/jingyaogong)
 - 🌟 👤 [jingyaogong](https://github.com/jingyaogong) Starred [jingyaogong/minimind-o](https://github.com/jingyaogong/minimind-o)
@@ -218,6 +272,8 @@
 ### [jmpews](https://github.com/jmpews)
 - 🌟 👤 [jmpews](https://github.com/jmpews) Starred [github/gh-aw](https://github.com/github/gh-aw)
   > GitHub Agentic Workflows
+- 🌟 👤 [jmpews](https://github.com/jmpews) Starred [b-nnett/codex-plusplus](https://github.com/b-nnett/codex-plusplus)
+  > Codex++ tweak system for the Codex desktop app
 
 ### [konieshadow](https://github.com/konieshadow)
 - 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
@@ -226,6 +282,10 @@
 ### [kurogai](https://github.com/kurogai)
 - 🌟 👤 [kurogai](https://github.com/kurogai) Starred [mr-foxxo/vibe-os](https://github.com/mr-foxxo/vibe-os)
   > Um sistema operacional totalmente vibe coded, ou melhor, vibe mas com muitas patas e mãos no código....
+
+### [kylesmile1103](https://github.com/kylesmile1103)
+- 🌟 👤 [kylesmile1103](https://github.com/kylesmile1103) Starred [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)
+  > DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-co...
 
 ### [llsc12](https://github.com/llsc12)
 - 🌟 👤 [llsc12](https://github.com/llsc12) Starred [apple/swift-crypto](https://github.com/apple/swift-crypto)
@@ -243,6 +303,10 @@
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [1bananachicken/MaaNTE](https://github.com/1bananachicken/MaaNTE)
   > MAA异环小助手，由MAAFramework强力驱动！QQ交流群：1103323319
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ThatTotallyRealMyth/Impacket-IoCs](https://github.com/ThatTotallyRealMyth/Impacket-IoCs)
+  > This repo contains the results of an internal re-write of impacket I undertook at my current company...
+
 ### [moyada](https://github.com/moyada)
 - 🌟 👤 [moyada](https://github.com/moyada) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
   > Write HTML. Render video. Built for agents.
@@ -254,6 +318,10 @@
 ### [poorevil](https://github.com/poorevil)
 - 🌟 👤 [poorevil](https://github.com/poorevil) Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
   > Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+
+### [qazbnm456](https://github.com/qazbnm456)
+- 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent)
+  > Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
 
 ### [qi4L](https://github.com/qi4L)
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
@@ -293,6 +361,10 @@
 ### [su-vikas](https://github.com/su-vikas)
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [provos/ironcurtain](https://github.com/provos/ironcurtain)
   > A secure* runtime for autonomous AI agents. Policy from plain-English constitutions. (*https://ironc...
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [enovella/TEE-reversing](https://github.com/enovella/TEE-reversing)
+  >  A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted cod...
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)
+  > macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can...
 
 ### [t-wy](https://github.com/t-wy)
 - 🌟 👤 [t-wy](https://github.com/t-wy) Starred [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore)
@@ -331,5 +403,5 @@
 
 
 ---
-*最后更新于 2026-05-01 09:00:35 UTC*
+*最后更新于 2026-05-01 11:05:51 UTC*
 *历史记录保存在 `archive` 目录中。*
