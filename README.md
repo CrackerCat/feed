@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [34306](https://github.com/34306)
+- 🌟 👤 [34306](https://github.com/34306) Starred [dabeecao/telecloud-go](https://github.com/dabeecao/telecloud-go)
+  > TeleCloud is a project that allows the use of Telegram's virtually unlimited storage capacity to sto...
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [chenxiaolong/MSD](https://github.com/chenxiaolong/MSD)
   > Android app for emulating mass storage devices over USB
@@ -35,10 +39,16 @@
 ### [Gracker](https://github.com/Gracker)
 - 🌟 👤 [Gracker](https://github.com/Gracker) Starred [Gracker/perfetto](https://github.com/Gracker/perfetto)
   > Production-grade client-side tracing, profiling, and analysis for complex software systems.
+- 🍴 👤 [Gracker](https://github.com/Gracker) Forked [nexu-io/open-design](https://github.com/nexu-io/open-design) to [Gracker/open-design](https://github.com/Gracker/open-design)
+  > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
 
 ### [LoseNine](https://github.com/LoseNine)
 - 🌟 👤 [LoseNine](https://github.com/LoseNine) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
   > The headless browser for AI agents and web scraping
+
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [Imacolombian346/gunyah-script](https://github.com/Imacolombian346/gunyah-script)
+  > Backup and save and run script for the gunyah VM to make your life easier when running the VM.
 
 ### [Nep-Timeline](https://github.com/Nep-Timeline)
 - 🚀 👤 [Nep-Timeline](https://github.com/Nep-Timeline) Made [Freezer-Team/Freezer-UI](https://github.com/Freezer-Team/Freezer-UI) public
@@ -85,6 +95,10 @@
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [KevinGong2013/apkgo](https://github.com/KevinGong2013/apkgo)
   > 快速将apk更新至各个平台
+
+### [elllusion](https://github.com/elllusion)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [tscheipel/HaDes-V](https://github.com/tscheipel/HaDes-V)
+  > HaDes-V is an Open Educational Resource for learning microcontroller design. It guides you through c...
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [NoviceLive/research-rootkit](https://github.com/NoviceLive/research-rootkit)
@@ -133,10 +147,14 @@
   > PyGame Learning Environment (PLE) -- Reinforcement Learning Environment in Python.
 - 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [git-disl/awesome-LLM-game-agent-papers](https://github.com/git-disl/awesome-LLM-game-agent-papers)
   > A Survey on Large Language Model-Based Game Agents
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent)
+  > "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [TAC-UCB/pixnapping](https://github.com/TAC-UCB/pixnapping)
   > Artifacts for the ACM CCS 2025 paper "Pixnapping: Bringing Pixel Stealing out of the Stone Age"
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201](https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201)
+  > CVE-2025-31200 is a zero-day, zero-click RCE in iOS CoreAudio’s AudioConverterService, triggered by ...
 
 ### [iswbm](https://github.com/iswbm)
 - 🌟 👤 [iswbm](https://github.com/iswbm) Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
@@ -151,9 +169,6 @@
   > A desktop companion app for AI coding tools. Browse Claude Code chat history, manage configurations,...
 - 🌟 👤 [iswbm](https://github.com/iswbm) Starred [bywwcnll/StreamPanel](https://github.com/bywwcnll/StreamPanel)
   > Stream Panel 是一个 Chrome DevTools 扩展，允许开发者实时监控和检查流式请求。它支持 服务器发送事件 (SSE) 和 基于 Fetch 的流式连接，是调试流式 API 和查...
-
-### [jpillora](https://github.com/jpillora)
-- 🌟 👤 [jpillora](https://github.com/jpillora) Starred [hankmt/Artemis-Timeline](https://github.com/hankmt/Artemis-Timeline)
 
 ### [lich4](https://github.com/lich4)
 - 🍴 👤 [lich4](https://github.com/lich4) Forked [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to [lich4/github-readme-stats](https://github.com/lich4/github-readme-stats)
@@ -173,11 +188,19 @@
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
   > The universal proxy platform
 
+### [qinlili23333](https://github.com/qinlili23333)
+- 🍴 👤 [qinlili23333](https://github.com/qinlili23333) Forked [821869798/fontsubset](https://github.com/821869798/fontsubset) to [qinlili23333/fontsubset](https://github.com/qinlili23333/fontsubset)
+  > font subset pruner，跨平台字体瘦身裁剪工具，保留指定的字符，支持otf，ttf。无需安装环境，直接下载GUI程序运行即可
+
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)
   > The best agent harness.
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [lintsinghua/claude-code-book](https://github.com/lintsinghua/claude-code-book)
   > 《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harn...
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [tseli0s/DragonWare](https://github.com/tseli0s/DragonWare)
+  > Microkernel-based lightweight x86 operating system in C23.
 
 ### [std-microblock](https://github.com/std-microblock)
 - 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
@@ -209,7 +232,19 @@
 - 🌟 👤 [x7dbg](https://github.com/x7dbg) Starred [waryas/xign_poc_april_2026](https://github.com/waryas/xign_poc_april_2026)
   > Use XIGNCODE3 driver to cheat
 
+### [yikeke](https://github.com/yikeke)
+- 🌟 👤 [yikeke](https://github.com/yikeke) Starred [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders)
+  > AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into ...
+
+### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
+- 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
+### [zer0def](https://github.com/zer0def)
+- 🍴 👤 [zer0def](https://github.com/zer0def) Forked [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) to [zer0def/wuxxin-aur](https://github.com/zer0def/wuxxin-aur)
+  > archlinux AUR packages i maintain
+
 
 ---
-*最后更新于 2026-05-02 05:37:06 UTC*
+*最后更新于 2026-05-02 07:44:44 UTC*
 *历史记录保存在 `archive` 目录中。*
