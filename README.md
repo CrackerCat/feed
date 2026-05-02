@@ -12,6 +12,17 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [chenxiaolong/MSD](https://github.com/chenxiaolong/MSD)
   > Android app for emulating mass storage devices over USB
 
+### [Chordp](https://github.com/Chordp)
+- 🌟 👤 [Chordp](https://github.com/Chordp) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
+
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [cairn-dev/cairn](https://github.com/cairn-dev/cairn)
+  > A background agent system for automating end-to-end software engineering tasks, direct from your git...
+
+### [Firebasky](https://github.com/Firebasky)
+- 🌟 👤 [Firebasky](https://github.com/Firebasky) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
+
 ### [FldBudin](https://github.com/FldBudin)
 - 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
@@ -42,6 +53,10 @@
 - 🍴 👤 [Gracker](https://github.com/Gracker) Forked [nexu-io/open-design](https://github.com/nexu-io/open-design) to [Gracker/open-design](https://github.com/Gracker/open-design)
   > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
 
+### [J5now](https://github.com/J5now)
+- 🌟 👤 [J5now](https://github.com/J5now) Starred [r0ysue/r0tracer](https://github.com/r0ysue/r0tracer)
+  > 安卓Java层多功能追踪脚本
+
 ### [LoseNine](https://github.com/LoseNine)
 - 🌟 👤 [LoseNine](https://github.com/LoseNine) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
   > The headless browser for AI agents and web scraping
@@ -53,12 +68,28 @@
 ### [Nep-Timeline](https://github.com/Nep-Timeline)
 - 🚀 👤 [Nep-Timeline](https://github.com/Nep-Timeline) Made [Freezer-Team/Freezer-UI](https://github.com/Freezer-Team/Freezer-UI) public
 
+### [Samael-Z](https://github.com/Samael-Z)
+- 🌟 👤 [Samael-Z](https://github.com/Samael-Z) Starred [ka-pi-ba-la/AIbijia](https://github.com/ka-pi-ba-la/AIbijia)
+  > 分享便宜靠谱Token，抹平信息差
+
+### [Satar07](https://github.com/Satar07)
+- 🌟 👤 [Satar07](https://github.com/Satar07) Starred [NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker)
+  > NapCat-Docker
+
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [kimmydotzip/kopy-fail-CVE-2026-31431](https://github.com/kimmydotzip/kopy-fail-CVE-2026-31431)
 
 ### [Skulltrail192](https://github.com/Skulltrail192)
 - 🌟 👤 [Skulltrail192](https://github.com/Skulltrail192) Starred [theopenxp/certutil](https://github.com/theopenxp/certutil)
   > Certificate generation utility. DON'T PUSH PRS HERE!
+
+### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
+- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [ka-pi-ba-la/AIbijia](https://github.com/ka-pi-ba-la/AIbijia)
+  > 分享便宜靠谱Token，抹平信息差
+
+### [Super12138](https://github.com/Super12138)
+- 🌟 👤 [Super12138](https://github.com/Super12138) Starred [LooseWireDev/unclouded](https://github.com/LooseWireDev/unclouded)
+  > App discover for obtainium
 
 ### [TestPlanB](https://github.com/TestPlanB)
 - 🍴 👤 [TestPlanB](https://github.com/TestPlanB) Forked [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) to [TestPlanB/KuiklyUI](https://github.com/TestPlanB/KuiklyUI)
@@ -75,6 +106,10 @@
 ### [arpruss](https://github.com/arpruss)
 - 🍴 👤 [arpruss](https://github.com/arpruss) Forked [Bill-Gray/PDCursesMod](https://github.com/Bill-Gray/PDCursesMod) to [arpruss/PDCursesMod](https://github.com/arpruss/PDCursesMod)
   > Public Domain Curses - a curses library for environments that don't fit the termcap/terminfo model, ...
+
+### [buzzer-re](https://github.com/buzzer-re)
+- 🌟 👤 [buzzer-re](https://github.com/buzzer-re) Starred [karpathy/makemore](https://github.com/karpathy/makemore)
+  > An autoregressive character-level language model for making more things
 
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent)
@@ -155,6 +190,8 @@
   > Artifacts for the ACM CCS 2025 paper "Pixnapping: Bringing Pixel Stealing out of the Stone Age"
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201](https://github.com/JGoyd/iOS-Attack-Chain-CVE-2025-31200-CVE-2025-31201)
   > CVE-2025-31200 is a zero-day, zero-click RCE in iOS CoreAudio’s AudioConverterService, triggered by ...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
+  > Autonomous experiment loop extension for pi
 
 ### [iswbm](https://github.com/iswbm)
 - 🌟 👤 [iswbm](https://github.com/iswbm) Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
@@ -174,6 +211,14 @@
 - 🍴 👤 [lich4](https://github.com/lich4) Forked [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to [lich4/github-readme-stats](https://github.com/lich4/github-readme-stats)
   > :zap: Dynamically generated stats for your github readmes
 
+### [ltlly](https://github.com/ltlly)
+- 🌟 👤 [ltlly](https://github.com/ltlly) Starred [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng)
+  > D810-ng (Next Generation) is an updated, tested, refactored, and optimized IDA Pro plugin used to de...
+- 🌟 👤 [ltlly](https://github.com/ltlly) Starred [dqzg12300/fridaUiTools](https://github.com/dqzg12300/fridaUiTools)
+  > frida工具的缝合怪
+- 🌟 👤 [ltlly](https://github.com/ltlly) Starred [revercc/gumTVM](https://github.com/revercc/gumTVM)
+  > Use frida-gum's stalker for tracing
+
 ### [mborgerson](https://github.com/mborgerson)
 - 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [Zetaphor/whatcable-linux](https://github.com/Zetaphor/whatcable-linux)
   > A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do
@@ -183,6 +228,9 @@
 ### [mcxiaoke](https://github.com/mcxiaoke)
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework)
   > 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition
+
+### [mstxq17](https://github.com/mstxq17)
+- 🌟 👤 [mstxq17](https://github.com/mstxq17) Starred [Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC](https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC)
 
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
@@ -201,6 +249,12 @@
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [tseli0s/DragonWare](https://github.com/tseli0s/DragonWare)
   > Microkernel-based lightweight x86 operating system in C23.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox)
+  > Terraform / OpenTofu Provider for Proxmox VE
+
+### [safe6Sec](https://github.com/safe6Sec)
+- 🌟 👤 [safe6Sec](https://github.com/safe6Sec) Starred [phiat/claude-esp](https://github.com/phiat/claude-esp)
+  > Stream Claude Code's hidden output (thinking, tool calls, subagents) to a separate terminal in real-...
 
 ### [std-microblock](https://github.com/std-microblock)
 - 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
@@ -232,6 +286,10 @@
 - 🌟 👤 [x7dbg](https://github.com/x7dbg) Starred [waryas/xign_poc_april_2026](https://github.com/waryas/xign_poc_april_2026)
   > Use XIGNCODE3 driver to cheat
 
+### [xingguangcuican6666](https://github.com/xingguangcuican6666)
+- 🍴 👤 [xingguangcuican6666](https://github.com/xingguangcuican6666) Forked [zzh20188/GKI_KernelSU_SUSFS](https://github.com/zzh20188/GKI_KernelSU_SUSFS) to [xingguangcuican6666/GKI_KernelSU_SUSFS](https://github.com/xingguangcuican6666/GKI_KernelSU_SUSFS)
+  > KernelSU/MKSU/SukiSU/ReSukiSU/KernelSU-Next + SUSFS GKI KERNEL
+
 ### [yikeke](https://github.com/yikeke)
 - 🌟 👤 [yikeke](https://github.com/yikeke) Starred [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders)
   > AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into ...
@@ -246,5 +304,5 @@
 
 
 ---
-*最后更新于 2026-05-02 07:44:44 UTC*
+*最后更新于 2026-05-02 09:06:29 UTC*
 *历史记录保存在 `archive` 目录中。*
