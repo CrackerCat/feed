@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [5ec1cff](https://github.com/5ec1cff)
+- 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [chenxiaolong/MSD](https://github.com/chenxiaolong/MSD)
+  > Android app for emulating mass storage devices over USB
+
 ### [FldBudin](https://github.com/FldBudin)
 - 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
@@ -14,6 +18,10 @@
 - 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
   > Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
 
+### [GaoYuCan](https://github.com/GaoYuCan)
+- 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [exelix11/SysDVR](https://github.com/exelix11/SysDVR)
+  > Stream switch games to your PC via USB or network
+
 ### [GermanAizek](https://github.com/GermanAizek)
 - 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [muon-build/muon](https://github.com/muon-build/muon)
   > An implementation of the meson build system in c99
@@ -21,13 +29,42 @@
   > Frida depends on TinyCC
 - 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [TinyCC/tinycc](https://github.com/TinyCC/tinycc)
   > Unofficial mirror of mob development branch
+- 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [mhiramat/libcap](https://github.com/mhiramat/libcap)
+  > Clone of git://git.kernel.org/pub/scm/linux/kernel/git/morgan/libcap.git plus --exec options
+
+### [Gracker](https://github.com/Gracker)
+- 🌟 👤 [Gracker](https://github.com/Gracker) Starred [Gracker/perfetto](https://github.com/Gracker/perfetto)
+  > Production-grade client-side tracing, profiling, and analysis for complex software systems.
+
+### [LoseNine](https://github.com/LoseNine)
+- 🌟 👤 [LoseNine](https://github.com/LoseNine) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
+
+### [Nep-Timeline](https://github.com/Nep-Timeline)
+- 🚀 👤 [Nep-Timeline](https://github.com/Nep-Timeline) Made [Freezer-Team/Freezer-UI](https://github.com/Freezer-Team/Freezer-UI) public
 
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [kimmydotzip/kopy-fail-CVE-2026-31431](https://github.com/kimmydotzip/kopy-fail-CVE-2026-31431)
 
+### [Skulltrail192](https://github.com/Skulltrail192)
+- 🌟 👤 [Skulltrail192](https://github.com/Skulltrail192) Starred [theopenxp/certutil](https://github.com/theopenxp/certutil)
+  > Certificate generation utility. DON'T PUSH PRS HERE!
+
+### [TestPlanB](https://github.com/TestPlanB)
+- 🍴 👤 [TestPlanB](https://github.com/TestPlanB) Forked [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) to [TestPlanB/KuiklyUI](https://github.com/TestPlanB/KuiklyUI)
+  > A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six platfo...
+
+### [XiaoliChan](https://github.com/XiaoliChan)
+- 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [browser-use/browser-harness](https://github.com/browser-use/browser-harness)
+  > Browser Harness | Self-healing harness that enables LLMs to complete any task.
+
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [Kudaes/Puzzle](https://github.com/Kudaes/Puzzle)
   > Set of PoC to abuse Windows minifilters functionality
+
+### [arpruss](https://github.com/arpruss)
+- 🍴 👤 [arpruss](https://github.com/arpruss) Forked [Bill-Gray/PDCursesMod](https://github.com/Bill-Gray/PDCursesMod) to [arpruss/PDCursesMod](https://github.com/arpruss/PDCursesMod)
+  > Public Domain Curses - a curses library for environments that don't fit the termcap/terminfo model, ...
 
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent)
@@ -49,11 +86,27 @@
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [KevinGong2013/apkgo](https://github.com/KevinGong2013/apkgo)
   > 快速将apk更新至各个平台
 
+### [feicong](https://github.com/feicong)
+- 🌟 👤 [feicong](https://github.com/feicong) Starred [NoviceLive/research-rootkit](https://github.com/NoviceLive/research-rootkit)
+  > LibZeroEvil & the Research Rootkit project.
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [NoviceLive/research-rootkit](https://github.com/NoviceLive/research-rootkit) to [feicong/research-rootkit](https://github.com/feicong/research-rootkit)
+  > LibZeroEvil & the Research Rootkit project.
+
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [openwrt/openwrt](https://github.com/openwrt/openwrt)
   > This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only ...
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)
   > macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can...
+
+### [gmh5225](https://github.com/gmh5225)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mrexodia/github-backup-browser](https://github.com/mrexodia/github-backup-browser) to [gmh5225/github-backup-browser](https://github.com/gmh5225/github-backup-browser)
+  > Local search and browser for python-github-backup archives.
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [tseli0s/DragonWare](https://github.com/tseli0s/DragonWare)
+  > Microkernel-based lightweight x86 operating system in C23.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nexu-io/open-design](https://github.com/nexu-io/open-design) to [gmh5225/open-design](https://github.com/gmh5225/open-design)
+  > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [lifthrasiir/wah](https://github.com/lifthrasiir/wah) to [gmh5225/wah](https://github.com/gmh5225/wah)
+  > WebAssembly interpreter in a Header (WAH)
 
 ### [guiying712](https://github.com/guiying712)
 - 🌟 👤 [guiying712](https://github.com/guiying712) Starred [evoiz/Agentic-Design-Patterns](https://github.com/evoiz/Agentic-Design-Patterns)
@@ -64,6 +117,22 @@
 - 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [intel/auto-round](https://github.com/intel/auto-round)
   > A SOTA quantization algorithm for high-accuracy low-bit LLM inference, seamlessly optimized for CPU/...
 - 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [tsinghua-fib-lab/AutoSOTA](https://github.com/tsinghua-fib-lab/AutoSOTA)
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge)
+  > Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from ...
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control)
+  > Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spen...
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control)
+  > AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collab...
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+  > Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coor...
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [datamllab/awesome-game-ai](https://github.com/datamllab/awesome-game-ai)
+  > Awesome Game AI materials of Multi-Agent Reinforcement Learning
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [lmgame-org/GamingAgent](https://github.com/lmgame-org/GamingAgent)
+  > [ICLR 2026] LLM/VLM gaming agents and model evaluation through games.
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [ntasfi/PyGame-Learning-Environment](https://github.com/ntasfi/PyGame-Learning-Environment)
+  > PyGame Learning Environment (PLE) -- Reinforcement Learning Environment in Python.
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [git-disl/awesome-LLM-game-agent-papers](https://github.com/git-disl/awesome-LLM-game-agent-papers)
+  > A Survey on Large Language Model-Based Game Agents
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [TAC-UCB/pixnapping](https://github.com/TAC-UCB/pixnapping)
@@ -96,6 +165,10 @@
 - 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)
   > macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can...
 
+### [mcxiaoke](https://github.com/mcxiaoke)
+- 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework)
+  > 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition
+
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
   > The universal proxy platform
@@ -109,10 +182,20 @@
 ### [std-microblock](https://github.com/std-microblock)
 - 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
   > Work-in-progress tool to reverse unity's IL2CPP toolchain.
+- 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [BepInEx/Il2CppInterop](https://github.com/BepInEx/Il2CppInterop)
+  > A tool interoperate between CoreCLR and Il2Cpp at runtime
 
 ### [taisuii](https://github.com/taisuii)
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [EKKOLearnAI/hermes-web-ui](https://github.com/EKKOLearnAI/hermes-web-ui)
   > Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage a...
+
+### [tennc](https://github.com/tennc)
+- 🌟 👤 [tennc](https://github.com/tennc) Starred [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard)
+  > Simple dashboard for WireGuard VPN written in Python & Vue.js
+- 🌟 👤 [tennc](https://github.com/tennc) Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+  > 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI...
+- 🌟 👤 [tennc](https://github.com/tennc) Starred [erebe/wstunnel](https://github.com/erebe/wstunnel)
+  > Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available 
 
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)
@@ -122,7 +205,11 @@
 - 🌟 👤 [virjar](https://github.com/virjar) Starred [virjar/team-talk](https://github.com/virjar/team-talk)
   > 团队协作沟通软件，打算做成开源免费的钉钉/飞书，预期使用5年时间完成这个巨大的目标。
 
+### [x7dbg](https://github.com/x7dbg)
+- 🌟 👤 [x7dbg](https://github.com/x7dbg) Starred [waryas/xign_poc_april_2026](https://github.com/waryas/xign_poc_april_2026)
+  > Use XIGNCODE3 driver to cheat
+
 
 ---
-*最后更新于 2026-05-02 02:44:04 UTC*
+*最后更新于 2026-05-02 05:37:06 UTC*
 *历史记录保存在 `archive` 目录中。*
