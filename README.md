@@ -12,13 +12,33 @@
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [chenxiaolong/MSD](https://github.com/chenxiaolong/MSD)
   > Android app for emulating mass storage devices over USB
 
+### [AbhiTheModder](https://github.com/AbhiTheModder)
+- 🍴 👤 [AbhiTheModder](https://github.com/AbhiTheModder) Forked [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) to [AbhiTheModder/libfaketime](https://github.com/AbhiTheModder/libfaketime)
+  > libfaketime modifies the system time for a single application
+
 ### [Chordp](https://github.com/Chordp)
 - 🌟 👤 [Chordp](https://github.com/Chordp) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
   > The headless browser for AI agents and web scraping
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Yukin02/Dwm-Overlay](https://github.com/Yukin02/Dwm-Overlay)
+  > DWM Overlay without write .text
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [VollRagm/lpmapper](https://github.com/VollRagm/lpmapper)
+  > A mapper that maps shellcode into loaded large page drivers
+
 ### [ErodedElk](https://github.com/ErodedElk)
 - 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [cairn-dev/cairn](https://github.com/cairn-dev/cairn)
   > A background agent system for automating end-to-end software engineering tasks, direct from your git...
+
+### [FeeiCN](https://github.com/FeeiCN)
+- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [openwrt/openwrt](https://github.com/openwrt/openwrt)
+  > This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only ...
+- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [withastro/astro](https://github.com/withastro/astro)
+  > The web framework for content-driven websites. ⭐️ Star to support our work!
+- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [withastro/starlight](https://github.com/withastro/starlight)
+  > 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
+- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)
+  > Easy to maintain open source documentation websites.
 
 ### [Firebasky](https://github.com/Firebasky)
 - 🌟 👤 [Firebasky](https://github.com/Firebasky) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
@@ -53,6 +73,10 @@
 - 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [philippedax/vreng](https://github.com/philippedax/vreng)
   > Virtual Reality Engine - Interactive 3D Navigator over the Internet
 
+### [GitSquared](https://github.com/GitSquared)
+- 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart)
+  > 📺 Home Assistant SamsungTV Smart integration with SmartThings API Support.
+
 ### [Gracker](https://github.com/Gracker)
 - 🌟 👤 [Gracker](https://github.com/Gracker) Starred [Gracker/perfetto](https://github.com/Gracker/perfetto)
   > Production-grade client-side tracing, profiling, and analysis for complex software systems.
@@ -66,6 +90,10 @@
 ### [J5now](https://github.com/J5now)
 - 🌟 👤 [J5now](https://github.com/J5now) Starred [r0ysue/r0tracer](https://github.com/r0ysue/r0tracer)
   > 安卓Java层多功能追踪脚本
+
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [zerx-lab/warp](https://github.com/zerx-lab/warp)
+  > OpenWarp is a free version of the open source client based on warp
 
 ### [LoseNine](https://github.com/LoseNine)
 - 🌟 👤 [LoseNine](https://github.com/LoseNine) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
@@ -104,6 +132,8 @@
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [ka-pi-ba-la/AIbijia](https://github.com/ka-pi-ba-la/AIbijia)
   > 分享便宜靠谱Token，抹平信息差
+- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [agentscope-ai/HiClaw](https://github.com/agentscope-ai/HiClaw)
+  > An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via...
 
 ### [Super12138](https://github.com/Super12138)
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [LooseWireDev/unclouded](https://github.com/LooseWireDev/unclouded)
@@ -133,6 +163,10 @@
 - 🌟 👤 [buzzer-re](https://github.com/buzzer-re) Starred [karpathy/makemore](https://github.com/karpathy/makemore)
   > An autoregressive character-level language model for making more things
 
+### [codehz](https://github.com/codehz)
+- 🌟 👤 [codehz](https://github.com/codehz) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+  > Coding Agent Harness
+
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent)
 - 🍴 👤 [ctkqiang](https://github.com/ctkqiang) Forked [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) to [ctkqiang/awesome-deepseek-agent](https://github.com/ctkqiang/awesome-deepseek-agent)
@@ -150,6 +184,14 @@
   > Private on-device AI suite for Android. Fork of Google AI Edge Gallery with llama.cpp, whisper.cpp, ...
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
   > Coding Agent Harness
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [zerx-lab/warp](https://github.com/zerx-lab/warp)
+  > OpenWarp is a free version of the open source client based on warp
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [lotsoftick/hermes_client](https://github.com/lotsoftick/hermes_client)
+  > Web client for Hermes agent 
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [bruin-data/dac](https://github.com/bruin-data/dac)
+  > dac is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic ...
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+  > Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into ...
 
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory)
@@ -175,9 +217,17 @@
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)
   > macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can...
 
+### [gentilkiwi](https://github.com/gentilkiwi)
+- 🍴 👤 [gentilkiwi](https://github.com/gentilkiwi) Forked [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) to [gentilkiwi/proxmark3](https://github.com/gentilkiwi/proxmark3)
+  > Iceman Fork - Proxmark3
+
 ### [ggggmllll](https://github.com/ggggmllll)
 - 🌟 👤 [ggggmllll](https://github.com/ggggmllll) Starred [Mrack/TInjector](https://github.com/Mrack/TInjector)
   > 劫持Zygote在App启动前注入so
+
+### [gh0stkey](https://github.com/gh0stkey)
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [zerx-lab/warp](https://github.com/zerx-lab/warp)
+  > OpenWarp is a free version of the open source client based on warp
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mrexodia/github-backup-browser](https://github.com/mrexodia/github-backup-browser) to [gmh5225/github-backup-browser](https://github.com/gmh5225/github-backup-browser)
@@ -190,6 +240,10 @@
   > WebAssembly interpreter in a Header (WAH)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NVIDIA/TileGym](https://github.com/NVIDIA/TileGym) to [gmh5225/TileGym](https://github.com/gmh5225/TileGym)
   > Helpful kernel tutorials, examples and SKILLs for tile-based GPU programming
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [Verified-zkEVM/evm-asm](https://github.com/Verified-zkEVM/evm-asm)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Verified-zkEVM/evm-asm](https://github.com/Verified-zkEVM/evm-asm) to [gmh5225/evm-asm](https://github.com/gmh5225/evm-asm)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) to [gmh5225/Understand-Anything](https://github.com/gmh5225/Understand-Anything)
+  > Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into ...
 
 ### [guiying712](https://github.com/guiying712)
 - 🌟 👤 [guiying712](https://github.com/guiying712) Starred [evoiz/Agentic-Design-Patterns](https://github.com/evoiz/Agentic-Design-Patterns)
@@ -219,6 +273,10 @@
 - 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent)
   > "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [cesaryuan/warp](https://github.com/cesaryuan/warp)
+  > Warp is an agentic development environment, born out of the terminal.
+
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [TAC-UCB/pixnapping](https://github.com/TAC-UCB/pixnapping)
   > Artifacts for the ACM CCS 2025 paper "Pixnapping: Bringing Pixel Stealing out of the Stone Age"
@@ -226,6 +284,10 @@
   > CVE-2025-31200 is a zero-day, zero-click RCE in iOS CoreAudio’s AudioConverterService, triggered by ...
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
   > Autonomous experiment loop extension for pi
+
+### [imj01y](https://github.com/imj01y)
+- 🌟 👤 [imj01y](https://github.com/imj01y) Starred [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim)
+  > Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency.
 
 ### [iswbm](https://github.com/iswbm)
 - 🌟 👤 [iswbm](https://github.com/iswbm) Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
@@ -269,6 +331,12 @@
 - 🌟 👤 [ltlly](https://github.com/ltlly) Starred [revercc/gumTVM](https://github.com/revercc/gumTVM)
   > Use frida-gum's stalker for tracing
 
+### [lz6688](https://github.com/lz6688)
+- 🍴 👤 [lz6688](https://github.com/lz6688) Forked [eversinc33/MicroSMT](https://github.com/eversinc33/MicroSMT) to [lz6688/MicroSMT](https://github.com/lz6688/MicroSMT)
+  > IDA plugin for automatic deobfuscation of opaque predicates by lifting microcode to z3 for SMT reaso...
+- 🌟 👤 [lz6688](https://github.com/lz6688) Starred [lz6688/MicroSMT](https://github.com/lz6688/MicroSMT)
+  > IDA plugin for automatic deobfuscation of opaque predicates by lifting microcode to z3 for SMT reaso...
+
 ### [mborgerson](https://github.com/mborgerson)
 - 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [Zetaphor/whatcable-linux](https://github.com/Zetaphor/whatcable-linux)
   > A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do
@@ -283,12 +351,28 @@
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [rncbc/qsynth](https://github.com/rncbc/qsynth)
   > Qsynth - A fluidsynth Qt GUI Interface
 
+### [mrT4ntr4](https://github.com/mrT4ntr4)
+- 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [AllsafeCyberSecurity/awesome-ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra)
+  > A curated list of awesome Ghidra materials
+
 ### [mstxq17](https://github.com/mstxq17)
 - 🌟 👤 [mstxq17](https://github.com/mstxq17) Starred [Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC](https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC)
+
+### [mzfr](https://github.com/mzfr)
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [zerx-lab/warp](https://github.com/zerx-lab/warp)
+  > OpenWarp is a free version of the open source client based on warp
 
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
   > The universal proxy platform
+
+### [not1cyyy](https://github.com/not1cyyy)
+- 🌟 👤 [not1cyyy](https://github.com/not1cyyy) Starred [wesmar/CVE-2026-31431](https://github.com/wesmar/CVE-2026-31431)
+  > CVE-2026-31431 is a bug in the handling of scatter-gather I/O operations and page cache references i...
+
+### [onhexgroup](https://github.com/onhexgroup)
+- 🌟 👤 [onhexgroup](https://github.com/onhexgroup) Starred [corelan/mona3](https://github.com/corelan/mona3)
+  > Repository for mona v3 - Corelan's exploit dev tool for Windbg, WindbgX etc
 
 ### [qinlili23333](https://github.com/qinlili23333)
 - 🍴 👤 [qinlili23333](https://github.com/qinlili23333) Forked [821869798/fontsubset](https://github.com/821869798/fontsubset) to [qinlili23333/fontsubset](https://github.com/qinlili23333/fontsubset)
@@ -303,6 +387,10 @@
   > The best agent harness.
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [lintsinghua/claude-code-book](https://github.com/lintsinghua/claude-code-book)
   > 《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harn...
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [bruin-data/dac](https://github.com/bruin-data/dac)
+  > dac is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic ...
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+  > Coding Agent Harness
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [ekzhang/bore](https://github.com/ekzhang/bore)
@@ -338,6 +426,10 @@
 - 🌟 👤 [tennc](https://github.com/tennc) Starred [erebe/wstunnel](https://github.com/erebe/wstunnel)
   > Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available 
 
+### [tkmru](https://github.com/tkmru)
+- 🌟 👤 [tkmru](https://github.com/tkmru) Starred [afine-com/glassworm-hunter](https://github.com/afine-com/glassworm-hunter)
+  > Scan VS Code extensions, npm/PyPI packages, and local git repositories for GlassWorm supply chain at...
+
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)
   > macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can...
@@ -362,11 +454,14 @@
 - 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
   > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
+### [yuan-xy](https://github.com/yuan-xy)
+- 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
+
 ### [zer0def](https://github.com/zer0def)
 - 🍴 👤 [zer0def](https://github.com/zer0def) Forked [wuxxin/aur-packages](https://github.com/wuxxin/aur-packages) to [zer0def/wuxxin-aur](https://github.com/zer0def/wuxxin-aur)
   > archlinux AUR packages i maintain
 
 
 ---
-*最后更新于 2026-05-02 10:52:20 UTC*
+*最后更新于 2026-05-02 13:12:35 UTC*
 *历史记录保存在 `archive` 目录中。*
