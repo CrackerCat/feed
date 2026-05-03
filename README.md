@@ -7,6 +7,8 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [thomasdullien/vulpine](https://github.com/thomasdullien/vulpine)
   > Vulpine: multi-agent vulnerability-development pipeline for Claude Code and OpenCode
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [zed-industries/zed](https://github.com/zed-industries/zed) to [0xdea/zed](https://github.com/0xdea/zed)
+  > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
 
 ### [AbhiTheModder](https://github.com/AbhiTheModder)
 - 🌟 👤 [AbhiTheModder](https://github.com/AbhiTheModder) Starred [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
@@ -17,10 +19,16 @@
   > Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, explo...
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [aaronjmars/MiroShark](https://github.com/aaronjmars/MiroShark)
   > Simulate anything, for $1 & less than 10 min — Universal Swarm Intelligence Engine
+- 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [MIT-MI/how2ai-course](https://github.com/MIT-MI/how2ai-course)
+  > How to AI (Almost) Anything Course
 
 ### [CreditTone](https://github.com/CreditTone)
 - 🌟 👤 [CreditTone](https://github.com/CreditTone) Starred [anjia0532/unidbg-boot-server](https://github.com/anjia0532/unidbg-boot-server)
   > unidbg-server 提供http api服务
+
+### [DarkLineX](https://github.com/DarkLineX)
+- 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [yi-zelin/DeltaForceSS](https://github.com/yi-zelin/DeltaForceSS)
+  > 三角洲行动特勤处自动制造
 
 ### [FeJQ](https://github.com/FeJQ)
 - 🌟 👤 [FeJQ](https://github.com/FeJQ) Starred [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
@@ -80,6 +88,10 @@
 - 🌟 👤 [SherlockChiang](https://github.com/SherlockChiang) Starred [vbskycn/iptv](https://github.com/vbskycn/iptv)
   > iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
 
+### [TimelifeCzy](https://github.com/TimelifeCzy)
+- 🍴 👤 [TimelifeCzy](https://github.com/TimelifeCzy) Forked [LubosD/twinkle](https://github.com/LubosD/twinkle) to [TimelifeCzy/twinkle](https://github.com/TimelifeCzy/twinkle)
+  > Qt 5 port of Twinkle
+
 ### [Trijal08](https://github.com/Trijal08)
 - 🍴 👤 [Trijal08](https://github.com/Trijal08) Forked [arshad-jamil33/android_kernel_xiaomi_sm6250](https://github.com/arshad-jamil33/android_kernel_xiaomi_sm6250) to [Trijal08/anaconda_kernel_xiaomi_sm6250](https://github.com/Trijal08/anaconda_kernel_xiaomi_sm6250)
 - 🍴 👤 [Trijal08](https://github.com/Trijal08) Forked [namjaejeon/linux-ntfs](https://github.com/namjaejeon/linux-ntfs) to [Trijal08/linux-ntfs](https://github.com/Trijal08/linux-ntfs)
@@ -96,6 +108,10 @@
 ### [amezin](https://github.com/amezin)
 - 🍴 👤 [amezin](https://github.com/amezin) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [amezin/llama.cpp](https://github.com/amezin/llama.cpp)
   > LLM inference in C/C++
+
+### [bbruceyuan](https://github.com/bbruceyuan)
+- 🌟 👤 [bbruceyuan](https://github.com/bbruceyuan) Starred [appergb/openless](https://github.com/appergb/openless)
+  > Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice i...
 
 ### [bosen365](https://github.com/bosen365)
 - 🍴 👤 [bosen365](https://github.com/bosen365) Forked [xwbperson/cxstar-pdf-download](https://github.com/xwbperson/cxstar-pdf-download) to [bosen365/cxstar-pdf-download](https://github.com/bosen365/cxstar-pdf-download)
@@ -136,6 +152,16 @@
   > A cross-platform command-line Switch emulator mod downloader.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [codexstar69/bug-hunter](https://github.com/codexstar69/bug-hunter) to [gmh5225/bug-hunter](https://github.com/gmh5225/bug-hunter)
   > Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Ashveil1/Elengenix](https://github.com/Ashveil1/Elengenix) to [gmh5225/Elengenix](https://github.com/gmh5225/Elengenix)
+  >  AI-assisted orchestration for bug bounty hunting. Automates security tools for reconnaissance and a...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gin66/tui-logger](https://github.com/gin66/tui-logger) to [gmh5225/tui-logger](https://github.com/gmh5225/tui-logger)
+  > Logger and Widget for rust's ratatui crate
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use) to [gmh5225/pi-computer-use](https://github.com/gmh5225/pi-computer-use)
+  > control your applications using pi-coding-agent. fully invisible.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [facebookexperimental/moxygen](https://github.com/facebookexperimental/moxygen) to [gmh5225/moxygen](https://github.com/gmh5225/moxygen)
+  > Implementation of IETF MOQ protocol
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [moq-dev/moq](https://github.com/moq-dev/moq) to [gmh5225/moq](https://github.com/gmh5225/moq)
+  > Media over QUIC library in Rust+Typescript
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
@@ -162,6 +188,16 @@
   > Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [jundot/omlx](https://github.com/jundot/omlx)
   > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [emanuele-f/PCAPdroid-mitm](https://github.com/emanuele-f/PCAPdroid-mitm)
+  > Mitm addon for PCAPdroid
+
+### [ich777](https://github.com/ich777)
+- 🌟 👤 [ich777](https://github.com/ich777) Starred [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
+  > Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
+
+### [iraizo](https://github.com/iraizo)
+- 🌟 👤 [iraizo](https://github.com/iraizo) Starred [komimoe/Arkari](https://github.com/komimoe/Arkari)
+  > Yet another llvm based obfuscator based on goron.
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
@@ -176,6 +212,10 @@
 - 🌟 👤 [konieshadow](https://github.com/konieshadow) Starred [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
   > Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for ...
 
+### [libra146](https://github.com/libra146)
+- 🌟 👤 [libra146](https://github.com/libra146) Starred [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)
+  > Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
+
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [pengsida/learning_research](https://github.com/pengsida/learning_research)
   > 本人的科研经验
@@ -188,6 +228,14 @@
 ### [lqqyt2423](https://github.com/lqqyt2423)
 - 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
   > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
+
+### [lz6688](https://github.com/lz6688)
+- 🍴 👤 [lz6688](https://github.com/lz6688) Forked [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) to [lz6688/chrome-devtools-mcp](https://github.com/lz6688/chrome-devtools-mcp)
+  > Chrome DevTools for coding agents
+
+### [mcxiaoke](https://github.com/mcxiaoke)
+- 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+  > VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-L...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [badsectorlabs/copyfail-go](https://github.com/badsectorlabs/copyfail-go)
@@ -220,6 +268,9 @@
 - 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [qsecure-labs/DeadMatter](https://github.com/qsecure-labs/DeadMatter)
   > Offset Independent Credential Extraction Tool
 
+### [ravindu644](https://github.com/ravindu644)
+- 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [yoshi3jp/android_system_core_innit](https://github.com/yoshi3jp/android_system_core_innit)
+
 ### [safe6Sec](https://github.com/safe6Sec)
 - 🌟 👤 [safe6Sec](https://github.com/safe6Sec) Starred [cfrs2005/claude-init](https://github.com/cfrs2005/claude-init)
   > Claude Code 中文开发套件 - 为中国开发者定制的零门槛 AI 编程环境。一键安装完整中文化体验，集成 MCP 服务器、智能上下文管理、安全扫描，支持免翻墙访问。让 AI 编程更简单。
@@ -230,6 +281,14 @@
 ### [startergo](https://github.com/startergo)
 - 🍴 👤 [startergo](https://github.com/startergo) Forked [crag-hack/wine9x](https://github.com/crag-hack/wine9x) to [startergo/wine9x](https://github.com/startergo/wine9x)
   > WineD3D port for Windows 9x
+
+### [tranleduy2000](https://github.com/tranleduy2000)
+- 🌟 👤 [tranleduy2000](https://github.com/tranleduy2000) Starred [hackiftekhar/IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
+  > Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextF...
+
+### [v9d0g](https://github.com/v9d0g)
+- 🌟 👤 [v9d0g](https://github.com/v9d0g) Starred [leibnitz27/cfr](https://github.com/leibnitz27/cfr)
+  > This is the public repository for the CFR Java decompiler
 
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [pgr0ss/pgledger](https://github.com/pgr0ss/pgledger)
@@ -249,5 +308,5 @@
 
 
 ---
-*最后更新于 2026-05-03 08:45:49 UTC*
+*最后更新于 2026-05-03 10:04:39 UTC*
 *历史记录保存在 `archive` 目录中。*
