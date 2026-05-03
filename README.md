@@ -40,6 +40,10 @@
 - 🌟 👤 [HATTER-LONG](https://github.com/HATTER-LONG) Starred [nrc/r4cppp](https://github.com/nrc/r4cppp)
   > Rust for C++ programmers
 
+### [HSSkyBoy](https://github.com/HSSkyBoy)
+- 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [libxposed/api](https://github.com/libxposed/api) to [HSSkyBoy/api](https://github.com/HSSkyBoy/api)
+  > libxposed API
+
 ### [LanBaiCode](https://github.com/LanBaiCode)
 - 🌟 👤 [LanBaiCode](https://github.com/LanBaiCode) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
@@ -51,6 +55,10 @@
 ### [Neo23x0](https://github.com/Neo23x0)
 - 🍴 👤 [Neo23x0](https://github.com/Neo23x0) Forked [diemoeve/oxide](https://github.com/diemoeve/oxide) to [Neo23x0/oxide](https://github.com/Neo23x0/oxide)
   > Cross-platform C2 implant framework. Every TTP ships with YARA rules, Sigma rules, and IR playbooks.
+
+### [NoOne-hub](https://github.com/NoOne-hub)
+- 🌟 👤 [NoOne-hub](https://github.com/NoOne-hub) Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+  > VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-L...
 
 ### [Petitoto](https://github.com/Petitoto)
 - 🌟 👤 [Petitoto](https://github.com/Petitoto) Starred [Macbucheron1/Nixploit](https://github.com/Macbucheron1/Nixploit)
@@ -77,6 +85,10 @@
 - 🍴 👤 [Trijal08](https://github.com/Trijal08) Forked [namjaejeon/linux-ntfs](https://github.com/namjaejeon/linux-ntfs) to [Trijal08/linux-ntfs](https://github.com/Trijal08/linux-ntfs)
   > NTFS(NTFS PLUS) for Linux (Backport for low kernel version support)
 
+### [X1r0z](https://github.com/X1r0z)
+- 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [himself65/finance-skills](https://github.com/himself65/finance-skills)
+  > A collection of skills for AI financial analysis and trading.
+
 ### [YuHuanTin](https://github.com/YuHuanTin)
 - 🌟 👤 [YuHuanTin](https://github.com/YuHuanTin) Starred [Kindness-Kismet/Storage-redirection-X-Public](https://github.com/Kindness-Kismet/Storage-redirection-X-Public)
   > 存储重定向 X
@@ -93,6 +105,18 @@
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [Hello-Application-XH/HelloGML](https://github.com/Hello-Application-XH/HelloGML)
   > 智谱清言网页版的 Cloudflare Worker 2API层，提供 OpenAI / Claude / Gemini 三种协议兼容接口，支持流式对话、Tools调用、AI 绘图、视频生成与多账号 ...
 
+### [doodlewind](https://github.com/doodlewind)
+- 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [mpv-player/mpv](https://github.com/mpv-player/mpv)
+  > 🎥 Command line media player
+
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
+  > Using system APIs directly with adb/root privileges from normal apps through a Java process started ...
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [kernullist/windbg-decompile-ext](https://github.com/kernullist/windbg-decompile-ext) to [fengjixuchui/windbg-decompile-ext](https://github.com/fengjixuchui/windbg-decompile-ext)
+  > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
+
 ### [fr0zenrain](https://github.com/fr0zenrain)
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)
   > Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a...
@@ -100,6 +124,12 @@
   > CVE-2026-31431 纯文件利用
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill)
   > dontbesilent 的商业诊断 Skills for Claude Code
+- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [zhangjingwei/kuake_cli](https://github.com/zhangjingwei/kuake_cli)
+  > 夸克网盘文件管理 CLI 工具 - Quark Cloud Drive File Management CLI Tool
+
+### [gamelaster](https://github.com/gamelaster)
+- 🌟 👤 [gamelaster](https://github.com/gamelaster) Starred [Sherin-SEF-AI/CanLab](https://github.com/Sherin-SEF-AI/CanLab)
+  > CanLab — AI-Powered CAN Bus Reverse Engineering Workstation
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [exefer/ns-emu-mod-downloader](https://github.com/exefer/ns-emu-mod-downloader) to [gmh5225/ns-emu-mod-downloader](https://github.com/gmh5225/ns-emu-mod-downloader)
@@ -152,19 +182,31 @@
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills)
   > Skill package for ML/CV/NLP paper writing, curated and adapted from Prof. Peng Sida's open notes for...
 
+### [lizhangqu](https://github.com/lizhangqu)
+- 🌟 👤 [lizhangqu](https://github.com/lizhangqu) Starred [JustLikeCheese/LGBT-Prompt](https://github.com/JustLikeCheese/LGBT-Prompt)
+
 ### [lqqyt2423](https://github.com/lqqyt2423)
 - 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
   > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [badsectorlabs/copyfail-go](https://github.com/badsectorlabs/copyfail-go)
+  > A Go implementation of copyfail (CVE-2026-31431)
+
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [NahimNasser/pu](https://github.com/NahimNasser/pu)
 
 ### [nu11secur1ty](https://github.com/nu11secur1ty)
 - 🌟 👤 [nu11secur1ty](https://github.com/nu11secur1ty) Starred [huggingface/peft](https://github.com/huggingface/peft)
   > 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - 🍴 👤 [nu11secur1ty](https://github.com/nu11secur1ty) Forked [huggingface/peft](https://github.com/huggingface/peft) to [nu11secur1ty/peft](https://github.com/nu11secur1ty/peft)
   > 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+
+### [qazbnm456](https://github.com/qazbnm456)
+- 🍴 👤 [qazbnm456](https://github.com/qazbnm456) Forked [mattsse/chromiumoxide](https://github.com/mattsse/chromiumoxide) to [qazbnm456/chromiumoxide](https://github.com/qazbnm456/chromiumoxide)
+  > Chrome Devtools Protocol rust API
 
 ### [qinlili23333](https://github.com/qinlili23333)
 - 🍴 👤 [qinlili23333](https://github.com/qinlili23333) Forked [Dogwei/sfntly.net](https://github.com/Dogwei/sfntly.net) to [qinlili23333/sfntly.net.v2](https://github.com/qinlili23333/sfntly.net.v2)
@@ -175,6 +217,19 @@
   > Project to check which Nt/Zw functions your local EDR is hooking
 - 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [asaurusrex/DoppelGate](https://github.com/asaurusrex/DoppelGate)
   > DoppelGate relies on reading ntdll on disk to grab syscall stubs, and patches these syscall stubs in...
+- 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [qsecure-labs/DeadMatter](https://github.com/qsecure-labs/DeadMatter)
+  > Offset Independent Credential Extraction Tool
+
+### [safe6Sec](https://github.com/safe6Sec)
+- 🌟 👤 [safe6Sec](https://github.com/safe6Sec) Starred [cfrs2005/claude-init](https://github.com/cfrs2005/claude-init)
+  > Claude Code 中文开发套件 - 为中国开发者定制的零门槛 AI 编程环境。一键安装完整中文化体验，集成 MCP 服务器、智能上下文管理、安全扫描，支持免翻墙访问。让 AI 编程更简单。
+
+### [sh1ma](https://github.com/sh1ma)
+- 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [pnsk-lab/saizeriya](https://github.com/pnsk-lab/saizeriya)
+
+### [startergo](https://github.com/startergo)
+- 🍴 👤 [startergo](https://github.com/startergo) Forked [crag-hack/wine9x](https://github.com/crag-hack/wine9x) to [startergo/wine9x](https://github.com/startergo/wine9x)
+  > WineD3D port for Windows 9x
 
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [pgr0ss/pgledger](https://github.com/pgr0ss/pgledger)
@@ -194,5 +249,5 @@
 
 
 ---
-*最后更新于 2026-05-03 06:06:55 UTC*
+*最后更新于 2026-05-03 08:45:49 UTC*
 *历史记录保存在 `archive` 目录中。*
