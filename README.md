@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [thomasdullien/vulpine](https://github.com/thomasdullien/vulpine)
+  > Vulpine: multi-agent vulnerability-development pipeline for Claude Code and OpenCode
+
 ### [AbhiTheModder](https://github.com/AbhiTheModder)
 - 🌟 👤 [AbhiTheModder](https://github.com/AbhiTheModder) Starred [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
   > The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -14,9 +18,27 @@
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [aaronjmars/MiroShark](https://github.com/aaronjmars/MiroShark)
   > Simulate anything, for $1 & less than 10 min — Universal Swarm Intelligence Engine
 
+### [CreditTone](https://github.com/CreditTone)
+- 🌟 👤 [CreditTone](https://github.com/CreditTone) Starred [anjia0532/unidbg-boot-server](https://github.com/anjia0532/unidbg-boot-server)
+  > unidbg-server 提供http api服务
+
+### [FeJQ](https://github.com/FeJQ)
+- 🌟 👤 [FeJQ](https://github.com/FeJQ) Starred [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
+  > A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cu...
+
+### [GermanAizek](https://github.com/GermanAizek)
+- 🍴 👤 [GermanAizek](https://github.com/GermanAizek) Forked [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk) to [GermanAizek/rexglue-sdk](https://github.com/GermanAizek/rexglue-sdk)
+  > Xbox 360 Recompilation Runtime and Toolkit
+- 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [rexglue/rexglue-sdk](https://github.com/rexglue/rexglue-sdk)
+  > Xbox 360 Recompilation Runtime and Toolkit
+
 ### [Germey](https://github.com/Germey)
 - 🌟 👤 [Germey](https://github.com/Germey) Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
   > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+
+### [HATTER-LONG](https://github.com/HATTER-LONG)
+- 🌟 👤 [HATTER-LONG](https://github.com/HATTER-LONG) Starred [nrc/r4cppp](https://github.com/nrc/r4cppp)
+  > Rust for C++ programmers
 
 ### [LanBaiCode](https://github.com/LanBaiCode)
 - 🌟 👤 [LanBaiCode](https://github.com/LanBaiCode) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
@@ -26,9 +48,19 @@
 - 🌟 👤 [MhmRdd](https://github.com/MhmRdd) Starred [fjall-rs/fjall](https://github.com/fjall-rs/fjall)
   > 🗻 Log-structured, embeddable key-value storage engine written in Rust
 
+### [Neo23x0](https://github.com/Neo23x0)
+- 🍴 👤 [Neo23x0](https://github.com/Neo23x0) Forked [diemoeve/oxide](https://github.com/diemoeve/oxide) to [Neo23x0/oxide](https://github.com/Neo23x0/oxide)
+  > Cross-platform C2 implant framework. Every TTP ships with YARA rules, Sigma rules, and IR playbooks.
+
 ### [Petitoto](https://github.com/Petitoto)
 - 🌟 👤 [Petitoto](https://github.com/Petitoto) Starred [Macbucheron1/Nixploit](https://github.com/Macbucheron1/Nixploit)
   > Pentesting container based on nixos & using incus
+
+### [PoomSmart](https://github.com/PoomSmart)
+- 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [eversinc33/MicroSMT](https://github.com/eversinc33/MicroSMT)
+  > IDA plugin for automatic deobfuscation of opaque predicates by lifting microcode to z3 for SMT reaso...
+- 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)
+  > macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can...
 
 ### [PranavPurwar](https://github.com/PranavPurwar)
 - 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [0xarchit/Grafyx](https://github.com/0xarchit/Grafyx)
@@ -64,6 +96,10 @@
 ### [fr0zenrain](https://github.com/fr0zenrain)
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator)
   > Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a...
+- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [Sndav/CVE-2026-31431-Advanced-Exploit](https://github.com/Sndav/CVE-2026-31431-Advanced-Exploit)
+  > CVE-2026-31431 纯文件利用
+- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill)
+  > dontbesilent 的商业诊断 Skills for Claude Code
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [exefer/ns-emu-mod-downloader](https://github.com/exefer/ns-emu-mod-downloader) to [gmh5225/ns-emu-mod-downloader](https://github.com/gmh5225/ns-emu-mod-downloader)
@@ -90,6 +126,12 @@
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
   > Desktop app to manage markdown knowledge bases
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [github/spec-kit](https://github.com/github/spec-kit)
+  > 💫 Toolkit to help you get started with Spec-Driven Development
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)
+  > Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [jundot/omlx](https://github.com/jundot/omlx)
+  > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
@@ -110,9 +152,29 @@
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills)
   > Skill package for ML/CV/NLP paper writing, curated and adapted from Prof. Peng Sida's open notes for...
 
+### [lqqyt2423](https://github.com/lqqyt2423)
+- 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+  > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
+
+### [mzfr](https://github.com/mzfr)
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
+  > Build and query a graph database representation of source code
+
+### [nu11secur1ty](https://github.com/nu11secur1ty)
+- 🌟 👤 [nu11secur1ty](https://github.com/nu11secur1ty) Starred [huggingface/peft](https://github.com/huggingface/peft)
+  > 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+- 🍴 👤 [nu11secur1ty](https://github.com/nu11secur1ty) Forked [huggingface/peft](https://github.com/huggingface/peft) to [nu11secur1ty/peft](https://github.com/nu11secur1ty/peft)
+  > 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+
 ### [qinlili23333](https://github.com/qinlili23333)
 - 🍴 👤 [qinlili23333](https://github.com/qinlili23333) Forked [Dogwei/sfntly.net](https://github.com/Dogwei/sfntly.net) to [qinlili23333/sfntly.net.v2](https://github.com/qinlili23333/sfntly.net.v2)
   > sfntly.net - a project for manual-transfrom from Java to csharp.
+
+### [rabbitstack](https://github.com/rabbitstack)
+- 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [asaurusrex/Probatorum-EDR-Userland-Hook-Checker](https://github.com/asaurusrex/Probatorum-EDR-Userland-Hook-Checker)
+  > Project to check which Nt/Zw functions your local EDR is hooking
+- 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [asaurusrex/DoppelGate](https://github.com/asaurusrex/DoppelGate)
+  > DoppelGate relies on reading ntdll on disk to grab syscall stubs, and patches these syscall stubs in...
 
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [pgr0ss/pgledger](https://github.com/pgr0ss/pgledger)
@@ -132,5 +194,5 @@
 
 
 ---
-*最后更新于 2026-05-03 02:56:17 UTC*
+*最后更新于 2026-05-03 06:06:55 UTC*
 *历史记录保存在 `archive` 目录中。*
