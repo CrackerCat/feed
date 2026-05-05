@@ -4,9 +4,17 @@
 
 ## 今日动态
 
+### [10code15bugs](https://github.com/10code15bugs)
+- 🌟 👤 [10code15bugs](https://github.com/10code15bugs) Starred [HughYau/qiushi-skill](https://github.com/HughYau/qiushi-skill)
+  > 求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。Qiushi-Skill: Build agents that investigate first, foc...
+
 ### [1orz](https://github.com/1orz)
 - 🍴 👤 [1orz](https://github.com/1orz) Forked [yangchuansheng/ip_derper](https://github.com/yangchuansheng/ip_derper) to [1orz/ip_derper-fork](https://github.com/1orz/ip_derper-fork)
   > 无需域名的 derper
+
+### [7etsuo](https://github.com/7etsuo)
+- 🍴 👤 [7etsuo](https://github.com/7etsuo) Forked [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) to [7etsuo/deepsec](https://github.com/7etsuo/deepsec)
+  > Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 
 ### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
 - 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [sky22333/Google-Play-Store](https://github.com/sky22333/Google-Play-Store)
@@ -45,8 +53,16 @@
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [fatguru/writeups](https://github.com/fatguru/writeups)
   > Technical writeups on Offensive Security, Red Team operations, Penetration Testing, and Bug Bounty h...
 
+### [LaPhilosophie](https://github.com/LaPhilosophie)
+- 🌟 👤 [LaPhilosophie](https://github.com/LaPhilosophie) Starred [uknowsec/Active-Directory-Pentest-Notes](https://github.com/uknowsec/Active-Directory-Pentest-Notes)
+  > 个人域渗透学习笔记
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [MtkWifiRev/MtkWifiTools](https://github.com/MtkWifiRev/MtkWifiTools)
+
+### [RiccardoAncarani](https://github.com/RiccardoAncarani)
+- 🌟 👤 [RiccardoAncarani](https://github.com/RiccardoAncarani) Starred [dobin/RedEdr](https://github.com/dobin/RedEdr)
+  > Collect Windows telemetry for Maldev
 
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra)
@@ -57,6 +73,14 @@
   > Gain insights into MS-RPC implementations that may be vulnerable using an automated approach and mak...
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [Kudaes/Puzzle](https://github.com/Kudaes/Puzzle)
   > Set of PoC to abuse Windows minifilters functionality
+
+### [SodaMilk233](https://github.com/SodaMilk233)
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [afumu/openlink](https://github.com/afumu/openlink)
+  > OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [jkxiongxin/openlink](https://github.com/jkxiongxin/openlink)
+  > OpenLink让网页版 AI直接访问你的本地文件系统和执行命令。
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [432539/gpt2api](https://github.com/432539/gpt2api)
+  > 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446
 
 ### [SpriteOvO](https://github.com/SpriteOvO)
 - 🌟 👤 [SpriteOvO](https://github.com/SpriteOvO) Starred [PerryTS/perry](https://github.com/PerryTS/perry)
@@ -71,6 +95,20 @@
 ### [TKazer](https://github.com/TKazer)
 - 🌟 👤 [TKazer](https://github.com/TKazer) Starred [ret2shell/ret2shell](https://github.com/ret2shell/ret2shell)
   > A feature-riches CTF challenge platform!
+
+### [WWFWT](https://github.com/WWFWT)
+- 🌟 👤 [WWFWT](https://github.com/WWFWT) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
+- 🌟 👤 [WWFWT](https://github.com/WWFWT) Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
+  > Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
+
+### [X1r0z](https://github.com/X1r0z)
+- 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [ret2shell/ret2shell](https://github.com/ret2shell/ret2shell)
+  > A feature-riches CTF challenge platform!
+
+### [aviraxp](https://github.com/aviraxp)
+- 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [Naimur9800/Sc7731-Sc8830-Vendor_Source](https://github.com/Naimur9800/Sc7731-Sc8830-Vendor_Source)
+  > Android Vendor Source For Sc7731/Sc8830
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development)
@@ -92,6 +130,11 @@
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix)
   > Peace of mind from prototype to production
 
+### [dzxpert](https://github.com/dzxpert)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [ShirokoLEET/PhysDrvLoader](https://github.com/ShirokoLEET/PhysDrvLoader)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)
+  > All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Expl...
+
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [Aslam97/minimal-tiptap](https://github.com/Aslam97/minimal-tiptap)
   > Minimal Tiptap Editor
@@ -99,6 +142,24 @@
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)
   > Open-source intelligence for the global theater. Track everything from the corporate/private jets of...
+
+### [ggggmllll](https://github.com/ggggmllll)
+- 🌟 👤 [ggggmllll](https://github.com/ggggmllll) Starred [karimodm/angrMCP](https://github.com/karimodm/angrMCP)
+  > LLMs that break your binaries apart. MCP for angr framework.
+- 🌟 👤 [ggggmllll](https://github.com/ggggmllll) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
+  > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
+
+### [gh0stkey](https://github.com/gh0stkey)
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
+  > Desktop app to manage markdown knowledge bases
+
+### [gmh5225](https://github.com/gmh5225)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [dannylimanseta/tinyskies](https://github.com/dannylimanseta/tinyskies) to [gmh5225/tinyskies](https://github.com/gmh5225/tinyskies)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [TheQtCompanyRnD/agent-skills](https://github.com/TheQtCompanyRnD/agent-skills) to [gmh5225/agent-skills-qt](https://github.com/gmh5225/agent-skills-qt)
+  > Official Qt AI engineering skills for Claude Code, Codex, Copilot, Gemini,and other AI coding tools
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [codemod/codemod](https://github.com/codemod/codemod) to [gmh5225/codemod](https://github.com/gmh5225/codemod)
+  > The CLI for codemods: scaffold, share, and run multi-step transformations of any size. First-class a...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [orca-so/whirlpool-cpi-sample](https://github.com/orca-so/whirlpool-cpi-sample) to [gmh5225/whirlpool-cpi-sample](https://github.com/gmh5225/whirlpool-cpi-sample)
 
 ### [happydog-intj](https://github.com/happydog-intj)
 - 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)
@@ -131,6 +192,11 @@
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [ZyphrZero/chatgpt2api](https://github.com/ZyphrZero/chatgpt2api)
   > Go版本ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口协议，在线批量生成图像，号池管理，支持导入CPA、sub2api...
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload)
+  > 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+
+### [laozig](https://github.com/laozig)
+- 🚀 👤 [laozig](https://github.com/laozig) Made [laozig/archive](https://github.com/laozig/archive) public
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [Orchestra-Research/Agent-Native-Research-Artifact](https://github.com/Orchestra-Research/Agent-Native-Research-Artifact)
@@ -145,6 +211,12 @@
 ### [luochuanyuewu](https://github.com/luochuanyuewu)
 - 🌟 👤 [luochuanyuewu](https://github.com/luochuanyuewu) Starred [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
   > Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，持续更新中
+
+### [lyy289065406](https://github.com/lyy289065406)
+- 🌟 👤 [lyy289065406](https://github.com/lyy289065406) Starred [perkfly/ex-skill](https://github.com/perkfly/ex-skill)
+  > 前任 skill
+- 🍴 👤 [lyy289065406](https://github.com/lyy289065406) Forked [perkfly/ex-skill](https://github.com/perkfly/ex-skill) to [lyy289065406/ex-skill](https://github.com/lyy289065406/ex-skill)
+  > 前任 skill
 
 ### [meme](https://github.com/meme)
 - 🌟 👤 [meme](https://github.com/meme) Starred [TinyTapeout/tt-micropython-firmware](https://github.com/TinyTapeout/tt-micropython-firmware)
@@ -169,6 +241,24 @@
   > 谷歌三件套安装教程，google-play-store，谷歌商店，谷歌服务，谷歌框架
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [openai/symphony](https://github.com/openai/symphony)
   > Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage ...
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk)
+  > Firmware Analysis Tool
+
+### [rcmiku](https://github.com/rcmiku)
+- 🌟 👤 [rcmiku](https://github.com/rcmiku) Starred [skydoves/compose-animations](https://github.com/skydoves/compose-animations)
+  > ⚡️ A collection of Jetpack Compose animations for the best practices. Tweak literals at the top of a...
+
+### [ret2ldz](https://github.com/ret2ldz)
+- 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
+  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+
+### [su-vikas](https://github.com/su-vikas)
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [su-vikas/Mobile-Attack-Vectors](https://github.com/su-vikas/Mobile-Attack-Vectors)
+  > Mobile attack vectors - as observed in malwares and apps. 
+
+### [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz)
+- 🌟 👤 [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+  > 🔥 The API to search, scrape, and interact with the web for AI
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [opencyvis/opencyvis-phone](https://github.com/opencyvis/opencyvis-phone)
@@ -188,5 +278,5 @@
 
 
 ---
-*最后更新于 2026-05-05 05:43:32 UTC*
+*最后更新于 2026-05-05 08:09:58 UTC*
 *历史记录保存在 `archive` 目录中。*
