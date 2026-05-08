@@ -19,6 +19,10 @@
 - 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 - 🍴 👤 [AabyssZG](https://github.com/AabyssZG) Forked [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) to [AabyssZG/dirtyfrag](https://github.com/AabyssZG/dirtyfrag)
 
+### [Ahmeth4n](https://github.com/Ahmeth4n)
+- 🌟 👤 [Ahmeth4n](https://github.com/Ahmeth4n) Starred [radareorg/r2unity](https://github.com/radareorg/r2unity)
+  > Reverse engineer Unity games with radare2
+
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [YuriSizuku/OnscripterYuri](https://github.com/YuriSizuku/OnscripterYuri)
   > An enhancement ONScripter project porting to many platforms, especially web. 
@@ -45,6 +49,10 @@
 - 🌟 👤 [BlackHole1](https://github.com/BlackHole1) Starred [eryajf/kite-desktop](https://github.com/eryajf/kite-desktop)
   > kite-desktop，一个基于 Wails v3 打造、面向桌面端的 K8S 多集群管理工具 🪁
 
+### [CCint3](https://github.com/CCint3)
+- 🌟 👤 [CCint3](https://github.com/CCint3) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
 ### [DeEpinGh0st](https://github.com/DeEpinGh0st)
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
   > Coding agent for DeepSeek models that runs in your terminal
@@ -65,14 +73,24 @@
 ### [FunnyWolf](https://github.com/FunnyWolf)
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
+### [GcsSloop](https://github.com/GcsSloop)
+- 🌟 👤 [GcsSloop](https://github.com/GcsSloop) Starred [momenbasel/PureMac](https://github.com/momenbasel/PureMac)
+  > Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, schedul...
+
 ### [Gracker](https://github.com/Gracker)
 - 🌟 👤 [Gracker](https://github.com/Gracker) Starred [unnoo/zsxq-skill](https://github.com/unnoo/zsxq-skill)
 
 ### [H4ckForJob](https://github.com/H4ckForJob)
 - 🍴 👤 [H4ckForJob](https://github.com/H4ckForJob) Forked [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) to [H4ckForJob/dirtyfrag](https://github.com/H4ckForJob/dirtyfrag)
+- 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [whwlsfb/Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan)
+  > Log4j2 RCE Passive Scanner plugin for BurpSuite
 
 ### [Hzllaga](https://github.com/Hzllaga)
 - 🌟 👤 [Hzllaga](https://github.com/Hzllaga) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+
+### [ImuSpirit](https://github.com/ImuSpirit)
+- 🌟 👤 [ImuSpirit](https://github.com/ImuSpirit) Starred [MWR-CyberSec/VeeamDumper-BOF](https://github.com/MWR-CyberSec/VeeamDumper-BOF)
+  > A credential extraction BOF for Veeam Backup and Replication and Veeam One 
 
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
@@ -129,13 +147,29 @@
 ### [Tokeii0](https://github.com/Tokeii0)
 - 🌟 👤 [Tokeii0](https://github.com/Tokeii0) Starred [SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC](https://github.com/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC)
 
+### [antiwar3](https://github.com/antiwar3)
+- 🌟 👤 [antiwar3](https://github.com/antiwar3) Starred [kernullist/kn-diff-pool](https://github.com/kernullist/kn-diff-pool)
+  > Windows kernel Big Pool snapshot/diff tool with a kernel-mode driver and a Go TUI.
+
 ### [apkunpacker](https://github.com/apkunpacker)
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [radareorg/r2unity](https://github.com/radareorg/r2unity)
   > Reverse engineer Unity games with radare2
 
+### [arpruss](https://github.com/arpruss)
+- 🍴 👤 [arpruss](https://github.com/arpruss) Forked [atsb/RL_M](https://github.com/atsb/RL_M) to [arpruss/larn_hp165x](https://github.com/arpruss/larn_hp165x)
+  > Larn - based on 12.4 maintained and developed for modern systems
+
 ### [atlas4381](https://github.com/atlas4381)
 - 🌟 👤 [atlas4381](https://github.com/atlas4381) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+
+### [bet4it](https://github.com/bet4it)
+- 🍴 👤 [bet4it](https://github.com/bet4it) Forked [warpdotdev/warp](https://github.com/warpdotdev/warp) to [bet4it/warp](https://github.com/bet4it/warp)
+  > Warp is an agentic development environment, born out of the terminal.
+
+### [burpheart](https://github.com/burpheart)
+- 🌟 👤 [burpheart](https://github.com/burpheart) Starred [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator)
+  > The real deal
 
 ### [buzzer-re](https://github.com/buzzer-re)
 - 🌟 👤 [buzzer-re](https://github.com/buzzer-re) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
@@ -170,21 +204,38 @@
 ### [gh0stkey](https://github.com/gh0stkey)
 - 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer)
   > Local-first desktop markdown editor
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC)
+  > 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
 ### [h3h3qaq](https://github.com/h3h3qaq)
 - 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+
+### [hanbings](https://github.com/hanbings)
+- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc)
+  > Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/t...
 
 ### [hyrathon](https://github.com/hyrathon)
 - 🌟 👤 [hyrathon](https://github.com/hyrathon) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX)
+  > The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool...
 
 ### [imlk0](https://github.com/imlk0)
 - 🌟 👤 [imlk0](https://github.com/imlk0) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
+### [je5442804](https://github.com/je5442804)
+- 🌟 👤 [je5442804](https://github.com/je5442804) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+
 ### [kin4stat](https://github.com/kin4stat)
 - 🌟 👤 [kin4stat](https://github.com/kin4stat) Starred [anton48/vk-turn-proxy](https://github.com/anton48/vk-turn-proxy)
+
+### [kingking888](https://github.com/kingking888)
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [zhiziX/zhiziX-wx-download](https://github.com/zhiziX/zhiziX-wx-download)
+  > 微信公众号文章批量采集和下载工具，基于浏览器扩展，不经服务器，无需把 Cookie交给第三方，无需本地部署，免费开箱即用。本地直连公众号后台，批量采集正文与合集，并接入 AI 写作风格建模和 Skil...
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [C-W-X/WeChat_Video](https://github.com/C-W-X/WeChat_Video)
+  > 提取并下载微信公众号文章内视频
 
 ### [le31ei](https://github.com/le31ei)
 - 🌟 👤 [le31ei](https://github.com/le31ei) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
@@ -210,6 +261,12 @@
 - 🍴 👤 [lz6688](https://github.com/lz6688) Forked [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) to [lz6688/hackingtool](https://github.com/lz6688/hackingtool)
   > ALL IN ONE Hacking Tool For Hackers
 
+### [madeye](https://github.com/madeye)
+- 🌟 👤 [madeye](https://github.com/madeye) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+  > Write HTML. Render video. Built for agents.
+- 🌟 👤 [madeye](https://github.com/madeye) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash local inference engine for Metal
+
 ### [mav8557](https://github.com/mav8557)
 - 🍴 👤 [mav8557](https://github.com/mav8557) Forked [KonaeAkira/raphael-rs](https://github.com/KonaeAkira/raphael-rs) to [mav8557/raphael-rs](https://github.com/mav8557/raphael-rs)
   > Crafting macro solver for Final Fantasy XIV
@@ -231,6 +288,12 @@
 - 🌟 👤 [muhammadrizwan87](https://github.com/muhammadrizwan87) Starred [Perfare/Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper)
   > Using Zygisk to dump il2cpp data at runtime
 
+### [mzlogin](https://github.com/mzlogin)
+- 🌟 👤 [mzlogin](https://github.com/mzlogin) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+- 🌟 👤 [mzlogin](https://github.com/mzlogin) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
+  > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
+
 ### [nblog](https://github.com/nblog)
 - 🌟 👤 [nblog](https://github.com/nblog) Starred [apache/guacamole-server](https://github.com/apache/guacamole-server)
   > The Apache Guacamole proxy daemon (guacd), C API (libguac), and protocol support.
@@ -240,6 +303,11 @@
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [cinit/WSAPatch](https://github.com/cinit/WSAPatch)
   > Make WSA(Windows Subsystem for Android) run on Windows 10.
+
+### [ommadawn46](https://github.com/ommadawn46)
+- 🌟 👤 [ommadawn46](https://github.com/ommadawn46) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+- 🌟 👤 [ommadawn46](https://github.com/ommadawn46) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
+  > Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code
 
 ### [prife](https://github.com/prife)
 - 🌟 👤 [prife](https://github.com/prife) Starred [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter)
@@ -251,6 +319,10 @@
 
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+
+### [qfrtt](https://github.com/qfrtt)
+- 🌟 👤 [qfrtt](https://github.com/qfrtt) Starred [blacktop/darwin-xnu-build](https://github.com/blacktop/darwin-xnu-build)
+  > XNU kernel, Kernel Collection and CodeQL build scripts
 
 ### [qi4L](https://github.com/qi4L)
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [radareorg/iaito](https://github.com/radareorg/iaito)
@@ -267,12 +339,18 @@
 - 🌟 👤 [smartdone](https://github.com/smartdone) Starred [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec)
   > Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 
+### [sunoj](https://github.com/sunoj)
+- 🌟 👤 [sunoj](https://github.com/sunoj) Starred [playcanvas/supersplat](https://github.com/playcanvas/supersplat)
+  > 3D Gaussian Splat Editor
+
 ### [superfish9](https://github.com/superfish9)
 - 🌟 👤 [superfish9](https://github.com/superfish9) Starred [jjyaoao/HelloAgents](https://github.com/jjyaoao/HelloAgents)
   > A agent framework based on the tutorial hello-agents
 
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+- 🌟 👤 [veritas501](https://github.com/veritas501) Starred [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground)
+  > 基于 OpenAI gpt-image-2 接口的图片生成与编辑工具
 
 ### [wa1ki0g](https://github.com/wa1ki0g)
 - 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [riba2534/feishu-cli](https://github.com/riba2534/feishu-cli)
@@ -289,6 +367,9 @@
 ### [windy-purple](https://github.com/windy-purple)
 - 🌟 👤 [windy-purple](https://github.com/windy-purple) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
+### [winmin](https://github.com/winmin)
+- 🌟 👤 [winmin](https://github.com/winmin) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+
 ### [wuzuowei](https://github.com/wuzuowei)
 - 🌟 👤 [wuzuowei](https://github.com/wuzuowei) Starred [vulhub/java-chains](https://github.com/vulhub/java-chains)
   > Java Vulnerability Exploitation Platform
@@ -296,6 +377,18 @@
 ### [wyattearp](https://github.com/wyattearp)
 - 🍴 👤 [wyattearp](https://github.com/wyattearp) Forked [jopohl/urh](https://github.com/jopohl/urh) to [wyattearp/urh](https://github.com/wyattearp/urh)
   > Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
+
+### [xhz444](https://github.com/xhz444)
+- 🍴 👤 [xhz444](https://github.com/xhz444) Forked [Numbersf/Action-Build](https://github.com/Numbersf/Action-Build) to [xhz444/Action-Build](https://github.com/xhz444/Action-Build)
+  > Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2....
+
+### [xingfengwxx](https://github.com/xingfengwxx)
+- 🌟 👤 [xingfengwxx](https://github.com/xingfengwxx) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
+  > Warp is an agentic development environment, born out of the terminal.
+
+### [xsser](https://github.com/xsser)
+- 🌟 👤 [xsser](https://github.com/xsser) Starred [openai/skills](https://github.com/openai/skills)
+  > Skills Catalog for Codex
 
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [PyXMR2025/blog](https://github.com/PyXMR2025/blog)
@@ -324,10 +417,14 @@
 - 🌟 👤 [zacbre](https://github.com/zacbre) Starred [antirez/ds4](https://github.com/antirez/ds4)
   > DeepSeek 4 Flash local inference engine for Metal
 
+### [zhangyoufu](https://github.com/zhangyoufu)
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [microsoft/pdb-rs](https://github.com/microsoft/pdb-rs)
+  > Tools and documents for working with Microsoft PDB files, in Rust
+
 ### [zhzyker](https://github.com/zhzyker)
 - 🍴 👤 [zhzyker](https://github.com/zhzyker) Forked [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) to [Sec-Fork/dirtyfrag](https://github.com/Sec-Fork/dirtyfrag)
 
 
 ---
-*最后更新于 2026-05-08 02:55:53 UTC*
+*最后更新于 2026-05-08 05:31:01 UTC*
 *历史记录保存在 `archive` 目录中。*
