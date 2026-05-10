@@ -19,6 +19,8 @@
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [SteveTheKiller/KillerPDF](https://github.com/SteveTheKiller/KillerPDF)
   > PDF editor for Windows. Install or run portable. GPLv3. No account, no subscription, no telemetry.
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [dexsuite/dex-retargeting](https://github.com/dexsuite/dex-retargeting)
+  > Various retargeting optimizers to translate human hand motion to robot hand motion. 
 
 ### [AlphabugX](https://github.com/AlphabugX)
 - 🌟 👤 [AlphabugX](https://github.com/AlphabugX) Starred [califio/skills](https://github.com/califio/skills)
@@ -39,6 +41,10 @@
 ### [DerekSelander](https://github.com/DerekSelander)
 - 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [fjh658/darwin-xnu-build](https://github.com/fjh658/darwin-xnu-build)
   > XNU kernel, Kernel Collection and CodeQL build scripts
+
+### [EZForever](https://github.com/EZForever)
+- 🌟 👤 [EZForever](https://github.com/EZForever) Starred [m417z/the-old-new-thing-userscript](https://github.com/m417z/the-old-new-thing-userscript)
+  > Archived comments for old pages of The Old New Thing, a userscript to embed them and fix old links
 
 ### [FeeiCN](https://github.com/FeeiCN)
 - 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)
@@ -125,6 +131,10 @@
 - 🌟 👤 [TheCjw](https://github.com/TheCjw) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
   > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
 
+### [TomKing062](https://github.com/TomKing062)
+- 🌟 👤 [TomKing062](https://github.com/TomKing062) Starred [JusticeRage/Gepetto](https://github.com/JusticeRage/Gepetto)
+  > IDA plugin which queries language models to speed up reverse-engineering
+
 ### [YuKongA](https://github.com/YuKongA)
 - 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer)
   > A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed bre...
@@ -179,6 +189,8 @@
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [mujib77/pgstream](https://github.com/mujib77/pgstream)
   > Real-time PostgreSQL WAL reader built in  GO - captures INSERT, UPDATE, DELETE using logical replica...
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+  > Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [annihilatorq/omni](https://github.com/annihilatorq/omni)
@@ -205,6 +217,12 @@
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [xgo-dev/llgo](https://github.com/xgo-dev/llgo)
   > A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python an...
+- 🌟 👤 [feicong](https://github.com/feicong) Starred [bmax121/KernelPatch](https://github.com/bmax121/KernelPatch)
+  > Patching and hooking the Linux kernel with only a stripped Linux kernel image.
+- 🌟 👤 [feicong](https://github.com/feicong) Starred [LanRhyme/MicYou](https://github.com/LanRhyme/MicYou)
+  > MicYou is a powerful tool that turns your Android device into a high-quality wireless microphone for...
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [LanRhyme/MicYou](https://github.com/LanRhyme/MicYou) to [feicong/MicYou](https://github.com/feicong/MicYou)
+  > MicYou is a powerful tool that turns your Android device into a high-quality wireless microphone for...
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [mandiant/flare-learning-hub](https://github.com/mandiant/flare-learning-hub) to [fengjixuchui/flare-learning-hub](https://github.com/fengjixuchui/flare-learning-hub)
@@ -221,10 +239,20 @@
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [RecomBox/RecomBox](https://github.com/RecomBox/RecomBox) to [gmh5225/RecomBox](https://github.com/gmh5225/RecomBox)
   > Open-source cross-platform torrent streaming app for Anime, Movies, and TV.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [leinelissen/embedded-postgres](https://github.com/leinelissen/embedded-postgres) to [gmh5225/embedded-postgres-](https://github.com/gmh5225/embedded-postgres-)
+  > 🐘 A Node package that allows you to spawn a Postgresql cluster programatically.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [microsoft/vscode-ripgrep](https://github.com/microsoft/vscode-ripgrep) to [gmh5225/vscode-ripgrep](https://github.com/gmh5225/vscode-ripgrep)
+  > For consuming the ripgrep binary from microsoft/ripgrep-prebuilt in a Node project
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [EkuboProtocol/huff-router](https://github.com/EkuboProtocol/huff-router) to [gmh5225/huff-router](https://github.com/gmh5225/huff-router)
+  > Optimized router contract for Ekubo Protocol on EVM
 
 ### [hanbings](https://github.com/hanbings)
 - 🌟 👤 [hanbings](https://github.com/hanbings) Starred [stvlynn/KumoApp](https://github.com/stvlynn/KumoApp)
   > A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendl...
+
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)
+  > Harness engineering official style beginner tutorial, from 0 to 1
 
 ### [hzyitc](https://github.com/hzyitc)
 - 🌟 👤 [hzyitc](https://github.com/hzyitc) Starred [CloverHackyColor/CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader)
@@ -284,6 +312,14 @@
 - 🍴 👤 [longofo](https://github.com/longofo) Forked [dwisiswant0/next-16.2.4-pocs](https://github.com/dwisiswant0/next-16.2.4-pocs) to [longofo/next-16.2.4-pocs](https://github.com/longofo/next-16.2.4-pocs)
   > Next.js v16.2.4 Security PoC Collection (CVE-2026-23870, CVE-2026-44575, CVE-2026-44579, CVE-2026-44...
 
+### [lqqyt2423](https://github.com/lqqyt2423)
+- 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [yuting-ai/SideCli](https://github.com/yuting-ai/SideCli)
+  > SideCli is a light macOS terminal that auto-hides on the screen edge, supports split panes for multi...
+
+### [mattiasgustavsson](https://github.com/mattiasgustavsson)
+- 🌟 👤 [mattiasgustavsson](https://github.com/mattiasgustavsson) Starred [DrMcCoy/dmc_unrar](https://github.com/DrMcCoy/dmc_unrar)
+  > A dependency-free, single-file FLOSS unrar library
+
 ### [merlinxcy](https://github.com/merlinxcy)
 - 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC](https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC)
   > PoC: fully unprivileged container escape to node-level code execution on Kubernetes via CVE-2026-314...
@@ -291,6 +327,18 @@
 ### [mo-xiaoxi](https://github.com/mo-xiaoxi)
 - 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)
   > Windsurf-to-OpenAI compatible API proxy
+
+### [moyada](https://github.com/moyada)
+- 🌟 👤 [moyada](https://github.com/moyada) Starred [datascale-ai/opentalking](https://github.com/datascale-ai/opentalking)
+  > OpenTalking：可私有部署、可插拔模型、支持实时对话的工业级开源数字人框架。
+- 🍴 👤 [moyada](https://github.com/moyada) Forked [datascale-ai/opentalking](https://github.com/datascale-ai/opentalking) to [moyada/opentalking](https://github.com/moyada/opentalking)
+  > OpenTalking：可私有部署、可插拔模型、支持实时对话的工业级开源数字人框架。
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/covirt](https://github.com/dmaivel/covirt)
+  > An x86-64 code virtualizer for VM based obfuscation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stuxnet147/Themida-Research](https://github.com/stuxnet147/Themida-Research)
+  > Themida 3.x research
 
 ### [mtrojnar](https://github.com/mtrojnar)
 - 🌟 👤 [mtrojnar](https://github.com/mtrojnar) Starred [oferchen/rsync](https://github.com/oferchen/rsync)
@@ -318,6 +366,10 @@
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [aldefy/compose-skill](https://github.com/aldefy/compose-skill)
   > Jetpack Compose Agent Skill — AI-powered coding guidance with actual androidx/androidx source code r...
 
+### [sleirsgoevy](https://github.com/sleirsgoevy)
+- 🍴 👤 [sleirsgoevy](https://github.com/sleirsgoevy) Forked [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) to [sleirsgoevy/ps5-linux-loader](https://github.com/sleirsgoevy/ps5-linux-loader)
+  > Linux payload implementing the HV exploit and a custom bootloader
+
 ### [ssfdust](https://github.com/ssfdust)
 - 🌟 👤 [ssfdust](https://github.com/ssfdust) Starred [antirez/ds4](https://github.com/antirez/ds4)
   > DeepSeek 4 Flash local inference engine for Metal
@@ -325,6 +377,9 @@
 ### [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz)
 - 🌟 👤 [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz) Starred [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord)
   > An open-source audio wake word (or phrase) detection framework with a focus on performance and simpl...
+
+### [xyxdaily](https://github.com/xyxdaily)
+- 🍴 👤 [xyxdaily](https://github.com/xyxdaily) Forked [lidongyooo/AlgoKiller](https://github.com/lidongyooo/AlgoKiller) to [xyxdaily/AlgoKiller-reverse](https://github.com/xyxdaily/AlgoKiller-reverse)
 
 ### [yhs0602](https://github.com/yhs0602)
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [HenBOMB/Polyfish](https://github.com/HenBOMB/Polyfish)
@@ -352,5 +407,5 @@
 
 
 ---
-*最后更新于 2026-05-10 10:15:04 UTC*
+*最后更新于 2026-05-10 11:51:50 UTC*
 *历史记录保存在 `archive` 目录中。*
