@@ -31,12 +31,18 @@
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
+### [Chordp](https://github.com/Chordp)
+- 🌟 👤 [Chordp](https://github.com/Chordp) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+  > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dreadnode/DreadGOAD](https://github.com/dreadnode/DreadGOAD)
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [nooga/let-go](https://github.com/nooga/let-go)
   > Almost Clojure written in Go.
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [zaas2/StudyPE_2026](https://github.com/zaas2/StudyPE_2026)
+  > Modern PE/ARM/.NET analyzer and editor rebuilt with Qt 5.15
 
 ### [DerekSelander](https://github.com/DerekSelander)
 - 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [fjh658/darwin-xnu-build](https://github.com/fjh658/darwin-xnu-build)
@@ -86,6 +92,10 @@
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [mandiant/capa](https://github.com/mandiant/capa)
   > The FLARE team's open-source tool to identify capabilities in executable files.
 
+### [No-Github](https://github.com/No-Github)
+- 🚀 👤 [No-Github](https://github.com/No-Github) Made [wgpsec/benchmark-platform](https://github.com/wgpsec/benchmark-platform) public
+  > AI agent CTF 靶场竞赛平台
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha)
   > Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析）
@@ -95,6 +105,14 @@
   > A list of useful Powershell scripts with 100% AV bypass (At the time of publication). 
 - 🌟 👤 [P001water](https://github.com/P001water) Starred [RedByte1337/GraphSpy](https://github.com/RedByte1337/GraphSpy)
   > Initial Access and Post-Exploitation Tool for Entra ID and M365 with a browser-based GUI
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🍴 👤 [P4nda0s](https://github.com/P4nda0s) Forked [NyaMisty/ssl-kill-switch3](https://github.com/NyaMisty/ssl-kill-switch3) to [P4nda0s/ssl-kill-switch3](https://github.com/P4nda0s/ssl-kill-switch3)
+  > Next Generation SSLKillSwitch with much more support!
+
+### [PeiQi0](https://github.com/PeiQi0)
+- 🌟 👤 [PeiQi0](https://github.com/PeiQi0) Starred [jilv220/BB_RPB_TSL](https://github.com/jilv220/BB_RPB_TSL)
+  > A Trading strategy for the Freqtrade crypto bot.
 
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🍴 👤 [PoomSmart](https://github.com/PoomSmart) Forked [mineek/MuffinStore](https://github.com/mineek/MuffinStore) to [PoomSmart/MuffinStore](https://github.com/PoomSmart/MuffinStore)
@@ -110,6 +128,12 @@
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [kasnria001/qualcomm_noavb_exploit_common](https://github.com/kasnria001/qualcomm_noavb_exploit_common)
   > Unlocking Bootloader via noavb exploit (still in progress)
+
+### [SpriteOvO](https://github.com/SpriteOvO)
+- 🌟 👤 [SpriteOvO](https://github.com/SpriteOvO) Starred [theonedev/onedev](https://github.com/theonedev/onedev)
+  > Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- 🌟 👤 [SpriteOvO](https://github.com/SpriteOvO) Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)
+  > Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git h...
 
 ### [SummerSec](https://github.com/SummerSec)
 - 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [SummerSec/Gen-Image](https://github.com/SummerSec/Gen-Image)
@@ -140,9 +164,15 @@
   > A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed bre...
 - 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
   > Orchestrate coding agents remotely from your phone, desktop and CLI
+- 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+  > The open source coding agent.
 
 ### [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU)
 - 🌟 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Starred [SongTonyLi/ffmpeg_knighter](https://github.com/SongTonyLi/ffmpeg_knighter)
+
+### [apkunpacker](https://github.com/apkunpacker)
+- 🍴 👤 [apkunpacker](https://github.com/apkunpacker) Forked [offsecnight/DexSploitX](https://github.com/offsecnight/DexSploitX) to [apkunpacker/DexSploitX](https://github.com/apkunpacker/DexSploitX)
+  > Advanced Android RAT Framework for Authorized Security Testing | Supports Android 5.0-16 | Telegram ...
 
 ### [aviraxp](https://github.com/aviraxp)
 - 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [chinleez/eBPFDexDumper-rs](https://github.com/chinleez/eBPFDexDumper-rs)
@@ -174,6 +204,8 @@
 ### [crazy-max](https://github.com/crazy-max)
 - 🌟 👤 [crazy-max](https://github.com/crazy-max) Starred [hacdias/webdav](https://github.com/hacdias/webdav)
   > A simple and standalone WebDAV server.
+- 🌟 👤 [crazy-max](https://github.com/crazy-max) Starred [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose)
+  > DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your onli...
 
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🍴 👤 [ctkqiang](https://github.com/ctkqiang) Forked [CrackerCat/YukiSU](https://github.com/CrackerCat/YukiSU) to [ctkqiang/YukiSU](https://github.com/ctkqiang/YukiSU)
@@ -185,6 +217,10 @@
 
 ### [darbra](https://github.com/darbra)
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [lidongyooo/AlgoKiller](https://github.com/lidongyooo/AlgoKiller)
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
+  > Free, open source crypto trading bot
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [pengchengneo/Claude-Code](https://github.com/pengchengneo/Claude-Code)
+  > 可运行的Claude Code源码
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [mujib77/pgstream](https://github.com/mujib77/pgstream)
@@ -213,6 +249,8 @@
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
   > a Docker + Kubernetes network trouble-shooting swiss-army container
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
+  > 💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [xgo-dev/llgo](https://github.com/xgo-dev/llgo)
@@ -227,10 +265,18 @@
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [mandiant/flare-learning-hub](https://github.com/mandiant/flare-learning-hub) to [fengjixuchui/flare-learning-hub](https://github.com/fengjixuchui/flare-learning-hub)
   > Free educational content on reverse engineering and malware analysis from the FLARE team
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [AabyssZG/HashDump-BypassEDR](https://github.com/AabyssZG/HashDump-BypassEDR) to [fengjixuchui/HashDump-BypassEDR](https://github.com/fengjixuchui/HashDump-BypassEDR)
+  > Windows绕过EDR实现DumpHash
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) to [fengjixuchui/dictionary-of-ai-coding](https://github.com/fengjixuchui/dictionary-of-ai-coding)
+  > AI coding jargon, explained in plain English.
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask)
   > Simple and handy overview of applications shortcuts
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork)
+  > Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 
 ### [fyrlove](https://github.com/fyrlove)
 - 🌟 👤 [fyrlove](https://github.com/fyrlove) Starred [xminte/Awesome-Android-Reverse-tools-dev](https://github.com/xminte/Awesome-Android-Reverse-tools-dev)
@@ -245,10 +291,28 @@
   > For consuming the ripgrep binary from microsoft/ripgrep-prebuilt in a Node project
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [EkuboProtocol/huff-router](https://github.com/EkuboProtocol/huff-router) to [gmh5225/huff-router](https://github.com/gmh5225/huff-router)
   > Optimized router contract for Ekubo Protocol on EVM
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
+  > 💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [google/boringssl](https://github.com/google/boringssl)
+  > Mirror of BoringSSL
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [diemoeve/oxide](https://github.com/diemoeve/oxide) to [gmh5225/oxide-c2](https://github.com/gmh5225/oxide-c2)
+  > Cross-platform C2 implant framework. Every TTP ships with YARA rules, Sigma rules, and IR playbooks.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Wamrma/Cobaltstrike-atexec-CNA-plugin](https://github.com/Wamrma/Cobaltstrike-atexec-CNA-plugin) to [gmh5225/Cobaltstrike-atexec-CNA-plugin](https://github.com/gmh5225/Cobaltstrike-atexec-CNA-plugin)
+  > Enables-Cobalt-Strike-to-support-Atexec-plugin-cna
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [verum-lang/verum](https://github.com/verum-lang/verum) to [gmh5225/verum](https://github.com/gmh5225/verum)
+  > The Verum Programming Language
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Moon9t/IRIS](https://github.com/Moon9t/IRIS) to [gmh5225/IRIS-](https://github.com/gmh5225/IRIS-)
+  > IRIS is a modular, extensible compiler infrastructure written in Rust. It provides a rich intermedia...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [opentable/otj-pg-embedded](https://github.com/opentable/otj-pg-embedded) to [gmh5225/otj-pg-embedded](https://github.com/gmh5225/otj-pg-embedded)
+  > Java embedded PostgreSQL component for testing
 
 ### [hanbings](https://github.com/hanbings)
 - 🌟 👤 [hanbings](https://github.com/hanbings) Starred [stvlynn/KumoApp](https://github.com/stvlynn/KumoApp)
   > A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendl...
+
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [TQZHR/deepseek2api](https://github.com/TQZHR/deepseek2api)
+  > deepseek2api
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)
@@ -275,6 +339,10 @@
 ### [iAklis](https://github.com/iAklis)
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [Endi1/fabrica](https://github.com/Endi1/fabrica)
 
+### [ilian](https://github.com/ilian)
+- 🌟 👤 [ilian](https://github.com/ilian) Starred [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)
+  > Staggeringly powerful macOS desktop automation with Lua
+
 ### [imj01y](https://github.com/imj01y)
 - 🌟 👤 [imj01y](https://github.com/imj01y) Starred [lidongyooo/AlgoKiller](https://github.com/lidongyooo/AlgoKiller)
 
@@ -285,6 +353,10 @@
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
   > A Rust compiler front-end for IDEs
+
+### [jmpews](https://github.com/jmpews)
+- 🌟 👤 [jmpews](https://github.com/jmpews) Starred [lifting-bits/sleigh](https://github.com/lifting-bits/sleigh)
+  > Unofficial CMake build for Ghidra's C++ SLEIGH code
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [progfolio/elpaca](https://github.com/progfolio/elpaca)
@@ -323,6 +395,10 @@
 ### [merlinxcy](https://github.com/merlinxcy)
 - 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC](https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC)
   > PoC: fully unprivileged container escape to node-level code execution on Kubernetes via CVE-2026-314...
+
+### [milo2012](https://github.com/milo2012)
+- 🌟 👤 [milo2012](https://github.com/milo2012) Starred [TwilitRealm/dusk](https://github.com/TwilitRealm/dusk)
+  > Dusk brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
 
 ### [mo-xiaoxi](https://github.com/mo-xiaoxi)
 - 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)
@@ -370,10 +446,6 @@
 - 🍴 👤 [sleirsgoevy](https://github.com/sleirsgoevy) Forked [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) to [sleirsgoevy/ps5-linux-loader](https://github.com/sleirsgoevy/ps5-linux-loader)
   > Linux payload implementing the HV exploit and a custom bootloader
 
-### [ssfdust](https://github.com/ssfdust)
-- 🌟 👤 [ssfdust](https://github.com/ssfdust) Starred [antirez/ds4](https://github.com/antirez/ds4)
-  > DeepSeek 4 Flash local inference engine for Metal
-
 ### [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz)
 - 🌟 👤 [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz) Starred [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord)
   > An open-source audio wake word (or phrase) detection framework with a focus on performance and simpl...
@@ -393,6 +465,14 @@
 - 🌟 👤 [yinsel](https://github.com/yinsel) Starred [InfinityCurveLabs/UAC-BOF-Bonanza](https://github.com/InfinityCurveLabs/UAC-BOF-Bonanza)
   > Collection of UAC Bypass Techniques Weaponized as BOFs
 
+### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
+- 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [pengchengneo/Claude-Code](https://github.com/pengchengneo/Claude-Code)
+  > 可运行的Claude Code源码
+
+### [yohanes](https://github.com/yohanes)
+- 🌟 👤 [yohanes](https://github.com/yohanes) Starred [londek/ipadecrypt](https://github.com/londek/ipadecrypt)
+  > 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal use...
+
 ### [zhangyoufu](https://github.com/zhangyoufu)
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
   > Firmware for the Xteink X4 e-paper display reader
@@ -407,5 +487,5 @@
 
 
 ---
-*最后更新于 2026-05-10 11:51:50 UTC*
+*最后更新于 2026-05-10 13:18:55 UTC*
 *历史记录保存在 `archive` 目录中。*
