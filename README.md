@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [1orz](https://github.com/1orz)
+- 🌟 👤 [1orz](https://github.com/1orz) Starred [weekdaycare/bl-mt798x-dhcpd](https://github.com/weekdaycare/bl-mt798x-dhcpd)
+  > A modified version of hanwckf's u-boot for mt798x by Yuzhii, with support for dhcpd, and beautiful w...
+- 🌟 👤 [1orz](https://github.com/1orz) Starred [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+  > 基于 GitHub Actions 专为 Cudy TR3000 自动编译 immortalwrt 固件项目，支持 SN 2544 新 flash 设备。每月1日更新。
+- 🍴 👤 [1orz](https://github.com/1orz) Forked [Yuzhii0718/bl-mt798x-dhcpd](https://github.com/Yuzhii0718/bl-mt798x-dhcpd) to [1orz/bl-mt798x-dhcpd-fork](https://github.com/1orz/bl-mt798x-dhcpd-fork)
+  > A variant of hanwckf's u-boot by yuzhii, with support for dhcpd, and advance web ui, support i18n, m...
+
 ### [Admirepowered](https://github.com/Admirepowered)
 - 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [hypery11/flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd)
   > Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind sp...
@@ -21,6 +29,9 @@
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dreadnode/DreadGOAD](https://github.com/dreadnode/DreadGOAD)
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [nooga/let-go](https://github.com/nooga/let-go)
   > Almost Clojure written in Go.
@@ -32,6 +43,12 @@
 ### [FeeiCN](https://github.com/FeeiCN)
 - 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits)
   > An open source collection of animated, interactive & fully customizable React components for buildin...
+- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [vercel/next.js](https://github.com/vercel/next.js)
+  > The React Framework
+- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+  > A set of beautifully-designed, accessible components and a code distribution platform. Works with yo...
+- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [storybookjs/storybook](https://github.com/storybookjs/storybook)
+  > Storybook is the industry standard workshop for building, documenting, and testing UI components in ...
 
 ### [H4ckForJob](https://github.com/H4ckForJob)
 - 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [zema1/suo5](https://github.com/zema1/suo5)
@@ -63,9 +80,15 @@
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [mandiant/capa](https://github.com/mandiant/capa)
   > The FLARE team's open-source tool to identify capabilities in executable files.
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha)
+  > Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析）
+
 ### [P001water](https://github.com/P001water)
 - 🌟 👤 [P001water](https://github.com/P001water) Starred [tihanyin/PSSW100AVB](https://github.com/tihanyin/PSSW100AVB)
   > A list of useful Powershell scripts with 100% AV bypass (At the time of publication). 
+- 🌟 👤 [P001water](https://github.com/P001water) Starred [RedByte1337/GraphSpy](https://github.com/RedByte1337/GraphSpy)
+  > Initial Access and Post-Exploitation Tool for Entra ID and M365 with a browser-based GUI
 
 ### [PoomSmart](https://github.com/PoomSmart)
 - 🍴 👤 [PoomSmart](https://github.com/PoomSmart) Forked [mineek/MuffinStore](https://github.com/mineek/MuffinStore) to [PoomSmart/MuffinStore](https://github.com/PoomSmart/MuffinStore)
@@ -78,9 +101,15 @@
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)
   > Build desktop + mobile apps with Zig and web UI
 
+### [Skorpion96](https://github.com/Skorpion96)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [kasnria001/qualcomm_noavb_exploit_common](https://github.com/kasnria001/qualcomm_noavb_exploit_common)
+  > Unlocking Bootloader via noavb exploit (still in progress)
+
 ### [SummerSec](https://github.com/SummerSec)
 - 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [SummerSec/Gen-Image](https://github.com/SummerSec/Gen-Image)
   > AI 图像生成工作台。
+- 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash local inference engine for Metal
 
 ### [Super12138](https://github.com/Super12138)
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [ArcticLampyrid/zhixue](https://github.com/ArcticLampyrid/zhixue)
@@ -99,6 +128,8 @@
 ### [YuKongA](https://github.com/YuKongA)
 - 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer)
   > A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed bre...
+- 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
+  > Orchestrate coding agents remotely from your phone, desktop and CLI
 
 ### [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU)
 - 🌟 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Starred [SongTonyLi/ffmpeg_knighter](https://github.com/SongTonyLi/ffmpeg_knighter)
@@ -106,6 +137,16 @@
 ### [aviraxp](https://github.com/aviraxp)
 - 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [chinleez/eBPFDexDumper-rs](https://github.com/chinleez/eBPFDexDumper-rs)
   > 面向 Android ARM64 的 eBPF DEX dump 工具。
+
+### [banteg](https://github.com/banteg)
+- 🌟 👤 [banteg](https://github.com/banteg) Starred [zeldaret/tww](https://github.com/zeldaret/tww)
+  > Decompilation of The Legend of Zelda: The Wind Waker
+- 🌟 👤 [banteg](https://github.com/banteg) Starred [encounter/aurora](https://github.com/encounter/aurora)
+  > A source-level GameCube & Wii compatibility layer
+- 🌟 👤 [banteg](https://github.com/banteg) Starred [TwilitRealm/dusk](https://github.com/TwilitRealm/dusk)
+  > Dusk brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
+- 🌟 👤 [banteg](https://github.com/banteg) Starred [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp)
+  > Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
 
 ### [bet4it](https://github.com/bet4it)
 - 🍴 👤 [bet4it](https://github.com/bet4it) Forked [generalaction/emdash](https://github.com/generalaction/emdash) to [bet4it/emdash](https://github.com/bet4it/emdash)
@@ -119,6 +160,10 @@
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [akane-gh/TeuchiUdon](https://github.com/akane-gh/TeuchiUdon)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
   > cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(i...
+
+### [crazy-max](https://github.com/crazy-max)
+- 🌟 👤 [crazy-max](https://github.com/crazy-max) Starred [hacdias/webdav](https://github.com/hacdias/webdav)
+  > A simple and standalone WebDAV server.
 
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🍴 👤 [ctkqiang](https://github.com/ctkqiang) Forked [CrackerCat/YukiSU](https://github.com/CrackerCat/YukiSU) to [ctkqiang/YukiSU](https://github.com/ctkqiang/YukiSU)
@@ -146,6 +191,12 @@
 ### [eerimoq](https://github.com/eerimoq)
 - 🌟 👤 [eerimoq](https://github.com/eerimoq) Starred [imtomt/ymawky](https://github.com/imtomt/ymawky)
   > MacOS Web Server written entirely in ARM64 assembly
+
+### [eltavine](https://github.com/eltavine)
+- 🌟 👤 [eltavine](https://github.com/eltavine) Starred [Fadouse/neko-obfuscator](https://github.com/Fadouse/neko-obfuscator)
+  > 🐱 Early-stage advanced Java bytecode obfuscator · 三层 IR / ZKM-style CFF / INVOKEDYNAMIC string encry...
+- 🍴 👤 [eltavine](https://github.com/eltavine) Forked [Fadouse/neko-obfuscator](https://github.com/Fadouse/neko-obfuscator) to [eltavine/neko-obfuscator](https://github.com/eltavine/neko-obfuscator)
+  > 🐱 Early-stage advanced Java bytecode obfuscator · 三层 IR / ZKM-style CFF / INVOKEDYNAMIC string encry...
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
@@ -196,9 +247,16 @@
 ### [iAklis](https://github.com/iAklis)
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [Endi1/fabrica](https://github.com/Endi1/fabrica)
 
+### [imj01y](https://github.com/imj01y)
+- 🌟 👤 [imj01y](https://github.com/imj01y) Starred [lidongyooo/AlgoKiller](https://github.com/lidongyooo/AlgoKiller)
+
 ### [jaywcjlove](https://github.com/jaywcjlove)
 - 🌟 👤 [jaywcjlove](https://github.com/jaywcjlove) Starred [antirez/ds4](https://github.com/antirez/ds4)
   > DeepSeek 4 Flash local inference engine for Metal
+
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
+  > A Rust compiler front-end for IDEs
 
 ### [jonpalmisc](https://github.com/jonpalmisc)
 - 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [progfolio/elpaca](https://github.com/progfolio/elpaca)
@@ -207,6 +265,13 @@
 ### [kylesmile1103](https://github.com/kylesmile1103)
 - 🌟 👤 [kylesmile1103](https://github.com/kylesmile1103) Starred [docling-project/docling](https://github.com/docling-project/docling)
   > Get your documents ready for gen AI
+
+### [lich4](https://github.com/lich4)
+- 🌟 👤 [lich4](https://github.com/lich4) Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+  > LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system fo...
+
+### [lidongyooo](https://github.com/lidongyooo)
+- 🌟 👤 [lidongyooo](https://github.com/lidongyooo) Starred [lidongyooo/AlgoKiller](https://github.com/lidongyooo/AlgoKiller)
 
 ### [lightsummer233](https://github.com/lightsummer233)
 - 🍴 👤 [lightsummer233](https://github.com/lightsummer233) Forked [imren0x/msm-4.19](https://github.com/imren0x/msm-4.19) to [lightsummer233/msm-4.19](https://github.com/lightsummer233/msm-4.19)
@@ -237,6 +302,13 @@
 
 ### [r0ysue](https://github.com/r0ysue)
 - 🌟 👤 [r0ysue](https://github.com/r0ysue) Starred [lidongyooo/AlgoKiller](https://github.com/lidongyooo/AlgoKiller)
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools)
+  > Tools for handling firmwares of DJI products, with focus on quadcopters.
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [arata-nvm/chibidec](https://github.com/arata-nvm/chibidec)
+  > A chibi decompiler implementation for ARM64 Mach-O
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [KikyoNanakusa/TinyDec_HLA](https://github.com/KikyoNanakusa/TinyDec_HLA)
 
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
@@ -280,5 +352,5 @@
 
 
 ---
-*最后更新于 2026-05-10 08:53:46 UTC*
+*最后更新于 2026-05-10 10:15:04 UTC*
 *历史记录保存在 `archive` 目录中。*
