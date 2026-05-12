@@ -47,6 +47,8 @@
   > HVCI/kCET-aware bugcheck suppressor PoC
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [pandax381/microps-rs](https://github.com/pandax381/microps-rs)
   > Tiny TCP/IP protocol stack written in Rust, reimplemented from microps.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)
+  > YellowKey Bitlocker Bypass Vulnerability
 
 ### [Cxk4ng](https://github.com/Cxk4ng)
 - 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [opendroneid/receiver-android](https://github.com/opendroneid/receiver-android)
@@ -97,6 +99,10 @@
 - 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [huhusmang/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection)
   > Awesome Large Language Models for Vulnerability Detection
 
+### [GithubKillsMyOpsec](https://github.com/GithubKillsMyOpsec)
+- 🌟 👤 [GithubKillsMyOpsec](https://github.com/GithubKillsMyOpsec) Starred [yehiel9523/shabbatPackage](https://github.com/yehiel9523/shabbatPackage)
+  > npm package to close web on jews Shabbat and holidays
+
 ### [H4ckForJob](https://github.com/H4ckForJob)
 - 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [Wh0am123/CVE-2025-54918-POC](https://github.com/Wh0am123/CVE-2025-54918-POC)
   > POC for CVE-2025-54918 and a technical demonstration.
@@ -130,6 +136,10 @@
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [AabyssZG/HashDump-BypassEDR](https://github.com/AabyssZG/HashDump-BypassEDR)
   > Windows绕过EDR实现DumpHash
 
+### [KickedDroid](https://github.com/KickedDroid)
+- 🌟 👤 [KickedDroid](https://github.com/KickedDroid) Starred [Dragkob/EdgeSnapper](https://github.com/Dragkob/EdgeSnapper)
+  > Specialized toolkit designed to exploit/dump the in-memory cleartext credential in Microsoft Edge.
+
 ### [KuLiPai](https://github.com/KuLiPai)
 - 🌟 👤 [KuLiPai](https://github.com/KuLiPai) Starred [banteg/bn](https://github.com/banteg/bn)
   > binary ninja cli for coding agents
@@ -137,6 +147,10 @@
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [Fatmike-GH/PELoader](https://github.com/Fatmike-GH/PELoader)
   > A Windows PE loader / manual mapper for executables (x86 and x64) with full TLS (Thread Local Storag...
+
+### [L4ys](https://github.com/L4ys)
+- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [garatc/BitUnlocker](https://github.com/garatc/BitUnlocker)
+  > Downgrade attack for CVE-2025-48804
 
 ### [Lakr233](https://github.com/Lakr233)
 - 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [Automattic/pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios)
@@ -252,6 +266,10 @@
 ### [Satar07](https://github.com/Satar07)
 - 🌟 👤 [Satar07](https://github.com/Satar07) Starred [darbra/awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse)
   > ai reverse 一把梭
+
+### [SeanCline](https://github.com/SeanCline)
+- 🌟 👤 [SeanCline](https://github.com/SeanCline) Starred [SeanCline/CatchVsTestAdapter](https://github.com/SeanCline/CatchVsTestAdapter)
+  > Visual Studio integration for projects using the Catch unit test library.
 
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [idris-lang/Idris2](https://github.com/idris-lang/Idris2)
@@ -436,6 +454,10 @@
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [Pocket-science/reachy-mlx-vlm](https://github.com/Pocket-science/reachy-mlx-vlm)
   > Fully local Reachy mini 
 
+### [dumblob](https://github.com/dumblob)
+- 🌟 👤 [dumblob](https://github.com/dumblob) Starred [raphamorim/lucario](https://github.com/raphamorim/lucario)
+  > The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Wind...
+
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [ibireme/yyjson](https://github.com/ibireme/yyjson)
   > The fastest JSON library in C
@@ -533,6 +555,18 @@
   > In-depth reverse engineering of a suspected LockBit affiliate dropper, documenting shellcode loading...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [rogxo/SymbolDumper](https://github.com/rogxo/SymbolDumper) to [gmh5225/SymbolDumper](https://github.com/gmh5225/SymbolDumper)
   > Process active symbol dumper for advanced shellcode analysis
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey) to [gmh5225/YellowKey](https://github.com/gmh5225/YellowKey)
+  > YellowKey Bitlocker Bypass Vulnerability
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Nightmare-Eclipse/GreenPlasma](https://github.com/Nightmare-Eclipse/GreenPlasma) to [gmh5225/GreenPlasma](https://github.com/gmh5225/GreenPlasma)
+  > GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [garatc/BitUnlocker](https://github.com/garatc/BitUnlocker) to [gmh5225/BitUnlocker](https://github.com/gmh5225/BitUnlocker)
+  > Downgrade attack for CVE-2025-48804
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [threatray/threat-research](https://github.com/threatray/threat-research) to [gmh5225/threat-research](https://github.com/gmh5225/threat-research)
+  > IoCs and YARA rules from Threatray's Threat Research
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ReverseWarrior/IUM-Debugger](https://github.com/ReverseWarrior/IUM-Debugger) to [gmh5225/IUM-Debugger](https://github.com/gmh5225/IUM-Debugger)
+  > Patching the Secure Kernel to enable debugging of VTL1 Isolated User Mode
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cactus-compute/needle](https://github.com/cactus-compute/needle) to [gmh5225/needle](https://github.com/gmh5225/needle)
+  > 26m function call model that runs on incredibly small devices
 
 ### [goweii](https://github.com/goweii)
 - 🍴 👤 [goweii](https://github.com/goweii) Forked [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) to [goweii/xiaozhi-esp32](https://github.com/goweii/xiaozhi-esp32)
@@ -625,6 +659,17 @@
   > Downgrade attack for CVE-2025-48804
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [garatc/BitUnlocker](https://github.com/garatc/BitUnlocker) to [killvxk/BitUnlocker](https://github.com/killvxk/BitUnlocker)
   > Downgrade attack for CVE-2025-48804
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xjrx/magnetar](https://github.com/0xjrx/magnetar)
+  > A EDR bypassing shellcode loader framework for Windows 10 64bit, featuring ETW/AMSI patching, Tartar...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xjrx/EvilRust](https://github.com/0xjrx/EvilRust)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xjrx/silk](https://github.com/0xjrx/silk)
+  > A simple PoC for executing shellcode inside a fiber, without requiring APIs such as 'CreateThread'.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xjrx/sysupdate](https://github.com/0xjrx/sysupdate)
+  > A proof-of-concept implementation emulating Linux-based trojan techniques
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xjrx/gdpoise](https://github.com/0xjrx/gdpoise)
+  > A tool to modify ELF binary headers, preventing GDB debugging while keeping the binary functional.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [onhexgroup/Awesome-Search-Engines-for-Cybersecurity-Researchers](https://github.com/onhexgroup/Awesome-Search-Engines-for-Cybersecurity-Researchers)
+  > Awesome list of Search Engines for Cybersecurity Researchers
 
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [Gridea-Pro/gridea-pro](https://github.com/Gridea-Pro/gridea-pro)
@@ -707,6 +752,8 @@
 ### [mak7im01](https://github.com/mak7im01)
 - 🌟 👤 [mak7im01](https://github.com/mak7im01) Starred [qr243vbi/nekobox](https://github.com/qr243vbi/nekobox)
   > NyameBox, The Original NekoBox Rebranded, the cross-platform Qt proxy utility, empowered by sing-box...
+- 🍴 👤 [mak7im01](https://github.com/mak7im01) Forked [qr243vbi/nekobox](https://github.com/qr243vbi/nekobox) to [mak7im01/nekobox](https://github.com/mak7im01/nekobox)
+  > NyameBox, The Original NekoBox Rebranded, the cross-platform Qt proxy utility, empowered by sing-box...
 
 ### [mcxiaoke](https://github.com/mcxiaoke)
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler)
@@ -733,6 +780,8 @@
   > A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeep...
 - 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
   > OpenTelemetry Collector
+- 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [moonD4rk/ccstatus](https://github.com/moonD4rk/ccstatus)
+  > Customizable status line formatter for Claude Code CLI, written in Go
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [wesmar/kvc](https://github.com/wesmar/kvc)
@@ -745,6 +794,10 @@
   > Python Command-Line Ghidra MCP
 - 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [0xjustBen/BlueHammer](https://github.com/0xjustBen/BlueHammer)
   > Reattempt of BlueHammer disclosed in April 2026
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ReverseWarrior/IUM-Debugger](https://github.com/ReverseWarrior/IUM-Debugger)
+  > Patching the Secure Kernel to enable debugging of VTL1 Isolated User Mode
 
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [Pinperepette/MacPersistenceChecker](https://github.com/Pinperepette/MacPersistenceChecker)
@@ -770,6 +823,10 @@
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [ivov/lisette](https://github.com/ivov/lisette)
   > A little language inspired by Rust that compiles to Go
 
+### [nick-botticelli](https://github.com/nick-botticelli)
+- 🌟 👤 [nick-botticelli](https://github.com/nick-botticelli) Starred [jhftss/POC](https://github.com/jhftss/POC)
+  > A public collection of POCs & Exploits for the vulnerabilities I discovered
+
 ### [niqiuqiux](https://github.com/niqiuqiux)
 - 🌟 👤 [niqiuqiux](https://github.com/niqiuqiux) Starred [nianzs/sub2api](https://github.com/nianzs/sub2api)
   > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -781,6 +838,8 @@
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [mikwielgus/undoredo](https://github.com/mikwielgus/undoredo)
   > Undo-redo in Rust using deltas, snapshots or commands with convenience implementations for many stan...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [statewright/statewright](https://github.com/statewright/statewright)
+  > State machine guardrails for AI agents
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Ccccccccvvm/dsp_bypass](https://github.com/Ccccccccvvm/dsp_bypass)
@@ -793,6 +852,19 @@
   > Tunnel (TUN) interface for SOCKS and HTTP proxies
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [iam567/LifeManga](https://github.com/iam567/LifeManga)
   > ios swift swiftui openai gpt-image manga ai-art
+
+### [omeraydindev](https://github.com/omeraydindev)
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+  > 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI...
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
+  > Move and resize windows on macOS with keyboard shortcuts and snap areas
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
+  > Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens,...
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde)
+  > Multi-platform app that allows your devices to communicate
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [Wouter01/MediaMate-Releases](https://github.com/Wouter01/MediaMate-Releases)
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [exelban/stats](https://github.com/exelban/stats)
+  > macOS system monitor in your menu bar
 
 ### [paradiseduo](https://github.com/paradiseduo)
 - 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
@@ -834,6 +906,20 @@
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [xingguangcuican6666/DroidSpaces-OSS-module](https://github.com/xingguangcuican6666/DroidSpaces-OSS-module)
   > A module of DroidSpaces for AnyBase Kernel
 
+### [re-zero001](https://github.com/re-zero001)
+- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [teidesu/inugram](https://github.com/teidesu/inugram)
+
+### [redbearder](https://github.com/redbearder)
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)
+  > Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feish...
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+  > A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI...
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [dazuiba/CCNotify](https://github.com/dazuiba/CCNotify)
+  > CCNotify provides desktop notifications for Claude Code, alerting you when Claude needs your input o...
+
+### [rikushoney](https://github.com/rikushoney)
+- 🌟 👤 [rikushoney](https://github.com/rikushoney) Starred [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
+
 ### [shellsec](https://github.com/shellsec)
 - 🌟 👤 [shellsec](https://github.com/shellsec) Starred [modelscope/FunASR](https://github.com/modelscope/FunASR)
   > A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporti...
@@ -845,6 +931,10 @@
 ### [skywind3000](https://github.com/skywind3000)
 - 🌟 👤 [skywind3000](https://github.com/skywind3000) Starred [netcan/asyncio](https://github.com/netcan/asyncio)
   > asyncio is a c++20 library to write concurrent code using the async/await syntax.
+
+### [std-microblock](https://github.com/std-microblock)
+- 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [kazutoiris/pm3-fudan](https://github.com/kazutoiris/pm3-fudan)
+  > One-click extraction of fully encrypted Fudan card data
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
@@ -906,6 +996,10 @@
 ### [xiaotujinbnb](https://github.com/xiaotujinbnb)
 - 🌟 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Starred [lidongyooo/AlgoKiller](https://github.com/lidongyooo/AlgoKiller)
 - 🍴 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Forked [lidongyooo/AlgoKiller](https://github.com/lidongyooo/AlgoKiller) to [xiaotujinbnb/AlgoKiller](https://github.com/xiaotujinbnb/AlgoKiller)
+- 🌟 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Starred [fyrlove/r0zygisk](https://github.com/fyrlove/r0zygisk)
+  > The New Standalone implementation of Zygisk with more detection bypass technology
+- 🍴 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Forked [fyrlove/r0zygisk](https://github.com/fyrlove/r0zygisk) to [xiaotujinbnb/r0zygisk](https://github.com/xiaotujinbnb/r0zygisk)
+  > The New Standalone implementation of Zygisk with more detection bypass technology
 
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
@@ -1024,5 +1118,5 @@
 
 
 ---
-*最后更新于 2026-05-12 17:11:02 UTC*
+*最后更新于 2026-05-12 19:52:45 UTC*
 *历史记录保存在 `archive` 目录中。*
