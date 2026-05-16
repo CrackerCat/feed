@@ -23,6 +23,10 @@
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
   > A collection of agent skills for CAD, robotics and hardware design
 
+### [Angelic47](https://github.com/Angelic47)
+- 🌟 👤 [Angelic47](https://github.com/Angelic47) Starred [PTKay/openwrt-tplink-theme](https://github.com/PTKay/openwrt-tplink-theme)
+  > Custom LuCI theme for TP-Link routers based on OpenWRT-2020
+
 ### [Ar3h](https://github.com/Ar3h)
 - 🌟 👤 [Ar3h](https://github.com/Ar3h) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
@@ -56,9 +60,17 @@
 - 🌟 👤 [Gracker](https://github.com/Gracker) Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
   > Notes of the book System Desgin Interview - An Insider's Guide
 
+### [H3rmesk1t](https://github.com/H3rmesk1t)
+- 🌟 👤 [H3rmesk1t](https://github.com/H3rmesk1t) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+  > Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local
+
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [Tencent/TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory)
   > TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive ...
+
+### [Linuxoid-cn](https://github.com/Linuxoid-cn)
+- 🌟 👤 [Linuxoid-cn](https://github.com/Linuxoid-cn) Starred [Linuxoid-cn/8SG3-Unlocker](https://github.com/Linuxoid-cn/8SG3-Unlocker)
+  > 本项目是专为搭载骁龙 8sg3（Snapdragon 8s Gen3）平台的小米设备打造的一键 BL 解锁辅助工具。通过 8sg3-unlock.bat 脚本，实现 HyperOS 2026.02.0...
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [BlossomiShymae/Needlework.Net](https://github.com/BlossomiShymae/Needlework.Net)
@@ -73,10 +85,28 @@
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
   > Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [markdown-viewer/skills](https://github.com/markdown-viewer/skills)
+  > Opinionated skills for AI coding agents to create stunning diagrams and visualizations directly in M...
 
 ### [PUGE](https://github.com/PUGE)
 - 🌟 👤 [PUGE](https://github.com/PUGE) Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
   > Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+
+### [Pengrey](https://github.com/Pengrey)
+- 🌟 👤 [Pengrey](https://github.com/Pengrey) Starred [memN0ps/doublepulsar-rs](https://github.com/memN0ps/doublepulsar-rs)
+  > Rusty DoublePulsar - Cobalt Strike User-Defined Reflective Loader (UDRL) in Rust (Codename: DoublePu...
+
+### [RohitVerma882](https://github.com/RohitVerma882)
+- 🌟 👤 [RohitVerma882](https://github.com/RohitVerma882) Starred [brunodev85/winlator](https://github.com/brunodev85/winlator)
+  > Android application for running Windows applications with Wine and Box86/Box64
+- 🌟 👤 [RohitVerma882](https://github.com/RohitVerma882) Starred [brunodev85/winlator-app](https://github.com/brunodev85/winlator-app)
+  > Android application for running Windows applications with Wine and Box86/Box64
+
+### [Sally-0000](https://github.com/Sally-0000)
+- 🌟 👤 [Sally-0000](https://github.com/Sally-0000) Starred [umair-aziz025/dahua-cve-research](https://github.com/umair-aziz025/dahua-cve-research)
+  > Dahua IP camera CVE research toolkit (CVE-2021-33044/33045, CVE-2025-31700/31701)
+- 🌟 👤 [Sally-0000](https://github.com/Sally-0000) Starred [Sally-0000/shadowfuzz](https://github.com/Sally-0000/shadowfuzz)
+  > 基于动态二进制插桩的二进制模糊测试后端，通过增强 AFL++ 的运行时反馈能力，实现对闭源程序的高效漏洞挖掘。
 
 ### [Silentsoul04](https://github.com/Silentsoul04)
 - 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore)
@@ -89,6 +119,10 @@
 ### [Skulltrail192](https://github.com/Skulltrail192)
 - 🍴 👤 [Skulltrail192](https://github.com/Skulltrail192) Forked [roytam1/vbemp](https://github.com/roytam1/vbemp) to [Skulltrail192/vbemp](https://github.com/Skulltrail192/vbemp)
 - 🌟 👤 [Skulltrail192](https://github.com/Skulltrail192) Starred [Skulltrail192/vbemp](https://github.com/Skulltrail192/vbemp)
+
+### [SodaMilk233](https://github.com/SodaMilk233)
+- 🍴 👤 [SodaMilk233](https://github.com/SodaMilk233) Forked [hexhacking/xDL](https://github.com/hexhacking/xDL) to [SodaMilk233/xDL](https://github.com/SodaMilk233/xDL)
+  > :fire: xDL is an enhanced implementation of the Android DL series functions.
 
 ### [StephenDev0](https://github.com/StephenDev0)
 - 🍴 👤 [StephenDev0](https://github.com/StephenDev0) Forked [Manic-EMU/ManicEMU](https://github.com/Manic-EMU/ManicEMU) to [StephenDev0/ManicEMU](https://github.com/StephenDev0/ManicEMU)
@@ -122,6 +156,10 @@
 - 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [openai/privacy-filter](https://github.com/openai/privacy-filter)
   > OpenAI Privacy Filter
 
+### [YuKongA](https://github.com/YuKongA)
+- 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [Mahmud0808/ColorBlendr](https://github.com/Mahmud0808/ColorBlendr)
+  > An Android app for customizing Material You colors on devices with Android 12+. It lets you tweak ac...
+
 ### [alternoegraha](https://github.com/alternoegraha)
 - 🌟 👤 [alternoegraha](https://github.com/alternoegraha) Starred [neetly/figma-agent-linux](https://github.com/neetly/figma-agent-linux)
   > A lightweight local service that makes your locally installed fonts available on Figma.
@@ -134,13 +172,29 @@
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [Delphos-Labs/disclosures](https://github.com/Delphos-Labs/disclosures)
   > Vulnerability disclosures and proof-of-concept exploits
 
+### [burpheart](https://github.com/burpheart)
+- 🌟 👤 [burpheart](https://github.com/burpheart) Starred [oven-sh/bun](https://github.com/oven-sh/bun)
+  > Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+### [chai2010](https://github.com/chai2010)
+- 🌟 👤 [chai2010](https://github.com/chai2010) Starred [melandlabs/openloomi](https://github.com/melandlabs/openloomi)
+  > Openloomi is your open-source proactive AI Mates that remembers all work details.
+
 ### [chenjiandongx](https://github.com/chenjiandongx)
 - 🌟 👤 [chenjiandongx](https://github.com/chenjiandongx) Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
   > Why is this running?
 
+### [ctkqiang](https://github.com/ctkqiang)
+- 🍴 👤 [ctkqiang](https://github.com/ctkqiang) Forked [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) to [ctkqiang/claude-skills](https://github.com/ctkqiang/claude-skills)
+  > 263+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more codin...
+
 ### [cweijan](https://github.com/cweijan)
 - 🌟 👤 [cweijan](https://github.com/cweijan) Starred [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down)
   > http下载工具，基于http代理，支持多连接分块下载
+
+### [doodlewind](https://github.com/doodlewind)
+- 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [yii-labs/vik](https://github.com/yii-labs/vik)
+  > Vik is watching on your issues
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
@@ -180,6 +234,8 @@
   > Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file format...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [danieldev23/trafexia](https://github.com/danieldev23/trafexia) to [gmh5225/trafexia](https://github.com/gmh5225/trafexia)
   > Trafexia - Mobile Traffic Interceptor
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [dinosn/CVE-2026-44578](https://github.com/dinosn/CVE-2026-44578) to [gmh5225/CVE-2026-44578](https://github.com/gmh5225/CVE-2026-44578)
+  > CVE-2026-44578: Next.js WebSocket Upgrade SSRF — pre-auth credential theft via localhost:80. Lab + e...
 
 ### [gyyyy](https://github.com/gyyyy)
 - 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [Ad1euDa1e/VueCrack](https://github.com/Ad1euDa1e/VueCrack)
@@ -222,6 +278,9 @@
 ### [j0nk0](https://github.com/j0nk0)
 - 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [NookieAI/PS4-Game-Scraper](https://github.com/NookieAI/PS4-Game-Scraper)
   > PS4 Game Scraper
+
+### [jiji262](https://github.com/jiji262)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [fengmengmengji/cc-proxy](https://github.com/fengmengmengji/cc-proxy)
 
 ### [jixiaoyong](https://github.com/jixiaoyong)
 - 🌟 👤 [jixiaoyong](https://github.com/jixiaoyong) Starred [tddworks/baguette](https://github.com/tddworks/baguette)
@@ -278,6 +337,10 @@
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [YWolfeee/InfoTok](https://github.com/YWolfeee/InfoTok)
   > Codebase for InfoTok: Adaptive Discrete Video Tokenizer via Information-Theoretic Compression
 
+### [luochuanyuewu](https://github.com/luochuanyuewu)
+- 🌟 👤 [luochuanyuewu](https://github.com/luochuanyuewu) Starred [mugnavo/tanstarter-plus](https://github.com/mugnavo/tanstarter-plus)
+  > Vite+ monorepo template with 🏝️ TanStack Start, Better Auth, Drizzle ORM, shadcn/ui
+
 ### [lyy289065406](https://github.com/lyy289065406)
 - 🌟 👤 [lyy289065406](https://github.com/lyy289065406) Starred [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow)
   > WeFlow - 一个本地的微信聊天记录导出和年度报告应用
@@ -305,12 +368,24 @@
   > Kubernetes controller for GitHub Actions self-hosted runners
 - 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [casey/just](https://github.com/casey/just)
   > 🤖 Just a command runner
+- 🍴 👤 [moonD4rk](https://github.com/moonD4rk) Forked [vulhub/vulhub](https://github.com/vulhub/vulhub) to [moonD4rk/vulhub](https://github.com/moonD4rk/vulhub)
+  > Pre-Built Vulnerable Environments Based on Docker-Compose
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [jtydhr88/ComfyUI-mesh2motion](https://github.com/jtydhr88/ComfyUI-mesh2motion)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale)
   > 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi,...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [vudovn/ag-kit](https://github.com/vudovn/ag-kit)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
+  > A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-pa...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+  > Spec-driven development (SDD) for AI coding assistants.
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [garrytan/gstack](https://github.com/garrytan/gstack)
+  > Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+  > Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coor...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
@@ -358,6 +433,10 @@
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [XiaoTong6666/FuseHide](https://github.com/XiaoTong6666/FuseHide) to [sekaiacg/FuseHide](https://github.com/sekaiacg/FuseHide)
   > 烦，随时想删库，无人在意，自娱自乐罢了
 
+### [shomykohai](https://github.com/shomykohai)
+- 🌟 👤 [shomykohai](https://github.com/shomykohai) Starred [rva3/kaiko](https://github.com/rva3/kaiko)
+  > ARM binary analysis
+
 ### [taisuii](https://github.com/taisuii)
 - 🍴 👤 [taisuii](https://github.com/taisuii) Forked [canyie/pine](https://github.com/canyie/pine) to [taisuii/pine](https://github.com/taisuii/pine)
   > Dynamic java method hook framework on ART. Allowing you to change almost all java methods' behavior ...
@@ -380,8 +459,14 @@
 - 🌟 👤 [wh1te4ever](https://github.com/wh1te4ever) Starred [ma4the/ma4the.github.io](https://github.com/ma4the/ma4the.github.io)
   > My GitHub Pages Blog
 
+### [winmin](https://github.com/winmin)
+- 🌟 👤 [winmin](https://github.com/winmin) Starred [0Chencc/clawgod](https://github.com/0Chencc/clawgod)
+  > This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the offic...
+
 ### [wxxsfxyzm](https://github.com/wxxsfxyzm)
 - 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [hexxyan/BlueToolFixup-FixA2DP](https://github.com/hexxyan/BlueToolFixup-FixA2DP)
+- 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
+  > A Clash Client For OpenWrt
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [larksuite/cli](https://github.com/larksuite/cli)
@@ -399,5 +484,5 @@
 
 
 ---
-*最后更新于 2026-05-16 10:15:49 UTC*
+*最后更新于 2026-05-16 11:51:08 UTC*
 *历史记录保存在 `archive` 目录中。*
