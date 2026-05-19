@@ -33,6 +33,8 @@
 ### [AdvDebug](https://github.com/AdvDebug)
 - 🌟 👤 [AdvDebug](https://github.com/AdvDebug) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
   > 🪅 Windows & Linux userspace emulator 
+- 🍴 👤 [AdvDebug](https://github.com/AdvDebug) Forked [momo5502/sogen](https://github.com/momo5502/sogen) to [AdvDebug/sogen](https://github.com/AdvDebug/sogen)
+  > 🪅 Windows & Linux userspace emulator 
 
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [ocean2811/vscode-okx-tradingview](https://github.com/ocean2811/vscode-okx-tradingview)
@@ -53,6 +55,10 @@
   > AI-agent-first CLI for BOSS 直聘 — 职位搜索、福利筛选、招聘者工作流、MCP 工具与 AI 简历优化
 - 🌟 👤 [BlackHole1](https://github.com/BlackHole1) Starred [oomol-lab/oo-cli](https://github.com/oomol-lab/oo-cli)
   > oo is OOMOL's CLI toolkit. Everything can be done in the CLI.
+
+### [C5Hackr](https://github.com/C5Hackr)
+- 🚀 👤 [C5Hackr](https://github.com/C5Hackr) Made [C5Hackr/Polycheat](https://github.com/C5Hackr/Polycheat) public
+  > An open source Polytoria 2.0 LuaU Executor
 
 ### [Cc28256](https://github.com/Cc28256)
 - 🌟 👤 [Cc28256](https://github.com/Cc28256) Starred [D7EAD/mkPIVM](https://github.com/D7EAD/mkPIVM)
@@ -124,6 +130,10 @@
 ### [GitSquared](https://github.com/GitSquared)
 - 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [pvolok/mprocs](https://github.com/pvolok/mprocs)
   > Run multiple commands in parallel
+
+### [GithubKillsMyOpsec](https://github.com/GithubKillsMyOpsec)
+- 🌟 👤 [GithubKillsMyOpsec](https://github.com/GithubKillsMyOpsec) Starred [kilobyte/jpegqs](https://github.com/kilobyte/jpegqs)
+  > JPEG artifacts removal based on quantization coefficients.
 
 ### [Grigory-Rylov](https://github.com/Grigory-Rylov)
 - 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [PippBauda/llama.cpp-turboquant-mtp](https://github.com/PippBauda/llama.cpp-turboquant-mtp)
@@ -221,6 +231,10 @@
 - 🌟 👤 [Lotus6](https://github.com/Lotus6) Starred [dogadmin/LinIR](https://github.com/dogadmin/LinIR)
 - 🌟 👤 [Lotus6](https://github.com/Lotus6) Starred [k8scout/k8scout](https://github.com/k8scout/k8scout)
   > Drop a single binary into a compromised Kubernetes pod and instantly map every   realistic attack pa...
+
+### [Ls4ss](https://github.com/Ls4ss)
+- 🍴 👤 [Ls4ss](https://github.com/Ls4ss) Forked [theowni/EPSS-Calculator](https://github.com/theowni/EPSS-Calculator) to [Ls4ss/EPSS-Calculator](https://github.com/Ls4ss/EPSS-Calculator)
+  > The EPSS Calculator is a user-friendly web application that calculates the EPSS (Exploit Prediction ...
 
 ### [LunFengChen](https://github.com/LunFengChen)
 - 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [aoyunyang/periodic_manager](https://github.com/aoyunyang/periodic_manager)
@@ -333,6 +347,12 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [dotnet/Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK)
   > Open XML SDK by Microsoft
 
+### [TGSAN](https://github.com/TGSAN)
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)
+  > Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+  > omo; the best agent harness - previously oh-my-opencode
+
 ### [TheKingOfDuck](https://github.com/TheKingOfDuck)
 - 🌟 👤 [TheKingOfDuck](https://github.com/TheKingOfDuck) Starred [xs-lang0/xs](https://github.com/xs-lang0/xs)
   > xs programming language
@@ -404,6 +424,8 @@
 ### [asLody](https://github.com/asLody)
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [zerogpu/zerogpu-router](https://github.com/zerogpu/zerogpu-router)
   > Cut inference costs without dumbing down your agent.
+- 🌟 👤 [asLody](https://github.com/asLody) Starred [0x0funky/agent-game-forge](https://github.com/0x0funky/agent-game-forge)
+  > The local-first, bring-your-own-agent 2D game IDE. Codex or Claude Code drives, multi-engine on the ...
 
 ### [ashishb](https://github.com/ashishb)
 - 🌟 👤 [ashishb](https://github.com/ashishb) Starred [fhanau/Efficient-Compression-Tool](https://github.com/fhanau/Efficient-Compression-Tool)
@@ -511,9 +533,15 @@
 - 🌟 👤 [eggfly](https://github.com/eggfly) Starred [One2015/medeo-app-redesign-v1](https://github.com/One2015/medeo-app-redesign-v1)
   > Medeo app redesign — v1 prototype (iOS frame, React/Babel-standalone)
 
+### [ejpir](https://github.com/ejpir)
+- 🌟 👤 [ejpir](https://github.com/ejpir) Starred [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview)
+  > A standard Crossplane UI dashboard. 
+
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [kcat/openal-soft](https://github.com/kcat/openal-soft)
   > OpenAL Soft is a software implementation of the OpenAL 3D audio API.
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [microsoft/wil](https://github.com/microsoft/wil)
+  > Windows Implementation Library
 
 ### [elqahtani](https://github.com/elqahtani)
 - 🌟 👤 [elqahtani](https://github.com/elqahtani) Starred [elqahtani/wphunter](https://github.com/elqahtani/wphunter)
@@ -528,6 +556,10 @@
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [ek0/bn-emu](https://github.com/ek0/bn-emu)
   > Binary ninja symbolic execution library
+
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [alexislours/metropolist](https://github.com/alexislours/metropolist)
+  > A native iOS app to explore, track, and complete every transit station in the Paris region (Île-de-F...
 
 ### [fengchenzxc](https://github.com/fengchenzxc)
 - 🌟 👤 [fengchenzxc](https://github.com/fengchenzxc) Starred [k8scout/k8scout](https://github.com/k8scout/k8scout)
@@ -616,7 +648,7 @@
   > Grok2API 是一个基于 FastAPI 构建的 Grok 网关，支持将 Grok Web 能力以 OpenAI 兼容 API 的方式转换。
 
 ### [hyuunnn](https://github.com/hyuunnn)
-- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [vercel-labs/zero](https://github.com/vercel-labs/zero)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)
   > The programming language for agents
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [MinishLab/semble](https://github.com/MinishLab/semble)
   > Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
@@ -733,6 +765,8 @@
   > Instant Replay (DVR) app for KDE using gpu-screen-recorder in the background
 - 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [Ceald1/HTB-TUI](https://github.com/Ceald1/HTB-TUI)
   > Go HTB TUI 
+- 🍴 👤 [linuxmobile](https://github.com/linuxmobile) Forked [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) to [linuxmobile/noctalia-shell](https://github.com/linuxmobile/noctalia-shell)
+  > A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [Pi3AI/TOBench](https://github.com/Pi3AI/TOBench)
@@ -752,6 +786,10 @@
 ### [lumia431](https://github.com/lumia431)
 - 🌟 👤 [lumia431](https://github.com/lumia431) Starred [yangjingyuan0828/awesome-yangjingyuan](https://github.com/yangjingyuan0828/awesome-yangjingyuan)
   > 杨景媛（武汉大学）事件记录。更新：杨景媛论文下载突破31万次。
+
+### [m0nad](https://github.com/m0nad)
+- 🌟 👤 [m0nad](https://github.com/m0nad) Starred [v12-security/pocs](https://github.com/v12-security/pocs)
+  > poc it like it's hot
 
 ### [m1n9yu3](https://github.com/m1n9yu3)
 - 🍴 👤 [m1n9yu3](https://github.com/m1n9yu3) Forked [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) to [m1n9yu3/DB-GPT](https://github.com/m1n9yu3/DB-GPT)
@@ -840,6 +878,14 @@
   > Using system APIs directly with adb/root privileges from normal apps through a Java process started ...
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder)
   > ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [antoinezambelli/forge](https://github.com/antoinezambelli/forge)
+  > A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview)
+  > A standard Crossplane UI dashboard. 
+
+### [oobbb](https://github.com/oobbb)
+- 🌟 👤 [oobbb](https://github.com/oobbb) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash local inference engine for Metal and CUDA
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [azw413/Glass](https://github.com/azw413/Glass)
@@ -900,7 +946,7 @@
   > Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
 
 ### [smallevilbeast](https://github.com/smallevilbeast)
-- 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [vercel-labs/zero](https://github.com/vercel-labs/zero)
+- 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)
   > The programming language for agents
 
 ### [sotasan](https://github.com/sotasan)
@@ -917,6 +963,10 @@
 - 🍴 👤 [suqi8](https://github.com/suqi8) Forked [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai) to [suqi8/BiliPai](https://github.com/suqi8/BiliPai)
   > 原生、纯净、可扩展 —— 重新定义你的 B 站体验
 
+### [survivalizeed](https://github.com/survivalizeed)
+- 🌟 👤 [survivalizeed](https://github.com/survivalizeed) Starred [Shadow-of-War-Modding-Community/MeshParser](https://github.com/Shadow-of-War-Modding-Community/MeshParser)
+  > This repository will always hold the newest version of the MeshParser. Code will later be implemente...
+
 ### [tamlok](https://github.com/tamlok)
 - 🌟 👤 [tamlok](https://github.com/tamlok) Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)
   > A terminal workspace with batteries included
@@ -932,7 +982,7 @@
   > A lightweight Rust library for obfuscating strings and control-flow using cryptify
 
 ### [veaba](https://github.com/veaba)
-- 🌟 👤 [veaba](https://github.com/veaba) Starred [vercel-labs/zero](https://github.com/vercel-labs/zero)
+- 🌟 👤 [veaba](https://github.com/veaba) Starred [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)
   > The programming language for agents
 
 ### [wangshub](https://github.com/wangshub)
@@ -1057,5 +1107,5 @@
 
 
 ---
-*最后更新于 2026-05-19 19:00:36 UTC*
+*最后更新于 2026-05-19 21:19:06 UTC*
 *历史记录保存在 `archive` 目录中。*
