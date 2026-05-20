@@ -94,6 +94,10 @@
   > A WinDbg plugin that turns the current debugging session into an MCP server for command docs, debugg...
 - 🌟 👤 [DragonQuestHero](https://github.com/DragonQuestHero) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+- 🌟 👤 [DragonQuestHero](https://github.com/DragonQuestHero) Starred [ZacharyZcR/vmware-mcp](https://github.com/ZacharyZcR/vmware-mcp)
+  > MCP server for controlling VMware Workstation Pro virtual machines
+- 🌟 👤 [DragonQuestHero](https://github.com/DragonQuestHero) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
+  > Model Context Protocol for WinDBG
 
 ### [EvilAnne](https://github.com/EvilAnne)
 - 🌟 👤 [EvilAnne](https://github.com/EvilAnne) Starred [wgpsec/AboutSecurity](https://github.com/wgpsec/AboutSecurity)
@@ -173,6 +177,10 @@
   > Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 - 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) to [LunFengChen/blind_watermark](https://github.com/LunFengChen/blind_watermark)
   > Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [guofei9987/HideInfo](https://github.com/guofei9987/HideInfo)
+  > 一些小而美的信息隐藏技术：幻影坦克、藏物于音等
+- 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [guofei9987/HideInfo](https://github.com/guofei9987/HideInfo) to [LunFengChen/HideInfo](https://github.com/LunFengChen/HideInfo)
+  > 一些小而美的信息隐藏技术：幻影坦克、藏物于音等
 
 ### [Lz1y](https://github.com/Lz1y)
 - 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
@@ -311,6 +319,10 @@
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [enfilade-labs/CVE-2026-20687-AppleJPEGDriver-UAF](https://github.com/enfilade-labs/CVE-2026-20687-AppleJPEGDriver-UAF)
   > CVE-2026-20687: AppleJPEGDriver startDecoder Timeout UAF — iOS/macOS kernel vulnerability leading to...
 
+### [asLody](https://github.com/asLody)
+- 🌟 👤 [asLody](https://github.com/asLody) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+  > Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer ...
+
 ### [atlas4381](https://github.com/atlas4381)
 - 🍴 👤 [atlas4381](https://github.com/atlas4381) Forked [bitstash-io/device_xiaomi_flame](https://github.com/bitstash-io/device_xiaomi_flame) to [atlas4381/android_device_xiaomi_flame](https://github.com/atlas4381/android_device_xiaomi_flame)
 - 🍴 👤 [atlas4381](https://github.com/atlas4381) Forked [bitstash-io/vendor_xiaomi_flame](https://github.com/bitstash-io/vendor_xiaomi_flame) to [atlas4381/android_vendor_xiaomi_flame](https://github.com/atlas4381/android_vendor_xiaomi_flame)
@@ -376,6 +388,9 @@
 ### [clearbluejar](https://github.com/clearbluejar)
 - 🍴 👤 [clearbluejar](https://github.com/clearbluejar) Forked [gadievron/raptor](https://github.com/gadievron/raptor) to [clearbluejar/raptor](https://github.com/clearbluejar/raptor)
   > Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Clau...
+
+### [cmzy](https://github.com/cmzy)
+- 🌟 👤 [cmzy](https://github.com/cmzy) Starred [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
@@ -571,7 +586,6 @@
   > A Git extension for tracking the AI-generated code in your repos
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mshumer/diagram-frame-review](https://github.com/mshumer/diagram-frame-review) to [gmh5225/diagram-frame-review](https://github.com/gmh5225/diagram-frame-review)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [BepInEx/BepInEx.Utility.IL2CPP](https://github.com/BepInEx/BepInEx.Utility.IL2CPP) to [gmh5225/BepInEx.Utility.IL2CPP](https://github.com/gmh5225/BepInEx.Utility.IL2CPP)
   > Generic utility plugins for the BepInEx plugin loader (IL2CPP)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Squiblydoo/Remnux_Reports](https://github.com/Squiblydoo/Remnux_Reports) to [gmh5225/Remnux_Reports](https://github.com/gmh5225/Remnux_Reports)
@@ -721,6 +735,9 @@
 - 🌟 👤 [kaganisildak](https://github.com/kaganisildak) Starred [Sidenai/hyperion-disassembler](https://github.com/Sidenai/hyperion-disassembler)
   > Native multi-arch disassembler & decompiler - PE/ELF/Mach-O, x86/x64/ARM64, Lua scripting, RTTI reco...
 
+### [kernelwernel](https://github.com/kernelwernel)
+- 🌟 👤 [kernelwernel](https://github.com/kernelwernel) Starred [Ape-xCV/Nika-Read-Only](https://github.com/Ape-xCV/Nika-Read-Only)
+
 ### [kernelzeroday](https://github.com/kernelzeroday)
 - 🍴 👤 [kernelzeroday](https://github.com/kernelzeroday) Forked [docker/awesome-compose](https://github.com/docker/awesome-compose) to [kernelzeroday/awesome-compose](https://github.com/kernelzeroday/awesome-compose)
   > Awesome Docker Compose samples
@@ -762,6 +779,8 @@
   > Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For ...
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [SnailSploit/SnailObfuscator](https://github.com/SnailSploit/SnailObfuscator) to [killvxk/SnailObfuscator](https://github.com/killvxk/SnailObfuscator)
   > SnailObfuscator uses structurally-aware engines instead of regex string hacking:
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [muneebxyz/PyObfuscator_tweeked](https://github.com/muneebxyz/PyObfuscator_tweeked)
+  > PyObfuscator is a basic command line tool that allows you to obfuscate not only simple Python script...
 
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [knqiufan/Misaka](https://github.com/knqiufan/Misaka)
@@ -833,9 +852,19 @@
 - 🍴 👤 [lxraa](https://github.com/lxraa) Forked [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) to [lxraa/Il2CppDumper](https://github.com/lxraa/Il2CppDumper)
   > Unity il2cpp reverse engineer
 
+### [lyming99](https://github.com/lyming99)
+- 🌟 👤 [lyming99](https://github.com/lyming99) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
+- 🌟 👤 [lyming99](https://github.com/lyming99) Starred [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh)
+  > 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes ...
+
 ### [lz6688](https://github.com/lz6688)
 - 🍴 👤 [lz6688](https://github.com/lz6688) Forked [MlgmXyysd/Il2CppMemoryDumper](https://github.com/MlgmXyysd/Il2CppMemoryDumper) to [lz6688/Il2CppMemoryDumper](https://github.com/lz6688/Il2CppMemoryDumper)
   > Dump Il2Cpp unprotected executable ELF and metadata from process memory
+
+### [mcr](https://github.com/mcr)
+- 🍴 👤 [mcr](https://github.com/mcr) Forked [mirjak/draft-audit-architecture](https://github.com/mirjak/draft-audit-architecture) to [mcr/draft-audit-architecture](https://github.com/mcr/draft-audit-architecture)
+  > Internet-Drat on "An Architecture for Auditing AI Agent Delegation and Interactions"
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
@@ -883,6 +912,14 @@
 - 🌟 👤 [njcx](https://github.com/njcx) Starred [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party)
   > :electron: Another Mihomo GUI. 
 
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft)
+  > Wayland Compositor in Minecraft
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [tbro/rakers](https://github.com/tbro/rakers)
+  > A lightweight, single-binary JS renderer for JavaScript SPAs and SSR sites, where startup latency (m...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [RoyaleAPI/cr-api-data](https://github.com/RoyaleAPI/cr-api-data)
+  > Clash Royale API Static data and constants.
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [TheCruZ/kdmapper](https://github.com/TheCruZ/kdmapper)
   > KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers ...
@@ -910,6 +947,9 @@
 ### [qtfreet00](https://github.com/qtfreet00)
 - 🌟 👤 [qtfreet00](https://github.com/qtfreet00) Starred [witchan/ios-mcp](https://github.com/witchan/ios-mcp)
   > iOS MCP: MCP management tool for jailbroken iPhones, enabling developers and AI agents to inspect an...
+
+### [ravindu644](https://github.com/ravindu644)
+- 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [yoshi3jp/azurelinux-droidspaces-rootfs](https://github.com/yoshi3jp/azurelinux-droidspaces-rootfs)
 
 ### [rbaron](https://github.com/rbaron)
 - 🌟 👤 [rbaron](https://github.com/rbaron) Starred [tracefinity/tracefinity](https://github.com/tracefinity/tracefinity)
@@ -971,9 +1011,23 @@
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli)
 
+### [suifei](https://github.com/suifei)
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [jemygraw/wxwork-robot-cli](https://github.com/jemygraw/wxwork-robot-cli)
+  > 一个用于企业微信机器人发送消息的命令行客户端
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [nsky99/wxwork_analysis](https://github.com/nsky99/wxwork_analysis)
+  > 企业微信分析
+
 ### [surendrajat](https://github.com/surendrajat)
 - 🌟 👤 [surendrajat](https://github.com/surendrajat) Starred [anil-e/codd](https://github.com/anil-e/codd)
   > A native PostgreSQL client for GNOME, built with Rust and GTK4.
+
+### [survivalizeed](https://github.com/survivalizeed)
+- 🌟 👤 [survivalizeed](https://github.com/survivalizeed) Starred [dmaivel/covirt](https://github.com/dmaivel/covirt)
+  > An x86-64 code virtualizer for VM based obfuscation
+
+### [thebabush](https://github.com/thebabush)
+- 🌟 👤 [thebabush](https://github.com/thebabush) Starred [gimli-rs/gimli](https://github.com/gimli-rs/gimli)
+  > A library for reading and writing the DWARF debugging format
 
 ### [thelicato](https://github.com/thelicato)
 - 🌟 👤 [thelicato](https://github.com/thelicato) Starred [0xbinder/CVE-2026-0073](https://github.com/0xbinder/CVE-2026-0073)
@@ -1089,6 +1143,9 @@
 - 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
   > Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes you...
 
+### [zhanymkanov](https://github.com/zhanymkanov)
+- 🌟 👤 [zhanymkanov](https://github.com/zhanymkanov) Starred [Sammers21/codex-simplify](https://github.com/Sammers21/codex-simplify)
+
 ### [zhaotianff](https://github.com/zhaotianff)
 - 🌟 👤 [zhaotianff](https://github.com/zhaotianff) Starred [holly-hacker/EazFixer](https://github.com/holly-hacker/EazFixer)
   > A deobfuscation tool for Eazfuscator.
@@ -1107,5 +1164,5 @@
 
 
 ---
-*最后更新于 2026-05-20 16:52:00 UTC*
+*最后更新于 2026-05-20 19:24:46 UTC*
 *历史记录保存在 `archive` 目录中。*
