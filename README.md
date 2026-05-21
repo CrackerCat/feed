@@ -76,6 +76,8 @@
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
   > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [GunshipPenguin/kiteshield](https://github.com/GunshipPenguin/kiteshield)
+  > Packer/Protector for x86-64 ELF binaries on Linux
 
 ### [DarkLineX](https://github.com/DarkLineX)
 - 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
@@ -161,6 +163,11 @@
 - 🌟 👤 [Kwansy98](https://github.com/Kwansy98) Starred [can1357/hvdetecc](https://github.com/can1357/hvdetecc)
   > Collection of hypervisor detections
 
+### [L4ys](https://github.com/L4ys)
+- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [qriousec/colony_agent](https://github.com/qriousec/colony_agent)
+- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
+  > A Rust decompiler built on top of angr
+
 ### [LabGuy94](https://github.com/LabGuy94)
 - 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [jjensn/CVE-2024-36877](https://github.com/jjensn/CVE-2024-36877)
   > Exploit POC for CVE-2024-36877
@@ -201,6 +208,8 @@
   > Dynamic Instrumentation Tool Platform
 - 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [EKKOLearnAI/hermes-web-ui](https://github.com/EKKOLearnAI/hermes-web-ui)
   > Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage a...
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
+  > Self-hosted game stream host for Moonlight.
 
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [raffis/renovate-metrics](https://github.com/raffis/renovate-metrics)
@@ -226,9 +235,17 @@
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)
   > An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的...
 
+### [Mati365](https://github.com/Mati365)
+- 🌟 👤 [Mati365](https://github.com/Mati365) Starred [android/compose-samples](https://github.com/android/compose-samples)
+  > Official Jetpack Compose samples.
+
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [Kayy9961/Valorant-Checker](https://github.com/Kayy9961/Valorant-Checker)
   > Advanced VALORANT checker with auto-login, proxy support, multi-region (NA/EU/AP/KR/LATAM/BR), and D...
+
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [containers/crun](https://github.com/containers/crun)
+  > A fast and lightweight fully featured OCI runtime and C library for running containers
 
 ### [MolotovCherry](https://github.com/MolotovCherry)
 - 🌟 👤 [MolotovCherry](https://github.com/MolotovCherry) Starred [xremap/xremap](https://github.com/xremap/xremap)
@@ -241,6 +258,10 @@
   > AI视频, AI动漫,AI 短剧,AI漫剧自动化生成工具
 - 🌟 👤 [Monster-GM](https://github.com/Monster-GM) Starred [Xeron2000/openOii](https://github.com/Xeron2000/openOii)
   > 故事想法 → 多智能体协作 → 漫剧成片 | 基于 LangGraph 的 AI 漫剧生成平台
+- 🌟 👤 [Monster-GM](https://github.com/Monster-GM) Starred [alibaba/lumenx](https://github.com/alibaba/lumenx)
+  > LumenX Studio，AI 短漫剧一站式生产平台。它能够将小说文本转化为动态视频，打通了从剧本分析、角色定制、分镜绘制到视频合成的完整创作链路。
+- 🌟 👤 [Monster-GM](https://github.com/Monster-GM) Starred [PerformanC/Treat-Wheel-Zygisk](https://github.com/PerformanC/Treat-Wheel-Zygisk)
+  > The wheel to reinvent the new light.
 
 ### [MorvanZhou](https://github.com/MorvanZhou)
 - 🍴 👤 [MorvanZhou](https://github.com/MorvanZhou) Forked [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) to [MorvanZhou/chinese-independent-developer](https://github.com/MorvanZhou/chinese-independent-developer)
@@ -281,6 +302,14 @@
   > Compile-time, Usermode + Kernelmode, safe and lightweight string crypter library for C++11+
 - 🌟 👤 [Prslc](https://github.com/Prslc) Starred [ac3ss0r/obfusheader.h](https://github.com/ac3ss0r/obfusheader.h)
   > Obfusheader.h is a portable header file for C++14 compile-time obfuscation.
+- 🌟 👤 [Prslc](https://github.com/Prslc) Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
+  > simple terminal UI for git commands
+
+### [R0rt1z2](https://github.com/R0rt1z2)
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ioncodes/gecko](https://github.com/ioncodes/gecko)
+  > A GameCube/Wii emulator and debugger written in Rust.
+- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [marin-m/pbtk](https://github.com/marin-m/pbtk)
+  > A toolset for reverse engineering and fuzzing Protobuf-based apps
 
 ### [Ridter](https://github.com/Ridter)
 - 🌟 👤 [Ridter](https://github.com/Ridter) Starred [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill)
@@ -334,6 +363,10 @@
 ### [Steesha](https://github.com/Steesha)
 - 🌟 👤 [Steesha](https://github.com/Steesha) Starred [Colton1skees/Dna](https://github.com/Colton1skees/Dna)
   > LLVM based static binary analysis framework 
+
+### [TGSAN](https://github.com/TGSAN)
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [erosTeam/eros_n](https://github.com/erosTeam/eros_n)
+  > An unofficial nhentai app.
 
 ### [TonyChen56](https://github.com/TonyChen56)
 - 🌟 👤 [TonyChen56](https://github.com/TonyChen56) Starred [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow)
@@ -572,6 +605,8 @@
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
 
 ### [fynch3r](https://github.com/fynch3r)
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [alibaba/MNN](https://github.com/alibaba/MNN)
@@ -633,6 +668,9 @@
   > A PoC Cobalt Strike UDRL written in Rust
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [vergamota/KslKatz](https://github.com/vergamota/KslKatz) to [gmh5225/KslKatz](https://github.com/gmh5225/KslKatz)
   > Combining KslDump and GhostKatz to dump LSASS using no-fix KslD.sys memory read to bypass PPL. Extra...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [pnpm/pacquet](https://github.com/pnpm/pacquet) to [gmh5225/pacquet](https://github.com/gmh5225/pacquet)
+  > The official pnpm rewrite in Rust
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Bunbox-co/Bunbox](https://github.com/Bunbox-co/Bunbox) to [gmh5225/Bunbox](https://github.com/gmh5225/Bunbox)
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - 🌟 👤 [goatmilkkk](https://github.com/goatmilkkk) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
@@ -641,6 +679,8 @@
 ### [gyyyy](https://github.com/gyyyy)
 - 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger)
   > AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, marke...
+- 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)
+  > A股全栈数据工具包 — 7层架构 · 28端点 · 13数据源 · 零第三方依赖 | Full-stack China A-Share data toolkit for AI coding assis...
 
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [joshterrill/post-patch-postmortem](https://github.com/joshterrill/post-patch-postmortem)
@@ -652,11 +692,17 @@
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
   > Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer ...
 
+### [i64](https://github.com/i64)
+- 🌟 👤 [i64](https://github.com/i64) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
+  > A Rust decompiler built on top of angr
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [nickg/nvc](https://github.com/nickg/nvc)
   > VHDL compiler and simulator
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir) to [ioncodes/Ymir](https://github.com/ioncodes/Ymir)
   > Sega Saturn emulator
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
 
 ### [iscle](https://github.com/iscle)
 - 🍴 👤 [iscle](https://github.com/iscle) Forked [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) to [iscle/FineTune](https://github.com/iscle/FineTune)
@@ -683,6 +729,10 @@
 ### [jixiaoyong](https://github.com/jixiaoyong)
 - 🌟 👤 [jixiaoyong](https://github.com/jixiaoyong) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
   > Orchestrate coding agents remotely from your phone, desktop and CLI
+
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [ValveResourceFormat/ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat)
+  > Source 2 Viewer is an all-in-one tool to browse VPK archives, view, extract, and decompile Source 2 ...
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [fyrlove/r0zygisk](https://github.com/fyrlove/r0zygisk)
@@ -848,12 +898,15 @@
 ### [mrT4ntr4](https://github.com/mrT4ntr4)
 - 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [brightprogrammer/MisraStdC](https://github.com/brightprogrammer/MisraStdC)
   > Generic and TypeSafe Programming In C
+- 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [qriousec/colony_agent](https://github.com/qriousec/colony_agent)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GunshipPenguin/kiteshield](https://github.com/GunshipPenguin/kiteshield)
   > Packer/Protector for x86-64 ELF binaries on Linux
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
   > A vector index built on TurboQuant, written in Rust with Python bindings
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
 
 ### [mstfknn](https://github.com/mstfknn)
 - 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)
@@ -899,18 +952,33 @@
   > Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injec...
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [elkimek/honcho-self-hosted](https://github.com/elkimek/honcho-self-hosted)
   > Self-host Honcho memory layer for Hermes Agent — OpenRouter + Venice, no code changes
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [mnemosyne-proj/mnemosyne](https://github.com/mnemosyne-proj/mnemosyne)
+  > Mnemosyne: efficient learning with powerful digital flash-cards.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [AxDSan/mnemosyne](https://github.com/AxDSan/mnemosyne)
+  > The Zero-Dependency, Sub-Millisecond AI Memory System for Hermes Agents
 
 ### [oasisfeng](https://github.com/oasisfeng)
 - 🌟 👤 [oasisfeng](https://github.com/oasisfeng) Starred [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
   > The Kotlin Programming Language. 
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [nettitude/CLR-Stomp](https://github.com/nettitude/CLR-Stomp)
+  > .NET CLR-Stomping
+
 ### [oleavr](https://github.com/oleavr)
 - 🌟 👤 [oleavr](https://github.com/oleavr) Starred [Dadoum/Provision](https://github.com/Dadoum/Provision)
   > Set of tools interracting with Apple servers. Don't hesitate to leave a star if you appreciate it.
 
+### [pbek](https://github.com/pbek)
+- 🌟 👤 [pbek](https://github.com/pbek) Starred [WeakAuras/WeakAuras2](https://github.com/WeakAuras/WeakAuras2)
+  > World of Warcraft addon that provides a powerful framework to display customizable graphics on your ...
+
 ### [peiqiF4ck](https://github.com/peiqiF4ck)
 - 🌟 👤 [peiqiF4ck](https://github.com/peiqiF4ck) Starred [ScottZt/jin-ce-zhi-suan](https://github.com/ScottZt/jin-ce-zhi-suan)
   > 【金策智算】➡️不靠情绪买卖、不追小道消息，专注用客观数据辅助决策。 我们仅提供本地化私有行情数据服务与历史回测工具，帮你把主观想法变成可验证的交易规则，用历史数据检验方法有效性，通过指标监控约束随意...
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [qriousec/colony_agent](https://github.com/qriousec/colony_agent)
 
 ### [qwqdanchun](https://github.com/qwqdanchun)
 - 🌟 👤 [qwqdanchun](https://github.com/qwqdanchun) Starred [D7EAD/mkPIVM](https://github.com/D7EAD/mkPIVM)
@@ -933,6 +1001,10 @@
   > Generate 3D models with AI
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper)
   > Turn any webpage into structured data using LLMs
+
+### [riba2534](https://github.com/riba2534)
+- 🌟 👤 [riba2534](https://github.com/riba2534) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+  > 🎨 Local-first, open-source alternative to Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Syste...
 
 ### [rmuxnet](https://github.com/rmuxnet)
 - 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [WOA-Kona/Drivers](https://github.com/WOA-Kona/Drivers) to [rmuxnet/Drivers](https://github.com/rmuxnet/Drivers)
@@ -988,6 +1060,10 @@
   > A Chrome DevTools Protocol driver for web automation and scraping.
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
   > The headless browser for AI agents and web scraping
+
+### [thebabush](https://github.com/thebabush)
+- 🌟 👤 [thebabush](https://github.com/thebabush) Starred [ing-bank/sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn)
+  > Python package to accelerate the sparse matrix multiplication and top-n similarity selection
 
 ### [thelicato](https://github.com/thelicato)
 - 🌟 👤 [thelicato](https://github.com/thelicato) Starred [Densaugeo/uploadserver](https://github.com/Densaugeo/uploadserver)
@@ -1073,6 +1149,12 @@
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [kasonye/ui-aesthetics-skill](https://github.com/kasonye/ui-aesthetics-skill)
   > A skill that improves AI aesthetic judgment for web UI generation, review, and refinement.
 
+### [yhnu](https://github.com/yhnu)
+- 🌟 👤 [yhnu](https://github.com/yhnu) Starred [UE4SS-RE/RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS)
+  > Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for...
+- 🌟 👤 [yhnu](https://github.com/yhnu) Starred [paysonism/Payson-Injector](https://github.com/paysonism/Payson-Injector)
+  > A kernel injector for EAC and BE
+
 ### [yichen115](https://github.com/yichen115)
 - 🌟 👤 [yichen115](https://github.com/yichen115) Starred [airbus-seclab/cpu_rec](https://github.com/airbus-seclab/cpu_rec)
   > Recognize cpu instructions in an arbitrary binary file
@@ -1127,5 +1209,5 @@
 
 
 ---
-*最后更新于 2026-05-21 17:58:34 UTC*
+*最后更新于 2026-05-21 20:04:14 UTC*
 *历史记录保存在 `archive` 目录中。*
