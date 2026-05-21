@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0Chencc](https://github.com/0Chencc)
+- 🌟 👤 [0Chencc](https://github.com/0Chencc) Starred [w-okada/voice-changer](https://github.com/w-okada/voice-changer)
+  > リアルタイムボイスチェンジャー Realtime Voice Changer
+
 ### [0x1306a94](https://github.com/0x1306a94)
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
   > Spec-driven development (SDD) for AI coding assistants.
@@ -81,6 +85,10 @@
 - 🌟 👤 [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut) Starred [local-inference-lab/rtx6kpro](https://github.com/local-inference-lab/rtx6kpro)
   > RTX 6000 Pro Wiki — Running Large LLMs (Qwen3.5-397B, Kimi-K2.5, GLM-5) on PCIe GPUs without NVLink
 
+### [Coder666](https://github.com/Coder666)
+- 🍴 👤 [Coder666](https://github.com/Coder666) Forked [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) to [Coder666/openfang](https://github.com/Coder666/openfang)
+  > Open-source Agent Operating System
+
 ### [DarkLineX](https://github.com/DarkLineX)
 - 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [zinja-coder/jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server)
   > MCP server for JADX-AI Plugin
@@ -147,6 +155,10 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [shatyuka/valist](https://github.com/shatyuka/valist)
   > A header-only C++ library for constructing `va_list` argument lists at runtime.
 
+### [L4ys](https://github.com/L4ys)
+- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [azw413/Glass](https://github.com/azw413/Glass)
+  > Glass - a fast and free IDA Pro alternative
+
 ### [LaPhilosophie](https://github.com/LaPhilosophie)
 - 🍴 👤 [LaPhilosophie](https://github.com/LaPhilosophie) Forked [huggingface/trl](https://github.com/huggingface/trl) to [LaPhilosophie/trl](https://github.com/LaPhilosophie/trl)
   > Train transformer language models with reinforcement learning.
@@ -203,6 +215,10 @@
 ### [Metatronxl](https://github.com/Metatronxl)
 - 🌟 👤 [Metatronxl](https://github.com/Metatronxl) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
   > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
+
+### [MinghaoLin2000](https://github.com/MinghaoLin2000)
+- 🌟 👤 [MinghaoLin2000](https://github.com/MinghaoLin2000) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
+  > A Rust decompiler built on top of angr
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp)
@@ -276,6 +292,10 @@
 ### [TideSec](https://github.com/TideSec)
 - 🌟 👤 [TideSec](https://github.com/TideSec) Starred [wgpsec/AboutSecurity](https://github.com/wgpsec/AboutSecurity)
   > Everything for pentest. | 渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论。
+
+### [Twometer](https://github.com/Twometer)
+- 🌟 👤 [Twometer](https://github.com/Twometer) Starred [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft)
+  > Wayland Compositor in Minecraft
 
 ### [XiaoTong6666](https://github.com/XiaoTong6666)
 - 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [libbpf/libbpf](https://github.com/libbpf/libbpf)
@@ -391,6 +411,8 @@
 
 ### [cmzy](https://github.com/cmzy)
 - 🌟 👤 [cmzy](https://github.com/cmzy) Starred [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
+- 🌟 👤 [cmzy](https://github.com/cmzy) Starred [microclaw/microclaw](https://github.com/microclaw/microclaw)
+  > 🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of it...
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
@@ -649,6 +671,10 @@
 - 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [yellatiamo/CupcakeC2](https://github.com/yellatiamo/CupcakeC2)
   > 这是一款现代、高性能的跨平台 C2 架构系统。采用 Rust 编写受控端，Go 编写服务端，以及 Vue 3 极致轻量化 UI。深度融合 MCP 协议，开启 AI 自动化攻防新篇章。
 
+### [hacksysteam](https://github.com/hacksysteam)
+- 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [Gabriel2392/brokkr-flash](https://github.com/Gabriel2392/brokkr-flash)
+  > Odin but better (and open-source).
+
 ### [hanc00l](https://github.com/hanc00l)
 - 🌟 👤 [hanc00l](https://github.com/hanc00l) Starred [JichinX/codex-glm-proxy](https://github.com/JichinX/codex-glm-proxy)
   > 🔌 让 OpenAI Codex CLI 接入 GLM (智谱 AI) | Local proxy enabling Codex CLI to work with GLM models - 流式响应 ...
@@ -682,6 +708,10 @@
 ### [iAklis](https://github.com/iAklis)
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)
   > Embed the Power of Lua into NGINX HTTP servers
+
+### [ignis-sec](https://github.com/ignis-sec)
+- 🚀 👤 [ignis-sec](https://github.com/ignis-sec) Made [ignis-sec/HoMM-OE-Template-Editor](https://github.com/ignis-sec/HoMM-OE-Template-Editor) public
+  > A random map generator template editor for Heroes of Might and Magic: Olden Era
 
 ### [igorbrigadir](https://github.com/igorbrigadir)
 - 🌟 👤 [igorbrigadir](https://github.com/igorbrigadir) Starred [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr)
@@ -781,6 +811,23 @@
   > SnailObfuscator uses structurally-aware engines instead of regex string hacking:
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [muneebxyz/PyObfuscator_tweeked](https://github.com/muneebxyz/PyObfuscator_tweeked)
   > PyObfuscator is a basic command line tool that allows you to obfuscate not only simple Python script...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [chaitin/MonkeyCode](https://github.com/chaitin/MonkeyCode)
+  > AI 开发平台，内置云端开发环境，并支持业内最全的顶尖大模型。无论是开发项目、做调研、写文档，还是分析数据、处理任务，打开浏览器就能随时开始，让 AI 持续帮你推进工作
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns)
+  > The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Luigigreco/gitforms](https://github.com/Luigigreco/gitforms)
+  > 🎯 Zero-cost contact forms for landing pages using GitHub Issues as free database. Open-source altern...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ianho7/maptoposter-online](https://github.com/ianho7/maptoposter-online)
+  > ✨❤️‍🔥Turn the cities you love into stunning designs
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [can4hou6joeng4/boss-agent-cli](https://github.com/can4hou6joeng4/boss-agent-cli)
+  > AI-agent-first CLI for BOSS 直聘 — 职位搜索、福利筛选、招聘者工作流、MCP 工具与 AI 简历优化
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rany2/edge-tts](https://github.com/rany2/edge-tts)
+  > Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Win...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [BryanHoo/FeedFuse](https://github.com/BryanHoo/FeedFuse)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [volsifly/ibus_llm_pinyin_input](https://github.com/volsifly/ibus_llm_pinyin_input)
+  > ibus使用大模型输入拼音
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [iAmCorey/kooky](https://github.com/iAmCorey/kooky)
+  > A minimal modern terminal for AI coding experience — Sidebar workspaces; horizontal / vertical split...
 
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [knqiufan/Misaka](https://github.com/knqiufan/Misaka)
@@ -814,6 +861,10 @@
 ### [limbopro](https://github.com/limbopro)
 - 🌟 👤 [limbopro](https://github.com/limbopro) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
+
+### [linuxmobile](https://github.com/linuxmobile)
+- 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [lazywalker/rgrc](https://github.com/lazywalker/rgrc)
+  > rgrc - Rusty Generic Colouriser - just like grc but fast
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
@@ -877,6 +928,10 @@
 ### [mokeyjay](https://github.com/mokeyjay)
 - 🚀 👤 [mokeyjay](https://github.com/mokeyjay) Made [mokeyjay/costrict-router](https://github.com/mokeyjay/costrict-router) public
   > costrict-router 是一个第三方的 CoStrict 接口转发工具，它可以将任意 OpenAI 兼容（Chat Completions）的请求转发到你指定的私有化 CoStrict 服务端...
+
+### [mstrobel](https://github.com/mstrobel)
+- 🍴 👤 [mstrobel](https://github.com/mstrobel) Forked [Consolonia/Consolonia](https://github.com/Consolonia/Consolonia) to [mstrobel/Consolonia](https://github.com/mstrobel/Consolonia)
+  > A cross-platform UI framework for .NET.
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [mito753/Kernel-Exploit-Dojo](https://github.com/mito753/Kernel-Exploit-Dojo)
@@ -947,6 +1002,14 @@
 ### [qtfreet00](https://github.com/qtfreet00)
 - 🌟 👤 [qtfreet00](https://github.com/qtfreet00) Starred [witchan/ios-mcp](https://github.com/witchan/ios-mcp)
   > iOS MCP: MCP management tool for jailbroken iPhones, enabling developers and AI agents to inspect an...
+
+### [rabbitstack](https://github.com/rabbitstack)
+- 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [N7C3TRY/Tenebris-Gate](https://github.com/N7C3TRY/Tenebris-Gate)
+  > multi layer encryption for payloads with options of delivery welcome to the Tenebris side
+- 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [Maldev-Academy/GhostlyHollowingViaTamperedSyscalls2](https://github.com/Maldev-Academy/GhostlyHollowingViaTamperedSyscalls2)
+  > Implementing Ghostly-Hollowing using tampered syscalls for remote PE injection
+- 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [Maldev-Academy/HellHall](https://github.com/Maldev-Academy/HellHall)
+  > Performing Indirect Clean Syscalls
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [yoshi3jp/azurelinux-droidspaces-rootfs](https://github.com/yoshi3jp/azurelinux-droidspaces-rootfs)
@@ -1164,5 +1227,5 @@
 
 
 ---
-*最后更新于 2026-05-20 19:24:46 UTC*
+*最后更新于 2026-05-20 21:53:53 UTC*
 *历史记录保存在 `archive` 目录中。*
