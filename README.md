@@ -17,9 +17,26 @@
 ### [AndroPlus-org](https://github.com/AndroPlus-org)
 - 🌟 👤 [AndroPlus-org](https://github.com/AndroPlus-org) Starred [kyujin-cho/Bada](https://github.com/kyujin-cho/Bada)
 
+### [Evian-Zhang](https://github.com/Evian-Zhang)
+- 🍴 👤 [Evian-Zhang](https://github.com/Evian-Zhang) Forked [aya-rs/aya](https://github.com/aya-rs/aya) to [Evian-Zhang/aya](https://github.com/Evian-Zhang/aya)
+  > Aya is an eBPF library for the Rust programming language, built with a focus on developer experience...
+
+### [FishMan132](https://github.com/FishMan132)
+- 🌟 👤 [FishMan132](https://github.com/FishMan132) Starred [lautarovculic/frida-ipa-extract](https://github.com/lautarovculic/frida-ipa-extract)
+  > Robust Frida-based tool to dump decrypted iOS apps as .ipa from a jailbroken device supports App Sto...
+
 ### [H4ckForJob](https://github.com/H4ckForJob)
 - 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [xiaogang000/XG_NTAI](https://github.com/xiaogang000/XG_NTAI)
   > 用于Webshell木马免杀、流量加密传输，多多支持star
+- 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [Bohemiana/godzilla_erkai](https://github.com/Bohemiana/godzilla_erkai)
+
+### [HoangKien1020](https://github.com/HoangKien1020)
+- 🍴 👤 [HoangKien1020](https://github.com/HoangKien1020) Forked [nghminh163/Pixel-Redbull-Kernel-Pipeline](https://github.com/nghminh163/Pixel-Redbull-Kernel-Pipeline) to [HoangKien1020/Pixel-Redbull-Kernel-Pipeline](https://github.com/HoangKien1020/Pixel-Redbull-Kernel-Pipeline)
+  > Pixel 5 - KernelSU  -  redfin  -  Android14.0.0  - UP1A.231105.001.B2 
+
+### [Idov31](https://github.com/Idov31)
+- 🌟 👤 [Idov31](https://github.com/Idov31) Starred [llvm/llvm-project](https://github.com/llvm/llvm-project)
+  > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ### [Keno](https://github.com/Keno)
 - 🍴 👤 [Keno](https://github.com/Keno) Forked [Roger-luo/Moshi.jl](https://github.com/Roger-luo/Moshi.jl) to [KenoAIStaging/Moshi.jl](https://github.com/KenoAIStaging/Moshi.jl)
@@ -31,12 +48,23 @@
 - 🍴 👤 [Keno](https://github.com/Keno) Forked [JuliaDiff/FiniteDifferences.jl](https://github.com/JuliaDiff/FiniteDifferences.jl) to [KenoAIStaging/FiniteDifferences.jl](https://github.com/KenoAIStaging/FiniteDifferences.jl)
   > High accuracy derivatives, estimated via numerical finite differences (formerly FDM.jl)
 
+### [Lake1059](https://github.com/Lake1059)
+- 🌟 👤 [Lake1059](https://github.com/Lake1059) Starred [netony/FFmpeg-Builds](https://github.com/netony/FFmpeg-Builds)
+
+### [Linuxoid-cn](https://github.com/Linuxoid-cn)
+- 🌟 👤 [Linuxoid-cn](https://github.com/Linuxoid-cn) Starred [Linuxoid-cn/Mi8G2-Unlocker](https://github.com/Linuxoid-cn/Mi8G2-Unlocker)
+  > 本项目是专为搭载骁龙 8g2（Snapdragon 8 Gen2）平台的小米设备打造的一键 BL 解锁辅助工具。通过 toUnlock.bat 脚本，实现 HyperOS 2026.02.01 之前补...
+
 ### [MolotovCherry](https://github.com/MolotovCherry)
 - 🌟 👤 [MolotovCherry](https://github.com/MolotovCherry) Starred [dnut/clipboard-sync](https://github.com/dnut/clipboard-sync)
   > Synchronizes the clipboard across multiple X11 and wayland instances running on the same machine.
 
 ### [Monster-GM](https://github.com/Monster-GM)
 - 🌟 👤 [Monster-GM](https://github.com/Monster-GM) Starred [elbelicojackson-hue/haking-code-](https://github.com/elbelicojackson-hue/haking-code-)
+
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [microsoft/diskspd](https://github.com/microsoft/diskspd)
+  > DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Clou...
 
 ### [SakuraKoi](https://github.com/SakuraKoi)
 - 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge)
@@ -65,6 +93,8 @@
 ### [aooiuu](https://github.com/aooiuu)
 - 🌟 👤 [aooiuu](https://github.com/aooiuu) Starred [lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text)
   > Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like wri...
+- 🌟 👤 [aooiuu](https://github.com/aooiuu) Starred [leon-ai/leon](https://github.com/leon-ai/leon)
+  > 🧠 Leon is your open-source personal assistant.
 
 ### [asLody](https://github.com/asLody)
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [jasonkneen/tiny-world-builder](https://github.com/jasonkneen/tiny-world-builder)
@@ -95,6 +125,10 @@
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
   > Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer ...
 
+### [elllusion](https://github.com/elllusion)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [cyrozap/rv51](https://github.com/cyrozap/rv51)
+  > A RISC-V emulator for the 8051 (MCS-51) microcontroller.
+
 ### [fyrlove](https://github.com/fyrlove)
 - 🍴 👤 [fyrlove](https://github.com/fyrlove) Forked [dreamland-blog/KSU-Rust-Frida](https://github.com/dreamland-blog/KSU-Rust-Frida) to [fyrlove/KSU-Rust-Frida](https://github.com/fyrlove/KSU-Rust-Frida)
   > KFM
@@ -102,6 +136,12 @@
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [cocomelonc/signal-malware-delivery-poc](https://github.com/cocomelonc/signal-malware-delivery-poc) to [gmh5225/signal-malware-delivery-poc](https://github.com/gmh5225/signal-malware-delivery-poc)
   > Transmit malware payload via sound: DFT + FSK + Goertzel algorithm + IDFT
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [cpkt9762/capstone-rs](https://github.com/cpkt9762/capstone-rs)
+  > High-level Capstone system bindings for Rust
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [microsoft/diskspd](https://github.com/microsoft/diskspd) to [gmh5225/diskspd](https://github.com/gmh5225/diskspd)
+  > DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Clou...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [yv1ing/Z3r0](https://github.com/yv1ing/Z3r0) to [gmh5225/Z3r0](https://github.com/gmh5225/Z3r0)
+  > A controlled multi-agent workbench for authorized security assessment, code auditing, internal revie...
 
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [vigolium/vigolium](https://github.com/vigolium/vigolium)
@@ -124,6 +164,8 @@
   > Disassemble ANY files including .so (NDK, JNI), Windows PE(EXE, DLL, SYS, etc), linux binaries,  lib...
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [zubair-trabzada/ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)
   > AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [GDATAAdvancedAnalytics/Pyarmor-Tooling](https://github.com/GDATAAdvancedAnalytics/Pyarmor-Tooling)
+  > Scripts for statically unpacking Pyarmor v8+
 
 ### [j3ssie](https://github.com/j3ssie)
 - 🌟 👤 [j3ssie](https://github.com/j3ssie) Starred [vigolium/vigolium](https://github.com/vigolium/vigolium)
@@ -169,6 +211,10 @@
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
   > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
 
+### [nblog](https://github.com/nblog)
+- 🌟 👤 [nblog](https://github.com/nblog) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Code...
+
 ### [nu11secur1ty](https://github.com/nu11secur1ty)
 - 🌟 👤 [nu11secur1ty](https://github.com/nu11secur1ty) Starred [Maldev-Academy/DumpBrowserSecrets](https://github.com/Maldev-Academy/DumpBrowserSecrets)
   > Extracts browser-stored data such as refresh tokens, cookies, saved credentials, credit cards, autof...
@@ -211,6 +257,10 @@
 - 🌟 👤 [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz) Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
   > 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-perfor...
 
+### [vavkamil](https://github.com/vavkamil)
+- 🍴 👤 [vavkamil](https://github.com/vavkamil) Forked [vavkamil/pocket-cvss](https://github.com/vavkamil/pocket-cvss) to [cvealert/pocket-cvss](https://github.com/cvealert/pocket-cvss)
+  > Offline CVSS v3.1 base score calculator for Flipper Zero.
+
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [pliron-org/pliron](https://github.com/pliron-org/pliron)
   > An Extensible Compiler IR Framework
@@ -219,13 +269,25 @@
 - 🌟 👤 [wangshub](https://github.com/wangshub) Starred [severity1/claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver)
   > Intelligent prompt improver hook for Claude Code. Type vibes, ship precision.
 
+### [wszxl516](https://github.com/wszxl516)
+- 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui)
+  > Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, an...
+
+### [x-tools-author](https://github.com/x-tools-author)
+- 🍴 👤 [x-tools-author](https://github.com/x-tools-author) Forked [ntdevlabs/nano11](https://github.com/ntdevlabs/nano11) to [x-tools-author/nano11-cn](https://github.com/x-tools-author/nano11-cn)
+  > Script to build possibly the most trimmed-down Windows 11 experience.
+
 ### [xsser](https://github.com/xsser)
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt)
   > WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time m...
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [huohuoer/wechat-cli](https://github.com/huohuoer/wechat-cli)
   > A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. ...
 
+### [zhuzichu520](https://github.com/zhuzichu520)
+- 🍴 👤 [zhuzichu520](https://github.com/zhuzichu520) Forked [google/breakpad](https://github.com/google/breakpad) to [zhuzichu520/breakpad](https://github.com/zhuzichu520/breakpad)
+  > Mirror of Google Breakpad project
+
 
 ---
-*最后更新于 2026-05-24 07:48:34 UTC*
+*最后更新于 2026-05-24 09:54:20 UTC*
 *历史记录保存在 `archive` 目录中。*
