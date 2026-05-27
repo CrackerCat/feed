@@ -8,6 +8,10 @@
 - 🌟 👤 [0Chencc](https://github.com/0Chencc) Starred [openvpi/DiffSinger](https://github.com/openvpi/DiffSinger)
   > An advanced singing voice synthesis system with high fidelity, expressiveness, controllability and f...
 
+### [0xeb](https://github.com/0xeb)
+- 🌟 👤 [0xeb](https://github.com/0xeb) Starred [nodiuus/nocturne](https://github.com/nodiuus/nocturne)
+  > A bin2bin code virtualizer for x86-64
+
 ### [1orz](https://github.com/1orz)
 - 🌟 👤 [1orz](https://github.com/1orz) Starred [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)
   > DeepSeek + MiMo coding agent in terminal
@@ -27,6 +31,10 @@
 ### [AMJIYU](https://github.com/AMJIYU)
 - 🌟 👤 [AMJIYU](https://github.com/AMJIYU) Starred [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)
   > Real-time face swap for PC streaming or video calls
+
+### [AabyssZG](https://github.com/AabyssZG)
+- 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [Ghostasky/WinKernel](https://github.com/Ghostasky/WinKernel)
+  > 滴水中级内核学习
 
 ### [Abbbbbi](https://github.com/Abbbbbi)
 - 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [wrlu/VirtCam](https://github.com/wrlu/VirtCam)
@@ -62,6 +70,9 @@
 - 🌟 👤 [B1eed](https://github.com/B1eed) Starred [nettitude/CLR-Stomp](https://github.com/nettitude/CLR-Stomp)
   > .NET CLR-Stomping
 
+### [Bo0oM](https://github.com/Bo0oM)
+- 🌟 👤 [Bo0oM](https://github.com/Bo0oM) Starred [SigmaHQ/pySigma-pipeline-ocsf](https://github.com/SigmaHQ/pySigma-pipeline-ocsf)
+
 ### [CoderAldrich](https://github.com/CoderAldrich)
 - 🌟 👤 [CoderAldrich](https://github.com/CoderAldrich) Starred [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
   > Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
@@ -69,6 +80,12 @@
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [PLSysSec/haybale](https://github.com/PLSysSec/haybale)
   > Symbolic execution of LLVM IR with an engine written in Rust
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [The-SNEK-Initiative/SNEK_Equinox](https://github.com/The-SNEK-Initiative/SNEK_Equinox)
+  > Repository hosting a hypothetical EDR Spoofer, as discovered originally by Nightmare-Eclipse
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [LLVMParty/loki](https://github.com/LLVMParty/loki)
+  > Hardening code obfuscation against automated attacks
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki)
+  > Hardening code obfuscation against automated attacks
 
 ### [DarkLineX](https://github.com/DarkLineX)
 - 🍴 👤 [DarkLineX](https://github.com/DarkLineX) Forked [ven-coder/assists](https://github.com/ven-coder/assists) to [DarkLineX/assists](https://github.com/DarkLineX/assists)
@@ -179,6 +196,10 @@
 - 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [simstudioai/sim](https://github.com/simstudioai/sim)
   > Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforc...
 
+### [M0Rf30](https://github.com/M0Rf30)
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch)
+  > Next generation Cosmic desktop environment
+
 ### [MegatronKing](https://github.com/MegatronKing)
 - 🌟 👤 [MegatronKing](https://github.com/MegatronKing) Starred [dropbear-software/punycoder](https://github.com/dropbear-software/punycoder)
   > Punycoder is a well tested Dart implementation of the RFC 3492 Punycode specification
@@ -239,6 +260,10 @@
 - 🌟 👤 [Prslc](https://github.com/Prslc) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
   > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave ...
 
+### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [open-gsd/get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux)
+  > Getting Shit Done, the Aftermath
+
 ### [SakuraKoi](https://github.com/SakuraKoi)
 - 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
   > Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported...
@@ -266,6 +291,15 @@
   > CVE-2025-21479 proof-of-concept, I think
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [evdenis/selinux_permissive](https://github.com/evdenis/selinux_permissive)
   > Magisk Module that switches SELinux to permissive mode
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [Andrea-lyz/scene-netns-isolator](https://github.com/Andrea-lyz/scene-netns-isolator)
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [NatumRagnag/scene-netns-isolator](https://github.com/NatumRagnag/scene-netns-isolator)
+
+### [Silentsoul04](https://github.com/Silentsoul04)
+- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [MikeCodesDotNET/ML.NET-Syntax-Detection](https://github.com/MikeCodesDotNET/ML.NET-Syntax-Detection)
+  > ML.NET example, demonstrating how to detect programming syntax. 
+- 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [MikeCodesDotNET/ML.NET-Syntax-Detection](https://github.com/MikeCodesDotNET/ML.NET-Syntax-Detection) to [Silentsoul04/ML.NET-Syntax-Detection](https://github.com/Silentsoul04/ML.NET-Syntax-Detection)
+  > ML.NET example, demonstrating how to detect programming syntax. 
+- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [elijah-03/ExRay](https://github.com/elijah-03/ExRay)
 
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [CamsShaft/NEW-METHOD-Executing-AT-commands-on-your-device-as-system-user](https://github.com/CamsShaft/NEW-METHOD-Executing-AT-commands-on-your-device-as-system-user)
@@ -292,14 +326,28 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [hetima/resx-designer](https://github.com/hetima/resx-designer)
   > resx editor for VS Code. Edit all locale files simultaneously in a unified grid view.
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
+  > π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, an...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+  > Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+  > Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro...
 
 ### [THISISAGOODNAME](https://github.com/THISISAGOODNAME)
 - 🌟 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Starred [wildmeshing/fTetWild](https://github.com/wildmeshing/fTetWild)
   > Fast Tetrahedral Meshing in the Wild
 
+### [TomKing062](https://github.com/TomKing062)
+- 🌟 👤 [TomKing062](https://github.com/TomKing062) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
+  > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave ...
+
 ### [WooyunDota](https://github.com/WooyunDota)
 - 🌟 👤 [WooyunDota](https://github.com/WooyunDota) Starred [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec)
   > An open specification for agentic AI security evaluation and testing, from Cisco.
+
+### [XayahSuSuSu](https://github.com/XayahSuSuSu)
+- 🍴 👤 [XayahSuSuSu](https://github.com/XayahSuSuSu) Forked [rustic-rs/rustic_core](https://github.com/rustic-rs/rustic_core) to [XayahSuSuSu/rustic_core](https://github.com/XayahSuSuSu/rustic_core)
+  > rustic_core - library for fast, encrypted, deduplicated backups that powers rustic-rs
 
 ### [XiaoliChan](https://github.com/XiaoliChan)
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [outlaws-bai/Galaxy](https://github.com/outlaws-bai/Galaxy)
@@ -322,6 +370,10 @@
 - 🌟 👤 [Zephkek](https://github.com/Zephkek) Starred [Rain-31/FM26XStoreUnlocker](https://github.com/Rain-31/FM26XStoreUnlocker)
   > Football Manager 26 DLC unlocker for Microsoft Store and Xbox PC games.
 
+### [ZephrFish](https://github.com/ZephrFish)
+- 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [heimdal/heimdal](https://github.com/heimdal/heimdal)
+  > Heimdal
+
 ### [aalansehaiyang](https://github.com/aalansehaiyang)
 - 🌟 👤 [aalansehaiyang](https://github.com/aalansehaiyang) Starred [smallnest/goal-workflow](https://github.com/smallnest/goal-workflow)
   > AI-driven development workflow with /prd, /goal, /review-it and /ship-it skills
@@ -329,6 +381,12 @@
 ### [agateau](https://github.com/agateau)
 - 🌟 👤 [agateau](https://github.com/agateau) Starred [janpipek/clippt](https://github.com/janpipek/clippt)
   > CLI slideshows in Python and Textual
+
+### [andrew9382](https://github.com/andrew9382)
+- 🌟 👤 [andrew9382](https://github.com/andrew9382) Starred [haunted-zeroday/BypassChromeAppbound_NTAPI](https://github.com/haunted-zeroday/BypassChromeAppbound_NTAPI)
+  > Bypass Chrome Encryption Appbound With NTAPI
+- 🌟 👤 [andrew9382](https://github.com/andrew9382) Starred [xaitax/Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption)
+  > Bypass Chromium's App-Bound Encryption via Direct Syscall-based Reflective Process Hollowing. Extrac...
 
 ### [android-notes](https://github.com/android-notes)
 - 🍴 👤 [android-notes](https://github.com/android-notes) Forked [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) to [android-notes/html-ppt-skill](https://github.com/android-notes/html-ppt-skill)
@@ -504,6 +562,18 @@
   > An alternative full node bitcoin implementation written in Go (golang)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [btcsuite/btcd](https://github.com/btcsuite/btcd) to [gmh5225/btcd](https://github.com/gmh5225/btcd)
   > An alternative full node bitcoin implementation written in Go (golang)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [hyrfilm/libpd-wasm](https://github.com/hyrfilm/libpd-wasm) to [gmh5225/libpd-wasm](https://github.com/gmh5225/libpd-wasm)
+  > Pure Data in the browser
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [hyrfilm/slacker](https://github.com/hyrfilm/slacker) to [gmh5225/slacker](https://github.com/gmh5225/slacker)
+  > minimal IRC server
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [hyrfilm/nanoterm](https://github.com/hyrfilm/nanoterm) to [gmh5225/nanoterm](https://github.com/gmh5225/nanoterm)
+  > tiny unix in the browser
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [synacktiv/thats_no_pipe](https://github.com/synacktiv/thats_no_pipe) to [gmh5225/thats_no_pipe](https://github.com/gmh5225/thats_no_pipe)
+  > Windows named pipe hooking toolkit
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [GrafeoDB/grafeo](https://github.com/GrafeoDB/grafeo)
+  > Grafeo is a pure-Rust, high-performance graph database that can be embedded as a library or run as a...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [GrafeoDB/grafeo](https://github.com/GrafeoDB/grafeo) to [gmh5225/grafeo](https://github.com/gmh5225/grafeo)
+  > Grafeo is a pure-Rust, high-performance graph database that can be embedded as a library or run as a...
 
 ### [gyyyy](https://github.com/gyyyy)
 - 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
@@ -556,6 +626,14 @@
 - 🌟 👤 [imlk0](https://github.com/imlk0) Starred [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
   > AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image...
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [raddad772/jocasta-emu](https://github.com/raddad772/jocasta-emu)
+  > A multi-emulator I've been working on for years. This is a rename of jsmooch-emus. Supports 20+ plat...
+
+### [jixiaoyong](https://github.com/jixiaoyong)
+- 🌟 👤 [jixiaoyong](https://github.com/jixiaoyong) Starred [mayukh4/linux-android](https://github.com/mayukh4/linux-android)
+  > A script that sets up linux on your anroid device via termux
+
 ### [jiyulany](https://github.com/jiyulany)
 - 🌟 👤 [jiyulany](https://github.com/jiyulany) Starred [chain00x/WMPFDebugger-arm](https://github.com/chain00x/WMPFDebugger-arm)
   > WMPFDebugger-arm
@@ -591,6 +669,14 @@
   > 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale ...
 - 🌟 👤 [kingking888](https://github.com/kingking888) Starred [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)
   > DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-co...
+- 🍴 👤 [kingking888](https://github.com/kingking888) Forked [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) to [kingking888/Duck-Detector-Refactoring](https://github.com/kingking888/Duck-Detector-Refactoring)
+  > Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, a...
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
+- 🍴 👤 [kingking888](https://github.com/kingking888) Forked [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy) to [kingking888/DirtySepolicy](https://github.com/kingking888/DirtySepolicy)
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [LSPosed/LSParanoid](https://github.com/LSPosed/LSParanoid)
+  > String obfuscator for Android applications
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [yeweilin666/meituan-mtgsig-elema-bx-et](https://github.com/yeweilin666/meituan-mtgsig-elema-bx-et)
+  > 美团mtgsig饿了么bxet
 
 ### [le31ei](https://github.com/le31ei)
 - 🌟 👤 [le31ei](https://github.com/le31ei) Starred [TrisH0x2A/project-box](https://github.com/TrisH0x2A/project-box)
@@ -625,6 +711,14 @@
 ### [ltlly](https://github.com/ltlly)
 - 🌟 👤 [ltlly](https://github.com/ltlly) Starred [Jlan45/DroidAgent](https://github.com/Jlan45/DroidAgent)
 
+### [mahmoudimus](https://github.com/mahmoudimus)
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [superset-sh/superset](https://github.com/superset-sh/superset)
+  > Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+
+### [mattiasgustavsson](https://github.com/mattiasgustavsson)
+- 🌟 👤 [mattiasgustavsson](https://github.com/mattiasgustavsson) Starred [JimmyLefevre/kb](https://github.com/JimmyLefevre/kb)
+  > kb single-header C/C++ libraries
+
 ### [mav8557](https://github.com/mav8557)
 - 🌟 👤 [mav8557](https://github.com/mav8557) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
   > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
@@ -650,6 +744,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
   > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki) to [LLVMParty/loki](https://github.com/LLVMParty/loki)
+  > Hardening code obfuscation against automated attacks
 
 ### [mudongliang](https://github.com/mudongliang)
 - 🍴 👤 [mudongliang](https://github.com/mudongliang) Forked [hust-open-atom-club/Kernel_Dojo_X64](https://github.com/hust-open-atom-club/Kernel_Dojo_X64) to [hust-open-atom-club/Level-Up-Challenge-IV_Dojo_X64](https://github.com/hust-open-atom-club/Level-Up-Challenge-IV_Dojo_X64)
@@ -738,6 +834,9 @@
 ### [retme7](https://github.com/retme7)
 - 🌟 👤 [retme7](https://github.com/retme7) Starred [v12-security/pocs](https://github.com/v12-security/pocs)
   > poc it like it's hot
+
+### [riba2534](https://github.com/riba2534)
+- 🌟 👤 [riba2534](https://github.com/riba2534) Starred [zhaoyue4810/pianke](https://github.com/zhaoyue4810/pianke)
 
 ### [rmuxnet](https://github.com/rmuxnet)
 - 🌟 👤 [rmuxnet](https://github.com/rmuxnet) Starred [StonedModder/ps5-beeper-LED-Controller](https://github.com/StonedModder/ps5-beeper-LED-Controller)
@@ -880,6 +979,10 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
 
+### [yfe404](https://github.com/yfe404)
+- 🌟 👤 [yfe404](https://github.com/yfe404) Starred [xKiian/datadome-vm](https://github.com/xKiian/datadome-vm)
+  > Reverse engineering the new Datadome VM 🔥
+
 ### [yggo](https://github.com/yggo)
 - 🌟 👤 [yggo](https://github.com/yggo) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
   > A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project...
@@ -912,5 +1015,5 @@
 
 
 ---
-*最后更新于 2026-05-27 16:37:20 UTC*
+*最后更新于 2026-05-27 19:24:55 UTC*
 *历史记录保存在 `archive` 目录中。*
