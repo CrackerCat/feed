@@ -8,6 +8,14 @@
 - 🌟 👤 [0Chencc](https://github.com/0Chencc) Starred [openvpi/DiffSinger](https://github.com/openvpi/DiffSinger)
   > An advanced singing voice synthesis system with high fidelity, expressiveness, controllability and f...
 
+### [0xdea](https://github.com/0xdea)
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [zed-industries/extensions](https://github.com/zed-industries/extensions) to [0xdea/zed-extensions](https://github.com/0xdea/zed-extensions)
+  > Extensions for the Zed editor
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [zed-industries/extensions](https://github.com/zed-industries/extensions)
+  > Extensions for the Zed editor
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
+  > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
+
 ### [0xeb](https://github.com/0xeb)
 - 🌟 👤 [0xeb](https://github.com/0xeb) Starred [nodiuus/nocturne](https://github.com/nodiuus/nocturne)
   > A bin2bin code virtualizer for x86-64
@@ -83,7 +91,7 @@
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [The-SNEK-Initiative/SNEK_Equinox](https://github.com/The-SNEK-Initiative/SNEK_Equinox)
   > Repository hosting a hypothetical EDR Spoofer, as discovered originally by Nightmare-Eclipse
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [LLVMParty/loki](https://github.com/LLVMParty/loki)
-  > Hardening code obfuscation against automated attacks
+  > [Fork] Hardening code obfuscation against automated attacks
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki)
   > Hardening code obfuscation against automated attacks
 
@@ -98,6 +106,8 @@
 ### [Dump-GUY](https://github.com/Dump-GUY)
 - 🌟 👤 [Dump-GUY](https://github.com/Dump-GUY) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
   > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
+- 🌟 👤 [Dump-GUY](https://github.com/Dump-GUY) Starred [bI8d0/DriverSentinel](https://github.com/bI8d0/DriverSentinel)
+  > DriverSentinel is a security tool developed in Go that detects malicious and vulnerable drivers on W...
 
 ### [EZForever](https://github.com/EZForever)
 - 🌟 👤 [EZForever](https://github.com/EZForever) Starred [zserge/socreates](https://github.com/zserge/socreates)
@@ -304,6 +314,8 @@
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [CamsShaft/NEW-METHOD-Executing-AT-commands-on-your-device-as-system-user](https://github.com/CamsShaft/NEW-METHOD-Executing-AT-commands-on-your-device-as-system-user)
   > Please refer to the readme for an extensive write-up that will help guide you to being able to run A...
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [actuallyaridan/linux-devmgmt](https://github.com/actuallyaridan/linux-devmgmt)
+  > A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sy...
 
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🍴 👤 [SodaMilk233](https://github.com/SodaMilk233) Forked [luoyesiqiu/dpt-shell](https://github.com/luoyesiqiu/dpt-shell) to [SodaMilk233/apk-shell](https://github.com/SodaMilk233/apk-shell)
@@ -337,9 +349,17 @@
 - 🌟 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Starred [wildmeshing/fTetWild](https://github.com/wildmeshing/fTetWild)
   > Fast Tetrahedral Meshing in the Wild
 
+### [ThunderCls](https://github.com/ThunderCls)
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome)
+  > Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your ...
+
 ### [TomKing062](https://github.com/TomKing062)
 - 🌟 👤 [TomKing062](https://github.com/TomKing062) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
   > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave ...
+
+### [Walkman100](https://github.com/Walkman100)
+- 🌟 👤 [Walkman100](https://github.com/Walkman100) Starred [jboero/f3p](https://github.com/jboero/f3p)
+  > Fight Phone Fraud - Android phone inspector tool
 
 ### [WooyunDota](https://github.com/WooyunDota)
 - 🌟 👤 [WooyunDota](https://github.com/WooyunDota) Starred [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec)
@@ -373,6 +393,16 @@
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [heimdal/heimdal](https://github.com/heimdal/heimdal)
   > Heimdal
+- 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [outflanknl/macos-jit](https://github.com/outflanknl/macos-jit)
+  > Proof-of-concept code for understanding the allow-jit entitlement on macOS
+
+### [aadog](https://github.com/aadog)
+- 🌟 👤 [aadog](https://github.com/aadog) Starred [DarKDevz/DarKSward](https://github.com/DarKDevz/DarKSward)
+  > DarkSword exploit chain, unpackaged
+- 🍴 👤 [aadog](https://github.com/aadog) Forked [DarKDevz/DarKSward](https://github.com/DarKDevz/DarKSward) to [aadog/DarKSward](https://github.com/aadog/DarKSward)
+  > DarkSword exploit chain, unpackaged
+- 🌟 👤 [aadog](https://github.com/aadog) Starred [34306/FilzaJailedDS](https://github.com/34306/FilzaJailedDS)
+  > Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Fil...
 
 ### [aalansehaiyang](https://github.com/aalansehaiyang)
 - 🌟 👤 [aalansehaiyang](https://github.com/aalansehaiyang) Starred [smallnest/goal-workflow](https://github.com/smallnest/goal-workflow)
@@ -468,6 +498,9 @@
   > 微信备份阅读器
 - 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)
   > AI-native design editor. Open-source Figma alternative.
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [roticv/rust_h265](https://github.com/roticv/rust_h265)
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [Michael-A-Kuykendall/muxide](https://github.com/Michael-A-Kuykendall/muxide)
+  > Pure Rust MP4 muxer — zero deps, no FFmpeg. Feed it encoded frames, get a standards-compliant MP4. H...
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
@@ -492,6 +525,9 @@
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [cloudflare/claude-managed-agents](https://github.com/cloudflare/claude-managed-agents)
+
+### [ejpir](https://github.com/ejpir)
+- 🌟 👤 [ejpir](https://github.com/ejpir) Starred [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch)
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [SuperCoolPencil/Janus](https://github.com/SuperCoolPencil/Janus)
@@ -530,6 +566,10 @@
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux)
   > Run OpenAI Codex Desktop on Linux - automated installer
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [tremwil/dearxan](https://github.com/tremwil/dearxan)
+  > Rust crate for analyzing and neutering Arxan in FromSoftware games
 
 ### [g0th1c54e4](https://github.com/g0th1c54e4)
 - 🌟 👤 [g0th1c54e4](https://github.com/g0th1c54e4) Starred [google/bindiff](https://github.com/google/bindiff)
@@ -589,7 +629,7 @@
 
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
-  > A reference implementation for autonomous vulnerability discovery and human-reviewed remediation wit...
+  > Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can ...
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)
   > Incremental engine for long horizon agents 🌟 Star if you like it!
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [skuznetsov/cogni-ml](https://github.com/skuznetsov/cogni-ml)
@@ -714,6 +754,8 @@
 ### [mahmoudimus](https://github.com/mahmoudimus)
 - 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [superset-sh/superset](https://github.com/superset-sh/superset)
   > Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [hercules-390/hyperion](https://github.com/hercules-390/hyperion)
+  > Hercules 390 
 
 ### [mattiasgustavsson](https://github.com/mattiasgustavsson)
 - 🌟 👤 [mattiasgustavsson](https://github.com/mattiasgustavsson) Starred [JimmyLefevre/kb](https://github.com/JimmyLefevre/kb)
@@ -746,6 +788,8 @@
   > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki) to [LLVMParty/loki](https://github.com/LLVMParty/loki)
   > Hardening code obfuscation against automated attacks
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki) to [mrexodia/loki](https://github.com/mrexodia/loki)
+  > Hardening code obfuscation against automated attacks
 
 ### [mudongliang](https://github.com/mudongliang)
 - 🍴 👤 [mudongliang](https://github.com/mudongliang) Forked [hust-open-atom-club/Kernel_Dojo_X64](https://github.com/hust-open-atom-club/Kernel_Dojo_X64) to [hust-open-atom-club/Level-Up-Challenge-IV_Dojo_X64](https://github.com/hust-open-atom-club/Level-Up-Challenge-IV_Dojo_X64)
@@ -754,6 +798,12 @@
 ### [muellan](https://github.com/muellan)
 - 🌟 👤 [muellan](https://github.com/muellan) Starred [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
   > Truly independent web browser
+
+### [mylovereturns](https://github.com/mylovereturns)
+- 🚀 👤 [mylovereturns](https://github.com/mylovereturns) Made [mylovereturns/prometheus](https://github.com/mylovereturns/prometheus) public
+  > Prometheus is a memory-safe, deterministic, and zero-allocation disassembly engine written in safe R...
+- 🌟 👤 [mylovereturns](https://github.com/mylovereturns) Starred [LockaSkids/Locka-Guides](https://github.com/LockaSkids/Locka-Guides)
+  > A Guide to making roblox stuff since everyone is gatekeeping http://lockguides.rf.gd/?i=1
 
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [oacia/stalker_trace_so](https://github.com/oacia/stalker_trace_so)
@@ -768,6 +818,7 @@
   > Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulator...
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [danielealbano/android-remote-control-mcp](https://github.com/danielealbano/android-remote-control-mcp)
   > An MCP Server for Android running on the phone, optmized for token usage, supports also files downlo...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
@@ -1015,5 +1066,5 @@
 
 
 ---
-*最后更新于 2026-05-27 19:24:55 UTC*
+*最后更新于 2026-05-27 21:54:49 UTC*
 *历史记录保存在 `archive` 目录中。*
