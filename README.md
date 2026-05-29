@@ -9,6 +9,10 @@
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
   > Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
+### [0xdad0](https://github.com/0xdad0)
+- 🌟 👤 [0xdad0](https://github.com/0xdad0) Starred [BruceDevices/firmware](https://github.com/BruceDevices/firmware)
+  > Predatory ESP32 Firmware
+
 ### [0xeb](https://github.com/0xeb)
 - 🍴 👤 [0xeb](https://github.com/0xeb) Forked [connorjaydunn/BinaryShield](https://github.com/connorjaydunn/BinaryShield) to [lallouslab/BinaryShield](https://github.com/lallouslab/BinaryShield)
   > An x86-64 Code Virtualizer
@@ -144,6 +148,10 @@
   > A Frida-Like Style Dynamic instrumentation toolkit for Android
 - 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [x1aon1ng/Nook](https://github.com/x1aon1ng/Nook) to [LunFengChen/Nook](https://github.com/LunFengChen/Nook)
   > A Frida-Like Style Dynamic instrumentation toolkit for Android
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [imj01y/trace-ui](https://github.com/imj01y/trace-ui)
+  > 高性能 ARM64 执行 trace 可视化分析工具
+- 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [imj01y/trace-ui](https://github.com/imj01y/trace-ui) to [LunFengChen/trace-ui](https://github.com/LunFengChen/trace-ui)
+  > 高性能 ARM64 执行 trace 可视化分析工具
 
 ### [Mati365](https://github.com/Mati365)
 - 🌟 👤 [Mati365](https://github.com/Mati365) Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
@@ -272,6 +280,8 @@
 ### [XiaoTong6666](https://github.com/XiaoTong6666)
 - 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [JingMatrix/NeoZygisk](https://github.com/JingMatrix/NeoZygisk)
   > Zygote injection with ptrace
+- 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [PerformanC/Treat-Wheel-Zygisk](https://github.com/PerformanC/Treat-Wheel-Zygisk)
+  > The wheel to reinvent the new light.
 
 ### [Yeti-791](https://github.com/Yeti-791)
 - 🌟 👤 [Yeti-791](https://github.com/Yeti-791) Starred [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents)
@@ -345,6 +355,8 @@
 ### [buzzer-re](https://github.com/buzzer-re)
 - 🌟 👤 [buzzer-re](https://github.com/buzzer-re) Starred [openai/whisper](https://github.com/openai/whisper)
   > Robust Speech Recognition via Large-Scale Weak Supervision
+- 🌟 👤 [buzzer-re](https://github.com/buzzer-re) Starred [openai/tiktoken](https://github.com/openai/tiktoken)
+  > tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
@@ -394,6 +406,8 @@
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [char-ptr/gdke](https://github.com/char-ptr/gdke)
   > Extract encryption key from godot binaries externally with a gui.
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [1003761249/CheatEngine-With-kdmapper](https://github.com/1003761249/CheatEngine-With-kdmapper)
+  > 黑客项目_Qt框架和现代C++从0开始重写CheatEngine应用层，通过kdmapper手动映射DBK驱动，并重构DBK与Cheat Engine的通讯机制，绕过微软签名
 
 ### [eggfly](https://github.com/eggfly)
 - 🍴 👤 [eggfly](https://github.com/eggfly) Forked [tiktok/tiktok-business-ios-sdk](https://github.com/tiktok/tiktok-business-ios-sdk) to [eggfly/tiktok-business-ios-sdk](https://github.com/eggfly/tiktok-business-ios-sdk)
@@ -464,6 +478,13 @@
   > LLVM pass plugin for native code obfuscation and anti-tamper. CFG flattening, string encryption, VM ...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [astrophysik/project-o](https://github.com/astrophysik/project-o) to [gmh5225/project-o](https://github.com/gmh5225/project-o)
   > Compiler for Object-Oriented language in LLVM IR
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [krystophny/liric](https://github.com/krystophny/liric) to [gmh5225/liric](https://github.com/gmh5225/liric)
+  > Lightweight IR Compiler - fast JIT for LLVM IR and WASM
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gdumfi/solidity-llvm](https://github.com/gdumfi/solidity-llvm) to [gmh5225/solidity-llvm](https://github.com/gmh5225/solidity-llvm)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nktkt/redzone](https://github.com/nktkt/redzone) to [gmh5225/redzone](https://github.com/gmh5225/redzone)
+  > A minimal LLVM-based memory-safety detector for C (heap overflow + use-after-free) — a tiny AddressS...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ThirteenAG/XboxRainDroplets](https://github.com/ThirteenAG/XboxRainDroplets) to [gmh5225/XboxRainDroplets](https://github.com/gmh5225/XboxRainDroplets)
+  > Enhanced implementation of xbox rain droplets from SkyGFX for other games.
 
 ### [gnahz77](https://github.com/gnahz77)
 - 🌟 👤 [gnahz77](https://github.com/gnahz77) Starred [daytonaio/daytona](https://github.com/daytonaio/daytona)
@@ -563,6 +584,10 @@
 - 🌟 👤 [jmpews](https://github.com/jmpews) Starred [solod-dev/solod](https://github.com/solod-dev/solod)
   > A subset of Go that translates to C
 
+### [john-peterson](https://github.com/john-peterson)
+- 🍴 👤 [john-peterson](https://github.com/john-peterson) Forked [glfw/glfw](https://github.com/glfw/glfw) to [john-peterson/glfw](https://github.com/john-peterson/glfw)
+  > A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+
 ### [junjiexing](https://github.com/junjiexing)
 - 🌟 👤 [junjiexing](https://github.com/junjiexing) Starred [ea/cgs2_decloud](https://github.com/ea/cgs2_decloud)
   > A guide to untether an air quality monitor from it's cloud 
@@ -635,6 +660,16 @@
 ### [marlkiller](https://github.com/marlkiller)
 - 🌟 👤 [marlkiller](https://github.com/marlkiller) Starred [marlkiller/flowforge-crypto](https://github.com/marlkiller/flowforge-crypto)
   >  A visual, node-based cryptography workbench for designing, testing, and debugging cryptographic wor...
+
+### [misc0110](https://github.com/misc0110)
+- 🌟 👤 [misc0110](https://github.com/misc0110) Starred [StrawberryMaster/wayback-machine-downloader](https://github.com/StrawberryMaster/wayback-machine-downloader)
+  > Download an entire website from the Wayback Machine.
+
+### [mkr-infinity](https://github.com/mkr-infinity)
+- 🌟 👤 [mkr-infinity](https://github.com/mkr-infinity) Starred [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds)
+  > A clean and easy workflow that automatically builds Morphe APKs every 24 hours.
+- 🌟 👤 [mkr-infinity](https://github.com/mkr-infinity) Starred [aniplaynow/airin](https://github.com/aniplaynow/airin)
+  > Watch Anime Without Interruptions! Enjoy Ad-Free Streaming and AniList Integration only on Airin!
 
 ### [moonD4rk](https://github.com/moonD4rk)
 - 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [grafana/skills](https://github.com/grafana/skills)
@@ -729,6 +764,12 @@
   > 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
 - 🍴 👤 [riba2534](https://github.com/riba2534) Forked [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) to [riba2534/fishclaw](https://github.com/riba2534/fishclaw)
   > 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
+- 🌟 👤 [riba2534](https://github.com/riba2534) Starred [browser-use/browser-harness](https://github.com/browser-use/browser-harness)
+  > Browser Harness | Self-healing harness that enables LLMs to complete any task.
+
+### [rmuxnet](https://github.com/rmuxnet)
+- 🌟 👤 [rmuxnet](https://github.com/rmuxnet) Starred [kirathenotebook/ps5-linux-toolbox](https://github.com/kirathenotebook/ps5-linux-toolbox)
+  > Windows GUI for building, flashing, and managing PS5 Linux disk images
 
 ### [rogertan30](https://github.com/rogertan30)
 - 🌟 👤 [rogertan30](https://github.com/rogertan30) Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
@@ -754,6 +795,10 @@
 - 🌟 👤 [samanL33T](https://github.com/samanL33T) Starred [Ch0pin/iris](https://github.com/Ch0pin/iris)
   > Intent Runtime Inspection System
 
+### [serein-213](https://github.com/serein-213)
+- 🍴 👤 [serein-213](https://github.com/serein-213) Forked [Tokisaki-Galaxy/luci-app-tailscale-community](https://github.com/Tokisaki-Galaxy/luci-app-tailscale-community) to [serein-213/luci-app-tailscale-community](https://github.com/serein-213/luci-app-tailscale-community)
+  > Tailscale graphical panel on luci
+
 ### [seritools](https://github.com/seritools)
 - 🌟 👤 [seritools](https://github.com/seritools) Starred [inkandswitch/bijou](https://github.com/inkandswitch/bijou)
   > Bijective variable-length encoding for unsigned integers
@@ -764,6 +809,8 @@
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [soui4/swinx](https://github.com/soui4/swinx)
+- 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [ezpzai/codex-computer-use-windows](https://github.com/ezpzai/codex-computer-use-windows)
+  > Codex can use `computer use` in Windows
 
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm)
@@ -829,6 +876,8 @@
 ### [wjcsharp](https://github.com/wjcsharp)
 - 🌟 👤 [wjcsharp](https://github.com/wjcsharp) Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
   > GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph...
+- 🌟 👤 [wjcsharp](https://github.com/wjcsharp) Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
+  > Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI ...
 
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [Thesharing/pkuthss](https://github.com/Thesharing/pkuthss) to [wszqkzqk/pkuthss](https://github.com/wszqkzqk/pkuthss)
@@ -880,6 +929,10 @@
 - 🌟 👤 [yibobunengyuntian](https://github.com/yibobunengyuntian) Starred [stdware/qwindowkit](https://github.com/stdware/qwindowkit)
   > Cross-platform frameless window framework for Qt. Support Windows, macOS, Linux.
 
+### [yunsmall](https://github.com/yunsmall)
+- 🍴 👤 [yunsmall](https://github.com/yunsmall) Forked [hathach/tinyusb](https://github.com/hathach/tinyusb) to [yunsmall/tinyusb](https://github.com/yunsmall/tinyusb)
+  > An open source  cross-platform USB stack for embedded system
+
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [sunn1day/CVE-2020-36109-POC](https://github.com/sunn1day/CVE-2020-36109-POC)
   > CVE-2020-36109  PoC causing DoS
@@ -918,5 +971,5 @@
 
 
 ---
-*最后更新于 2026-05-29 18:33:04 UTC*
+*最后更新于 2026-05-29 21:07:25 UTC*
 *历史记录保存在 `archive` 目录中。*
