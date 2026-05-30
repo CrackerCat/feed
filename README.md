@@ -8,9 +8,20 @@
 - 🌟 👤 [0Chencc](https://github.com/0Chencc) Starred [xixu-me/xget](https://github.com/xixu-me/xget)
   > Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [0xflux/BioNTdrv](https://github.com/0xflux/BioNTdrv) to [lallouslab/BioNTdrv](https://github.com/lallouslab/BioNTdrv)
+
+### [Ap0dexMe0](https://github.com/Ap0dexMe0)
+- 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [The-SNEK-Initiative/SNEK_Blue-War-Hammer](https://github.com/The-SNEK-Initiative/SNEK_Blue-War-Hammer)
+  > Blue Hammer by Nightmare-Eclipse Vulnerability Documentation & Reimplementation.
+
 ### [Chordp](https://github.com/Chordp)
 - 🌟 👤 [Chordp](https://github.com/Chordp) Starred [jackwener/wx-cli](https://github.com/jackwener/wx-cli)
   > WeChat local data CLI with daemon architecture
+
+### [EZForever](https://github.com/EZForever)
+- 🌟 👤 [EZForever](https://github.com/EZForever) Starred [Imrglop/IDA-FastAnalysis](https://github.com/Imrglop/IDA-FastAnalysis)
+  > IDA Pro plugin that speeds up the initial binary auto analysis through caching and multithreaded ana...
 
 ### [EggUncle](https://github.com/EggUncle)
 - 🌟 👤 [EggUncle](https://github.com/EggUncle) Starred [m5stack/StackChan-BSP](https://github.com/m5stack/StackChan-BSP)
@@ -31,6 +42,8 @@
   > User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - 🌟 👤 [H3d9](https://github.com/H3d9) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
+- 🌟 👤 [H3d9](https://github.com/H3d9) Starred [daaain/claude-code-log](https://github.com/daaain/claude-code-log)
+  > A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML format.
 
 ### [Hamz-a](https://github.com/Hamz-a)
 - 🌟 👤 [Hamz-a](https://github.com/Hamz-a) Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
@@ -95,6 +108,10 @@
 - 🌟 👤 [Prslc](https://github.com/Prslc) Starred [zimya/zhihu_obsidian](https://github.com/zimya/zhihu_obsidian)
   > Zhihu on Obsidian | 知乎 Obsidian 插件
 
+### [Seyud](https://github.com/Seyud)
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
+  > An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysi...
+
 ### [Steesha](https://github.com/Steesha)
 - 🌟 👤 [Steesha](https://github.com/Steesha) Starred [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot)
   > ✅ No execution ✅ Pyarmor 8.0 - 9.2.x (latest) ✅ Universal ✅ Statically convert obfuscated Python scr...
@@ -128,6 +145,8 @@
   > Make your windows vibrant.
 - 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [Tencent/Hippy](https://github.com/Tencent/Hippy)
   > Hippy is designed to easily build cross-platform dynamic apps. 👏
+- 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+  > The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
 ### [a1ive](https://github.com/a1ive)
 - 🌟 👤 [a1ive](https://github.com/a1ive) Starred [deminimis/minimalimageviewer](https://github.com/deminimis/minimalimageviewer)
@@ -208,6 +227,14 @@
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [everettjf/treescope](https://github.com/everettjf/treescope)
   > An open-source runtime view inspector for UIKit, AppKit and SwiftUI, viewed in your browser. A free,...
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
+  > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave ...
+
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [iliyami/MacClean](https://github.com/iliyami/MacClean)
+  > The open-source Mac cleaner, optimizer, and malware scanner. A free alternative to CleanMyMac — buil...
+
 ### [g0th1c54e4](https://github.com/g0th1c54e4)
 - 🌟 👤 [g0th1c54e4](https://github.com/g0th1c54e4) Starred [HexRaysSA/ida-domain](https://github.com/HexRaysSA/ida-domain)
   > IDA Domain API - Python interface for IDA Pro reverse engineering platform
@@ -232,10 +259,15 @@
   > Apple corecrypto
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ziv/raytiles](https://github.com/ziv/raytiles) to [gmh5225/raytiles](https://github.com/gmh5225/raytiles)
   > 3D Geospatial engine for raylib
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [PatchRequest/PeregrineAntiCheat](https://github.com/PatchRequest/PeregrineAntiCheat) to [gmh5225/PeregrineAntiCheat](https://github.com/gmh5225/PeregrineAntiCheat)
+  > An educational anti-cheat system for learning Windows kernel programming, process monitoring, and ch...
 
 ### [goweii](https://github.com/goweii)
 - 🍴 👤 [goweii](https://github.com/goweii) Forked [Norbert515/nocterm](https://github.com/Norbert515/nocterm) to [goweii/nocterm](https://github.com/goweii/nocterm)
   > A powerful, Flutter-inspired Terminal User Interface framework for building beautiful command-line a...
+
+### [hellodword](https://github.com/hellodword)
+- 🌟 👤 [hellodword](https://github.com/hellodword) Starred [xyTom/coding-tools-mcp](https://github.com/xyTom/coding-tools-mcp)
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code)
@@ -255,6 +287,10 @@
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
 
+### [jaywcjlove](https://github.com/jaywcjlove)
+- 🍴 👤 [jaywcjlove](https://github.com/jaywcjlove) Forked [smittytone/HighlighterSwift](https://github.com/smittytone/HighlighterSwift) to [forksss/HighlighterSwift](https://github.com/forksss/HighlighterSwift)
+  > macOS, iOS and tvOS code syntax highlighter
+
 ### [je5442804](https://github.com/je5442804)
 - 🌟 👤 [je5442804](https://github.com/je5442804) Starred [iamsopotatoe-coder/TinyLoad](https://github.com/iamsopotatoe-coder/TinyLoad)
   > simple PE packer/crypter for Windows. compresses and encrypts executables with a custom virtual mach...
@@ -262,6 +298,8 @@
 ### [ltlly](https://github.com/ltlly)
 - 🌟 👤 [ltlly](https://github.com/ltlly) Starred [JStone2934/KAgent](https://github.com/JStone2934/KAgent)
   > 把 Agent 的每次改文件，画成一支「股票」的 K 线
+- 🌟 👤 [ltlly](https://github.com/ltlly) Starred [leenbj/novel-creator-skill](https://github.com/leenbj/novel-creator-skill)
+  > AI长篇小说创作系统 - 基于文件级长期记忆的Smart State模式，支持百万字级长篇小说持续创作
 
 ### [luochuanyuewu](https://github.com/luochuanyuewu)
 - 🌟 👤 [luochuanyuewu](https://github.com/luochuanyuewu) Starred [VaalaCat/ai-gateway](https://github.com/VaalaCat/ai-gateway)
@@ -341,6 +379,14 @@
 - 🌟 👤 [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz) Starred [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule)
   > A cron-like and not-cron-like job scheduler for Node.
 
+### [vipstone](https://github.com/vipstone)
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+  > Your Personal AI super intelligence. Private, Simple and extremely powerful.
+
+### [winmin](https://github.com/winmin)
+- 🍴 👤 [winmin](https://github.com/winmin) Forked [google/security-research](https://github.com/google/security-research) to [winmin/security-research](https://github.com/winmin/security-research)
+  > This project hosts security advisories and their accompanying proof-of-concepts related to research ...
+
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
   > Headless IDA Pro MCP Server
@@ -372,5 +418,5 @@
 
 
 ---
-*最后更新于 2026-05-30 09:17:34 UTC*
+*最后更新于 2026-05-30 11:20:12 UTC*
 *历史记录保存在 `archive` 目录中。*
