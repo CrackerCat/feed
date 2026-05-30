@@ -33,6 +33,10 @@
 - 🌟 👤 [AMJIYU](https://github.com/AMJIYU) Starred [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve)
   > 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 
+### [Adrikikicp2](https://github.com/Adrikikicp2)
+- 🌟 👤 [Adrikikicp2](https://github.com/Adrikikicp2) Starred [SwagSoftware/KisakCOD](https://github.com/SwagSoftware/KisakCOD)
+  > COD4 Open Source Reimplementation
+
 ### [Andrea-lyz](https://github.com/Andrea-lyz)
 - 🌟 👤 [Andrea-lyz](https://github.com/Andrea-lyz) Starred [GirlandDragon/MaskMyScene](https://github.com/GirlandDragon/MaskMyScene)
   > LKM 端口隐藏模块 - 比 eBPF 更彻底的端口隐藏方案
@@ -59,6 +63,12 @@
   > shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）修复原版中NoCC的问题 https://github.com/j1anFen/shiro_attack
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [makoto56/penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit)
   > 本项目制作的初衷是帮助师傅们快速搭建工作环境，工欲善其事，必先利其器。
+
+### [Ap0dexMe0](https://github.com/Ap0dexMe0)
+- 🍴 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Forked [fly-apps/self-host-ollama](https://github.com/fly-apps/self-host-ollama) to [Ap0dexMe0/self-host-ollama](https://github.com/Ap0dexMe0/self-host-ollama)
+  > A simple repo for deploying Ollama on Fly.io.
+- 🌟 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Starred [mfoud444/ollamafreeapi](https://github.com/mfoud444/ollamafreeapi)
+  > OllamaFreeAPI: Free Distributed API for Ollama LLMs  Public gateway to our managed Ollama servers wi...
 
 ### [CHYbeta](https://github.com/CHYbeta)
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [secureIT-project/CVEfixes](https://github.com/secureIT-project/CVEfixes)
@@ -112,6 +122,10 @@
 ### [Jiang-Night](https://github.com/Jiang-Night)
 - 🌟 👤 [Jiang-Night](https://github.com/Jiang-Night) Starred [1193776794/launch](https://github.com/1193776794/launch)
   > 检测工具
+
+### [Keno](https://github.com/Keno)
+- 🍴 👤 [Keno](https://github.com/Keno) Forked [timholy/Revise.jl](https://github.com/timholy/Revise.jl) to [KenoAIStaging/Revise.jl](https://github.com/KenoAIStaging/Revise.jl)
+  > Automatically update function definitions in a running Julia session
 
 ### [KickedDroid](https://github.com/KickedDroid)
 - 🌟 👤 [KickedDroid](https://github.com/KickedDroid) Starred [ZumiYumi/Eos-Loader](https://github.com/ZumiYumi/Eos-Loader)
@@ -244,6 +258,8 @@
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [PatterAI/Patter](https://github.com/PatterAI/Patter)
   > Open-source voice-AI SDK. The Vapi/Retell alternative for builders who want to own the stack. Give y...
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [yowmamasita/usa-tv-next](https://github.com/yowmamasita/usa-tv-next)
+  > USA TV Next - Stremio addon - live TV channels
 
 ### [Trijal08](https://github.com/Trijal08)
 - 🍴 👤 [Trijal08](https://github.com/Trijal08) Forked [Project-Mist-OS/frameworks_base_qpr2](https://github.com/Project-Mist-OS/frameworks_base_qpr2) to [Trijal08/mist_frameworks_base](https://github.com/Trijal08/mist_frameworks_base)
@@ -342,6 +358,12 @@
 - 🌟 👤 [binbin594738977](https://github.com/binbin594738977) Starred [Impact-I/reFlutter](https://github.com/Impact-I/reFlutter)
   > Flutter Reverse Engineering Framework
 
+### [bosen365](https://github.com/bosen365)
+- 🌟 👤 [bosen365](https://github.com/bosen365) Starred [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant)
+  > 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界...
+- 🍴 👤 [bosen365](https://github.com/bosen365) Forked [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) to [bosen365/XianYuAssistant](https://github.com/bosen365/XianYuAssistant)
+  > 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界...
+
 ### [boy-hack](https://github.com/boy-hack)
 - 🍴 👤 [boy-hack](https://github.com/boy-hack) Forked [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) to [boy-hack/clawd-on-desk](https://github.com/boy-hack/clawd-on-desk)
   > A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't ...
@@ -393,6 +415,10 @@
 - 🌟 👤 [datochan](https://github.com/datochan) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
   > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave ...
 
+### [diommsantos](https://github.com/diommsantos)
+- 🌟 👤 [diommsantos](https://github.com/diommsantos) Starred [d00m1k/SimpleBlueColorWaybar](https://github.com/d00m1k/SimpleBlueColorWaybar)
+  > waybar config for Hyprland
+
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [skillsgate/skillsgate](https://github.com/skillsgate/skillsgate)
 
@@ -425,6 +451,10 @@
   > Multi-instance IDA Pro MCP server — analyze multiple binaries simultaneously through a single MCP en...
 - 🍴 👤 [enenH](https://github.com/enenH) Forked [MeroZemory/ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp) to [enenH/ida-multi-mcp](https://github.com/enenH/ida-multi-mcp)
   > Multi-instance IDA Pro MCP server — analyze multiple binaries simultaneously through a single MCP en...
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [greg7mdp/gtl](https://github.com/greg7mdp/gtl)
+  > Greg's Template Library of useful classes.
 
 ### [evdenis](https://github.com/evdenis)
 - 🍴 👤 [evdenis](https://github.com/evdenis) Forked [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) to [evdenis/kernel-hardening-checker](https://github.com/evdenis/kernel-hardening-checker)
@@ -495,6 +525,10 @@
   > Rudroid - Writing the World's worst Android Emulator in Rust 🦀
 - 🌟 👤 [grant-h](https://github.com/grant-h) Starred [alex-bluesman/project-saturn](https://github.com/alex-bluesman/project-saturn)
   > Lightweight AArch64 Hypervisor
+
+### [gyyyy](https://github.com/gyyyy)
+- 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)
+  > No fortress, purely open ground.  OpenManus is Coming.
 
 ### [h3h3qaq](https://github.com/h3h3qaq)
 - 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [X1r0z/memshell-killer](https://github.com/X1r0z/memshell-killer)
@@ -588,6 +622,10 @@
 - 🍴 👤 [john-peterson](https://github.com/john-peterson) Forked [glfw/glfw](https://github.com/glfw/glfw) to [john-peterson/glfw](https://github.com/john-peterson/glfw)
   > A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 
+### [jpillora](https://github.com/jpillora)
+- 🌟 👤 [jpillora](https://github.com/jpillora) Starred [stefanmaric/g](https://github.com/stefanmaric/g)
+  > Simple go version manager, gluten-free
+
 ### [junjiexing](https://github.com/junjiexing)
 - 🌟 👤 [junjiexing](https://github.com/junjiexing) Starred [ea/cgs2_decloud](https://github.com/ea/cgs2_decloud)
   > A guide to untether an air quality monitor from it's cloud 
@@ -660,6 +698,10 @@
 ### [marlkiller](https://github.com/marlkiller)
 - 🌟 👤 [marlkiller](https://github.com/marlkiller) Starred [marlkiller/flowforge-crypto](https://github.com/marlkiller/flowforge-crypto)
   >  A visual, node-based cryptography workbench for designing, testing, and debugging cryptographic wor...
+
+### [mborgerson](https://github.com/mborgerson)
+- 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+  > The best ChatGPT that $100 can buy.
 
 ### [misc0110](https://github.com/misc0110)
 - 🌟 👤 [misc0110](https://github.com/misc0110) Starred [StrawberryMaster/wayback-machine-downloader](https://github.com/StrawberryMaster/wayback-machine-downloader)
@@ -862,6 +904,10 @@
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
   > Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro...
 
+### [void-stack](https://github.com/void-stack)
+- 🌟 👤 [void-stack](https://github.com/void-stack) Starred [iamsopotatoe-coder/TinyLoad](https://github.com/iamsopotatoe-coder/TinyLoad)
+  > simple PE packer/crypter for Windows. compresses and encrypts executables with a custom virtual mach...
+
 ### [wbaby](https://github.com/wbaby)
 - 🍴 👤 [wbaby](https://github.com/wbaby) Forked [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) to [wbaby/rustdesk](https://github.com/wbaby/rustdesk)
   > An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer...
@@ -971,5 +1017,5 @@
 
 
 ---
-*最后更新于 2026-05-29 21:07:25 UTC*
+*最后更新于 2026-05-29 23:12:33 UTC*
 *历史记录保存在 `archive` 目录中。*
