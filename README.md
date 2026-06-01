@@ -31,6 +31,8 @@
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [cryphorix/iEmu](https://github.com/cryphorix/iEmu)
   > Emulating Apple Silicon devices. Custom upstream fork, bringing support for more iOS versions.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [DeLuks2006/patimat](https://github.com/DeLuks2006/patimat)
+  > Simple, header-only, pattern matching and patching class + tool written in modern C++.
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [RsyncProject/rsync](https://github.com/RsyncProject/rsync)
@@ -181,6 +183,12 @@
 - 🌟 👤 [MolotovCherry](https://github.com/MolotovCherry) Starred [MintyDoggo/miri](https://github.com/MintyDoggo/miri)
   > A niri extension adding optional tiling layouts such as Master Stack. Provides similar experience to...
 
+### [MrIkso](https://github.com/MrIkso)
+- 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [PicoShot/UnityInspectorStandalone](https://github.com/PicoShot/UnityInspectorStandalone)
+  > Runtime Inspector for Unity Games Mono/Il2Cpp 
+- 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [rodroidmods/il2cpp-dumper-rs](https://github.com/rodroidmods/il2cpp-dumper-rs)
+  > Fast cross-platform Unity IL2CPP dumper written in Rust for extracting metadata, reversing libil2cpp...
+
 ### [PangBaiWork](https://github.com/PangBaiWork)
 - 🌟 👤 [PangBaiWork](https://github.com/PangBaiWork) Starred [ringtailsoftware/uvm32](https://github.com/ringtailsoftware/uvm32)
   > Minimalist, dependency-free virtual machine sandbox for microcontrollers and other resource-constrai...
@@ -242,6 +250,10 @@
 ### [Trijal08](https://github.com/Trijal08)
 - 🍴 👤 [Trijal08](https://github.com/Trijal08) Forked [Project-Mist-OS/lineage-sdk](https://github.com/Project-Mist-OS/lineage-sdk) to [Trijal08/mist_lineage-sdk](https://github.com/Trijal08/mist_lineage-sdk)
 
+### [UEFI-code](https://github.com/UEFI-code)
+- 🍴 👤 [UEFI-code](https://github.com/UEFI-code) Forked [gopher-atz/4klang](https://github.com/gopher-atz/4klang) to [UEFI-code/4klang](https://github.com/UEFI-code/4klang)
+  > Official 4klang repository
+
 ### [Werneror](https://github.com/Werneror)
 - 🌟 👤 [Werneror](https://github.com/Werneror) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
   > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -282,6 +294,10 @@
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)
   > A platform for reproducible world model research and evaluation
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [90th/llvm-obfus](https://github.com/90th/llvm-obfus)
+  > out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation.
+
 ### [arkup](https://github.com/arkup)
 - 🌟 👤 [arkup](https://github.com/arkup) Starred [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt)
   > Themida Devirt Results
@@ -318,6 +334,9 @@
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [yjun123/e-waste](https://github.com/yjun123/e-waste)
   > electronic waste collection. 数码视讯 Q5, 泰奇猫 TQC-A01, 贝壳云 Beikeyun P1, 网心云 OEC Turbo,   外贸盒子 A5X Max,FM...
 
+### [billziss-gh](https://github.com/billziss-gh)
+- 🌟 👤 [billziss-gh](https://github.com/billziss-gh) Starred [dharmatech/9p-winfsp](https://github.com/dharmatech/9p-winfsp)
+
 ### [bingwin](https://github.com/bingwin)
 - 🍴 👤 [bingwin](https://github.com/bingwin) Forked [fanrea/1111](https://github.com/fanrea/1111) to [bingwin/ksapk](https://github.com/bingwin/ksapk)
 
@@ -338,6 +357,16 @@
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
   > Self-hosted AI workspace. 
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [snstac/adsbcot](https://github.com/snstac/adsbcot)
+  > Display Aircraft in TAK - ADS-B to TAK Gateway
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [snstac/pytak](https://github.com/snstac/pytak)
+  > PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TAK-Product-Center/atak-civ](https://github.com/TAK-Product-Center/atak-civ)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TAK-Product-Center/Server](https://github.com/TAK-Product-Center/Server)
+  > TAK Server
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TAK-Product-Center/VR](https://github.com/TAK-Product-Center/VR)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [meshtastic/ATAK-Plugin](https://github.com/meshtastic/ATAK-Plugin)
+  > ATAK Plugin for sending CoT to IMeshService
 
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [vernesong/OpenClash](https://github.com/vernesong/OpenClash)
@@ -367,8 +396,14 @@
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [nawodyaishan/pdf2md-tui](https://github.com/nawodyaishan/pdf2md-tui)
   > High-speed PDF → Markdown ingestion engine for multimodal RAG pipelines. Extracts structured text + ...
 
+### [evdenis](https://github.com/evdenis)
+- 🍴 👤 [evdenis](https://github.com/evdenis) Forked [coccinelle/coccinelle](https://github.com/coccinelle/coccinelle) to [evdenis/coccinelle](https://github.com/evdenis/coccinelle)
+  > Source code of the Coccinelle project (mirror of the main Coccinelle repository located at Inria)
+
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [everettjf/oort](https://github.com/everettjf/oort)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)
+  > The best agent harness.
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [aimardcr/akane-injector](https://github.com/aimardcr/akane-injector)
@@ -551,6 +586,7 @@
   > Download firmware for Samsung devices
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest)
   > An easy and powerful Rust HTTP Client
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [apple-oss-distributions/Security](https://github.com/apple-oss-distributions/Security)
 
 ### [linuxmobile](https://github.com/linuxmobile)
 - 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [JustRoccat/rs-pug](https://github.com/JustRoccat/rs-pug)
@@ -656,6 +692,10 @@
 - 🌟 👤 [sandyz987](https://github.com/sandyz987) Starred [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect)
   > 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 
+### [sebastien-riou](https://github.com/sebastien-riou)
+- 🌟 👤 [sebastien-riou](https://github.com/sebastien-riou) Starred [SuperTinyKernel-RTOS/stk](https://github.com/SuperTinyKernel-RTOS/stk)
+  > SuperTinyKernel RTOS is a lightweight, high-performance, deterministic, bare-metal C++ RTOS for reso...
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [xiaojianbang8888/xiaojianbang-stealth-hook](https://github.com/xiaojianbang8888/xiaojianbang-stealth-hook)
   > Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。
@@ -665,6 +705,10 @@
 ### [smartdone](https://github.com/smartdone)
 - 🌟 👤 [smartdone](https://github.com/smartdone) Starred [vigolium/vigolium](https://github.com/vigolium/vigolium)
   > Vigolium - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and ...
+
+### [sotasan](https://github.com/sotasan)
+- 🌟 👤 [sotasan](https://github.com/sotasan) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+  > Self-hosted AI workspace. 
 
 ### [thecybersandeep](https://github.com/thecybersandeep)
 - 🌟 👤 [thecybersandeep](https://github.com/thecybersandeep) Starred [thecybersandeep/iosspect](https://github.com/thecybersandeep/iosspect)
@@ -677,6 +721,8 @@
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [championswimmer/pi-context-prune](https://github.com/championswimmer/pi-context-prune)
   > Pi coding-agent extension for pruning tool-call trees
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [19h/ida-codedump](https://github.com/19h/ida-codedump)
+  > An IDA Pro plugin that lifts functions and their dependencies out of IDA Pro into self-contained art...
 
 ### [wishihab](https://github.com/wishihab)
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [toprakdeviren/msf](https://github.com/toprakdeviren/msf)
@@ -713,6 +759,10 @@
 - 🍴 👤 [wyattearp](https://github.com/wyattearp) Forked [halucinator/avatar-qemu](https://github.com/halucinator/avatar-qemu) to [wyattearp/avatar-qemu](https://github.com/wyattearp/avatar-qemu)
   > HALucinator's fork of Avatar2's QEMU
 
+### [xct](https://github.com/xct)
+- 🌟 👤 [xct](https://github.com/xct) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+  > Self-hosted AI workspace. 
+
 ### [xiandanin](https://github.com/xiandanin)
 - 🌟 👤 [xiandanin](https://github.com/xiandanin) Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
   > Hunt down social media accounts by username across social networks
@@ -745,5 +795,5 @@
 
 
 ---
-*最后更新于 2026-05-31 18:02:04 UTC*
+*最后更新于 2026-05-31 21:59:42 UTC*
 *历史记录保存在 `archive` 目录中。*
