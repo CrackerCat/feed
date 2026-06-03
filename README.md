@@ -126,6 +126,12 @@
 - 🌟 👤 [KuLiPai](https://github.com/KuLiPai) Starred [sunny-chung/kotlite](https://github.com/sunny-chung/kotlite)
   > A Kotlin Multiplatform library to interpret Kotlite code, which is a subset of the Kotlin language, ...
 
+### [L4ys](https://github.com/L4ys)
+- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [microsoft/coreutils](https://github.com/microsoft/coreutils)
+  > Coreutils for Windows: Installer & Packaging
+- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [microsoft/WindowsDeveloperConfig](https://github.com/microsoft/WindowsDeveloperConfig)
+  > Automate the setup and configuration of your Windows development environment.
+
 ### [LabGuy94](https://github.com/LabGuy94)
 - 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
   > Self-hosted AI workspace. 
@@ -173,6 +179,12 @@
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [ahmetb/kubectx](https://github.com/ahmetb/kubectx)
   > Faster way to switch between clusters and namespaces in kubectl
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin)
+  > A Kubernetes device plugin to schedule generic Linux devices
+
+### [Machiry](https://github.com/Machiry)
+- 🌟 👤 [Machiry](https://github.com/Machiry) Starred [PurdueDualityLab/purdue-tenure-packet-generator](https://github.com/PurdueDualityLab/purdue-tenure-packet-generator)
+  > Generate Word Doc-friendly passages for Purdue tenure packets
 
 ### [Mandi-Sa](https://github.com/Mandi-Sa)
 - 🍴 👤 [Mandi-Sa](https://github.com/Mandi-Sa) Forked [XxxXTeam/freebuff2api](https://github.com/XxxXTeam/freebuff2api) to [Mandi-Sa/freebuff2api](https://github.com/Mandi-Sa/freebuff2api)
@@ -308,6 +320,10 @@
 - 🌟 👤 [afkT](https://github.com/afkT) Starred [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)
   > #1 Persistent memory for AI coding agents based on real-world benchmarks
 
+### [ant4g0nist](https://github.com/ant4g0nist)
+- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [Unleash/unleash](https://github.com/Unleash/unleash)
+  > Open-source feature management platform
+
 ### [ayoubfaouzi](https://github.com/ayoubfaouzi)
 - 🍴 👤 [ayoubfaouzi](https://github.com/ayoubfaouzi) Forked [bakkeby/dmenu-flexipatch](https://github.com/bakkeby/dmenu-flexipatch) to [ayoubfaouzi/dmenu](https://github.com/ayoubfaouzi/dmenu)
   > A dmenu build with preprocessor directives to decide which patches to include during build time
@@ -419,6 +435,10 @@
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [onionshare/onionshare](https://github.com/onionshare/onionshare)
   > Securely and anonymously share files, host websites, and chat with friends using the Tor network
 
+### [crazy-max](https://github.com/crazy-max)
+- 🌟 👤 [crazy-max](https://github.com/crazy-max) Starred [microsoft/mxc](https://github.com/microsoft/mxc)
+  > Policy-driven, layered isolation and containment 
+
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🍴 👤 [ctkqiang](https://github.com/ctkqiang) Forked [TarsCloud/TarsGo](https://github.com/TarsCloud/TarsGo) to [ctkqiang/TarsGo](https://github.com/ctkqiang/TarsGo)
   > A  high performance microservice  framework  in golang. A linux foundation project.
@@ -467,6 +487,10 @@
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [picocss/pico](https://github.com/picocss/pico)
   > Minimal CSS Framework for semantic HTML
+
+### [dzxpert](https://github.com/dzxpert)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+  > FinceptTerminal is a modern finance application offering advanced market analytics, investment resea...
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)
@@ -565,6 +589,20 @@
   > Minimalist RP2350 magnetic sensor scroll wheel toy project
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [datasette/datasette-agent-micropython](https://github.com/datasette/datasette-agent-micropython) to [gmh5225/datasette-agent-micropython](https://github.com/gmh5225/datasette-agent-micropython)
   > MicroPython in a WASM sandbox as a tool for Datasette Agent
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [microsoft/coreutils](https://github.com/microsoft/coreutils) to [gmh5225/coreutils-](https://github.com/gmh5225/coreutils-)
+  > Coreutils for Windows: Installer & Packaging
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [christosk92/WaveeMusic](https://github.com/christosk92/WaveeMusic) to [gmh5225/WaveeMusic](https://github.com/gmh5225/WaveeMusic)
+  > A high-performance Spotify client for Windows, built with .NET 10 and WinUI 3.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Agent-Field/af-deep-research](https://github.com/Agent-Field/af-deep-research) to [gmh5225/af-deep-research](https://github.com/gmh5225/af-deep-research)
+  > Autonomous AI backend for deep research AI applications.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [uutils/grep](https://github.com/uutils/grep) to [gmh5225/grep](https://github.com/gmh5225/grep)
+  > A Rust implementation of GNU Grep
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [uutils/grep](https://github.com/uutils/grep)
+  > A Rust implementation of GNU Grep
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [datasette/datasette-enrichments](https://github.com/datasette/datasette-enrichments) to [gmh5225/datasette-enrichments](https://github.com/gmh5225/datasette-enrichments)
+  > Tools for running enrichments against data stored in Datasette
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [datasette/datasette-plot](https://github.com/datasette/datasette-plot) to [gmh5225/datasette-plot](https://github.com/gmh5225/datasette-plot)
+  > A Datasette plugin for making data visualizations with Observable Plot
 
 ### [herumi](https://github.com/herumi)
 - 🍴 👤 [herumi](https://github.com/herumi) Forked [golang/go](https://github.com/golang/go) to [herumi/go](https://github.com/herumi/go)
@@ -705,6 +743,10 @@
 - 🌟 👤 [lizhangqu](https://github.com/lizhangqu) Starred [aiqinxuancai/MintImage](https://github.com/aiqinxuancai/MintImage)
   > 跨平台 AI 图像生成客户端，支持 OpenAI 兼容 API （gpt-image-2）。
 
+### [lyy289065406](https://github.com/lyy289065406)
+- 🚀 👤 [lyy289065406](https://github.com/lyy289065406) Made [Visuals-AI/codex-auth-generator](https://github.com/Visuals-AI/codex-auth-generator) public
+  > 把已登录的 ChatGPT session 转成 Codex 可用的 auth.json，减少登录时手机号验证和接码的麻烦。
+
 ### [m4n3dw0lf](https://github.com/m4n3dw0lf)
 - 🌟 👤 [m4n3dw0lf](https://github.com/m4n3dw0lf) Starred [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
   > Nuclei is a fast, customizable vulnerability scanner powered by the global security community and bu...
@@ -745,6 +787,10 @@
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [playcanvas/engine](https://github.com/playcanvas/engine)
   > Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [adam-040/Enigma](https://github.com/adam-040/Enigma)
+  > C++ reimplementation of Ghidra's analytical core (SoftwareModeling + Utility), stripped of Java/JVM ...
+
 ### [mstxq17](https://github.com/mstxq17)
 - 🌟 👤 [mstxq17](https://github.com/mstxq17) Starred [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
   > DigitalPlat FreeDomain: Free Domain For Everyone
@@ -766,6 +812,10 @@
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [cyberpapiii/chipotlai-max](https://github.com/cyberpapiii/chipotlai-max)
   > The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as defaul...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [emiltsoi/hermes-agent-a2a](https://github.com/emiltsoi/hermes-agent-a2a)
+  > A2A HTTP/JSON-RPC protocol plugin for Hermes fleet agents — mesh session relay, HMAC auth, push noti...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Jovancoding/Network-AI](https://github.com/Jovancoding/Network-AI)
+  > Traffic light for AI Agents and TypeScript/Node multi-agent orchestrator with shared state, guardrai...
 
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -847,6 +897,7 @@
 ### [springmusk026](https://github.com/springmusk026)
 - 🌟 👤 [springmusk026](https://github.com/springmusk026) Starred [rodroidmods/il2cpp-dumper-rs](https://github.com/rodroidmods/il2cpp-dumper-rs)
   > Fast cross-platform Unity IL2CPP dumper written in Rust for extracting metadata, reversing libil2cpp...
+- 🚀 👤 [springmusk026](https://github.com/springmusk026) Made [springmusk026/Android-Native-Il2cppDumper](https://github.com/springmusk026/Android-Native-Il2cppDumper) public
 
 ### [stray-coding](https://github.com/stray-coding)
 - 🌟 👤 [stray-coding](https://github.com/stray-coding) Starred [vinceglb/FileKit](https://github.com/vinceglb/FileKit)
@@ -868,6 +919,8 @@
 
 ### [t-wy](https://github.com/t-wy)
 - 🌟 👤 [t-wy](https://github.com/t-wy) Starred [asmape0104/scshow-calculator](https://github.com/asmape0104/scshow-calculator)
+- 🌟 👤 [t-wy](https://github.com/t-wy) Starred [hamproductions/llll-chart](https://github.com/hamproductions/llll-chart)
+  > LLLL! chart
 
 ### [tamlok](https://github.com/tamlok)
 - 🍴 👤 [tamlok](https://github.com/tamlok) Forked [libgit2/libgit2](https://github.com/libgit2/libgit2) to [vnotex/libgit2](https://github.com/vnotex/libgit2)
@@ -888,6 +941,12 @@
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
   > Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
+### [totravel](https://github.com/totravel)
+- 🌟 👤 [totravel](https://github.com/totravel) Starred [XiaoMengXinX/Music163bot-Go](https://github.com/XiaoMengXinX/Music163bot-Go)
+  > 一个用来下载/分享网易云歌曲的Telegram Bot
+- 🌟 👤 [totravel](https://github.com/totravel) Starred [liuran001/MusicBot-Go](https://github.com/liuran001/MusicBot-Go)
+  > 一个支持音乐下载/分享的 Telegram Bot。
 
 ### [wa1ki0g](https://github.com/wa1ki0g)
 - 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [AetherCore-Dev/relay-radar](https://github.com/AetherCore-Dev/relay-radar)
@@ -973,5 +1032,5 @@
 
 
 ---
-*最后更新于 2026-06-02 18:38:38 UTC*
+*最后更新于 2026-06-02 21:47:22 UTC*
 *历史记录保存在 `archive` 目录中。*
