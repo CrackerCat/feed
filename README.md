@@ -74,6 +74,8 @@
   > Load and execute Linux ELF binaries
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jakobfriedl/logon-monitor-bof](https://github.com/jakobfriedl/logon-monitor-bof)
   > Async BOF that notifies the operator when a user connects to a local or remote target system.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [nano-rs/nano](https://github.com/nano-rs/nano)
+  > Lightweight open-core SIEM in Rust — ClickHouse for logs, Postgres for state.
 
 ### [CreditTone](https://github.com/CreditTone)
 - 🌟 👤 [CreditTone](https://github.com/CreditTone) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
@@ -159,7 +161,11 @@
 
 ### [Hackl0us](https://github.com/Hackl0us)
 - 🌟 👤 [Hackl0us](https://github.com/Hackl0us) Starred [daaain/claude-code-log](https://github.com/daaain/claude-code-log)
-  > A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML format.
+  > A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML / Markdown for...
+
+### [HdShare](https://github.com/HdShare)
+- 🌟 👤 [HdShare](https://github.com/HdShare) Starred [jar-analyzer/jar-obfuscator](https://github.com/jar-analyzer/jar-obfuscator)
+  > Jar Obfuscator V2 - 一个 JAR 文件保护混淆工具，支持包名/类名/方法名/字段名/参数名引用分析和重命名混淆方式，支持字符串加密/整型异或混淆/垃圾代码花指令混淆/等方式，支持方...
 
 ### [Howard20181](https://github.com/Howard20181)
 - 🌟 👤 [Howard20181](https://github.com/Howard20181) Starred [setube/stackprism](https://github.com/setube/stackprism)
@@ -219,9 +225,13 @@
 - 🌟 👤 [L4ys](https://github.com/L4ys) Starred [binsync/declib](https://github.com/binsync/declib)
   > A library for writing plugins in any decompiler: includes API lifting, common data formatting, and G...
 
-### [Lil-Ran](https://github.com/Lil-Ran)
-- 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
-  > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
+### [LimerBoy](https://github.com/LimerBoy)
+- 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [0x204/ClickFix-Turnstile](https://github.com/0x204/ClickFix-Turnstile)
+  > The basic scheme about phishing clickfix cloudflare turnstile. Educational purposes only!
+
+### [Ls4ss](https://github.com/Ls4ss)
+- 🌟 👤 [Ls4ss](https://github.com/Ls4ss) Starred [Mr-Un1k0d3r/AzureRedOps](https://github.com/Mr-Un1k0d3r/AzureRedOps)
+  > Azure RedOps is a offensive security toolkit for assessing the security posture of Microsoft Entra I...
 
 ### [LunFengChen](https://github.com/LunFengChen)
 - 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [manyuegong33/r0rpc](https://github.com/manyuegong33/r0rpc)
@@ -294,6 +304,10 @@
   > Try to make similar features like YTLite as much as possible.
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [everettjf/MachOExplorer](https://github.com/everettjf/MachOExplorer)
   > 🧱Explore MachO File on macOS and Windows
+
+### [RiccardoAncarani](https://github.com/RiccardoAncarani)
+- 🌟 👤 [RiccardoAncarani](https://github.com/RiccardoAncarani) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+  > Self-hosted AI workspace. 
 
 ### [RohitVerma882](https://github.com/RohitVerma882)
 - 🌟 👤 [RohitVerma882](https://github.com/RohitVerma882) Starred [piashcse/kmp-movie](https://github.com/piashcse/kmp-movie)
@@ -381,10 +395,22 @@
   > jilue extension pack source files for noname kill.
 - 🌟 👤 [XMDS](https://github.com/XMDS) Starred [Antarctics/noname](https://github.com/Antarctics/noname)
   > 无名杀的扩展编写教程文档。
+- 🌟 👤 [XMDS](https://github.com/XMDS) Starred [mengxinzxz/HuoDong-update](https://github.com/mengxinzxz/HuoDong-update)
+  > MengXin's HuoDong-update
+- 🌟 👤 [XMDS](https://github.com/XMDS) Starred [mengxinzxz/MengKuo-update](https://github.com/mengxinzxz/MengKuo-update)
+  > MengKuo-update
+- 🌟 👤 [XMDS](https://github.com/XMDS) Starred [Xiazhiliao/jilue](https://github.com/Xiazhiliao/jilue)
+  > jilue extension pack source files for noname kill.
+- 🌟 👤 [XMDS](https://github.com/XMDS) Starred [lieren2023/noname-for-dummies](https://github.com/lieren2023/noname-for-dummies)
+  > 无名杀懒人包（棘手怀念摧毁）
+- 🌟 👤 [XMDS](https://github.com/XMDS) Starred [1429825668/qianhuan](https://github.com/1429825668/qianhuan)
+  > 无名杀千幻聆音扩展。
 
 ### [XiaoTong6666](https://github.com/XiaoTong6666)
 - 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [helloklf/vtools](https://github.com/helloklf/vtools)
   > 一个集高级重启、应用安装自动点击、CPU调频等多项功能于一体的工具箱。
+- 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [NickstaDB/SerializationDumper](https://github.com/NickstaDB/SerializationDumper)
+  > A tool to dump Java serialization streams in a more human readable form.
 
 ### [XiaoliChan](https://github.com/XiaoliChan)
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
@@ -492,8 +518,6 @@
 
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [adam-040/Enigma](https://github.com/adam-040/Enigma)
-  > C++ reimplementation of Ghidra's analytical core (SoftwareModeling + Utility), stripped of Java/JVM ...
-- 🍴 👤 [dzxpert](https://github.com/dzxpert) Forked [abdouudjee/my-portfolio](https://github.com/abdouudjee/my-portfolio) to [dzxpert/our-portfolio](https://github.com/dzxpert/our-portfolio)
 
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [cryphorix/iEmu](https://github.com/cryphorix/iEmu)
@@ -550,7 +574,6 @@
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [adam-040/Enigma](https://github.com/adam-040/Enigma) to [gmh5225/Enigma-](https://github.com/gmh5225/Enigma-)
-  > C++ reimplementation of Ghidra's analytical core (SoftwareModeling + Utility), stripped of Java/JVM ...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [github/accessibility-scanner](https://github.com/github/accessibility-scanner) to [gmh5225/accessibility-scanner](https://github.com/gmh5225/accessibility-scanner)
   > Finds potential accessibility gaps, files GitHub issues to track them, and attempts to fix them with...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [stratumauth/app](https://github.com/stratumauth/app) to [gmh5225/app-2fa](https://github.com/gmh5225/app-2fa)
@@ -590,6 +613,9 @@
 - 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [gdumfi/solidity-llvm](https://github.com/gdumfi/solidity-llvm)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [dhl/swiftana](https://github.com/dhl/swiftana) to [gmh5225/swiftana](https://github.com/gmh5225/swiftana)
   > Write Solana BPF programs in Swift using upstream Rust toolchain, LLVM, and sbpf-linker.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [anvia-hq/lexa](https://github.com/anvia-hq/lexa) to [gmh5225/lexa](https://github.com/gmh5225/lexa)
+  > Lexa - Fast local code intelligence for humans and AI agents. Lexa turns a codebase into a portable,...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [AlexPs06/AES-fixedpoints](https://github.com/AlexPs06/AES-fixedpoints) to [gmh5225/AES-fixedpoints](https://github.com/gmh5225/AES-fixedpoints)
 
 ### [gnahz77](https://github.com/gnahz77)
 - 🌟 👤 [gnahz77](https://github.com/gnahz77) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
@@ -681,6 +707,10 @@
 - 🌟 👤 [jmpews](https://github.com/jmpews) Starred [cosscom/coss](https://github.com/cosscom/coss)
   > coss.com/ui is the official design system of Cal.com
 
+### [jonpalmisc](https://github.com/jonpalmisc)
+- 🌟 👤 [jonpalmisc](https://github.com/jonpalmisc) Starred [duanebester/gooey](https://github.com/duanebester/gooey)
+  > Gooey is a hybrid immediate/retained mode UI framework designed for building fast, GPU-rendered appl...
+
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)
   > 云微WOC，云微信，自由连接
@@ -765,6 +795,10 @@
 - 🌟 👤 [marlkiller](https://github.com/marlkiller) Starred [AnalyseDeCircuit/oxideterm](https://github.com/AnalyseDeCircuit/oxideterm)
   > Local-first SSH workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero tel...
 
+### [mav8557](https://github.com/mav8557)
+- 🍴 👤 [mav8557](https://github.com/mav8557) Forked [ffxiv-teamcraft/ffxiv-teamcraft](https://github.com/ffxiv-teamcraft/ffxiv-teamcraft) to [mav8557/ffxiv-teamcraft](https://github.com/mav8557/ffxiv-teamcraft)
+  > A ffxiv tool to handle collaborative crafts easily
+
 ### [mdcgqq](https://github.com/mdcgqq)
 - 🌟 👤 [mdcgqq](https://github.com/mdcgqq) Starred [Purewhiter/mobilegym](https://github.com/Purewhiter/mobilegym)
   > MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research · 浏览器里...
@@ -803,6 +837,8 @@
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [califio/publications](https://github.com/califio/publications)
   > Publications from Calif
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ryanbr/TwitchAdSolutions](https://github.com/ryanbr/TwitchAdSolutions)
+- 🍴 👤 [mq1n](https://github.com/mq1n) Forked [hi-godot/godot-ai](https://github.com/hi-godot/godot-ai) to [mq1n/godot-ai](https://github.com/mq1n/godot-ai)
+  > Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and f...
 
 ### [mudongliang](https://github.com/mudongliang)
 - 🍴 👤 [mudongliang](https://github.com/mudongliang) Forked [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) to [hust-open-atom-club/openhuman](https://github.com/hust-open-atom-club/openhuman)
@@ -828,6 +864,10 @@
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [capstone-engine/capstone](https://github.com/capstone-engine/capstone)
   > Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, L...
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [truelockmc/streambert](https://github.com/truelockmc/streambert)
+  > A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the Wo...
 
 ### [onhexgroup](https://github.com/onhexgroup)
 - 🌟 👤 [onhexgroup](https://github.com/onhexgroup) Starred [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge)
@@ -879,6 +919,10 @@
 - 🌟 👤 [r0ysue](https://github.com/r0ysue) Starred [manyuegong33/r0rpc](https://github.com/manyuegong33/r0rpc)
   > to android rpc
 
+### [rabbitstack](https://github.com/rabbitstack)
+- 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [timescale/rsigma](https://github.com/timescale/rsigma)
+  > A complete Sigma detection toolkit: parser, linter, evaluator, correlation engine, conversion framew...
+
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [loystonpais/android-on-droidspaces](https://github.com/loystonpais/android-on-droidspaces)
 
@@ -886,7 +930,6 @@
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [vmi-rs/isr](https://github.com/vmi-rs/isr)
   > Intermediate Symbol Representation
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [adam-040/Enigma](https://github.com/adam-040/Enigma)
-  > C++ reimplementation of Ghidra's analytical core (SoftwareModeling + Utility), stripped of Java/JVM ...
 
 ### [redbearder](https://github.com/redbearder)
 - 🌟 👤 [redbearder](https://github.com/redbearder) Starred [kagent-dev/kagent](https://github.com/kagent-dev/kagent)
@@ -1036,6 +1079,10 @@
 - 🌟 👤 [yulate](https://github.com/yulate) Starred [opena2a-org/oasb](https://github.com/opena2a-org/oasb)
   > Open Agent Security Benchmark — 222 attack scenarios, product-agnostic adapter interface, MITRE ATLA...
 
+### [yunsmall](https://github.com/yunsmall)
+- 🍴 👤 [yunsmall](https://github.com/yunsmall) Forked [JingMatrix/Vector](https://github.com/JingMatrix/Vector) to [yunsmall/Vector](https://github.com/yunsmall/Vector)
+  > Modern Xposed Framework
+
 ### [zfl9](https://github.com/zfl9)
 - 🌟 👤 [zfl9](https://github.com/zfl9) Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
   > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -1056,5 +1103,5 @@
 
 
 ---
-*最后更新于 2026-06-03 18:43:19 UTC*
+*最后更新于 2026-06-03 21:48:51 UTC*
 *历史记录保存在 `archive` 目录中。*
