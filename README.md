@@ -48,6 +48,12 @@
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader)
   > Linux payload implementing HV exploits to run a custom bootloader
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [thecodearcher/limen](https://github.com/thecodearcher/limen)
+  > Modern, composable authentication for Go
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kernelstub/Retract](https://github.com/kernelstub/Retract)
+  > Static binary analysis and reverse engineering workbench in browser
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ReverseApple/inject_aarch64](https://github.com/ReverseApple/inject_aarch64)
+  > arm64 and arm64e dylib injector
 
 ### [CreditTone](https://github.com/CreditTone)
 - 🌟 👤 [CreditTone](https://github.com/CreditTone) Starred [wux1an/wxapkg](https://github.com/wux1an/wxapkg)
@@ -69,12 +75,19 @@
 - 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [Westlake-AGI-Lab/AppAgentX](https://github.com/Westlake-AGI-Lab/AppAgentX)
   > Official implementation of AppAgentX: Evolving GUI Agents as Proficient Smartphone Users
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Hydr8gon/3Beans](https://github.com/Hydr8gon/3Beans)
+  > A low-level 3DS emulator
+
 ### [DeLuks2006](https://github.com/DeLuks2006)
 - 🌟 👤 [DeLuks2006](https://github.com/DeLuks2006) Starred [whosstyler/Type2-AMD-HV](https://github.com/whosstyler/Type2-AMD-HV)
+- 🌟 👤 [DeLuks2006](https://github.com/DeLuks2006) Starred [Hime7864/smm-dtc](https://github.com/Hime7864/smm-dtc)
 
 ### [DragonQuestHero](https://github.com/DragonQuestHero)
 - 🌟 👤 [DragonQuestHero](https://github.com/DragonQuestHero) Starred [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
   > MCP Server for Computer Use in Windows
+- 🌟 👤 [DragonQuestHero](https://github.com/DragonQuestHero) Starred [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium)
+  > Build your personal knowledge base with Trilium Notes
 
 ### [Enaium](https://github.com/Enaium)
 - 🌟 👤 [Enaium](https://github.com/Enaium) Starred [bonede/tree-sitter-ng](https://github.com/bonede/tree-sitter-ng)
@@ -107,6 +120,12 @@
   > A Rust decompiler built on top of angr
 - 🌟 👤 [GangJust](https://github.com/GangJust) Starred [Augani/kael](https://github.com/Augani/kael)
   > A high-performance, GPU-accelerated UI framework for building native desktop applications in Rust
+
+### [Grigory-Rylov](https://github.com/Grigory-Rylov)
+- 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [codeyousef/Materia](https://github.com/codeyousef/Materia)
+  > Kotlin Multiplatform 3D graphics library providing Three.js-equivalent capabilities with WebGPU/Vulk...
+- 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [manifold-systems/manifold](https://github.com/manifold-systems/manifold)
+  > Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Meth...
 
 ### [H3d9](https://github.com/H3d9)
 - 🌟 👤 [H3d9](https://github.com/H3d9) Starred [openai/codex](https://github.com/openai/codex)
@@ -230,6 +249,10 @@
 - 🌟 👤 [PenguinAndy](https://github.com/PenguinAndy) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
 
+### [People-11](https://github.com/People-11)
+- 🌟 👤 [People-11](https://github.com/People-11) Starred [lbr77/AssppJailbroken](https://github.com/lbr77/AssppJailbroken)
+  > Modified with ipa download & ipa decrypt workflow!
+
 ### [PranavPurwar](https://github.com/PranavPurwar)
 - 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [Bryte-Edu/server](https://github.com/Bryte-Edu/server)
   > Backend API services and core infrastructure for the Bryte-Edu platform.
@@ -269,6 +292,8 @@
   > A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directl...
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [techjarves/Uncensored-Local-AI-Multiplatform](https://github.com/techjarves/Uncensored-Local-AI-Multiplatform)
   > A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directl...
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [Creeeeger/CVE-2024-56426](https://github.com/Creeeeger/CVE-2024-56426)
+  > A PoC of the CVE-2024-56426 vulnerability.
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
@@ -365,6 +390,10 @@
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy)
   > ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python...
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🍴 👤 [alexander-hanel](https://github.com/alexander-hanel) Forked [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) to [alexander-hanel/ML-For-Beginners](https://github.com/alexander-hanel/ML-For-Beginners)
+  > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
 ### [ant4g0nist](https://github.com/ant4g0nist)
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [google-deepmind/science-skills](https://github.com/google-deepmind/science-skills)
   > GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token e...
@@ -459,6 +488,10 @@
   > 📜Zig Learning Guide & Project Lists
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig)
   > A collaborative list of awesome Zig libraries and resources. 
+
+### [crazy-max](https://github.com/crazy-max)
+- 🌟 👤 [crazy-max](https://github.com/crazy-max) Starred [caddy-dns/route53](https://github.com/caddy-dns/route53)
+  > Caddy module: dns.providers.route53
 
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [DingTalk-Real-AI/dingtalk-workspace-cli](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli)
@@ -627,6 +660,7 @@
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
   > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
+- 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [crixpwn/CVE-2026-8389](https://github.com/crixpwn/CVE-2026-8389)
 
 ### [halfkiss](https://github.com/halfkiss)
 - 🌟 👤 [halfkiss](https://github.com/halfkiss) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -648,6 +682,9 @@
 - 🍴 👤 [hhhaiai](https://github.com/hhhaiai) Forked [jiujiu532/grok2api](https://github.com/jiujiu532/grok2api) to [hhhaiai/gg2](https://github.com/hhhaiai/gg2)
 - 🍴 👤 [hhhaiai](https://github.com/hhhaiai) Forked [Fly143/MiMo2API](https://github.com/Fly143/MiMo2API) to [hhhaiai/m](https://github.com/hhhaiai/m)
   > 将小米 MiMo AI Studio 网页端对话转换为 OpenAI + Anthropic 兼容 API（Chat Completions / Responses / Anthropic Messa...
+
+### [hmtheboy154](https://github.com/hmtheboy154)
+- 🍴 👤 [hmtheboy154](https://github.com/hmtheboy154) Forked [VN-Linux-Family/CaramOS](https://github.com/VN-Linux-Family/CaramOS) to [hmtheboy154/CaramOS](https://github.com/hmtheboy154/CaramOS)
 
 ### [howmp](https://github.com/howmp)
 - 🌟 👤 [howmp](https://github.com/howmp) Starred [VMsec/7scanAI](https://github.com/VMsec/7scanAI)
@@ -673,6 +710,10 @@
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [Hydr8gon/3Beans](https://github.com/Hydr8gon/3Beans)
   > A low-level 3DS emulator
+
+### [iscle](https://github.com/iscle)
+- 🌟 👤 [iscle](https://github.com/iscle) Starred [khiivl/wDSP](https://github.com/khiivl/wDSP)
+  > A FOSS app designed to replace the standard DSP app on K706/QF head units.
 
 ### [j0nk0](https://github.com/j0nk0)
 - 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [LightningMods/Itemzflow](https://github.com/LightningMods/Itemzflow)
@@ -714,6 +755,10 @@
 ### [kentcdodds](https://github.com/kentcdodds)
 - 🌟 👤 [kentcdodds](https://github.com/kentcdodds) Starred [epicweb-dev/ai-powered-apps](https://github.com/epicweb-dev/ai-powered-apps)
   > Workshop for learning how to use TanStack AI to build fully AI enhanced web apps!
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [crowbar-team/vmp-import-resolver](https://github.com/crowbar-team/vmp-import-resolver)
+  > VMProtect 3.5+ dynamic import resolver
 
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
@@ -781,6 +826,10 @@
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [sheeki03/tirith](https://github.com/sheeki03/tirith)
   > Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injec...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [MinishLab/semble](https://github.com/MinishLab/semble)
+  > Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [microsoft/XBOX-Godot-Sample](https://github.com/microsoft/XBOX-Godot-Sample)
+  > An example implementation binding the GDK, PlayFab, and GameInput to Godot
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [yogthos/wavescope-mcp](https://github.com/yogthos/wavescope-mcp)
@@ -808,6 +857,10 @@
   > Welcome to a calmer internet
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative)
   > Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
+
+### [oblique](https://github.com/oblique)
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [josh-project/josh](https://github.com/josh-project/josh)
+  > Git at scale platform
 
 ### [p1g3](https://github.com/p1g3)
 - 🌟 👤 [p1g3](https://github.com/p1g3) Starred [FeeiCN/FEEI.CN](https://github.com/FeeiCN/FEEI.CN)
@@ -847,6 +900,9 @@
 ### [r0ysue](https://github.com/r0ysue)
 - 🌟 👤 [r0ysue](https://github.com/r0ysue) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
   > Skills: Binary deobfuscation of O-LLVM-like protected binaries
+
+### [re-zero001](https://github.com/re-zero001)
+- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [5ec1cff/DisableFlagSecureDetector](https://github.com/5ec1cff/DisableFlagSecureDetector)
 
 ### [redbearder](https://github.com/redbearder)
 - 🌟 👤 [redbearder](https://github.com/redbearder) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
@@ -930,6 +986,10 @@
 ### [wa1ki0g](https://github.com/wa1ki0g)
 - 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)
   > Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, s...
+
+### [wbaby](https://github.com/wbaby)
+- 🍴 👤 [wbaby](https://github.com/wbaby) Forked [crowbar-team/vmp-import-resolver](https://github.com/crowbar-team/vmp-import-resolver) to [wbaby/vmp-import-resolver](https://github.com/wbaby/vmp-import-resolver)
+  > VMProtect 3.5+ dynamic import resolver
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [toon-format/toon](https://github.com/toon-format/toon)
@@ -1026,5 +1086,5 @@
 
 
 ---
-*最后更新于 2026-06-04 18:15:30 UTC*
+*最后更新于 2026-06-04 20:55:30 UTC*
 *历史记录保存在 `archive` 目录中。*
