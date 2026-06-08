@@ -137,6 +137,8 @@
 ### [Howard20181](https://github.com/Howard20181)
 - 🌟 👤 [Howard20181](https://github.com/Howard20181) Starred [ThaUnknown/jassub](https://github.com/ThaUnknown/jassub)
   > Displays subtitles in .ass format via JavaScript. Supports all SSA/ASS features, easily integrates w...
+- 🌟 👤 [Howard20181](https://github.com/Howard20181) Starred [Kindness-Kismet/only_player](https://github.com/Kindness-Kismet/only_player)
+  > 增强的 Android 视频播放器
 
 ### [Hzllaga](https://github.com/Hzllaga)
 - 🌟 👤 [Hzllaga](https://github.com/Hzllaga) Starred [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots)
@@ -169,6 +171,10 @@
   > Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)
   > Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost ...
+- 🌟 👤 [KingJA](https://github.com/KingJA) Starred [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload)
+  > 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+- 🌟 👤 [KingJA](https://github.com/KingJA) Starred [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
+  > MCP for xiaohongshu.com
 
 ### [KpLi0rn](https://github.com/KpLi0rn)
 - 🌟 👤 [KpLi0rn](https://github.com/KpLi0rn) Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
@@ -316,6 +322,10 @@
   > 已停更的用于优化AI的无名杀扩展
 - 🌟 👤 [XMDS](https://github.com/XMDS) Starred [PZ157/noname_daluandou](https://github.com/PZ157/noname_daluandou)
   > 仿三国杀微信小程序大乱斗模式的无名杀扩展
+- 🌟 👤 [XMDS](https://github.com/XMDS) Starred [2dust/v2rayN](https://github.com/2dust/v2rayN)
+  > A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+- 🌟 👤 [XMDS](https://github.com/XMDS) Starred [2dust/v2rayNG](https://github.com/2dust/v2rayNG)
+  > A V2Ray client for Android, support Xray core and v2fly core
 
 ### [XiaoTong6666](https://github.com/XiaoTong6666)
 - 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [qwq233/OhMyKeymint](https://github.com/qwq233/OhMyKeymint)
@@ -329,6 +339,12 @@
   > Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
   > Playwright MCP server
+
+### [abdihaikal](https://github.com/abdihaikal)
+- 🌟 👤 [abdihaikal](https://github.com/abdihaikal) Starred [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record)
+  > Architecture decision record (ADR) examples for software planning, IT leadership, and template docum...
+- 🍴 👤 [abdihaikal](https://github.com/abdihaikal) Forked [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) to [abdihaikal/architecture-decision-record](https://github.com/abdihaikal/architecture-decision-record)
+  > Architecture decision record (ADR) examples for software planning, IT leadership, and template docum...
 
 ### [achuna33](https://github.com/achuna33)
 - 🌟 👤 [achuna33](https://github.com/achuna33) Starred [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
@@ -396,6 +412,14 @@
   > Efficient and versatile WebAssembly interpreter for embedded systems.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [simonw/micropython-wasm](https://github.com/simonw/micropython-wasm)
   > Python library for running a MicroPython sandbox using WebAssembly
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [joshuafuller/qrtak](https://github.com/joshuafuller/qrtak)
+  > Use QRCodes to easily onboard to TAK
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [openbao/openbao](https://github.com/openbao/openbao)
+  > OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, ce...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [smallstep/certificates](https://github.com/smallstep/certificates)
+  > 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate mana...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor)
+  > An app to monitor the (Codex) situation
 
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
@@ -548,6 +572,10 @@
   > Download firmware for Samsung devices
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) to [gmh5225/CodeNomad](https://github.com/gmh5225/CodeNomad)
   > CodeNomad: The command center that puts AI coding on steroids.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Eric-Jalal/shai-hulud-repo-scanner](https://github.com/Eric-Jalal/shai-hulud-repo-scanner) to [gmh5225/shai-hulud-repo-scanner](https://github.com/gmh5225/shai-hulud-repo-scanner)
+  > Hardened scanner that searches all the reported IOC and strange branches on local.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [valutta/MuternVF](https://github.com/valutta/MuternVF) to [gmh5225/MuternVF](https://github.com/gmh5225/MuternVF)
+  > A variable grotesque with weight, width, and optical size axes. 
 
 ### [hahwul](https://github.com/hahwul)
 - 🍴 👤 [hahwul](https://github.com/hahwul) Forked [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) to [hahwul/agent-client-protocol](https://github.com/hahwul/agent-client-protocol)
@@ -587,6 +615,9 @@
   > Comfortably monitor your Internet traffic 🕵️‍♂️
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal)
   > A fork of Windows Terminal with native agent integration, right in your command line.
+
+### [idkhidden](https://github.com/idkhidden)
+- 🌟 👤 [idkhidden](https://github.com/idkhidden) Starred [teflate/bitopt](https://github.com/teflate/bitopt)
 
 ### [ilian](https://github.com/ilian)
 - 🌟 👤 [ilian](https://github.com/ilian) Starred [dandavison/delta](https://github.com/dandavison/delta)
@@ -734,6 +765,10 @@
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [CodingWonders/DISMTools](https://github.com/CodingWonders/DISMTools)
   > The connected place for Windows system administration
 
+### [moyada](https://github.com/moyada)
+- 🌟 👤 [moyada](https://github.com/moyada) Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
+  > Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [azw413/Glass](https://github.com/azw413/Glass)
   > Glass - a fast and free IDA Pro alternative
@@ -769,6 +804,10 @@
 ### [nick-botticelli](https://github.com/nick-botticelli)
 - 🌟 👤 [nick-botticelli](https://github.com/nick-botticelli) Starred [AntonioCiolino/DarkSword-Analysis](https://github.com/AntonioCiolino/DarkSword-Analysis)
   > DarkSword iOS Exploit Chain -- Deep Technical Analysis
+
+### [pbek](https://github.com/pbek)
+- 🌟 👤 [pbek](https://github.com/pbek) Starred [sinelaw/fresh](https://github.com/sinelaw/fresh)
+  > Terminal based IDE & text editor: easy, powerful and fast
 
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [cldellow/sqlite-parquet-vtable](https://github.com/cldellow/sqlite-parquet-vtable)
@@ -878,6 +917,10 @@
 - 🌟 👤 [wangshub](https://github.com/wangshub) Starred [edison7009/EchoBird](https://github.com/edison7009/EchoBird)
   > One-Click Install All
 
+### [wbaby](https://github.com/wbaby)
+- 🍴 👤 [wbaby](https://github.com/wbaby) Forked [binaricat/Netcatty](https://github.com/binaricat/Netcatty) to [wbaby/Netcatty](https://github.com/wbaby/Netcatty)
+  > SSH workspace, SFTP, and terminals in one
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [specis/apple-surface-dial](https://github.com/specis/apple-surface-dial)
   > Make your Microsoft Surface Dial fully functional on macOS radial menu, per-app profiles,   haptic f...
@@ -927,6 +970,10 @@
 ### [yahch](https://github.com/yahch)
 - 🌟 👤 [yahch](https://github.com/yahch) Starred [jubako/jubako](https://github.com/jubako/jubako)
   > The reference implementation of Jubako
+
+### [yanyaoli](https://github.com/yanyaoli)
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [basic-framework/web-backend](https://github.com/basic-framework/web-backend)
+  > `zl-backend 是一套企业级后端基础脚手架，基于 Spring Boot 构建。该项目采用模块化设计，旨在提供一个可扩展、易维护的后端开发基础架构，适用于快速搭建企业级应用系统。 项目提供了完...
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [BlackSnufkin/PT-ToolKit](https://github.com/BlackSnufkin/PT-ToolKit)
@@ -1010,5 +1057,5 @@
 
 
 ---
-*最后更新于 2026-06-08 17:53:07 UTC*
+*最后更新于 2026-06-08 20:16:48 UTC*
 *历史记录保存在 `archive` 目录中。*
