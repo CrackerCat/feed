@@ -34,6 +34,9 @@
 - 🌟 👤 [Admol](https://github.com/Admol) Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
   > Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth enginee...
 
+### [AdvDebug](https://github.com/AdvDebug)
+- 🌟 👤 [AdvDebug](https://github.com/AdvDebug) Starred [XuuXiaolan/CodeRebirth](https://github.com/XuuXiaolan/CodeRebirth)
+
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
   > A vector index built on TurboQuant, written in Rust with Python bindings
@@ -67,6 +70,8 @@
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dobin/detonator](https://github.com/dobin/detonator)
   > Orchestrate detonating your MalDev in VMs with different EDRs to see their detection surface. 
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+  > PX4 Autopilot Software
 
 ### [Cxk4ng](https://github.com/Cxk4ng)
 - 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX)
@@ -154,6 +159,10 @@
 - 🌟 👤 [Jumbo-WJB](https://github.com/Jumbo-WJB) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
   > Python tool for converting files and office documents to Markdown.
 
+### [KickedDroid](https://github.com/KickedDroid)
+- 🌟 👤 [KickedDroid](https://github.com/KickedDroid) Starred [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)
+  > RogePlanet Windows Defender Vulnerability
+
 ### [KingJA](https://github.com/KingJA)
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [869413421/ai-moive-studio](https://github.com/869413421/ai-moive-studio)
   > 自然语言驱动的无限画布工作流 Agent，让 AI 视频创作第一次真正变成可编辑的工作流。   AICON 面向创作者，提供从剧本拆解、分镜生成、素材生成、视频合成到内容分发的一整套能力。   不是只...
@@ -203,6 +212,10 @@
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🍴 👤 [M0Rf30](https://github.com/M0Rf30) Forked [mierak/rmpc](https://github.com/mierak/rmpc) to [M0Rf30/rmpc](https://github.com/M0Rf30/rmpc)
   > A modern, configurable, terminal based MPD Client with album art support via various terminal image ...
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [pnbarbeito/dms-niri-animation-rotate](https://github.com/pnbarbeito/dms-niri-animation-rotate)
+  > Niri window animation rotation control for Dank Material Shell. Switch animations, toggle auto/manua...
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [alexfreud/winamp](https://github.com/alexfreud/winamp)
+  > Iconic media player
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
@@ -238,6 +251,10 @@
   > OpenIDCS Cloudinit for VM OpenIDCS虚拟机自动化组件
 - 🍴 👤 [PIKACHUIM](https://github.com/PIKACHUIM) Forked [ShuYeJang/ToDeskSunDump](https://github.com/ShuYeJang/ToDeskSunDump) to [PIKACHUIM/ToDeskSunDump](https://github.com/PIKACHUIM/ToDeskSunDump)
   > 针对ToDesk和向日葵的远程控制软件的配置信息、敏感信息以及密码的读取获取工具
+
+### [Pilfer](https://github.com/Pilfer)
+- 🌟 👤 [Pilfer](https://github.com/Pilfer) Starred [azw413/Glass](https://github.com/azw413/Glass)
+  > Glass - a fast and free IDA Pro alternative
 
 ### [Reginer](https://github.com/Reginer)
 - 🌟 👤 [Reginer](https://github.com/Reginer) Starred [gegeName/picker](https://github.com/gegeName/picker)
@@ -282,6 +299,10 @@
 - 🌟 👤 [TheKingOfDuck](https://github.com/TheKingOfDuck) Starred [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
   > CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security too...
 
+### [TheNetAdmin](https://github.com/TheNetAdmin)
+- 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [deeplethe/forkd](https://github.com/deeplethe/forkd)
+  > Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~...
+
 ### [Tokeii0](https://github.com/Tokeii0)
 - 🌟 👤 [Tokeii0](https://github.com/Tokeii0) Starred [ForensIntell/ForensiFlow](https://github.com/ForensIntell/ForensiFlow)
 
@@ -292,6 +313,10 @@
 ### [XayahSuSuSu](https://github.com/XayahSuSuSu)
 - 🌟 👤 [XayahSuSuSu](https://github.com/XayahSuSuSu) Starred [Lingyan000/fluxdo](https://github.com/Lingyan000/fluxdo)
   > 一个 Linux.do 第三方客户端
+
+### [XiaoTong6666](https://github.com/XiaoTong6666)
+- 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [darlinghq/darling](https://github.com/darlinghq/darling)
+  > Darwin/macOS emulation layer for Linux
 
 ### [XiaoliChan](https://github.com/XiaoliChan)
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
@@ -309,6 +334,10 @@
 
 ### [ZehMatt](https://github.com/ZehMatt)
 - 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [mixiate/RCTGen2](https://github.com/mixiate/RCTGen2)
+- 🚀 👤 [ZehMatt](https://github.com/ZehMatt) Made [behl-lang/behl-lsp](https://github.com/behl-lang/behl-lsp) public
+  > Language Server Protocol implementation for the Behl scripting language. Provides diagnostics, symbo...
+- 🚀 👤 [ZehMatt](https://github.com/ZehMatt) Made [behl-lang/behl-vscode](https://github.com/behl-lang/behl-vscode) public
+  > Behl language support for Visual Studio Code. Syntax highlighting plus rich editing features (diagno...
 
 ### [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU)
 - 🌟 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Starred [binsync/declib](https://github.com/binsync/declib)
@@ -325,6 +354,10 @@
 ### [adysec](https://github.com/adysec)
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
   > OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind o...
+
+### [allogic](https://github.com/allogic)
+- 🌟 👤 [allogic](https://github.com/allogic) Starred [malbiruk/driftwm](https://github.com/malbiruk/driftwm)
+  > A trackpad-first infinite canvas Wayland compositor.
 
 ### [azw413](https://github.com/azw413)
 - 🍴 👤 [azw413](https://github.com/azw413) Forked [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) to [azw413/mermaid-rs-renderer](https://github.com/azw413/mermaid-rs-renderer)
@@ -472,6 +505,9 @@
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [azw413/Glass](https://github.com/azw413/Glass)
   > Glass - a fast and free IDA Pro alternative
 
+### [evdenis](https://github.com/evdenis)
+- 🚀 👤 [evdenis](https://github.com/evdenis) Made [eventb-rossi/tree-sitter-eventb](https://github.com/eventb-rossi/tree-sitter-eventb) public
+
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [lumixraku/3d-periodic-table](https://github.com/lumixraku/3d-periodic-table)
   > Interactive 3D periodic table built with Vite + Vue 3 + TresJS. Click an element to dive into its at...
@@ -514,9 +550,15 @@
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [t-tani/defender2yara](https://github.com/t-tani/defender2yara)
   > Convert Microsoft Defender Antivirus Signatures (VDM) into YARA rules
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [adewynter/aoe2-circuits](https://github.com/adewynter/aoe2-circuits)
+  > For the paper 'If LLMs Have Human-Like Attributes, Then so Does Age of Empires II'
+
 ### [g0th1c54e4](https://github.com/g0th1c54e4)
 - 🌟 👤 [g0th1c54e4](https://github.com/g0th1c54e4) Starred [xiaoY233/Chat2API](https://github.com/xiaoY233/Chat2API)
   > Chat2API enables zero-cost access to leading AI models by leveraging official web UIs. It supports p...
+- 🌟 👤 [g0th1c54e4](https://github.com/g0th1c54e4) Starred [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)
+  > DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-co...
 
 ### [garatc](https://github.com/garatc)
 - 🌟 👤 [garatc](https://github.com/garatc) Starred [horizon3ai/backup_dc_registry](https://github.com/horizon3ai/backup_dc_registry)
@@ -552,6 +594,8 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [humanity-org/hello-humanity-server](https://github.com/humanity-org/hello-humanity-server) to [gmh5225/hello-humanity-server](https://github.com/gmh5225/hello-humanity-server)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ACINQ/phoenix](https://github.com/ACINQ/phoenix) to [gmh5225/phoenix-btc](https://github.com/gmh5225/phoenix-btc)
   > Phoenix is a self-custodial Bitcoin wallet using Lightning to send/receive payments.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Agent-Field/SWE-AF](https://github.com/Agent-Field/SWE-AF) to [gmh5225/SWE-AF](https://github.com/gmh5225/SWE-AF)
+  > Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, cod...
 
 ### [hanc00l](https://github.com/hanc00l)
 - 🌟 👤 [hanc00l](https://github.com/hanc00l) Starred [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party)
@@ -586,6 +630,8 @@
   > Breakout game made of IDA decompiled code.
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [hyuunnn/TranslatePanel](https://github.com/hyuunnn/TranslatePanel)
   > LLM-powered translation tool
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [Zeta611/simplebnf](https://github.com/Zeta611/simplebnf)
+  > ⌥ Simple Backus–Naur form (BNF) LaTeX package
 
 ### [iAklis](https://github.com/iAklis)
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie)
@@ -636,6 +682,10 @@
 ### [jmpews](https://github.com/jmpews)
 - 🌟 👤 [jmpews](https://github.com/jmpews) Starred [VertexSelection/MeloVertex](https://github.com/VertexSelection/MeloVertex)
   > A fork of MeloNX that fixes keyboard and setup problems in the original repo.
+- 🌟 👤 [jmpews](https://github.com/jmpews) Starred [uphomesco-hub/codex-handoff](https://github.com/uphomesco-hub/codex-handoff)
+  > Private iOS-to-Mac handoff app for running Codex CLI from a phone
+- 🌟 👤 [jmpews](https://github.com/jmpews) Starred [brianharms/tether](https://github.com/brianharms/tether)
+  > iOS terminal app that connects to a Mac over Tailscale, with persistent sessions you can detach and ...
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
@@ -660,6 +710,24 @@
 ### [kernullist](https://github.com/kernullist)
 - 🌟 👤 [kernullist](https://github.com/kernullist) Starred [kernullist/knFileCatcher](https://github.com/kernullist/knFileCatcher)
   > A Windows minifilter-backed file capture tool. Tracks processes that run under user-specified watch ...
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [RESBI/FPGA-Mandelbrot-Demo](https://github.com/RESBI/FPGA-Mandelbrot-Demo)
+  > A Mandelbrot set generator softcore on FPGA.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [frostb1ten/Windows-Terminal-OSC-9-9-NTLM-Auth-Coercion](https://github.com/frostb1ten/Windows-Terminal-OSC-9-9-NTLM-Auth-Coercion)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [bombaris34/il2cpp-pdb](https://github.com/bombaris34/il2cpp-pdb)
+  > Il2CppDumper fork with a native Rust PDB generator for x64 PE (GameAssembly.dll): function names, fu...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [TwoSevenOneT/EDRChoker](https://github.com/TwoSevenOneT/EDRChoker)
+  > A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [frostb1ten/Windows-Terminal-OSC-9-9-NTLM-Auth-Coercion](https://github.com/frostb1ten/Windows-Terminal-OSC-9-9-NTLM-Auth-Coercion) to [killvxk/Windows-Terminal-OSC-9-9-NTLM-Auth-Coercion](https://github.com/killvxk/Windows-Terminal-OSC-9-9-NTLM-Auth-Coercion)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [TwoSevenOneT/EDRChoker](https://github.com/TwoSevenOneT/EDRChoker) to [killvxk/EDRChoker](https://github.com/killvxk/EDRChoker)
+  > A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [sbousseaden/EDRUnChoker](https://github.com/sbousseaden/EDRUnChoker)
+  > EDRUnChoker - fileless WMI defense that removes EDRChoker QoS throttling policies
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [y198nt/Nginx-chain-Rift-Poolslip](https://github.com/y198nt/Nginx-chain-Rift-Poolslip)
+  > Nginx RCE chain PoC with CVE-2026-9256 and CVE-2026-42945
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [y198nt/Nginx-chain-Rift-Poolslip](https://github.com/y198nt/Nginx-chain-Rift-Poolslip) to [killvxk/Nginx-chain-Rift-Poolslip](https://github.com/killvxk/Nginx-chain-Rift-Poolslip)
+  > Nginx RCE chain PoC with CVE-2026-9256 and CVE-2026-42945
 
 ### [le31ei](https://github.com/le31ei)
 - 🌟 👤 [le31ei](https://github.com/le31ei) Starred [zonghaoyuan/infiplot](https://github.com/zonghaoyuan/infiplot)
@@ -720,6 +788,10 @@
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [microsoft/DxCapsViewer](https://github.com/microsoft/DxCapsViewer)
   > DirectX Capabilities Viewer utility (dxcapsviewer.exe)
 
+### [mr-r3b00t](https://github.com/mr-r3b00t)
+- 🌟 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Starred [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)
+  > RogePlanet Windows Defender Vulnerability
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [estkme-group/lpac](https://github.com/estkme-group/lpac)
@@ -746,6 +818,10 @@
 ### [neil-wu](https://github.com/neil-wu)
 - 🌟 👤 [neil-wu](https://github.com/neil-wu) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
   > The headless browser for AI agents and web scraping
+
+### [nick-botticelli](https://github.com/nick-botticelli)
+- 🌟 👤 [nick-botticelli](https://github.com/nick-botticelli) Starred [Somisomair/CVE-2026-20698-PF_ROUTE-Heap-Overflow](https://github.com/Somisomair/CVE-2026-20698-PF_ROUTE-Heap-Overflow)
+  > CVE-2026-20698: XNU kernel heap overflow via PF_ROUTE RTA_GENMASK. PoC and analysis. Independently d...
 
 ### [njcx](https://github.com/njcx)
 - 🌟 👤 [njcx](https://github.com/njcx) Starred [wgpsec/ENScan_GO](https://github.com/wgpsec/ENScan_GO)
@@ -793,7 +869,7 @@
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [ExtremeXT/M62-backport](https://github.com/ExtremeXT/M62-backport)
-- 🍴 👤 [ravindu644](https://github.com/ravindu644) Forked [ExtremeXT/M62-backport](https://github.com/ExtremeXT/M62-backport) to [ravindu644/M62-backport](https://github.com/ravindu644/M62-backport)
+- 🍴 👤 [ravindu644](https://github.com/ravindu644) Forked [ExtremeXT/M62-backport](https://github.com/ExtremeXT/M62-backport) to [ravindu644/extreme_kernel_exynos9820](https://github.com/ravindu644/extreme_kernel_exynos9820)
 
 ### [ret2ldz](https://github.com/ret2ldz)
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [elllusion/pinduoduo_backdoor_code](https://github.com/elllusion/pinduoduo_backdoor_code)
@@ -1039,5 +1115,5 @@
 
 
 ---
-*最后更新于 2026-06-09 18:05:29 UTC*
+*最后更新于 2026-06-09 20:57:26 UTC*
 *历史记录保存在 `archive` 目录中。*
