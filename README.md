@@ -9,6 +9,8 @@
   > Zellic's audits, publications, and reports
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [soteria-tools/soteria](https://github.com/soteria-tools/soteria)
   > Sound static analysis for the masses.
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [rust-stdx/stdx](https://github.com/rust-stdx/stdx)
+  > Rust's extended standard library: simplicity, performance and supply chain security for everyone.
 
 ### [1013503897](https://github.com/1013503897)
 - 🍴 👤 [1013503897](https://github.com/1013503897) Forked [JingMatrix/LSPlant](https://github.com/JingMatrix/LSPlant) to [1013503897/LSPlant](https://github.com/1013503897/LSPlant)
@@ -28,6 +30,10 @@
 
 ### [4ra1n](https://github.com/4ra1n)
 - 🌟 👤 [4ra1n](https://github.com/4ra1n) Starred [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)
+
+### [7etsuo](https://github.com/7etsuo)
+- 🌟 👤 [7etsuo](https://github.com/7etsuo) Starred [xai-org/plugin-marketplace](https://github.com/xai-org/plugin-marketplace)
+  > Official xAI plugin marketplace
 
 ### [AabyssZG](https://github.com/AabyssZG)
 - 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [paysonism/saturn-mapper](https://github.com/paysonism/saturn-mapper)
@@ -103,6 +109,8 @@
 ### [DeLuks2006](https://github.com/DeLuks2006)
 - 🌟 👤 [DeLuks2006](https://github.com/DeLuks2006) Starred [ratspeak/Ratspeak](https://github.com/ratspeak/Ratspeak)
   > Ratspeak - a desktop/mobile client for Reticulum
+- 🌟 👤 [DeLuks2006](https://github.com/DeLuks2006) Starred [attermann/microReticulum](https://github.com/attermann/microReticulum)
+  > C++ port of the Reticulum Network Stack — a cryptographic mesh networking library that runs on both ...
 
 ### [DragonQuestHero](https://github.com/DragonQuestHero)
 - 🌟 👤 [DragonQuestHero](https://github.com/DragonQuestHero) Starred [zadam/trilium-web-clipper](https://github.com/zadam/trilium-web-clipper)
@@ -197,6 +205,8 @@
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [an0nfunc/ALHP](https://github.com/an0nfunc/ALHP)
   > Mirror of https://somegit.dev/ALHP/ALHP.GO
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap)
+  > Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 
 ### [MiroKaku](https://github.com/MiroKaku)
 - 🌟 👤 [MiroKaku](https://github.com/MiroKaku) Starred [qhencoder/SysRestoreDriver](https://github.com/qhencoder/SysRestoreDriver)
@@ -213,6 +223,10 @@
   > Autoform Bot
 - 🌟 👤 [Mukosame](https://github.com/Mukosame) Starred [facebookresearch/atlas-lean](https://github.com/facebookresearch/atlas-lean)
   > ATLAS Autoformalized Textbook Library At Scale
+
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [Livox-SDK/Livox-SDK2](https://github.com/Livox-SDK/Livox-SDK2)
+  > Drivers for receiving LiDAR data and controlling lidar, support Lidar HAP and Mid-360.
 
 ### [NiTianErXing666](https://github.com/NiTianErXing666)
 - 🌟 👤 [NiTianErXing666](https://github.com/NiTianErXing666) Starred [aimardcr/akane-injector](https://github.com/aimardcr/akane-injector)
@@ -290,6 +304,8 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [sungaila/PDFtoImage](https://github.com/sungaila/PDFtoImage)
   > A .NET library to render PDF files into images.
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [gajus/zod-compiler](https://github.com/gajus/zod-compiler)
+  > Compile Zod schemas into zero-overhead validation functions at build time
 
 ### [TestPlanB](https://github.com/TestPlanB)
 - 🍴 👤 [TestPlanB](https://github.com/TestPlanB) Forked [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) to [TestPlanB/awesome-design-md](https://github.com/TestPlanB/awesome-design-md)
@@ -349,6 +365,7 @@
 ### [banteg](https://github.com/banteg)
 - 🚀 👤 [banteg](https://github.com/banteg) Made [banteg/vysort](https://github.com/banteg/vysort) public
   > recover deterministic vyper 0.3.4-0.3.7 source shape to match the deployed bytecode
+- 🌟 👤 [banteg](https://github.com/banteg) Starred [decompme/compilers](https://github.com/decompme/compilers)
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE)
@@ -396,6 +413,10 @@
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🍴 👤 [ctkqiang](https://github.com/ctkqiang) Forked [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) to [ctkqiang/mcp-server](https://github.com/ctkqiang/mcp-server)
   > MCP Server for Burp
+
+### [defparam](https://github.com/defparam)
+- 🌟 👤 [defparam](https://github.com/defparam) Starred [Open-ACP/OpenACP](https://github.com/Open-ACP/OpenACP)
+  > Self-hosted bridge that lets you interact with AI coding agents (Claude Code, Codex, etc.) from mess...
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
@@ -470,6 +491,8 @@
   > Visa Vulnerability Agentic Harness
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [moneroexamples/onion-monero-blockchain-explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer) to [gmh5225/onion-monero-blockchain-explorer](https://github.com/gmh5225/onion-monero-blockchain-explorer)
   > Onion Monero Blockchain Explorer
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Livox-SDK/Livox-SDK2](https://github.com/Livox-SDK/Livox-SDK2) to [gmh5225/Livox-SDK2](https://github.com/gmh5225/Livox-SDK2)
+  > Drivers for receiving LiDAR data and controlling lidar, support Lidar HAP and Mid-360.
 
 ### [h3110w0r1d-y](https://github.com/h3110w0r1d-y)
 - 🌟 👤 [h3110w0r1d-y](https://github.com/h3110w0r1d-y) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
@@ -519,12 +542,18 @@
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)
   > RoguePlanet Windows Defender Vulnerability
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [Cobalt-Strike/beacon-interpreter](https://github.com/Cobalt-Strike/beacon-interpreter)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness)
+  > Visa Vulnerability Agentic Harness
 
 ### [imj01y](https://github.com/imj01y)
 - 🌟 👤 [imj01y](https://github.com/imj01y) Starred [manyuegong33/r0rpc](https://github.com/manyuegong33/r0rpc)
   > to android,ios rpc
 - 🌟 👤 [imj01y](https://github.com/imj01y) Starred [icloudza/r1rpc](https://github.com/icloudza/r1rpc)
   > 真机 RPC 中继：把只能在真机/特定环境跑的函数封装成 HTTP 接口（Go + WebSocket，React 控制台，分组路由、单节点）
+
+### [interference-security](https://github.com/interference-security)
+- 🌟 👤 [interference-security](https://github.com/interference-security) Starred [dockur/macos](https://github.com/dockur/macos)
+  > MacOS inside a Docker container.
 
 ### [jayli](https://github.com/jayli)
 - 🍴 👤 [jayli](https://github.com/jayli) Forked [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) to [jayli/TelegramSwift](https://github.com/jayli/TelegramSwift)
@@ -571,6 +600,10 @@
 ### [lanyi233](https://github.com/lanyi233)
 - 🌟 👤 [lanyi233](https://github.com/lanyi233) Starred [Sliverkiss/mimocode2api](https://github.com/Sliverkiss/mimocode2api)
   > MiMoCode2API 是一个轻量级的 API 网关，将 MiMo 语言模型服务转换为标准的 OpenAI Chat Completions 接口
+
+### [linuxmobile](https://github.com/linuxmobile)
+- 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell)
+  > Like IntelliSense, but for shells
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [different-ai/openwork](https://github.com/different-ai/openwork)
@@ -662,15 +695,25 @@
 - 🌟 👤 [njcx](https://github.com/njcx) Starred [kaitranntt/CLIProxyAPIPlus](https://github.com/kaitranntt/CLIProxyAPIPlus)
   > CCS-maintained fork of CLIProxyAPIPlus (MIT snapshot, Apr 2026) with daily auto-sync from router-for...
 
+### [not1cyyy](https://github.com/not1cyyy)
+- 🌟 👤 [not1cyyy](https://github.com/not1cyyy) Starred [cMiraka/Shadow-Regions-Research](https://github.com/cMiraka/Shadow-Regions-Research)
+  > External Base for researching Shadow Regions in Valorant 
+
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [ebourg/jsign](https://github.com/ebourg/jsign)
   > Java implementation of Microsoft Authenticode for signing Windows executables, installers & scripts
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [newo-ether/Agora](https://github.com/newo-ether/Agora)
   > Android BYOK LLM client with multi-provider access, agentic workflows, and remote device control.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [particle-iot/blueprint-running-faucet-detection](https://github.com/particle-iot/blueprint-running-faucet-detection)
+  > Particle Blueprints - Running Faucet Detection
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mrexodia/dumpulator](https://github.com/mrexodia/dumpulator)
   > An easy-to-use library for emulating memory dumps. Useful for malware analysis (config extraction, u...
+
+### [omeraydindev](https://github.com/omeraydindev)
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew)
+  > A 5-20x faster experimental Homebrew alternative
 
 ### [oureveryday](https://github.com/oureveryday)
 - 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack)
@@ -790,6 +833,8 @@
   > A vector index built on TurboQuant, written in Rust with Python bindings
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [yasminefolo/reverse-engineering-is-over](https://github.com/yasminefolo/reverse-engineering-is-over)
   > LLMs have ended reverse engineering as a high-barrier skill. Case study: reconstructing 6/7 custom H...
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [AMOS144/ZeroToken](https://github.com/AMOS144/ZeroToken)
+  > ZeroToken — Record once, automate forever. A lightweight MCP for agent-driven browser automation, sc...
 
 ### [szcf-weiya](https://github.com/szcf-weiya)
 - 🌟 👤 [szcf-weiya](https://github.com/szcf-weiya) Starred [wangheyu/AI4Math](https://github.com/wangheyu/AI4Math)
@@ -808,6 +853,10 @@
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)
   > RoguePlanet Windows Defender Vulnerability
+
+### [vm32](https://github.com/vm32)
+- 🌟 👤 [vm32](https://github.com/vm32) Starred [klezVirus/inceptor](https://github.com/klezVirus/inceptor)
+  > Template-Driven AV/EDR Evasion Framework
 
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [MrSmith33/vox](https://github.com/MrSmith33/vox)
@@ -856,6 +905,7 @@
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [william4s/ConstraintLLM](https://github.com/william4s/ConstraintLLM)
   > The project page for "ConstraintLLM: A Neuro-Symbolic Framework for Industrial-Level Constraint Prog...
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [moge9800/AuroraVoice-Gateway](https://github.com/moge9800/AuroraVoice-Gateway)
 
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [redteamfortress/PPLShade](https://github.com/redteamfortress/PPLShade)
@@ -939,5 +989,5 @@
 
 
 ---
-*最后更新于 2026-06-11 18:13:09 UTC*
+*最后更新于 2026-06-11 21:20:20 UTC*
 *历史记录保存在 `archive` 目录中。*
