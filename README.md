@@ -11,10 +11,18 @@
 ### [Ahmeth4n](https://github.com/Ahmeth4n)
 - 🌟 👤 [Ahmeth4n](https://github.com/Ahmeth4n) Starred [GenericCoding/pois0nSword](https://github.com/GenericCoding/pois0nSword)
   > A demonstration of read write using cve-2025-43529 on iOS 26.1
+- 🌟 👤 [Ahmeth4n](https://github.com/Ahmeth4n) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
+  > rax is a CPU emulator that does not trust itself.
 
 ### [AlexAltea](https://github.com/AlexAltea)
 - 🌟 👤 [AlexAltea](https://github.com/AlexAltea) Starred [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)
   > macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can...
+
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [AtomFlow-AI/MoleCode](https://github.com/AtomFlow-AI/MoleCode)
+  > Molecode presents molecules as code and enables LLMs to operate and reason on chemistry directly.
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [Zyphra/ZONOS2](https://github.com/Zyphra/ZONOS2)
+  > Zonos2 is a leading open-weight text-to-speech MoE.
 
 ### [Cossack9989](https://github.com/Cossack9989)
 - 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [llm2014/llm_benchmark](https://github.com/llm2014/llm_benchmark)
@@ -35,6 +43,9 @@
 ### [Fansirsqi](https://github.com/Fansirsqi)
 - 🍴 👤 [Fansirsqi](https://github.com/Fansirsqi) Forked [SuperMonster003/AutoJs6-VSCode-Extension](https://github.com/SuperMonster003/AutoJs6-VSCode-Extension) to [Fansirsqi/AutoJs6-VSCode-Extension](https://github.com/Fansirsqi/AutoJs6-VSCode-Extension)
   > Debugger for AutoJs6 on VSCode (VSCode 平台的 AutoJs6 调试器)
+
+### [FeeiCN](https://github.com/FeeiCN)
+- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action)
 
 ### [Gracker](https://github.com/Gracker)
 - 🌟 👤 [Gracker](https://github.com/Gracker) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
@@ -69,10 +80,16 @@
   > An inject tools for injecting js code into electron application
 - 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [farion1231/cc-switch](https://github.com/farion1231/cc-switch) to [LunFengChen/cc-switch](https://github.com/LunFengChen/cc-switch)
   > A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI...
+- 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [moyuwa/ApkCheckPack](https://github.com/moyuwa/ApkCheckPack) to [LunFengChen/ApkCheckPack](https://github.com/LunFengChen/ApkCheckPack)
+  > apk加固特征检查工具，汇总收集已知特征和手动收集大家提交的app加固特征，全网最全开源加固特征，支持40+厂商的加固检测，欢迎大家提交无法识别的app
 
 ### [MartinKayJr](https://github.com/MartinKayJr)
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [MartinKayJr/TechincsPods](https://github.com/MartinKayJr/TechincsPods)
   > Techincs Audio Connect For HyperOS 松下耳机安卓App强兼HyperOS
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
+  > Collection of publicly available IPTV channels from all over the world
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
@@ -87,6 +104,8 @@
   > Run Claude on older iOS versions. A lightweight WKWebView wrapper that patches claude.ai's JavaScrip...
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer)
   > reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid
+- 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [verback2308/YTLite](https://github.com/verback2308/YTLite)
+  > A lightweight, privacy-focused YouTube client for iOS built entirely with UIKit. No ads, no tracking...
 
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [ItsVixano/android_vendor_lineage-priv_keys](https://github.com/ItsVixano/android_vendor_lineage-priv_keys)
@@ -115,6 +134,10 @@
 ### [Steesha](https://github.com/Steesha)
 - 🌟 👤 [Steesha](https://github.com/Steesha) Starred [mandiant/flare-emu](https://github.com/mandiant/flare-emu)
 
+### [StrayMeteor3337](https://github.com/StrayMeteor3337)
+- 🌟 👤 [StrayMeteor3337](https://github.com/StrayMeteor3337) Starred [SetsunaYukiOvO/x64dbg-mcp](https://github.com/SetsunaYukiOvO/x64dbg-mcp)
+  > MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging vi...
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [databasus/databasus](https://github.com/databasus/databasus)
   > PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
@@ -139,6 +162,10 @@
 - 🌟 👤 [aaa1115910](https://github.com/aaa1115910) Starred [pandulapeter/kubriko](https://github.com/pandulapeter/kubriko)
   > A game engine based on Compose Multiplatform for 2D Android, iOS, Desktop, and Web projects.
 
+### [apkunpacker](https://github.com/apkunpacker)
+- 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
+  > rax is a CPU emulator that does not trust itself.
+
 ### [atlas4381](https://github.com/atlas4381)
 - 🌟 👤 [atlas4381](https://github.com/atlas4381) Starred [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw)
   > GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better c...
@@ -155,9 +182,22 @@
 - 🌟 👤 [billziss-gh](https://github.com/billziss-gh) Starred [KeibiSoft/KeibiDrop](https://github.com/KeibiSoft/KeibiDrop)
   > Share files between devices on demand. They show up as a folder on your computer, available instantl...
 
+### [can1357](https://github.com/can1357)
+- 🍴 👤 [can1357](https://github.com/can1357) Forked [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) to [can1357/cmux](https://github.com/can1357/cmux)
+  > Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+
+### [carlonluca](https://github.com/carlonluca)
+- 🌟 👤 [carlonluca](https://github.com/carlonluca) Starred [home-assistant/core](https://github.com/home-assistant/core)
+  > :house_with_garden: Open source home automation that puts local control and privacy first.
+
 ### [dartcv](https://github.com/dartcv)
 - 🌟 👤 [dartcv](https://github.com/dartcv) Starred [YunJavaPro/Silk-Codec-Android](https://github.com/YunJavaPro/Silk-Codec-Android)
   > Android 平台 Silk 音频编解码工具
+
+### [dzxpert](https://github.com/dzxpert)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [S3cur3Th1sSh1t/NimSyscallPacker](https://github.com/S3cur3Th1sSh1t/NimSyscallPacker)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [soamane/warface-dma](https://github.com/soamane/warface-dma)
+  > A DMA-based external cheat framework written in C++20. PCILeech/MemProcFS for memory access, KmBox (...
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [chickendrop89/hyperos-accessibility-fix](https://github.com/chickendrop89/hyperos-accessibility-fix)
@@ -211,6 +251,10 @@
 - 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [Wenyueh/MinivLLM](https://github.com/Wenyueh/MinivLLM)
   > Based on Nano-vLLM, a simple replication of vLLM with self-contained paged attention and flash atten...
 
+### [huoji120](https://github.com/huoji120)
+- 🌟 👤 [huoji120](https://github.com/huoji120) Starred [areal-project/AReaL](https://github.com/areal-project/AReaL)
+  > The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.
+
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
   > rax is a CPU emulator that does not trust itself.
@@ -239,6 +283,17 @@
   > 🤗 smolagents: a barebones library for agents that think in code.
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [aimhubio/aim](https://github.com/aimhubio/aim)
   > Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)
+  > macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [skops-dev/skops](https://github.com/skops-dev/skops)
+  > skops is a Python library helping you share your scikit-learn based models and put them in productio...
+
+### [ilian](https://github.com/ilian)
+- 🌟 👤 [ilian](https://github.com/ilian) Starred [meddouribadis/arclauncher](https://github.com/meddouribadis/arclauncher)
+  > A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendl...
+
+### [iyxan23](https://github.com/iyxan23)
+- 🌟 👤 [iyxan23](https://github.com/iyxan23) Starred [nothingstopsme/AX88179_178A_Linux_Driver](https://github.com/nothingstopsme/AX88179_178A_Linux_Driver)
 
 ### [jaywcjlove](https://github.com/jaywcjlove)
 - 🌟 👤 [jaywcjlove](https://github.com/jaywcjlove) Starred [jaywcjlove/archive-test-files](https://github.com/jaywcjlove/archive-test-files)
@@ -342,12 +397,6 @@
 - 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
   > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [retooling-io/workshop-nohat25](https://github.com/retooling-io/workshop-nohat25)
-  > Ghost in the Machine: Live Fire Threat Actor Dissection
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CynicRus/DWARFHelper](https://github.com/CynicRus/DWARFHelper)
-  > DWARFHelper is a plugin for x64dbg, designed to load DWARF debug symbols from executable files (e.g....
-
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [ravindu644/VirtualAP](https://github.com/ravindu644/VirtualAP)
   > Turn your rooted Android phone into a real router - hostapd-powered hotspot with VPN tunneling, Wi-F...
@@ -377,9 +426,30 @@
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [keepmind9/clibot](https://github.com/keepmind9/clibot)
   > ACP-compatible AI CLI bridge to IM platforms. Connect Claude Code, Codex, Gemini,   OpenCode, and ot...
 
+### [rmuxnet](https://github.com/rmuxnet)
+- 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [ps5-linux/ps5-linux-mwifiex](https://github.com/ps5-linux/ps5-linux-mwifiex) to [rmuxnet/ps5-linux-mwifiex](https://github.com/rmuxnet/ps5-linux-mwifiex)
+  > Linux mwifiex driver for PS5
+- 🚀 👤 [rmuxnet](https://github.com/rmuxnet) Made [rmuxnet/speedtest-ps5](https://github.com/rmuxnet/speedtest-ps5) public
+
 ### [rogxo](https://github.com/rogxo)
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [suleram/View8](https://github.com/suleram/View8)
   > View8 - Decompiles serialized V8 objects back into high-level readable code.
+
+### [smallevilbeast](https://github.com/smallevilbeast)
+- 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [holzschu/a-shell](https://github.com/holzschu/a-shell)
+  > A terminal for iOS, with multiple windows
+- 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [blinksh/blink](https://github.com/blinksh/blink)
+  > Blink Mobile Shell for iOS (Mosh based)
+- 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [holzschu/ios_system](https://github.com/holzschu/ios_system)
+  > Drop-in replacement for system() in iOS programs
+- 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [holzschu/python_ios](https://github.com/holzschu/python_ios)
+  > Python-2.7.13, ported to iOS, with partial fork/exec
+- 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [holzschu/lua_ios](https://github.com/holzschu/lua_ios)
+  > Lua language, patched so it can be called from iOS apps
+
+### [startergo](https://github.com/startergo)
+- 🍴 👤 [startergo](https://github.com/startergo) Forked [magist3r/QtWeb](https://github.com/magist3r/QtWeb) to [startergo/QtWeb](https://github.com/startergo/QtWeb)
+  > QtWeb Internet Browser
 
 ### [stuxnet147](https://github.com/stuxnet147)
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [wesmar/KernelResearchKit](https://github.com/wesmar/KernelResearchKit)
@@ -394,6 +464,10 @@
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [PentHertz/grimoire](https://github.com/PentHertz/grimoire)
   > Offensive knowledge, offline. One search box for every playbook.
+
+### [topcoco](https://github.com/topcoco)
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [dagger/container-use](https://github.com/dagger/container-use)
+  > Development environments for coding agents. Enable multiple agents to work safely and independently ...
 
 ### [totravel](https://github.com/totravel)
 - 🌟 👤 [totravel](https://github.com/totravel) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
@@ -431,11 +505,15 @@
 - 🌟 👤 [yifengyou](https://github.com/yifengyou) Starred [ColdWindScholar/MIO-KITCHEN-SOURCE](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE)
   > An Android Rom Tool in python
 
+### [yohanes](https://github.com/yohanes)
+- 🌟 👤 [yohanes](https://github.com/yohanes) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
+  > Software simulation for Android hardware-backed key pairs with key attestation
+
 ### [zhongyang219](https://github.com/zhongyang219)
 - 🌟 👤 [zhongyang219](https://github.com/zhongyang219) Starred [Fzhiyu1/improv-os](https://github.com/Fzhiyu1/improv-os)
   > 现编OS — 一台不预装任何软件的电脑，每个应用都是 AI 当场现编的 macOS 风格网页OS · An OS where every app is improvised by AI, live
 
 
 ---
-*最后更新于 2026-06-13 12:25:03 UTC*
+*最后更新于 2026-06-13 15:00:00 UTC*
 *历史记录保存在 `archive` 目录中。*
