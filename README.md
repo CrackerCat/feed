@@ -10,7 +10,7 @@
 
 ### [20000s](https://github.com/20000s)
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-  > Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro...
+  > Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor...
 
 ### [Abbbbbi](https://github.com/Abbbbbi)
 - 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)
@@ -120,6 +120,10 @@
 - 🌟 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Starred [skylot/jadx](https://github.com/skylot/jadx)
   > Dex to Java decompiler
 
+### [Idov31](https://github.com/Idov31)
+- 🌟 👤 [Idov31](https://github.com/Idov31) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
+  > Make You Happy!
+
 ### [Jefino9488](https://github.com/Jefino9488)
 - 🌟 👤 [Jefino9488](https://github.com/Jefino9488) Starred [Jefino9488/SkiaShift](https://github.com/Jefino9488/SkiaShift)
   > An advanced, root-level Android LSPosed module that provides granular, per-app control over the hard...
@@ -148,6 +152,10 @@
 - 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [jakeajames/dylibify](https://github.com/jakeajames/dylibify)
   > Transform any ARM macho executable to a dynamic library
 
+### [LasCC](https://github.com/LasCC)
+- 🌟 👤 [LasCC](https://github.com/LasCC) Starred [portbuster1337/ArachneC2](https://github.com/portbuster1337/ArachneC2)
+  > Decentralized C2 framework built on libp2p
+
 ### [Ls4ss](https://github.com/Ls4ss)
 - 🌟 👤 [Ls4ss](https://github.com/Ls4ss) Starred [portbuster1337/ArachneC2](https://github.com/portbuster1337/ArachneC2)
   > Decentralized C2 framework built on libp2p
@@ -163,10 +171,12 @@
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [agavra/tuicr](https://github.com/agavra/tuicr)
   > a code review TUI with vim keybindings
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
+  > A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 
 ### [Manistein](https://github.com/Manistein)
 - 🌟 👤 [Manistein](https://github.com/Manistein) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-  > Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro...
+  > Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor...
 
 ### [MartinKayJr](https://github.com/MartinKayJr)
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground)
@@ -347,6 +357,8 @@
   > Pixelify GPhotos
 - 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [kinginu/PixelMask](https://github.com/kinginu/PixelMask)
   > LSPosed / Vector module that spoofs a Pixel device profile inside Google Photos to unlock Pixel-only...
+- 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [backslashxx/mountify](https://github.com/backslashxx/mountify)
+  > Globally mounted modules via OverlayFS.
 
 ### [XiaoliChan](https://github.com/XiaoliChan)
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [synacktiv/DCOMIllusionist](https://github.com/synacktiv/DCOMIllusionist)
@@ -452,6 +464,9 @@
 - 🌟 👤 [dumblob](https://github.com/dumblob) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [eddyflux/crate](https://github.com/eddyflux/crate)
+
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [namazso/linux_injector](https://github.com/namazso/linux_injector)
   > A simple ptrace-less shared library injector for x64 Linux
@@ -551,6 +566,10 @@
 - 🌟 👤 [hanc00l](https://github.com/hanc00l) Starred [ckxckx/pwn_step_in](https://github.com/ckxckx/pwn_step_in)
   > PWN初学者好题精炼
 
+### [hasherezade](https://github.com/hasherezade)
+- 🍴 👤 [hasherezade](https://github.com/hasherezade) Forked [suleram/View8](https://github.com/suleram/View8) to [hasherezade/View8](https://github.com/hasherezade/View8)
+  > View8 - Decompiles serialized V8 objects back into high-level readable code.
+
 ### [heyhu](https://github.com/heyhu)
 - 🌟 👤 [heyhu](https://github.com/heyhu) Starred [NoOne-hub/JSReverser-MCP](https://github.com/NoOne-hub/JSReverser-MCP)
   > JSReverser-MCP 是一个面向 JavaScript 逆向分析的 MCP 工具，专门用于帮助开发者在真实浏览器环境中高效定位前端核心逻辑。它   将脚本检索、断点调试、函数 Hook、网络请...
@@ -605,10 +624,17 @@
   > collection of V8 design documents
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [In3tinct/Androidmeda](https://github.com/In3tinct/Androidmeda)
   > AI Security tool to deobfuscate and find any potential vulnerabilities in android apps.
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [threathunters-io/tracebit_x33fcon_2026](https://github.com/threathunters-io/tracebit_x33fcon_2026)
+  > This repository contains the research tool presented at x33fcon 2026, along with the associated pres...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [QM4RS/CVE-2026-0023-Update-Ownership-PoC](https://github.com/QM4RS/CVE-2026-0023-Update-Ownership-PoC)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems)
+  > A curated list to learn about distributed systems
 
 ### [ilian](https://github.com/ilian)
 - 🌟 👤 [ilian](https://github.com/ilian) Starred [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
   > Browse media content with your own rules on Android TV
+- 🌟 👤 [ilian](https://github.com/ilian) Starred [bitxeno/atvloadly](https://github.com/bitxeno/atvloadly)
+  > Easily sideload the IPA to AppleTV
 
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)
@@ -744,6 +770,10 @@
 - 🌟 👤 [minibear2333](https://github.com/minibear2333) Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
   > GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph...
 
+### [mistrmochov](https://github.com/mistrmochov)
+- 🍴 👤 [mistrmochov](https://github.com/mistrmochov) Forked [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) to [mistrmochov/KernelSU-Next](https://github.com/mistrmochov/KernelSU-Next)
+  > An advanced Kernel based root solution for Android
+
 ### [moonD4rk](https://github.com/moonD4rk)
 - 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [Lakr233/CoreExtendedNFC](https://github.com/Lakr233/CoreExtendedNFC)
   > Swift Package porting libnfc protocol-layer logic to iOS via CoreNFC
@@ -795,6 +825,10 @@
 - 🍴 👤 [nfh994](https://github.com/nfh994) Forked [AvaloniaUI/avalonia-docs](https://github.com/AvaloniaUI/avalonia-docs) to [nfh994/avalonia-docs](https://github.com/nfh994/avalonia-docs)
 - 🌟 👤 [nfh994](https://github.com/nfh994) Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)
   > Easy to maintain open source documentation websites.
+
+### [nick-botticelli](https://github.com/nick-botticelli)
+- 🌟 👤 [nick-botticelli](https://github.com/nick-botticelli) Starred [threathunters-io/tracebit_x33fcon_2026](https://github.com/threathunters-io/tracebit_x33fcon_2026)
+  > This repository contains the research tool presented at x33fcon 2026, along with the associated pres...
 
 ### [nil0x42](https://github.com/nil0x42)
 - 🌟 👤 [nil0x42](https://github.com/nil0x42) Starred [aliasrobotics/cai](https://github.com/aliasrobotics/cai)
@@ -863,6 +897,8 @@
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [muse-sequencer/muse](https://github.com/muse-sequencer/muse)
   > MusE is a digital audio workstation with support for both Audio and MIDI
+- 🌟 👤 [rdbo](https://github.com/rdbo) Starred [tedfelix/rosegarden-official](https://github.com/tedfelix/rosegarden-official)
+  > MIDI Sequencer for Linux
 
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [dotnet/java-interop](https://github.com/dotnet/java-interop)
@@ -891,6 +927,8 @@
 ### [rogxo](https://github.com/rogxo)
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [0xflux/Hells-Hollow](https://github.com/0xflux/Hells-Hollow)
   > Hells Hollow Windows 11 Rootkit technique to Hook the SSDT via Alt Syscalls
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [zainmustafam977/vbs-disabler-windows11](https://github.com/zainmustafam977/vbs-disabler-windows11)
+  > Disable VBS, HVCI & Device Guard on Windows 11 24H2/25H2 — Fix VMware Workstation "Virtualized Intel...
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/libdisplay](https://github.com/superturtlee/libdisplay)
@@ -1064,5 +1102,5 @@
 
 
 ---
-*最后更新于 2026-06-12 19:04:33 UTC*
+*最后更新于 2026-06-12 21:44:13 UTC*
 *历史记录保存在 `archive` 目录中。*
