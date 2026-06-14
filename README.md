@@ -71,6 +71,10 @@
 - 🌟 👤 [Gracker](https://github.com/Gracker) Starred [Nanako0129/coralline](https://github.com/Nanako0129/coralline)
   > 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, t...
 
+### [Grigory-Rylov](https://github.com/Grigory-Rylov)
+- 🍴 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Forked [anomalyco/opencode](https://github.com/anomalyco/opencode) to [Grigory-Rylov/opencode](https://github.com/Grigory-Rylov/opencode)
+  > The open source coding agent.
+
 ### [Hackerl](https://github.com/Hackerl)
 - 🌟 👤 [Hackerl](https://github.com/Hackerl) Starred [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
   > .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
@@ -142,6 +146,8 @@
 ### [Prslc](https://github.com/Prslc)
 - 🌟 👤 [Prslc](https://github.com/Prslc) Starred [Nightbringer21/fridump](https://github.com/Nightbringer21/fridump)
   > A universal memory dumper using Frida
+- 🌟 👤 [Prslc](https://github.com/Prslc) Starred [hugsy/gef](https://github.com/hugsy/gef)
+  > GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for e...
 
 ### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
 - 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [S1lkys/AudioDG.exe-DLL-Hijacking-for-LPE](https://github.com/S1lkys/AudioDG.exe-DLL-Hijacking-for-LPE)
@@ -258,6 +264,10 @@
 - 🌟 👤 [buzzer-re](https://github.com/buzzer-re) Starred [alibaba/zvec](https://github.com/alibaba/zvec)
   > A lightweight, lightning-fast, in-process vector database
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [alebal123bal/khadas_yolov8n_multithread](https://github.com/alebal123bal/khadas_yolov8n_multithread)
+  > Real-time YOLOv8n UAV detection at the sensor's 46 FPS ceiling, in ~140 MB of RAM
+
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub)
   > RikkaHub is an Android APP that supports for multiple LLM providers.
@@ -267,6 +277,9 @@
 ### [chago](https://github.com/chago)
 - 🍴 👤 [chago](https://github.com/chago) Forked [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) to [chago/CL4R1T4S](https://github.com/chago/CL4R1T4S)
   > LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MO...
+
+### [cozis](https://github.com/cozis)
+- 🌟 👤 [cozis](https://github.com/cozis) Starred [GiuseppeCesarano/extractingcycles](https://github.com/GiuseppeCesarano/extractingcycles)
 
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [ctkqiang/AuthGate](https://github.com/ctkqiang/AuthGate)
@@ -293,6 +306,10 @@
 ### [enenH](https://github.com/enenH)
 - 🌟 👤 [enenH](https://github.com/enenH) Starred [joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill)
   > Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constrain...
+
+### [erfur](https://github.com/erfur)
+- 🍴 👤 [erfur](https://github.com/erfur) Forked [MichaelWeissDEV/ts-chef](https://github.com/MichaelWeissDEV/ts-chef) to [erfur/ts-chef](https://github.com/erfur/ts-chef)
+  > Cyberchef in VS-Code
 
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [Lakr233/Asspp](https://github.com/Lakr233/Asspp)
@@ -349,12 +366,20 @@
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [kernelstub/Cognitor](https://github.com/kernelstub/Cognitor)
   > Defensive patch Tuesday semantic diff cli for Windows build snapshots
 
+### [hasherezade](https://github.com/hasherezade)
+- 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [hasherezade/View8](https://github.com/hasherezade/View8)
+  > View8 - Decompiles serialized V8 objects back into high-level readable code.
+
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🍴 👤 [hhhaiai](https://github.com/hhhaiai) Forked [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) to [hhhaiai/chatgpt2api](https://github.com/hhhaiai/chatgpt2api)
   > ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支...
 
 ### [hmtheboy154](https://github.com/hmtheboy154)
 - 🍴 👤 [hmtheboy154](https://github.com/hmtheboy154) Forked [WayDroid-ATV/android_external_rust_hbm](https://github.com/WayDroid-ATV/android_external_rust_hbm) to [android-generic/android_external_rust_hbm](https://github.com/android-generic/android_external_rust_hbm)
+
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [noahware/hyper-reV](https://github.com/noahware/hyper-reV)
+  > memory introspection and reverse engineering hypervisor powered by leveraging Hyper-V
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
@@ -376,6 +401,10 @@
   > AI coding agent skills for building, shipping, and maintaining native macOS apps
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [getkimchi/kimchi](https://github.com/getkimchi/kimchi)
   > Terminal coding agent powered by Kimchi's multi-model orchestration 
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
+  > A JavaScript implementation of a web browser without its graphical user interface
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [jsdom/jsdom](https://github.com/jsdom/jsdom)
+  > A JavaScript implementation of various web standards, for use with Node.js
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [DiligentGraphics/DiligentFX](https://github.com/DiligentGraphics/DiligentFX) to [hzqst/DiligentFX](https://github.com/hzqst/DiligentFX)
@@ -511,6 +540,10 @@
 - 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [nvllz/stepsy](https://github.com/nvllz/stepsy)
   > Simple and lightweight step counter app for Android
 
+### [pbek](https://github.com/pbek)
+- 🌟 👤 [pbek](https://github.com/pbek) Starred [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE)
+  > Reverse engineering tool for linux games
+
 ### [quangnh89](https://github.com/quangnh89)
 - 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
   > Collection of publicly available IPTV channels from all over the world
@@ -609,6 +642,12 @@
 - 🌟 👤 [totravel](https://github.com/totravel) Starred [nndl/llm-beginner](https://github.com/nndl/llm-beginner)
   > LLM、Agent上手教程
 
+### [troldal](https://github.com/troldal)
+- 🌟 👤 [troldal](https://github.com/troldal) Starred [andreasbuhr/cppcoro](https://github.com/andreasbuhr/cppcoro)
+  > A library of C++ coroutine abstractions for the coroutines TS
+- 🌟 👤 [troldal](https://github.com/troldal) Starred [jbaldwin/libcoro](https://github.com/jbaldwin/libcoro)
+  > C++20 coroutine library
+
 ### [veaba](https://github.com/veaba)
 - 🍴 👤 [veaba](https://github.com/veaba) Forked [vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn) to [tedocs/docs-zh-cn](https://github.com/tedocs/docs-zh-cn)
   > Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs
@@ -681,5 +720,5 @@
 
 
 ---
-*最后更新于 2026-06-14 18:12:34 UTC*
+*最后更新于 2026-06-14 20:17:36 UTC*
 *历史记录保存在 `archive` 目录中。*
