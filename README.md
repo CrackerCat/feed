@@ -22,16 +22,24 @@
   > Standalone implementation of Zygisk
 - 🌟 👤 [Andrea-lyz](https://github.com/Andrea-lyz) Starred [xihan123/SignHook](https://github.com/xihan123/SignHook)
   > 这是一个简单的签名校验通杀模块
+- 🌟 👤 [Andrea-lyz](https://github.com/Andrea-lyz) Starred [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift)
+  > 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / ...
 
 ### [Barre](https://github.com/Barre)
 - 🍴 👤 [Barre](https://github.com/Barre) Forked [NordSecurity/uniffi-bindgen-go](https://github.com/NordSecurity/uniffi-bindgen-go) to [Barre/uniffi-bindgen-go](https://github.com/Barre/uniffi-bindgen-go)
   > Uniffi bindings generator for Golang
+
+### [CC11001100](https://github.com/CC11001100)
+- 🍴 👤 [CC11001100](https://github.com/CC11001100) Forked [frida/frida](https://github.com/frida/frida) to [android-security-engineer/frida](https://github.com/android-security-engineer/frida)
+  > Clone this repo to build Frida
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🍴 👤 [Cracked5pider](https://github.com/Cracked5pider) Forked [cmprmsd/BusyBOF](https://github.com/cmprmsd/BusyBOF) to [InfinityCurveLabs/BusyBOF](https://github.com/InfinityCurveLabs/BusyBOF)
   > Busybox-style Beacon Object Files for *nix post-exploitation. Reimplements common Unix utilities as ...
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [InfinityCurveLabs/BusyBOF](https://github.com/InfinityCurveLabs/BusyBOF)
   > Busybox-style Beacon Object Files for *nix post-exploitation. Reimplements common Unix utilities as ...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [eversinc33/binaryshield-devirtualizer](https://github.com/eversinc33/binaryshield-devirtualizer)
+  > LLVM based devirtualizer for the binaryshield software protector.
 
 ### [DarkFunct](https://github.com/DarkFunct)
 - 🌟 👤 [DarkFunct](https://github.com/DarkFunct) Starred [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
@@ -131,6 +139,10 @@
 - 🍴 👤 [PranavPurwar](https://github.com/PranavPurwar) Forked [termux-pacman/glibc-packages](https://github.com/termux-pacman/glibc-packages) to [PranavPurwar/glibc-package](https://github.com/PranavPurwar/glibc-package)
   > Glibc packages for termux
 
+### [Prslc](https://github.com/Prslc)
+- 🌟 👤 [Prslc](https://github.com/Prslc) Starred [Nightbringer21/fridump](https://github.com/Nightbringer21/fridump)
+  > A universal memory dumper using Frida
+
 ### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
 - 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [S1lkys/AudioDG.exe-DLL-Hijacking-for-LPE](https://github.com/S1lkys/AudioDG.exe-DLL-Hijacking-for-LPE)
   > Audiodg.exe DLL hijacking for LPE with reboot-free restart primitive. Executes code as LOCAL SERVICE...
@@ -147,6 +159,22 @@
 
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [ispointer/RePairip](https://github.com/ispointer/RePairip)
+- 🍴 👤 [SodaMilk233](https://github.com/SodaMilk233) Forked [HanSoBored/Android-Mem-Kit](https://github.com/HanSoBored/Android-Mem-Kit) to [SodaMilk233/Android-Mem-Kit](https://github.com/SodaMilk233/Android-Mem-Kit)
+  > A comprehensive llibrary for Android memory instrumentation.
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [2468785842/krkr2](https://github.com/2468785842/krkr2)
+  > krkr game Emulator
+- 🍴 👤 [SodaMilk233](https://github.com/SodaMilk233) Forked [LSPosed/LSPlant](https://github.com/LSPosed/LSPlant) to [SodaMilk233/LSPlant](https://github.com/SodaMilk233/LSPlant)
+  > A hook framework for Android Runtime (ART)
+- 🍴 👤 [SodaMilk233](https://github.com/SodaMilk233) Forked [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) to [SodaMilk233/AndroidHiddenApiBypass](https://github.com/SodaMilk233/AndroidHiddenApiBypass)
+  > LSPass: Bypass restrictions on non-SDK interfaces
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [XiaoTong6666/FuseHide](https://github.com/XiaoTong6666/FuseHide)
+  >   FuseHide 是一个面向 Android 12+ 的 Xposed 模块，用于对 MediaProvider/FUSE 的调试工具
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [om-ashish-soni/mo-jit](https://github.com/om-ashish-soni/mo-jit)
+  > User-space ARM64 container runtime for unrooted Android. True isolation + native speed via in-proces...
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [WangONC/syscallTracer](https://github.com/WangONC/syscallTracer)
+  > To trace system calls on an ARM64-bit Android device.
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [NikkaGames/ELFLoaderARM](https://github.com/NikkaGames/ELFLoaderARM)
+  > Load ARM64 ELF directly from memory.
 
 ### [TUGOhost](https://github.com/TUGOhost)
 - 🌟 👤 [TUGOhost](https://github.com/TUGOhost) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
@@ -184,6 +212,12 @@
 - 🌟 👤 [andy0andy](https://github.com/andy0andy) Starred [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
   > 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
 
+### [ant4g0nist](https://github.com/ant4g0nist)
+- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)
+  > Open-source, community-driven agent harness
+- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+  > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
+
 ### [aooiuu](https://github.com/aooiuu)
 - 🌟 👤 [aooiuu](https://github.com/aooiuu) Starred [jaredwray/cacheable](https://github.com/jaredwray/cacheable)
   > a robust, scalable, and maintained set of caching packages
@@ -207,6 +241,10 @@
 ### [backslashxx](https://github.com/backslashxx)
 - 🍴 👤 [backslashxx](https://github.com/backslashxx) Forked [coreboot/coreboot](https://github.com/coreboot/coreboot) to [backslashxx/coreboot](https://github.com/backslashxx/coreboot)
   > Read-only mirror of https://review.coreboot.org/coreboot.git. Synced every hour. We don't handle Pul...
+
+### [baotiao](https://github.com/baotiao)
+- 🌟 👤 [baotiao](https://github.com/baotiao) Starred [LMCache/LMCache](https://github.com/LMCache/LMCache)
+  > LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap)
@@ -300,6 +338,8 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [j1ans/r0csgo_piece_of_shit](https://github.com/j1ans/r0csgo_piece_of_shit) to [gmh5225/r0csgo_piece_of_shit](https://github.com/gmh5225/r0csgo_piece_of_shit)
   > R0对战平台r0_guard 神权反作弊 + frpc 内网穿透 报告
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [JoasASantos/Touchstone-mcp](https://github.com/JoasASantos/Touchstone-mcp) to [gmh5225/Touchstone-mcp](https://github.com/gmh5225/Touchstone-mcp)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [fguzman82/gateGPT](https://github.com/fguzman82/gateGPT) to [gmh5225/gateGPT](https://github.com/gmh5225/gateGPT)
+  > Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k to...
 
 ### [guiying712](https://github.com/guiying712)
 - 🌟 👤 [guiying712](https://github.com/guiying712) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
@@ -327,6 +367,15 @@
   > Advanced vm/sandbox for Node.js
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm)
+  > Secure & isolated JS environments for nodejs
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [tclahr/uac](https://github.com/tclahr/uac)
+  > UAC is a powerful and extensible incident response tool designed for forensic investigators, securit...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [rescenedev/lumen](https://github.com/rescenedev/lumen)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [fayazara/macos-app-skills](https://github.com/fayazara/macos-app-skills)
+  > AI coding agent skills for building, shipping, and maintaining native macOS apps
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [getkimchi/kimchi](https://github.com/getkimchi/kimchi)
+  > Terminal coding agent powered by Kimchi's multi-model orchestration 
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [DiligentGraphics/DiligentFX](https://github.com/DiligentGraphics/DiligentFX) to [hzqst/DiligentFX](https://github.com/hzqst/DiligentFX)
@@ -348,6 +397,10 @@
   > R0对战平台r0_guard 神权反作弊 + frpc 内网穿透 报告
 - 🍴 👤 [jiushill](https://github.com/jiushill) Forked [j1ans/r0csgo_piece_of_shit](https://github.com/j1ans/r0csgo_piece_of_shit) to [jiushill/r0csgo_piece_of_shit](https://github.com/jiushill/r0csgo_piece_of_shit)
   > R0对战平台r0_guard 神权反作弊 + frpc 内网穿透 报告
+
+### [john-peterson](https://github.com/john-peterson)
+- 🍴 👤 [john-peterson](https://github.com/john-peterson) Forked [termux/TermuxAm](https://github.com/termux/TermuxAm) to [john-peterson/TermuxAm](https://github.com/john-peterson/TermuxAm)
+  > Android Oreo-compatible am command reimplementation.
 
 ### [jpillora](https://github.com/jpillora)
 - 🍴 👤 [jpillora](https://github.com/jpillora) Forked [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) to [jpillora/whisper.cpp](https://github.com/jpillora/whisper.cpp)
@@ -445,12 +498,18 @@
   > Command line helpers for fuzzing
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [nicorac/bcr-gui](https://github.com/nicorac/bcr-gui)
   > BCR-GUI is a companion app for the great BCR (Basic Call Recorder) Android application and other sup...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [losfair/zeroserve](https://github.com/losfair/zeroserve)
+  > Zero-config, fast `io_uring`-based HTTPS server.
 
 ### [omeraydindev](https://github.com/omeraydindev)
 - 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [open-webui/pipelines](https://github.com/open-webui/pipelines)
   > Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework 
 - 🍴 👤 [omeraydindev](https://github.com/omeraydindev) Forked [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) to [omeraydindev/SuperCmd](https://github.com/omeraydindev/SuperCmd)
   > Powerful MacOS Launcher
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [objective-see/LuLu](https://github.com/objective-see/LuLu)
+  > LuLu is the free open-source macOS firewall
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [nvllz/stepsy](https://github.com/nvllz/stepsy)
+  > Simple and lightweight step counter app for Android
 
 ### [quangnh89](https://github.com/quangnh89)
 - 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
@@ -461,6 +520,12 @@
   > Distributed reliable key-value store for the most critical data of a distributed system
 - 🍴 👤 [quanyeyang](https://github.com/quanyeyang) Forked [etcd-io/etcd](https://github.com/etcd-io/etcd) to [quanyeyang/etcd](https://github.com/quanyeyang/etcd)
   > Distributed reliable key-value store for the most critical data of a distributed system
+
+### [qwqdanchun](https://github.com/qwqdanchun)
+- 🌟 👤 [qwqdanchun](https://github.com/qwqdanchun) Starred [mallo-m/AxiomSecrets](https://github.com/mallo-m/AxiomSecrets)
+  > Dump protected files (SAM,SYSTEM,SECURITY) by parsing the raw NTFS partition
+- 🌟 👤 [qwqdanchun](https://github.com/qwqdanchun) Starred [synacktiv/DCOMIllusionist](https://github.com/synacktiv/DCOMIllusionist)
+  > DCOM in memory and fileless lateral movement techniques through .Net deserilization
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🚀 👤 [ravindu644](https://github.com/ravindu644) Made [Droidspaces/iw-vap](https://github.com/Droidspaces/iw-vap) public
@@ -513,6 +578,8 @@
 
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [open-compass/GAOKAO-Eval](https://github.com/open-compass/GAOKAO-Eval)
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [schlae/adlib](https://github.com/schlae/adlib)
+  > Reproduction AdLib Sound Card, OPL2, Circa 1990
 
 ### [superturtlee](https://github.com/superturtlee)
 - 🍴 👤 [superturtlee](https://github.com/superturtlee) Forked [lfdevs/mesa-for-android-container](https://github.com/lfdevs/mesa-for-android-container) to [superturtlee/mesa-for-android-container](https://github.com/superturtlee/mesa-for-android-container)
@@ -614,5 +681,5 @@
 
 
 ---
-*最后更新于 2026-06-14 16:21:41 UTC*
+*最后更新于 2026-06-14 18:12:34 UTC*
 *历史记录保存在 `archive` 目录中。*
