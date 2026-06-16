@@ -89,6 +89,8 @@
   > Windows native ETW inspection suite for browsing providers, reading metadata, consuming live events,...
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kernullist/ETWPrism](https://github.com/kernullist/ETWPrism)
   > User-mode ETW interception and telemetry manipulation lab for Windows security research.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [NyanSatan/Anya](https://github.com/NyanSatan/Anya)
+  > iBoot/SEPOS decryption kit for JTAGgable iOS device prototypes
 
 ### [DownWithUp](https://github.com/DownWithUp)
 - 🌟 👤 [DownWithUp](https://github.com/DownWithUp) Starred [orinimron123/CVE-2026-40369-EXPLOIT](https://github.com/orinimron123/CVE-2026-40369-EXPLOIT)
@@ -152,6 +154,10 @@
   > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
   > A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a p...
+- 🌟 👤 [KingJA](https://github.com/KingJA) Starred [doocs/cose](https://github.com/doocs/cose)
+  > 😃 md 编辑器使用的浏览器扩展，支持一键将文章同步到多个内容平台。
+- 🌟 👤 [KingJA](https://github.com/KingJA) Starred [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload)
+  > 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv文件，保存文章内图片、视频、音频文件，支持MCP/Skill调用
 
 ### [KuLiPai](https://github.com/KuLiPai)
 - 🌟 👤 [KuLiPai](https://github.com/KuLiPai) Starred [s0xDk/ghostty-blackhole](https://github.com/s0xDk/ghostty-blackhole)
@@ -278,12 +284,19 @@
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [chompie1337/s8_2019_2215_poc_exynos](https://github.com/chompie1337/s8_2019_2215_poc_exynos)
 
+### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [0xRoam/LoadReload](https://github.com/0xRoam/LoadReload)
+  > Shellcode Loader for Master Thesis
+
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [yzddmr6/PrismSpace](https://github.com/yzddmr6/PrismSpace)
   > 基于 Android 工作资料的应用双开管理器。用系统级隔离创建独立空间，安装、运行和管理应用分身。
 
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [qrt2/fix_nethunter](https://github.com/qrt2/fix_nethunter)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [lolokeksu/Boot-Integrity-Mask](https://github.com/lolokeksu/Boot-Integrity-Mask)
+  > Модуль скрывает модификацию загрузочных разделов (boot, init_boot, vendor_boot, vbmeta, recovery, dt...
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [chompie1337/s8_2019_2215_poc_exynos](https://github.com/chompie1337/s8_2019_2215_poc_exynos)
 
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🍴 👤 [SodaMilk233](https://github.com/SodaMilk233) Forked [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) to [SodaMilk233/ShadowHook](https://github.com/SodaMilk233/ShadowHook)
@@ -302,6 +315,12 @@
   > Claude Code 中文化 + 多 provider 兼容 fork — Anthropic / OpenAI / Gemini / DeepSeek 一套 CLI
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [xemj9/mj-code](https://github.com/xemj9/mj-code)
   > 一个开源的终端编程助手，具备智能决策、代码验证和自动修复能力。类似于Claude code，但是正在不断完善，欢迎大家多多指教～
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [zeronesun/opencode-portable](https://github.com/zeronesun/opencode-portable)
+  > 基于OpenCode 官方原版 ，内置运行时环境，解压即用。CJK中文修复 、Musl静态编译、适配旧GLIBC、适配旧版Windows和Linux操作系统。
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [zylc369/OpenSecurity](https://github.com/zylc369/OpenSecurity)
+  > AI 驱动的多领域安全分析 Agent 平台 —— 让 LLM 端到端完成安全分析
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [azw413/Glass](https://github.com/azw413/Glass)
+  > Glass - a fast and free IDA Pro alternative
 
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
@@ -398,6 +417,12 @@
   > Node.js library for creating Guacamole-compatible servers. Guacamole is a RDP/VNC/SSH/Telnet client ...
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)
   > An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的...
+
+### [banteg](https://github.com/banteg)
+- 🌟 👤 [banteg](https://github.com/banteg) Starred [aragon/evm-mirror](https://github.com/aragon/evm-mirror)
+- 🍴 👤 [banteg](https://github.com/banteg) Forked [aragon/evm-mirror](https://github.com/aragon/evm-mirror) to [banteg/evm-mirror](https://github.com/banteg/evm-mirror)
+- 🌟 👤 [banteg](https://github.com/banteg) Starred [fubuloubu/Caravan](https://github.com/fubuloubu/Caravan)
+  > 🐪 A shared wallet for everyday adventures
 
 ### [bigsinger](https://github.com/bigsinger)
 - 🌟 👤 [bigsinger](https://github.com/bigsinger) Starred [own2pwn-fr/burpwn](https://github.com/own2pwn-fr/burpwn)
@@ -535,6 +560,10 @@
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [Lakr233/SSHKit](https://github.com/Lakr233/SSHKit)
 - 🍴 👤 [everettjf](https://github.com/everettjf) Forked [Lakr233/SSHKit](https://github.com/Lakr233/SSHKit) to [everettjf/SSHKit](https://github.com/everettjf/SSHKit)
 
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [ribt/dtmf-decoder](https://github.com/ribt/dtmf-decoder)
+  > Extract phone numbers from an audio recording of the dial tones.
+
 ### [fawdlstty](https://github.com/fawdlstty)
 - 🌟 👤 [fawdlstty](https://github.com/fawdlstty) Starred [xming521/WeClone](https://github.com/xming521/WeClone)
   > 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs...
@@ -652,6 +681,15 @@
 - 🌟 👤 [ilian](https://github.com/ilian) Starred [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow)
   > Crowdsourcing better titles and thumbnails on YouTube
 
+### [j0nk0](https://github.com/j0nk0)
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [fr3ts0n/AndrOBD](https://github.com/fr3ts0n/AndrOBD)
+  > Android OBD diagnostics with any ELM327 adapter
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
+  > A libre lightweight streaming front-end for Android.
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [zacharee/Tweaker](https://github.com/zacharee/Tweaker)
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [f-io/LIVI](https://github.com/f-io/LIVI)
+  > CarPlay & Android Auto head unit for Linux (ARM/x64), macOS (ARM) and Windows (x64). Full AA protoco...
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux)
   > Android File Transfer for Linux (and macOS!)
@@ -679,6 +717,8 @@
   > Free open-source cabinet planner & cut-list optimizer. Design furniture, minimize material waste wit...
 
 ### [kernullist](https://github.com/kernullist)
+- 🚀 👤 [kernullist](https://github.com/kernullist) Made [kernullist/ETWPrism](https://github.com/kernullist/ETWPrism) public
+  > User-mode ETW interception and telemetry manipulation lab for Windows security research.
 - 🌟 👤 [kernullist](https://github.com/kernullist) Starred [kernullist/ETWPrism](https://github.com/kernullist/ETWPrism)
   > User-mode ETW interception and telemetry manipulation lab for Windows security research.
 
@@ -737,6 +777,10 @@
 - 🌟 👤 [le31ei](https://github.com/le31ei) Starred [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub)
   > All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, pric...
 
+### [leng-yue](https://github.com/leng-yue)
+- 🍴 👤 [leng-yue](https://github.com/leng-yue) Forked [coval-ai/benchmarks](https://github.com/coval-ai/benchmarks) to [leng-yue/coval-ai-benchmarks](https://github.com/leng-yue/coval-ai-benchmarks)
+  > Reproducible voice-AI benchmarking — TTS / STT latency and accuracy.
+
 ### [lich4](https://github.com/lich4)
 - 🌟 👤 [lich4](https://github.com/lich4) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
   > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
@@ -794,6 +838,8 @@
   > PSP static recompiler: Rust analyze/decode/emit pipeline producing C++17, with an SDL2 + OpenGL runt...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra)
   > 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc comman...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp)
+  > Tool to statically recompile N64 games into native executables
 
 ### [mrmacete](https://github.com/mrmacete)
 - 🌟 👤 [mrmacete](https://github.com/mrmacete) Starred [redruM0381/ATAboy](https://github.com/redruM0381/ATAboy)
@@ -862,6 +908,10 @@
 - 🍴 👤 [r00tuser111](https://github.com/r00tuser111) Forked [loonghao/wecom-bot-mcp-server](https://github.com/loonghao/wecom-bot-mcp-server) to [r00tuser111/wecom-bot-mcp-server](https://github.com/r00tuser111/wecom-bot-mcp-server)
   > A Python server implementation for WeCom (WeChat Work) bot that follows the Model Context Protocol (...
 
+### [ravindu644](https://github.com/ravindu644)
+- 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [LegadoTeam/legado](https://github.com/LegadoTeam/legado)
   > Legado 3.0 Book Reader with powerful controls 
@@ -879,6 +929,8 @@
   > Hardening code obfuscation against automated attacks
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [Idov31/EtwSuite](https://github.com/Idov31/EtwSuite)
   > Windows native ETW inspection suite for browsing providers, reading metadata, consuming live events,...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye)
+  > Windows kernel debugger for Linux hosts running Windows under KVM/QEMU
 
 ### [redbearder](https://github.com/redbearder)
 - 🌟 👤 [redbearder](https://github.com/redbearder) Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)
@@ -931,6 +983,10 @@
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [jkcoxson/idevice](https://github.com/jkcoxson/idevice)
   > A library to interact with services exposed by iOS
 
+### [suifei](https://github.com/suifei)
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [Tronix286/AIL2](https://github.com/Tronix286/AIL2)
+  > IBM Audio Interface Library (AIL2) by John Miles / Miles Design, Inc. CMS/Game blaster support
+
 ### [thatqier](https://github.com/thatqier)
 - 🌟 👤 [thatqier](https://github.com/thatqier) Starred [Findomain/Findomain](https://github.com/Findomain/Findomain)
   > The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP ch...
@@ -939,9 +995,17 @@
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
   > Run virtual machine on Android Phones
 
+### [tintinweb](https://github.com/tintinweb)
+- 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [mratsim/tattletale](https://github.com/mratsim/tattletale)
+  > Stealth LLM inference engine
+
 ### [tomrus88](https://github.com/tomrus88)
 - 🌟 👤 [tomrus88](https://github.com/tomrus88) Starred [Apich-Organization/ensia](https://github.com/Apich-Organization/ensia)
   > OLLVM-Next (Ensia): The next generation LLVM based Obfuscator
+
+### [troldal](https://github.com/troldal)
+- 🌟 👤 [troldal](https://github.com/troldal) Starred [mtmucha/coros](https://github.com/mtmucha/coros)
+  > An easy-to-use and fast library for task-based parallelism, utilizing coroutines.
 
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [dodo-reach/apple-pi](https://github.com/dodo-reach/apple-pi)
@@ -978,6 +1042,8 @@
 ### [wbaby](https://github.com/wbaby)
 - 🍴 👤 [wbaby](https://github.com/wbaby) Forked [sunhanaix/pc_wechat_exp](https://github.com/sunhanaix/pc_wechat_exp) to [wbaby/pc_wechat_exp](https://github.com/wbaby/pc_wechat_exp)
   > 找到微信的key，导出聊天记录，进行分析
+- 🍴 👤 [wbaby](https://github.com/wbaby) Forked [19h/morok](https://github.com/19h/morok) to [wbaby/morok_obfuscator](https://github.com/wbaby/morok_obfuscator)
+  > A modular, layered, test-first C++23 LLVM-IR obfuscator.
 
 ### [weidai11](https://github.com/weidai11)
 - 🌟 👤 [weidai11](https://github.com/weidai11) Starred [limitlesslab/AI-upscaling-models](https://github.com/limitlesslab/AI-upscaling-models)
@@ -1078,5 +1144,5 @@
 
 
 ---
-*最后更新于 2026-06-15 18:25:56 UTC*
+*最后更新于 2026-06-15 21:42:21 UTC*
 *历史记录保存在 `archive` 目录中。*
