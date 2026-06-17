@@ -55,6 +55,10 @@
 - 🌟 👤 [AlexAltea](https://github.com/AlexAltea) Starred [inolen/redream](https://github.com/inolen/redream)
   > Work In Progress SEGA Dreamcast emulator
 
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+
 ### [Andrea-lyz](https://github.com/Andrea-lyz)
 - 🌟 👤 [Andrea-lyz](https://github.com/Andrea-lyz) Starred [Replica0110/Lyrico](https://github.com/Replica0110/Lyrico)
   > 一个开源的 Android 音乐标签编辑器，支持标签搜索与编辑，并提供逐字歌词支持。灵感来源于 LDDC 和音乐标签。
@@ -222,6 +226,7 @@
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager)
   > "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / brows...
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [shwed48/Action-OFRP-Builder](https://github.com/shwed48/Action-OFRP-Builder)
 
 ### [MartinKayJr](https://github.com/MartinKayJr)
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [supermarsx/echidna](https://github.com/supermarsx/echidna)
@@ -307,6 +312,8 @@
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [vibe-coding-labs/JoyCodeProxy](https://github.com/vibe-coding-labs/JoyCodeProxy)
   > JoyCode API 代理 — 协议翻译成 Anthropic/OpenAI 兼容格式，让 Claude Code 直接调用 JoyCode支持的模型，比如GLM 5.1等
+- 🍴 👤 [SodaMilk233](https://github.com/SodaMilk233) Forked [bytedance/bhook](https://github.com/bytedance/bhook) to [SodaMilk233/ByteHook](https://github.com/SodaMilk233/ByteHook)
+  > :fire: ByteHook is an Android PLT hook library which supports armeabi-v7a, arm64-v8a, x86 and x86_64...
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [capstone-engine/capstone](https://github.com/capstone-engine/capstone)
@@ -335,7 +342,7 @@
   > Run virtual machine on Android Phones
 
 ### [Th4nat0s](https://github.com/Th4nat0s)
-- 🍴 👤 [Th4nat0s](https://github.com/Th4nat0s) Forked [adulau/fanything](https://github.com/adulau/fanything) to [Th4nat0s/fanything](https://github.com/Th4nat0s/fanything)
+- 🍴 👤 [Th4nat0s](https://github.com/Th4nat0s) Forked [fanything-project/fanything](https://github.com/fanything-project/fanything) to [Th4nat0s/fanything](https://github.com/Th4nat0s/fanything)
   > Fingerprint anything on a network perspective
 
 ### [TideSec](https://github.com/TideSec)
@@ -377,6 +384,8 @@
 ### [ant4g0nist](https://github.com/ant4g0nist)
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
+  > pierre’s open source code
 
 ### [asLody](https://github.com/asLody)
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [jameysharp/optir](https://github.com/jameysharp/optir)
@@ -392,6 +401,10 @@
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [ibaiC/CS-MCP](https://github.com/ibaiC/CS-MCP)
   > Cobalt Strike MCP based on CS 4.12
 
+### [banteg](https://github.com/banteg)
+- 🌟 👤 [banteg](https://github.com/banteg) Starred [localai-org/privacy-filter.cpp](https://github.com/localai-org/privacy-filter.cpp)
+  > OpenAI's privacy filter NER model architecture implemented in a minimal C++/GGML runtime
+
 ### [breaking153](https://github.com/breaking153)
 - 🌟 👤 [breaking153](https://github.com/breaking153) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI...
@@ -399,6 +412,10 @@
   > ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 - 🌟 👤 [breaking153](https://github.com/breaking153) Starred [Laliet/cc-switch-web](https://github.com/Laliet/cc-switch-web)
   > ⭐️ A cross-platform web-based All-in-One assistant tool for Claude Code, Codex & Gemini CLI, based o...
+
+### [buzzer-re](https://github.com/buzzer-re)
+- 🌟 👤 [buzzer-re](https://github.com/buzzer-re) Starred [OALabs/asftriage](https://github.com/OALabs/asftriage)
+  > LLM Agent Session Forensics Tool
 
 ### [chenjiandongx](https://github.com/chenjiandongx)
 - 🌟 👤 [chenjiandongx](https://github.com/chenjiandongx) Starred [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
@@ -606,6 +623,10 @@
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [zed-industries/zed](https://github.com/zed-industries/zed) to [ioncodes/zed](https://github.com/ioncodes/zed)
   > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
 
+### [ivoszbg](https://github.com/ivoszbg)
+- 🍴 👤 [ivoszbg](https://github.com/ivoszbg) Forked [SwagSoftware/Kisak-Strike](https://github.com/SwagSoftware/Kisak-Strike) to [ivoszbg/Kisak-Strike](https://github.com/ivoszbg/Kisak-Strike)
+  > 100% Open Source CSGO
+
 ### [j3ssie](https://github.com/j3ssie)
 - 🍴 👤 [j3ssie](https://github.com/j3ssie) Forked [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) to [j3ssie/Scanners-Box](https://github.com/j3ssie/Scanners-Box)
   > A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
@@ -761,6 +782,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker)
   > Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeTh...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [localai-org/privacy-filter.cpp](https://github.com/localai-org/privacy-filter.cpp)
+  > OpenAI's privacy filter NER model architecture implemented in a minimal C++/GGML runtime
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
@@ -848,6 +871,18 @@
 - 🌟 👤 [retme7](https://github.com/retme7) Starred [perrycan/wechat-daily-report-bot](https://github.com/perrycan/wechat-daily-report-bot)
   > Automate a WeChat group's daily work-report roll-call — start, chase non-submitters, and LLM-summari...
 
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [wuyoscar/Internal-Safety-Collapse](https://github.com/wuyoscar/Internal-Safety-Collapse)
+  > Internal Safety Collapse (ISC): Turning the LLM or an AI Agent into a sensitive data generator.
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+  > Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks...
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
+  > IDA Pro RPC for assisted RE-tasks
+
+### [sdcampbell](https://github.com/sdcampbell)
+- 🌟 👤 [sdcampbell](https://github.com/sdcampbell) Starred [maaslalani/slides](https://github.com/maaslalani/slides)
+  > Terminal based presentation tool
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/mesa-for-android-container](https://github.com/superturtlee/mesa-for-android-container)
   > A Mesa build for containers on Android (Proot, Chroot, LXC, etc.), to support hardware acceleration ...
@@ -855,6 +890,10 @@
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [bytefer/google-search-console-mcp](https://github.com/bytefer/google-search-console-mcp)
   > Google Search Console MCP Server
+
+### [seritools](https://github.com/seritools)
+- 🌟 👤 [seritools](https://github.com/seritools) Starred [shapoco/lcdtap](https://github.com/shapoco/lcdtap)
+  > A tool for mirroring or capturing I2C/SPI LCD displays
 
 ### [shellsec](https://github.com/shellsec)
 - 🌟 👤 [shellsec](https://github.com/shellsec) Starred [muxuuu/serenity-skill](https://github.com/muxuuu/serenity-skill)
@@ -1011,5 +1050,5 @@
 
 
 ---
-*最后更新于 2026-06-16 19:36:29 UTC*
+*最后更新于 2026-06-16 22:11:14 UTC*
 *历史记录保存在 `archive` 目录中。*
