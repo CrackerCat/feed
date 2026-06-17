@@ -12,6 +12,10 @@
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [linhay/harmony-next.skills](https://github.com/linhay/harmony-next.skills)
   > 🚀 Expert guidance for HarmonyOS NEXT (API 12+) development. Covers IDE operations, performance tunin...
 
+### [0xdad0](https://github.com/0xdad0)
+- 🌟 👤 [0xdad0](https://github.com/0xdad0) Starred [LSPosed/LSPlant](https://github.com/LSPosed/LSPlant)
+  > A hook framework for Android Runtime (ART)
+
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [apple/container](https://github.com/apple/container)
   > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
@@ -138,6 +142,10 @@
 ### [KingJA](https://github.com/KingJA)
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [yangbuyiya/EasyWechatDownload](https://github.com/yangbuyiya/EasyWechatDownload)
   > 微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/mhtml/md/pdf/docx文件
+- 🌟 👤 [KingJA](https://github.com/KingJA) Starred [striver-ing/wechat-spider](https://github.com/striver-ing/wechat-spider)
+  > 开源微信爬虫：爬取公众号所有 文章、阅读量、点赞量和评论内容。易部署。持续维护！！！
+- 🌟 👤 [KingJA](https://github.com/KingJA) Starred [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss)
+  > 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
 
 ### [KpLi0rn](https://github.com/KpLi0rn)
 - 🌟 👤 [KpLi0rn](https://github.com/KpLi0rn) Starred [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
@@ -146,6 +154,10 @@
 ### [KunMinX](https://github.com/KunMinX)
 - 🌟 👤 [KunMinX](https://github.com/KunMinX) Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)
   > Create polished demo videos without editing skills. Mac/Windows/Linux
+
+### [L4ys](https://github.com/L4ys)
+- 🍴 👤 [L4ys](https://github.com/L4ys) Forked [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) to [L4ys/kiss-translator](https://github.com/L4ys/kiss-translator)
+  > A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚...
 
 ### [LimerBoy](https://github.com/LimerBoy)
 - 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [Tobee1406/Awesome-Google-Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks)
@@ -171,6 +183,10 @@
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [tatan0000/ClipboardGuard](https://github.com/tatan0000/ClipboardGuard)
   > 一个基于 LSPosed/Xposed 框架的 Android 模块，用于管理应用对剪贴板的写入与读取行为。防止应用在未经允许下在剪贴板里拉屎/读取剪贴板隐私信息。
 
+### [MikaCybertron](https://github.com/MikaCybertron)
+- 🌟 👤 [MikaCybertron](https://github.com/MikaCybertron) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
+  > Run virtual machine on Android Phones
+
 ### [MolotovCherry](https://github.com/MolotovCherry)
 - 🌟 👤 [MolotovCherry](https://github.com/MolotovCherry) Starred [Modos-Labs/Glider](https://github.com/Modos-Labs/Glider)
   > Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
@@ -194,9 +210,17 @@
 ### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
 - 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [HackingLZ/defender_overview](https://github.com/HackingLZ/defender_overview)
   > Overview of MS Defender 
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [nmht3t/RawHive](https://github.com/nmht3t/RawHive)
+  > Cobalt Strike BOF that extracts selected Windows registry hives directly from a raw NTFS volume by p...
 
 ### [SakuraKoi](https://github.com/SakuraKoi)
 - 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [oureveryday/VMPUnpacker](https://github.com/oureveryday/VMPUnpacker)
+
+### [Silentsoul04](https://github.com/Silentsoul04)
+- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [Auditware/AuditVault](https://github.com/Auditware/AuditVault)
+  > Obsidian brain for smart contract auditing
+- 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [Auditware/AuditVault](https://github.com/Auditware/AuditVault) to [Silentsoul04/AuditVault](https://github.com/Silentsoul04/AuditVault)
+  > Obsidian brain for smart contract auditing
 
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🍴 👤 [SodaMilk233](https://github.com/SodaMilk233) Forked [aimardcr/ArtHook](https://github.com/aimardcr/ArtHook) to [SodaMilk233/ArtHook](https://github.com/SodaMilk233/ArtHook)
@@ -222,6 +246,10 @@
 ### [TGSAN](https://github.com/TGSAN)
 - 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [microsoft/MIDI](https://github.com/microsoft/MIDI)
   > Windows MIDI Services
+
+### [TomAPU](https://github.com/TomAPU)
+- 🌟 👤 [TomAPU](https://github.com/TomAPU) Starred [sgzeng/pbfuzz](https://github.com/sgzeng/pbfuzz)
+  > Agentic Directed Fuzzing for PoV Generation
 
 ### [Unclecheng-li](https://github.com/Unclecheng-li)
 - 🌟 👤 [Unclecheng-li](https://github.com/Unclecheng-li) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
@@ -357,6 +385,8 @@
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN)
   > [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate,...
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
+  > Lore is a next-generation, open source revision control system
 
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [charliewolfe/Stealthy-Kernelmode-Injector](https://github.com/charliewolfe/Stealthy-Kernelmode-Injector)
@@ -419,6 +449,10 @@
 - 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [Z-Bra0/Tx2Poc](https://github.com/Z-Bra0/Tx2Poc)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Stengo/DeskPad](https://github.com/Stengo/DeskPad) to [gmh5225/DeskPad](https://github.com/gmh5225/DeskPad)
   > A virtual monitor for screen sharing
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
+  > Lore is a next-generation, open source revision control system
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [EpicGames/lore](https://github.com/EpicGames/lore) to [gmh5225/lore](https://github.com/gmh5225/lore)
+  > Lore is a next-generation, open source revision control system
 
 ### [guiying712](https://github.com/guiying712)
 - 🌟 👤 [guiying712](https://github.com/guiying712) Starred [0xMassi/webclaw](https://github.com/0xMassi/webclaw)
@@ -439,10 +473,6 @@
   > Get the best daily repositories
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [richling98/starboard](https://github.com/richling98/starboard)
   > Discover the open source ecosystem. 
-
-### [hugsy](https://github.com/hugsy)
-- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
-  > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd)
@@ -490,6 +520,12 @@
 ### [kernelwernel](https://github.com/kernelwernel)
 - 🌟 👤 [kernelwernel](https://github.com/kernelwernel) Starred [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3)
   > LIBERATED AI CHAT
+- 🌟 👤 [kernelwernel](https://github.com/kernelwernel) Starred [cev-api/vm-detect](https://github.com/cev-api/vm-detect)
+  > VMDetect is a Python based Windows VM detection and environment forensics tool that reads ACPI/SMBIO...
+
+### [lihenggui](https://github.com/lihenggui)
+- 🌟 👤 [lihenggui](https://github.com/lihenggui) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
+  > Lore is a next-generation, open source revision control system
 
 ### [llsc12](https://github.com/llsc12)
 - 🚀 👤 [llsc12](https://github.com/llsc12) Made [llsc12/ChestDiff](https://github.com/llsc12/ChestDiff) public
@@ -510,6 +546,10 @@
 ### [lz6688](https://github.com/lz6688)
 - 🍴 👤 [lz6688](https://github.com/lz6688) Forked [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) to [lz6688/agency-agents-zh](https://github.com/lz6688/agency-agents-zh)
   > 🎭 216 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 17 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 5...
+
+### [m4n3dw0lf](https://github.com/m4n3dw0lf)
+- 🌟 👤 [m4n3dw0lf](https://github.com/m4n3dw0lf) Starred [WICG/email-verification](https://github.com/WICG/email-verification)
+  > verified autofill 
 
 ### [mahmoudimus](https://github.com/mahmoudimus)
 - 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [cmu-llab/ReaComp](https://github.com/cmu-llab/ReaComp)
@@ -542,6 +582,8 @@
   > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
   > User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- 🍴 👤 [mq1n](https://github.com/mq1n) Forked [m4b/goblin](https://github.com/m4b/goblin) to [mq1n/goblin](https://github.com/mq1n/goblin)
+  > An impish, cross-platform binary parsing crate, written in Rust
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xdea/rhabdomancer](https://github.com/0xdea/rhabdomancer)
@@ -592,6 +634,14 @@
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [gameprive/win2k](https://github.com/gameprive/win2k)
   > Windows 2000 source code 
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [r3xmax/PhantomCtx](https://github.com/r3xmax/PhantomCtx)
+  > Activation Context Hijacking Evasion Tool
+
+### [omeraydindev](https://github.com/omeraydindev)
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [open-webui/oikb](https://github.com/open-webui/oikb)
+  > Sync anything to Open WebUI Knowledge Bases
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [open-webui/computer](https://github.com/open-webui/computer)
+  > Get more done. Away.
 
 ### [psifertex](https://github.com/psifertex)
 - 🌟 👤 [psifertex](https://github.com/psifertex) Starred [ProperDocs/properdocs](https://github.com/ProperDocs/properdocs)
@@ -676,11 +726,17 @@
 ### [sotasan](https://github.com/sotasan)
 - 🌟 👤 [sotasan](https://github.com/sotasan) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+- 🌟 👤 [sotasan](https://github.com/sotasan) Starred [nubjs/nub](https://github.com/nubjs/nub)
+  > The all-in-one Node.js toolkit
 
 ### [stuxnet147](https://github.com/stuxnet147)
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [LukeFZ/Il2CppInspectorRedux](https://github.com/LukeFZ/Il2CppInspectorRedux)
   > Continuation of Il2CppInspector - A powerful automated tool for reverse engineering Unity IL2CPP bin...
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [cyberark/Vulnhalla](https://github.com/cyberark/Vulnhalla)
+
+### [suifei](https://github.com/suifei)
+- 🌟 👤 [suifei](https://github.com/suifei) Starred [Wohlstand/OPL3BankEditor](https://github.com/Wohlstand/OPL3BankEditor)
+  > A small cross-platform editor of the OPL3 FM banks of different formats (Downloads in README below)
 
 ### [szdyg](https://github.com/szdyg)
 - 🌟 👤 [szdyg](https://github.com/szdyg) Starred [EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download)
@@ -735,6 +791,10 @@
 - 🍴 👤 [wcedla](https://github.com/wcedla) Forked [den67rus/Carlinkit-CPC200-Autokit-Firmware](https://github.com/den67rus/Carlinkit-CPC200-Autokit-Firmware) to [wcedla/Carlinkit-CPC200-Autokit-Firmware](https://github.com/wcedla/Carlinkit-CPC200-Autokit-Firmware)
   > Carlinkit CPC200 Autokit Firmware
 
+### [weibell](https://github.com/weibell)
+- 🌟 👤 [weibell](https://github.com/weibell) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+
 ### [winezer0](https://github.com/winezer0)
 - 🌟 👤 [winezer0](https://github.com/winezer0) Starred [tamnd/kage](https://github.com/tamnd/kage)
   > Shadow any website for offline viewing, with the JavaScript stripped out
@@ -788,7 +848,11 @@
 - 🌟 👤 [zjw-swun](https://github.com/zjw-swun) Starred [Rahkeen/CoffeeLoader](https://github.com/Rahkeen/CoffeeLoader)
   > A coffee loader built with Android and Rive
 
+### [zznop](https://github.com/zznop)
+- 🌟 👤 [zznop](https://github.com/zznop) Starred [idaholab/bn-st10-arch](https://github.com/idaholab/bn-st10-arch)
+  > Binary Ninja plugin adding C166/ST10 architecture support for embedded firmware. Enables accurate di...
+
 
 ---
-*最后更新于 2026-06-17 18:16:32 UTC*
+*最后更新于 2026-06-17 21:05:55 UTC*
 *历史记录保存在 `archive` 目录中。*
