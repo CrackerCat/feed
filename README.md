@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0dayCTF](https://github.com/0dayCTF)
+- 🌟 👤 [0dayCTF](https://github.com/0dayCTF) Starred [portbuster1337/ArachneC2](https://github.com/portbuster1337/ArachneC2)
+  > Decentralized C2 framework built on libp2p
+
 ### [0x1306a94](https://github.com/0x1306a94)
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [cnvipstar/codex-model-switch](https://github.com/cnvipstar/codex-model-switch)
   > Toggle OpenAI Codex between a local model (Ollama / OpenAI-compatible) and the native cloud model — ...
@@ -31,6 +35,10 @@
 - 🌟 👤 [AlphabugX](https://github.com/AlphabugX) Starred [Vozec/CVE-2026-41651](https://github.com/Vozec/CVE-2026-41651)
 - 🌟 👤 [AlphabugX](https://github.com/AlphabugX) Starred [nikaiw/VMkatz](https://github.com/nikaiw/VMkatz)
   > Extract Windows credentials directly from VM memory snapshots and virtual disks
+
+### [Andrea-lyz](https://github.com/Andrea-lyz)
+- 🌟 👤 [Andrea-lyz](https://github.com/Andrea-lyz) Starred [6xingyv/accompanist-lyrics-core](https://github.com/6xingyv/accompanist-lyrics-core)
+  > A lyrics parsing, converting, exporting library for Kotlin
 
 ### [Billy-Ellis](https://github.com/Billy-Ellis)
 - 🌟 👤 [Billy-Ellis](https://github.com/Billy-Ellis) Starred [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8)
@@ -68,6 +76,10 @@
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [r3xmax/PhantomCtx](https://github.com/r3xmax/PhantomCtx)
   > Activation Context Hijacking Evasion Tool
 
+### [KHwang9883](https://github.com/KHwang9883)
+- 🌟 👤 [KHwang9883](https://github.com/KHwang9883) Starred [mahonzhan/awesome-coding-plan](https://github.com/mahonzhan/awesome-coding-plan)
+  > 各厂家 Coding Plan 实际价值对比
+
 ### [KunMinX](https://github.com/KunMinX)
 - 🌟 👤 [KunMinX](https://github.com/KunMinX) Starred [kangyu-california/PersistentWindows](https://github.com/kangyu-california/PersistentWindows)
   > fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update
@@ -96,9 +108,16 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
   > Annotate and review coding agent plans and code diffs visually, share with your team, send feedback ...
 
+### [OukaroMF](https://github.com/OukaroMF)
+- 🌟 👤 [OukaroMF](https://github.com/OukaroMF) Starred [Anatdx/Kagami](https://github.com/Anatdx/Kagami)
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8)
   > An A12/A13 SecureROM exploit
+
+### [SeanCline](https://github.com/SeanCline)
+- 🌟 👤 [SeanCline](https://github.com/SeanCline) Starred [SeanCline/PyExt](https://github.com/SeanCline/PyExt)
+  > WinDbg Extensions for Python
 
 ### [SherlockChiang](https://github.com/SherlockChiang)
 - 🌟 👤 [SherlockChiang](https://github.com/SherlockChiang) Starred [MadMax1960/Femc-Reloaded-Project](https://github.com/MadMax1960/Femc-Reloaded-Project)
@@ -108,13 +127,27 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)
   > 中国专利.skill，从项目文档到可交付的技术交底书，专利点挖掘、联网国知局查新、脱敏成文与自检闭环。
 
+### [Sndav](https://github.com/Sndav)
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [chenx-dust/EZ4Connect](https://github.com/chenx-dust/EZ4Connect)
+  > ZJU-Connect 图形界面 - 支持 aTrust 和 EasyConnect 协议
+
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🍴 👤 [SodaMilk233](https://github.com/SodaMilk233) Forked [BillyWei01/FastKV](https://github.com/BillyWei01/FastKV) to [SodaMilk233/FastKV](https://github.com/SodaMilk233/FastKV)
   > An efficient key-value storage library.
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [PAIArtCom/Clipal](https://github.com/PAIArtCom/Clipal)
+  > Minimal LLM API reverse proxy for Claude Code, Codex CLI & Gemini CLI — YAML routing, hot reload, an...
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [Lingyan000/fluxdo](https://github.com/Lingyan000/fluxdo)
   > 一个 Linux.do 第三方客户端
+
+### [StephenDev0](https://github.com/StephenDev0)
+- 🌟 👤 [StephenDev0](https://github.com/StephenDev0) Starred [StephenDev0/StikPair](https://github.com/StephenDev0/StikPair)
+  > A simple SwiftUI iOS app that creates a pairing file on-device.
+
+### [TGSAN](https://github.com/TGSAN)
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [happymimimix/NTVDMx64-PreBuilt](https://github.com/happymimimix/NTVDMx64-PreBuilt)
+  > pre built binaries of NTVDMx64
 
 ### [Tardis07](https://github.com/Tardis07)
 - 🌟 👤 [Tardis07](https://github.com/Tardis07) Starred [biggerstar/wedecode](https://github.com/biggerstar/wedecode)
@@ -172,8 +205,20 @@
 - 🌟 👤 [antiwar3](https://github.com/antiwar3) Starred [miunasu/ShadowScheduler](https://github.com/miunasu/ShadowScheduler)
   > PoC for covert persistence via Windows Push Task Scheduler (WPTaskScheduler) RPC interface — invisib...
 
+### [apkunpacker](https://github.com/apkunpacker)
+- 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8)
+  > An A12/A13 SecureROM exploit
+- 🍴 👤 [apkunpacker](https://github.com/apkunpacker) Forked [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8) to [apkunpacker/usbliter8](https://github.com/apkunpacker/usbliter8)
+  > An A12/A13 SecureROM exploit
+
 ### [asLody](https://github.com/asLody)
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [companion-inc/feynman](https://github.com/companion-inc/feynman)
+
+### [astrelsky](https://github.com/astrelsky)
+- 🌟 👤 [astrelsky](https://github.com/astrelsky) Starred [crashingalexsan/Comfy-ROCm-Optimized-Nodes](https://github.com/crashingalexsan/Comfy-ROCm-Optimized-Nodes)
+  > Comfy ROCm Optimized Nodes
+- 🌟 👤 [astrelsky](https://github.com/astrelsky) Starred [Tobi-Adesoye/renorm-native](https://github.com/Tobi-Adesoye/renorm-native)
+  > Custom CUDA & Triton fused layers for self-stabilizing transformer architectures. Accelerate forward...
 
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [ceorkm/macos-design-skill](https://github.com/ceorkm/macos-design-skill)
@@ -243,6 +288,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [r3xmax/PhantomCtx](https://github.com/r3xmax/PhantomCtx) to [gmh5225/PhantomCtx](https://github.com/gmh5225/PhantomCtx)
   > Activation Context Hijacking Evasion Tool
 
+### [guiying712](https://github.com/guiying712)
+- 🌟 👤 [guiying712](https://github.com/guiying712) Starred [alibaba/zvec](https://github.com/alibaba/zvec)
+  > A lightweight, lightning-fast, in-process vector database
+
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8)
   > An A12/A13 SecureROM exploit
@@ -256,6 +305,10 @@
   > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
 - 🌟 👤 [hanc00l](https://github.com/hanc00l) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
   > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
+
+### [hellodword](https://github.com/hellodword)
+- 🌟 👤 [hellodword](https://github.com/hellodword) Starred [zhom/donutbrowser](https://github.com/zhom/donutbrowser)
+  > Simple Yet Powerful Anti-Detect Browser 🍩
 
 ### [henrypp](https://github.com/henrypp)
 - 🌟 👤 [henrypp](https://github.com/henrypp) Starred [henrypp/systeminformer](https://github.com/henrypp/systeminformer)
@@ -346,6 +399,9 @@
 - 🍴 👤 [lux-QAQ](https://github.com/lux-QAQ) Forked [AdUhTkJm/sysy-competition](https://github.com/AdUhTkJm/sysy-competition) to [lux-QAQ/sysy-competition](https://github.com/lux-QAQ/sysy-competition)
   > The SysY compiler competition. A backup before official path gets set up.
 
+### [lz6688](https://github.com/lz6688)
+- 🍴 👤 [lz6688](https://github.com/lz6688) Forked [imb4dm4n/Deadly-3000](https://github.com/imb4dm4n/Deadly-3000) to [lz6688/Deadly-3000](https://github.com/lz6688/Deadly-3000)
+
 ### [mdcgqq](https://github.com/mdcgqq)
 - 🌟 👤 [mdcgqq](https://github.com/mdcgqq) Starred [DrKLO/Telegram](https://github.com/DrKLO/Telegram)
   > Telegram for Android source
@@ -370,6 +426,12 @@
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [dzfrias/xxutf-rs](https://github.com/dzfrias/xxutf-rs)
   > Unicode normalization at GB/s for Rust.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
+  > 🪅 Windows & Linux userspace emulator 
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [icicle-emu/icicle-emu](https://github.com/icicle-emu/icicle-emu)
+  > Core emulator components for Icicle
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn)
+  > Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [gonzazoid/Ultimatum](https://github.com/gonzazoid/Ultimatum)
@@ -418,6 +480,8 @@
 ### [stuxnet147](https://github.com/stuxnet147)
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [google-research/timesfm](https://github.com/google-research/timesfm)
   > TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo...
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap)
+  > Binary Analysis Platform
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane)
@@ -491,5 +555,5 @@
 
 
 ---
-*最后更新于 2026-06-18 16:32:30 UTC*
+*最后更新于 2026-06-18 19:28:11 UTC*
 *历史记录保存在 `archive` 目录中。*
