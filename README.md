@@ -64,6 +64,10 @@
   > ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SD...
 - 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam)
 
+### [GeoSn0w](https://github.com/GeoSn0w)
+- 🍴 👤 [GeoSn0w](https://github.com/GeoSn0w) Forked [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) to [GeoSn0w/Il2CppDumper](https://github.com/GeoSn0w/Il2CppDumper)
+  > Unity il2cpp reverse engineer
+
 ### [GermanAizek](https://github.com/GermanAizek)
 - 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [taisei-project/taisei](https://github.com/taisei-project/taisei)
   > A free and open-source Touhou Project fangame
@@ -85,6 +89,10 @@
   > fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update
 - 🌟 👤 [KunMinX](https://github.com/KunMinX) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+
+### [L4ys](https://github.com/L4ys)
+- 🍴 👤 [L4ys](https://github.com/L4ys) Forked [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) to [L4ys/kiss-translator](https://github.com/L4ys/kiss-translator)
+  > A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚...
 
 ### [Lotus6](https://github.com/Lotus6)
 - 🌟 👤 [Lotus6](https://github.com/Lotus6) Starred [dwarvesf/hidden](https://github.com/dwarvesf/hidden)
@@ -136,6 +144,12 @@
   > An efficient key-value storage library.
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [PAIArtCom/Clipal](https://github.com/PAIArtCom/Clipal)
   > Minimal LLM API reverse proxy for Claude Code, Codex CLI & Gemini CLI — YAML routing, hot reload, an...
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [CrisXie4/ModelBridge](https://github.com/CrisXie4/ModelBridge)
+  > 一个支持大部分国产模型的CLI
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [sidifensen/CodingX](https://github.com/sidifensen/CodingX)
+  > 面向开发者的 AI 工作台，集成智能聊天、MCP 工具、本地代码执行、自动化任务与桌面端体验。
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [linruoxi666/Code-Spec-Plugin](https://github.com/linruoxi666/Code-Spec-Plugin)
+  > AI 驱动的代码规范与质量治理工具
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [Lingyan000/fluxdo](https://github.com/Lingyan000/fluxdo)
@@ -264,6 +278,10 @@
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [tiann/KernelSU](https://github.com/tiann/KernelSU)
   > A Kernel based root solution for Android
 
+### [ejpir](https://github.com/ejpir)
+- 🌟 👤 [ejpir](https://github.com/ejpir) Starred [typesense/typesense](https://github.com/typesense/typesense)
+  > Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ...
+
 ### [fanfeilong](https://github.com/fanfeilong)
 - 🌟 👤 [fanfeilong](https://github.com/fanfeilong) Starred [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox)
   > 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, fr...
@@ -341,7 +359,7 @@
 
 ### [iAklis](https://github.com/iAklis)
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
-  > Lore is a next-generation, open source revision control system
+  > Lore is a next-generation, open source version control system
 
 ### [ilovecsad](https://github.com/ilovecsad)
 - 🌟 👤 [ilovecsad](https://github.com/ilovecsad) Starred [PIKACHUIM/FakeSign](https://github.com/PIKACHUIM/FakeSign)
@@ -432,10 +450,18 @@
   > Core emulator components for Icicle
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn)
   > Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [ivov/lisette](https://github.com/ivov/lisette)
+  > A little language inspired by Rust that compiles to Go
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Valerioageno/ssr-rs](https://github.com/Valerioageno/ssr-rs)
+  > Server side rendering on rust servers using the v8 engine for parse and evaluate the JavaScript code...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [gonzazoid/Ultimatum](https://github.com/gonzazoid/Ultimatum)
   > Ultimatum is a chromium fork with webextensions support on Android, anti-detect browser capabilities...
+
+### [pbek](https://github.com/pbek)
+- 🌟 👤 [pbek](https://github.com/pbek) Starred [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients)
+  > Monorepo hosting the proton web clients
 
 ### [peiqiF4ck](https://github.com/peiqiF4ck)
 - 🌟 👤 [peiqiF4ck](https://github.com/peiqiF4ck) Starred [oxfemale/KillChain](https://github.com/oxfemale/KillChain)
@@ -463,6 +489,10 @@
 - 🌟 👤 [shellsec](https://github.com/shellsec) Starred [UniClipboard/UniClipboard](https://github.com/UniClipboard/UniClipboard)
   > Real-time clipboard sync across all your devices — local-first, peer-to-peer, and end-to-end encrypt...
 
+### [smallevilbeast](https://github.com/smallevilbeast)
+- 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [mmulet/term.everything](https://github.com/mmulet/term.everything)
+  > Run any GUI app in the terminal❗
+
 ### [sotasan](https://github.com/sotasan)
 - 🌟 👤 [sotasan](https://github.com/sotasan) Starred [astral-sh/ruff](https://github.com/astral-sh/ruff)
   > An extremely fast Python linter and code formatter, written in Rust.
@@ -486,6 +516,8 @@
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane)
   > 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAg...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [bhavsec/autopentest-ai](https://github.com/bhavsec/autopentest-ai)
+  > Agentic Pentesting MCP server that discovers, exploits, and reports web application vulnerabilities.
 
 ### [thelicato](https://github.com/thelicato)
 - 🌟 👤 [thelicato](https://github.com/thelicato) Starred [LSPosed/LSPlant](https://github.com/LSPosed/LSPlant)
@@ -512,6 +544,9 @@
 ### [wh1te4ever](https://github.com/wh1te4ever)
 - 🌟 👤 [wh1te4ever](https://github.com/wh1te4ever) Starred [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8)
   > An A12/A13 SecureROM exploit
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [m-m-adams/ida_graph_parser](https://github.com/m-m-adams/ida_graph_parser)
 
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [wild-linker/wild](https://github.com/wild-linker/wild) to [wszqkzqk/wild](https://github.com/wszqkzqk/wild)
@@ -555,5 +590,5 @@
 
 
 ---
-*最后更新于 2026-06-18 19:28:11 UTC*
+*最后更新于 2026-06-18 22:08:16 UTC*
 *历史记录保存在 `archive` 目录中。*
