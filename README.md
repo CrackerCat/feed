@@ -8,6 +8,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [williballenthin/idawilli](https://github.com/williballenthin/idawilli)
   > IDA Pro resources, scripts, and configurations
 
+### [16hex-Dumb](https://github.com/16hex-Dumb)
+- 🌟 👤 [16hex-Dumb](https://github.com/16hex-Dumb) Starred [ChiChou/idasvg](https://github.com/ChiChou/idasvg)
+  > IDA Pro plugin for exporting graph view layouts to SVG
+
 ### [7etsuo](https://github.com/7etsuo)
 - 🌟 👤 [7etsuo](https://github.com/7etsuo) Starred [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)
   > macOS video editor built for AI
@@ -93,6 +97,11 @@
 
 ### [PranavPurwar](https://github.com/PranavPurwar)
 - 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [curbox-app/curbox-app.github.io](https://github.com/curbox-app/curbox-app.github.io)
+- 🍴 👤 [PranavPurwar](https://github.com/PranavPurwar) Forked [coderredlab/andClaw](https://github.com/coderredlab/andClaw) to [PranavPurwar/andClaw](https://github.com/PranavPurwar/andClaw)
+
+### [Prslc](https://github.com/Prslc)
+- 🌟 👤 [Prslc](https://github.com/Prslc) Starred [zinja-coder/jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server)
+  > MCP server for JADX-AI Plugin
 
 ### [RimoChan](https://github.com/RimoChan)
 - 🍴 👤 [RimoChan](https://github.com/RimoChan) Forked [peter119lee/ComfyUI-RUM](https://github.com/peter119lee/ComfyUI-RUM) to [RimoChan/ComfyUI-RUM](https://github.com/RimoChan/ComfyUI-RUM)
@@ -111,6 +120,10 @@
   > A GNU screen style terminal multiplexer built on libghostty.
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract)
   > Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs...
+
+### [ThunderCls](https://github.com/ThunderCls)
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop)
+  > Official Nuvio Desktop Repository
 
 ### [WitherOrNot](https://github.com/WitherOrNot)
 - 🌟 👤 [WitherOrNot](https://github.com/WitherOrNot) Starred [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8)
@@ -137,12 +150,27 @@
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [puck-security/geiger](https://github.com/puck-security/geiger)
   > Detection tells you a key is real; geiger tells you whether it's dangerous.
 
+### [apkunpacker](https://github.com/apkunpacker)
+- 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [matteyeux/bonobo-configs](https://github.com/matteyeux/bonobo-configs)
+
 ### [arpruss](https://github.com/arpruss)
 - 🍴 👤 [arpruss](https://github.com/arpruss) Forked [ArminJo/Talkie](https://github.com/ArminJo/Talkie) to [arpruss/Talkie](https://github.com/arpruss/Talkie)
   > Refurbished Arduino version of the Talkie library from Peter Knight.
 
+### [aviraxp](https://github.com/aviraxp)
+- 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
+  > ARM64 ELF Virtual Machine Protection System
+
 ### [banteg](https://github.com/banteg)
 - 🚀 👤 [banteg](https://github.com/banteg) Made [yearn/yeth-manual-recovery-claims](https://github.com/yearn/yeth-manual-recovery-claims) public
+
+### [bet4it](https://github.com/bet4it)
+- 🍴 👤 [bet4it](https://github.com/bet4it) Forked [tyql688/cc-session](https://github.com/tyql688/cc-session) to [bet4it/cc-session](https://github.com/bet4it/cc-session)
+  > Browse, search, resume and manage your AI coding sessions in one desktop app. (Claude Code, Codex,  ...
+
+### [bigsinger](https://github.com/bigsinger)
+- 🌟 👤 [bigsinger](https://github.com/bigsinger) Starred [Generator/Awesome-Android-TV-FOSS-Apps](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps)
+  > A curated list of FOSS Android TV apps
 
 ### [chinleez](https://github.com/chinleez)
 - 🌟 👤 [chinleez](https://github.com/chinleez) Starred [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security)
@@ -207,6 +235,8 @@
 ### [gmh5225](https://github.com/gmh5225)
 - 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair)
   > Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [oxidecomputer/datamap](https://github.com/oxidecomputer/datamap) to [gmh5225/datamap](https://github.com/gmh5225/datamap)
+  > Maps for sparsely-distributed, non-overlapping chunks of dense data
 
 ### [guheng-re](https://github.com/guheng-re)
 - 🍴 👤 [guheng-re](https://github.com/guheng-re) Forked [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) to [guheng-re/ghidra](https://github.com/guheng-re/ghidra)
@@ -328,5 +358,5 @@
 
 
 ---
-*最后更新于 2026-06-19 15:17:40 UTC*
+*最后更新于 2026-06-19 17:57:40 UTC*
 *历史记录保存在 `archive` 目录中。*
