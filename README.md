@@ -33,6 +33,10 @@
 - 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
   > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
+### [Forgo7ten](https://github.com/Forgo7ten)
+- 🍴 👤 [Forgo7ten](https://github.com/Forgo7ten) Forked [SCH-CMYK/game-automation](https://github.com/SCH-CMYK/game-automation) to [Forgo7ten/game-automation](https://github.com/Forgo7ten/game-automation)
+  >  AI 游戏助手 — 洛克王国世界 自动导航 + 采矿工具
+
 ### [H3d9](https://github.com/H3d9)
 - 🌟 👤 [H3d9](https://github.com/H3d9) Starred [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
   > 强大的哔哩哔哩增强脚本
@@ -44,6 +48,10 @@
 ### [KpLi0rn](https://github.com/KpLi0rn)
 - 🌟 👤 [KpLi0rn](https://github.com/KpLi0rn) Starred [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
   > SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can al...
+
+### [LimerBoy](https://github.com/LimerBoy)
+- 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [i-vt/LocalScan](https://github.com/i-vt/LocalScan)
+  > Defender as API for local scans with a web UI.
 
 ### [Lotus6](https://github.com/Lotus6)
 - 🌟 👤 [Lotus6](https://github.com/Lotus6) Starred [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)
@@ -57,6 +65,8 @@
 
 ### [LunFengChen](https://github.com/LunFengChen)
 - 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [gtxx3600/GPTSession2CPAandSub2API](https://github.com/gtxx3600/GPTSession2CPAandSub2API)
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [jiuxina/ushio-md](https://github.com/jiuxina/ushio-md)
+  > Markdown 编辑器, Android Markdown 编辑器, 安卓 Markdown 软件, 手机 Markdown 工具, Ushio MD，Markdown 实时预览, 语法高亮编辑器,...
 
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [modem-dev/hunk](https://github.com/modem-dev/hunk)
@@ -102,8 +112,17 @@
 - 🌟 👤 [fuhei](https://github.com/fuhei) Starred [luolin-ai/Enterprise-WeChat-GPTbot](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot)
   > 基于企微gpt知识库的bot机器人，能够自动回复企业微信中收到的消息。这个机器人能够处理私聊和群聊，还可以记住与用户的聊天内容，从而做出更加贴合上下文的回应。此外，您还可以设置白名单来控制机器人与哪些...
 
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [lvy010/X-Plore](https://github.com/lvy010/X-Plore)
+  > My 2-Year College Notes Hub — Personal Web · 2000+ Blogs · 262 Repos
+
 ### [jiji262](https://github.com/jiji262)
 - 🍴 👤 [jiji262](https://github.com/jiji262) Forked [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) to [jiji262/baoyu-skills](https://github.com/jiji262/baoyu-skills)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [gee1k/uPic](https://github.com/gee1k/uPic)
+  > 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
+
+### [kmiit](https://github.com/kmiit)
+- 🍴 👤 [kmiit](https://github.com/kmiit) Forked [LineageOS/android_device_oneplus_sm8750-common](https://github.com/LineageOS/android_device_oneplus_sm8750-common) to [kmiit/android_device_oneplus_sm8750-common](https://github.com/kmiit/android_device_oneplus_sm8750-common)
 
 ### [laozig](https://github.com/laozig)
 - 🌟 👤 [laozig](https://github.com/laozig) Starred [vvb2060/Ims](https://github.com/vvb2060/Ims)
@@ -115,6 +134,10 @@
 ### [mistrmochov](https://github.com/mistrmochov)
 - 🌟 👤 [mistrmochov](https://github.com/mistrmochov) Starred [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)
   > DataBackup for Android 7.0+
+
+### [moonD4rk](https://github.com/moonD4rk)
+- 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [google/boringssl](https://github.com/google/boringssl)
+  > Mirror of BoringSSL
 
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [deleteFAILunknown/usbFlash](https://github.com/deleteFAILunknown/usbFlash)
@@ -144,11 +167,15 @@
 - 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) to [xiaolai/Research-Paper-Writing-Skills](https://github.com/xiaolai/Research-Paper-Writing-Skills)
   > Skill package for ML/CV/NLP paper writing, curated and adapted from Prof. Peng Sida's open notes for...
 
+### [xunchahaha](https://github.com/xunchahaha)
+- 🌟 👤 [xunchahaha](https://github.com/xunchahaha) Starred [chenhuilin2/chaoxing-work-parser](https://github.com/chenhuilin2/chaoxing-work-parser)
+  > 这个脚本可以让你不用再手动复制粘贴超星学习通的题目。只需在脚本猫插件中新建脚本，把代码复制上去，就可以一键提取学习通作业题目并导出 Word 试卷（.docx），方便进行期末复习。
+
 ### [zer0def](https://github.com/zer0def)
 - 🌟 👤 [zer0def](https://github.com/zer0def) Starred [H43TO/PMIC-Config-Editor](https://github.com/H43TO/PMIC-Config-Editor)
   > Helps you parse and edit DDR5 PMIC dumps
 
 
 ---
-*最后更新于 2026-06-20 14:04:07 UTC*
+*最后更新于 2026-06-20 16:18:31 UTC*
 *历史记录保存在 `archive` 目录中。*
