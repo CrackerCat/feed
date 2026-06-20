@@ -19,6 +19,10 @@
 ### [Brucetg](https://github.com/Brucetg)
 - 🚀 👤 [Brucetg](https://github.com/Brucetg) Made [Brucetg/ai-agent-wallet](https://github.com/Brucetg/ai-agent-wallet) public
 
+### [FeeiCN](https://github.com/FeeiCN)
+- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+  > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
 ### [H3d9](https://github.com/H3d9)
 - 🌟 👤 [H3d9](https://github.com/H3d9) Starred [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
   > 强大的哔哩哔哩增强脚本
@@ -26,6 +30,16 @@
 ### [KpLi0rn](https://github.com/KpLi0rn)
 - 🌟 👤 [KpLi0rn](https://github.com/KpLi0rn) Starred [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
   > SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can al...
+
+### [Lotus6](https://github.com/Lotus6)
+- 🌟 👤 [Lotus6](https://github.com/Lotus6) Starred [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)
+  > Standalone implementation of Zygisk
+- 🌟 👤 [Lotus6](https://github.com/Lotus6) Starred [JingMatrix/Vector](https://github.com/JingMatrix/Vector)
+  > Modern Xposed Framework
+- 🌟 👤 [Lotus6](https://github.com/Lotus6) Starred [Xposed-Modules-Repo/com.tsng.hidemyapplist](https://github.com/Xposed-Modules-Repo/com.tsng.hidemyapplist)
+  > 隐藏应用列表 / Hide My Applist
+- 🌟 👤 [Lotus6](https://github.com/Lotus6) Starred [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist)
+  > An Xposed module to intercept applist detections
 
 ### [LunFengChen](https://github.com/LunFengChen)
 - 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [gtxx3600/GPTSession2CPAandSub2API](https://github.com/gtxx3600/GPTSession2CPAandSub2API)
@@ -37,6 +51,8 @@
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🍴 👤 [SodaMilk233](https://github.com/SodaMilk233) Forked [cinit/LibcoreSyscall](https://github.com/cinit/LibcoreSyscall) to [SodaMilk233/LibcoreSyscall](https://github.com/SodaMilk233/LibcoreSyscall)
   > A library for loading ELF from memory and/or making Linux syscalls on Android written in pure Java.
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [LING71671/Open-ClaudeCode](https://github.com/LING71671/Open-ClaudeCode)
+  > ClaudeCode related repository
 
 ### [TGSAN](https://github.com/TGSAN)
 - 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
@@ -45,6 +61,10 @@
 ### [TideSec](https://github.com/TideSec)
 - 🌟 👤 [TideSec](https://github.com/TideSec) Starred [wgpsec/hunxiang](https://github.com/wgpsec/hunxiang)
   > 浑象 AI agent CTF 靶场竞赛平台
+
+### [banteg](https://github.com/banteg)
+- 🌟 👤 [banteg](https://github.com/banteg) Starred [GhostlyDark/MM-Reloaded-2S2H](https://github.com/GhostlyDark/MM-Reloaded-2S2H)
+  > Majora's Mask UHD texture pack for 2 Ship 2 Harkinian
 
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [golang/sys](https://github.com/golang/sys) to [chenxiaolong/golang-x-sys](https://github.com/chenxiaolong/golang-x-sys)
@@ -74,6 +94,10 @@
 - 🌟 👤 [neil-wu](https://github.com/neil-wu) Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
   > #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno)
+  > Apple Silicon device emulator.
+
 ### [winmt](https://github.com/winmt)
 - 🌟 👤 [winmt](https://github.com/winmt) Starred [Waishnav/devspace](https://github.com/Waishnav/devspace)
   > Turn ChatGPT into Codex
@@ -88,5 +112,5 @@
 
 
 ---
-*最后更新于 2026-06-20 08:56:34 UTC*
+*最后更新于 2026-06-20 11:20:29 UTC*
 *历史记录保存在 `archive` 目录中。*
