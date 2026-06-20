@@ -108,6 +108,10 @@
 - 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [cornucopia-rs/cornucopia](https://github.com/cornucopia-rs/cornucopia)
   > Generate type-checked Rust from your PostgreSQL.
 
+### [feixiao](https://github.com/feixiao)
+- 🌟 👤 [feixiao](https://github.com/feixiao) Starred [bensema/gotdx](https://github.com/bensema/gotdx)
+  > 通达信行情API协议解析
+
 ### [fuhei](https://github.com/fuhei)
 - 🌟 👤 [fuhei](https://github.com/fuhei) Starred [luolin-ai/Enterprise-WeChat-GPTbot](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot)
   > 基于企微gpt知识库的bot机器人，能够自动回复企业微信中收到的消息。这个机器人能够处理私聊和群聊，还可以记住与用户的聊天内容，从而做出更加贴合上下文的回应。此外，您还可以设置白名单来控制机器人与哪些...
@@ -175,7 +179,11 @@
 - 🌟 👤 [zer0def](https://github.com/zer0def) Starred [H43TO/PMIC-Config-Editor](https://github.com/H43TO/PMIC-Config-Editor)
   > Helps you parse and edit DDR5 PMIC dumps
 
+### [zhaoboy9692](https://github.com/zhaoboy9692)
+- 🚀 👤 [zhaoboy9692](https://github.com/zhaoboy9692) Made [zhaoboy9692/aizx-graph](https://github.com/zhaoboy9692/aizx-graph) public
+  > AI智选题材图谱 - 数据抓取/可视化/自动刷新
+
 
 ---
-*最后更新于 2026-06-20 16:18:31 UTC*
+*最后更新于 2026-06-20 18:11:44 UTC*
 *历史记录保存在 `archive` 目录中。*
