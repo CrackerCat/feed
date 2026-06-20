@@ -116,6 +116,10 @@
 - 🌟 👤 [fuhei](https://github.com/fuhei) Starred [luolin-ai/Enterprise-WeChat-GPTbot](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot)
   > 基于企微gpt知识库的bot机器人，能够自动回复企业微信中收到的消息。这个机器人能够处理私聊和群聊，还可以记住与用户的聊天内容，从而做出更加贴合上下文的回应。此外，您还可以设置白名单来控制机器人与哪些...
 
+### [gmh5225](https://github.com/gmh5225)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [dvidelabs/flatcc](https://github.com/dvidelabs/flatcc) to [gmh5225/flatcc](https://github.com/gmh5225/flatcc)
+  > FlatBuffers Compiler and Library in C for C
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [lvy010/X-Plore](https://github.com/lvy010/X-Plore)
   > My 2-Year College Notes Hub — Personal Web · 2000+ Blogs · 262 Repos
@@ -130,6 +134,10 @@
 
 ### [laozig](https://github.com/laozig)
 - 🌟 👤 [laozig](https://github.com/laozig) Starred [vvb2060/Ims](https://github.com/vvb2060/Ims)
+
+### [lyming99](https://github.com/lyming99)
+- 🌟 👤 [lyming99](https://github.com/lyming99) Starred [modelscope/FunASR](https://github.com/modelscope/FunASR)
+  > Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emot...
 
 ### [mcxiaoke](https://github.com/mcxiaoke)
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
@@ -170,10 +178,16 @@
 ### [xiaolai](https://github.com/xiaolai)
 - 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) to [xiaolai/Research-Paper-Writing-Skills](https://github.com/xiaolai/Research-Paper-Writing-Skills)
   > Skill package for ML/CV/NLP paper writing, curated and adapted from Prof. Peng Sida's open notes for...
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [YishenTu/claudian](https://github.com/YishenTu/claudian) to [xiaolai/claudian](https://github.com/xiaolai/claudian)
+  > An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
 
 ### [xunchahaha](https://github.com/xunchahaha)
 - 🌟 👤 [xunchahaha](https://github.com/xunchahaha) Starred [chenhuilin2/chaoxing-work-parser](https://github.com/chenhuilin2/chaoxing-work-parser)
   > 这个脚本可以让你不用再手动复制粘贴超星学习通的题目。只需在脚本猫插件中新建脚本，把代码复制上去，就可以一键提取学习通作业题目并导出 Word 试卷（.docx），方便进行期末复习。
+
+### [yanyaoli](https://github.com/yanyaoli)
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [William-Liwei/APCL](https://github.com/William-Liwei/APCL)
+  > Adaptive Prototypical Contrastive Learning for Time Series Clustering (KDD 2026)
 
 ### [zer0def](https://github.com/zer0def)
 - 🌟 👤 [zer0def](https://github.com/zer0def) Starred [H43TO/PMIC-Config-Editor](https://github.com/H43TO/PMIC-Config-Editor)
@@ -185,5 +199,5 @@
 
 
 ---
-*最后更新于 2026-06-20 18:11:44 UTC*
+*最后更新于 2026-06-20 20:14:30 UTC*
 *历史记录保存在 `archive` 目录中。*
