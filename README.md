@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [AYssu](https://github.com/AYssu)
+- 🌟 👤 [AYssu](https://github.com/AYssu) Starred [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)
+  > MiMo Code: Where Models and Agents Co-Evolve
+- 🍴 👤 [AYssu](https://github.com/AYssu) Forked [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) to [AYssu/MiMo-Code](https://github.com/AYssu/MiMo-Code)
+  > MiMo Code: Where Models and Agents Co-Evolve
+
 ### [AabyssZG](https://github.com/AabyssZG)
 - 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [0xflux/Hells-Hollow](https://github.com/0xflux/Hells-Hollow)
   > Hells Hollow Windows 11 Rootkit technique to Hook the SSDT via Alt Syscalls
@@ -19,6 +25,10 @@
 ### [Brucetg](https://github.com/Brucetg)
 - 🚀 👤 [Brucetg](https://github.com/Brucetg) Made [Brucetg/ai-agent-wallet](https://github.com/Brucetg/ai-agent-wallet) public
 
+### [Exo1i](https://github.com/Exo1i)
+- 🌟 👤 [Exo1i](https://github.com/Exo1i) Starred [huggingface/trl](https://github.com/huggingface/trl)
+  > Train transformer language models with reinforcement learning.
+
 ### [FeeiCN](https://github.com/FeeiCN)
 - 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
   > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
@@ -26,6 +36,10 @@
 ### [H3d9](https://github.com/H3d9)
 - 🌟 👤 [H3d9](https://github.com/H3d9) Starred [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
   > 强大的哔哩哔哩增强脚本
+
+### [J5now](https://github.com/J5now)
+- 🌟 👤 [J5now](https://github.com/J5now) Starred [Monoceros406/WinKerDevBook1](https://github.com/Monoceros406/WinKerDevBook1)
+  > Windows 系统安全：内核驱动开发
 
 ### [KpLi0rn](https://github.com/KpLi0rn)
 - 🌟 👤 [KpLi0rn](https://github.com/KpLi0rn) Starred [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
@@ -53,6 +67,8 @@
   > A library for loading ELF from memory and/or making Linux syscalls on Android written in pure Java.
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [LING71671/Open-ClaudeCode](https://github.com/LING71671/Open-ClaudeCode)
   > ClaudeCode related repository
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+  > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
 ### [TGSAN](https://github.com/TGSAN)
 - 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
@@ -65,6 +81,8 @@
 ### [banteg](https://github.com/banteg)
 - 🌟 👤 [banteg](https://github.com/banteg) Starred [GhostlyDark/MM-Reloaded-2S2H](https://github.com/GhostlyDark/MM-Reloaded-2S2H)
   > Majora's Mask UHD texture pack for 2 Ship 2 Harkinian
+- 🌟 👤 [banteg](https://github.com/banteg) Starred [rt64/rt64](https://github.com/rt64/rt64)
+  > RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.
 
 ### [chenxiaolong](https://github.com/chenxiaolong)
 - 🍴 👤 [chenxiaolong](https://github.com/chenxiaolong) Forked [golang/sys](https://github.com/golang/sys) to [chenxiaolong/golang-x-sys](https://github.com/chenxiaolong/golang-x-sys)
@@ -75,6 +93,10 @@
   > 一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [Schira4396/VcenterKiller](https://github.com/Schira4396/VcenterKiller)
   > 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、C...
+
+### [darkskygit](https://github.com/darkskygit)
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [cornucopia-rs/cornucopia](https://github.com/cornucopia-rs/cornucopia)
+  > Generate type-checked Rust from your PostgreSQL.
 
 ### [fuhei](https://github.com/fuhei)
 - 🌟 👤 [fuhei](https://github.com/fuhei) Starred [luolin-ai/Enterprise-WeChat-GPTbot](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot)
@@ -90,13 +112,29 @@
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
+### [mistrmochov](https://github.com/mistrmochov)
+- 🌟 👤 [mistrmochov](https://github.com/mistrmochov) Starred [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)
+  > DataBackup for Android 7.0+
+
+### [natsumerinchan](https://github.com/natsumerinchan)
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [deleteFAILunknown/usbFlash](https://github.com/deleteFAILunknown/usbFlash)
+  > Android USB Host mode, Wi-Fi Debug mode, Fastboot mode, ADB mode
+
 ### [neil-wu](https://github.com/neil-wu)
 - 🌟 👤 [neil-wu](https://github.com/neil-wu) Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
   > #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
+### [sotasan](https://github.com/sotasan)
+- 🌟 👤 [sotasan](https://github.com/sotasan) Starred [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)
+  > macOS video editor built for AI
+
 ### [waruqi](https://github.com/waruqi)
 - 🌟 👤 [waruqi](https://github.com/waruqi) Starred [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno)
   > Apple Silicon device emulator.
+
+### [wbaby](https://github.com/wbaby)
+- 🍴 👤 [wbaby](https://github.com/wbaby) Forked [go-gost/x](https://github.com/go-gost/x) to [wbaby/x](https://github.com/wbaby/x)
+  > Extended (may be experimental) features outside the main gost tree.
 
 ### [winmt](https://github.com/winmt)
 - 🌟 👤 [winmt](https://github.com/winmt) Starred [Waishnav/devspace](https://github.com/Waishnav/devspace)
@@ -112,5 +150,5 @@
 
 
 ---
-*最后更新于 2026-06-20 11:20:29 UTC*
+*最后更新于 2026-06-20 14:04:07 UTC*
 *历史记录保存在 `archive` 目录中。*
