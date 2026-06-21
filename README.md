@@ -26,6 +26,10 @@
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Mr-xn/nuclei-template-creator](https://github.com/Mr-xn/nuclei-template-creator)
   > create nuclei template skills for agent
 
+### [NotRequiem](https://github.com/NotRequiem)
+- 🌟 👤 [NotRequiem](https://github.com/NotRequiem) Starred [MarcelDev/vmaware-rs](https://github.com/MarcelDev/vmaware-rs)
+  > Rust bindings for VMAware, a cross-platform library for VM detection
+
 ### [P001water](https://github.com/P001water)
 - 🌟 👤 [P001water](https://github.com/P001water) Starred [TheWover/donut](https://github.com/TheWover/donut)
   > Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files...
@@ -68,12 +72,16 @@
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [Waishnav/devspace](https://github.com/Waishnav/devspace)
-  > Turn ChatGPT into Codex
+  > Turn ChatGPT into Codex and enjoy 2x rate limits :)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [zhx47/anyrouter](https://github.com/zhx47/anyrouter)
 
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [xremap/xremap](https://github.com/xremap/xremap)
   > Key remapper for X11 and Wayland
+
+### [kernelwernel](https://github.com/kernelwernel)
+- 🌟 👤 [kernelwernel](https://github.com/kernelwernel) Starred [MarcelDev/vmaware-rs](https://github.com/MarcelDev/vmaware-rs)
+  > Rust bindings for VMAware, a cross-platform library for VM detection
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [localai-org/privacy-filter.cpp](https://github.com/localai-org/privacy-filter.cpp)
@@ -90,9 +98,29 @@
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [0xHossam/UNCagedSandbox](https://github.com/0xHossam/UNCagedSandbox) to [killvxk/UNCagedSandbox](https://github.com/killvxk/UNCagedSandbox)
   > Research on a new PoC for a Windows Sandbox .wsb HostFolder UNC path primitive that causes the host ...
 
+### [kingking888](https://github.com/kingking888)
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [zhizhuodemao/miniapp-cdp-mcp](https://github.com/zhizhuodemao/miniapp-cdp-mcp)
+  > 微信小程序逆向工程 MCP 服务器，让你的 AI 编码助手（如 Claude、Cursor、Antigravity）能够直接通过 Chrome DevTools Protocol (CDP) 调试和分...
+
+### [lightsummer233](https://github.com/lightsummer233)
+- 🍴 👤 [lightsummer233](https://github.com/lightsummer233) Forked [alexzhirkevich/compottie](https://github.com/alexzhirkevich/compottie) to [lightsummer233/Compottie](https://github.com/lightsummer233/Compottie)
+  > Compose Multiplatform library for rendering Lottie animations with custom pure Kotlin renderer
+
+### [linxid](https://github.com/linxid)
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [mattermost/mattermost](https://github.com/mattermost/mattermost)
+  > Mattermost is an open source platform for secure collaboration across the entire software developmen...
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [dtyq/magic](https://github.com/dtyq/magic)
+  > Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow ...
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [dtyq/super-magic](https://github.com/dtyq/super-magic)
+  > This is sub-moudle, see: https://github.com/dtyq/magic for more.
+
 ### [nblog](https://github.com/nblog)
 - 🌟 👤 [nblog](https://github.com/nblog) Starred [zer0condition/Ophion](https://github.com/zer0condition/Ophion)
   > Stealth-focused Intel VT-x hypervisor (EAC/BE/ACs/AVs).
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Koustubh12345/TenSei-Upscale-image](https://github.com/Koustubh12345/TenSei-Upscale-image)
+  > A sleek, intuitive Android application for upscaling and enhancing image quality locally on your dev...
 
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [dfaerch/bubblewrap-on-ubuntu](https://github.com/dfaerch/bubblewrap-on-ubuntu)
@@ -106,6 +134,14 @@
 - 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [luolangaga/tubatools](https://github.com/luolangaga/tubatools)
   > 图吧工具箱 winUI3 版
 
+### [x7dbg](https://github.com/x7dbg)
+- 🍴 👤 [x7dbg](https://github.com/x7dbg) Forked [wdhq4261761/autodoor_behavior_tree](https://github.com/wdhq4261761/autodoor_behavior_tree) to [x7dbg/autodoor_behavior_tree](https://github.com/x7dbg/autodoor_behavior_tree)
+  > autodoor自动化工具-行为树分支：行为树是一种可视化的自动化流程设计工具。通过拖拽节点并连接它们，您可以创建复杂的自动化任务
+
+### [xingguangcuican6666](https://github.com/xingguangcuican6666)
+- 🍴 👤 [xingguangcuican6666](https://github.com/xingguangcuican6666) Forked [minamo817/geminifandai](https://github.com/minamo817/geminifandai) to [xingguangcuican6666/geminifandai](https://github.com/xingguangcuican6666/geminifandai)
+  > 这是一个基于 FastAPI 构建的 Gemini API 代理
+
 ### [zer0def](https://github.com/zer0def)
 - 🌟 👤 [zer0def](https://github.com/zer0def) Starred [CrazyCritic89/SteamHapticsSinger](https://github.com/CrazyCritic89/SteamHapticsSinger)
   > This project is a fork of SteamControllerSinger which aims to be a successor. 
@@ -118,5 +154,5 @@
 
 
 ---
-*最后更新于 2026-06-21 13:05:35 UTC*
+*最后更新于 2026-06-21 15:50:59 UTC*
 *历史记录保存在 `archive` 目录中。*
