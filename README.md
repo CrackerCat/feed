@@ -63,15 +63,30 @@
 - 🌟 👤 [ejpir](https://github.com/ejpir) Starred [DatanoiseTV/ember-hackernews](https://github.com/DatanoiseTV/ember-hackernews)
   > Ember — a native, accessible Hacker News reader for iOS, built in SwiftUI with no third-party depend...
 
+### [elllusion](https://github.com/elllusion)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [Oabraham1/wave](https://github.com/Oabraham1/wave)
+  > WAVE (Wide Architecture Virtual Encoding) - The universal GPU ISA. Write GPU kernels once, run on Ap...
+
+### [fxb-cocacoding](https://github.com/fxb-cocacoding)
+- 🚀 👤 [fxb-cocacoding](https://github.com/fxb-cocacoding) Made [fxb-cocacoding/agentic-apihashing-resolver](https://github.com/fxb-cocacoding/agentic-apihashing-resolver) public
+  > Framework for API Hash Resolving for Agentic Workflows
+
 ### [ghhccghk](https://github.com/ghhccghk)
 - 🍴 👤 [ghhccghk](https://github.com/ghhccghk) Forked [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) to [ghhccghk/NeriPlayer](https://github.com/ghhccghk/NeriPlayer)
   > A unified Android player for streaming music and videos from multiple online platforms. / ✨ 简易多平台音视频...
+
+### [gmh5225](https://github.com/gmh5225)
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [juanfont/headscale](https://github.com/juanfont/headscale)
+  > An open source, self-hosted implementation of the Tailscale control server
 
 ### [h0li3](https://github.com/h0li3)
 - 🌟 👤 [h0li3](https://github.com/h0li3) Starred [MazX0p/LACUNA-Chain](https://github.com/MazX0p/LACUNA-Chain)
   >   Six-layer call-stack spoofing via .pdata lacunae — defeats ETW-Ti, kernel callbacks, CET shadow st...
 - 🍴 👤 [h0li3](https://github.com/h0li3) Forked [MazX0p/LACUNA-Chain](https://github.com/MazX0p/LACUNA-Chain) to [h0li3/LACUNA-Chain](https://github.com/h0li3/LACUNA-Chain)
   >   Six-layer call-stack spoofing via .pdata lacunae — defeats ETW-Ti, kernel callbacks, CET shadow st...
+
+### [heroims](https://github.com/heroims)
+- 🚀 👤 [heroims](https://github.com/heroims) Made [heroims/resume](https://github.com/heroims/resume) public
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [Waishnav/devspace](https://github.com/Waishnav/devspace)
@@ -131,6 +146,10 @@
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [Koustubh12345/TenSei-Upscale-image](https://github.com/Koustubh12345/TenSei-Upscale-image)
   > A sleek, intuitive Android application for upscaling and enhancing image quality locally on your dev...
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [fdjftmczxh/IL2CPP-Dumper](https://github.com/fdjftmczxh/IL2CPP-Dumper)
+  > signature scanning based il2cpp dumper for android
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+  > 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ ...
 
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [dfaerch/bubblewrap-on-ubuntu](https://github.com/dfaerch/bubblewrap-on-ubuntu)
@@ -166,11 +185,15 @@
 - 🌟 👤 [zer0def](https://github.com/zer0def) Starred [Roboron3042/SteamControllerSinger](https://github.com/Roboron3042/SteamControllerSinger)
   > This project is a fork of Pila's Steam Controller Singer, including a dirty fix to make the Steam Co...
 
+### [zer4tul](https://github.com/zer4tul)
+- 🌟 👤 [zer4tul](https://github.com/zer4tul) Starred [umacloud/umadev](https://github.com/umacloud/umadev)
+  > AI 编码项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode,套上 9 阶段可治理的商业级交付流水线。 AI coding project-direct...
+
 ### [zhanghai](https://github.com/zhanghai)
 - 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [PaienNate/Narcissuweb](https://github.com/PaienNate/Narcissuweb)
   > An AVG game.
 
 
 ---
-*最后更新于 2026-06-21 17:27:46 UTC*
+*最后更新于 2026-06-21 19:41:12 UTC*
 *历史记录保存在 `archive` 目录中。*
