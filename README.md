@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [0xTalShang](https://github.com/0xTalShang)
+- 🌟 👤 [0xTalShang](https://github.com/0xTalShang) Starred [jianqiaojia/windbg-mcp](https://github.com/jianqiaojia/windbg-mcp)
+
 ### [1998lixin](https://github.com/1998lixin)
 - 🌟 👤 [1998lixin](https://github.com/1998lixin) Starred [cocos/cocos-engine](https://github.com/cocos/cocos-engine)
   > Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platf...
@@ -101,6 +104,9 @@
 ### [kingking888](https://github.com/kingking888)
 - 🌟 👤 [kingking888](https://github.com/kingking888) Starred [zhizhuodemao/miniapp-cdp-mcp](https://github.com/zhizhuodemao/miniapp-cdp-mcp)
   > 微信小程序逆向工程 MCP 服务器，让你的 AI 编码助手（如 Claude、Cursor、Antigravity）能够直接通过 Chrome DevTools Protocol (CDP) 调试和分...
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [abshare/abshare.github.io](https://github.com/abshare/abshare.github.io)
+  > 每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点...
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [Arsylk/gosofix](https://github.com/Arsylk/gosofix)
 
 ### [lightsummer233](https://github.com/lightsummer233)
 - 🍴 👤 [lightsummer233](https://github.com/lightsummer233) Forked [alexzhirkevich/compottie](https://github.com/alexzhirkevich/compottie) to [lightsummer233/Compottie](https://github.com/lightsummer233/Compottie)
@@ -114,6 +120,10 @@
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [dtyq/super-magic](https://github.com/dtyq/super-magic)
   > This is sub-moudle, see: https://github.com/dtyq/magic for more.
 
+### [meowette](https://github.com/meowette)
+- 🌟 👤 [meowette](https://github.com/meowette) Starred [cursey/safetyhook](https://github.com/cursey/safetyhook)
+  > C++23 procedure hooking library.
+
 ### [nblog](https://github.com/nblog)
 - 🌟 👤 [nblog](https://github.com/nblog) Starred [zer0condition/Ophion](https://github.com/zer0condition/Ophion)
   > Stealth-focused Intel VT-x hypervisor (EAC/BE/ACs/AVs).
@@ -126,9 +136,17 @@
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [dfaerch/bubblewrap-on-ubuntu](https://github.com/dfaerch/bubblewrap-on-ubuntu)
   > Notes about how to get bubblewrap sandboxing to work reliably on Ubuntu
 
+### [re-zero001](https://github.com/re-zero001)
+- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
+  > LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MO...
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [skywind3000/kcp](https://github.com/skywind3000/kcp)
   > :zap: KCP - A Fast and Reliable ARQ Protocol
+
+### [topcoco](https://github.com/topcoco)
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [rust-vmm/community](https://github.com/rust-vmm/community)
+  > rust-vmm community content
 
 ### [wxxsfxyzm](https://github.com/wxxsfxyzm)
 - 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [luolangaga/tubatools](https://github.com/luolangaga/tubatools)
@@ -154,5 +172,5 @@
 
 
 ---
-*最后更新于 2026-06-21 15:50:59 UTC*
+*最后更新于 2026-06-21 17:27:46 UTC*
 *历史记录保存在 `archive` 目录中。*
