@@ -88,6 +88,10 @@
 - 🌟 👤 [TideSec](https://github.com/TideSec) Starred [wgpsec/hunxiang](https://github.com/wgpsec/hunxiang)
   > 浑象 AI agent CTF 靶场竞赛平台
 
+### [abdihaikal](https://github.com/abdihaikal)
+- 🌟 👤 [abdihaikal](https://github.com/abdihaikal) Starred [ChaoYue0307/awesome-loop-engineering](https://github.com/ChaoYue0307/awesome-loop-engineering)
+  > Curated resources and practical patterns for Loop Engineering with AI and coding agents
+
 ### [banteg](https://github.com/banteg)
 - 🌟 👤 [banteg](https://github.com/banteg) Starred [GhostlyDark/MM-Reloaded-2S2H](https://github.com/GhostlyDark/MM-Reloaded-2S2H)
   > Majora's Mask UHD texture pack for 2 Ship 2 Harkinian
@@ -120,6 +124,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [dvidelabs/flatcc](https://github.com/dvidelabs/flatcc) to [gmh5225/flatcc](https://github.com/gmh5225/flatcc)
   > FlatBuffers Compiler and Library in C for C
 
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)
+  > macOS video editor built for AI
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [lvy010/X-Plore](https://github.com/lvy010/X-Plore)
   > My 2-Year College Notes Hub — Personal Web · 2000+ Blogs · 262 Repos
@@ -131,6 +139,10 @@
 
 ### [kmiit](https://github.com/kmiit)
 - 🍴 👤 [kmiit](https://github.com/kmiit) Forked [LineageOS/android_device_oneplus_sm8750-common](https://github.com/LineageOS/android_device_oneplus_sm8750-common) to [kmiit/android_device_oneplus_sm8750-common](https://github.com/kmiit/android_device_oneplus_sm8750-common)
+
+### [kurogai](https://github.com/kurogai)
+- 🌟 👤 [kurogai](https://github.com/kurogai) Starred [r3motecontrol/Ghostpack-CompiledBinaries](https://github.com/r3motecontrol/Ghostpack-CompiledBinaries)
+  > Compiled Binaries for Ghostpack
 
 ### [laozig](https://github.com/laozig)
 - 🌟 👤 [laozig](https://github.com/laozig) Starred [vvb2060/Ims](https://github.com/vvb2060/Ims)
@@ -158,6 +170,14 @@
 ### [neil-wu](https://github.com/neil-wu)
 - 🌟 👤 [neil-wu](https://github.com/neil-wu) Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
   > #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [JohannaWeb/Aurora](https://github.com/JohannaWeb/Aurora)
+  > Browser Engine in Rust . Not Servo
+
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [miunasu/ShadowScheduler](https://github.com/miunasu/ShadowScheduler)
+  > PoC for covert persistence via Windows Push Task Scheduler (WPTaskScheduler) RPC interface — invisib...
 
 ### [sotasan](https://github.com/sotasan)
 - 🌟 👤 [sotasan](https://github.com/sotasan) Starred [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)
@@ -199,5 +219,5 @@
 
 
 ---
-*最后更新于 2026-06-20 20:14:30 UTC*
+*最后更新于 2026-06-20 22:06:45 UTC*
 *历史记录保存在 `archive` 目录中。*
