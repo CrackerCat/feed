@@ -26,6 +26,10 @@
 - 🌟 👤 [1orz](https://github.com/1orz) Starred [vadimgrn/usbip-win2](https://github.com/vadimgrn/usbip-win2)
   > USB/IP Client for Windows
 
+### [Aar0n3906](https://github.com/Aar0n3906)
+- 🌟 👤 [Aar0n3906](https://github.com/Aar0n3906) Starred [fuqiuluo/binder-trace](https://github.com/fuqiuluo/binder-trace)
+  > 🍂 Android Binder 调用观测工具, 基于内核采集 Binder transaction实现!
+
 ### [AbhiTheModder](https://github.com/AbhiTheModder)
 - 🌟 👤 [AbhiTheModder](https://github.com/AbhiTheModder) Starred [jdx/aube](https://github.com/jdx/aube)
   > A fast Node.js package manager
@@ -34,7 +38,7 @@
 - 🌟 👤 [Chordp](https://github.com/Chordp) Starred [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)
   > macOS video editor built for AI
 - 🌟 👤 [Chordp](https://github.com/Chordp) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
-  > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
+  > 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2...
 - 🌟 👤 [Chordp](https://github.com/Chordp) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
   > The API to search, scrape, and interact with the web at scale. 🔥
 
@@ -71,12 +75,6 @@
 ### [FANGG3](https://github.com/FANGG3)
 - 🍴 👤 [FANGG3](https://github.com/FANGG3) Forked [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker) to [FANGG3/ptehooker](https://github.com/FANGG3/ptehooker)
 
-### [FeeiCN](https://github.com/FeeiCN)
-- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui)
-  > Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI...
-- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)
-  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
-
 ### [Hzllaga](https://github.com/Hzllaga)
 - 🌟 👤 [Hzllaga](https://github.com/Hzllaga) Starred [ozguralp/gmapsapiscanner](https://github.com/ozguralp/gmapsapiscanner)
 
@@ -85,6 +83,8 @@
   > An Open Source implementation of Notebook LM with more flexibility and features
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
   > A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirr...
+- 🌟 👤 [KingJA](https://github.com/KingJA) Starred [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+  > 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [bergside/typeui](https://github.com/bergside/typeui)
   > Build better UI with AI
 
@@ -108,6 +108,8 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [luogu-dev/judge-env](https://github.com/luogu-dev/judge-env)
 
 ### [Silentsoul04](https://github.com/Silentsoul04)
+- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
+  > The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C,  Python, Bun a...
 - 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) to [Silentsoul04/fff](https://github.com/Silentsoul04/fff)
   > The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C,  Python, Bun a...
 
@@ -119,6 +121,10 @@
 - 🌟 👤 [ThomasThelen](https://github.com/ThomasThelen) Starred [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)
   > An open source re-implementation of RollerCoaster Tycoon 2 🎢
 
+### [Vancir](https://github.com/Vancir)
+- 🌟 👤 [Vancir](https://github.com/Vancir) Starred [bradAGI/awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents)
+  > Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Cover...
+
 ### [apkunpacker](https://github.com/apkunpacker)
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [Leeksov/usbliter8-txm-patchfinder](https://github.com/Leeksov/usbliter8-txm-patchfinder)
   > TXM (Trust eXecution Monitor) patchfinder for iOS 27 A13+ devices. Bypasses code signing, trustcache...
@@ -126,6 +132,8 @@
   > SPTM (Secure Page Table Monitor) patchfinder for iOS 26-27. Bypasses CTRR lockdown, CPU register loc...
 
 ### [ba0gu0](https://github.com/ba0gu0)
+- 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [xiaoguyu/wechatDownload](https://github.com/xiaoguyu/wechatDownload)
+  > 微信公号文章下载工具
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [HQarroum/docker-android](https://github.com/HQarroum/docker-android)
   > 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 
@@ -158,16 +166,20 @@
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
 ### [g0th1c54e4](https://github.com/g0th1c54e4)
-- 🌟 👤 [g0th1c54e4](https://github.com/g0th1c54e4) Starred [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp)
-  > Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trust...
+- 🌟 👤 [g0th1c54e4](https://github.com/g0th1c54e4) Starred [MicrosoftDocs/windows-driver-docs-ddi](https://github.com/MicrosoftDocs/windows-driver-docs-ddi)
+  > The official Windows Driver Kit DDI reference documentation sources
 
 ### [gal2xy](https://github.com/gal2xy)
 - 🌟 👤 [gal2xy](https://github.com/gal2xy) Starred [HexHive/retrowrite](https://github.com/HexHive/retrowrite)
   > RetroWrite --  Retrofitting compiler passes through binary rewriting
 
+### [ggggmllll](https://github.com/ggggmllll)
+- 🌟 👤 [ggggmllll](https://github.com/ggggmllll) Starred [xcellerator/linux_kernel_hacking](https://github.com/xcellerator/linux_kernel_hacking)
+  > Linux Kernel Hacking
+
 ### [gh0stkey](https://github.com/gh0stkey)
-- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
-  > Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, s...
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [stablyai/orca](https://github.com/stablyai/orca)
+  > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
 
 ### [h3h3qaq](https://github.com/h3h3qaq)
 - 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store)
@@ -197,10 +209,6 @@
 - 🌟 👤 [jweny](https://github.com/jweny) Starred [pacemrc/VulDebug](https://github.com/pacemrc/VulDebug)
   > Java漏洞调试分析集合
 
-### [keatonLiu](https://github.com/keatonLiu)
-- 🍴 👤 [keatonLiu](https://github.com/keatonLiu) Forked [tiann/KernelSU](https://github.com/tiann/KernelSU) to [keatonLiu/KernelSU](https://github.com/keatonLiu/KernelSU)
-  > A Kernel based root solution for Android
-
 ### [lasting-yang](https://github.com/lasting-yang)
 - 🍴 👤 [lasting-yang](https://github.com/lasting-yang) Forked [QBDI/QBDI](https://github.com/QBDI/QBDI) to [lasting-yang/QBDI](https://github.com/lasting-yang/QBDI)
   > A Dynamic Binary Instrumentation framework based on LLVM.
@@ -228,6 +236,10 @@
 - 🌟 👤 [mr-bogey](https://github.com/mr-bogey) Starred [zhouchentao666/Fluent-Install](https://github.com/zhouchentao666/Fluent-Install)
   > 一个免费开源的由cai-install的后端改编的前端自制的fluent，基于steamtools的入库工具 中文名：流畅入库 英文名：FluentInstall
 
+### [mr-m0nst3r](https://github.com/mr-m0nst3r)
+- 🌟 👤 [mr-m0nst3r](https://github.com/mr-m0nst3r) Starred [OCA/server-tools](https://github.com/OCA/server-tools)
+  > Tools for Odoo Administrators to improve some technical features on Odoo.
+
 ### [namename333](https://github.com/namename333)
 - 🌟 👤 [namename333](https://github.com/namename333) Starred [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe)
   > No TrickyStore on Canoe
@@ -236,15 +248,15 @@
 - 🌟 👤 [ngosang](https://github.com/ngosang) Starred [martinbjeldbak/acestream-http-proxy](https://github.com/martinbjeldbak/acestream-http-proxy)
   > Stream AceStream sources on macOS and other systems without needing to install AceStream player
 
+### [phith0n](https://github.com/phith0n)
+- 🌟 👤 [phith0n](https://github.com/phith0n) Starred [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox)
+  > Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <200ms boot...
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [UltraSina/androidReverse](https://github.com/UltraSina/androidReverse)
   > Android reverse engineering entirely on-device. Radare2 binary analysis, 8 Java decompilers, Flutter...
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [zboralski/unflutter](https://github.com/zboralski/unflutter)
   > Static analyzer for Flutter/Dart AOT snapshots
-
-### [qaiu](https://github.com/qaiu)
-- 🍴 👤 [qaiu](https://github.com/qaiu) Forked [mrdoob/three.js](https://github.com/mrdoob/three.js) to [qaiu/three.js](https://github.com/qaiu/three.js)
-  > JavaScript 3D Library.
 
 ### [qazbnm456](https://github.com/qazbnm456)
 - 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [losfair/zeroserve](https://github.com/losfair/zeroserve)
@@ -269,13 +281,23 @@
   > worktree coding agents command center.
 - 🌟 👤 [sotasan](https://github.com/sotasan) Starred [Blur009/Blur-AutoClicker](https://github.com/Blur009/Blur-AutoClicker)
   > An Auto-clicker with a few advanced features and generally better performance than popular alternati...
+- 🌟 👤 [sotasan](https://github.com/sotasan) Starred [supabitapp/supaterm](https://github.com/supabitapp/supaterm)
+  > a terminal for the coding agents age
 
 ### [strongcourage](https://github.com/strongcourage)
 - 🌟 👤 [strongcourage](https://github.com/strongcourage) Starred [SyNSec-den/CoreCrisis](https://github.com/SyNSec-den/CoreCrisis)
 
+### [su-vikas](https://github.com/su-vikas)
+- 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [LLVMParty/smt-server](https://github.com/LLVMParty/smt-server)
+  > A small SMT solving server and wire-format toolkit for bit-vector and Boolean formulas.
+
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > An agentic skills framework & software development methodology that works.
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
+  > Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists se...
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
+  > Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, s...
 
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🍴 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Forked [KilianKegel/edk2-vUDK2018](https://github.com/KilianKegel/edk2-vUDK2018) to [un4ckn0wl3z/edk2-vUDK2018](https://github.com/un4ckn0wl3z/edk2-vUDK2018)
@@ -287,12 +309,13 @@
 - 🌟 👤 [veaba](https://github.com/veaba) Starred [jerrywu001/cc-sessions-viewer](https://github.com/jerrywu001/cc-sessions-viewer)
   > support cc/codex/gemini sessions viewer, token usage statistics, global search, resume, and export t...
 
-### [wszxl516](https://github.com/wszxl516)
-- 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [walnutpi/hcitools](https://github.com/walnutpi/hcitools)
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [nhuhuan/amace](https://github.com/nhuhuan/amace)
+  > Analyzing Bytes: Pre-Disassembly Static Binary Analysis
 
-### [yifengyou](https://github.com/yifengyou)
-- 🌟 👤 [yifengyou](https://github.com/yifengyou) Starred [yifengyou/p330](https://github.com/yifengyou/p330)
-  > 联想p330tiny主机（kdev研发环境）
+### [yichen115](https://github.com/yichen115)
+- 🌟 👤 [yichen115](https://github.com/yichen115) Starred [atc1441/MiBand10-BES2700iMP-BEST1503-Hacking](https://github.com/atc1441/MiBand10-BES2700iMP-BEST1503-Hacking)
+  > Overview of the the Research and Custom Firmware for the MiBand 9 and 10 and its BES2700iMP / BEST15...
 
 ### [yuaotian](https://github.com/yuaotian)
 - 🌟 👤 [yuaotian](https://github.com/yuaotian) Starred [nidhogg1024/Ctool](https://github.com/nidhogg1024/Ctool)
@@ -307,8 +330,12 @@
   > Insecurity as an IOService
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [danzatt/QEMU-s5l89xx-port](https://github.com/danzatt/QEMU-s5l89xx-port)
   > Adding support s5l89xx support to QEMU
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [MatthewPierson/checkm8-nonce-setter](https://github.com/MatthewPierson/checkm8-nonce-setter)
+  > A nonce setter for devices compatible with checkm8
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [MatthewPierson/PyBoot](https://github.com/MatthewPierson/PyBoot)
+  > Tool for tether booting Checkm8 vulnerable iOS devices
 
 
 ---
-*最后更新于 2026-06-22 15:51:11 UTC*
+*最后更新于 2026-06-22 19:27:36 UTC*
 *历史记录保存在 `archive` 目录中。*
