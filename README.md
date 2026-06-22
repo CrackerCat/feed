@@ -19,10 +19,14 @@
 - 🌟 👤 [JasonWei512](https://github.com/JasonWei512) Starred [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box)
   > “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
 
+### [KHwang9883](https://github.com/KHwang9883)
+- 🌟 👤 [KHwang9883](https://github.com/KHwang9883) Starred [nk2028/opencc-js](https://github.com/nk2028/opencc-js)
+  > The JavaScript version of Open Chinese Convert (OpenCC)
+
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
   > Dopamine is a semi-untethered jailbreak for iOS 15 and 16
-- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [Leeksov/usbliter8-patchfinder](https://github.com/Leeksov/usbliter8-patchfinder)
+- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [Leeksov/usbliter8-kernel-patchfinder](https://github.com/Leeksov/usbliter8-kernel-patchfinder)
   > arm64e kernelcache patchfinder for A12/A13 usbliter8 jailbreak research. Finds 20 patch targets auto...
 
 ### [Mr-xn](https://github.com/Mr-xn)
@@ -58,6 +62,10 @@
 ### [a1ext](https://github.com/a1ext)
 - 🍴 👤 [a1ext](https://github.com/a1ext) Forked [NvChad/starter](https://github.com/NvChad/starter) to [a1ext/nvchad-starter](https://github.com/a1ext/nvchad-starter)
   > Starter config for NvChad
+
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [zakirullin/files.md](https://github.com/zakirullin/files.md)
+  > 🌱 Private, quiet space for thinking. Simple app for .md files. LLM-friendly.
 
 ### [ejpir](https://github.com/ejpir)
 - 🌟 👤 [ejpir](https://github.com/ejpir) Starred [DatanoiseTV/ember-hackernews](https://github.com/DatanoiseTV/ember-hackernews)
@@ -139,6 +147,10 @@
 - 🌟 👤 [meowette](https://github.com/meowette) Starred [cursey/safetyhook](https://github.com/cursey/safetyhook)
   > C++23 procedure hooking library.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Avarok-Cybersecurity/atlas](https://github.com/Avarok-Cybersecurity/atlas)
+  > Pure Rust Inference Engine
+
 ### [nblog](https://github.com/nblog)
 - 🌟 👤 [nblog](https://github.com/nblog) Starred [zer0condition/Ophion](https://github.com/zer0condition/Ophion)
   > Stealth-focused Intel VT-x hypervisor (EAC/BE/ACs/AVs).
@@ -193,7 +205,11 @@
 - 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [PaienNate/Narcissuweb](https://github.com/PaienNate/Narcissuweb)
   > An AVG game.
 
+### [zhanymkanov](https://github.com/zhanymkanov)
+- 🌟 👤 [zhanymkanov](https://github.com/zhanymkanov) Starred [jakubkrehel/make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better)
+  > An agent skill based on the "Details that make interfaces feel better" article
+
 
 ---
-*最后更新于 2026-06-21 19:41:12 UTC*
+*最后更新于 2026-06-21 23:12:57 UTC*
 *历史记录保存在 `archive` 目录中。*
