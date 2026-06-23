@@ -35,9 +35,17 @@
 - 🍴 👤 [C5Hackr](https://github.com/C5Hackr) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [C5Hackr/llama-quik](https://github.com/C5Hackr/llama-quik)
   > LLM inference in C/C++
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [entropykit/entropia](https://github.com/entropykit/entropia)
+  > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [CTR-tools/ctr-native](https://github.com/CTR-tools/ctr-native)
   > A Crash Team Racing Decompilation Project
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [gcarmix/hexdig](https://github.com/gcarmix/hexdig)
+  > Binary blob analyzer and extractor based on C++
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk)
+  > Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 
 ### [Drun1baby](https://github.com/Drun1baby)
 - 🌟 👤 [Drun1baby](https://github.com/Drun1baby) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
@@ -58,6 +66,8 @@
 ### [GcsSloop](https://github.com/GcsSloop)
 - 🌟 👤 [GcsSloop](https://github.com/GcsSloop) Starred [alibaba/page-agent](https://github.com/alibaba/page-agent)
   > JavaScript in-page GUI agent. Control web interfaces with natural language.
+- 🌟 👤 [GcsSloop](https://github.com/GcsSloop) Starred [GcsSloop/ai-gate](https://github.com/GcsSloop/ai-gate)
+  > Codex 专用 AI 代理工具，支持官方和第三方账户混搭切换
 
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [stablyai/orca](https://github.com/stablyai/orca)
@@ -129,6 +139,8 @@
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [Storyyeller/Krakatau](https://github.com/Storyyeller/Krakatau)
   > Java decompiler, assembler, and disassembler
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [anysearch-ai/anysearch-skill](https://github.com/anysearch-ai/anysearch-skill)
+  > Unified real-time search engine skill for AI agents. 
 
 ### [Slzdude](https://github.com/Slzdude)
 - 🌟 👤 [Slzdude](https://github.com/Slzdude) Starred [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec)
@@ -141,6 +153,12 @@
 ### [Steesha](https://github.com/Steesha)
 - 🌟 👤 [Steesha](https://github.com/Steesha) Starred [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk)
   > Firmware Analysis Tool
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+  > #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
 
 ### [TideSec](https://github.com/TideSec)
 - 🌟 👤 [TideSec](https://github.com/TideSec) Starred [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
@@ -212,6 +230,12 @@
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [GetStream/stream-chat-android-ai](https://github.com/GetStream/stream-chat-android-ai)
   > Official Stream Chat UI components for AI-first Android apps with Jetpack Compose. Features streamin...
 
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud)
+  > Free, open-source AWS emulator. LocalStack alternative: 41 services, 3,704 operations, true 100% Smi...
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review)
+  > An AI-powered security review GitHub Action using Claude to analyze code changes for security vulner...
+
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [jessevig/bertviz](https://github.com/jessevig/bertviz)
   > BertViz: Visualize Attention in Transformer Models
@@ -220,11 +244,22 @@
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)
   > A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
 
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [lxz-jiandan/VmpProject](https://github.com/lxz-jiandan/VmpProject)
+
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [lautarovculic/frida-ipa-extract](https://github.com/lautarovculic/frida-ipa-extract)
   > Robust Frida-based tool to dump decrypted iOS apps as .ipa from a jailbroken device supports App Sto...
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [lautarovculic/frida-ipa-extract](https://github.com/lautarovculic/frida-ipa-extract) to [enovella/frida-ipa-extract](https://github.com/enovella/frida-ipa-extract)
   > Robust Frida-based tool to dump decrypted iOS apps as .ipa from a jailbroken device supports App Sto...
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [entropykit/entropia](https://github.com/entropykit/entropia)
+  > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
+
+### [fanfeilong](https://github.com/fanfeilong)
+- 🌟 👤 [fanfeilong](https://github.com/fanfeilong) Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+  > Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [xusheng6/security_advisories](https://github.com/xusheng6/security_advisories) to [fengjixuchui/security_advisories](https://github.com/fengjixuchui/security_advisories)
@@ -262,6 +297,8 @@
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [mcncarl/yichen-skills](https://github.com/mcncarl/yichen-skills)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [larksuite/cli](https://github.com/larksuite/cli)
   > The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents...
+- 🍴 👤 [hhhaiai](https://github.com/hhhaiai) Forked [goehou/tabbit-toy](https://github.com/goehou/tabbit-toy) to [openChatGpts/tabbit-toy](https://github.com/openChatGpts/tabbit-toy)
+  > 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
@@ -289,6 +326,10 @@
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [eigenpal/docx-editor](https://github.com/eigenpal/docx-editor)
   > Open-source WYSIWYG .docx editor library with canonical OOXML, tracked changes, and real-time collab...
+
+### [jpacg](https://github.com/jpacg)
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [Barre/ZeroFS](https://github.com/Barre/ZeroFS)
+  > ZeroFS - ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block d...
 
 ### [jweny](https://github.com/jweny)
 - 🌟 👤 [jweny](https://github.com/jweny) Starred [mattolson/agent-sandbox](https://github.com/mattolson/agent-sandbox)
@@ -361,6 +402,12 @@
 - 🌟 👤 [njcx](https://github.com/njcx) Starred [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)
   > A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, ...
 
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [has2k1/plotnine](https://github.com/has2k1/plotnine)
+  > A Grammar of Graphics for Python
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
+  > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [zhoujun94511/WebAppFlaskauto-iOS](https://github.com/zhoujun94511/WebAppFlaskauto-iOS)
   > 📱基于Web的IOS设备群控平台--A browser-based iOS device control and management platform, supporting real-time s...
@@ -381,12 +428,20 @@
 - 🌟 👤 [qaiu](https://github.com/qaiu) Starred [nfd-parser/nfd-parser.github.io](https://github.com/nfd-parser/nfd-parser.github.io)
   > netdisk-fast-download(nfd)参考文档
 
+### [rabbitstack](https://github.com/rabbitstack)
+- 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [entropykit/entropia](https://github.com/entropykit/entropia)
+  > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
+
 ### [raesene](https://github.com/raesene)
 - 🌟 👤 [raesene](https://github.com/raesene) Starred [DataDog/datadog-saist](https://github.com/DataDog/datadog-saist)
   > AI-native SAST
 
 ### [ret2ldz](https://github.com/ret2ldz)
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [joydo/d810](https://github.com/joydo/d810)
+
+### [rmuxnet](https://github.com/rmuxnet)
+- 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [ps5-linux/ps5-linux-image](https://github.com/ps5-linux/ps5-linux-image) to [rmuxnet/ps5-linux-image](https://github.com/rmuxnet/ps5-linux-image)
+  > Linux image builder
 
 ### [rrrrrrri](https://github.com/rrrrrrri)
 - 🌟 👤 [rrrrrrri](https://github.com/rrrrrrri) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
@@ -422,6 +477,10 @@
 ### [taisuii](https://github.com/taisuii)
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
   > NVR with realtime local object detection for IP cameras
+
+### [thebabush](https://github.com/thebabush)
+- 🌟 👤 [thebabush](https://github.com/thebabush) Starred [ptitSeb/box64](https://github.com/ptitSeb/box64)
+  > Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux de...
 
 ### [tintinweb](https://github.com/tintinweb)
 - 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents)
@@ -486,5 +545,5 @@
 
 
 ---
-*最后更新于 2026-06-23 15:48:00 UTC*
+*最后更新于 2026-06-23 17:55:16 UTC*
 *历史记录保存在 `archive` 目录中。*
