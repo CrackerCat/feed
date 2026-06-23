@@ -73,6 +73,10 @@
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [stablyai/orca](https://github.com/stablyai/orca)
   > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
 
+### [KingJA](https://github.com/KingJA)
+- 🌟 👤 [KingJA](https://github.com/KingJA) Starred [wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China)
+  > 中国大模型
+
 ### [KuLiPai](https://github.com/KuLiPai)
 - 🌟 👤 [KuLiPai](https://github.com/KuLiPai) Starred [whoamihappyhacking/just-talk-go](https://github.com/whoamihappyhacking/just-talk-go)
   > Just Talk 是一个面向桌面环境的语音输入工具。它通过全局快捷键录音，把语音识别结果复制到剪贴板，或直接上屏到当前输入框，适合写代码、聊天、记笔记和处理长文本输入。
@@ -80,6 +84,10 @@
 ### [Kwansy98](https://github.com/Kwansy98)
 - 🌟 👤 [Kwansy98](https://github.com/Kwansy98) Starred [albertopoljak/CEtrainer-decrypter](https://github.com/albertopoljak/CEtrainer-decrypter)
   > Decrypt , extract and open protected cheat engine trainers as simple .xml files.
+
+### [LasCC](https://github.com/LasCC)
+- 🌟 👤 [LasCC](https://github.com/LasCC) Starred [apple/container](https://github.com/apple/container)
+  > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
 
 ### [Lotus6](https://github.com/Lotus6)
 - 🌟 👤 [Lotus6](https://github.com/Lotus6) Starred [WhiteNightShadow/hello_js_reverse_skill](https://github.com/WhiteNightShadow/hello_js_reverse_skill)
@@ -159,6 +167,8 @@
   > #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > An agentic skills framework & software development methodology that works.
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
+  > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
 ### [TideSec](https://github.com/TideSec)
 - 🌟 👤 [TideSec](https://github.com/TideSec) Starred [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
@@ -201,6 +211,10 @@
 ### [codezjx](https://github.com/codezjx)
 - 🌟 👤 [codezjx](https://github.com/codezjx) Starred [android/appfunctions](https://github.com/android/appfunctions)
   > Android AppFunctions samples
+
+### [codingsf](https://github.com/codingsf)
+- 🌟 👤 [codingsf](https://github.com/codingsf) Starred [Tencent/GAutomator](https://github.com/Tencent/GAutomator)
+  >  Automation for mobile games
 
 ### [crvvdev](https://github.com/crvvdev)
 - 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [memN0ps/redlotus-rs](https://github.com/memN0ps/redlotus-rs)
@@ -305,6 +319,8 @@
   > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [HQarroum/docker-android](https://github.com/HQarroum/docker-android)
   > 🤖 A minimal and customizable Docker image running the Android emulator as a service.
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [kernelstub/NTForge](https://github.com/kernelstub/NTForge)
+  > Toolkit for Windows internals, vulnerability analysis, and reproducible security research workflows.
 
 ### [jas502n](https://github.com/jas502n)
 - 🌟 👤 [jas502n](https://github.com/jas502n) Starred [Ghr07h/Heimdallr](https://github.com/Ghr07h/Heimdallr)
@@ -342,6 +358,10 @@
 ### [keleus](https://github.com/keleus)
 - 🌟 👤 [keleus](https://github.com/keleus) Starred [usememos/memos](https://github.com/usememos/memos)
   > Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and...
+
+### [kernullist](https://github.com/kernullist)
+- 🌟 👤 [kernullist](https://github.com/kernullist) Starred [kernullist/CogniFind](https://github.com/kernullist/CogniFind)
+  > 100% offline, on-device local semantic document search for Windows (Tauri + Python, sqlite-vec). Spo...
 
 ### [killvxk](https://github.com/killvxk)
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [joshuavanderpoll/CVE-2026-54806](https://github.com/joshuavanderpoll/CVE-2026-54806) to [killvxk/CVE-2026-54806](https://github.com/killvxk/CVE-2026-54806)
@@ -384,6 +404,10 @@
 - 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [agent-infra/sandbox](https://github.com/agent-infra/sandbox)
   > All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a sing...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/vllm-ultimate-dgx-spark](https://github.com/AEON-7/vllm-ultimate-dgx-spark)
+  > AEON vLLM Ultimate — vLLM 0.23.0 built from source for DGX Spark / Blackwell (sm_121a/GB10). One ima...
+
 ### [namename333](https://github.com/namename333)
 - 🌟 👤 [namename333](https://github.com/namename333) Starred [anthropics/skills](https://github.com/anthropics/skills)
   > Public repository for Agent Skills
@@ -407,6 +431,8 @@
   > A Grammar of Graphics for Python
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
   > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [roboflow/rf-detr](https://github.com/roboflow/rf-detr)
+  > RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, S...
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [zhoujun94511/WebAppFlaskauto-iOS](https://github.com/zhoujun94511/WebAppFlaskauto-iOS)
@@ -545,5 +571,5 @@
 
 
 ---
-*最后更新于 2026-06-23 17:55:16 UTC*
+*最后更新于 2026-06-23 20:05:32 UTC*
 *历史记录保存在 `archive` 目录中。*
