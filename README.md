@@ -38,6 +38,8 @@
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [entropykit/entropia](https://github.com/entropykit/entropia)
   > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [psarna/rave](https://github.com/psarna/rave)
+  > RISC-V emulator the 90s deserved
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [CTR-tools/ctr-native](https://github.com/CTR-tools/ctr-native)
@@ -174,6 +176,12 @@
 - 🌟 👤 [TideSec](https://github.com/TideSec) Starred [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
   > CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security too...
 
+### [Tokeii0](https://github.com/Tokeii0)
+- 🌟 👤 [Tokeii0](https://github.com/Tokeii0) Starred [MemNixFS/MemNixFS](https://github.com/MemNixFS/MemNixFS)
+  > Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem
+- 🍴 👤 [Tokeii0](https://github.com/Tokeii0) Forked [MemNixFS/MemNixFS](https://github.com/MemNixFS/MemNixFS) to [Tokeii0/MemNixFS](https://github.com/Tokeii0/MemNixFS)
+  > Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem
+
 ### [Werneror](https://github.com/Werneror)
 - 🌟 👤 [Werneror](https://github.com/Werneror) Starred [Cryakl/Ransomware-Database](https://github.com/Cryakl/Ransomware-Database)
   > For educational purposes only, samples of ransomware/wiper trojans including screenshots/ransom-note...
@@ -181,6 +189,10 @@
 ### [apkunpacker](https://github.com/apkunpacker)
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [jdexorg/jrunas](https://github.com/jdexorg/jrunas)
   > run-as implementation without app debugging capability check
+
+### [asLody](https://github.com/asLody)
+- 🌟 👤 [asLody](https://github.com/asLody) Starred [duolahypercho/fusion-fable](https://github.com/duolahypercho/fusion-fable)
+  > Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GP...
 
 ### [boy-hack](https://github.com/boy-hack)
 - 🌟 👤 [boy-hack](https://github.com/boy-hack) Starred [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
@@ -366,9 +378,19 @@
 ### [killvxk](https://github.com/killvxk)
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [joshuavanderpoll/CVE-2026-54806](https://github.com/joshuavanderpoll/CVE-2026-54806) to [killvxk/CVE-2026-54806](https://github.com/killvxk/CVE-2026-54806)
   > Unauthenticated PHP Object Injection to RCE in WP Activity Log <= 5.6.3.1 (CVE-2026-54806)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rootdr-backup/TokenTwin-Checker](https://github.com/rootdr-backup/TokenTwin-Checker)
+  > TokenTwin Checker — Dual Token BAC/IDOR Tester for Burp Suite
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [QGrain/cvm](https://github.com/QGrain/cvm)
+  > Compiler Version Manager — A cross-platform C/C++ Compiler Version Manager for LLVM and GCC. Similar...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [HullaBrian/ttd-capa](https://github.com/HullaBrian/ttd-capa)
+  > Capability extraction from Time Travel Debugging Traces
 
 ### [konata](https://github.com/konata)
 - 🌟 👤 [konata](https://github.com/konata) Starred [konata/UnsealedSdk](https://github.com/konata/UnsealedSdk)
+
+### [leleliu008](https://github.com/leleliu008)
+- 🌟 👤 [leleliu008](https://github.com/leleliu008) Starred [actions/runner](https://github.com/actions/runner)
+  > The Runner for GitHub Actions :rocket:
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [kangarooking/x-skills](https://github.com/kangarooking/x-skills)
@@ -407,6 +429,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/vllm-ultimate-dgx-spark](https://github.com/AEON-7/vllm-ultimate-dgx-spark)
   > AEON vLLM Ultimate — vLLM 0.23.0 built from source for DGX Spark / Blackwell (sm_121a/GB10). One ima...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nova452/ComfyUI-ConditioningKrea2Rebalance](https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance)
+  > A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 al...
 
 ### [namename333](https://github.com/namename333)
 - 🌟 👤 [namename333](https://github.com/namename333) Starred [anthropics/skills](https://github.com/anthropics/skills)
@@ -464,6 +488,10 @@
 
 ### [ret2ldz](https://github.com/ret2ldz)
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [joydo/d810](https://github.com/joydo/d810)
+
+### [rikushoney](https://github.com/rikushoney)
+- 🌟 👤 [rikushoney](https://github.com/rikushoney) Starred [badges/shields](https://github.com/badges/shields)
+  > Concise, consistent, and legible badges in SVG and raster format
 
 ### [rmuxnet](https://github.com/rmuxnet)
 - 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [ps5-linux/ps5-linux-image](https://github.com/ps5-linux/ps5-linux-image) to [rmuxnet/ps5-linux-image](https://github.com/rmuxnet/ps5-linux-image)
@@ -532,6 +560,10 @@
 - 🌟 👤 [weizn11](https://github.com/weizn11) Starred [github/spec-kit](https://github.com/github/spec-kit)
   > 💫 Toolkit to help you get started with Spec-Driven Development
 
+### [wjakob](https://github.com/wjakob)
+- 🍴 👤 [wjakob](https://github.com/wjakob) Forked [libjpeg-turbo/libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) to [mitsuba-renderer/libjpeg-turbo](https://github.com/mitsuba-renderer/libjpeg-turbo)
+  > Main libjpeg-turbo repository
+
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) to [wszqkzqk/matplotlib](https://github.com/wszqkzqk/matplotlib)
   > matplotlib: plotting with Python
@@ -571,5 +603,5 @@
 
 
 ---
-*最后更新于 2026-06-23 20:05:32 UTC*
+*最后更新于 2026-06-23 22:12:53 UTC*
 *历史记录保存在 `archive` 目录中。*
