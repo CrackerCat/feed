@@ -75,9 +75,27 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
   > Model Context Protocol for WinDbg.
 
+### [Lakr233](https://github.com/Lakr233)
+- 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [SunsetMkt/MSD-Manual-Portable](https://github.com/SunsetMkt/MSD-Manual-Portable)
+  > A method to build a portable and offline-available MSD Manual. 一种构建便携式离线《默沙东诊疗手册》的方法。
+
 ### [LasCC](https://github.com/LasCC)
 - 🌟 👤 [LasCC](https://github.com/LasCC) Starred [rub-softsec/onelogon](https://github.com/rub-softsec/onelogon)
   > Code and data for our paper "Onelogon: Taking over Active Directory Accounts via Netlogon" (WOOT’26)...
+
+### [Ls4ss](https://github.com/Ls4ss)
+- 🌟 👤 [Ls4ss](https://github.com/Ls4ss) Starred [Cloud-Architekt/EntraOps](https://github.com/Cloud-Architekt/EntraOps)
+  > Community project to classify, identify and protect your privileges based on Enterprise Access Model...
+
+### [LunFengChen](https://github.com/LunFengChen)
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [ggggmllll/NDK_SIMPLE_KPM](https://github.com/ggggmllll/NDK_SIMPLE_KPM)
+- 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [ggggmllll/NDK_SIMPLE_KPM](https://github.com/ggggmllll/NDK_SIMPLE_KPM) to [LunFengChen/NDK_SIMPLE_KPM](https://github.com/LunFengChen/NDK_SIMPLE_KPM)
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [ggggmllll/NDK_Kernel_Module](https://github.com/ggggmllll/NDK_Kernel_Module)
+  > Build loadable Linux kernel modules (.ko) with the Android NDK — kmod C library (hook/syscall/uacces...
+- 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [ggggmllll/NDK_Kernel_Module](https://github.com/ggggmllll/NDK_Kernel_Module) to [LunFengChen/NDK_Kernel_Module](https://github.com/LunFengChen/NDK_Kernel_Module)
+  > Build loadable Linux kernel modules (.ko) with the Android NDK — kmod C library (hook/syscall/uacces...
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [ggggmllll/KPatcher](https://github.com/ggggmllll/KPatcher)
+  > A tool to patch a relocatable .o into a loadable Linux kernel module (.ko) — no kernel source tree r...
 
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [flyhunterl/flymd](https://github.com/flyhunterl/flymd)
@@ -125,6 +143,10 @@
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [ElonJask/reqable-mcp](https://github.com/ElonJask/reqable-mcp)
   > MCP server for Reqable local capture data
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [trycua/cua](https://github.com/trycua/cua)
+  > Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and eva...
+
 ### [Tornaco](https://github.com/Tornaco)
 - 🌟 👤 [Tornaco](https://github.com/Tornaco) Starred [CameraKit/blurkit-android](https://github.com/CameraKit/blurkit-android)
   > The missing Android blurring library. Fast blur-behind layout that parallels iOS.
@@ -157,9 +179,15 @@
 - 🌟 👤 [afkT](https://github.com/afkT) Starred [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
   > The Magic Mask for Android
 
+### [asLody](https://github.com/asLody)
+- 🌟 👤 [asLody](https://github.com/asLody) Starred [cool-japan/torsh](https://github.com/cool-japan/torsh)
+  > ToRSh (Tensor Operations in Rust with Sharding) is a PyTorch-compatible deep learning framework buil...
+
 ### [backslashxx](https://github.com/backslashxx)
 - 🍴 👤 [backslashxx](https://github.com/backslashxx) Forked [alternoegraha/kernel_xiaomi_sm6225](https://github.com/alternoegraha/kernel_xiaomi_sm6225) to [backslashxx/kernel_xiaomi_sm6225](https://github.com/backslashxx/kernel_xiaomi_sm6225)
   > based on CHRISL7/AOSPA vauxite kernel - for xiaomi fog/rain/wind devices
+- 🌟 👤 [backslashxx](https://github.com/backslashxx) Starred [clisystems/utfs](https://github.com/clisystems/utfs)
+  > UTFS a Tar-like Embedded File System
 
 ### [balloonwj](https://github.com/balloonwj)
 - 🌟 👤 [balloonwj](https://github.com/balloonwj) Starred [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)
@@ -256,6 +284,8 @@
   > Abracadabra 魔曰，古文风文本加密工具
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [ShadowHackrs/gmail-account-creator](https://github.com/ShadowHackrs/gmail-account-creator)
   > 🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5si...
+- 🍴 👤 [hhhaiai](https://github.com/hhhaiai) Forked [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) to [openChatGpts/reverse-skill](https://github.com/openChatGpts/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
 ### [huoji120](https://github.com/huoji120)
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [OpenPipe/ART](https://github.com/OpenPipe/ART)
@@ -323,6 +353,9 @@
 - 🌟 👤 [marlkiller](https://github.com/marlkiller) Starred [TableProApp/TablePro](https://github.com/TableProApp/TablePro)
   > Free and open source database client built natively for developers
 
+### [merces](https://github.com/merces)
+- 🌟 👤 [merces](https://github.com/merces) Starred [zinesbr/zinesbr](https://github.com/zinesbr/zinesbr)
+
 ### [mos9527](https://github.com/mos9527)
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [SnapdragonGameStudios/adreno-gpu-vulkan-code-sample-framework](https://github.com/SnapdragonGameStudios/adreno-gpu-vulkan-code-sample-framework)
   > This repository contains a Vulkan Framework designed to enable developers to get up and running quic...
@@ -350,6 +383,10 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [dchristl/macless-haystack](https://github.com/dchristl/macless-haystack)
   > Create your own AirTag with  OpenHaystack, but without the need to own an Apple device
 
+### [oblique](https://github.com/oblique)
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [googleworkspace/cli](https://github.com/googleworkspace/cli)
+  > Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, ...
+
 ### [oureveryday](https://github.com/oureveryday)
 - 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [xqy2006/jsc2js](https://github.com/xqy2006/jsc2js)
   > Reverse V8‑generated JSC bytecode into readable (approximate) JavaScript.
@@ -362,12 +399,20 @@
 - 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [nmht3t/RawHive](https://github.com/nmht3t/RawHive)
   > Cobalt Strike BOF that extracts selected Windows registry hives directly from a raw NTFS volume by p...
 
+### [rankalpha](https://github.com/rankalpha)
+- 🍴 👤 [rankalpha](https://github.com/rankalpha) Forked [TQZHR/grok2api](https://github.com/TQZHR/grok2api) to [rankalpha/grok2api](https://github.com/rankalpha/grok2api)
+  > Grok2API (Cloudflare Workers) one-click deploy with auto D1+KV provisioning
+
 ### [ret2ldz](https://github.com/ret2ldz)
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [AppleReer/Anti-Disassembly-On-Arm64](https://github.com/AppleReer/Anti-Disassembly-On-Arm64)
   > User inline asm to anti-disassembly on arm64
 
 ### [retme7](https://github.com/retme7)
 - 🌟 👤 [retme7](https://github.com/retme7) Starred [osaurus-ai/osaurus-macos-use](https://github.com/osaurus-ai/osaurus-macos-use)
+
+### [rikushoney](https://github.com/rikushoney)
+- 🌟 👤 [rikushoney](https://github.com/rikushoney) Starred [biomejs/biome](https://github.com/biomejs/biome)
+  > A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers format...
 
 ### [roadwy](https://github.com/roadwy)
 - 🌟 👤 [roadwy](https://github.com/roadwy) Starred [cocomelonc/meow](https://github.com/cocomelonc/meow)
@@ -446,9 +491,17 @@
 - 🌟 👤 [winezer0](https://github.com/winezer0) Starred [chainreactors/aiscan](https://github.com/chainreactors/aiscan)
   > pi-like agentic security scanner for redteam — single binary for AI-driven pentesting, from red team...
 
+### [wonderkun](https://github.com/wonderkun)
+- 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [zeasin/qihang-ecom-oms](https://github.com/zeasin/qihang-ecom-oms)
+  > 启航电商OMS系统是一个轻量级现代化的电商订单业务处理系统。该项目采用SpringBoot3开发，帮助企业低成本构建订单中台。系统支持多平台多店铺商品、订单、售后、电子面单等电商订单业务处理，支持：淘...
+
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [google/highway](https://github.com/google/highway) to [wszqkzqk/highway](https://github.com/wszqkzqk/highway)
   > Performance-portable, length-agnostic SIMD with runtime dispatch
+
+### [wszxl516](https://github.com/wszxl516)
+- 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [YoeDistro/yoe-distro](https://github.com/YoeDistro/yoe-distro)
+  > Embedded Linux distribution optimized for product development (based on OE/Yocto)
 
 ### [x7dbg](https://github.com/x7dbg)
 - 🍴 👤 [x7dbg](https://github.com/x7dbg) Forked [yuechu888/AutoNode](https://github.com/yuechu888/AutoNode) to [x7dbg/autonode](https://github.com/x7dbg/autonode)
@@ -495,5 +548,5 @@
 
 
 ---
-*最后更新于 2026-06-24 14:30:10 UTC*
+*最后更新于 2026-06-24 17:03:56 UTC*
 *历史记录保存在 `archive` 目录中。*
