@@ -7,6 +7,8 @@
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [hvprvtr/lsass-from-ram-fix](https://github.com/hvprvtr/lsass-from-ram-fix)
   > Script for fix lsass.exe dump extracted from full RAM dump
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [astral-sh/uv](https://github.com/astral-sh/uv)
+  > An extremely fast Python package and project manager, written in Rust.
 
 ### [19h](https://github.com/19h)
 - 🍴 👤 [19h](https://github.com/19h) Forked [rust-vmm/linux-loader](https://github.com/rust-vmm/linux-loader) to [19h/linux-loader](https://github.com/19h/linux-loader)
@@ -82,6 +84,10 @@
 - 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [trotsky1997/OpenFugu](https://github.com/trotsky1997/OpenFugu)
   > Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → ...
 
+### [GaoYuCan](https://github.com/GaoYuCan)
+- 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [FishCodeTech/muteki](https://github.com/FishCodeTech/muteki)
+  > Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm
+
 ### [GcsSloop](https://github.com/GcsSloop)
 - 🌟 👤 [GcsSloop](https://github.com/GcsSloop) Starred [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker)
   > Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeTh...
@@ -93,11 +99,24 @@
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)
   > An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的...
 
+### [Ls4ss](https://github.com/Ls4ss)
+- 🌟 👤 [Ls4ss](https://github.com/Ls4ss) Starred [MrCl0wnLab/srs-domain-recon](https://github.com/MrCl0wnLab/srs-domain-recon)
+  > Recon/OSINT de domínios via Claudão Code: orquestra o SimpleReconSubdomain e entrega o resultado com...
+
 ### [Lz1y](https://github.com/Lz1y)
 - 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [JameZUK/ProcmonMCP](https://github.com/JameZUK/ProcmonMCP)
   > An MCP server for procmon files
 - 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [t8y2/dbx](https://github.com/t8y2/dbx)
   > 15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoD...
+
+### [MhmRdd](https://github.com/MhmRdd)
+- 🌟 👤 [MhmRdd](https://github.com/MhmRdd) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
+- 🌟 👤 [MhmRdd](https://github.com/MhmRdd) Starred [canyie/TransitionPlayer](https://github.com/canyie/TransitionPlayer)
+  > CVE-2026-0091, play with an issue in android window management to perform arbitrary code execution i...
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+  > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
 
 ### [Peterpan0927](https://github.com/Peterpan0927)
 - 🌟 👤 [Peterpan0927](https://github.com/Peterpan0927) Starred [apple/container](https://github.com/apple/container)
@@ -113,11 +132,19 @@
 ### [Samael-Z](https://github.com/Samael-Z)
 - 🌟 👤 [Samael-Z](https://github.com/Samael-Z) Starred [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore)
 
+### [Seyud](https://github.com/Seyud)
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [qwqawa64/ZUX-ZTool](https://github.com/qwqawa64/ZUX-ZTool)
+  > 这是一个名为"ZTool"的Android Xposed模块项目，主要为ZUXOS系统提供优化和自定义功能。
+
 ### [Silentsoul04](https://github.com/Silentsoul04)
 - 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [tb0hdan/domains](https://github.com/tb0hdan/domains)
   > World’s single largest Internet domains dataset
 - 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [tb0hdan/domains](https://github.com/tb0hdan/domains) to [Silentsoul04/domains](https://github.com/Silentsoul04/domains)
   > World’s single largest Internet domains dataset
+
+### [Slzdude](https://github.com/Slzdude)
+- 🌟 👤 [Slzdude](https://github.com/Slzdude) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+  > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
 
 ### [ThomasKing2014](https://github.com/ThomasKing2014)
 - 🌟 👤 [ThomasKing2014](https://github.com/ThomasKing2014) Starred [staturnzz/amethyst](https://github.com/staturnzz/amethyst)
@@ -145,6 +172,14 @@
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [staturnzz/amethyst](https://github.com/staturnzz/amethyst)
   > iOS 12/13 jailbreak for all devices
 
+### [atlas4381](https://github.com/atlas4381)
+- 🌟 👤 [atlas4381](https://github.com/atlas4381) Starred [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8)
+  > An A12/A13 SecureROM exploit
+
+### [ba0gu0](https://github.com/ba0gu0)
+- 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [ShadowHackrs/gmail-account-creator](https://github.com/ShadowHackrs/gmail-account-creator)
+  > 🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5si...
+
 ### [blacktop](https://github.com/blacktop)
 - 🌟 👤 [blacktop](https://github.com/blacktop) Starred [staturnzz/amethyst](https://github.com/staturnzz/amethyst)
   > iOS 12/13 jailbreak for all devices
@@ -153,8 +188,14 @@
 - 🌟 👤 [boy-hack](https://github.com/boy-hack) Starred [FishCodeTech/muteki](https://github.com/FishCodeTech/muteki)
   > Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm
 
-### [canyie](https://github.com/canyie)
-- 🌟 👤 [canyie](https://github.com/canyie) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
+### [cctv18](https://github.com/cctv18)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [cctv18/desktop-webui](https://github.com/cctv18/desktop-webui)
+  > For an even better && more convenient Git experience.
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
+
+### [chancerly](https://github.com/chancerly)
+- 🌟 👤 [chancerly](https://github.com/chancerly) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)
@@ -187,6 +228,8 @@
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Monoceros406/WinKerDevBook1](https://github.com/Monoceros406/WinKerDevBook1) to [fengjixuchui/WinKerDevBook1](https://github.com/fengjixuchui/WinKerDevBook1)
   > Windows 系统安全：内核驱动开发
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [amaralkaff/hyperv-pubg-external](https://github.com/amaralkaff/hyperv-pubg-external) to [fengjixuchui/hyperv-pubg-external](https://github.com/fengjixuchui/hyperv-pubg-external)
+  > Rust + hyper-reV hypervisor backend. CPUID hypercalls for memory R/W.
 
 ### [for-A1kaid](https://github.com/for-A1kaid)
 - 🌟 👤 [for-A1kaid](https://github.com/for-A1kaid) Starred [adshao/flounder](https://github.com/adshao/flounder)
@@ -195,6 +238,10 @@
 ### [g0th1c54e4](https://github.com/g0th1c54e4)
 - 🌟 👤 [g0th1c54e4](https://github.com/g0th1c54e4) Starred [hfiref0x/WinObjEx64](https://github.com/hfiref0x/WinObjEx64)
   > Windows Object Explorer 64-bit
+
+### [gamelaster](https://github.com/gamelaster)
+- 🌟 👤 [gamelaster](https://github.com/gamelaster) Starred [bkuschak/cmsis_dap_tcp_esp32](https://github.com/bkuschak/cmsis_dap_tcp_esp32)
+  > CMSIS-DAP programmer using TCP/IP rather than USB connection to the host.  Runs on ESP32 and connect...
 
 ### [gh0stkey](https://github.com/gh0stkey)
 - 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
@@ -214,6 +261,13 @@
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll) to [gmh5225/bad-epoll](https://github.com/gmh5225/bad-epoll)
+
+### [hacksysteam](https://github.com/hacksysteam)
+- 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [4B5F5F4B/patchdiff-cve-analysis](https://github.com/4B5F5F4B/patchdiff-cve-analysis)
+
+### [hoffstadt](https://github.com/hoffstadt)
+- 🌟 👤 [hoffstadt](https://github.com/hoffstadt) Starred [AirGuanZ/AtmosphereRenderer](https://github.com/AirGuanZ/AtmosphereRenderer)
+  > A C++/DirectX 11 implementation of "A Scalable and Production Ready Sky and Atmosphere Rendering Tec...
 
 ### [hoochanlon](https://github.com/hoochanlon)
 - 🌟 👤 [hoochanlon](https://github.com/hoochanlon) Starred [evanbio/The_Economist](https://github.com/evanbio/The_Economist)
@@ -294,6 +348,10 @@
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [JameZUK/ProcmonMCP](https://github.com/JameZUK/ProcmonMCP)
   > An MCP server for procmon files
 
+### [mr-r3b00t](https://github.com/mr-r3b00t)
+- 🌟 👤 [mr-r3b00t](https://github.com/mr-r3b00t) Starred [timb-machine/packet-monkey](https://github.com/timb-machine/packet-monkey)
+  > Packet Monkey is a tool to filter and classify PCAPs using Wireshark filters
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MemNixFS/MemNixFS](https://github.com/MemNixFS/MemNixFS)
   > Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem
@@ -309,6 +367,10 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [antimof/UxPlay](https://github.com/antimof/UxPlay)
   > AirPlay Unix mirroring server
+
+### [rabbitstack](https://github.com/rabbitstack)
+- 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [MazX0p/LACUNA-Chain](https://github.com/MazX0p/LACUNA-Chain)
+  >   Six-layer call-stack spoofing via .pdata lacunae — defeats ETW-Ti, kernel callbacks, CET shadow st...
 
 ### [roadwy](https://github.com/roadwy)
 - 🌟 👤 [roadwy](https://github.com/roadwy) Starred [JameZUK/ProcmonMCP](https://github.com/JameZUK/ProcmonMCP)
@@ -328,12 +390,23 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [veloren/veloren](https://github.com/veloren/veloren)
   > [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwar...
 
+### [surunzi](https://github.com/surunzi)
+- 🌟 👤 [surunzi](https://github.com/surunzi) Starred [nbarkhina/N64Wasm](https://github.com/nbarkhina/N64Wasm)
+  > A web based N64 Emulator
+
 ### [t-wy](https://github.com/t-wy)
 - 🌟 👤 [t-wy](https://github.com/t-wy) Starred [Mrack/DeObfBR](https://github.com/Mrack/DeObfBR)
   > 去除BR混淆 Deobfuscation BR
 
+### [thelicato](https://github.com/thelicato)
+- 🌟 👤 [thelicato](https://github.com/thelicato) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
+
+### [vipstone](https://github.com/vipstone)
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+  > World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skill...
 
 ### [wuye9036](https://github.com/wuye9036)
 - 🌟 👤 [wuye9036](https://github.com/wuye9036) Starred [Lean-zh/LoVe-zh](https://github.com/Lean-zh/LoVe-zh)
@@ -365,11 +438,19 @@
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [felix-pb/kfd](https://github.com/felix-pb/kfd)
   > kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices...
 
+### [zhaoxuya520](https://github.com/zhaoxuya520)
+- 🌟 👤 [zhaoxuya520](https://github.com/zhaoxuya520) Starred [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+  > Clone any website with one command using AI coding agents
+- 🍴 👤 [zhaoxuya520](https://github.com/zhaoxuya520) Forked [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) to [zhaoxuya520/ai-website-cloner-template](https://github.com/zhaoxuya520/ai-website-cloner-template)
+  > Clone any website with one command using AI coding agents
+- 🌟 👤 [zhaoxuya520](https://github.com/zhaoxuya520) Starred [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering)
+  > List of awesome reverse engineering resources
+
 ### [zhengjim](https://github.com/zhengjim)
 - 🌟 👤 [zhengjim](https://github.com/zhengjim) Starred [adshao/flounder](https://github.com/adshao/flounder)
   > Autonomous white-hat security auditor
 
 
 ---
-*最后更新于 2026-06-25 10:41:44 UTC*
+*最后更新于 2026-06-25 13:19:01 UTC*
 *历史记录保存在 `archive` 目录中。*
