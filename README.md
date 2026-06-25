@@ -36,6 +36,10 @@
 - 🌟 👤 [B1eed](https://github.com/B1eed) Starred [adshao/flounder](https://github.com/adshao/flounder)
   > Autonomous white-hat security auditor
 
+### [Chordp](https://github.com/Chordp)
+- 🌟 👤 [Chordp](https://github.com/Chordp) Starred [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs)
+  > Open-source Rust framework for building event-driven live-trading & backtesting systems
+
 ### [Coder666](https://github.com/Coder666)
 - 🌟 👤 [Coder666](https://github.com/Coder666) Starred [librefang/librefang](https://github.com/librefang/librefang)
   > LibreFang is an open-source agent operating system written in Rust. Live demo: https://flyio.librefa...
@@ -43,6 +47,10 @@
 ### [Cxk4ng](https://github.com/Cxk4ng)
 - 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [JinSooo/CheatSheet](https://github.com/JinSooo/CheatSheet)
   > 一个跨平台显示应用快捷键的软件
+
+### [DeLuks2006](https://github.com/DeLuks2006)
+- 🌟 👤 [DeLuks2006](https://github.com/DeLuks2006) Starred [mauriceboe/TREK](https://github.com/mauriceboe/TREK)
+  > A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, ...
 
 ### [FeiLingshu](https://github.com/FeiLingshu)
 - 🌟 👤 [FeiLingshu](https://github.com/FeiLingshu) Starred [moudey/Shell](https://github.com/moudey/Shell)
@@ -68,6 +76,10 @@
 ### [HdShare](https://github.com/HdShare)
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [anyang77/zygisk](https://github.com/anyang77/zygisk)
   > 这是一个基于zygisk的magisk模块模版，主要用于方便hook Java层
+
+### [Idov31](https://github.com/Idov31)
+- 🌟 👤 [Idov31](https://github.com/Idov31) Starred [0xeb/ghidrasql](https://github.com/0xeb/ghidrasql)
+  > SQL interface for Ghidra program databases — query functions, xrefs, types, decompilation with stand...
 
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
@@ -108,6 +120,8 @@
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [flyhunterl/flymd](https://github.com/flyhunterl/flymd)
   > 高性能Markdown笔记工具！免费AI，智能便签、TODO推送、本地知识库、AI小说引擎。PDF解析、自动语音笔记、录音转文本。毫秒级启动High-performance Markdown note...
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [perpetus/stream-server](https://github.com/perpetus/stream-server)
+  > A modern, open-source torrent streaming engine serving as an alternative to Stremio's server.js
 
 ### [Manistein](https://github.com/Manistein)
 - 🌟 👤 [Manistein](https://github.com/Manistein) Starred [adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill)
@@ -150,6 +164,9 @@
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [fmhy/edit](https://github.com/fmhy/edit)
   > Make changes to FMHY
+
+### [Skorpion96](https://github.com/Skorpion96)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [rizinorg/cutter](https://github.com/rizinorg/cutter)
@@ -217,9 +234,16 @@
 - 🌟 👤 [balloonwj](https://github.com/balloonwj) Starred [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)
   > Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
+### [banteg](https://github.com/banteg)
+- 🌟 👤 [banteg](https://github.com/banteg) Starred [ETHCF/swapboard](https://github.com/ETHCF/swapboard)
+
 ### [bingwin](https://github.com/bingwin)
 - 🌟 👤 [bingwin](https://github.com/bingwin) Starred [WhiteNightShadow/firefox-reverse](https://github.com/WhiteNightShadow/firefox-reverse)
   > 🦊 内置 AI 逆向 Agent 的 Firefox — 通用 JS/JSVMP/WASM/签名逆向工作站，SpiderMonkey 引擎层非侵入 trace，把加密参数从黑盒还原成不依赖浏览器的纯算...
+
+### [blacktop](https://github.com/blacktop)
+- 🌟 👤 [blacktop](https://github.com/blacktop) Starred [anthropics/buffa](https://github.com/anthropics/buffa)
+  > Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views
 
 ### [boy-hack](https://github.com/boy-hack)
 - 🌟 👤 [boy-hack](https://github.com/boy-hack) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
@@ -421,6 +445,14 @@
 - 🌟 👤 [marlkiller](https://github.com/marlkiller) Starred [TableProApp/TablePro](https://github.com/TableProApp/TablePro)
   > Free and open source database client built natively for developers
 
+### [mborgerson](https://github.com/mborgerson)
+- 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [angr/srcdump](https://github.com/angr/srcdump)
+  > Dumping source code from your binaries like objdump
+
+### [mephi42](https://github.com/mephi42)
+- 🌟 👤 [mephi42](https://github.com/mephi42) Starred [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf)
+  > Blackbox Protobuf is a set of tools for working with encoded Protocol Buffers (protobuf) without the...
+
 ### [merces](https://github.com/merces)
 - 🌟 👤 [merces](https://github.com/merces) Starred [zinesbr/zinesbr](https://github.com/zinesbr/zinesbr)
 
@@ -470,6 +502,10 @@
 ### [pwndorei](https://github.com/pwndorei)
 - 🌟 👤 [pwndorei](https://github.com/pwndorei) Starred [b23r0/cliws](https://github.com/b23r0/cliws)
   > Cross platform interactive bind/reverse PTY shell
+
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
 ### [rabbitstack](https://github.com/rabbitstack)
 - 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [nmht3t/RawHive](https://github.com/nmht3t/RawHive)
@@ -632,5 +668,5 @@
 
 
 ---
-*最后更新于 2026-06-24 19:45:38 UTC*
+*最后更新于 2026-06-24 23:03:13 UTC*
 *历史记录保存在 `archive` 目录中。*
