@@ -92,6 +92,10 @@
 - 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [JingMatrix/Vector](https://github.com/JingMatrix/Vector)
   > Modern Xposed Framework
 
+### [DeLuks2006](https://github.com/DeLuks2006)
+- 🌟 👤 [DeLuks2006](https://github.com/DeLuks2006) Starred [edde746/plezy](https://github.com/edde746/plezy)
+  > Modern cross-platform Plex & Jellyfin client built with Flutter
+
 ### [DerekSelander](https://github.com/DerekSelander)
 - 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [staturnzz/amethyst](https://github.com/staturnzz/amethyst)
   > iOS 12/13 jailbreak for all devices
@@ -115,6 +119,12 @@
 ### [GaoYuCan](https://github.com/GaoYuCan)
 - 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
 
+### [H3d9](https://github.com/H3d9)
+- 🌟 👤 [H3d9](https://github.com/H3d9) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+- 🌟 👤 [H3d9](https://github.com/H3d9) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
+  > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
+
 ### [Hackerl](https://github.com/Hackerl)
 - 🌟 👤 [Hackerl](https://github.com/Hackerl) Starred [hashcat/hashcat](https://github.com/hashcat/hashcat)
   > World's fastest and most advanced password recovery utility
@@ -132,10 +142,6 @@
 
 ### [Jiang-Night](https://github.com/Jiang-Night)
 - 🌟 👤 [Jiang-Night](https://github.com/Jiang-Night) Starred [ispointer/RePairip](https://github.com/ispointer/RePairip)
-
-### [Keno](https://github.com/Keno)
-- 🍴 👤 [Keno](https://github.com/Keno) Forked [JuliaLLVM/LLVM.jl](https://github.com/JuliaLLVM/LLVM.jl) to [KenoAIStaging/LLVM.jl](https://github.com/KenoAIStaging/LLVM.jl)
-  > Julia wrapper for the LLVM C API
 
 ### [KpLi0rn](https://github.com/KpLi0rn)
 - 🌟 👤 [KpLi0rn](https://github.com/KpLi0rn) Starred [karpathy/llm.c](https://github.com/karpathy/llm.c)
@@ -172,6 +178,8 @@
 ### [M4cs](https://github.com/M4cs)
 - 🌟 👤 [M4cs](https://github.com/M4cs) Starred [M4cs/dobdodle](https://github.com/M4cs/dobdodle)
   > Guess people by their birth and death date
+- 🌟 👤 [M4cs](https://github.com/M4cs) Starred [M4cs/modgrad](https://github.com/M4cs/modgrad)
+  > Modern, efficient, CSS/SVG based gradient library
 
 ### [MartinKayJr](https://github.com/MartinKayJr)
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy)
@@ -250,6 +258,8 @@
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [sgkdev/packet_edit_meme](https://github.com/sgkdev/packet_edit_meme)
   > PACKET_EDIT_MEME.c (aka CVE-2026-46331): yet another page cache poisoning nightmare
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
 
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [YumeYucca/YumeBox](https://github.com/YumeYucca/YumeBox)
@@ -296,6 +306,10 @@
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer)
   > Security through scrutiny
+- 🍴 👤 [ZephrFish](https://github.com/ZephrFish) Forked [lorentzenman/sheepl](https://github.com/lorentzenman/sheepl) to [ZephrFish/sheepl](https://github.com/ZephrFish/sheepl)
+  > Sheepl : Creating realistic user behaviour for supporting tradecraft development within lab environm...
+- 🍴 👤 [ZephrFish](https://github.com/ZephrFish) Forked [Antonlovesdnb/SysmonConfigPusher2](https://github.com/Antonlovesdnb/SysmonConfigPusher2) to [ZephrFish/SysmonConfigPusher2](https://github.com/ZephrFish/SysmonConfigPusher2)
+  > Sysmon Config Pusher - Modernized
 
 ### [androidmalin](https://github.com/androidmalin)
 - 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [shineM/RecyclerViewCacheDemo](https://github.com/shineM/RecyclerViewCacheDemo)
@@ -325,10 +339,6 @@
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [maka-agent/maka-agent](https://github.com/maka-agent/maka-agent)
   > Maka — local-first AI desktop assistant
 
-### [banteg](https://github.com/banteg)
-- 🌟 👤 [banteg](https://github.com/banteg) Starred [kaowallet/kao](https://github.com/kaowallet/kao)
-  > Secure and cute desktop wallet for Ethereum.
-
 ### [besscroft](https://github.com/besscroft)
 - 🌟 👤 [besscroft](https://github.com/besscroft) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
   > Lore is a next-generation, open source version control system
@@ -349,9 +359,27 @@
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [facebook/idb](https://github.com/facebook/idb)
   > idb is a flexible command line interface for automating iOS simulators and devices
 
+### [cozis](https://github.com/cozis)
+- 🌟 👤 [cozis](https://github.com/cozis) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+
 ### [crazy-max](https://github.com/crazy-max)
 - 🌟 👤 [crazy-max](https://github.com/crazy-max) Starred [yandex/yaff](https://github.com/yandex/yaff)
   > YaFF is a high-performance C++ serialization library that provides a zero-copy wire format for the P...
+
+### [crvvdev](https://github.com/crvvdev)
+- 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [snowsnowsnows/EagleVM](https://github.com/snowsnowsnows/EagleVM)
+  > Native code virtualizer for x64 binaries
+- 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [dmaivel/covirt](https://github.com/dmaivel/covirt)
+  > An x86-64 code virtualizer for VM based obfuscation
+- 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [nodiuus/nocturne](https://github.com/nodiuus/nocturne)
+  > A bin2bin code virtualizer for x86-64 PE's
+- 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [connorjaydunn/BinaryShield](https://github.com/connorjaydunn/BinaryShield)
+  > An x86-64 Code Virtualizer
+- 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [x86byte/Obfusk8](https://github.com/x86byte/Obfusk8)
+  > Obfusk8: lightweight Obfuscation library based on C++17 / Header Only for windows binaries
+- 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h)
+  > Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [ylmyg/Echo-Loop](https://github.com/ylmyg/Echo-Loop)
@@ -467,6 +495,10 @@
 ### [hugsy](https://github.com/hugsy)
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
   > cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(i...
+
+### [hujiayucc](https://github.com/hujiayucc)
+- 🌟 👤 [hujiayucc](https://github.com/hujiayucc) Starred [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli)
+  > ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 
 ### [huoji120](https://github.com/huoji120)
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [Krixx1337/burner-net](https://github.com/Krixx1337/burner-net)
@@ -623,6 +655,9 @@
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x)
   > DOSBox-X fork of the DOSBox project
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft)
+
 ### [mstfknn](https://github.com/mstfknn)
 - 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [CellularPrivacy/Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
   > AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
@@ -672,6 +707,10 @@
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
   > AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker not...
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [Vith0r/StackSentry](https://github.com/Vith0r/StackSentry)
+  > Windows memory scanner for call stack spoofing detection, unbacked shellcode, injected DLLs and in-m...
 
 ### [riskydissonance](https://github.com/riskydissonance)
 - 🌟 👤 [riskydissonance](https://github.com/riskydissonance) Starred [Chess-analysis-mcp/tintins-chess-analysis](https://github.com/Chess-analysis-mcp/tintins-chess-analysis)
@@ -730,6 +769,16 @@
 ### [sotasan](https://github.com/sotasan)
 - 🌟 👤 [sotasan](https://github.com/sotasan) Starred [quarylabs/sqruff](https://github.com/quarylabs/sqruff)
   > Fast SQL formatter/linter
+
+### [std-microblock](https://github.com/std-microblock)
+- 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [liriliri/aya](https://github.com/liriliri/aya)
+  > Android ADB desktop app
+
+### [stuxnet147](https://github.com/stuxnet147)
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
+  > SimpleX - the first messaging network operating without user identifiers of any kind - 100% private ...
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [ghc/ghc](https://github.com/ghc/ghc)
+  > Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (h...
 
 ### [summitt](https://github.com/summitt)
 - 🌟 👤 [summitt](https://github.com/summitt) Starred [OpenTransmute/OpenTransmute](https://github.com/OpenTransmute/OpenTransmute)
@@ -862,5 +911,5 @@
 
 
 ---
-*最后更新于 2026-06-26 18:51:04 UTC*
+*最后更新于 2026-06-26 20:46:05 UTC*
 *历史记录保存在 `archive` 目录中。*
