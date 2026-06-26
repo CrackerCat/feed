@@ -33,9 +33,17 @@
 - 🌟 👤 [2977094657](https://github.com/2977094657) Starred [lixiaolin94/skills](https://github.com/lixiaolin94/skills)
   > Collection of AI agent skills for Claude Code
 
+### [7etsuo](https://github.com/7etsuo)
+- 🌟 👤 [7etsuo](https://github.com/7etsuo) Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
+  > Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links,...
+
 ### [Abbbbbi](https://github.com/Abbbbbi)
 - 🌟 👤 [Abbbbbi](https://github.com/Abbbbbi) Starred [Vikramaditya015/samsung-android-lpe](https://github.com/Vikramaditya015/samsung-android-lpe)
   > Poc for CVE-2026-20980, CVE-2026-20981, CVE-2026-20982
+
+### [AbhiTheModder](https://github.com/AbhiTheModder)
+- 🌟 👤 [AbhiTheModder](https://github.com/AbhiTheModder) Starred [frida/luma](https://github.com/frida/luma)
+- 🍴 👤 [AbhiTheModder](https://github.com/AbhiTheModder) Forked [frida/luma](https://github.com/frida/luma) to [AbhiTheModder/luma](https://github.com/AbhiTheModder/luma)
 
 ### [Admol](https://github.com/Admol)
 - 🌟 👤 [Admol](https://github.com/Admol) Starred [akfamily/akquant](https://github.com/akfamily/akquant)
@@ -44,6 +52,12 @@
 ### [AlphabugX](https://github.com/AlphabugX)
 - 🌟 👤 [AlphabugX](https://github.com/AlphabugX) Starred [pikpikcu/airecon-skills](https://github.com/pikpikcu/airecon-skills)
   > Community skill packs for AIRecon — extend the agent's knowledge base
+
+### [AndnixSH](https://github.com/AndnixSH)
+- 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [ahmedmani/pairipfix](https://github.com/ahmedmani/pairipfix)
+  > A simple LSPosed module to bypass signature checks for apks installed from outside google play
+- 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [MJx0/KittyMemoryEx](https://github.com/MJx0/KittyMemoryEx)
+  > Dedicated library for runtime code patching, injection and some useful memory utilities. works for b...
 
 ### [CTF-MissFeng](https://github.com/CTF-MissFeng)
 - 🌟 👤 [CTF-MissFeng](https://github.com/CTF-MissFeng) Starred [t8y2/dbx](https://github.com/t8y2/dbx)
@@ -79,9 +93,16 @@
 ### [GaoYuCan](https://github.com/GaoYuCan)
 - 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
 
+### [HdShare](https://github.com/HdShare)
+- 🌟 👤 [HdShare](https://github.com/HdShare) Starred [iebb/mithka](https://github.com/iebb/mithka)
+
 ### [Idov31](https://github.com/Idov31)
 - 🌟 👤 [Idov31](https://github.com/Idov31) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
   > Model Context Protocol for WinDbg.
+
+### [JasonWei512](https://github.com/JasonWei512)
+- 🌟 👤 [JasonWei512](https://github.com/JasonWei512) Starred [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
+  > 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 
 ### [Jiang-Night](https://github.com/Jiang-Night)
 - 🌟 👤 [Jiang-Night](https://github.com/Jiang-Night) Starred [ispointer/RePairip](https://github.com/ispointer/RePairip)
@@ -113,6 +134,8 @@
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp)
   > An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, ...
+- 🍴 👤 [M0Rf30](https://github.com/M0Rf30) Forked [anacrolix/torrent](https://github.com/anacrolix/torrent) to [M0Rf30/torrent](https://github.com/M0Rf30/torrent)
+  > Full-featured BitTorrent client package and utilities
 
 ### [MartinKayJr](https://github.com/MartinKayJr)
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy)
@@ -127,6 +150,10 @@
   > GlassMic-虚拟麦克风与 Android 音频链路测试模块。
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [lm060719/io.mo.glassmic](https://github.com/lm060719/io.mo.glassmic)
   > 开源 LSPosed 虚拟麦克风与 Android 音频链路测试模块，面向 Root 设备。
+
+### [Monoceros406](https://github.com/Monoceros406)
+- 🌟 👤 [Monoceros406](https://github.com/Monoceros406) Starred [grepstrength/malsnitch](https://github.com/grepstrength/malsnitch)
+  > Secrets scanner with a twist... this is for getting threat actor credentials from MALWARE. Acquire  ...
 
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [MicrosoftDocs/win32](https://github.com/MicrosoftDocs/win32)
@@ -198,9 +225,21 @@
 - 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [AlexLiuDev233/remove_hyperos_haptic_whitelist](https://github.com/AlexLiuDev233/remove_hyperos_haptic_whitelist)
   > Customize HyperOS A2H whitelist
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [jygzyc/decx](https://github.com/jygzyc/decx)
+  > DECX - Decompiler + X
+
+### [ant4g0nist](https://github.com/ant4g0nist)
+- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+  > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
+
 ### [antiwar3](https://github.com/antiwar3)
 - 🌟 👤 [antiwar3](https://github.com/antiwar3) Starred [0mWindyBug/KernelInjector](https://github.com/0mWindyBug/KernelInjector)
   > PoC kernel to usermode injection 
+
+### [apkunpacker](https://github.com/apkunpacker)
+- 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
+  > 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [maka-agent/maka-agent](https://github.com/maka-agent/maka-agent)
@@ -241,6 +280,8 @@
 ### [darbra](https://github.com/darbra)
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [TsingShui/ida-agent-bridge](https://github.com/TsingShui/ida-agent-bridge)
   > A CLI-first, headless, AI-native IDA Pro bridge built on Unix philosophy.
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [moondrink/SoFixer](https://github.com/moondrink/SoFixer)
+  > 基于SoFixer修改
 
 ### [dumblob](https://github.com/dumblob)
 - 🌟 👤 [dumblob](https://github.com/dumblob) Starred [mratsim/tattletale](https://github.com/mratsim/tattletale)
@@ -311,6 +352,8 @@
   > Generate draw.io diagrams from natural language — 6 presets, vision self-check + up to 5-round refin...
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [yourtablecloth/macSandbox](https://github.com/yourtablecloth/macSandbox)
   > Windows Sandbox for macOS
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
+  > Easily create full virtual machines that are sandboxed for development or computer use models.
 
 ### [iwxyi](https://github.com/iwxyi)
 - 🌟 👤 [iwxyi](https://github.com/iwxyi) Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
@@ -334,6 +377,9 @@
 ### [jixiaoyong](https://github.com/jixiaoyong)
 - 🌟 👤 [jixiaoyong](https://github.com/jixiaoyong) Starred [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
   > 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discor...
+
+### [jonatan1024](https://github.com/jonatan1024)
+- 🍴 👤 [jonatan1024](https://github.com/jonatan1024) Forked [FWGS/server-list](https://github.com/FWGS/server-list) to [GoldSrc-one/xash3d-fwgs-server-list](https://github.com/GoldSrc-one/xash3d-fwgs-server-list)
 
 ### [juliocesarfort](https://github.com/juliocesarfort)
 - 🌟 👤 [juliocesarfort](https://github.com/juliocesarfort) Starred [papermark/papermark](https://github.com/papermark/papermark)
@@ -371,6 +417,12 @@
   > Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [amplifthq/opentag](https://github.com/amplifthq/opentag)
   > Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Co...
+
+### [liuzjMr](https://github.com/liuzjMr)
+- 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [ljy532126/storycine](https://github.com/ljy532126/storycine)
+  > StoryCine 是一款端到端的 AI 短剧创作工具。从灵感到成片，覆盖剧本生成 → 分镜设计 → AI 生图/生视频 → 成片合成全流程。无需专业技能，选标签、点生成，即可完成短剧创作。
+- 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [yuanzhongqiao/printfilm](https://github.com/yuanzhongqiao/printfilm)
+  > 短剧平台 AI Short Film  Motion Comic Generation Platform Industrial AI Motion Comic & Video Workbench
 
 ### [lux-QAQ](https://github.com/lux-QAQ)
 - 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [Seele-Official/catter](https://github.com/Seele-Official/catter)
@@ -504,6 +556,10 @@
 - 🌟 👤 [terrynini](https://github.com/terrynini) Starred [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer)
   > Run compilers interactively from your web browser and interact with the assembly
 
+### [theapache64](https://github.com/theapache64)
+- 🌟 👤 [theapache64](https://github.com/theapache64) Starred [theapache64/retrosheet](https://github.com/theapache64/retrosheet)
+  > 📃 Turn Google Spreadsheet to JSON endpoint (without any login/auth). Supported Platforms: Android, i...
+
 ### [tonquer](https://github.com/tonquer)
 - 🌟 👤 [tonquer](https://github.com/tonquer) Starred [defo-project/ech-dev-utils](https://github.com/defo-project/ech-dev-utils)
   > Scripts, configurations and HOWTOs for playing with Encrypted ClientHello (ECH)
@@ -551,6 +607,9 @@
   > All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a sing...
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [Peregrine123/ROPD_official](https://github.com/Peregrine123/ROPD_official)
 
+### [xypron](https://github.com/xypron)
+- 🍴 👤 [xypron](https://github.com/xypron) Forked [canonical/snap-cinder-volume](https://github.com/canonical/snap-cinder-volume) to [xypron/snap-cinder-volume](https://github.com/xypron/snap-cinder-volume)
+
 ### [ybdt](https://github.com/ybdt)
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [JoasASantos/SysWhispers4](https://github.com/JoasASantos/SysWhispers4)
   > AV/EDR evasion via direct and indirect system calls Windows NT 3.1 through Windows 11 24H2 · x64 · x...
@@ -590,5 +649,5 @@
 
 
 ---
-*最后更新于 2026-06-26 10:51:13 UTC*
+*最后更新于 2026-06-26 13:11:05 UTC*
 *历史记录保存在 `archive` 目录中。*
