@@ -24,6 +24,14 @@
 - 🌟 👤 [Brinmon](https://github.com/Brinmon) Starred [dsclca12/auto_reg](https://github.com/dsclca12/auto_reg)
   > codex全自动注册机
 
+### [ColdWindScholar](https://github.com/ColdWindScholar)
+- 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [remote-android/device_redroid-prebuilts](https://github.com/remote-android/device_redroid-prebuilts) to [ColdWindScholar/device_redroid-prebuilts](https://github.com/ColdWindScholar/device_redroid-prebuilts)
+  > redroid prebuilts
+
+### [CreditTone](https://github.com/CreditTone)
+- 🌟 👤 [CreditTone](https://github.com/CreditTone) Starred [trezor/trezor-firmware](https://github.com/trezor/trezor-firmware)
+  > :lock: Trezor Firmware Monorepo
+
 ### [DeviceObject](https://github.com/DeviceObject)
 - 🌟 👤 [DeviceObject](https://github.com/DeviceObject) Starred [tdragon6/Supershell](https://github.com/tdragon6/Supershell)
   > Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell
@@ -45,6 +53,8 @@
 ### [H3d9](https://github.com/H3d9)
 - 🌟 👤 [H3d9](https://github.com/H3d9) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+- 🌟 👤 [H3d9](https://github.com/H3d9) Starred [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)
+  > An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的...
 
 ### [HdShare](https://github.com/HdShare)
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [tdlib/td](https://github.com/tdlib/td)
@@ -86,6 +96,12 @@
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [DuhMatt/Fxxk-MiBrowser](https://github.com/DuhMatt/Fxxk-MiBrowser)
   > 修复 HyperOS / MIUI 强制使用小米浏览器打开网页链接的问题，改为调用系统默认浏览器。LSPosed module to redirect forced Xiaomi Browser li...
+
+### [Silentsoul04](https://github.com/Silentsoul04)
+- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
+- 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [bikini/exploitarium](https://github.com/bikini/exploitarium) to [Silentsoul04/exploitarium](https://github.com/Silentsoul04/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
 
 ### [Sndav](https://github.com/Sndav)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
@@ -145,6 +161,8 @@
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
   > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
+- 🚀 👤 [ZephrFish](https://github.com/ZephrFish) Made [ZephrFish/harness-kit](https://github.com/ZephrFish/harness-kit) public
+  > A template for building your own AI/LLM harness
 
 ### [answer-huang](https://github.com/answer-huang)
 - 🌟 👤 [answer-huang](https://github.com/answer-huang) Starred [HQarroum/docker-android](https://github.com/HQarroum/docker-android)
@@ -161,6 +179,16 @@
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike)
   > AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting po...
+
+### [banteg](https://github.com/banteg)
+- 🍴 👤 [banteg](https://github.com/banteg) Forked [kaowallet/kao](https://github.com/kaowallet/kao) to [banteg/kao](https://github.com/banteg/kao)
+  > Secure and cute desktop wallet for Ethereum.
+
+### [binbin594738977](https://github.com/binbin594738977)
+- 🌟 👤 [binbin594738977](https://github.com/binbin594738977) Starred [anthropics/skills](https://github.com/anthropics/skills)
+  > Public repository for Agent Skills
+- 🌟 👤 [binbin594738977](https://github.com/binbin594738977) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
 ### [buzzer-re](https://github.com/buzzer-re)
 - 🌟 👤 [buzzer-re](https://github.com/buzzer-re) Starred [Entropic-Science/qr-sampler](https://github.com/Entropic-Science/qr-sampler)
@@ -224,14 +252,26 @@
   > 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / ...
 - 🍴 👤 [hhhaiai](https://github.com/hhhaiai) Forked [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) to [Fhooker/LinkSwift](https://github.com/Fhooker/LinkSwift)
   > 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / ...
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [hanlinwenyuan/hlwy-ai-checker](https://github.com/hanlinwenyuan/hlwy-ai-checker)
+  > 检查第三方AI API是否掺假以及渠道一致
+- 🍴 👤 [hhhaiai](https://github.com/hhhaiai) Forked [hanlinwenyuan/hlwy-ai-checker](https://github.com/hanlinwenyuan/hlwy-ai-checker) to [openChatGpts/hlwy-ai-checker](https://github.com/openChatGpts/hlwy-ai-checker)
+  > 检查第三方AI API是否掺假以及渠道一致
 
 ### [howmp](https://github.com/howmp)
 - 🌟 👤 [howmp](https://github.com/howmp) Starred [y1shiny1shin/KMBA](https://github.com/y1shiny1shin/KMBA)
   > Kill Memshell By Arthas. 基于Arthas的内存马查杀工具
 
+### [jaywcjlove](https://github.com/jaywcjlove)
+- 🌟 👤 [jaywcjlove](https://github.com/jaywcjlove) Starred [jaywcjlove/ffmpeg-kit](https://github.com/jaywcjlove/ffmpeg-kit)
+  > This fork builds FFmpegKit for iOS and macOS with a Swift API and a minimal C bridge to FFmpeg.
+
 ### [kasnria001](https://github.com/kasnria001)
 - 🌟 👤 [kasnria001](https://github.com/kasnria001) Starred [oranav/emmc-talk-2017](https://github.com/oranav/emmc-talk-2017)
   > Slides for eMMC Hacking 2017
+
+### [kylesmile1103](https://github.com/kylesmile1103)
+- 🌟 👤 [kylesmile1103](https://github.com/kylesmile1103) Starred [microsoft/fluentui-react-native](https://github.com/microsoft/fluentui-react-native)
+  > A react-native component library that implements the Fluent Design System.
 
 ### [mcxiaoke](https://github.com/mcxiaoke)
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI)
@@ -273,6 +313,12 @@
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [flatpak/xdg-native-messaging-proxy](https://github.com/flatpak/xdg-native-messaging-proxy)
+
+### [quangnh89](https://github.com/quangnh89)
+- 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+  > 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2...
+- 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
+  > Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning...
 
 ### [qwqdanchun](https://github.com/qwqdanchun)
 - 🌟 👤 [qwqdanchun](https://github.com/qwqdanchun) Starred [MazX0p/LACUNA-Chain](https://github.com/MazX0p/LACUNA-Chain)
@@ -325,6 +371,10 @@
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [SliverKeigo/MossVoice](https://github.com/SliverKeigo/MossVoice)
 
+### [yikeke](https://github.com/yikeke)
+- 🌟 👤 [yikeke](https://github.com/yikeke) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+  > Open-Source Frontier Voice AI
+
 ### [z244370114](https://github.com/z244370114)
 - 🌟 👤 [z244370114](https://github.com/z244370114) Starred [xuelongqy/flutter_easy_refresh](https://github.com/xuelongqy/flutter_easy_refresh)
   > A flutter widget that provides pull-down refresh and pull-up load.
@@ -335,5 +385,5 @@
 
 
 ---
-*最后更新于 2026-06-27 10:08:15 UTC*
+*最后更新于 2026-06-27 12:08:40 UTC*
 *历史记录保存在 `archive` 目录中。*
