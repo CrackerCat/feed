@@ -52,6 +52,8 @@
 ### [ColdWindScholar](https://github.com/ColdWindScholar)
 - 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [remote-android/device_redroid-prebuilts](https://github.com/remote-android/device_redroid-prebuilts) to [ColdWindScholar/device_redroid-prebuilts](https://github.com/ColdWindScholar/device_redroid-prebuilts)
   > redroid prebuilts
+- 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [godotengine/godot](https://github.com/godotengine/godot)
+  > Godot Engine – Multi-platform 2D and 3D game engine
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [google/pprof](https://github.com/google/pprof)
@@ -115,6 +117,14 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer)
   > Universal game trainer for macOS
 
+### [P001water](https://github.com/P001water)
+- 🌟 👤 [P001water](https://github.com/P001water) Starred [OpIntel/XLinks](https://github.com/OpIntel/XLinks)
+  > Links from X Posts
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
+  > 📚 从零开始构建大模型
+
 ### [Reginer](https://github.com/Reginer)
 - 🌟 👤 [Reginer](https://github.com/Reginer) Starred [watermelonKode/kmp-wizard-template-agp-9-build-logic](https://github.com/watermelonKode/kmp-wizard-template-agp-9-build-logic)
   > This repository is created by KMP Wizard originally but updated to use AGP 9 and Build-Logic module ...
@@ -176,6 +186,8 @@
 ### [Udyz](https://github.com/Udyz)
 - 🌟 👤 [Udyz](https://github.com/Udyz) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
   > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
+- 🌟 👤 [Udyz](https://github.com/Udyz) Starred [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
+  > Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 
 ### [Uevo001](https://github.com/Uevo001)
 - 🌟 👤 [Uevo001](https://github.com/Uevo001) Starred [shtorm-7/sing-box-extended](https://github.com/shtorm-7/sing-box-extended)
@@ -250,6 +262,10 @@
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [veath1/LNK-File-WEBDAV-Remote-Code-Execution-Vulnerability](https://github.com/veath1/LNK-File-WEBDAV-Remote-Code-Execution-Vulnerability)
   > Web Distributed Authoring and Versioning (WEBDAV) Remote Code Execution Vulnerability via LNK Files
 
+### [chai2010](https://github.com/chai2010)
+- 🌟 👤 [chai2010](https://github.com/chai2010) Starred [openscad/openscad](https://github.com/openscad/openscad)
+  > OpenSCAD - The Programmers Solid 3D CAD Modeller  
+
 ### [chinleez](https://github.com/chinleez)
 - 🌟 👤 [chinleez](https://github.com/chinleez) Starred [cclank/lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram)
   > Premium hand-drawn animated architecture diagram Codex skill
@@ -279,9 +295,17 @@
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp)
   > Abseil Common Libraries (C++)
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [oguzgundogdu/OguzOS-arm](https://github.com/oguzgundogdu/OguzOS-arm)
+  > Minimal ARM64 (AArch64) operating system written in freestanding C++17 — QEMU virt / UTM on macOS
+
 ### [expend20](https://github.com/expend20)
 - 🍴 👤 [expend20](https://github.com/expend20) Forked [BinPrey/x86Tester](https://github.com/BinPrey/x86Tester) to [expend20/x86Tester](https://github.com/expend20/x86Tester)
   > x86-64 Automated test data generator
+
+### [fawdlstty](https://github.com/fawdlstty)
+- 🍴 👤 [fawdlstty](https://github.com/fawdlstty) Forked [al8n/agnostic](https://github.com/al8n/agnostic) to [fawdlstty/agnostic](https://github.com/fawdlstty/agnostic)
+  > Agnostic is a Rust ecosystem that provides runtime-agnostic abstractions for async operations. Write...
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [sbousseaden/gluegate](https://github.com/sbousseaden/gluegate) to [fengjixuchui/gluegate](https://github.com/fengjixuchui/gluegate)
@@ -326,6 +350,8 @@
   > 检查第三方AI API是否掺假以及渠道一致
 - 🍴 👤 [hhhaiai](https://github.com/hhhaiai) Forked [hanlinwenyuan/hlwy-ai-checker](https://github.com/hanlinwenyuan/hlwy-ai-checker) to [openChatGpts/hlwy-ai-checker](https://github.com/openChatGpts/hlwy-ai-checker)
   > 检查第三方AI API是否掺假以及渠道一致
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [jzcangshu/coze-daily-credit-action](https://github.com/jzcangshu/coze-daily-credit-action)
+  > GitHub Actions 版 Coze 每日积分自动领取脚本，支持 Cookie 登录、自动刷新和 pushplus/Bark 失败通知。
 
 ### [howmp](https://github.com/howmp)
 - 🌟 👤 [howmp](https://github.com/howmp) Starred [y1shiny1shin/KMBA](https://github.com/y1shiny1shin/KMBA)
@@ -338,6 +364,8 @@
 ### [kasnria001](https://github.com/kasnria001)
 - 🌟 👤 [kasnria001](https://github.com/kasnria001) Starred [oranav/emmc-talk-2017](https://github.com/oranav/emmc-talk-2017)
   > Slides for eMMC Hacking 2017
+- 🌟 👤 [kasnria001](https://github.com/kasnria001) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
+  > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable x86_...
 
 ### [kylesmile1103](https://github.com/kylesmile1103)
 - 🌟 👤 [kylesmile1103](https://github.com/kylesmile1103) Starred [microsoft/fluentui-react-native](https://github.com/microsoft/fluentui-react-native)
@@ -385,6 +413,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tomasz-lisowski/swsim](https://github.com/tomasz-lisowski/swsim)
   > A software SIM card.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Exxact-Software/local-agent-benchmark](https://github.com/Exxact-Software/local-agent-benchmark)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tonyd2wild/deepseek-v4-flash-dgx-spark](https://github.com/tonyd2wild/deepseek-v4-flash-dgx-spark)
+  > Working recipe to serve DeepSeek-V4-Flash across two NVIDIA DGX Spark (GB10) nodes with vLLM (TP=2, ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context](https://github.com/MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context)
+  > Deploy DeepSeek V4 Flash (MoE reasoning model) on dual DGX Spark nodes with 1M token context, Infini...
 
 ### [mudongliang](https://github.com/mudongliang)
 - 🌟 👤 [mudongliang](https://github.com/mudongliang) Starred [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)
@@ -402,6 +434,10 @@
 - 🍴 👤 [natsumerinchan](https://github.com/natsumerinchan) Forked [superturtlee/anland](https://github.com/superturtlee/anland) to [natsumerinchan/anland](https://github.com/natsumerinchan/anland)
   > Protocol For Wayland run on android
 
+### [nfh994](https://github.com/nfh994)
+- 🌟 👤 [nfh994](https://github.com/nfh994) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [flatpak/xdg-native-messaging-proxy](https://github.com/flatpak/xdg-native-messaging-proxy)
 
@@ -418,10 +454,20 @@
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [uphiago/recon-skills](https://github.com/uphiago/recon-skills)
   > 144 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets ac...
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [voocel/ainovel-cli](https://github.com/voocel/ainovel-cli)
+  > ✨多agent实现全自动AI小说生成
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [tomasz-lisowski/swsim](https://github.com/tomasz-lisowski/swsim)
+  > A software SIM card.
 
 ### [rikushoney](https://github.com/rikushoney)
 - 🌟 👤 [rikushoney](https://github.com/rikushoney) Starred [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer)
   > A very fast implementation of tldr in Rust.
+
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [201853910/VMwareWorkstation](https://github.com/201853910/VMwareWorkstation)
+  > 手动上传官网的VMwareWorkstation安装包
 
 ### [rosehgal](https://github.com/rosehgal)
 - 🌟 👤 [rosehgal](https://github.com/rosehgal) Starred [ironfisto/ping](https://github.com/ironfisto/ping)
@@ -442,6 +488,10 @@
 ### [sotasan](https://github.com/sotasan)
 - 🌟 👤 [sotasan](https://github.com/sotasan) Starred [evilmartians/lefthook](https://github.com/evilmartians/lefthook)
   > Fast and powerful Git hooks manager for any type of projects.
+
+### [startergo](https://github.com/startergo)
+- 🍴 👤 [startergo](https://github.com/startergo) Forked [WebKit/WebKit](https://github.com/WebKit/WebKit) to [startergo/WebKit](https://github.com/startergo/WebKit)
+  > Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applic...
 
 ### [stfpeak](https://github.com/stfpeak)
 - 🌟 👤 [stfpeak](https://github.com/stfpeak) Starred [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)
@@ -500,5 +550,5 @@
 
 
 ---
-*最后更新于 2026-06-27 14:41:07 UTC*
+*最后更新于 2026-06-27 16:04:19 UTC*
 *历史记录保存在 `archive` 目录中。*
