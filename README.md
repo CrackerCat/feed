@@ -26,6 +26,14 @@
 - 🍴 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Forked [bikini/exploitarium](https://github.com/bikini/exploitarium) to [DeEpinGh0st/exploitarium](https://github.com/DeEpinGh0st/exploitarium)
   > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
 
+### [Exo1i](https://github.com/Exo1i)
+- 🌟 👤 [Exo1i](https://github.com/Exo1i) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
+  > Lore is a next-generation, open source version control system
+
+### [FldBudin](https://github.com/FldBudin)
+- 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye)
+  > Hunt down 840+ social media accounts using AI
+
 ### [FunnyWolf](https://github.com/FunnyWolf)
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
@@ -37,6 +45,10 @@
 ### [Hzllaga](https://github.com/Hzllaga)
 - 🌟 👤 [Hzllaga](https://github.com/Hzllaga) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
   > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
+
+### [KickedDroid](https://github.com/KickedDroid)
+- 🌟 👤 [KickedDroid](https://github.com/KickedDroid) Starred [Zuigetzu/Donut-CustomHost](https://github.com/Zuigetzu/Donut-CustomHost)
+  > Advanced OPSEC fork of Donut. Features a Custom in-memory CLR Host, Tail-Jump ETW bypasses, and zero...
 
 ### [KunMinX](https://github.com/KunMinX)
 - 🌟 👤 [KunMinX](https://github.com/KunMinX) Starred [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)
@@ -51,6 +63,10 @@
 ### [Monoceros406](https://github.com/Monoceros406)
 - 🌟 👤 [Monoceros406](https://github.com/Monoceros406) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+
+### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
+- 🌟 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Starred [jswysnemc/mark-shot](https://github.com/jswysnemc/mark-shot)
+  > Qt 6 Wayland screenshot selection and annotation tool
 
 ### [QingYuan688](https://github.com/QingYuan688)
 - 🍴 👤 [QingYuan688](https://github.com/QingYuan688) Forked [Numbersf/Action-Build](https://github.com/Numbersf/Action-Build) to [QingYuan688/Action-Build](https://github.com/QingYuan688/Action-Build)
@@ -83,6 +99,8 @@
   > Master programming by recreating your favorite technologies from scratch.
 - 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) to [Silentsoul04/build-your-own-x](https://github.com/Silentsoul04/build-your-own-x)
   > Master programming by recreating your favorite technologies from scratch.
+- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [carlospolop/Auto_Wordlists](https://github.com/carlospolop/Auto_Wordlists)
+- 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [carlospolop/Auto_Wordlists](https://github.com/carlospolop/Auto_Wordlists) to [Silentsoul04/Auto_Wordlists](https://github.com/Silentsoul04/Auto_Wordlists)
 
 ### [ThePedroo](https://github.com/ThePedroo)
 - 🌟 👤 [ThePedroo](https://github.com/ThePedroo) Starred [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)
@@ -93,10 +111,16 @@
   > Free library for identifying and fingerprinting Android devices. MIT license, no restrictions on usa...
 - 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [Knight-ZXW/SpWaitKiller](https://github.com/Knight-ZXW/SpWaitKiller)
   > 解决 Sharedpreferences 造成的主线程阻塞问题，避免应用因此造成ANR问题，降低ANR率
+- 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [JeremyLiao/LiveEventBus](https://github.com/JeremyLiao/LiveEventBus)
+  > :mailbox_with_mail:EventBus for Android，消息总线，基于LiveData，具有生命周期感知能力，支持Sticky，支持AndroidX，支持跨进程，支持跨APP
 
 ### [balloonwj](https://github.com/balloonwj)
 - 🍴 👤 [balloonwj](https://github.com/balloonwj) Forked [reactos/reactos](https://github.com/reactos/reactos) to [balloonwj/reactos](https://github.com/balloonwj/reactos)
   > A free Windows-compatible Operating System
+
+### [binary-husky](https://github.com/binary-husky)
+- 🌟 👤 [binary-husky](https://github.com/binary-husky) Starred [friuns2/codex-mobile](https://github.com/friuns2/codex-mobile)
+  > 🚀 Run Codex Mobile Anywhere: Linux, Windows, or Termux on Android 🚀
 
 ### [binjo](https://github.com/binjo)
 - 🍴 👤 [binjo](https://github.com/binjo) Forked [egibs/yara.zed](https://github.com/egibs/yara.zed) to [binjo/yara.zed](https://github.com/binjo/yara.zed)
@@ -107,6 +131,30 @@
   > Protocol For Wayland run on android
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [wuji-labs/nopua](https://github.com/wuji-labs/nopua)
   > 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 ...
+
+### [cozis](https://github.com/cozis)
+- 🌟 👤 [cozis](https://github.com/cozis) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
+  > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no pr...
+
+### [fuhei](https://github.com/fuhei)
+- 🌟 👤 [fuhei](https://github.com/fuhei) Starred [Anning01/AIMedia](https://github.com/Anning01/AIMedia)
+  > AIMedia 是一款自动抓取热点，AI创作文章，自动发布的集成软件。支持头条，小红书，公众号等
+
+### [gmh5225](https://github.com/gmh5225)
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
+  > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) to [gmh5225/DeepSpec](https://github.com/gmh5225/DeepSpec)
+  > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sgkdev/packet_edit_meme](https://github.com/sgkdev/packet_edit_meme) to [gmh5225/packet_edit_meme](https://github.com/gmh5225/packet_edit_meme)
+  > PACKET_EDIT_MEME.c (aka CVE-2026-46331): yet another page cache poisoning nightmare
+
+### [gyyyy](https://github.com/gyyyy)
+- 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
+  > 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
+
+### [hanbings](https://github.com/hanbings)
+- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [input-leap/input-leap](https://github.com/input-leap/input-leap)
+  > Open-source KVM software
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
@@ -122,6 +170,10 @@
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
   > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+
+### [jiqiu2022](https://github.com/jiqiu2022)
+- 🌟 👤 [jiqiu2022](https://github.com/jiqiu2022) Starred [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+  > 《动手学大模型Dive into LLMs》系列编程实践教程
 
 ### [joydo](https://github.com/joydo)
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [bikini/exploitarium](https://github.com/bikini/exploitarium) to [joydo/exploitarium](https://github.com/joydo/exploitarium)
@@ -141,11 +193,25 @@
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [Mengz3/Frida-Hookers](https://github.com/Mengz3/Frida-Hookers)
   > 基于 Frida 的 GUI 集成工具，简单易上手
 
+### [nilaoda](https://github.com/nilaoda)
+- 🌟 👤 [nilaoda](https://github.com/nilaoda) Starred [PLFJY/ContextMenuMgr](https://github.com/PLFJY/ContextMenuMgr)
+  > A powerful utility that help you manage you context menu on Windows and avoid third party to add rub...
+
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [paddor/omq.rs](https://github.com/paddor/omq.rs)
   > Pure Rust ØMQ. Faster than libzmq. Batteries included for demanding workloads.
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [macosforge/alac](https://github.com/macosforge/alac)
   > The Apple Lossless Audio Codec (ALAC) is a lossless audio codec developed by Apple and deployed on a...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [google/oboe](https://github.com/google/oboe)
+  > Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [jelychow/oboe-rust](https://github.com/jelychow/oboe-rust)
+  > Rust-native Android audio path built on Oboe, with Android wrapper demos and OpenAI Realtime sample ...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [RustAudio/cpal](https://github.com/RustAudio/cpal)
+  > Low-level cross-platform audio I/O library in Rust
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [EricLBuehler/trc](https://github.com/EricLBuehler/trc)
+  > A faster Arc.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [mstorsjo/fdk-aac](https://github.com/mstorsjo/fdk-aac)
+  > A standalone library of the Fraunhofer FDK AAC code from Android.
 
 ### [pwh-pwh](https://github.com/pwh-pwh)
 - 🌟 👤 [pwh-pwh](https://github.com/pwh-pwh) Starred [KernelSU-Modules-Repo/netproxy](https://github.com/KernelSU-Modules-Repo/netproxy)
@@ -154,6 +220,10 @@
 ### [rogertan30](https://github.com/rogertan30)
 - 🍴 👤 [rogertan30](https://github.com/rogertan30) Forked [fukuyori/MathCross](https://github.com/fukuyori/MathCross) to [rogertan30/MathCross](https://github.com/rogertan30/MathCross)
   > MathCross is an iPad puzzle game built with SwiftUI.
+
+### [ssfdust](https://github.com/ssfdust)
+- 🌟 👤 [ssfdust](https://github.com/ssfdust) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
+  > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
 ### [taisuii](https://github.com/taisuii)
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [forem/forem](https://github.com/forem/forem)
@@ -173,5 +243,5 @@
 
 
 ---
-*最后更新于 2026-06-28 05:16:14 UTC*
+*最后更新于 2026-06-28 08:51:34 UTC*
 *历史记录保存在 `archive` 目录中。*
