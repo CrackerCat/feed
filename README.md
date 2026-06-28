@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [ArtRuntime](https://github.com/ArtRuntime)
+- 🍴 👤 [ArtRuntime](https://github.com/ArtRuntime) Forked [AngelAuraMC/angelauramc-openjdk-build](https://github.com/AngelAuraMC/angelauramc-openjdk-build) to [ArtRuntime/openjdk-android-hostcraft](https://github.com/ArtRuntime/openjdk-android-hostcraft)
+  > Build and packaging script for building OpenJDK, used for Amethyst
+
 ### [CTF-MissFeng](https://github.com/CTF-MissFeng)
 - 🌟 👤 [CTF-MissFeng](https://github.com/CTF-MissFeng) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
   > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
@@ -34,10 +38,6 @@
 - 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye)
   > Hunt down 840+ social media accounts using AI
 
-### [FunnyWolf](https://github.com/FunnyWolf)
-- 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-  > Skills for Real Engineers. Straight from my .claude directory.
-
 ### [HappyMax0](https://github.com/HappyMax0)
 - 🌟 👤 [HappyMax0](https://github.com/HappyMax0) Starred [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui)
   > Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language...
@@ -50,6 +50,11 @@
 - 🌟 👤 [KickedDroid](https://github.com/KickedDroid) Starred [Zuigetzu/Donut-CustomHost](https://github.com/Zuigetzu/Donut-CustomHost)
   > Advanced OPSEC fork of Donut. Features a Custom in-memory CLR Host, Tail-Jump ETW bypasses, and zero...
 
+### [Konano](https://github.com/Konano)
+- 🍴 👤 [Konano](https://github.com/Konano) Forked [Cyfine/TickTick-Dida365-API-Client](https://github.com/Cyfine/TickTick-Dida365-API-Client) to [Konano/dida365-api](https://github.com/Konano/dida365-api)
+- 🌟 👤 [Konano](https://github.com/Konano) Starred [astral-sh/ruff](https://github.com/astral-sh/ruff)
+  > An extremely fast Python linter and code formatter, written in Rust.
+
 ### [KunMinX](https://github.com/KunMinX)
 - 🌟 👤 [KunMinX](https://github.com/KunMinX) Starred [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather)
   > A feature-rich weather app with good visualizations and more than 50 sources.
@@ -60,9 +65,19 @@
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [droidwayin/GentleDynamics](https://github.com/droidwayin/GentleDynamics)
   > This EasyEffects preset shapes audio and deliver a dynamically balanced, detail-rich sound that evol...
 
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [s0xDk/ghostty-blackhole](https://github.com/s0xDk/ghostty-blackhole)
+  > Ghostty Blackhole puts a real, ray-traced black hole inside your terminal. It grows as Claude Code's...
+
 ### [Monoceros406](https://github.com/Monoceros406)
 - 🌟 👤 [Monoceros406](https://github.com/Monoceros406) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [cclank/lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram)
+  > Premium hand-drawn animated architecture diagram Codex skill
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization](https://github.com/Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization)
+  > ”数学不难“  之  《线性代数不难》上下册，66话题完册；欢迎批评指正
 
 ### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
 - 🌟 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Starred [jswysnemc/mark-shot](https://github.com/jswysnemc/mark-shot)
@@ -71,6 +86,10 @@
 ### [QingYuan688](https://github.com/QingYuan688)
 - 🍴 👤 [QingYuan688](https://github.com/QingYuan688) Forked [Numbersf/Action-Build](https://github.com/Numbersf/Action-Build) to [QingYuan688/Action-Build](https://github.com/QingYuan688/Action-Build)
   > Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2....
+
+### [RiccardoAncarani](https://github.com/RiccardoAncarani)
+- 🌟 👤 [RiccardoAncarani](https://github.com/RiccardoAncarani) Starred [stablyai/orca](https://github.com/stablyai/orca)
+  > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
 
 ### [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO)
 - 🍴 👤 [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO) Forked [vllm-project/vllm](https://github.com/vllm-project/vllm) to [SetsunaYukiOvO/vllm](https://github.com/SetsunaYukiOvO/vllm)
@@ -114,6 +133,10 @@
 - 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [JeremyLiao/LiveEventBus](https://github.com/JeremyLiao/LiveEventBus)
   > :mailbox_with_mail:EventBus for Android，消息总线，基于LiveData，具有生命周期感知能力，支持Sticky，支持AndroidX，支持跨进程，支持跨APP
 
+### [aviraxp](https://github.com/aviraxp)
+- 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [romantcig/Claude-Code-Cache-Keepalive](https://github.com/romantcig/Claude-Code-Cache-Keepalive)
+  > Provide a 5m cache keep-alive for Claude Code. This significantly improves the cache hit rate for lo...
+
 ### [balloonwj](https://github.com/balloonwj)
 - 🍴 👤 [balloonwj](https://github.com/balloonwj) Forked [reactos/reactos](https://github.com/reactos/reactos) to [balloonwj/reactos](https://github.com/balloonwj/reactos)
   > A free Windows-compatible Operating System
@@ -132,9 +155,25 @@
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [wuji-labs/nopua](https://github.com/wuji-labs/nopua)
   > 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 ...
 
+### [coder-pig](https://github.com/coder-pig)
+- 🌟 👤 [coder-pig](https://github.com/coder-pig) Starred [hitmux/hitmux-context-engine](https://github.com/hitmux/hitmux-context-engine)
+  > Semantic code search and context engine for AI coding agents.
+
 ### [cozis](https://github.com/cozis)
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
   > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no pr...
+
+### [dzx1994](https://github.com/dzx1994)
+- 🌟 👤 [dzx1994](https://github.com/dzx1994) Starred [lloves/CloudPhone](https://github.com/lloves/CloudPhone)
+  > 云手机，云游戏，社媒，大型链游PAAS解决方案、移动APP安全方案。
+
+### [easychen](https://github.com/easychen)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [ButzYung/SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline)
+  > XR Animator, AI-based Full Body Motion Capture and Extended Reality (XR) solution, powered by System...
+
+### [eltavine](https://github.com/eltavine)
+- 🌟 👤 [eltavine](https://github.com/eltavine) Starred [Seyud/device_faker](https://github.com/Seyud/device_faker)
+  > 自定义配置Zygisk机型伪装
 
 ### [fuhei](https://github.com/fuhei)
 - 🌟 👤 [fuhei](https://github.com/fuhei) Starred [Anning01/AIMedia](https://github.com/Anning01/AIMedia)
@@ -170,6 +209,10 @@
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
   > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [sgl-project/SpecForge](https://github.com/sgl-project/SpecForge)
+  > Train speculative decoding models effortlessly and port them smoothly to SGLang serving.
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [z-lab/dflash](https://github.com/z-lab/dflash)
+  > DFlash: Block Diffusion for Flash Speculative Decoding
 
 ### [jiqiu2022](https://github.com/jiqiu2022)
 - 🌟 👤 [jiqiu2022](https://github.com/jiqiu2022) Starred [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
@@ -221,9 +264,17 @@
 - 🍴 👤 [rogertan30](https://github.com/rogertan30) Forked [fukuyori/MathCross](https://github.com/fukuyori/MathCross) to [rogertan30/MathCross](https://github.com/rogertan30/MathCross)
   > MathCross is an iPad puzzle game built with SwiftUI.
 
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [Kuroba-Sayuki/VMware-Workstation-Chinese-Localization](https://github.com/Kuroba-Sayuki/VMware-Workstation-Chinese-Localization)
+  > VMware Workstation Pro 25H2「中文翻译」「中文汉化」「旧版本翻译导入方案」「26H1已测试可用」
+
 ### [ssfdust](https://github.com/ssfdust)
 - 🌟 👤 [ssfdust](https://github.com/ssfdust) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
   > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+
+### [surendrajat](https://github.com/surendrajat)
+- 🌟 👤 [surendrajat](https://github.com/surendrajat) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
 
 ### [taisuii](https://github.com/taisuii)
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [forem/forem](https://github.com/forem/forem)
@@ -241,7 +292,21 @@
 - 🌟 👤 [xunchahaha](https://github.com/xunchahaha) Starred [lingbol088-spec/Codex-5.5-codex-instruct-5.5](https://github.com/lingbol088-spec/Codex-5.5-codex-instruct-5.5)
   > Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。
 
+### [yanyaoli](https://github.com/yanyaoli)
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [Yu9191/wloc](https://github.com/Yu9191/wloc)
+  > 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
+
+### [zhaoxuya520](https://github.com/zhaoxuya520)
+- 🌟 👤 [zhaoxuya520](https://github.com/zhaoxuya520) Starred [openai/codex](https://github.com/openai/codex)
+  > Lightweight coding agent that runs in your terminal
+- 🍴 👤 [zhaoxuya520](https://github.com/zhaoxuya520) Forked [openai/codex](https://github.com/openai/codex) to [zhaoxuya520/codex](https://github.com/zhaoxuya520/codex)
+  > Lightweight coding agent that runs in your terminal
+- 🌟 👤 [zhaoxuya520](https://github.com/zhaoxuya520) Starred [zhaoxuya520/codex](https://github.com/zhaoxuya520/codex)
+  > Lightweight coding agent that runs in your terminal
+- 🌟 👤 [zhaoxuya520](https://github.com/zhaoxuya520) Starred [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+  > An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英...
+
 
 ---
-*最后更新于 2026-06-28 08:51:34 UTC*
+*最后更新于 2026-06-28 11:06:56 UTC*
 *历史记录保存在 `archive` 目录中。*
