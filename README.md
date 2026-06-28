@@ -83,6 +83,10 @@
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [KingOfTheNOPs/CDP-Enable-BOF](https://github.com/KingOfTheNOPs/CDP-Enable-BOF)
   > Beacon Object File to Enable Chrome DevTools Protocol (CDP)
 
+### [DMaroo](https://github.com/DMaroo)
+- 🌟 👤 [DMaroo](https://github.com/DMaroo) Starred [ev-sys/evsys-sdk](https://github.com/ev-sys/evsys-sdk)
+  > Infrastructure for thousands of task-specialised models that learn continuously from every interacti...
+
 ### [DavidBuchanan314](https://github.com/DavidBuchanan314)
 - 🌟 👤 [DavidBuchanan314](https://github.com/DavidBuchanan314) Starred [NSMB-Decomp/nsmb](https://github.com/NSMB-Decomp/nsmb)
   > A NSMB decompilation
@@ -293,6 +297,10 @@
   > 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate auton...
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [afshinm/zerobox](https://github.com/afshinm/zerobox)
   > Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any comman...
+- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [anthropics/buffa](https://github.com/anthropics/buffa)
+  > Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views
+- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [cupy/cupy](https://github.com/cupy/cupy)
+  > NumPy & SciPy for GPU
 
 ### [aviraxp](https://github.com/aviraxp)
 - 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [romantcig/Claude-Code-Cache-Keepalive](https://github.com/romantcig/Claude-Code-Cache-Keepalive)
@@ -321,6 +329,12 @@
   > 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 ...
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [akiselev/ghidra-cli](https://github.com/akiselev/ghidra-cli)
   > Rust cli to run ghidra headless on files so that Claude Code and other agents can reverse engineer s...
+
+### [clearbluejar](https://github.com/clearbluejar)
+- 🌟 👤 [clearbluejar](https://github.com/clearbluejar) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+- 🌟 👤 [clearbluejar](https://github.com/clearbluejar) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
 
 ### [coder-pig](https://github.com/coder-pig)
 - 🌟 👤 [coder-pig](https://github.com/coder-pig) Starred [hitmux/hitmux-context-engine](https://github.com/hitmux/hitmux-context-engine)
@@ -480,6 +494,10 @@
 - 🌟 👤 [lanyi233](https://github.com/lanyi233) Starred [liigoQi/defficiency-skills](https://github.com/liigoQi/defficiency-skills)
   > 降效插件集合，降低 Claude Code Agent 工作效率的行为艺术插件。目前支持 ADHD 及 ASD 模式。A collection of anti-productivity skills ...
 
+### [llsc12](https://github.com/llsc12)
+- 🍴 👤 [llsc12](https://github.com/llsc12) Forked [DiscordSRV/Ascension](https://github.com/DiscordSRV/Ascension) to [llsc12/Ascension](https://github.com/llsc12/Ascension)
+  > [Testing builds available on our Discord] Temporary repository for DiscordSRV v3
+
 ### [lux-QAQ](https://github.com/lux-QAQ)
 - 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [SJTU-DENG-Lab/mbd-lms](https://github.com/SJTU-DENG-Lab/mbd-lms)
   > Multi-Block Diffusion Language Models
@@ -569,6 +587,8 @@
 ### [riba2534](https://github.com/riba2534)
 - 🌟 👤 [riba2534](https://github.com/riba2534) Starred [whtis/sagex](https://github.com/whtis/sagex)
   > 本地优先的安卓应用：监听微信通知、按群聊/个人归类，并用任意 OpenAI 兼容大模型生成聊天摘要。
+- 🌟 👤 [riba2534](https://github.com/riba2534) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
+  > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
 ### [rogertan30](https://github.com/rogertan30)
 - 🍴 👤 [rogertan30](https://github.com/rogertan30) Forked [fukuyori/MathCross](https://github.com/fukuyori/MathCross) to [rogertan30/MathCross](https://github.com/rogertan30/MathCross)
@@ -585,6 +605,10 @@
 ### [roomkangali](https://github.com/roomkangali)
 - 🌟 👤 [roomkangali](https://github.com/roomkangali) Starred [Masriyan/semar](https://github.com/Masriyan/semar)
   > Sistem Evaluasi Multi-Agen untuk Risk, konfigurasi & keAmanan aI (A Multi-Agent Evaluation System fo...
+
+### [samanL33T](https://github.com/samanL33T)
+- 🌟 👤 [samanL33T](https://github.com/samanL33T) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
 
 ### [scarsty](https://github.com/scarsty)
 - 🌟 👤 [scarsty](https://github.com/scarsty) Starred [programClown/Lunadroid](https://github.com/programClown/Lunadroid)
@@ -680,5 +704,5 @@
 
 
 ---
-*最后更新于 2026-06-28 19:19:39 UTC*
+*最后更新于 2026-06-28 21:01:09 UTC*
 *历史记录保存在 `archive` 目录中。*
