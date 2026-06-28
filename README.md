@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0x1306a94](https://github.com/0x1306a94)
+- 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [networkextension/swift-freebsd](https://github.com/networkextension/swift-freebsd)
+  > swift-freebsd
+
 ### [0xbinder](https://github.com/0xbinder)
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [radareorg/radare2](https://github.com/radareorg/radare2)
   > UNIX-like reverse engineering framework and command-line toolset
@@ -81,6 +85,8 @@
   > ComfyUI-VRAM-Manager is an independent memory management custom node for ComfyUI. Provides Distorch ...
 - 🌟 👤 [FiYHer](https://github.com/FiYHer) Starred [ByteDance-Seed/SeedVR](https://github.com/ByteDance-Seed/SeedVR)
   > Repo for SeedVR2 (ICLR2026) & SeedVR (CVPR2025 Highlight)
+- 🌟 👤 [FiYHer](https://github.com/FiYHer) Starred [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR)
+  > SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild. Our...
 
 ### [FldBudin](https://github.com/FldBudin)
 - 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye)
@@ -104,6 +110,8 @@
 ### [Hzllaga](https://github.com/Hzllaga)
 - 🌟 👤 [Hzllaga](https://github.com/Hzllaga) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
   > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
+- 🌟 👤 [Hzllaga](https://github.com/Hzllaga) Starred [0xSteph/pentest-ai](https://github.com/0xSteph/pentest-ai)
+  > Offensive-security MCP server with 205 wrapped tools, 17 specialist agents, and 60 SPA-aware probes ...
 
 ### [KickedDroid](https://github.com/KickedDroid)
 - 🌟 👤 [KickedDroid](https://github.com/KickedDroid) Starred [Zuigetzu/Donut-CustomHost](https://github.com/Zuigetzu/Donut-CustomHost)
@@ -195,6 +203,10 @@
   > Master programming by recreating your favorite technologies from scratch.
 - 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [carlospolop/Auto_Wordlists](https://github.com/carlospolop/Auto_Wordlists)
 - 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [carlospolop/Auto_Wordlists](https://github.com/carlospolop/Auto_Wordlists) to [Silentsoul04/Auto_Wordlists](https://github.com/Silentsoul04/Auto_Wordlists)
+
+### [SimonTheCoder](https://github.com/SimonTheCoder)
+- 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+  > Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic...
 
 ### [ThePedroo](https://github.com/ThePedroo)
 - 🌟 👤 [ThePedroo](https://github.com/ThePedroo) Starred [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)
@@ -293,6 +305,12 @@
 - 🌟 👤 [fuhei](https://github.com/fuhei) Starred [Anning01/AIMedia](https://github.com/Anning01/AIMedia)
   > AIMedia 是一款自动抓取热点，AI创作文章，自动发布的集成软件。支持头条，小红书，公众号等
 
+### [fynch3r](https://github.com/fynch3r)
+- 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+  > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
+- 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)
+  > A股全栈数据工具包 · 10层架构 · 40端点 · 13数据源 · 行情/研报(个股+行业)/资金面/筹码/公告/打板/ETF期权/舆情互动全覆盖 | China A-Share full-stac...
+
 ### [gh0stkey](https://github.com/gh0stkey)
 - 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [martinkoutecky/tine](https://github.com/martinkoutecky/tine)
 
@@ -360,9 +378,20 @@
 - 🌟 👤 [lanyi233](https://github.com/lanyi233) Starred [liigoQi/defficiency-skills](https://github.com/liigoQi/defficiency-skills)
   > 降效插件集合，降低 Claude Code Agent 工作效率的行为艺术插件。目前支持 ADHD 及 ASD 模式。A collection of anti-productivity skills ...
 
+### [lux-QAQ](https://github.com/lux-QAQ)
+- 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [SJTU-DENG-Lab/mbd-lms](https://github.com/SJTU-DENG-Lab/mbd-lms)
+  > Multi-Block Diffusion Language Models
+- 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [SJTU-DENG-Lab/Diffulex](https://github.com/SJTU-DENG-Lab/Diffulex)
+  > Flexible and Pluggable Serving Engine for Diffusion LLMs
+
 ### [lxzh](https://github.com/lxzh)
 - 🌟 👤 [lxzh](https://github.com/lxzh) Starred [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
   > Clone any website with one command using AI coding agents
+
+### [mr-m0nst3r](https://github.com/mr-m0nst3r)
+- 🌟 👤 [mr-m0nst3r](https://github.com/mr-m0nst3r) Starred [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk)
+  > ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video genera...
+- 🌟 👤 [mr-m0nst3r](https://github.com/mr-m0nst3r) Starred [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
@@ -370,6 +399,20 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [michaelw9999/advanced-gguf-quantizer](https://github.com/michaelw9999/advanced-gguf-quantizer)
   > A CUDA-accelerated GGUF quantization tool for NVFP4/MXFP6/Q_K, utilizing layer by layer quantization...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [silveroxides/convert_to_quant](https://github.com/silveroxides/convert_to_quant)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [localai-org/apex-quant](https://github.com/localai-org/apex-quant)
+  >  Adaptive Precision for EXpert Models: MoE-aware mixed-precision quantization
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
+  > FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp)
+  > llama.cpp fork with additional SOTA quants and improved performance
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [croll83/llama.cpp-dgx](https://github.com/croll83/llama.cpp-dgx)
+  > llama.cpp fork optimized for NVIDIA DGX Spark / GB10 (Blackwell, SM 12.1) — TurboQuant weights + KV,...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pasky/pi-omplike-advisor](https://github.com/pasky/pi-omplike-advisor)
+  > Pi extension: a persistent second model that reviews the main agent's work each turn and injects con...
+
+### [namjkee](https://github.com/namjkee)
+- 🌟 👤 [namjkee](https://github.com/namjkee) Starred [sharpbracket/redshift](https://github.com/sharpbracket/redshift)
+  > Redshift adjusts the color temperature of your screen according to your surroundings. This may help ...
 
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [Mengz3/Frida-Hookers](https://github.com/Mengz3/Frida-Hookers)
@@ -399,6 +442,12 @@
 - 🌟 👤 [pwh-pwh](https://github.com/pwh-pwh) Starred [KernelSU-Modules-Repo/netproxy](https://github.com/KernelSU-Modules-Repo/netproxy)
   > NetProxy
 
+### [rankalpha](https://github.com/rankalpha)
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace)
+  > qbdi based android arm64 trace tool
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [gal2xy/VMLifter](https://github.com/gal2xy/VMLifter)
+  > VMLifter 是一个基于指令执行轨迹的语义提升工具，专注于值依赖驱动的程序语义重建。
+
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)
   > Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
@@ -412,6 +461,8 @@
   > MathCross is an iPad puzzle game built with SwiftUI.
 - 🌟 👤 [rogertan30](https://github.com/rogertan30) Starred [jaysavsani07/math-metrix](https://github.com/jaysavsani07/math-metrix)
   > This is Math-Puzzle game made in flutter and available on Playstore & AppStore,Math Matrix is a Math...
+- 🌟 👤 [rogertan30](https://github.com/rogertan30) Starred [edoardodc/2plus2-Swift-Student-Challenge-2021](https://github.com/edoardodc/2plus2-Swift-Student-Challenge-2021)
+  > Project awarded by Apple, It is an interactive iOS playground book that helps children learn math us...
 
 ### [rogxo](https://github.com/rogxo)
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [Kuroba-Sayuki/VMware-Workstation-Chinese-Localization](https://github.com/Kuroba-Sayuki/VMware-Workstation-Chinese-Localization)
@@ -448,6 +499,8 @@
 ### [vilebbit](https://github.com/vilebbit)
 - 🌟 👤 [vilebbit](https://github.com/vilebbit) Starred [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy)
   > Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server
+- 🌟 👤 [vilebbit](https://github.com/vilebbit) Starred [ad044/lainTSX](https://github.com/ad044/lainTSX)
+  > WebGL implementation of the Serial Experiments Lain PSX game
 
 ### [wooluo](https://github.com/wooluo)
 - 🍴 👤 [wooluo](https://github.com/wooluo) Forked [vnpy/vnpy](https://github.com/vnpy/vnpy) to [wooluo/vnpy](https://github.com/wooluo/vnpy)
@@ -466,6 +519,10 @@
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [Yu9191/wloc](https://github.com/Yu9191/wloc)
   > 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 
+### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
+- 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe)
+  > No TrickyStore on Canoe
+
 ### [zhaoxuya520](https://github.com/zhaoxuya520)
 - 🌟 👤 [zhaoxuya520](https://github.com/zhaoxuya520) Starred [openai/codex](https://github.com/openai/codex)
   > Lightweight coding agent that runs in your terminal
@@ -482,7 +539,11 @@
 - 🍴 👤 [zhaoxuya520](https://github.com/zhaoxuya520) Forked [XxHuberrr/Mineradio](https://github.com/XxHuberrr/Mineradio) to [zhaoxuya520/Mineradio](https://github.com/zhaoxuya520/Mineradio)
   > 一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。
 
+### [zy445566](https://github.com/zy445566)
+- 🌟 👤 [zy445566](https://github.com/zy445566) Starred [shinyoshiaki/werift-webrtc](https://github.com/shinyoshiaki/werift-webrtc)
+  > WebRTC Implementation for TypeScript (Node.js), includes ICE/DTLS/SCTP/RTP/SRTP/WEBM/MP4
+
 
 ---
-*最后更新于 2026-06-28 13:46:18 UTC*
+*最后更新于 2026-06-28 15:17:26 UTC*
 *历史记录保存在 `archive` 目录中。*
