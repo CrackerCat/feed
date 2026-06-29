@@ -197,6 +197,10 @@
 - 🍴 👤 [People-11](https://github.com/People-11) Forked [Kindness-Kismet/Storage-redirection-X-Public](https://github.com/Kindness-Kismet/Storage-redirection-X-Public) to [People-11/Storage-redirection-X-Public](https://github.com/People-11/Storage-redirection-X-Public)
   > 存储重定向 X
 
+### [Petitoto](https://github.com/Petitoto)
+- 🌟 👤 [Petitoto](https://github.com/Petitoto) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
+
 ### [QingYuan688](https://github.com/QingYuan688)
 - 🍴 👤 [QingYuan688](https://github.com/QingYuan688) Forked [Numbersf/Action-Build](https://github.com/Numbersf/Action-Build) to [QingYuan688/Action-Build](https://github.com/QingYuan688/Action-Build)
   > Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2....
@@ -294,7 +298,7 @@
 
 ### [ant4g0nist](https://github.com/ant4g0nist)
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
-  > 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate auton...
+  > 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous work...
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [afshinm/zerobox](https://github.com/afshinm/zerobox)
   > Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any comman...
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [anthropics/buffa](https://github.com/anthropics/buffa)
@@ -343,10 +347,6 @@
 ### [cozis](https://github.com/cozis)
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
   > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no pr...
-
-### [crazy-max](https://github.com/crazy-max)
-- 🌟 👤 [crazy-max](https://github.com/crazy-max) Starred [planetscale/ghcommit-action](https://github.com/planetscale/ghcommit-action)
-  > GitHub Action to commit files to a git branch using the ghcommit utility
 
 ### [cujanovic](https://github.com/cujanovic)
 - 🌟 👤 [cujanovic](https://github.com/cujanovic) Starred [0xSteph/pentest-ai](https://github.com/0xSteph/pentest-ai)
@@ -407,6 +407,10 @@
   > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)
   > A股全栈数据工具包 · 10层架构 · 40端点 · 13数据源 · 行情/研报(个股+行业)/资金面/筹码/公告/打板/ETF期权/舆情互动全覆盖 | China A-Share full-stac...
+
+### [gentilkiwi](https://github.com/gentilkiwi)
+- 🍴 👤 [gentilkiwi](https://github.com/gentilkiwi) Forked [josevcm/nfc-laboratory](https://github.com/josevcm/nfc-laboratory) to [gentilkiwi/nfc-laboratory](https://github.com/gentilkiwi/nfc-laboratory)
+  >  NFC signal and protocol analyzer using SDR receiver
 
 ### [gh0stkey](https://github.com/gh0stkey)
 - 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [martinkoutecky/tine](https://github.com/martinkoutecky/tine)
@@ -533,6 +537,12 @@
   > llama.cpp fork optimized for NVIDIA DGX Spark / GB10 (Blackwell, SM 12.1) — TurboQuant weights + KV,...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pasky/pi-omplike-advisor](https://github.com/pasky/pi-omplike-advisor)
   > Pi extension: a persistent second model that reviews the main agent's work each turn and injects con...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexknowshtml/claude-memory-health](https://github.com/alexknowshtml/claude-memory-health)
+  > Claude Code skill for auditing your MEMORY.md index — size, orphans, broken links, staleness
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coolthor/musubi](https://github.com/coolthor/musubi)
+  > Musubi (結び) — a knowledge-graph companion for flat-file markdown note systems. Ties your notes toget...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [p-e-w/arrows](https://github.com/p-e-w/arrows)
+  > A frontend for creative writing with LLMs
 
 ### [namjkee](https://github.com/namjkee)
 - 🌟 👤 [namjkee](https://github.com/namjkee) Starred [sharpbracket/redshift](https://github.com/sharpbracket/redshift)
@@ -678,10 +688,6 @@
 - 🌟 👤 [yunsmall](https://github.com/yunsmall) Starred [re-zero-khis/re0-web](https://github.com/re-zero-khis/re0-web)
   > Re0：从零开始的异世界生活 （WEB版）
 
-### [zeroxjf](https://github.com/zeroxjf)
-- 🌟 👤 [zeroxjf](https://github.com/zeroxjf) Starred [straight-tamago/misaka26](https://github.com/straight-tamago/misaka26)
-  > iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore ...
-
 ### [zhaoxuya520](https://github.com/zhaoxuya520)
 - 🌟 👤 [zhaoxuya520](https://github.com/zhaoxuya520) Starred [openai/codex](https://github.com/openai/codex)
   > Lightweight coding agent that runs in your terminal
@@ -704,5 +710,5 @@
 
 
 ---
-*最后更新于 2026-06-28 21:01:09 UTC*
+*最后更新于 2026-06-28 23:01:48 UTC*
 *历史记录保存在 `archive` 目录中。*
