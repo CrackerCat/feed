@@ -327,6 +327,10 @@
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [jaemk/cached](https://github.com/jaemk/cached)
   > Rust cache structures and easy function memoization
 
+### [anticomputer](https://github.com/anticomputer)
+- 🚀 👤 [anticomputer](https://github.com/anticomputer) Made [anticomputer/dev-framework](https://github.com/anticomputer/dev-framework) public
+  > Opt-in agentic software-engineering discipline for the GitHub Copilot CLI: quality-bar rules, peer-r...
+
 ### [aviraxp](https://github.com/aviraxp)
 - 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [clearw5/Auto.js](https://github.com/clearw5/Auto.js)
   > Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
@@ -606,6 +610,16 @@
 - 🌟 👤 [kasnria001](https://github.com/kasnria001) Starred [kasnria001/pwnage24mtk](https://github.com/kasnria001/pwnage24mtk)
   > Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2...
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rabbit-sec/GraphRobber](https://github.com/rabbit-sec/GraphRobber)
+  > Microsoft Graph API post-exploitation framework with a browser-based GUI.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hawktrace/CVE-2026-45504](https://github.com/hawktrace/CVE-2026-45504)
+  > CVE-2026-45504 Microsoft Exchange File Read
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [hawktrace/CVE-2026-45504](https://github.com/hawktrace/CVE-2026-45504) to [killvxk/CVE-2026-45504](https://github.com/killvxk/CVE-2026-45504)
+  > CVE-2026-45504 Microsoft Exchange File Read
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [x86byte/RE-MA-Roadmap](https://github.com/x86byte/RE-MA-Roadmap)
+  > Reverse Engineering and Malware Analysis Roadmap
+
 ### [kingking888](https://github.com/kingking888)
 - 🌟 👤 [kingking888](https://github.com/kingking888) Starred [Xposed-Modules-Repo/xmnh.soulfrog](https://github.com/Xposed-Modules-Repo/xmnh.soulfrog)
   > Soulfrog
@@ -619,6 +633,16 @@
 ### [kost](https://github.com/kost)
 - 🌟 👤 [kost](https://github.com/kost) Starred [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon)
   > Autonomous AI pentesting engine performing continuous offensive security across web, cloud, AD and K...
+
+### [kotori2](https://github.com/kotori2)
+- 🌟 👤 [kotori2](https://github.com/kotori2) Starred [34306/decrypted](https://github.com/34306/decrypted)
+  > FairPlay decryptor (dump iPA) for iOS Application that running on macOS with SIP-enabled, using CVE-...
+- 🌟 👤 [kotori2](https://github.com/kotori2) Starred [silentninjabee/ACE-Anticheat-SDK-Documentation](https://github.com/silentninjabee/ACE-Anticheat-SDK-Documentation)
+  > tencent ACE Anti Cheat SDK - Docs and FAQ for Mobile (ios android) and PC implementation
+- 🌟 👤 [kotori2](https://github.com/kotori2) Starred [34306/TrollDecryptJB](https://github.com/34306/TrollDecryptJB)
+  > Higher iOS IPA Decrypter for JB
+- 🌟 👤 [kotori2](https://github.com/kotori2) Starred [cylentsec/frida-decrypt](https://github.com/cylentsec/frida-decrypt)
+  > A Python tool to decrypt and dump the executable code of iOS applications running on modern jailbrok...
 
 ### [leleliu008](https://github.com/leleliu008)
 - 🌟 👤 [leleliu008](https://github.com/leleliu008) Starred [cpredef/predef](https://github.com/cpredef/predef)
@@ -742,6 +766,10 @@
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [spacehuhn/wifi_ducky](https://github.com/spacehuhn/wifi_ducky)
   > Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4
+
+### [overfl0](https://github.com/overfl0)
+- 🍴 👤 [overfl0](https://github.com/overfl0) Forked [josharghhh/Enfusion_Texture_Packer](https://github.com/josharghhh/Enfusion_Texture_Packer) to [overfl0/Enfusion_Texture_Packer](https://github.com/overfl0/Enfusion_Texture_Packer)
+  > Bakes Texture files for PBR into Enfusion BCR NMO formats TIFS for importing to Enfusion. CLI includ...
 
 ### [pathtofile](https://github.com/pathtofile)
 - 🍴 👤 [pathtofile](https://github.com/pathtofile) Forked [abiosoft/colima](https://github.com/abiosoft/colima) to [pathtofile/colima](https://github.com/pathtofile/colima)
@@ -1058,5 +1086,5 @@
 
 
 ---
-*最后更新于 2026-06-29 19:57:37 UTC*
+*最后更新于 2026-06-29 21:39:06 UTC*
 *历史记录保存在 `archive` 目录中。*
