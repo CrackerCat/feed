@@ -179,6 +179,12 @@
 - 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen)
   > A Swift command line tool for generating your Xcode project
 
+### [LunFengChen](https://github.com/LunFengChen)
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [DenuvoSoftwareSolutions/GAMBA](https://github.com/DenuvoSoftwareSolutions/GAMBA)
+  > Simplification of General Mixed Boolean-Arithmetic Expressions: GAMBA
+- 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [DenuvoSoftwareSolutions/GAMBA](https://github.com/DenuvoSoftwareSolutions/GAMBA) to [LunFengChen/MBA-deob](https://github.com/LunFengChen/MBA-deob)
+  > Simplification of General Mixed Boolean-Arithmetic Expressions: GAMBA
+
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [Orangera1n/spironolactone](https://github.com/Orangera1n/spironolactone)
   > Something, mayhaps?
@@ -204,6 +210,18 @@
 ### [Mister-Kin](https://github.com/Mister-Kin)
 - 🌟 👤 [Mister-Kin](https://github.com/Mister-Kin) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
   > Lore is a next-generation, open source version control system
+
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
+  > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no pr...
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [cilium/tetragon](https://github.com/cilium/tetragon)
+  > eBPF-based Security Observability and Runtime Enforcement
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
+  > Linux Runtime Security and Forensics using eBPF
+
+### [MrIkso](https://github.com/MrIkso)
+- 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [abbaye/WpfHexEditorIDE](https://github.com/abbaye/WpfHexEditorIDE)
+  > WpfHexEditor Studio is a IDE built on WPF and .NET 8, designed for advanced binary analysis and reve...
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
@@ -427,6 +445,10 @@
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [thePlannerIvan/planners-ppt-hell](https://github.com/thePlannerIvan/planners-ppt-hell)
   > A PPT Skill for Planners. 
 
+### [darkskygit](https://github.com/darkskygit)
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [yuanbw2025/storyforge](https://github.com/yuanbw2025/storyforge)
+  > 故事熔炉 StoryForge — AI 小说创作工作台 / AI novel writing workshop
+
 ### [dartcv](https://github.com/dartcv)
 - 🌟 👤 [dartcv](https://github.com/dartcv) Starred [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI)
   > The modding API for Stardew Valley.
@@ -512,6 +534,8 @@
   > Morok is a modular C++23 LLVM New-PM IR obfuscator. It loads as a pass plugin inside clang or opt, r...
 - 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [TanStack/router](https://github.com/TanStack/router)
   > 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) to [gmh5225/ios-location-spoofer](https://github.com/gmh5225/ios-location-spoofer)
+  > Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stas...
 
 ### [grant-h](https://github.com/grant-h)
 - 🌟 👤 [grant-h](https://github.com/grant-h) Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
@@ -770,6 +794,10 @@
 - 🌟 👤 [pwndorei](https://github.com/pwndorei) Starred [0liverFlow/CVE2PoC](https://github.com/0liverFlow/CVE2PoC)
   > CVE2PoC is a tool that helps penetration testers, bug hunters, and security researchers quickly find...
 
+### [qazbnm456](https://github.com/qazbnm456)
+- 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
+  > Why is this running?
+
 ### [qi4L](https://github.com/qi4L)
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [asdfg3482968521-alt/Codex-5.5-codex-instruct-5.5](https://github.com/asdfg3482968521-alt/Codex-5.5-codex-instruct-5.5)
   > Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。
@@ -796,6 +824,8 @@
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [openai/orchard](https://github.com/openai/orchard)
   > Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [cloudflare/boringtun](https://github.com/cloudflare/boringtun)
+  > Userspace WireGuard® Implementation in Rust
 
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [antfu/skills](https://github.com/antfu/skills)
@@ -811,6 +841,10 @@
 
 ### [ret2ldz](https://github.com/ret2ldz)
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [imb4dm4n/Deadly-3000](https://github.com/imb4dm4n/Deadly-3000)
+
+### [ricardojoserf](https://github.com/ricardojoserf)
+- 🌟 👤 [ricardojoserf](https://github.com/ricardojoserf) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
 
 ### [riusksk](https://github.com/riusksk)
 - 🌟 👤 [riusksk](https://github.com/riusksk) Starred [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
@@ -875,6 +909,10 @@
 ### [surunzi](https://github.com/surunzi)
 - 🌟 👤 [surunzi](https://github.com/surunzi) Starred [langfuse/langfuse](https://github.com/langfuse/langfuse)
   > 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playgro...
+
+### [t-wy](https://github.com/t-wy)
+- 🌟 👤 [t-wy](https://github.com/t-wy) Starred [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
+  > We have made you a wrapper you can't refuse
 
 ### [thatstraw](https://github.com/thatstraw)
 - 🍴 👤 [thatstraw](https://github.com/thatstraw) Forked [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) to [thatstraw/AsciidocEngine](https://github.com/thatstraw/AsciidocEngine)
@@ -987,6 +1025,12 @@
 ### [yuan-xy](https://github.com/yuan-xy)
 - 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [Faicad/screenplay](https://github.com/Faicad/screenplay)
 
+### [zacbre](https://github.com/zacbre)
+- 🌟 👤 [zacbre](https://github.com/zacbre) Starred [bitgapp/eqMac](https://github.com/bitgapp/eqMac)
+  > macOS  System-wide Audio Equalizer & Volume Mixer  🎧
+- 🌟 👤 [zacbre](https://github.com/zacbre) Starred [lhndo/LH-Stinger](https://github.com/lhndo/LH-Stinger)
+  > Fast, Precise, Cartesian, FDM 3D Printer
+
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [samugit83/redamon](https://github.com/samugit83/redamon)
   > An AI-powered agentic red team framework that automates offensive security operations, from reconnai...
@@ -1001,5 +1045,5 @@
 
 
 ---
-*最后更新于 2026-07-01 17:55:28 UTC*
+*最后更新于 2026-07-01 19:57:12 UTC*
 *历史记录保存在 `archive` 目录中。*
