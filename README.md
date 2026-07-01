@@ -39,6 +39,8 @@
 ### [Andrea-lyz](https://github.com/Andrea-lyz)
 - 🌟 👤 [Andrea-lyz](https://github.com/Andrea-lyz) Starred [WXRIW/Lyricify-Lyrics-Helper](https://github.com/WXRIW/Lyricify-Lyrics-Helper)
   > 集成 Lyricify 所需的歌词相关功能
+- 🌟 👤 [Andrea-lyz](https://github.com/Andrea-lyz) Starred [amll-dev/applemusic-like-lyrics](https://github.com/amll-dev/applemusic-like-lyrics)
+  > An Apple Music style lyric player component, with React & Vue support. 一个类 Apple Music 歌词显示组件，同时提供 R...
 
 ### [Aniketh01](https://github.com/Aniketh01)
 - 🌟 👤 [Aniketh01](https://github.com/Aniketh01) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
@@ -86,6 +88,8 @@
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [dishather/richprint](https://github.com/dishather/richprint)
   > Print compiler information stored in Rich Header of PE executables.
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [ernestwisniewski/aonw](https://github.com/ernestwisniewski/aonw)
+  > A 4X hex strategy game built with Flutter and Flame
 
 ### [DeEpinGh0st](https://github.com/DeEpinGh0st)
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [0xBlackash/CVE-2026-46331](https://github.com/0xBlackash/CVE-2026-46331)
@@ -172,6 +176,8 @@
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [santifer/career-ops](https://github.com/santifer/career-ops)
   > AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, bat...
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [devlikeapro/waha](https://github.com/devlikeapro/waha)
+  > WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser bas...
 
 ### [Mati365](https://github.com/Mati365)
 - 🌟 👤 [Mati365](https://github.com/Mati365) Starred [ckeditor/skills](https://github.com/ckeditor/skills)
@@ -338,6 +344,10 @@
 - 🍴 👤 [apkunpacker](https://github.com/apkunpacker) Forked [MobiusM/CVE-2026-43499](https://github.com/MobiusM/CVE-2026-43499) to [apkunpacker/CVE-2026-43499](https://github.com/apkunpacker/CVE-2026-43499)
   > CVE-2026-43499 PoC
 
+### [asLody](https://github.com/asLody)
+- 🌟 👤 [asLody](https://github.com/asLody) Starred [sidkshatriya/rr.soft](https://github.com/sidkshatriya/rr.soft)
+  > Run the rr debugger in a Linux VM on apple silicon macOS or in the cloud. Use the rr debugger withou...
+
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [LiYanan2004/MarkdownView](https://github.com/LiYanan2004/MarkdownView)
   > Display markdown content with SwiftUI.
@@ -433,10 +443,6 @@
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)
   > SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agent...
 
-### [egbertbouman](https://github.com/egbertbouman)
-- 🍴 👤 [egbertbouman](https://github.com/egbertbouman) Forked [Tribler/superorganism-experiment](https://github.com/Tribler/superorganism-experiment) to [egbertbouman/superorganism-experiment](https://github.com/egbertbouman/superorganism-experiment)
-  > Unstoppable by design, self-replicating, self-hosted, self-evolving, and human oversight with democr...
-
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
   > :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
@@ -450,6 +456,10 @@
   > Custom IC Creator (ciccreator) is a compiler that takes in a object definition file (JSON), a SPICE ...
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [pluveto/flydav](https://github.com/pluveto/flydav)
   > Setup a tiny webdav server in 30 seconds. Multi-user, path prefix etc. 轻量高效的 WebDav 服务器。
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [DetachHead/rebased](https://github.com/DetachHead/rebased)
+  > A git client based on the IntelliJ platform
 
 ### [evmar](https://github.com/evmar)
 - 🌟 👤 [evmar](https://github.com/evmar) Starred [sdiehl/prism](https://github.com/sdiehl/prism)
@@ -671,6 +681,8 @@
   > Docker configuration for running VLLM on dual DGX Sparks
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [z-lab/dflash](https://github.com/z-lab/dflash)
   > DFlash: Block Diffusion for Flash Speculative Decoding
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🍴 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Forked [Nariod/RustPacker](https://github.com/Nariod/RustPacker) to [nek0y4nsu/RustPacker](https://github.com/nek0y4nsu/RustPacker)
@@ -695,6 +707,10 @@
 
 ### [npjohnson](https://github.com/npjohnson)
 - 🚀 👤 [npjohnson](https://github.com/npjohnson) Made [MindTheGapps/17.0.0-arm-ATV](https://github.com/MindTheGapps/17.0.0-arm-ATV) public
+
+### [oblique](https://github.com/oblique)
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [ryanrudolfoba/SteamOS-Waydroid-Installer](https://github.com/ryanrudolfoba/SteamOS-Waydroid-Installer)
+  > Script to easily install / uninstall Android via Waydroid on the Steam Deck running on SteamOS stabl...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
@@ -861,6 +877,10 @@
 - 🌟 👤 [v9d0g](https://github.com/v9d0g) Starred [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap)
   > Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, ...
 
+### [vavkamil](https://github.com/vavkamil)
+- 🌟 👤 [vavkamil](https://github.com/vavkamil) Starred [matejsmycka/web](https://github.com/matejsmycka/web)
+  > personal-web
+
 ### [vmcall](https://github.com/vmcall)
 - 🍴 👤 [vmcall](https://github.com/vmcall) Forked [momo5502/sogen](https://github.com/momo5502/sogen) to [vmcall/sogen](https://github.com/vmcall/sogen)
   > 🪅 Windows & Linux userspace emulator 
@@ -946,6 +966,10 @@
 - 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
   > A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you...
 
+### [zboralski](https://github.com/zboralski)
+- 🌟 👤 [zboralski](https://github.com/zboralski) Starred [kohkimakimoto/enclave](https://github.com/kohkimakimoto/enclave)
+  > A tool to run any command in a sandboxed environment using macOS's sandbox-exec
+
 ### [zhanghai](https://github.com/zhanghai)
 - 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [sargunv/compose-glfw](https://github.com/sargunv/compose-glfw)
   > JVM Compose host APIs for running Compose UI in GLFW windows.
@@ -993,5 +1017,5 @@
 
 
 ---
-*最后更新于 2026-06-30 21:42:45 UTC*
+*最后更新于 2026-06-30 23:12:48 UTC*
 *历史记录保存在 `archive` 目录中。*
