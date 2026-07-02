@@ -70,6 +70,8 @@
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [apple-oss-distributions/libpthread](https://github.com/apple-oss-distributions/libpthread)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [KingOfTheNOPs/CDP-Toolkit](https://github.com/KingOfTheNOPs/CDP-Toolkit)
+  > Post-ex tool to interact with chromium browser when CDP is enabled
 
 ### [DMaroo](https://github.com/DMaroo)
 - 🌟 👤 [DMaroo](https://github.com/DMaroo) Starred [jolleyDesign/tudo](https://github.com/jolleyDesign/tudo)
@@ -247,9 +249,13 @@
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
   > 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
 
+### [PangBaiWork](https://github.com/PangBaiWork)
+- 🌟 👤 [PangBaiWork](https://github.com/PangBaiWork) Starred [LoseNine/Firefox-FingerPrint-Analyzer](https://github.com/LoseNine/Firefox-FingerPrint-Analyzer)
+  > 一个面向网站指纹风控研究与辅助 JS 逆向学术分析的桌面工具，一键分析web页面指纹风控，可直接将全量日志交给AI进行JS补环境，专用于网站指纹搜集研究和辅助JS补环境。
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [osecurio/mtkview](https://github.com/osecurio/mtkview)
-  > A BinaryNinja loader plugin for MTK Preloaders
+  > A BinaryNinja loader plugin for MTK Preloaders and Little Kernels
 
 ### [Resery](https://github.com/Resery)
 - 🌟 👤 [Resery](https://github.com/Resery) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
@@ -298,10 +304,24 @@
   > ATrace is a tool for tracing execution of binaries on Windows.
 - 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [K2/EhTrace](https://github.com/K2/EhTrace) to [Silentsoul04/EhTrace](https://github.com/Silentsoul04/EhTrace)
   > ATrace is a tool for tracing execution of binaries on Windows.
+- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [oversecured/ovaa](https://github.com/oversecured/ovaa)
+  > Oversecured Vulnerable Android App
+- 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [oversecured/ovaa](https://github.com/oversecured/ovaa) to [Silentsoul04/ovaa](https://github.com/Silentsoul04/ovaa)
+  > Oversecured Vulnerable Android App
 
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
   > Free open-source macOS menu bar toolkit. Per-app volume mixer, system monitor, dock-preview, keep aw...
+
+### [Skorpion96](https://github.com/Skorpion96)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server)
+  > A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [sgkdev/ipv6_frag_escape](https://github.com/sgkdev/ipv6_frag_escape)
+  > Linux LPE - Reliable Jail/Container Escape 
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [0xsha/CVE-2026-6307](https://github.com/0xsha/CVE-2026-6307)
+  > Google Chrome CVE-2026-6307 PoC
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [nuixyz/kanarenshu](https://github.com/nuixyz/kanarenshu)
+  > A minimal TUI application to practise Japanese from the terminal.
 
 ### [Sndav](https://github.com/Sndav)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine)
@@ -327,6 +347,10 @@
 - 🍴 👤 [ThePedroo](https://github.com/ThePedroo) Forked [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) to [ThePedroo/open-gpu-kernel-modules](https://github.com/ThePedroo/open-gpu-kernel-modules)
   > NVIDIA Linux open GPU kernel module source
 
+### [ThunderCls](https://github.com/ThunderCls)
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [tbeezy/ynotv](https://github.com/tbeezy/ynotv)
+  > Modern FOSS Windows IPTV Player w/ Stremio & Nuvio integration
+
 ### [TopCaver](https://github.com/TopCaver)
 - 🌟 👤 [TopCaver](https://github.com/TopCaver) Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
   > 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-perfor...
@@ -350,6 +374,12 @@
   > This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the offic...
 - 🌟 👤 [Yeti-791](https://github.com/Yeti-791) Starred [Yeti-791/Awesome-Offensive-AI-Agentic-Landscape](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape)
   > This document curates open-source projects, academic papers, capability benchmarks, and commercial s...
+
+### [ZehMatt](https://github.com/ZehMatt)
+- 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
+  > Box3D is a 3D physics engine for games
+- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [erincatto/box3d](https://github.com/erincatto/box3d) to [ZehMatt/box3d](https://github.com/ZehMatt/box3d)
+  > Box3D is a 3D physics engine for games
 
 ### [aalansehaiyang](https://github.com/aalansehaiyang)
 - 🌟 👤 [aalansehaiyang](https://github.com/aalansehaiyang) Starred [LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)
@@ -709,6 +739,10 @@
 - 🌟 👤 [lyy289065406](https://github.com/lyy289065406) Starred [wlzh/dji-4g-vohive-mac](https://github.com/wlzh/dji-4g-vohive-mac)
   > 在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步...
 
+### [mahmoudimus](https://github.com/mahmoudimus)
+- 🍴 👤 [mahmoudimus](https://github.com/mahmoudimus) Forked [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) to [mahmoudimus/Cpp2IL](https://github.com/mahmoudimus/Cpp2IL)
+  > Work-in-progress tool to reverse unity's IL2CPP toolchain.
+
 ### [mcxiaoke](https://github.com/mcxiaoke)
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [JingMatrix/Vector](https://github.com/JingMatrix/Vector)
   > Modern Xposed Framework
@@ -736,6 +770,11 @@
   > tool-eval-bench: Qwen3.6-27B GGUF Q8_K_XL vs NVIDIA NVFP4 — head-to-head tool-calling quality compar...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench)
   > Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-tur...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/ifstruct](https://github.com/Liquid4All/ifstruct)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Weschera/spark-bench](https://github.com/Weschera/spark-bench)
+  > Mixed-capability LLM benchmark for DGX Spark — 57 scenarios, 10 domains, partial-credit grading, tri...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lostb1t/Gelato](https://github.com/lostb1t/Gelato)
+  > Jellyfin Stremio Integration Plugin
 
 ### [mrphrazer](https://github.com/mrphrazer)
 - 🚀 👤 [mrphrazer](https://github.com/mrphrazer) Made [mrphrazer/obfuscation_detection_ghidra](https://github.com/mrphrazer/obfuscation_detection_ghidra) public
@@ -760,6 +799,10 @@
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [google/copybara](https://github.com/google/copybara)
   > Copybara: A tool for transforming and moving code between repositories.
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [fakekey/Il2Cpp-Cheat-Source](https://github.com/fakekey/Il2Cpp-Cheat-Source)
+  > An Il2Cpp Cheat source code Demo, using Rise of Eros game
 
 ### [o0xmuhe](https://github.com/o0xmuhe)
 - 🌟 👤 [o0xmuhe](https://github.com/o0xmuhe) Starred [deepcoldy/botmux](https://github.com/deepcoldy/botmux)
@@ -901,6 +944,8 @@
   > Prompt framework that makes LLMs discover real, exploitable vulnerabilities. Six specialized agents ...
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [ExpoSEJS/ExpoSE](https://github.com/ExpoSEJS/ExpoSE)
   > A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with...
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [steipete/oracle](https://github.com/steipete/oracle)
+  > Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
 
 ### [surendrajat](https://github.com/surendrajat)
 - 🌟 👤 [surendrajat](https://github.com/surendrajat) Starred [j-hc/ih8SecureLock](https://github.com/j-hc/ih8SecureLock)
@@ -966,6 +1011,8 @@
   > Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
   > .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [nneonneo/Il2CppVersions](https://github.com/nneonneo/Il2CppVersions)
+  > Build scripts & historical header files for every available minor version of Unity's Il2Cpp project
 
 ### [winezer0](https://github.com/winezer0)
 - 🌟 👤 [winezer0](https://github.com/winezer0) Starred [openai/codex](https://github.com/openai/codex)
@@ -1045,5 +1092,5 @@
 
 
 ---
-*最后更新于 2026-07-01 19:57:12 UTC*
+*最后更新于 2026-07-01 23:15:41 UTC*
 *历史记录保存在 `archive` 目录中。*
