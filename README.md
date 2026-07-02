@@ -1,1096 +1,419 @@
-# 每日 GitHub 动态 (2026-07-01)
+# 每日 GitHub 动态 (2026-07-02)
 
 我关注用户的今日公开动态 (每15分钟更新)。
 
 ## 今日动态
 
-### [0xdad0](https://github.com/0xdad0)
-- 🌟 👤 [0xdad0](https://github.com/0xdad0) Starred [zhlynn/zsign](https://github.com/zhlynn/zsign)
-  > Fast Cross-Platform iOS Code Signing Tool
+### [0xbug](https://github.com/0xbug)
+- 🌟 👤 [0xbug](https://github.com/0xbug) Starred [thesysdev/openui](https://github.com/thesysdev/openui)
+  > The Open Standard for Generative UI
 
-### [0xeb](https://github.com/0xeb)
-- 🚀 👤 [0xeb](https://github.com/0xeb) Made [0xeb/libxsql-rs](https://github.com/0xeb/libxsql-rs) public
-  > Rust port of libxsql C++
-
-### [1193776794](https://github.com/1193776794)
-- 🌟 👤 [1193776794](https://github.com/1193776794) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
-  > Software simulation for Android hardware-backed key pairs with key attestation
-
-### [34306](https://github.com/34306)
-- 🌟 👤 [34306](https://github.com/34306) Starred [Orangera1n/spironolactone](https://github.com/Orangera1n/spironolactone)
-  > Something, mayhaps?
-- 🍴 👤 [34306](https://github.com/34306) Forked [Orangera1n/spironolactone](https://github.com/Orangera1n/spironolactone) to [34306/spironolactone](https://github.com/34306/spironolactone)
-  > Something, mayhaps?
-
-### [36hours](https://github.com/36hours)
-- 🌟 👤 [36hours](https://github.com/36hours) Starred [bobeff/open-source-games](https://github.com/bobeff/open-source-games)
-  > A list of open source games.
-- 🍴 👤 [36hours](https://github.com/36hours) Forked [bobeff/open-source-games](https://github.com/bobeff/open-source-games) to [36hours/open-source-games](https://github.com/36hours/open-source-games)
-  > A list of open source games.
-
-### [AEnjoy](https://github.com/AEnjoy)
-- 🌟 👤 [AEnjoy](https://github.com/AEnjoy) Starred [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock)
-  > A Go library for the Linux Landlock sandboxing feature
-- 🌟 👤 [AEnjoy](https://github.com/AEnjoy) Starred [netascode/go-netconf](https://github.com/netascode/go-netconf)
-  > A simple, fluent Go client library for interacting with network devices using the NETCONF protocol (...
-- 🌟 👤 [AEnjoy](https://github.com/AEnjoy) Starred [nemith/netconf](https://github.com/nemith/netconf)
-  > NETCONF implementation in Go.
-
-### [AlSch092](https://github.com/AlSch092)
-- 🌟 👤 [AlSch092](https://github.com/AlSch092) Starred [armvirus/hook-scanner](https://github.com/armvirus/hook-scanner)
-  > Scans all modules in target process for jmp/int3 hooks dissassembles then and follows jmps to destin...
-
-### [AndreiKud](https://github.com/AndreiKud)
-- 🌟 👤 [AndreiKud](https://github.com/AndreiKud) Starred [chen08209/FlClash](https://github.com/chen08209/FlClash)
-  > A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-
-### [AnkioTomas](https://github.com/AnkioTomas)
-- 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [0xSteph/pentest-ai](https://github.com/0xSteph/pentest-ai)
-  > Offensive-security MCP server with 205 wrapped tools, 17 specialist agents, and 60 SPA-aware probes ...
-
-### [BeneficialCode](https://github.com/BeneficialCode)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [spektor56/OpenpilotToolkit](https://github.com/spektor56/OpenpilotToolkit)
-  > Openpilot Toolkit (OPTK) is a class library and toolkit for interacting with your openpilot / commaa...
-
-### [BolexLiu](https://github.com/BolexLiu)
-- 🌟 👤 [BolexLiu](https://github.com/BolexLiu) Starred [hyqzz/Solar-Wanderer](https://github.com/hyqzz/Solar-Wanderer)
-  > Solar Wanderer / 遨游太阳系 - 1:1 Real-Time Solar System Explorer in the Browser. NASA JPL ephemeris, Web...
-
-### [CasterWx](https://github.com/CasterWx)
-- 🌟 👤 [CasterWx](https://github.com/CasterWx) Starred [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
-  > Free open-source macOS menu bar toolkit. Per-app volume mixer, system monitor, dock-preview, keep aw...
-
-### [Chordp](https://github.com/Chordp)
-- 🌟 👤 [Chordp](https://github.com/Chordp) Starred [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
-  > 🧡 Everything is RSSible
-- 🌟 👤 [Chordp](https://github.com/Chordp) Starred [kanren3/gdb2dmp](https://github.com/kanren3/gdb2dmp)
-  > Convert a live Windows x64 VM exposed through a GDB remote stub into a WinDbg-loadable full kernel c...
-- 🌟 👤 [Chordp](https://github.com/Chordp) Starred [longbridge/longbridge-terminal](https://github.com/longbridge/longbridge-terminal)
-  > AI-native CLI for the Longbridge trading platform with real-time market data, portfolio, and trading...
-
-### [Cracked5pider](https://github.com/Cracked5pider)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [apple-oss-distributions/libpthread](https://github.com/apple-oss-distributions/libpthread)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [KingOfTheNOPs/CDP-Toolkit](https://github.com/KingOfTheNOPs/CDP-Toolkit)
-  > Post-ex tool to interact with chromium browser when CDP is enabled
-
-### [DMaroo](https://github.com/DMaroo)
-- 🌟 👤 [DMaroo](https://github.com/DMaroo) Starred [jolleyDesign/tudo](https://github.com/jolleyDesign/tudo)
-  > Fast, local, keyboard driven todo list TUI
-
-### [DarkLineX](https://github.com/DarkLineX)
-- 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena)
-  > Useless LSPosed Framework Fork
-- 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [schollz/croc](https://github.com/schollz/croc)
-  > Easily and securely send things from one computer to another :crocodile: :package:
-- 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-  > An advanced Kernel based root solution for Android
-- 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [jygzyc/decx](https://github.com/jygzyc/decx)
-  > DECX - Decompiler + X
-- 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring)
-  > Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, a...
-
-### [Dax89](https://github.com/Dax89)
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Jirubizu/reclass-rs](https://github.com/Jirubizu/reclass-rs)
-
-### [DeEpinGh0st](https://github.com/DeEpinGh0st)
-- 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [3516634930/Payloader](https://github.com/3516634930/Payloader)
-  > 渗透测试Payload速查平台 | Pentest Payload Quick Reference | XSS/SQLi/SSRF/RCE | React+TypeScript
-
-### [DragonQuestHero](https://github.com/DragonQuestHero)
-- 🌟 👤 [DragonQuestHero](https://github.com/DragonQuestHero) Starred [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher)
-  > A lightweight Python tool to clean AI refusal responses from Codex CLI session files
-- 🌟 👤 [DragonQuestHero](https://github.com/DragonQuestHero) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
-  > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
-- 🌟 👤 [DragonQuestHero](https://github.com/DragonQuestHero) Starred [darbra/awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse)
-  > ai reverse 一把梭
-- 🌟 👤 [DragonQuestHero](https://github.com/DragonQuestHero) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
-  > Plugin for JADX to integrate MCP server
-
-### [EggUncle](https://github.com/EggUncle)
-- 🌟 👤 [EggUncle](https://github.com/EggUncle) Starred [arxhr007/Aliens_eye](https://github.com/arxhr007/Aliens_eye)
-  > Hunt down 840+ social media accounts using AI
-- 🌟 👤 [EggUncle](https://github.com/EggUncle) Starred [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
-  > A feed-forward 3D foundation model for reconstructing scenes from streaming data
-
-### [Enaium](https://github.com/Enaium)
-- 🌟 👤 [Enaium](https://github.com/Enaium) Starred [webliteca/swingwebview](https://github.com/webliteca/swingwebview)
-  > Java port of the Zserge Webview.  Tiny cross-platform WebView
-
-### [ErodedElk](https://github.com/ErodedElk)
-- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [kimjammer/Neuro](https://github.com/kimjammer/Neuro)
-  > A recreation of Neuro-Sama originally created in 7 days.
-
-### [Fansirsqi](https://github.com/Fansirsqi)
-- 🌟 👤 [Fansirsqi](https://github.com/Fansirsqi) Starred [duolabmeng6/ai_git_commit_gui](https://github.com/duolabmeng6/ai_git_commit_gui)
-
-### [Fanxiaoyao66](https://github.com/Fanxiaoyao66)
-- 🌟 👤 [Fanxiaoyao66](https://github.com/Fanxiaoyao66) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-  > Skills for Real Engineers. Straight from my .claude directory.
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [fxamacker/cbor](https://github.com/fxamacker/cbor)
+  > CBOR codec (RFC 8949, RFC 8742) with CBOR tags, Go struct tag options (toarray, keyasint, omitempty,...
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [intel/tinycbor](https://github.com/intel/tinycbor)
+  > Concise Binary Object Representation (CBOR) Library
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [PJK/libcbor](https://github.com/PJK/libcbor)
+  > CBOR protocol implementation for C
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [yaojingang/yao-meta-skill](https://github.com/yaojingang/yao-meta-skill)
+  > YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system f...
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+  > "Vibe-Trading: Your Personal Trading Agent"
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [facebook/astryx](https://github.com/facebook/astryx)
+  > An open source design system that's fully customizable and agent ready
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [Unclecheng-li/VulnClaw](https://github.com/Unclecheng-li/VulnClaw)
+  > 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+  > Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic)
+  > Instatic is a modern self-hosted visual CMS - get it running in 1 minute
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [yikart/AiToEarn](https://github.com/yikart/AiToEarn)
+  > Let's use AI to Earn!
 
 ### [Freakboy](https://github.com/Freakboy)
-- 🌟 👤 [Freakboy](https://github.com/Freakboy) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-  > Skills for Real Engineers. Straight from my .claude directory.
+- 🚀 👤 [Freakboy](https://github.com/Freakboy) Made [Freakboy/ipsets](https://github.com/Freakboy/ipsets) public
+  > A lightweight Linux web UI for managing IP allowlists and protecting TCP ports with nftables.
 
-### [Frichetten](https://github.com/Frichetten)
-- 🌟 👤 [Frichetten](https://github.com/Frichetten) Starred [elder-plinius/P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3)
-  > universal text transformation, translation, mutation, encoding/decoding, and promptcrafting
-- 🍴 👤 [Frichetten](https://github.com/Frichetten) Forked [elder-plinius/P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3) to [Frichetten/P4RS3LT0NGV3](https://github.com/Frichetten/P4RS3LT0NGV3)
-  > universal text transformation, translation, mutation, encoding/decoding, and promptcrafting
+### [MorvanZhou](https://github.com/MorvanZhou)
+- 🌟 👤 [MorvanZhou](https://github.com/MorvanZhou) Starred [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
+  > DigitalPlat FreeDomain: Free Domain For Everyone
 
-### [GaoYuCan](https://github.com/GaoYuCan)
-- 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [apple/container](https://github.com/apple/container)
-  > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
-- 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [ChiChou/bagbak](https://github.com/ChiChou/bagbak)
-  > [deprecated] Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
-- 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
-  > Pure python3 implementation for working with iDevices (iPhone, etc...).
+### [Rabb1tQ](https://github.com/Rabb1tQ)
+- 🌟 👤 [Rabb1tQ](https://github.com/Rabb1tQ) Starred [PatchRequest/PeregrineAntiCheat](https://github.com/PatchRequest/PeregrineAntiCheat)
+  > An educational anti-cheat system for learning Windows kernel programming, process monitoring, and ch...
 
-### [Hzllaga](https://github.com/Hzllaga)
-- 🌟 👤 [Hzllaga](https://github.com/Hzllaga) Starred [iniwex5/vohive-release](https://github.com/iniwex5/vohive-release)
-
-### [J0o1ey](https://github.com/J0o1ey)
-- 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-  > Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor...
-
-### [Keyird](https://github.com/Keyird)
-- 🌟 👤 [Keyird](https://github.com/Keyird) Starred [GordenSun/GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills)
-  > AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。
-
-### [Knight-ZXW](https://github.com/Knight-ZXW)
-- 🌟 👤 [Knight-ZXW](https://github.com/Knight-ZXW) Starred [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx)
-  > Resolve production issues, fast. An open source observability platform unifying session replays, log...
-- 🌟 👤 [Knight-ZXW](https://github.com/Knight-ZXW) Starred [reqable/reqable-app](https://github.com/reqable/reqable-app)
-  > Reqable issue track repo
-
-### [KyuubiRan](https://github.com/KyuubiRan)
-- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [caigg188/LDStatusPro](https://github.com/caigg188/LDStatusPro)
-  > 一款功能强大的 Linux.do 社区增强工具以及相关综合服务开源项目。包含油猴脚本、LD士多项目前端源码、LDStatusPro官网源码。
-
-### [L4ys](https://github.com/L4ys)
-- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [R0rt1z2/fenrir](https://github.com/R0rt1z2/fenrir)
-  > Let's control MediaTek's bootchain
-- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [R0rt1z2/moto-experiments](https://github.com/R0rt1z2/moto-experiments)
-
-### [LaPhilosophie](https://github.com/LaPhilosophie)
-- 🌟 👤 [LaPhilosophie](https://github.com/LaPhilosophie) Starred [VILA-Lab/Dive-into-Claude-Code](https://github.com/VILA-Lab/Dive-into-Claude-Code)
-  > A Systematic Analysis and Discussion of Claude Code for Designing Today's and Future AI Agent System...
-
-### [Lakr233](https://github.com/Lakr233)
-- 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [cocoonstack/cocoon-macos](https://github.com/cocoonstack/cocoon-macos)
-  > Run full macOS (Tahoe 26) as a QEMU/KVM guest on x86 Linux — image-build automation + thin cocoon-st...
-- 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen)
-  > A Swift command line tool for generating your Xcode project
-
-### [LunFengChen](https://github.com/LunFengChen)
-- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [DenuvoSoftwareSolutions/GAMBA](https://github.com/DenuvoSoftwareSolutions/GAMBA)
-  > Simplification of General Mixed Boolean-Arithmetic Expressions: GAMBA
-- 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [DenuvoSoftwareSolutions/GAMBA](https://github.com/DenuvoSoftwareSolutions/GAMBA) to [LunFengChen/MBA-deob](https://github.com/LunFengChen/MBA-deob)
-  > Simplification of General Mixed Boolean-Arithmetic Expressions: GAMBA
-
-### [Lynnette177](https://github.com/Lynnette177)
-- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [Orangera1n/spironolactone](https://github.com/Orangera1n/spironolactone)
-  > Something, mayhaps?
-- 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [Orangera1n/spironolactone](https://github.com/Orangera1n/spironolactone) to [Lynnette177/spironolactone](https://github.com/Lynnette177/spironolactone)
-  > Something, mayhaps?
-
-### [MBRO95](https://github.com/MBRO95)
-- 🌟 👤 [MBRO95](https://github.com/MBRO95) Starred [P1pp89/ha-ai-automation-builder](https://github.com/P1pp89/ha-ai-automation-builder)
-  > Home Assistant package that generates yaml code for your automations using AI.
-- 🌟 👤 [MBRO95](https://github.com/MBRO95) Starred [bluenazgul/unifi-device-card](https://github.com/bluenazgul/unifi-device-card)
-  > HA Dashboard Card for Unifi Devices (Gateways / Switches / APs)
-
-### [MartinKayJr](https://github.com/MartinKayJr)
-- 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [hikariming/github-roast](https://github.com/hikariming/github-roast)
-  > Savage GitHub Roast · Drop a handle, get a 0–100 value & trust score in 30s plus one brutally honest...
-- 🍴 👤 [MartinKayJr](https://github.com/MartinKayJr) Forked [hikariming/github-roast](https://github.com/hikariming/github-roast) to [MartinKayJr/github-roast](https://github.com/MartinKayJr/github-roast)
-  > Savage GitHub Roast · Drop a handle, get a 0–100 value & trust score in 30s plus one brutally honest...
-
-### [Master-Perng](https://github.com/Master-Perng)
-- 🌟 👤 [Master-Perng](https://github.com/Master-Perng) Starred [ByteYellow/AgentProvenance](https://github.com/ByteYellow/AgentProvenance)
-  > Security-oriented execution observability and Git-like provenance for sandboxed AI agents: verifiabl...
-
-### [Mister-Kin](https://github.com/Mister-Kin)
-- 🌟 👤 [Mister-Kin](https://github.com/Mister-Kin) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
-  > Lore is a next-generation, open source version control system
-
-### [Moe-hacker](https://github.com/Moe-hacker)
-- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
-  > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no pr...
-- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [cilium/tetragon](https://github.com/cilium/tetragon)
-  > eBPF-based Security Observability and Runtime Enforcement
-- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
-  > Linux Runtime Security and Forensics using eBPF
-
-### [MrIkso](https://github.com/MrIkso)
-- 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [abbaye/WpfHexEditorIDE](https://github.com/abbaye/WpfHexEditorIDE)
-  > WpfHexEditor Studio is a IDE built on WPF and .NET 8, designed for advanced binary analysis and reve...
-
-### [Mufanc](https://github.com/Mufanc)
-- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
-  > AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image...
-
-### [NativeStar](https://github.com/NativeStar)
-- 🌟 👤 [NativeStar](https://github.com/NativeStar) Starred [theajack/disable-devtool](https://github.com/theajack/disable-devtool)
-  > Disable web developer tools from the f12 button, right-click and browser menu
-
-### [Nep-Timeline](https://github.com/Nep-Timeline)
-- 🍴 👤 [Nep-Timeline](https://github.com/Nep-Timeline) Forked [fankes/ColorOSNotifyIcon](https://github.com/fankes/ColorOSNotifyIcon) to [Nep-Timeline/ColorOSNotifyIcon](https://github.com/Nep-Timeline/ColorOSNotifyIcon)
-  > Optimize notification icons for ColorOS and adapt to native notification icon specifications.
-- 🚀 👤 [Nep-Timeline](https://github.com/Nep-Timeline) Made [Freezer-Team/libfreezer](https://github.com/Freezer-Team/libfreezer) public
-  > The dependency libraries that Freezer is using
-
-### [P001water](https://github.com/P001water)
-- 🌟 👤 [P001water](https://github.com/P001water) Starred [28Zaaky/Stealth-Keylogger](https://github.com/28Zaaky/Stealth-Keylogger)
-  > Stealth Windows keylogger.
-- 🌟 👤 [P001water](https://github.com/P001water) Starred [RedByte1337/CredSpy](https://github.com/RedByte1337/CredSpy)
-  > Entra ID user enumeration and auth method discovery via the public GetCredentialType API
-
-### [P4nda0s](https://github.com/P4nda0s)
-- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
-  > 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
-
-### [PangBaiWork](https://github.com/PangBaiWork)
-- 🌟 👤 [PangBaiWork](https://github.com/PangBaiWork) Starred [LoseNine/Firefox-FingerPrint-Analyzer](https://github.com/LoseNine/Firefox-FingerPrint-Analyzer)
-  > 一个面向网站指纹风控研究与辅助 JS 逆向学术分析的桌面工具，一键分析web页面指纹风控，可直接将全量日志交给AI进行JS补环境，专用于网站指纹搜集研究和辅助JS补环境。
-
-### [R0rt1z2](https://github.com/R0rt1z2)
-- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [osecurio/mtkview](https://github.com/osecurio/mtkview)
-  > A BinaryNinja loader plugin for MTK Preloaders and Little Kernels
-
-### [Resery](https://github.com/Resery)
-- 🌟 👤 [Resery](https://github.com/Resery) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
-- 🌟 👤 [Resery](https://github.com/Resery) Starred [Virtue-Research/guard-eval-harness](https://github.com/Virtue-Research/guard-eval-harness)
-  > One command to benchmark AI guardrails and coding agents across safety, security, jailbreak, prompt-...
-
-### [RiccardoAncarani](https://github.com/RiccardoAncarani)
-- 🌟 👤 [RiccardoAncarani](https://github.com/RiccardoAncarani) Starred [antirez/ds4](https://github.com/antirez/ds4)
-  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
-
-### [Samael-Z](https://github.com/Samael-Z)
-- 🌟 👤 [Samael-Z](https://github.com/Samael-Z) Starred [frida/luma](https://github.com/frida/luma)
-- 🌟 👤 [Samael-Z](https://github.com/Samael-Z) Starred [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn)
-  > Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86...
-
-### [Satar07](https://github.com/Satar07)
-- 🌟 👤 [Satar07](https://github.com/Satar07) Starred [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe)
-  > No TrickyStore on Canoe
-
-### [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO)
-- 🌟 👤 [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO) Starred [frappe/books](https://github.com/frappe/books)
-  > Free Accounting Software
-
-### [Seyud](https://github.com/Seyud)
-- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [huanchong-99/SoloDawn](https://github.com/huanchong-99/SoloDawn)
-  > GitCortex delivers production-grade software directly from social media conversations. It actively r...
-- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [stvlynn/codex-app](https://github.com/stvlynn/codex-app)
-
-### [SherlockChiang](https://github.com/SherlockChiang)
-- 🌟 👤 [SherlockChiang](https://github.com/SherlockChiang) Starred [HaradaKashiwa/FreeGFW](https://github.com/HaradaKashiwa/FreeGFW)
-  > To allow more people to access the internet.
-
-### [Silentsoul04](https://github.com/Silentsoul04)
-- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [google/copybara](https://github.com/google/copybara)
-  > Copybara: A tool for transforming and moving code between repositories.
-- 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [google/copybara](https://github.com/google/copybara) to [Silentsoul04/copybara](https://github.com/Silentsoul04/copybara)
-  > Copybara: A tool for transforming and moving code between repositories.
-- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [nickspaargaren/no-google](https://github.com/nickspaargaren/no-google)
-  > Completely block Google and its services
-- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [antirez/hnstyle](https://github.com/antirez/hnstyle)
-  > Code to reproduce the Hacker News users fingerprinting with Burrows method
-- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [smartshark/seBERT](https://github.com/smartshark/seBERT)
-- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [arstgit/high-frequency-vocabulary](https://github.com/arstgit/high-frequency-vocabulary)
-  > 30,000 most common English words with Chinese dictionary explanations in order of frequency.
-- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [K2/EhTrace](https://github.com/K2/EhTrace)
-  > ATrace is a tool for tracing execution of binaries on Windows.
-- 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [K2/EhTrace](https://github.com/K2/EhTrace) to [Silentsoul04/EhTrace](https://github.com/Silentsoul04/EhTrace)
-  > ATrace is a tool for tracing execution of binaries on Windows.
-- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [oversecured/ovaa](https://github.com/oversecured/ovaa)
-  > Oversecured Vulnerable Android App
-- 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [oversecured/ovaa](https://github.com/oversecured/ovaa) to [Silentsoul04/ovaa](https://github.com/Silentsoul04/ovaa)
-  > Oversecured Vulnerable Android App
-
-### [SivanLiu](https://github.com/SivanLiu)
-- 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
-  > Free open-source macOS menu bar toolkit. Per-app volume mixer, system monitor, dock-preview, keep aw...
-
-### [Skorpion96](https://github.com/Skorpion96)
-- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server)
-  > A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
-- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [sgkdev/ipv6_frag_escape](https://github.com/sgkdev/ipv6_frag_escape)
-  > Linux LPE - Reliable Jail/Container Escape 
-- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [0xsha/CVE-2026-6307](https://github.com/0xsha/CVE-2026-6307)
-  > Google Chrome CVE-2026-6307 PoC
-- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [nuixyz/kanarenshu](https://github.com/nuixyz/kanarenshu)
-  > A minimal TUI application to practise Japanese from the terminal.
-
-### [Sndav](https://github.com/Sndav)
-- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine)
-  > LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
-
-### [SodaMilk233](https://github.com/SodaMilk233)
-- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [lailongwei/llbc](https://github.com/lailongwei/llbc)
-  > 一个简洁、高性能、跨平台、多语言支持的服务端开发框架，面向Service及Component，底层c++实现。
-
-### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
-- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe)
-  > No TrickyStore on Canoe
-- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
-  > An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [AAswordman/Operit](https://github.com/AAswordman/Operit)
-  > The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent
-
-### [TGSAN](https://github.com/TGSAN)
-- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [leleji/CtYun](https://github.com/leleji/CtYun)
-  > 天翼云电脑保活，阻止休眠，纯协议不影响正常客户端使用
+### [SimonTheCoder](https://github.com/SimonTheCoder)
+- 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [Abyss-c0re/moonlight-android](https://github.com/Abyss-c0re/moonlight-android)
+  > GameStream client for Android
 
 ### [ThePedroo](https://github.com/ThePedroo)
-- 🍴 👤 [ThePedroo](https://github.com/ThePedroo) Forked [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) to [ThePedroo/open-gpu-kernel-modules](https://github.com/ThePedroo/open-gpu-kernel-modules)
-  > NVIDIA Linux open GPU kernel module source
+- 🍴 👤 [ThePedroo](https://github.com/ThePedroo) Forked [colocohen/quico](https://github.com/colocohen/quico) to [ThePedroo/quico](https://github.com/ThePedroo/quico)
+  > Pure JavaScript QUIC/HTTP3 implementation for Node.js
 
-### [ThunderCls](https://github.com/ThunderCls)
-- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [tbeezy/ynotv](https://github.com/tbeezy/ynotv)
-  > Modern FOSS Windows IPTV Player w/ Stremio & Nuvio integration
+### [Tornaco](https://github.com/Tornaco)
+- 🌟 👤 [Tornaco](https://github.com/Tornaco) Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
+  > Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
 
-### [TopCaver](https://github.com/TopCaver)
-- 🌟 👤 [TopCaver](https://github.com/TopCaver) Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
-  > 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-perfor...
-
-### [Werneror](https://github.com/Werneror)
-- 🌟 👤 [Werneror](https://github.com/Werneror) Starred [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)
-  > TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DISREGARD PREV. INSTRUCTS] {*...
+### [WAY29](https://github.com/WAY29)
+- 🌟 👤 [WAY29](https://github.com/WAY29) Starred [weixiao030/poe2_price](https://github.com/weixiao030/poe2_price)
+  > 使用补丁修改游戏通货显示价格
 
 ### [Wh0ale](https://github.com/Wh0ale)
-- 🌟 👤 [Wh0ale](https://github.com/Wh0ale) Starred [Tsojan/TsojanScan](https://github.com/Tsojan/TsojanScan)
-  > An integrated BurpSuite vulnerability detection plug-in.
+- 🌟 👤 [Wh0ale](https://github.com/Wh0ale) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+  > 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2...
 
-### [Yervant7](https://github.com/Yervant7)
-- 🌟 👤 [Yervant7](https://github.com/Yervant7) Starred [kasnria001/pwnage24mtk](https://github.com/kasnria001/pwnage24mtk)
-  > Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2...
-- 🌟 👤 [Yervant7](https://github.com/Yervant7) Starred [R0rt1z2/lkpatcher](https://github.com/R0rt1z2/lkpatcher)
-  > Streamline tool and module to patch bootloader (LK) images of MTK device(s).
-
-### [Yeti-791](https://github.com/Yeti-791)
-- 🌟 👤 [Yeti-791](https://github.com/Yeti-791) Starred [0Chencc/clawgod](https://github.com/0Chencc/clawgod)
-  > This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the offic...
-- 🌟 👤 [Yeti-791](https://github.com/Yeti-791) Starred [Yeti-791/Awesome-Offensive-AI-Agentic-Landscape](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape)
-  > This document curates open-source projects, academic papers, capability benchmarks, and commercial s...
-
-### [ZehMatt](https://github.com/ZehMatt)
-- 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
-  > Box3D is a 3D physics engine for games
-- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [erincatto/box3d](https://github.com/erincatto/box3d) to [ZehMatt/box3d](https://github.com/ZehMatt/box3d)
-  > Box3D is a 3D physics engine for games
-
-### [aalansehaiyang](https://github.com/aalansehaiyang)
-- 🌟 👤 [aalansehaiyang](https://github.com/aalansehaiyang) Starred [LearnPrompt/ai-news-radar](https://github.com/LearnPrompt/ai-news-radar)
-  > 24h AI/tech news radar with GitHub Actions, live web UI, and Scout Skill for AI sources.
-
-### [ant4g0nist](https://github.com/ant4g0nist)
-- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer)
-  > A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
-- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [K-Dense-AI/k-dense-byok](https://github.com/K-Dense-AI/k-dense-byok)
-  > An AI co-scientist powered by Scientific Agent Skills running on your desktop.
+### [alternoegraha](https://github.com/alternoegraha)
+- 🌟 👤 [alternoegraha](https://github.com/alternoegraha) Starred [techyminati/fuck-bpf](https://github.com/techyminati/fuck-bpf)
+  > bpf reverts to make < 4.19 kernel devices boot Android 16 QPR2
 
 ### [aooiuu](https://github.com/aooiuu)
-- 🌟 👤 [aooiuu](https://github.com/aooiuu) Starred [xorbitsai/inference](https://github.com/xorbitsai/inference)
-  > Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech,...
+- 🌟 👤 [aooiuu](https://github.com/aooiuu) Starred [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)
+  > A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Fire...
 
 ### [apkunpacker](https://github.com/apkunpacker)
-- 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [Orangera1n/spironolactone](https://github.com/Orangera1n/spironolactone)
-  > Something, mayhaps?
-- 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [jailbreakdotparty/PancakeStore](https://github.com/jailbreakdotparty/PancakeStore)
-  > A jailed app store app downgrader, based off of MuffinStoreJailed. Supports iOS 16.4+ and does not u...
+- 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [0xsha/CVE-2026-6307](https://github.com/0xsha/CVE-2026-6307)
+  > Google Chrome CVE-2026-6307 PoC
+- 🍴 👤 [apkunpacker](https://github.com/apkunpacker) Forked [0xsha/CVE-2026-6307](https://github.com/0xsha/CVE-2026-6307) to [apkunpacker/CVE-2026-6307](https://github.com/apkunpacker/CVE-2026-6307)
+  > Google Chrome CVE-2026-6307 PoC
 
-### [aprz512](https://github.com/aprz512)
-- 🌟 👤 [aprz512](https://github.com/aprz512) Starred [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace)
-  > qbdi based android arm64 trace tool
-- 🍴 👤 [aprz512](https://github.com/aprz512) Forked [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace) to [aprz512/QTrace](https://github.com/aprz512/QTrace)
-  > qbdi based android arm64 trace tool
+### [canyie](https://github.com/canyie)
+- 🌟 👤 [canyie](https://github.com/canyie) Starred [michalbednarski/OrganizerTransaction](https://github.com/michalbednarski/OrganizerTransaction)
+  > PoC for CVE-2021-39749, allowing starting arbitrary Activity on Android 12L Beta
 
-### [badboycxcc](https://github.com/badboycxcc)
-- 🌟 👤 [badboycxcc](https://github.com/badboycxcc) Starred [AabyssZG/HashDump-BypassEDR](https://github.com/AabyssZG/HashDump-BypassEDR)
-  > Windows绕过EDR实现DumpHash
+### [cctv18](https://github.com/cctv18)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [XboxNahida/ghostty-blackhole-main](https://github.com/XboxNahida/ghostty-blackhole-main)
+  > 适用于Windows环境的黑洞屏保
 
-### [byt3bl33d3r](https://github.com/byt3bl33d3r)
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google/copybara](https://github.com/google/copybara)
-  > Copybara: A tool for transforming and moving code between repositories.
-
-### [byt3n33dl3](https://github.com/byt3n33dl3)
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [Astaruf/OSCP-notes](https://github.com/Astaruf/OSCP-notes)
-  > Collection of command cheat sheets and useful resources for anyone pursuing OSCP certification.
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [verylazytech/OSCP-Resources](https://github.com/verylazytech/OSCP-Resources)
-  > A comprehensive collection of resources, tools, tips, and guides for preparing and succeeding in the...
-
-### [cbwang505](https://github.com/cbwang505)
-- 🌟 👤 [cbwang505](https://github.com/cbwang505) Starred [Colton1skees/Dna](https://github.com/Colton1skees/Dna)
-  > LLVM based static binary analysis framework 
-- 🍴 👤 [cbwang505](https://github.com/cbwang505) Forked [Colton1skees/Dna](https://github.com/Colton1skees/Dna) to [cbwang505/Dna](https://github.com/cbwang505/Dna)
-  > LLVM based static binary analysis framework 
-
-### [chancerly](https://github.com/chancerly)
-- 🌟 👤 [chancerly](https://github.com/chancerly) Starred [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)
-  > Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
+### [ciyze0101](https://github.com/ciyze0101)
+- 🌟 👤 [ciyze0101](https://github.com/ciyze0101) Starred [agent-infra/sandbox](https://github.com/agent-infra/sandbox)
+  > All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a sing...
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
-- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
-  > Tool to build & run portable, lightweight, self-contained virtual machines.
-- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [DependencyTrack/helm-charts](https://github.com/DependencyTrack/helm-charts)
-  > Helm Charts for Dependency-Track
-- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [opencontainers/image-spec](https://github.com/opencontainers/image-spec)
-  > OCI Image Format
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [devops-kung-fu/bomber](https://github.com/devops-kung-fu/bomber)
+  > Scans Software Bill of Materials (SBOMs) for security vulnerabilities
 
-### [codecat](https://github.com/codecat)
-- 🌟 👤 [codecat](https://github.com/codecat) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
-  > Box3D is a 3D physics engine for games
-
-### [codezjx](https://github.com/codezjx)
-- 🌟 👤 [codezjx](https://github.com/codezjx) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
-
-### [cozis](https://github.com/cozis)
-- 🌟 👤 [cozis](https://github.com/cozis) Starred [penberg/vsr-rs](https://github.com/penberg/vsr-rs)
-  > Viewstamped Replication for Rust
-
-### [ctkqiang](https://github.com/ctkqiang)
-- 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [grafana/grafana](https://github.com/grafana/grafana)
-  > The open and composable observability and data visualization platform. Visualize metrics, logs, and ...
-
-### [cxxsheng](https://github.com/cxxsheng)
-- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
-  > 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
+### [cxapython](https://github.com/cxapython)
+- 🌟 👤 [cxapython](https://github.com/cxapython) Starred [carlosplanchon/spidercreator](https://github.com/carlosplanchon/spidercreator)
+  > Automated web scraping spider generation using Browser Use and LLMs. Streamline the creation of Play...
+- 🍴 👤 [cxapython](https://github.com/cxapython) Forked [carlosplanchon/spidercreator](https://github.com/carlosplanchon/spidercreator) to [cxapython/spidercreator](https://github.com/cxapython/spidercreator)
+  > Automated web scraping spider generation using Browser Use and LLMs. Streamline the creation of Play...
 
 ### [darbra](https://github.com/darbra)
-- 🌟 👤 [darbra](https://github.com/darbra) Starred [Pa55w0rd/secknowledge-skill](https://github.com/Pa55w0rd/secknowledge-skill)
-  > SecKnowledge - Web与AI安全测试知识技能
-- 🌟 👤 [darbra](https://github.com/darbra) Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)
-  > Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering,...
-- 🌟 👤 [darbra](https://github.com/darbra) Starred [crazyMarky/pentest-skills](https://github.com/crazyMarky/pentest-skills)
-  > 💬 🚀 告别繁琐命令行，用自然语言驱动专业级渗透测试。 ⚡ 让安全测试从未如此简单、高效。Forget complex command lines. 🛡️ Professional penetrati...
-- 🌟 👤 [darbra](https://github.com/darbra) Starred [yaklang/hack-skills](https://github.com/yaklang/hack-skills)
-  > Helping AI Agent become an awesome practical hacker!
-- 🌟 👤 [darbra](https://github.com/darbra) Starred [DaoYiSec/SecSkills](https://github.com/DaoYiSec/SecSkills)
-  > 收集整理渗透测试、漏洞扫描、代码审计、CTF、逆向、安全研究 等网络安全相关的 Skills和MCP
-- 🌟 👤 [darbra](https://github.com/darbra) Starred [DragonJAR/Android-Pentesting-Skill](https://github.com/DragonJAR/Android-Pentesting-Skill)
-  > Skill de Pentesting para Android
-- 🌟 👤 [darbra](https://github.com/darbra) Starred [thePlannerIvan/planners-ppt-hell](https://github.com/thePlannerIvan/planners-ppt-hell)
-  > A PPT Skill for Planners. 
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)
+  > Codex CLI instruction-file installer for local configuration
 
-### [darkskygit](https://github.com/darkskygit)
-- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [yuanbw2025/storyforge](https://github.com/yuanbw2025/storyforge)
-  > 故事熔炉 StoryForge — AI 小说创作工作台 / AI novel writing workshop
-
-### [dartcv](https://github.com/dartcv)
-- 🌟 👤 [dartcv](https://github.com/dartcv) Starred [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI)
-  > The modding API for Stardew Valley.
-
-### [darvincisec](https://github.com/darvincisec)
-- 🌟 👤 [darvincisec](https://github.com/darvincisec) Starred [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)
-  > Make Any Website into CLI & Use your logged-in browser by AI agent. 
-
-### [dodola](https://github.com/dodola)
-- 🌟 👤 [dodola](https://github.com/dodola) Starred [needle-tools/usd-viewer](https://github.com/needle-tools/usd-viewer)
-  > USD Web Viewer based on Autodesk's WASM USD bindings and a three.js Hydra render delegate
-
-### [dqzg12300](https://github.com/dqzg12300)
-- 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [JingMatrix/TEESimulator](https://github.com/JingMatrix/TEESimulator)
-  > Software simulation for Android hardware-backed key pairs with key attestation
-
-### [dwisiswant0](https://github.com/dwisiswant0)
-- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [google/sec-gemini](https://github.com/google/sec-gemini)
-  > Sec-Gemini  is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower de...
-
-### [egbertbouman](https://github.com/egbertbouman)
-- 🍴 👤 [egbertbouman](https://github.com/egbertbouman) Forked [Tribler/superorganism-experiment](https://github.com/Tribler/superorganism-experiment) to [egbertbouman/superorganism-experiment](https://github.com/egbertbouman/superorganism-experiment)
-  > Unstoppable by design, self-replicating, self-hosted, self-evolving, and human oversight with democr...
-
-### [eggfly](https://github.com/eggfly)
-- 🌟 👤 [eggfly](https://github.com/eggfly) Starred [diegojfer/kmod-cw2217b](https://github.com/diegojfer/kmod-cw2217b)
-  > Cellwise CW2217 I2C battery fuel gauge driver with Linux power_supply support
+### [einverne](https://github.com/einverne)
+- 🌟 👤 [einverne](https://github.com/einverne) Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
+  > The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and N...
+- 🌟 👤 [einverne](https://github.com/einverne) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
+  >  ggml speech-to-text inference for 16+ model families
 
 ### [elllusion](https://github.com/elllusion)
-- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [x-nas/WinsockPacketEditor](https://github.com/x-nas/WinsockPacketEditor)
-  > WPE x64 is a Windows software that can intercept and modify WinSock packets, with adaptive support f...
-- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList)
-  > A new AList Fork to Anti Trust Crisis
-- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [helloxz/zdir](https://github.com/helloxz/zdir)
-  > A multifunctional private storage program that integrates file indexing, online preview, and sharing...
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [gdevic/FPGA-Calculator](https://github.com/gdevic/FPGA-Calculator)
+  > From FPGA Gates to Scientific Calculator
 
-### [eteran](https://github.com/eteran)
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [olmox001/NexsOS1](https://github.com/olmox001/NexsOS1)
-  > A graphical OperatingSystem, OpenSource, based on a hybrid-kernel
-
-### [fanzhidongyzby](https://github.com/fanzhidongyzby)
-- 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [EvoMap/skill2gep](https://github.com/EvoMap/skill2gep)
-  > Distill any procedural Skill into GEP Genes and Capsules (@evomap)
-
-### [feicong](https://github.com/feicong)
-- 🍴 👤 [feicong](https://github.com/feicong) Forked [CarGuo/iOS-Simulator-Camera-Extend](https://github.com/CarGuo/iOS-Simulator-Camera-Extend) to [feicong/iOS-Simulator-Camera-Extend](https://github.com/feicong/iOS-Simulator-Camera-Extend)
-  > SimCam 开源复刻：一份 Mac 帧源同时投到两条链路 —— ① CMIO 系统扩展（QuickTime / FaceTime / Zoom / OBS 选 SimCam Virtual Came...
-
-### [fjh658](https://github.com/fjh658)
-- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)
-  > Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stas...
-
-### [fyrlove](https://github.com/fyrlove)
-- 🍴 👤 [fyrlove](https://github.com/fyrlove) Forked [FishCodeTech/muteki](https://github.com/FishCodeTech/muteki) to [fyrlove/muteki](https://github.com/fyrlove/muteki)
-  > Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm
-
-### [gamelaster](https://github.com/gamelaster)
-- 🌟 👤 [gamelaster](https://github.com/gamelaster) Starred [Ralim/byte-search](https://github.com/Ralim/byte-search)
-  > Fast Byte sequence searching for rust (util crate)
-- 🌟 👤 [gamelaster](https://github.com/gamelaster) Starred [smadi0x86/MDB-MCP](https://github.com/smadi0x86/MDB-MCP)
-  > Multi Debugger MCP server that enables LLMs to interact with GDB and LLDB for binary debugging and a...
-
-### [ganyao114](https://github.com/ganyao114)
-- 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [sudoevolve/EUI-NEO](https://github.com/sudoevolve/EUI-NEO)
-  > EUI-NEO is a cross-platform, high-performance, low-overhead C++17 GPUI framework
-- 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
-  > Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+### [fr0zenrain](https://github.com/fr0zenrain)
+- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [lucky-oi/kpm_svc_call_hook_trace](https://github.com/lucky-oi/kpm_svc_call_hook_trace)
+  > APatch可用的svc call hook kpm模块
 
 ### [gh0stkey](https://github.com/gh0stkey)
-- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce)
-  > Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with a...
-- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)
-  > An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的...
-- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [RuoJi6/dbx-audit](https://github.com/RuoJi6/dbx-audit)
-  > DBX 数据审计版
-- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [chainreactors/proton](https://github.com/chainreactors/proton)
-  > nuclei file protocol engine
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [google/sec-gemini](https://github.com/google/sec-gemini)
+  > Sec-Gemini  is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower de...
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn)
+  > Rust 程序设计语言（2024 edition 施工完毕）
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [sql-js/sql.js](https://github.com/sql-js/sql.js)
+  > A javascript library to run SQLite on the web.  
 
 ### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [facebookresearch/brain2qwerty](https://github.com/facebookresearch/brain2qwerty) to [gmh5225/brain2qwerty](https://github.com/gmh5225/brain2qwerty)
-  > Non-invasive decoding of typed sentences from MEG and EEG brain recordings using a convolutional enc...
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [19h/morok](https://github.com/19h/morok) to [gmh5225/morok](https://github.com/gmh5225/morok)
-  > Morok is a modular C++23 LLVM New-PM IR obfuscator. It loads as a pass plugin inside clang or opt, r...
-- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [TanStack/router](https://github.com/TanStack/router)
-  > 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React...
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) to [gmh5225/ios-location-spoofer](https://github.com/gmh5225/ios-location-spoofer)
-  > Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stas...
-
-### [grant-h](https://github.com/grant-h)
-- 🌟 👤 [grant-h](https://github.com/grant-h) Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
-  > The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and N...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [SunWeb3Sec/bastet-taxonomy](https://github.com/SunWeb3Sec/bastet-taxonomy) to [gmh5225/bastet-taxonomy](https://github.com/gmh5225/bastet-taxonomy)
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [gsanhueza/pi-llama-cpp](https://github.com/gsanhueza/pi-llama-cpp)
+  > Pi extension for llama.cpp integration
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gsanhueza/pi-llama-cpp](https://github.com/gsanhueza/pi-llama-cpp) to [gmh5225/pi-llama-cpp](https://github.com/gmh5225/pi-llama-cpp)
+  > Pi extension for llama.cpp integration
 
 ### [guiying712](https://github.com/guiying712)
-- 🌟 👤 [guiying712](https://github.com/guiying712) Starred [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
-  > OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set p...
-- 🌟 👤 [guiying712](https://github.com/guiying712) Starred [apple/container](https://github.com/apple/container)
-  > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
-- 🌟 👤 [guiying712](https://github.com/guiying712) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
-  > Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/...
+- 🌟 👤 [guiying712](https://github.com/guiying712) Starred [stablyai/orca](https://github.com/stablyai/orca)
+  > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
 
-### [hahwul](https://github.com/hahwul)
-- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
-  > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
-- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
-  > Manage your macOS using Nix
-- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [google/sec-gemini](https://github.com/google/sec-gemini)
-  > Sec-Gemini  is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower de...
+### [hiikezoe](https://github.com/hiikezoe)
+- 🍴 👤 [hiikezoe](https://github.com/hiikezoe) Forked [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts) to [hiikezoe/csswg-drafts](https://github.com/hiikezoe/csswg-drafts)
+  > CSS Working Group Editor Drafts
 
-### [halfkiss](https://github.com/halfkiss)
-- 🌟 👤 [halfkiss](https://github.com/halfkiss) Starred [reqable/reqable-mcp-server](https://github.com/reqable/reqable-mcp-server)
-  > Reqable MCP server is a command-line tool for connecting your AI to Reqable
-- 🌟 👤 [halfkiss](https://github.com/halfkiss) Starred [jygzyc/decx](https://github.com/jygzyc/decx)
-  > DECX - Decompiler + X
-- 🌟 👤 [halfkiss](https://github.com/halfkiss) Starred [larlarua/AutoCVE](https://github.com/larlarua/AutoCVE)
-  > Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, ...
-
-### [hanbings](https://github.com/hanbings)
-- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
-  > A Git-compatible VCS that is both simple and powerful
-- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-  > ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [bensadeh/tailspin](https://github.com/bensadeh/tailspin)
-  > 🌀 A log file highlighter
-- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [LingWuMicrosystems/flat_cont](https://github.com/LingWuMicrosystems/flat_cont)
-- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [LingWuMicrosystems/quine](https://github.com/LingWuMicrosystems/quine)
-
-### [happydog-intj](https://github.com/happydog-intj)
-- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
-  > AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a v...
-
-### [heeeeen](https://github.com/heeeeen)
-- 🌟 👤 [heeeeen](https://github.com/heeeeen) Starred [jygzyc/decx](https://github.com/jygzyc/decx)
-  > DECX - Decompiler + X
-
-### [hujiayucc](https://github.com/hujiayucc)
-- 🌟 👤 [hujiayucc](https://github.com/hujiayucc) Starred [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
-  > LSPosed Framework
-
-### [imj01y](https://github.com/imj01y)
-- 🌟 👤 [imj01y](https://github.com/imj01y) Starred [icloudza/termo](https://github.com/icloudza/termo)
-  > 原生 macOS 远程工作台：SSH · SFTP · 终端 · RDP · 端口转发 · 主机监控 | Native macOS remote workbench
-
-### [imlk0](https://github.com/imlk0)
-- 🌟 👤 [imlk0](https://github.com/imlk0) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
-  > Write HTML. Render video. Built for agents.
-- 🌟 👤 [imlk0](https://github.com/imlk0) Starred [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
-  > Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandbo...
-
-### [iraizo](https://github.com/iraizo)
-- 🌟 👤 [iraizo](https://github.com/iraizo) Starred [noname08662/awesome_wotlk](https://github.com/noname08662/awesome_wotlk)
-  > awesome_wotlk
-
-### [iswbm](https://github.com/iswbm)
-- 🌟 👤 [iswbm](https://github.com/iswbm) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-  > Skills for Real Engineers. Straight from my .claude directory.
-
-### [jas502n](https://github.com/jas502n)
-- 🌟 👤 [jas502n](https://github.com/jas502n) Starred [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)
-  > A rule-based tunnel for Android.
-
-### [jianglin-code](https://github.com/jianglin-code)
-- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [asterinas/asterinas](https://github.com/asterinas/asterinas)
-  > Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.
-- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [Tencent/wcdb](https://github.com/Tencent/wcdb)
-  > WCDB is a cross-platform database framework developed by WeChat.
-
-### [jpacg](https://github.com/jpacg)
-- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)
-- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs)
-  > macOS: mount any linux-supported filesystem read/write using NFS and a microVM
-
-### [junknet](https://github.com/junknet)
-- 🌟 👤 [junknet](https://github.com/junknet) Starred [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)
-  > A rule-based tunnel for Android.
-
-### [keleus](https://github.com/keleus)
-- 🌟 👤 [keleus](https://github.com/keleus) Starred [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
-  > Typescript/React Library for AI Chat💬🚀
-
-### [kernelzeroday](https://github.com/kernelzeroday)
-- 🌟 👤 [kernelzeroday](https://github.com/kernelzeroday) Starred [google/copybara](https://github.com/google/copybara)
-  > Copybara: A tool for transforming and moving code between repositories.
-
-### [killvxk](https://github.com/killvxk)
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [sgkdev/packet_edit_meme](https://github.com/sgkdev/packet_edit_meme)
-  > PACKET_EDIT_MEME.c (aka CVE-2026-46331): yet another page cache poisoning nightmare
-- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [sgkdev/packet_edit_meme](https://github.com/sgkdev/packet_edit_meme) to [killvxk/packet_edit_meme](https://github.com/killvxk/packet_edit_meme)
-  > PACKET_EDIT_MEME.c (aka CVE-2026-46331): yet another page cache poisoning nightmare
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [oframe/ogpu](https://github.com/oframe/ogpu)
-  > Minimal WebGPU Library
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [pinkflawd/MIPSReverseEngineeringWorkshop](https://github.com/pinkflawd/MIPSReverseEngineeringWorkshop)
-  > Materials for my MIPS workshop at Recon 2026
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [impost0r/Cottou](https://github.com/impost0r/Cottou)
-  > dyld rebase out-of-bounds segment index ACE
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [danoszz/penthera](https://github.com/danoszz/penthera)
-  > Lightweight website/app security scanner for vibecoded apps:: run it from your AI agent (Cursor/Clau...
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Offensive-Panda/ShadowDumper](https://github.com/Offensive-Panda/ShadowDumper)
-  > Shadow Dumper is a powerful tool used to dump LSASS memory, often needed in penetration testing and ...
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [cogiceo/GPOHound](https://github.com/cogiceo/GPOHound)
-  > Offensive GPO dumping and analysis tool that leverages and enriches BloodHound data
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [nhuhuan/sba](https://github.com/nhuhuan/sba)
-  > Static Binary Analysis Framework
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hacefresko/forticrack_v8](https://github.com/hacefresko/forticrack_v8)
-  > Decrypt and extract FortiOS 8.0.0 firmware images. 
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0x4D31/endpoint-ai-agent-abuse](https://github.com/0x4D31/endpoint-ai-agent-abuse)
-  > EAA is a curated catalog of techniques for abusing local AI agents, especially coding agents, throug...
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jpablo/dspy4s](https://github.com/jpablo/dspy4s)
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [uellenberg/Insert](https://github.com/uellenberg/Insert)
-  > Insert is a programming language for self-modifying code.
-- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [jpablo/dspy4s](https://github.com/jpablo/dspy4s) to [killvxk/dspy4s](https://github.com/killvxk/dspy4s)
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [do4choo/CVE-2026-3227-TP-Link-authenticated-RCE](https://github.com/do4choo/CVE-2026-3227-TP-Link-authenticated-RCE)
-- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [do4choo/CVE-2026-3227-TP-Link-authenticated-RCE](https://github.com/do4choo/CVE-2026-3227-TP-Link-authenticated-RCE) to [killvxk/CVE-2026-3227-TP-Link-authenticated-RCE](https://github.com/killvxk/CVE-2026-3227-TP-Link-authenticated-RCE)
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
-  > IDA Pro RPC for assisted RE-tasks
-- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc) to [killvxk/ida_rpc](https://github.com/killvxk/ida_rpc)
-  > IDA Pro RPC for assisted RE-tasks
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [x86matthew/InstrumentationCallbackSyscallLogger](https://github.com/x86matthew/InstrumentationCallbackSyscallLogger)
-  > A simple proof-of-concept Windows syscall logger using the NT instrumentation callback mechanism.
-- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [x86matthew/InstrumentationCallbackSyscallLogger](https://github.com/x86matthew/InstrumentationCallbackSyscallLogger) to [killvxk/InstrumentationCallbackSyscallLogger](https://github.com/killvxk/InstrumentationCallbackSyscallLogger)
-  > A simple proof-of-concept Windows syscall logger using the NT instrumentation callback mechanism.
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo)
-  > A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
-  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
-  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
-
-### [kingking888](https://github.com/kingking888)
-- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
-  > A privacy-first, self-hosted, fully open source personal knowledge management software, written in t...
-
-### [langgithub](https://github.com/langgithub)
-- 🌟 👤 [langgithub](https://github.com/langgithub) Starred [sqxy090123/VulnKit](https://github.com/sqxy090123/VulnKit)
-
-### [leolovenet](https://github.com/leolovenet)
-- 🌟 👤 [leolovenet](https://github.com/leolovenet) Starred [frida/frida-website](https://github.com/frida/frida-website)
-  > Frida's website
-
-### [leommxj](https://github.com/leommxj)
-- 🌟 👤 [leommxj](https://github.com/leommxj) Starred [halmartin/meraki-openwrt-docs](https://github.com/halmartin/meraki-openwrt-docs)
-  > Documentation for installing OpenWrt on various Meraki devices
-
-### [libra146](https://github.com/libra146)
-- 🌟 👤 [libra146](https://github.com/libra146) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
-  > A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project...
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [michalbednarski/OrganizerTransaction](https://github.com/michalbednarski/OrganizerTransaction)
+  > PoC for CVE-2021-39749, allowing starting arbitrary Activity on Android 12L Beta
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [revfactory/harness-paper](https://github.com/revfactory/harness-paper)
+  > Harness Engineering 서베이 2026 — arXiv API로 적대적 검증한 논문 86편의 연구 지형 (환각 인용 0건) + 인터랙티브 웹페이지
 
 ### [lucky-oi](https://github.com/lucky-oi)
 - 🌟 👤 [lucky-oi](https://github.com/lucky-oi) Starred [lucky-oi/kpm_svc_call_hook_trace](https://github.com/lucky-oi/kpm_svc_call_hook_trace)
   > APatch可用的svc call hook kpm模块
 
-### [lux-QAQ](https://github.com/lux-QAQ)
-- 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [std-microblock/fripack](https://github.com/std-microblock/fripack)
-  > Package your Frida script into an executable.
+### [lz6688](https://github.com/lz6688)
+- 🍴 👤 [lz6688](https://github.com/lz6688) Forked [Orangera1n/spironolactone](https://github.com/Orangera1n/spironolactone) to [lz6688/spironolactone](https://github.com/lz6688/spironolactone)
+  > Something, mayhaps?
 
-### [lyy289065406](https://github.com/lyy289065406)
-- 🌟 👤 [lyy289065406](https://github.com/lyy289065406) Starred [keycloak/keycloak](https://github.com/keycloak/keycloak)
-  > Open Source Identity and Access Management For Modern Applications and Services
-- 🌟 👤 [lyy289065406](https://github.com/lyy289065406) Starred [wlzh/dji-4g-vohive-mac](https://github.com/wlzh/dji-4g-vohive-mac)
-  > 在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步...
+### [marlkiller](https://github.com/marlkiller)
+- 🍴 👤 [marlkiller](https://github.com/marlkiller) Forked [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) to [marlkiller/CloudPaste](https://github.com/marlkiller/CloudPaste)
+  > 🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、H...
 
-### [mahmoudimus](https://github.com/mahmoudimus)
-- 🍴 👤 [mahmoudimus](https://github.com/mahmoudimus) Forked [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) to [mahmoudimus/Cpp2IL](https://github.com/mahmoudimus/Cpp2IL)
-  > Work-in-progress tool to reverse unity's IL2CPP toolchain.
+### [mokeyjay](https://github.com/mokeyjay)
+- 🌟 👤 [mokeyjay](https://github.com/mokeyjay) Starred [markrahq/markra](https://github.com/markrahq/markra)
+  > A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local.
 
-### [mcxiaoke](https://github.com/mcxiaoke)
-- 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [JingMatrix/Vector](https://github.com/JingMatrix/Vector)
-  > Modern Xposed Framework
-- 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
-  > The Magic Mask for Android
-- 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [liuzq2002/Adguard-Home-For-Magisk-Mod](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod)
+### [mzfr](https://github.com/mzfr)
+- 🌟 👤 [mzfr](https://github.com/mzfr) Starred [michalbednarski/OrganizerTransaction](https://github.com/michalbednarski/OrganizerTransaction)
+  > PoC for CVE-2021-39749, allowing starting arbitrary Activity on Android 12L Beta
 
-### [mdcgqq](https://github.com/mdcgqq)
-- 🌟 👤 [mdcgqq](https://github.com/mdcgqq) Starred [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat)
-  > 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
-- 🌟 👤 [mdcgqq](https://github.com/mdcgqq) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-  > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-- 🌟 👤 [mdcgqq](https://github.com/mdcgqq) Starred [QuantConnect/Lean](https://github.com/QuantConnect/Lean)
-  > Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
-
-### [mohuihui](https://github.com/mohuihui)
-- 🌟 👤 [mohuihui](https://github.com/mohuihui) Starred [antgroup/Napaxi](https://github.com/antgroup/Napaxi)
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gsanhueza/pi-llama-cpp](https://github.com/gsanhueza/pi-llama-cpp)
-  > Pi extension for llama.cpp integration
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
-  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Unsloth-Qwen3.6-27B-UD-Q8_K_XL_vs_nvidia-Qwen3.6-27B-NVFP4_tools_eval](https://github.com/MiaAI-Lab/Unsloth-Qwen3.6-27B-UD-Q8_K_XL_vs_nvidia-Qwen3.6-27B-NVFP4_tools_eval)
-  > tool-eval-bench: Qwen3.6-27B GGUF Q8_K_XL vs NVIDIA NVFP4 — head-to-head tool-calling quality compar...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench)
-  > Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-tur...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/ifstruct](https://github.com/Liquid4All/ifstruct)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Weschera/spark-bench](https://github.com/Weschera/spark-bench)
-  > Mixed-capability LLM benchmark for DGX Spark — 57 scenarios, 10 domains, partial-credit grading, tri...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lostb1t/Gelato](https://github.com/lostb1t/Gelato)
-  > Jellyfin Stremio Integration Plugin
-
-### [mrphrazer](https://github.com/mrphrazer)
-- 🚀 👤 [mrphrazer](https://github.com/mrphrazer) Made [mrphrazer/obfuscation_detection_ghidra](https://github.com/mrphrazer/obfuscation_detection_ghidra) public
-  > Ghidra plugin to identify obfuscated code and other interesting code constructs
-
-### [msanft](https://github.com/msanft)
-- 🌟 👤 [msanft](https://github.com/msanft) Starred [srlabs/golibafl](https://github.com/srlabs/golibafl)
-  > Fuzz go code using LibAFL's capabilities with Go’s native instrumentation.
-
-### [mudongliang](https://github.com/mudongliang)
-- 🌟 👤 [mudongliang](https://github.com/mudongliang) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-
-### [muellan](https://github.com/muellan)
-- 🌟 👤 [muellan](https://github.com/muellan) Starred [J-Cowsert/classlayout.nvim](https://github.com/J-Cowsert/classlayout.nvim)
-  > Neovim plugin to visualize C/C++ class/struct memory layouts using clang
-
-### [nek0y4nsu](https://github.com/nek0y4nsu)
-- 🍴 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Forked [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) to [nek0y4nsu/atomic-red-team](https://github.com/nek0y4nsu/atomic-red-team)
-  > Small and highly portable detection tests based on MITRE's ATT&CK.
+### [netxfly](https://github.com/netxfly)
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [Unclecheng-li/VulnClaw](https://github.com/Unclecheng-li/VulnClaw)
+  > 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
 
 ### [null-dev](https://github.com/null-dev)
-- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [google/copybara](https://github.com/google/copybara)
-  > Copybara: A tool for transforming and moving code between repositories.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC)
+  > Native macOS HD audio for not officially supported codecs
 
-### [nzcv](https://github.com/nzcv)
-- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [fakekey/Il2Cpp-Cheat-Source](https://github.com/fakekey/Il2Cpp-Cheat-Source)
-  > An Il2Cpp Cheat source code Demo, using Rise of Eros game
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mvt-project/mvt](https://github.com/mvt-project/mvt)
+  > MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find...
 
-### [o0xmuhe](https://github.com/o0xmuhe)
-- 🌟 👤 [o0xmuhe](https://github.com/o0xmuhe) Starred [deepcoldy/botmux](https://github.com/deepcoldy/botmux)
-  > Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topi...
-
-### [oblique](https://github.com/oblique)
-- 🌟 👤 [oblique](https://github.com/oblique) Starred [gouwsxander/Reef](https://github.com/gouwsxander/Reef)
-  > The macOS window manager that gives every app its own Alt-Tab.
-
-### [omeraydindev](https://github.com/omeraydindev)
-- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [philipl/pifs](https://github.com/philipl/pifs)
-  > πfs - the data-free filesystem!
-- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [philipl/inferencefs](https://github.com/philipl/inferencefs)
-  > The new data-free filesystem!
-
-### [pengwei1024](https://github.com/pengwei1024)
-- 🌟 👤 [pengwei1024](https://github.com/pengwei1024) Starred [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey)
-  > Perfect Green Screen Keys
-
-### [plusls](https://github.com/plusls)
-- 🌟 👤 [plusls](https://github.com/plusls) Starred [aprils148/cpa_websearch_proxy](https://github.com/aprils148/cpa_websearch_proxy)
-  > A lightweight proxy that adds web_search support to Claude Code via Gemini's googleSearch. Designed ...
-
-### [prife](https://github.com/prife)
-- 🌟 👤 [prife](https://github.com/prife) Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)
-  > The open agent skills tool - npx skills
-
-### [pwh-pwh](https://github.com/pwh-pwh)
-- 🌟 👤 [pwh-pwh](https://github.com/pwh-pwh) Starred [pwh-pwh/rapid-ocr](https://github.com/pwh-pwh/rapid-ocr)
-
-### [pwndorei](https://github.com/pwndorei)
-- 🌟 👤 [pwndorei](https://github.com/pwndorei) Starred [0liverFlow/CVE2PoC](https://github.com/0liverFlow/CVE2PoC)
-  > CVE2PoC is a tool that helps penetration testers, bug hunters, and security researchers quickly find...
-
-### [qazbnm456](https://github.com/qazbnm456)
-- 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
-  > Why is this running?
-
-### [qi4L](https://github.com/qi4L)
-- 🌟 👤 [qi4L](https://github.com/qi4L) Starred [asdfg3482968521-alt/Codex-5.5-codex-instruct-5.5](https://github.com/asdfg3482968521-alt/Codex-5.5-codex-instruct-5.5)
-  > Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。
-- 🍴 👤 [qi4L](https://github.com/qi4L) Forked [asdfg3482968521-alt/Codex-5.5-codex-instruct-5.5](https://github.com/asdfg3482968521-alt/Codex-5.5-codex-instruct-5.5) to [qi4L/Codex-5.5-codex-instruct-5.5](https://github.com/qi4L/Codex-5.5-codex-instruct-5.5)
-  > Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。
-- 🌟 👤 [qi4L](https://github.com/qi4L) Starred [javaht/claude-desktop-zh-cn](https://github.com/javaht/claude-desktop-zh-cn)
-  > Claude Desktop Chinese Patch (macOS & Windows)
-
-### [qtfreet00](https://github.com/qtfreet00)
-- 🌟 👤 [qtfreet00](https://github.com/qtfreet00) Starred [Y-0x/llama.cpp](https://github.com/Y-0x/llama.cpp)
-
-### [r00t4dm](https://github.com/r00t4dm)
-- 🌟 👤 [r00t4dm](https://github.com/r00t4dm) Starred [ArvinLovegood/go-stock](https://github.com/ArvinLovegood/go-stock)
-  > 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在...
-
-### [rabbitstack](https://github.com/rabbitstack)
-- 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [S3cur3Th1sSh1t/Kassandra](https://github.com/S3cur3Th1sSh1t/Kassandra)
-  > Reversed cassandra source code for educational purposes
-
-### [raesene](https://github.com/raesene)
-- 🌟 👤 [raesene](https://github.com/raesene) Starred [rafaeldtinoco/security](https://github.com/rafaeldtinoco/security)
-  > Be careful.
-
-### [rand-tech](https://github.com/rand-tech)
-- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [openai/orchard](https://github.com/openai/orchard)
-  > Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
-- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [cloudflare/boringtun](https://github.com/cloudflare/boringtun)
-  > Userspace WireGuard® Implementation in Rust
-
-### [re-zero001](https://github.com/re-zero001)
-- 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [antfu/skills](https://github.com/antfu/skills)
-  > Anthony Fu's curated collection of agent skills.
-
-### [realoriginal](https://github.com/realoriginal)
-- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [lucasg/findrpc](https://github.com/lucasg/findrpc)
-  > Idapython script to carve binary for internal RPC structures
-- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [warpnet/MS-RPC-Fuzzer](https://github.com/warpnet/MS-RPC-Fuzzer)
-  > Gain insights into MS-RPC implementations that may be vulnerable using an automated approach and mak...
-- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [trailofbits/RpcInvestigator](https://github.com/trailofbits/RpcInvestigator)
-  > Exploring RPC interfaces on Windows
+### [pwnipc](https://github.com/pwnipc)
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
+  > An all-in-one tool to restore/downgrade, save SHSH blobs, jailbreak legacy iOS devices, and more
 
 ### [ret2ldz](https://github.com/ret2ldz)
-- 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [imb4dm4n/Deadly-3000](https://github.com/imb4dm4n/Deadly-3000)
+- 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [lasting-yang/frida_dump](https://github.com/lasting-yang/frida_dump)
+  > frida dump dex, frida dump so
+- 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [smartdone/Frida-Scripts](https://github.com/smartdone/Frida-Scripts)
+  > 一些frida脚本
+- 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [deathmemory/FridaContainer](https://github.com/deathmemory/FridaContainer)
+  > FridaContainer 整合了网上流行的和自己编写的常用的 frida 脚本，为逆向工作提效之用。 frida 脚本模块化，Java & Jni Trace。
 
-### [ricardojoserf](https://github.com/ricardojoserf)
-- 🌟 👤 [ricardojoserf](https://github.com/ricardojoserf) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
-  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
+### [wizardforcel](https://github.com/wizardforcel)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-mystery-zh](https://github.com/OpenDocCN/ibooker-mystery-zh) to [firefox-popkart-org/ibooker-mystery-zh](https://github.com/firefox-popkart-org/ibooker-mystery-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/love-course-notes-zh](https://github.com/OpenDocCN/love-course-notes-zh) to [OpenDocCN-Archive/love-course-notes-zh](https://github.com/OpenDocCN-Archive/love-course-notes-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-mystery-zh](https://github.com/OpenDocCN/ibooker-mystery-zh) to [OpenDocCN-Archive/ibooker-mystery-zh](https://github.com/OpenDocCN-Archive/ibooker-mystery-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-ark](https://github.com/OpenDocCN/ibooker-ark) to [OpenDocCN-Archive/ibooker-ark](https://github.com/OpenDocCN-Archive/ibooker-ark)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-mobi-zh](https://github.com/OpenDocCN/freelearn-mobi-zh) to [OpenDocCN-Archive/freelearn-mobi-zh](https://github.com/OpenDocCN-Archive/freelearn-mobi-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-blockchain-zh](https://github.com/OpenDocCN/freelearn-blockchain-zh) to [OpenDocCN-Archive/freelearn-blockchain-zh](https://github.com/OpenDocCN-Archive/freelearn-blockchain-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-c-cpp-zh](https://github.com/OpenDocCN/freelearn-c-cpp-zh) to [OpenDocCN-Archive/freelearn-c-cpp-zh](https://github.com/OpenDocCN-Archive/freelearn-c-cpp-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-csharp-zh](https://github.com/OpenDocCN/freelearn-csharp-zh) to [OpenDocCN-Archive/freelearn-csharp-zh](https://github.com/OpenDocCN-Archive/freelearn-csharp-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-db-zh](https://github.com/OpenDocCN/freelearn-db-zh) to [OpenDocCN-Archive/freelearn-db-zh](https://github.com/OpenDocCN-Archive/freelearn-db-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-devops-zh](https://github.com/OpenDocCN/freelearn-devops-zh) to [OpenDocCN-Archive/freelearn-devops-zh](https://github.com/OpenDocCN-Archive/freelearn-devops-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-dl-zh](https://github.com/OpenDocCN/freelearn-dl-zh) to [OpenDocCN-Archive/freelearn-dl-zh](https://github.com/OpenDocCN-Archive/freelearn-dl-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-ds-zh](https://github.com/OpenDocCN/freelearn-ds-zh) to [OpenDocCN-Archive/freelearn-ds-zh](https://github.com/OpenDocCN-Archive/freelearn-ds-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/dsai-docs-zh](https://github.com/OpenDocCN/dsai-docs-zh) to [OpenDocCN-Archive/dsai-docs-zh](https://github.com/OpenDocCN-Archive/dsai-docs-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-golang-zh](https://github.com/OpenDocCN/freelearn-golang-zh) to [OpenDocCN-Archive/freelearn-golang-zh](https://github.com/OpenDocCN-Archive/freelearn-golang-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/flygon-interview-zh](https://github.com/OpenDocCN/flygon-interview-zh) to [OpenDocCN-Archive/flygon-interview-zh](https://github.com/OpenDocCN-Archive/flygon-interview-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-java-zh](https://github.com/OpenDocCN/freelearn-java-zh) to [OpenDocCN-Archive/freelearn-java-zh](https://github.com/OpenDocCN-Archive/freelearn-java-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-html-css-js-zh](https://github.com/OpenDocCN/freelearn-html-css-js-zh) to [OpenDocCN-Archive/freelearn-html-css-js-zh](https://github.com/OpenDocCN-Archive/freelearn-html-css-js-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-linux-zh](https://github.com/OpenDocCN/freelearn-linux-zh) to [OpenDocCN-Archive/freelearn-linux-zh](https://github.com/OpenDocCN-Archive/freelearn-linux-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-ml-zh](https://github.com/OpenDocCN/freelearn-ml-zh) to [OpenDocCN-Archive/freelearn-ml-zh](https://github.com/OpenDocCN-Archive/freelearn-ml-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-php-zh](https://github.com/OpenDocCN/freelearn-php-zh) to [OpenDocCN-Archive/freelearn-php-zh](https://github.com/OpenDocCN-Archive/freelearn-php-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-python-zh](https://github.com/OpenDocCN/freelearn-python-zh) to [OpenDocCN-Archive/freelearn-python-zh](https://github.com/OpenDocCN-Archive/freelearn-python-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-quant-zh](https://github.com/OpenDocCN/freelearn-quant-zh) to [OpenDocCN-Archive/freelearn-quant-zh](https://github.com/OpenDocCN-Archive/freelearn-quant-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-sec-zh](https://github.com/OpenDocCN/freelearn-sec-zh) to [OpenDocCN-Archive/freelearn-sec-zh](https://github.com/OpenDocCN-Archive/freelearn-sec-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-fe-framework-zh](https://github.com/OpenDocCN/freelearn-fe-framework-zh) to [OpenDocCN-Archive/freelearn-fe-framework-zh](https://github.com/OpenDocCN-Archive/freelearn-fe-framework-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/awesome-bci-zh](https://github.com/OpenDocCN/awesome-bci-zh) to [OpenDocCN-Archive/awesome-bci-zh](https://github.com/OpenDocCN-Archive/awesome-bci-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/awesome-cs-courses-zh](https://github.com/OpenDocCN/awesome-cs-courses-zh) to [OpenDocCN-Archive/awesome-cs-courses-zh](https://github.com/OpenDocCN-Archive/awesome-cs-courses-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/awesome-drones-zh](https://github.com/OpenDocCN/awesome-drones-zh) to [OpenDocCN-Archive/awesome-drones-zh](https://github.com/OpenDocCN-Archive/awesome-drones-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/awesome-gb-dev-zh](https://github.com/OpenDocCN/awesome-gb-dev-zh) to [OpenDocCN-Archive/awesome-gb-dev-zh](https://github.com/OpenDocCN-Archive/awesome-gb-dev-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/awesome-gba-dev-zh](https://github.com/OpenDocCN/awesome-gba-dev-zh) to [OpenDocCN-Archive/awesome-gba-dev-zh](https://github.com/OpenDocCN-Archive/awesome-gba-dev-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/awesome-indie-zh](https://github.com/OpenDocCN/awesome-indie-zh) to [OpenDocCN-Archive/awesome-indie-zh](https://github.com/OpenDocCN-Archive/awesome-indie-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/awesome-plant-factory-zh](https://github.com/OpenDocCN/awesome-plant-factory-zh) to [OpenDocCN-Archive/awesome-plant-factory-zh](https://github.com/OpenDocCN-Archive/awesome-plant-factory-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/beginnersbook-zh](https://github.com/OpenDocCN/beginnersbook-zh) to [OpenDocCN-Archive/beginnersbook-zh](https://github.com/OpenDocCN-Archive/beginnersbook-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/codex-blog-zh](https://github.com/OpenDocCN/codex-blog-zh) to [OpenDocCN-Archive/codex-blog-zh](https://github.com/OpenDocCN-Archive/codex-blog-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/devopscom-blog-zh](https://github.com/OpenDocCN/devopscom-blog-zh) to [OpenDocCN-Archive/devopscom-blog-zh](https://github.com/OpenDocCN-Archive/devopscom-blog-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/educba-zh](https://github.com/OpenDocCN/educba-zh) to [OpenDocCN-Archive/educba-zh](https://github.com/OpenDocCN-Archive/educba-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freecodecamp-blog-zh](https://github.com/OpenDocCN/freecodecamp-blog-zh) to [OpenDocCN-Archive/freecodecamp-blog-zh](https://github.com/OpenDocCN-Archive/freecodecamp-blog-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geeksforgeeks-zh](https://github.com/OpenDocCN/geeksforgeeks-zh) to [OpenDocCN-Archive/geeksforgeeks-zh](https://github.com/OpenDocCN-Archive/geeksforgeeks-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/guru99-zh](https://github.com/OpenDocCN/guru99-zh) to [OpenDocCN-Archive/guru99-zh](https://github.com/OpenDocCN-Archive/guru99-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/howtodoinjava-zh](https://github.com/OpenDocCN/howtodoinjava-zh) to [OpenDocCN-Archive/howtodoinjava-zh](https://github.com/OpenDocCN-Archive/howtodoinjava-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/invent-with-python-zh](https://github.com/OpenDocCN/invent-with-python-zh) to [OpenDocCN-Archive/invent-with-python-zh](https://github.com/OpenDocCN-Archive/invent-with-python-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/itnext-blog-zh](https://github.com/OpenDocCN/itnext-blog-zh) to [OpenDocCN-Archive/itnext-blog-zh](https://github.com/OpenDocCN-Archive/itnext-blog-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/javatpoint-zh](https://github.com/OpenDocCN/javatpoint-zh) to [OpenDocCN-Archive/javatpoint-zh](https://github.com/OpenDocCN-Archive/javatpoint-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-php-zh](https://github.com/OpenDocCN/geekdoc-php-zh) to [OpenDocCN-Archive/geekdoc-php-zh](https://github.com/OpenDocCN-Archive/geekdoc-php-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/learnetutorials-zh](https://github.com/OpenDocCN/learnetutorials-zh) to [OpenDocCN-Archive/learnetutorials-zh](https://github.com/OpenDocCN-Archive/learnetutorials-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-linux-zh](https://github.com/OpenDocCN/geekdoc-linux-zh) to [OpenDocCN-Archive/geekdoc-linux-zh](https://github.com/OpenDocCN-Archive/geekdoc-linux-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ml-mastery-zh](https://github.com/OpenDocCN/ml-mastery-zh) to [OpenDocCN-Archive/ml-mastery-zh](https://github.com/OpenDocCN-Archive/ml-mastery-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/nerdfortech-blog-zh](https://github.com/OpenDocCN/nerdfortech-blog-zh) to [OpenDocCN-Archive/nerdfortech-blog-zh](https://github.com/OpenDocCN-Archive/nerdfortech-blog-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/programiz-zh](https://github.com/OpenDocCN/programiz-zh) to [OpenDocCN-Archive/programiz-zh](https://github.com/OpenDocCN-Archive/programiz-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/pytorch-doc-zh](https://github.com/OpenDocCN/pytorch-doc-zh) to [OpenDocCN-Archive/pytorch-doc-zh](https://github.com/OpenDocCN-Archive/pytorch-doc-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/redhatdev-blog-zh](https://github.com/OpenDocCN/redhatdev-blog-zh) to [OpenDocCN-Archive/redhatdev-blog-zh](https://github.com/OpenDocCN-Archive/redhatdev-blog-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/rhel-doc-zh](https://github.com/OpenDocCN/rhel-doc-zh) to [OpenDocCN-Archive/rhel-doc-zh](https://github.com/OpenDocCN-Archive/rhel-doc-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/sitepoint-blog-zh](https://github.com/OpenDocCN/sitepoint-blog-zh) to [OpenDocCN-Archive/sitepoint-blog-zh](https://github.com/OpenDocCN-Archive/sitepoint-blog-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/studytonight-zh](https://github.com/OpenDocCN/studytonight-zh) to [OpenDocCN-Archive/studytonight-zh](https://github.com/OpenDocCN-Archive/studytonight-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/succinctly-zh](https://github.com/OpenDocCN/succinctly-zh) to [OpenDocCN-Archive/succinctly-zh](https://github.com/OpenDocCN-Archive/succinctly-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/thenewstack-blog-zh](https://github.com/OpenDocCN/thenewstack-blog-zh) to [OpenDocCN-Archive/thenewstack-blog-zh](https://github.com/OpenDocCN-Archive/thenewstack-blog-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/tutorialandexample-zh](https://github.com/OpenDocCN/tutorialandexample-zh) to [OpenDocCN-Archive/tutorialandexample-zh](https://github.com/OpenDocCN-Archive/tutorialandexample-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/tutorialgateway-bi-zh](https://github.com/OpenDocCN/tutorialgateway-bi-zh) to [OpenDocCN-Archive/tutorialgateway-bi-zh](https://github.com/OpenDocCN-Archive/tutorialgateway-bi-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/tutorialgateway-zh](https://github.com/OpenDocCN/tutorialgateway-zh) to [OpenDocCN-Archive/tutorialgateway-zh](https://github.com/OpenDocCN-Archive/tutorialgateway-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/tutorialkart-zh](https://github.com/OpenDocCN/tutorialkart-zh) to [OpenDocCN-Archive/tutorialkart-zh](https://github.com/OpenDocCN-Archive/tutorialkart-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/tutorialrepublic-zh](https://github.com/OpenDocCN/tutorialrepublic-zh) to [OpenDocCN-Archive/tutorialrepublic-zh](https://github.com/OpenDocCN-Archive/tutorialrepublic-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/tutorialsclass-zh](https://github.com/OpenDocCN/tutorialsclass-zh) to [OpenDocCN-Archive/tutorialsclass-zh](https://github.com/OpenDocCN-Archive/tutorialsclass-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/tutorialskart-zh](https://github.com/OpenDocCN/tutorialskart-zh) to [OpenDocCN-Archive/tutorialskart-zh](https://github.com/OpenDocCN-Archive/tutorialskart-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/tutorialspoint-ebooks-zh](https://github.com/OpenDocCN/tutorialspoint-ebooks-zh) to [OpenDocCN-Archive/tutorialspoint-ebooks-zh](https://github.com/OpenDocCN-Archive/tutorialspoint-ebooks-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/tutorialsteacher-zh](https://github.com/OpenDocCN/tutorialsteacher-zh) to [OpenDocCN-Archive/tutorialsteacher-zh](https://github.com/OpenDocCN-Archive/tutorialsteacher-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/wanqu-daily-zh](https://github.com/OpenDocCN/wanqu-daily-zh) to [OpenDocCN-Archive/wanqu-daily-zh](https://github.com/OpenDocCN-Archive/wanqu-daily-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/zetcode-zh](https://github.com/OpenDocCN/zetcode-zh) to [OpenDocCN-Archive/zetcode-zh](https://github.com/OpenDocCN-Archive/zetcode-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/flygon-ctf-wiki](https://github.com/OpenDocCN/flygon-ctf-wiki) to [OpenDocCN-Archive/flygon-ctf-wiki](https://github.com/OpenDocCN-Archive/flygon-ctf-wiki)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/flygon-dsai-wiki](https://github.com/OpenDocCN/flygon-dsai-wiki) to [OpenDocCN-Archive/flygon-dsai-wiki](https://github.com/OpenDocCN-Archive/flygon-dsai-wiki)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/flygon-oj-wiki](https://github.com/OpenDocCN/flygon-oj-wiki) to [OpenDocCN-Archive/flygon-oj-wiki](https://github.com/OpenDocCN-Archive/flygon-oj-wiki)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/flygon-sec-wiki](https://github.com/OpenDocCN/flygon-sec-wiki) to [OpenDocCN-Archive/flygon-sec-wiki](https://github.com/OpenDocCN-Archive/flygon-sec-wiki)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/baguwen-wiki](https://github.com/OpenDocCN/baguwen-wiki) to [OpenDocCN-Archive/baguwen-wiki](https://github.com/OpenDocCN-Archive/baguwen-wiki)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/sec-learning](https://github.com/OpenDocCN/sec-learning) to [OpenDocCN-Archive/sec-learning](https://github.com/OpenDocCN-Archive/sec-learning)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/quant-learning](https://github.com/OpenDocCN/quant-learning) to [OpenDocCN-Archive/quant-learning](https://github.com/OpenDocCN-Archive/quant-learning)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/doc-template](https://github.com/OpenDocCN/doc-template) to [OpenDocCN-Archive/doc-template](https://github.com/OpenDocCN-Archive/doc-template)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/trados-term-memory](https://github.com/OpenDocCN/trados-term-memory) to [OpenDocCN-Archive/trados-term-memory](https://github.com/OpenDocCN-Archive/trados-term-memory)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/flygon-parallel-corpus](https://github.com/OpenDocCN/flygon-parallel-corpus) to [OpenDocCN-Archive/flygon-parallel-corpus](https://github.com/OpenDocCN-Archive/flygon-parallel-corpus)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/golang-code-anls](https://github.com/OpenDocCN/golang-code-anls) to [OpenDocCN-Archive/golang-code-anls](https://github.com/OpenDocCN-Archive/golang-code-anls)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/mystery-notes-zh](https://github.com/OpenDocCN/mystery-notes-zh) to [OpenDocCN-Archive/mystery-notes-zh](https://github.com/OpenDocCN-Archive/mystery-notes-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/nav](https://github.com/OpenDocCN/nav) to [OpenDocCN-Archive/nav](https://github.com/OpenDocCN-Archive/nav)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/home](https://github.com/OpenDocCN/home) to [OpenDocCN-Archive/home](https://github.com/OpenDocCN-Archive/home)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/biqu520net-1-1000](https://github.com/OpenDocCN/biqu520net-1-1000) to [OpenDocCN-Archive/biqu520net-1-1000](https://github.com/OpenDocCN-Archive/biqu520net-1-1000)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/biqu520net-9001-10000](https://github.com/OpenDocCN/biqu520net-9001-10000) to [OpenDocCN-Archive/biqu520net-9001-10000](https://github.com/OpenDocCN-Archive/biqu520net-9001-10000)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/zhihu-ai-qa](https://github.com/OpenDocCN/zhihu-ai-qa) to [OpenDocCN-Archive/zhihu-ai-qa](https://github.com/OpenDocCN-Archive/zhihu-ai-qa)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/gpt-bilingual-books](https://github.com/OpenDocCN/gpt-bilingual-books) to [OpenDocCN-Archive/gpt-bilingual-books](https://github.com/OpenDocCN-Archive/gpt-bilingual-books)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/uqer-thread](https://github.com/OpenDocCN/uqer-thread) to [OpenDocCN-Archive/uqer-thread](https://github.com/OpenDocCN-Archive/uqer-thread)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/quant-notes-zh](https://github.com/OpenDocCN/quant-notes-zh) to [OpenDocCN-Archive/quant-notes-zh](https://github.com/OpenDocCN-Archive/quant-notes-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/wealth-notes-zh](https://github.com/OpenDocCN/wealth-notes-zh) to [OpenDocCN-Archive/wealth-notes-zh](https://github.com/OpenDocCN-Archive/wealth-notes-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/python-code-anls](https://github.com/OpenDocCN/python-code-anls) to [OpenDocCN-Archive/python-code-anls](https://github.com/OpenDocCN-Archive/python-code-anls)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ccpp-code-anls](https://github.com/OpenDocCN/ccpp-code-anls) to [OpenDocCN-Archive/ccpp-code-anls](https://github.com/OpenDocCN-Archive/ccpp-code-anls)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/js-code-anls](https://github.com/OpenDocCN/js-code-anls) to [OpenDocCN-Archive/js-code-anls](https://github.com/OpenDocCN-Archive/js-code-anls)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/code-reading](https://github.com/OpenDocCN/code-reading) to [OpenDocCN-Archive/code-reading](https://github.com/OpenDocCN-Archive/code-reading)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-chatgpt-zh](https://github.com/OpenDocCN/geekdoc-chatgpt-zh) to [OpenDocCN-Archive/geekdoc-chatgpt-zh](https://github.com/OpenDocCN-Archive/geekdoc-chatgpt-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/exploringjs-zh](https://github.com/OpenDocCN/exploringjs-zh) to [OpenDocCN-Archive/exploringjs-zh](https://github.com/OpenDocCN-Archive/exploringjs-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-python-zh](https://github.com/OpenDocCN/ibooker-python-zh) to [OpenDocCN-Archive/ibooker-python-zh](https://github.com/OpenDocCN-Archive/ibooker-python-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-devops-zh](https://github.com/OpenDocCN/ibooker-devops-zh) to [OpenDocCN-Archive/ibooker-devops-zh](https://github.com/OpenDocCN-Archive/ibooker-devops-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/cs-notes-pt3-zh](https://github.com/OpenDocCN/cs-notes-pt3-zh) to [OpenDocCN-Archive/cs-notes-pt3-zh](https://github.com/OpenDocCN-Archive/cs-notes-pt3-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/greenteapress-zh](https://github.com/OpenDocCN/greenteapress-zh) to [OpenDocCN-Archive/greenteapress-zh](https://github.com/OpenDocCN-Archive/greenteapress-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/dsai-notes-pt3-zh](https://github.com/OpenDocCN/dsai-notes-pt3-zh) to [OpenDocCN-Archive/dsai-notes-pt3-zh](https://github.com/OpenDocCN-Archive/dsai-notes-pt3-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-dl-zh](https://github.com/OpenDocCN/ibooker-dl-zh) to [OpenDocCN-Archive/ibooker-dl-zh](https://github.com/OpenDocCN-Archive/ibooker-dl-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-ds-zh](https://github.com/OpenDocCN/ibooker-ds-zh) to [OpenDocCN-Archive/ibooker-ds-zh](https://github.com/OpenDocCN-Archive/ibooker-ds-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/lxthw-zh](https://github.com/OpenDocCN/lxthw-zh) to [OpenDocCN-Archive/lxthw-zh](https://github.com/OpenDocCN-Archive/lxthw-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-dl-zh](https://github.com/OpenDocCN/geekdoc-dl-zh) to [OpenDocCN-Archive/geekdoc-dl-zh](https://github.com/OpenDocCN-Archive/geekdoc-dl-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-ds-zh](https://github.com/OpenDocCN/geekdoc-ds-zh) to [OpenDocCN-Archive/geekdoc-ds-zh](https://github.com/OpenDocCN-Archive/geekdoc-ds-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-ml-zh](https://github.com/OpenDocCN/geekdoc-ml-zh) to [OpenDocCN-Archive/geekdoc-ml-zh](https://github.com/OpenDocCN-Archive/geekdoc-ml-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-ml-zh](https://github.com/OpenDocCN/ibooker-ml-zh) to [OpenDocCN-Archive/ibooker-ml-zh](https://github.com/OpenDocCN-Archive/ibooker-ml-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-go-zh](https://github.com/OpenDocCN/ibooker-go-zh) to [OpenDocCN-Archive/ibooker-go-zh](https://github.com/OpenDocCN-Archive/ibooker-go-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-java-zh](https://github.com/OpenDocCN/geekdoc-java-zh) to [OpenDocCN-Archive/geekdoc-java-zh](https://github.com/OpenDocCN-Archive/geekdoc-java-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-js-zh](https://github.com/OpenDocCN/geekdoc-js-zh) to [OpenDocCN-Archive/geekdoc-js-zh](https://github.com/OpenDocCN-Archive/geekdoc-js-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-sec-zh](https://github.com/OpenDocCN/geekdoc-sec-zh) to [OpenDocCN-Archive/geekdoc-sec-zh](https://github.com/OpenDocCN-Archive/geekdoc-sec-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/huggingface-doc-zh](https://github.com/OpenDocCN/huggingface-doc-zh) to [OpenDocCN-Archive/huggingface-doc-zh](https://github.com/OpenDocCN-Archive/huggingface-doc-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-wealth-zh](https://github.com/OpenDocCN/geekdoc-wealth-zh) to [OpenDocCN-Archive/geekdoc-wealth-zh](https://github.com/OpenDocCN-Archive/geekdoc-wealth-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-linux-zh](https://github.com/OpenDocCN/ibooker-linux-zh) to [OpenDocCN-Archive/ibooker-linux-zh](https://github.com/OpenDocCN-Archive/ibooker-linux-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-arch-zh](https://github.com/OpenDocCN/geekdoc-arch-zh) to [OpenDocCN-Archive/geekdoc-arch-zh](https://github.com/OpenDocCN-Archive/geekdoc-arch-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-html-css-javascript-zh](https://github.com/OpenDocCN/ibooker-html-css-javascript-zh) to [OpenDocCN-Archive/ibooker-html-css-javascript-zh](https://github.com/OpenDocCN-Archive/ibooker-html-css-javascript-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/blockchain-learning](https://github.com/OpenDocCN/blockchain-learning) to [OpenDocCN-Archive/blockchain-learning](https://github.com/OpenDocCN-Archive/blockchain-learning)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/shiyanlou-tut-zh](https://github.com/OpenDocCN/shiyanlou-tut-zh) to [OpenDocCN-Archive/shiyanlou-tut-zh](https://github.com/OpenDocCN-Archive/shiyanlou-tut-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-c-cpp-zh](https://github.com/OpenDocCN/geekdoc-c-cpp-zh) to [OpenDocCN-Archive/geekdoc-c-cpp-zh](https://github.com/OpenDocCN-Archive/geekdoc-c-cpp-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-python-zh](https://github.com/OpenDocCN/geekdoc-python-zh) to [OpenDocCN-Archive/geekdoc-python-zh](https://github.com/OpenDocCN-Archive/geekdoc-python-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/kssd](https://github.com/OpenDocCN/kssd) to [OpenDocCN-Archive/kssd](https://github.com/OpenDocCN-Archive/kssd)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/nowcoder-tut-zh](https://github.com/OpenDocCN/nowcoder-tut-zh) to [OpenDocCN-Archive/nowcoder-tut-zh](https://github.com/OpenDocCN-Archive/nowcoder-tut-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-python-zh](https://github.com/OpenDocCN/vkdoc-python-zh) to [OpenDocCN-Archive/vkdoc-python-zh](https://github.com/OpenDocCN-Archive/vkdoc-python-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-quant-zh](https://github.com/OpenDocCN/geekdoc-quant-zh) to [OpenDocCN-Archive/geekdoc-quant-zh](https://github.com/OpenDocCN-Archive/geekdoc-quant-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/weixueyuan-tut-zh](https://github.com/OpenDocCN/weixueyuan-tut-zh) to [OpenDocCN-Archive/weixueyuan-tut-zh](https://github.com/OpenDocCN-Archive/weixueyuan-tut-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/netkiller-tut-zh](https://github.com/OpenDocCN/netkiller-tut-zh) to [OpenDocCN-Archive/netkiller-tut-zh](https://github.com/OpenDocCN-Archive/netkiller-tut-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/wooyun-drops](https://github.com/OpenDocCN/wooyun-drops) to [OpenDocCN-Archive/wooyun-drops](https://github.com/OpenDocCN-Archive/wooyun-drops)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibm-developerworks-zh](https://github.com/OpenDocCN/ibm-developerworks-zh) to [OpenDocCN-Archive/ibm-developerworks-zh](https://github.com/OpenDocCN-Archive/ibm-developerworks-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/js-docs-zh](https://github.com/OpenDocCN/js-docs-zh) to [OpenDocCN-Archive/js-docs-zh](https://github.com/OpenDocCN-Archive/js-docs-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/rate-my-supervisor](https://github.com/OpenDocCN/rate-my-supervisor) to [OpenDocCN-Archive/rate-my-supervisor](https://github.com/OpenDocCN-Archive/rate-my-supervisor)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/flygon-fengxiangbiao](https://github.com/OpenDocCN/flygon-fengxiangbiao) to [OpenDocCN-Archive/flygon-fengxiangbiao](https://github.com/OpenDocCN-Archive/flygon-fengxiangbiao)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/flygon-zhuanqian-zhoubao](https://github.com/OpenDocCN/flygon-zhuanqian-zhoubao) to [OpenDocCN-Archive/flygon-zhuanqian-zhoubao](https://github.com/OpenDocCN-Archive/flygon-zhuanqian-zhoubao)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-db-zh](https://github.com/OpenDocCN/ibooker-db-zh) to [OpenDocCN-Archive/ibooker-db-zh](https://github.com/OpenDocCN-Archive/ibooker-db-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/db-docs-zh](https://github.com/OpenDocCN/db-docs-zh) to [OpenDocCN-Archive/db-docs-zh](https://github.com/OpenDocCN-Archive/db-docs-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/wealth-gzh-2023](https://github.com/OpenDocCN/wealth-gzh-2023) to [OpenDocCN-Archive/wealth-gzh-2023](https://github.com/OpenDocCN-Archive/wealth-gzh-2023)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/wealth-learning](https://github.com/OpenDocCN/wealth-learning) to [OpenDocCN-Archive/wealth-learning](https://github.com/OpenDocCN-Archive/wealth-learning)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/flygon-dahanghai](https://github.com/OpenDocCN/flygon-dahanghai) to [OpenDocCN-Archive/flygon-dahanghai](https://github.com/OpenDocCN-Archive/flygon-dahanghai)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/wealth-wiki](https://github.com/OpenDocCN/wealth-wiki) to [OpenDocCN-Archive/wealth-wiki](https://github.com/OpenDocCN-Archive/wealth-wiki)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/quant-docs-zh](https://github.com/OpenDocCN/quant-docs-zh) to [OpenDocCN-Archive/quant-docs-zh](https://github.com/OpenDocCN-Archive/quant-docs-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/flygon-trans-202404](https://github.com/OpenDocCN/flygon-trans-202404) to [OpenDocCN-Archive/flygon-trans-202404](https://github.com/OpenDocCN-Archive/flygon-trans-202404)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/py-docs-zh](https://github.com/OpenDocCN/py-docs-zh) to [OpenDocCN-Archive/py-docs-zh](https://github.com/OpenDocCN-Archive/py-docs-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-sec-zh](https://github.com/OpenDocCN/ibooker-sec-zh) to [OpenDocCN-Archive/ibooker-sec-zh](https://github.com/OpenDocCN-Archive/ibooker-sec-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-blockchain-zh](https://github.com/OpenDocCN/geekdoc-blockchain-zh) to [OpenDocCN-Archive/geekdoc-blockchain-zh](https://github.com/OpenDocCN-Archive/geekdoc-blockchain-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/hackernews-2024-zh](https://github.com/OpenDocCN/hackernews-2024-zh) to [OpenDocCN-Archive/hackernews-2024-zh](https://github.com/OpenDocCN-Archive/hackernews-2024-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/blogspot-wordpress-quant-blogs-zh](https://github.com/OpenDocCN/blogspot-wordpress-quant-blogs-zh) to [OpenDocCN-Archive/blogspot-wordpress-quant-blogs-zh](https://github.com/OpenDocCN-Archive/blogspot-wordpress-quant-blogs-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-quant-zh](https://github.com/OpenDocCN/vkdoc-quant-zh) to [OpenDocCN-Archive/vkdoc-quant-zh](https://github.com/OpenDocCN-Archive/vkdoc-quant-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-sec-zh](https://github.com/OpenDocCN/vkdoc-sec-zh) to [OpenDocCN-Archive/vkdoc-sec-zh](https://github.com/OpenDocCN-Archive/vkdoc-sec-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-c-cpp-zh](https://github.com/OpenDocCN/vkdoc-c-cpp-zh) to [OpenDocCN-Archive/vkdoc-c-cpp-zh](https://github.com/OpenDocCN-Archive/vkdoc-c-cpp-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-java-zh](https://github.com/OpenDocCN/vkdoc-java-zh) to [OpenDocCN-Archive/vkdoc-java-zh](https://github.com/OpenDocCN-Archive/vkdoc-java-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-go-zh](https://github.com/OpenDocCN/vkdoc-go-zh) to [OpenDocCN-Archive/vkdoc-go-zh](https://github.com/OpenDocCN-Archive/vkdoc-go-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-php-zh](https://github.com/OpenDocCN/vkdoc-php-zh) to [OpenDocCN-Archive/vkdoc-php-zh](https://github.com/OpenDocCN-Archive/vkdoc-php-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-csharp-zh](https://github.com/OpenDocCN/vkdoc-csharp-zh) to [OpenDocCN-Archive/vkdoc-csharp-zh](https://github.com/OpenDocCN-Archive/vkdoc-csharp-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-db-zh](https://github.com/OpenDocCN/vkdoc-db-zh) to [OpenDocCN-Archive/vkdoc-db-zh](https://github.com/OpenDocCN-Archive/vkdoc-db-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-devops-zh](https://github.com/OpenDocCN/vkdoc-devops-zh) to [OpenDocCN-Archive/vkdoc-devops-zh](https://github.com/OpenDocCN-Archive/vkdoc-devops-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-linux-zh](https://github.com/OpenDocCN/vkdoc-linux-zh) to [OpenDocCN-Archive/vkdoc-linux-zh](https://github.com/OpenDocCN-Archive/vkdoc-linux-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-html-css-js-zh](https://github.com/OpenDocCN/vkdoc-html-css-js-zh) to [OpenDocCN-Archive/vkdoc-html-css-js-zh](https://github.com/OpenDocCN-Archive/vkdoc-html-css-js-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-frontend-framework-zh](https://github.com/OpenDocCN/vkdoc-frontend-framework-zh) to [OpenDocCN-Archive/vkdoc-frontend-framework-zh](https://github.com/OpenDocCN-Archive/vkdoc-frontend-framework-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-mobi-zh](https://github.com/OpenDocCN/vkdoc-mobi-zh) to [OpenDocCN-Archive/vkdoc-mobi-zh](https://github.com/OpenDocCN-Archive/vkdoc-mobi-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-dl-zh](https://github.com/OpenDocCN/vkdoc-dl-zh) to [OpenDocCN-Archive/vkdoc-dl-zh](https://github.com/OpenDocCN-Archive/vkdoc-dl-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-ml-zh](https://github.com/OpenDocCN/vkdoc-ml-zh) to [OpenDocCN-Archive/vkdoc-ml-zh](https://github.com/OpenDocCN-Archive/vkdoc-ml-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-ds-zh](https://github.com/OpenDocCN/vkdoc-ds-zh) to [OpenDocCN-Archive/vkdoc-ds-zh](https://github.com/OpenDocCN-Archive/vkdoc-ds-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-blockchain-zh](https://github.com/OpenDocCN/vkdoc-blockchain-zh) to [OpenDocCN-Archive/vkdoc-blockchain-zh](https://github.com/OpenDocCN-Archive/vkdoc-blockchain-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/cve-wiki](https://github.com/OpenDocCN/cve-wiki) to [OpenDocCN-Archive/cve-wiki](https://github.com/OpenDocCN-Archive/cve-wiki)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-quant-zh](https://github.com/OpenDocCN/ibooker-quant-zh) to [OpenDocCN-Archive/ibooker-quant-zh](https://github.com/OpenDocCN-Archive/ibooker-quant-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/stackoverflow-qa-zh](https://github.com/OpenDocCN/stackoverflow-qa-zh) to [OpenDocCN-Archive/stackoverflow-qa-zh](https://github.com/OpenDocCN-Archive/stackoverflow-qa-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/mystery-blogs-zh](https://github.com/OpenDocCN/mystery-blogs-zh) to [OpenDocCN-Archive/mystery-blogs-zh](https://github.com/OpenDocCN-Archive/mystery-blogs-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/stackoverflow-qa-pt2-zh](https://github.com/OpenDocCN/stackoverflow-qa-pt2-zh) to [OpenDocCN-Archive/stackoverflow-qa-pt2-zh](https://github.com/OpenDocCN-Archive/stackoverflow-qa-pt2-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-java-zh](https://github.com/OpenDocCN/ibooker-java-zh) to [OpenDocCN-Archive/ibooker-java-zh](https://github.com/OpenDocCN-Archive/ibooker-java-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-c-cpp-zh](https://github.com/OpenDocCN/ibooker-c-cpp-zh) to [OpenDocCN-Archive/ibooker-c-cpp-zh](https://github.com/OpenDocCN-Archive/ibooker-c-cpp-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-csharp-zh](https://github.com/OpenDocCN/ibooker-csharp-zh) to [OpenDocCN-Archive/ibooker-csharp-zh](https://github.com/OpenDocCN-Archive/ibooker-csharp-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-php-zh](https://github.com/OpenDocCN/ibooker-php-zh) to [OpenDocCN-Archive/ibooker-php-zh](https://github.com/OpenDocCN-Archive/ibooker-php-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/devops-docs-zh](https://github.com/OpenDocCN/devops-docs-zh) to [OpenDocCN-Archive/devops-docs-zh](https://github.com/OpenDocCN-Archive/devops-docs-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/gntext-2020-2022](https://github.com/OpenDocCN/gntext-2020-2022) to [OpenDocCN-Archive/gntext-2020-2022](https://github.com/OpenDocCN-Archive/gntext-2020-2022)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-mobi-zh](https://github.com/OpenDocCN/ibooker-mobi-zh) to [OpenDocCN-Archive/ibooker-mobi-zh](https://github.com/OpenDocCN-Archive/ibooker-mobi-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/playbook](https://github.com/OpenDocCN/playbook) to [OpenDocCN-Archive/playbook](https://github.com/OpenDocCN-Archive/playbook)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/csharp-code-anls](https://github.com/OpenDocCN/csharp-code-anls) to [OpenDocCN-Archive/csharp-code-anls](https://github.com/OpenDocCN-Archive/csharp-code-anls)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/towardsdatascience-blog-zh-2022](https://github.com/OpenDocCN/towardsdatascience-blog-zh-2022) to [OpenDocCN-Archive/towardsdatascience-blog-zh-2022](https://github.com/OpenDocCN-Archive/towardsdatascience-blog-zh-2022)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/towardsdatascience-blog-zh-2020](https://github.com/OpenDocCN/towardsdatascience-blog-zh-2020) to [OpenDocCN-Archive/towardsdatascience-blog-zh-2020](https://github.com/OpenDocCN-Archive/towardsdatascience-blog-zh-2020)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/towardsdatascience-blog-zh-2019](https://github.com/OpenDocCN/towardsdatascience-blog-zh-2019) to [OpenDocCN-Archive/towardsdatascience-blog-zh-2019](https://github.com/OpenDocCN-Archive/towardsdatascience-blog-zh-2019)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/towardsdatascience-blog-zh-2021](https://github.com/OpenDocCN/towardsdatascience-blog-zh-2021) to [OpenDocCN-Archive/towardsdatascience-blog-zh-2021](https://github.com/OpenDocCN-Archive/towardsdatascience-blog-zh-2021)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/towardsdatascience-blog-zh-2016to2018](https://github.com/OpenDocCN/towardsdatascience-blog-zh-2016to2018) to [OpenDocCN-Archive/towardsdatascience-blog-zh-2016to2018](https://github.com/OpenDocCN-Archive/towardsdatascience-blog-zh-2016to2018)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/devgenius-blog-zh](https://github.com/OpenDocCN/devgenius-blog-zh) to [OpenDocCN-Archive/devgenius-blog-zh](https://github.com/OpenDocCN-Archive/devgenius-blog-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/coinmonk-blog-zh-2016to2021](https://github.com/OpenDocCN/coinmonk-blog-zh-2016to2021) to [OpenDocCN-Archive/coinmonk-blog-zh-2016to2021](https://github.com/OpenDocCN-Archive/coinmonk-blog-zh-2016to2021)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/coinmonk-blog-zh-202201to06](https://github.com/OpenDocCN/coinmonk-blog-zh-202201to06) to [OpenDocCN-Archive/coinmonk-blog-zh-202201to06](https://github.com/OpenDocCN-Archive/coinmonk-blog-zh-202201to06)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/coinmonk-blog-zh-202207to12](https://github.com/OpenDocCN/coinmonk-blog-zh-202207to12) to [OpenDocCN-Archive/coinmonk-blog-zh-202207to12](https://github.com/OpenDocCN-Archive/coinmonk-blog-zh-202207to12)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/analyticsvidhya-blog-zh-2015to2020](https://github.com/OpenDocCN/analyticsvidhya-blog-zh-2015to2020) to [OpenDocCN-Archive/analyticsvidhya-blog-zh-2015to2020](https://github.com/OpenDocCN-Archive/analyticsvidhya-blog-zh-2015to2020)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/analyticsvidhya-blog-zh-2021to2022](https://github.com/OpenDocCN/analyticsvidhya-blog-zh-2021to2022) to [OpenDocCN-Archive/analyticsvidhya-blog-zh-2021to2022](https://github.com/OpenDocCN-Archive/analyticsvidhya-blog-zh-2021to2022)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/javascriptinplainenglish-blog-zh-2022](https://github.com/OpenDocCN/javascriptinplainenglish-blog-zh-2022) to [OpenDocCN-Archive/javascriptinplainenglish-blog-zh-2022](https://github.com/OpenDocCN-Archive/javascriptinplainenglish-blog-zh-2022)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/javascriptinplainenglish-blog-zh-2021](https://github.com/OpenDocCN/javascriptinplainenglish-blog-zh-2021) to [OpenDocCN-Archive/javascriptinplainenglish-blog-zh-2021](https://github.com/OpenDocCN-Archive/javascriptinplainenglish-blog-zh-2021)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/javascriptinplainenglish-blog-zh-2015to2020](https://github.com/OpenDocCN/javascriptinplainenglish-blog-zh-2015to2020) to [OpenDocCN-Archive/javascriptinplainenglish-blog-zh-2015to2020](https://github.com/OpenDocCN-Archive/javascriptinplainenglish-blog-zh-2015to2020)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/artifactory](https://github.com/OpenDocCN/artifactory) to [OpenDocCN-Archive/artifactory](https://github.com/OpenDocCN-Archive/artifactory)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/towardsdatascience-blog-zh-2023](https://github.com/OpenDocCN/towardsdatascience-blog-zh-2023) to [OpenDocCN-Archive/towardsdatascience-blog-zh-2023](https://github.com/OpenDocCN-Archive/towardsdatascience-blog-zh-2023)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/kdnuggets-blog-zh](https://github.com/OpenDocCN/kdnuggets-blog-zh) to [OpenDocCN-Archive/kdnuggets-blog-zh](https://github.com/OpenDocCN-Archive/kdnuggets-blog-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/lifehacker-zh-pt1](https://github.com/OpenDocCN/lifehacker-zh-pt1) to [OpenDocCN-Archive/lifehacker-zh-pt1](https://github.com/OpenDocCN-Archive/lifehacker-zh-pt1)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/lifehacker-zh-pt2](https://github.com/OpenDocCN/lifehacker-zh-pt2) to [OpenDocCN-Archive/lifehacker-zh-pt2](https://github.com/OpenDocCN-Archive/lifehacker-zh-pt2)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/lifehacker-zh-pt3](https://github.com/OpenDocCN/lifehacker-zh-pt3) to [OpenDocCN-Archive/lifehacker-zh-pt3](https://github.com/OpenDocCN-Archive/lifehacker-zh-pt3)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/lifehacker-zh-pt4](https://github.com/OpenDocCN/lifehacker-zh-pt4) to [OpenDocCN-Archive/lifehacker-zh-pt4](https://github.com/OpenDocCN-Archive/lifehacker-zh-pt4)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/sec-notes-zh](https://github.com/OpenDocCN/sec-notes-zh) to [OpenDocCN-Archive/sec-notes-zh](https://github.com/OpenDocCN-Archive/sec-notes-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/pmp-notes-zh](https://github.com/OpenDocCN/pmp-notes-zh) to [OpenDocCN-Archive/pmp-notes-zh](https://github.com/OpenDocCN-Archive/pmp-notes-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/zimeiti-notes-zh](https://github.com/OpenDocCN/zimeiti-notes-zh) to [OpenDocCN-Archive/zimeiti-notes-zh](https://github.com/OpenDocCN-Archive/zimeiti-notes-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-golang-zh](https://github.com/OpenDocCN/geekdoc-golang-zh) to [OpenDocCN-Archive/geekdoc-golang-zh](https://github.com/OpenDocCN-Archive/geekdoc-golang-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-devops-zh](https://github.com/OpenDocCN/geekdoc-devops-zh) to [OpenDocCN-Archive/geekdoc-devops-zh](https://github.com/OpenDocCN-Archive/geekdoc-devops-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/betterprogramming-blog-zh](https://github.com/OpenDocCN/betterprogramming-blog-zh) to [OpenDocCN-Archive/betterprogramming-blog-zh](https://github.com/OpenDocCN-Archive/betterprogramming-blog-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekculture-blog-zh](https://github.com/OpenDocCN/geekculture-blog-zh) to [OpenDocCN-Archive/geekculture-blog-zh](https://github.com/OpenDocCN-Archive/geekculture-blog-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/levelup-blog-zh](https://github.com/OpenDocCN/levelup-blog-zh) to [OpenDocCN-Archive/levelup-blog-zh](https://github.com/OpenDocCN-Archive/levelup-blog-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/rhce-notes-zh](https://github.com/OpenDocCN/rhce-notes-zh) to [OpenDocCN-Archive/rhce-notes-zh](https://github.com/OpenDocCN-Archive/rhce-notes-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/geekdoc-misc-zh](https://github.com/OpenDocCN/geekdoc-misc-zh) to [OpenDocCN-Archive/geekdoc-misc-zh](https://github.com/OpenDocCN-Archive/geekdoc-misc-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/towardsdatascience-blog-zh-2024](https://github.com/OpenDocCN/towardsdatascience-blog-zh-2024) to [OpenDocCN-Archive/towardsdatascience-blog-zh-2024](https://github.com/OpenDocCN-Archive/towardsdatascience-blog-zh-2024)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/greenhat-zh](https://github.com/OpenDocCN/greenhat-zh) to [OpenDocCN-Archive/greenhat-zh](https://github.com/OpenDocCN-Archive/greenhat-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/trans-202503](https://github.com/OpenDocCN/trans-202503) to [OpenDocCN-Archive/trans-202503](https://github.com/OpenDocCN-Archive/trans-202503)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-rust-zh](https://github.com/OpenDocCN/freelearn-rust-zh) to [OpenDocCN-Archive/freelearn-rust-zh](https://github.com/OpenDocCN-Archive/freelearn-rust-zh)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/freelearn-epub](https://github.com/OpenDocCN/freelearn-epub) to [OpenDocCN-Archive/freelearn-epub](https://github.com/OpenDocCN-Archive/freelearn-epub)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/vkdoc-epub](https://github.com/OpenDocCN/vkdoc-epub) to [OpenDocCN-Archive/vkdoc-epub](https://github.com/OpenDocCN-Archive/vkdoc-epub)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/greenhat-epub](https://github.com/OpenDocCN/greenhat-epub) to [OpenDocCN-Archive/greenhat-epub](https://github.com/OpenDocCN-Archive/greenhat-epub)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/ibooker-epub](https://github.com/OpenDocCN/ibooker-epub) to [OpenDocCN-Archive/ibooker-epub](https://github.com/OpenDocCN-Archive/ibooker-epub)
+- 🍴 👤 [wizardforcel](https://github.com/wizardforcel) Forked [OpenDocCN/dsai-notes-pt1-zh](https://github.com/OpenDocCN/dsai-notes-pt1-zh) to [OpenDocCN-Archive/dsai-notes-pt1-zh](https://github.com/OpenDocCN-Archive/dsai-notes-pt1-zh)
 
-### [riusksk](https://github.com/riusksk)
-- 🌟 👤 [riusksk](https://github.com/riusksk) Starred [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
-  > Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can ...
+### [yhy0](https://github.com/yhy0)
+- 🌟 👤 [yhy0](https://github.com/yhy0) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+  > The open-source CapCut alternative
 
-### [roadwy](https://github.com/roadwy)
-- 🌟 👤 [roadwy](https://github.com/roadwy) Starred [alexazhou/gt_ai_gateway](https://github.com/alexazhou/gt_ai_gateway)
-  > 轻量高性能 AI 网关，支持协议转换和请求可视化，以及缓存优化功能。并可以运行在 Serverless、Docker 和桌面端环境
-
-### [rogxo](https://github.com/rogxo)
-- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [3899/SimAdmin](https://github.com/3899/SimAdmin)
-  > 🎉面向 Debian 蜂窝 CPE、随身 WiFi、软路由类设备的 SIM/eSIM、蜂窝网络、短信、WiFi Calling(VoWiFi)、DDNS和系统状态管理系统。
-
-### [rosehgal](https://github.com/rosehgal)
-- 🌟 👤 [rosehgal](https://github.com/rosehgal) Starred [rosehgal/handoff](https://github.com/rosehgal/handoff)
-  > Persistent, cross-agent session handoff for AI coding agents (Claude Code, Cursor). Never lose conte...
-
-### [semlinker](https://github.com/semlinker)
-- 🌟 👤 [semlinker](https://github.com/semlinker) Starred [bytefer/geo-seo-codex](https://github.com/bytefer/geo-seo-codex)
-  >   GEO-first SEO toolkit for Codex. Audit websites for AI search visibility across ChatGPT, Perplexit...
-
-### [sh1ma](https://github.com/sh1ma)
-- 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [k3s-io/k3s](https://github.com/k3s-io/k3s)
-  > Lightweight Kubernetes
-- 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [morishin/XDeck](https://github.com/morishin/XDeck)
-  > An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative.
-- 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry)
-  > A container registry backed by Workers and R2.
-
-### [sin5678](https://github.com/sin5678)
-- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
-  > Sandboxie Plus & Classic
-
-### [sisong](https://github.com/sisong)
-- 🌟 👤 [sisong](https://github.com/sisong) Starred [sisong/HDiffPatch5](https://github.com/sisong/HDiffPatch5)
-  > a C\C++ library and command-line tools for Diff & Patch between binary files or directories(folder);...
-
-### [smallzhong](https://github.com/smallzhong)
-- 🌟 👤 [smallzhong](https://github.com/smallzhong) Starred [intel/linux-sgx-pcl](https://github.com/intel/linux-sgx-pcl)
-  > Intel(R) Software Guard Extensions Protected Code Loader for Linux* OS
-- 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [intel/linux-sgx-pcl](https://github.com/intel/linux-sgx-pcl) to [smallzhong/linux-sgx-pcl](https://github.com/smallzhong/linux-sgx-pcl)
-  > Intel(R) Software Guard Extensions Protected Code Loader for Linux* OS
-
-### [sotasan](https://github.com/sotasan)
-- 🍴 👤 [sotasan](https://github.com/sotasan) Forked [tomayac/esm-potrace-wasm](https://github.com/tomayac/esm-potrace-wasm) to [sotasan/esm-potrace-wasm](https://github.com/sotasan/esm-potrace-wasm)
-  > A modern ESM build of the Potrace library for use in the browser.
-
-### [stuxnet147](https://github.com/stuxnet147)
-- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge)
-  > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
-- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [swelljoe/nelson](https://github.com/swelljoe/nelson)
-  > Finding vulnerabilities through dumb brute force
-- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [anshug/claude-mythos](https://github.com/anshug/claude-mythos)
-  > Prompt framework that makes LLMs discover real, exploitable vulnerabilities. Six specialized agents ...
-- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [ExpoSEJS/ExpoSE](https://github.com/ExpoSEJS/ExpoSE)
-  > A Dynamic Symbolic Execution (DSE) engine for JavaScript. ExpoSE is highly scalable, compatible with...
-- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [steipete/oracle](https://github.com/steipete/oracle)
-  > Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
-
-### [surendrajat](https://github.com/surendrajat)
-- 🌟 👤 [surendrajat](https://github.com/surendrajat) Starred [j-hc/ih8SecureLock](https://github.com/j-hc/ih8SecureLock)
-  > Prevent apps from blocking and listening to your screenshots with Zygisk
-
-### [surunzi](https://github.com/surunzi)
-- 🌟 👤 [surunzi](https://github.com/surunzi) Starred [langfuse/langfuse](https://github.com/langfuse/langfuse)
-  > 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playgro...
-
-### [t-wy](https://github.com/t-wy)
-- 🌟 👤 [t-wy](https://github.com/t-wy) Starred [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
-  > We have made you a wrapper you can't refuse
-
-### [thatstraw](https://github.com/thatstraw)
-- 🍴 👤 [thatstraw](https://github.com/thatstraw) Forked [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) to [thatstraw/AsciidocEngine](https://github.com/thatstraw/AsciidocEngine)
-  > A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirr...
-
-### [tijme](https://github.com/tijme)
-- 🌟 👤 [tijme](https://github.com/tijme) Starred [NirvanaOn/SpotifyC2](https://github.com/NirvanaOn/SpotifyC2)
-  > SpotifyC2 is a cybersecurity research project that demonstrates cloud-based command communication us...
-
-### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
-- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [MicrosoftARMAssembler/Undetected-Easy](https://github.com/MicrosoftARMAssembler/Undetected-Easy)
-  > Undetected Easy (UDE) is a detection scanner for finding detections before they catch you, using rev...
-- 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [bmax121/KernelPatch](https://github.com/bmax121/KernelPatch)
-  > Patching and hooking the Linux kernel with only a stripped Linux kernel image.
-
-### [unixpickle](https://github.com/unixpickle)
-- 🍴 👤 [unixpickle](https://github.com/unixpickle) Forked [unconv-ai/Un-0](https://github.com/unconv-ai/Un-0) to [unixpickle/Un-0](https://github.com/unixpickle/Un-0)
-  > Un-0: an image generator powered by a simulated system of coupled oscillators, an example of an emer...
-
-### [v9d0g](https://github.com/v9d0g)
-- 🌟 👤 [v9d0g](https://github.com/v9d0g) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
-  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
-
-### [w00tzenheimer](https://github.com/w00tzenheimer)
-- 🍴 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Forked [dlnn/il2cpp](https://github.com/dlnn/il2cpp) to [w00tzenheimer/il2cpp](https://github.com/w00tzenheimer/il2cpp)
-  > il2cpp各个版本的源码整理
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [yimengfan/BDFramework.Core](https://github.com/yimengfan/BDFramework.Core)
-  > Simple and powerful Unity3d game workflow!  简单、高效、高度工业化的商业级unity3d 工作流。
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [Jadis0x/il2cpp-reverse-engineering-guide](https://github.com/Jadis0x/il2cpp-reverse-engineering-guide)
-  > This guide provides illustrative examples demonstrating the usage of Il2cppInspector C++ scaffold.
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [muhammadrizwan87/il2cppdumper](https://github.com/muhammadrizwan87/il2cppdumper)
-  > A native Android library that dump il2cpp (class/method/field) from any running Unity il2cpp app/gam...
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [StackDoubleFlow/qmerge](https://github.com/StackDoubleFlow/qmerge)
-  > C# Unity IL2CPP modding framework
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [vfsfitvnm/frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge)
-  > A Frida module to dump, trace or hijack any IL2CPP application at runtime, without needing the globa...
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [BepInEx/Il2CppInterop](https://github.com/BepInEx/Il2CppInterop)
-  > A tool interoperate between CoreCLR and Il2Cpp at runtime
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [XtraCube/Cpp2IL.Wrapper](https://github.com/XtraCube/Cpp2IL.Wrapper)
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [ax/apk.sh](https://github.com/ax/apk.sh)
-  > Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, r...
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [sneakyevil/IL2CPP_Resolver](https://github.com/sneakyevil/IL2CPP_Resolver)
-  > A run-time API resolver for IL2CPP Unity.
-- 🍴 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Forked [Batchhh/IOS-Il2cppResolver](https://github.com/Batchhh/IOS-Il2cppResolver) to [w00tzenheimer/IOS-Il2cppResolver](https://github.com/w00tzenheimer/IOS-Il2cppResolver)
-  > A run-time API resolver for IL2CPP Unity.
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [nesrak1/UABEA](https://github.com/nesrak1/UABEA)
-  > c# uabe for newer versions of unity
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
-  > GUI application to analyze game files
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy)
-  > Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
-  > .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [nneonneo/Il2CppVersions](https://github.com/nneonneo/Il2CppVersions)
-  > Build scripts & historical header files for every available minor version of Unity's Il2Cpp project
-
-### [winezer0](https://github.com/winezer0)
-- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [openai/codex](https://github.com/openai/codex)
-  > Lightweight coding agent that runs in your terminal
-- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [RuoJi6/dbx-audit](https://github.com/RuoJi6/dbx-audit)
-  > DBX 数据审计版
-- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui)
-  > CC GUI 客户端（专为开发者打造的VibeCoding平台）
-- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [winezer0/paseo-notifier](https://github.com/winezer0/paseo-notifier)
-  > Fix the bug where Paseo fails to provide audible notifications
-- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [ruanyf/weekly](https://github.com/ruanyf/weekly)
-  > 科技爱好者周刊，每周五发布
-
-### [winmin](https://github.com/winmin)
-- 🌟 👤 [winmin](https://github.com/winmin) Starred [huangzheng2016/ecorplink](https://github.com/huangzheng2016/ecorplink)
-
-### [wszxl516](https://github.com/wszxl516)
-- 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [wandercn/hiposter](https://github.com/wandercn/hiposter)
-  > HiPoster is a high-performance, modern API testing tool built with Rust and the GPUI framework. .
-
-### [wxxsfxyzm](https://github.com/wxxsfxyzm)
-- 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [vvb2060/pxeboot](https://github.com/vvb2060/pxeboot)
-
-### [wy876](https://github.com/wy876)
-- 🌟 👤 [wy876](https://github.com/wy876) Starred [owl234/ARL-Next](https://github.com/owl234/ARL-Next)
-  > 企业级自动化资产侦察与漏洞监控“灯塔”。基于 Vue3 与原生 Puppeteer 重构，打通资产发现到漏洞 PoC 的自动化闭环。
-- 🌟 👤 [wy876](https://github.com/wy876) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-  > A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI...
-- 🍴 👤 [wy876](https://github.com/wy876) Forked [stardustsec/StardustLib](https://github.com/stardustsec/StardustLib) to [wy876/StardustLib](https://github.com/wy876/StardustLib)
-  > 星尘宝库旨在免费为大家提供专业安全趋势研究白皮书、大咖技术分享PPT、行业调研报告、行业技术方案等内容…
-
-### [xingfengwxx](https://github.com/xingfengwxx)
-- 🌟 👤 [xingfengwxx](https://github.com/xingfengwxx) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-  > The agent that grows with you
-
-### [xingguangcuican6666](https://github.com/xingguangcuican6666)
-- 🍴 👤 [xingguangcuican6666](https://github.com/xingguangcuican6666) Forked [xunxiing/astrbot_plugin_imgtool](https://github.com/xunxiing/astrbot_plugin_imgtool) to [xingguangcuican6666/astrbot_plugin_imgtool](https://github.com/xingguangcuican6666/astrbot_plugin_imgtool)
-- 🍴 👤 [xingguangcuican6666](https://github.com/xingguangcuican6666) Forked [AstrBotDevs/AstrBot_Plugins_Collection](https://github.com/AstrBotDevs/AstrBot_Plugins_Collection) to [xingguangcuican6666/AstrBot_Plugins_Collection](https://github.com/xingguangcuican6666/AstrBot_Plugins_Collection)
-  > AstrBot Plugin Collections
-
-### [xunchahaha](https://github.com/xunchahaha)
-- 🌟 👤 [xunchahaha](https://github.com/xunchahaha) Starred [StanleyNull/AutoHunter](https://github.com/StanleyNull/AutoHunter)
-  > 自动化 SRC 漏洞挖掘系统：FOFA 资产测绘 + LLM 多 worker 自主挖掘/审核/情报沉淀。Powered By StanleyNull
-
-### [yinsel](https://github.com/yinsel)
-- 🌟 👤 [yinsel](https://github.com/yinsel) Starred [Idov31/EtwSuite](https://github.com/Idov31/EtwSuite)
-  > Windows native ETW inspection suite for browsing providers, reading metadata, consuming live events,...
-
-### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
-- 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [0x676e67/wreq](https://github.com/0x676e67/wreq)
-  > An ergonomic, censorship-resistant Rust HTTP Client
-
-### [ys1231](https://github.com/ys1231)
-- 🌟 👤 [ys1231](https://github.com/ys1231) Starred [rrr333nnn333/BRENE](https://github.com/rrr333nnn333/BRENE)
-  > BRENE - A SuSFS/KernelSU module for SuSFS patched kernels
-
-### [yuan-xy](https://github.com/yuan-xy)
-- 🌟 👤 [yuan-xy](https://github.com/yuan-xy) Starred [Faicad/screenplay](https://github.com/Faicad/screenplay)
-
-### [zacbre](https://github.com/zacbre)
-- 🌟 👤 [zacbre](https://github.com/zacbre) Starred [bitgapp/eqMac](https://github.com/bitgapp/eqMac)
-  > macOS  System-wide Audio Equalizer & Volume Mixer  🎧
-- 🌟 👤 [zacbre](https://github.com/zacbre) Starred [lhndo/LH-Stinger](https://github.com/lhndo/LH-Stinger)
-  > Fast, Precise, Cartesian, FDM 3D Printer
-
-### [zer0yu](https://github.com/zer0yu)
-- 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [samugit83/redamon](https://github.com/samugit83/redamon)
-  > An AI-powered agentic red team framework that automates offensive security operations, from reconnai...
-
-### [zhangkanqi](https://github.com/zhangkanqi)
-- 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [JDArmy/RTASS](https://github.com/JDArmy/RTASS)
-  > 红蓝对抗量化评估系统（Red Team Assessment Scoring System）
-
-### [zhoujun94511](https://github.com/zhoujun94511)
-- 🌟 👤 [zhoujun94511](https://github.com/zhoujun94511) Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
-  > VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-L...
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
+  > Tool to build & run portable, lightweight, self-contained virtual machines.
 
 
 ---
-*最后更新于 2026-07-01 23:15:41 UTC*
+*最后更新于 2026-07-02 03:36:38 UTC*
 *历史记录保存在 `archive` 目录中。*
