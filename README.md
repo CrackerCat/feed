@@ -17,6 +17,8 @@
 ### [0xdad0](https://github.com/0xdad0)
 - 🌟 👤 [0xdad0](https://github.com/0xdad0) Starred [lautarovculic/ioscpy](https://github.com/lautarovculic/ioscpy)
   > A CLI that mirrors and controls a jailbroken iPhone over USB.
+- 🌟 👤 [0xdad0](https://github.com/0xdad0) Starred [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut)
+  > Your GitHub stats, turned into a World-Cup-style player card 
 
 ### [1193776794](https://github.com/1193776794)
 - 🌟 👤 [1193776794](https://github.com/1193776794) Starred [kenzok8/small](https://github.com/kenzok8/small)
@@ -137,6 +139,12 @@
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [stablyai/orca](https://github.com/stablyai/orca)
   > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
 
+### [Keno](https://github.com/Keno)
+- 🍴 👤 [Keno](https://github.com/Keno) Forked [indygreg/apple-platform-rs](https://github.com/indygreg/apple-platform-rs) to [JuliaCI/apple-platform-rs](https://github.com/JuliaCI/apple-platform-rs)
+  > Rust crates supporting Apple platform development
+- 🍴 👤 [Keno](https://github.com/Keno) Forked [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) to [KenoAIStaging/OpenBLAS](https://github.com/KenoAIStaging/OpenBLAS)
+  > OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. 
+
 ### [Keyird](https://github.com/Keyird)
 - 🌟 👤 [Keyird](https://github.com/Keyird) Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)
   > 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
@@ -160,6 +168,14 @@
   > something applications can use side channel to check root(hunter)，this kpm can bypass it
 - 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [geekbyter/sidechannel_bypass_kpm](https://github.com/geekbyter/sidechannel_bypass_kpm) to [LunFengChen/sidechannel_bypass_kpm](https://github.com/LunFengChen/sidechannel_bypass_kpm)
   > something applications can use side channel to check root(hunter)，this kpm can bypass it
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [fuqiuluo/binder-trace](https://github.com/fuqiuluo/binder-trace)
+  > 🍂 Android Binder 调用观测工具, 基于内核采集 Binder transaction实现!
+- 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [fuqiuluo/binder-trace](https://github.com/fuqiuluo/binder-trace) to [LunFengChen/binder-trace](https://github.com/LunFengChen/binder-trace)
+  > 🍂 Android Binder 调用观测工具, 基于内核采集 Binder transaction实现!
+
+### [M0Rf30](https://github.com/M0Rf30)
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [akustikrausch/yamaha-smaf-player](https://github.com/akustikrausch/yamaha-smaf-player)
+  > A dependency-free C++ PLAYER for Yamaha SMAF (.mmf) ringtones: the polyphonic-ringtone format of the...
 
 ### [Mati365](https://github.com/Mati365)
 - 🌟 👤 [Mati365](https://github.com/Mati365) Starred [FractalFir/crustc](https://github.com/FractalFir/crustc)
@@ -187,6 +203,10 @@
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [yArna/isChinaUser](https://github.com/yArna/isChinaUser)
   >  🇨🇳  Determine current user is a Chinese user.
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [LinXiaoTao/FuckClaude](https://github.com/LinXiaoTao/FuckClaude)
+
+### [N3rdL0rd](https://github.com/N3rdL0rd)
+- 🌟 👤 [N3rdL0rd](https://github.com/N3rdL0rd) Starred [ozkl/doomgeneric](https://github.com/ozkl/doomgeneric)
+  > Easily portable doom
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [gmh5225/ios-location-spoofer](https://github.com/gmh5225/ios-location-spoofer)
@@ -296,6 +316,9 @@
 - 🌟 👤 [WangWei-CM](https://github.com/WangWei-CM) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
   > Write HTML. Render video. Built for agents.
 
+### [WitherOrNot](https://github.com/WitherOrNot)
+- 🌟 👤 [WitherOrNot](https://github.com/WitherOrNot) Starred [winocm/efi_samples](https://github.com/winocm/efi_samples)
+
 ### [XiaoTong6666](https://github.com/XiaoTong6666)
 - 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [ThePedroo/ReZygiskAPI](https://github.com/ThePedroo/ReZygiskAPI)
   > A repository to document the proposal and progress to ReZygisk's API.
@@ -303,6 +326,14 @@
   > PoCs and exploits for CVEs discovered by VEGA. 
 - 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [l2dy/intellij-rust-unofficial-plugin](https://github.com/l2dy/intellij-rust-unofficial-plugin)
   > Unofficial Rust plugin for IntelliJ IDEA Community Edition (fork of intellij-rust)
+- 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [re-zero001/Dobby](https://github.com/re-zero001/Dobby)
+  > a lightweight, multi-platform, multi-architecture hook framework.
+- 🍴 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Forked [LSPosed/Dobby](https://github.com/LSPosed/Dobby) to [XiaoTong6666/Dobby](https://github.com/XiaoTong6666/Dobby)
+  > a lightweight, multi-platform, multi-architecture hook framework.
+- 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [XiaoTong6666/Dobby](https://github.com/XiaoTong6666/Dobby)
+  > a lightweight, multi-platform, multi-architecture hook framework.
+- 🍴 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Forked [LSPosed/LSPlt](https://github.com/LSPosed/LSPlt) to [XiaoTong6666/LSPlt](https://github.com/XiaoTong6666/LSPlt)
+  > Simple PLT hook for Android
 
 ### [Xunzhuo](https://github.com/Xunzhuo)
 - 🌟 👤 [Xunzhuo](https://github.com/Xunzhuo) Starred [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
@@ -315,6 +346,10 @@
 ### [YuKongA](https://github.com/YuKongA)
 - 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide)
   > A guide on how to use the Figma MCP server
+
+### [ZehMatt](https://github.com/ZehMatt)
+- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [Asphaltian/VPhysics-Box3D](https://github.com/Asphaltian/VPhysics-Box3D) to [ZehMatt/VPhysics-Box3D](https://github.com/ZehMatt/VPhysics-Box3D)
+  > Vox3D (VPhysics Box3D) is a replacement physics module for the Source Engine.
 
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [ioerror/tlsdate](https://github.com/ioerror/tlsdate)
@@ -435,6 +470,10 @@
 ### [darbra](https://github.com/darbra)
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [GitKittys/AndroidPrybar](https://github.com/GitKittys/AndroidPrybar)
   > Android Native Trace 与逆向分析工具，用于函数包装执行、指令跟踪、JNI 调用观测与外部跳转控制
+
+### [darkskygit](https://github.com/darkskygit)
+- 🍴 👤 [darkskygit](https://github.com/darkskygit) Forked [NullVoxPopuli/disk-perf-git-and-pnpm](https://github.com/NullVoxPopuli/disk-perf-git-and-pnpm) to [darkskygit/disk-perf-git-and-pnpm](https://github.com/darkskygit/disk-perf-git-and-pnpm)
+  > Stress test for parallel disk i/o using git and pnpm
 
 ### [dartcv](https://github.com/dartcv)
 - 🌟 👤 [dartcv](https://github.com/dartcv) Starred [Lixeer/ValleyServer](https://github.com/Lixeer/ValleyServer)
@@ -586,6 +625,10 @@
 ### [ibaoger](https://github.com/ibaoger)
 - 🍴 👤 [ibaoger](https://github.com/ibaoger) Forked [omegaee/my-fingerprint](https://github.com/omegaee/my-fingerprint) to [ibaoger/my-fingerprint](https://github.com/ibaoger/my-fingerprint)
   > 保护你的浏览器指纹 | Protect Your Browser Fingerprints | Chrome, Edge, Firefox | 扩展 / Extension
+
+### [igorbrigadir](https://github.com/igorbrigadir)
+- 🌟 👤 [igorbrigadir](https://github.com/igorbrigadir) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [nesdev-org/MesenCE](https://github.com/nesdev-org/MesenCE)
@@ -742,6 +785,13 @@
   > a language for fast, portable data-parallel computation
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [antimof/UxPlay](https://github.com/antimof/UxPlay)
   > AirPlay Unix mirroring server
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [VPBox/Dev](https://github.com/VPBox/Dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [selkies-project/selkies](https://github.com/selkies-project/selkies)
+  > Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Ho...
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [microsoft/krabsetw](https://github.com/microsoft/krabsetw)
+  > KrabsETW provides a modern C++ wrapper and a .NET wrapper around the low-level ETW trace consumption...
 
 ### [p-ranav](https://github.com/p-ranav)
 - 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [burhop/wright](https://github.com/burhop/wright)
@@ -871,6 +921,12 @@
 - 🍴 👤 [theapache64](https://github.com/theapache64) Forked [menubar-apps/PullBar](https://github.com/menubar-apps/PullBar) to [theapache64/PullBar](https://github.com/theapache64/PullBar)
   > GitHub pull requests in your menubar!
 
+### [tijme](https://github.com/tijme)
+- 🌟 👤 [tijme](https://github.com/tijme) Starred [dockur/windows](https://github.com/dockur/windows)
+  > Windows inside a Docker container.
+- 🌟 👤 [tijme](https://github.com/tijme) Starred [dockur/windows-arm](https://github.com/dockur/windows-arm)
+  > Windows for ARM in a Docker container.
+
 ### [tomLadder](https://github.com/tomLadder)
 - 🌟 👤 [tomLadder](https://github.com/tomLadder) Starred [metafloor/bwip-js](https://github.com/metafloor/bwip-js)
   > Barcode Writer in Pure JavaScript
@@ -950,6 +1006,8 @@
   >  Real-time detection of anti-bot systems, CAPTCHAs & fingerprinting techniques. Identifies Cloudflar...
 - 🍴 👤 [yfe404](https://github.com/yfe404) Forked [scrapfly/Antibot-Detector](https://github.com/scrapfly/Antibot-Detector) to [yfe404/Antibot-Detector](https://github.com/yfe404/Antibot-Detector)
   >  Real-time detection of anti-bot systems, CAPTCHAs & fingerprinting techniques. Identifies Cloudflar...
+- 🌟 👤 [yfe404](https://github.com/yfe404) Starred [makerspet/oomwoo](https://github.com/makerspet/oomwoo)
+  > Open-source vacuum robot cleaner
 
 ### [yhs0602](https://github.com/yhs0602)
 - 🌟 👤 [yhs0602](https://github.com/yhs0602) Starred [rndhouse/mixmod](https://github.com/rndhouse/mixmod)
@@ -998,5 +1056,5 @@
 
 
 ---
-*最后更新于 2026-07-03 19:22:28 UTC*
+*最后更新于 2026-07-03 21:06:23 UTC*
 *历史记录保存在 `archive` 目录中。*
