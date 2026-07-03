@@ -49,6 +49,10 @@
 ### [AndnixSH](https://github.com/AndnixSH)
 - 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [ispointer/RePairip](https://github.com/ispointer/RePairip)
 
+### [Ares-X](https://github.com/Ares-X)
+- 🌟 👤 [Ares-X](https://github.com/Ares-X) Starred [Yu9191/wloc](https://github.com/Yu9191/wloc)
+  > 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
+
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [mguentner/cannelloni](https://github.com/mguentner/cannelloni)
   > a SocketCAN over Ethernet tunnel
@@ -64,6 +68,18 @@
   > 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [ZephrFish/harness-kit](https://github.com/ZephrFish/harness-kit)
   > A template for building your own AI/LLM harness
+
+### [Ch0pin](https://github.com/Ch0pin)
+- 🌟 👤 [Ch0pin](https://github.com/Ch0pin) Starred [lautarovculic/ioscpy](https://github.com/lautarovculic/ioscpy)
+  > A CLI that mirrors and controls a jailbroken iPhone over USB.
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [msuiche/nanokrnl](https://github.com/msuiche/nanokrnl)
+  > The end of an era
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dearchap/tinyemu](https://github.com/dearchap/tinyemu)
+  > TinyEMU is a system emulator for the RISC-V and x86 architectures. Its purpose is to be small and si...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [scumjr/the-sea-watcher](https://github.com/scumjr/the-sea-watcher)
+  > Implementation of the SMM rootkit "The Watcher"
 
 ### [CyberCraftsmanx](https://github.com/CyberCraftsmanx)
 - 🌟 👤 [CyberCraftsmanx](https://github.com/CyberCraftsmanx) Starred [cocomelonc/tiny-shamir](https://github.com/cocomelonc/tiny-shamir)
@@ -285,6 +301,10 @@
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [ioerror/tlsdate](https://github.com/ioerror/tlsdate)
   > secure parasitic rdate replacement
 
+### [aengelke](https://github.com/aengelke)
+- 🍴 👤 [aengelke](https://github.com/aengelke) Forked [Phantomical/perf-event-data](https://github.com/Phantomical/perf-event-data) to [aengelke/perf-event-data](https://github.com/aengelke/perf-event-data)
+  > Types and traits for parsing records emitted by `perf_event_open`
+
 ### [afkT](https://github.com/afkT)
 - 🌟 👤 [afkT](https://github.com/afkT) Starred [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
   > AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to fr...
@@ -326,6 +346,8 @@
   > PoCs and exploits for CVEs discovered by VEGA. 
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [can1357/pon](https://github.com/can1357/pon)
   > Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, r...
+- 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+  > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
 
 ### [b3x206](https://github.com/b3x206)
 - 🌟 👤 [b3x206](https://github.com/b3x206) Starred [kovacsv/Online3DViewer](https://github.com/kovacsv/Online3DViewer)
@@ -358,6 +380,10 @@
 - 🌟 👤 [chf007](https://github.com/chf007) Starred [flyfish-dev/file-viewer](https://github.com/flyfish-dev/file-viewer)
   > Browser-native Office / PDF / CAD / archive viewer for internal web apps, with Vue, React, Svelte, j...
 
+### [cinit](https://github.com/cinit)
+- 🌟 👤 [cinit](https://github.com/cinit) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible...
+
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [rancher/fleet](https://github.com/rancher/fleet)
   > Deploy workloads from Git to large fleets of Kubernetes clusters
@@ -365,6 +391,10 @@
 ### [codetronik](https://github.com/codetronik)
 - 🌟 👤 [codetronik](https://github.com/codetronik) Starred [xingguangcuican6666/AnyCheck](https://github.com/xingguangcuican6666/AnyCheck)
   > Found any su, using any way.
+
+### [cristeigabriela](https://github.com/cristeigabriela)
+- 🌟 👤 [cristeigabriela](https://github.com/cristeigabriela) Starred [lowleveldesign/windbg-ext-template](https://github.com/lowleveldesign/windbg-ext-template)
+  > A template for creating managed WinDbg extensions
 
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [chaitin/SafeLine](https://github.com/chaitin/SafeLine)
@@ -375,6 +405,10 @@
 ### [darbra](https://github.com/darbra)
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [GitKittys/AndroidPrybar](https://github.com/GitKittys/AndroidPrybar)
   > Android Native Trace 与逆向分析工具，用于函数包装执行、指令跟踪、JNI 调用观测与外部跳转控制
+
+### [dartcv](https://github.com/dartcv)
+- 🌟 👤 [dartcv](https://github.com/dartcv) Starred [Lixeer/ValleyServer](https://github.com/Lixeer/ValleyServer)
+  > 星露谷物语多人游戏专用服务器/Stardew Valley Dedicated Server
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [facebook/astryx](https://github.com/facebook/astryx)
@@ -396,7 +430,7 @@
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [kakkky/scope](https://github.com/kakkky/scope)
   > Scope-bound structured concurrency for Go
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [0xdea/ttyinject-rs](https://github.com/0xdea/ttyinject-rs)
-  > Linux local privilege escalation via TIOCSTI TTY injection.
+  > Linux local privilege escalation via TIOCSTI tty injection.
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [zalando/skipper](https://github.com/zalando/skipper)
   > An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingres...
 
@@ -429,6 +463,8 @@
   > Entirety of `rustc`, translated to C. 
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [facebook/lexical](https://github.com/facebook/lexical)
   > Lexical is an extensible text editor framework that provides excellent reliability, accessibility an...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [skuznetsov/depyo.js](https://github.com/skuznetsov/depyo.js)
+  > Python decompiler. Written in JavaScript. Works in NodeJS. Decompiles extremely fast.
 
 ### [fengchenzxc](https://github.com/fengchenzxc)
 - 🌟 👤 [fengchenzxc](https://github.com/fengchenzxc) Starred [DaoYiSec/SecSkills](https://github.com/DaoYiSec/SecSkills)
@@ -472,6 +508,10 @@
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [FractalFir/crustc](https://github.com/FractalFir/crustc) to [gmh5225/crustc](https://github.com/gmh5225/crustc)
   > Entirety of `rustc`, translated to C. 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [un4ckn0wl3z/dioprocess-private](https://github.com/un4ckn0wl3z/dioprocess-private) to [gmh5225/dioprocess-private](https://github.com/gmh5225/dioprocess-private)
+  > DioProcess — Advanced Windows Internals, Evasion, Rootkit, Hypervisor, SMM & Bootkit Research Framew...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [skuznetsov/depyo.js](https://github.com/skuznetsov/depyo.js) to [gmh5225/depyo.js](https://github.com/gmh5225/depyo.js)
+  > Python decompiler. Written in JavaScript. Works in NodeJS. Decompiles extremely fast.
 
 ### [guiying712](https://github.com/guiying712)
 - 🌟 👤 [guiying712](https://github.com/guiying712) Starred [shy3130/tickflow-stock-panel](https://github.com/shy3130/tickflow-stock-panel)
@@ -544,6 +584,10 @@
 ### [jonatan1024](https://github.com/jonatan1024)
 - 🚀 👤 [jonatan1024](https://github.com/jonatan1024) Made [GoldSrc-one/summer-contest-2026](https://github.com/GoldSrc-one/summer-contest-2026) public
 
+### [jpacg](https://github.com/jpacg)
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [GitKittys/AndroidPrybar](https://github.com/GitKittys/AndroidPrybar)
+  > Android Native Trace 与逆向分析工具，用于函数包装执行、指令跟踪、JNI 调用观测与外部跳转控制
+
 ### [kaganisildak](https://github.com/kaganisildak)
 - 🌟 👤 [kaganisildak](https://github.com/kaganisildak) Starred [project-lambda-zero/AILA](https://github.com/project-lambda-zero/AILA)
   > A Cyber Security AI Framework you need
@@ -603,6 +647,10 @@
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🍴 👤 [mitsuakki](https://github.com/mitsuakki) Forked [minestrate/php-client](https://github.com/minestrate/php-client) to [SaruMC/php-client](https://github.com/SaruMC/php-client)
   > PHP client for minestrate, especially for @pmmp
+
+### [moonD4rk](https://github.com/moonD4rk)
+- 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use)
+  > Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 
 ### [mos9527](https://github.com/mos9527)
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [naelstrof/blender-jiggle-physics](https://github.com/naelstrof/blender-jiggle-physics)
@@ -672,6 +720,10 @@
 - 🌟 👤 [pwh-pwh](https://github.com/pwh-pwh) Starred [Qeccentric/GlobalTraveling](https://github.com/Qeccentric/GlobalTraveling)
   > 基于 LSPosed 框架的 Android 系统级虚拟定位与环境伪装模块。Fakelocation module based on LSPosed which is available to GMS...
 
+### [pwndorei](https://github.com/pwndorei)
+- 🌟 👤 [pwndorei](https://github.com/pwndorei) Starred [SuhJae/koter](https://github.com/SuhJae/koter)
+  > 과몰입 한국어 터미널 — 세종대왕님이 보고 계십니다
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [stevenshiau/clonezilla](https://github.com/stevenshiau/clonezilla)
   > Clonezilla is a partition or disk clone tool similar to Norton Ghost®. It saves and restores only us...
@@ -696,6 +748,10 @@
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [heeeyaaaa/vmem-decrypt](https://github.com/heeeyaaaa/vmem-decrypt)
   > Decrypt VMware vTPM-encrypted .vmem/.vmsn/.vmss/.nvram from the VM password, and flatten the .vmem t...
 
+### [redbearder](https://github.com/redbearder)
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [inventree/InvenTree](https://github.com/inventree/InvenTree)
+  > Open Source Inventory Management System
+
 ### [ret2ldz](https://github.com/ret2ldz)
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [0xdea/weggli-patterns](https://github.com/0xdea/weggli-patterns)
   > A collection of my weggli patterns to facilitate vulnerability research.
@@ -717,6 +773,13 @@
   > 一个强大而易用的 Windows 内核级工具箱，使用 C++/WinRT WinUI3 编写
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [xen-project/xen](https://github.com/xen-project/xen)
   > Mirror of the Xen Repository (PRs not accepted see: http://wiki.xenproject.org/wiki/Submitting_Xen_P...
+
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/android_kernel_security](https://github.com/superturtlee/android_kernel_security)
+  > security patchs for GKI
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/superturtlee](https://github.com/superturtlee/superturtlee)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/Droidspaces-rootfs-KDE-builder](https://github.com/superturtlee/Droidspaces-rootfs-KDE-builder)
+  > 为Droidspaces用户打造的带支持中文环境的KDE_rootfs,并配合on脚本或systemd快速启动
 
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [shikijs/shiki](https://github.com/shikijs/shiki)
@@ -751,6 +814,10 @@
 ### [surunzi](https://github.com/surunzi)
 - 🌟 👤 [surunzi](https://github.com/surunzi) Starred [djblue/tetris](https://github.com/djblue/tetris)
   > An almost complete tetris
+
+### [taisuii](https://github.com/taisuii)
+- 🌟 👤 [taisuii](https://github.com/taisuii) Starred [GitKittys/AndroidPrybar](https://github.com/GitKittys/AndroidPrybar)
+  > Android Native Trace 与逆向分析工具，用于函数包装执行、指令跟踪、JNI 调用观测与外部跳转控制
 
 ### [tomLadder](https://github.com/tomLadder)
 - 🌟 👤 [tomLadder](https://github.com/tomLadder) Starred [metafloor/bwip-js](https://github.com/metafloor/bwip-js)
@@ -849,5 +916,5 @@
 
 
 ---
-*最后更新于 2026-07-03 15:11:26 UTC*
+*最后更新于 2026-07-03 17:25:39 UTC*
 *历史记录保存在 `archive` 目录中。*
