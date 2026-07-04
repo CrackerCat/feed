@@ -29,6 +29,10 @@
 ### [ColdWindScholar](https://github.com/ColdWindScholar)
 - 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [zhouziyang/libndk_translation](https://github.com/zhouziyang/libndk_translation) to [Nredroid/libndk_translation](https://github.com/Nredroid/libndk_translation)
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [l00sy4/LuciSocks](https://github.com/l00sy4/LuciSocks)
+  > Versatile SOCKS5 proxying tool
+
 ### [Dump-GUY](https://github.com/Dump-GUY)
 - 🍴 👤 [Dump-GUY](https://github.com/Dump-GUY) Forked [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) to [Dump-GUY/Harden-Windows-Security](https://github.com/Dump-GUY/Harden-Windows-Security)
   > Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | ...
@@ -81,6 +85,22 @@
 ### [MartinKayJr](https://github.com/MartinKayJr)
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [vibe-motion/skills](https://github.com/vibe-motion/skills)
   > agent skills for vibe motion
+
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [superturtlee/anland](https://github.com/superturtlee/anland)
+  > Protocol For Wayland run on android
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe)
+  > No TrickyStore on Canoe
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [lfdevs/anland-termux](https://github.com/lfdevs/anland-termux)
+  > Use Anland in Termux (especially PRoot and Chroot)
+
+### [MorvanZhou](https://github.com/MorvanZhou)
+- 🌟 👤 [MorvanZhou](https://github.com/MorvanZhou) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter)
+  > Transpile curl commands into Python, JavaScript and 27 other languages
 
 ### [MuggleWei](https://github.com/MuggleWei)
 - 🌟 👤 [MuggleWei](https://github.com/MuggleWei) Starred [hikariming/ghfind](https://github.com/hikariming/ghfind)
@@ -166,6 +186,18 @@
 - 🌟 👤 [Super12138](https://github.com/Super12138) Starred [XingHeYuZhuan/shiguangschedule](https://github.com/XingHeYuZhuan/shiguangschedule)
   > 一款开源、无广告、极简的课程表 APP，支持教务导入
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut)
+  > Your GitHub stats, turned into a World-Cup-style player card 
+
+### [TheNetAdmin](https://github.com/TheNetAdmin)
+- 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [ARahim3/mlx-dspark](https://github.com/ARahim3/mlx-dspark)
+  > DeepSeek's DSpark and z-lab's DFlash speculative decoding — running natively on Apple Silicon via ML...
+
+### [WAY29](https://github.com/WAY29)
+- 🍴 👤 [WAY29](https://github.com/WAY29) Forked [bagpack/poe2-pob-copy-button](https://github.com/bagpack/poe2-pob-copy-button) to [WAY29/poe2-pob-copy-button](https://github.com/WAY29/poe2-pob-copy-button)
+  > PoE2 trade results add-on that copies PoB2 Create Custom item text (works on non-English sites).
+
 ### [WangWei-CM](https://github.com/WangWei-CM)
 - 🌟 👤 [WangWei-CM](https://github.com/WangWei-CM) Starred [fishlabs/EASY-HWID-SPOOFER](https://github.com/fishlabs/EASY-HWID-SPOOFER)
   > 基于内核模式的硬件信息欺骗工具
@@ -178,6 +210,10 @@
 - 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [vkmark/vkmark](https://github.com/vkmark/vkmark)
   > Vulkan benchmark
 
+### [Yricky](https://github.com/Yricky)
+- 🌟 👤 [Yricky](https://github.com/Yricky) Starred [LeonardNJU/VocoType-linux](https://github.com/LeonardNJU/VocoType-linux)
+  > 高性能 Linux 离线中文语音输入法，基于 Ali FunASR(VocoType-cli).  ~0.1s 瞬时上屏，输入法级稳定性， 极高中文准确率、低资源占用(CPU Only).支持 IBu...
+
 ### [Yu2erer](https://github.com/Yu2erer)
 - 🌟 👤 [Yu2erer](https://github.com/Yu2erer) Starred [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
   > The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -187,6 +223,8 @@
 ### [aalansehaiyang](https://github.com/aalansehaiyang)
 - 🌟 👤 [aalansehaiyang](https://github.com/aalansehaiyang) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
+- 🌟 👤 [aalansehaiyang](https://github.com/aalansehaiyang) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 
 ### [alternoegraha](https://github.com/alternoegraha)
 - 🌟 👤 [alternoegraha](https://github.com/alternoegraha) Starred [microg/GmsCore](https://github.com/microg/GmsCore)
@@ -281,6 +319,8 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [n0qword/win32k-callback-detouring](https://github.com/n0qword/win32k-callback-detouring) to [gmh5225/win32k-callback-detouring](https://github.com/gmh5225/win32k-callback-detouring)
   > Abusing the win32k.sys kernel callback mechanism for arbitrary code execution
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Ape-xCV/Nika-Read-Only](https://github.com/Ape-xCV/Nika-Read-Only) to [gmh5225/Nika-Read-Only](https://github.com/gmh5225/Nika-Read-Only)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [WhiteNightShadow/firefox-reverse](https://github.com/WhiteNightShadow/firefox-reverse) to [gmh5225/firefox-reverse](https://github.com/gmh5225/firefox-reverse)
+  > 🦊 内置 AI 逆向 Agent 的 Firefox — 通用 JS/JSVMP/WASM/签名逆向工作站，SpiderMonkey 引擎层非侵入 trace，把加密参数从黑盒还原成不依赖浏览器的纯算...
 
 ### [guiying712](https://github.com/guiying712)
 - 🌟 👤 [guiying712](https://github.com/guiying712) Starred [kritishmohapatra/100_Days_100_IoT_Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects)
@@ -307,6 +347,10 @@
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [WangWei-CM/KSword](https://github.com/WangWei-CM/KSword) to [hzqst/KSword](https://github.com/hzqst/KSword)
   > 最强的开源ARK
+- 🌟 👤 [hzqst](https://github.com/hzqst) Starred [Zhenyu98/codex-chatgpt-bridge](https://github.com/Zhenyu98/codex-chatgpt-bridge)
+  > A safe bridge for Codex and ChatGPT to hand off coding work, save tokens, and keep local execution u...
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [Zhenyu98/codex-chatgpt-bridge](https://github.com/Zhenyu98/codex-chatgpt-bridge) to [hzqst/codex-chatgpt-bridge](https://github.com/hzqst/codex-chatgpt-bridge)
+  > A safe bridge for Codex and ChatGPT to hand off coding work, save tokens, and keep local execution u...
 
 ### [jaywcjlove](https://github.com/jaywcjlove)
 - 🌟 👤 [jaywcjlove](https://github.com/jaywcjlove) Starred [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID)
@@ -361,6 +405,14 @@
 - 🍴 👤 [mdcgqq](https://github.com/mdcgqq) Forked [microsoft/qlib](https://github.com/microsoft/qlib) to [mdcgqq/qlib](https://github.com/mdcgqq/qlib)
   > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
 
+### [mistrmochov](https://github.com/mistrmochov)
+- 🍴 👤 [mistrmochov](https://github.com/mistrmochov) Forked [osm0sis/AnyKernel3](https://github.com/osm0sis/AnyKernel3) to [mistrmochov/AnyKernel3](https://github.com/mistrmochov/AnyKernel3)
+  > AnyKernel, Evolved
+
+### [mq1n](https://github.com/mq1n)
+- 🍴 👤 [mq1n](https://github.com/mq1n) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [mq1n/oh-my-pi](https://github.com/mq1n/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jscott3201/llm-tuning](https://github.com/jscott3201/llm-tuning)
   > Serving and fine-tuning for the Gemma 4 and Qwen3.6 model families on Modal (SGLang/vLLM) — solo and...
@@ -381,6 +433,10 @@
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline)
   > Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting...
+
+### [progmboy](https://github.com/progmboy)
+- 🌟 👤 [progmboy](https://github.com/progmboy) Starred [hyzhang24/DuplexSLA](https://github.com/hyzhang24/DuplexSLA)
+  > DuplexSLA: A Full-Duplex Spoken Language Model with Synchronized Speech, Language, and Action
 
 ### [pwh-pwh](https://github.com/pwh-pwh)
 - 🌟 👤 [pwh-pwh](https://github.com/pwh-pwh) Starred [noobexon1/XposedFakeLocation](https://github.com/noobexon1/XposedFakeLocation)
@@ -430,6 +486,10 @@
 - 🍴 👤 [wangshub](https://github.com/wangshub) Forked [fastrepl/anarlog](https://github.com/fastrepl/anarlog) to [wangshub/anarlog](https://github.com/wangshub/anarlog)
   > Open source Granola AI Alternative
 
+### [winmin](https://github.com/winmin)
+- 🌟 👤 [winmin](https://github.com/winmin) Starred [huangzheng2016/eTerm](https://github.com/huangzheng2016/eTerm)
+  > 终端 SSH/SFTP 客户端：支持跳板与 ProxyCommand、HTTP(S)/SOCKS 代理、本地/远程/动态端口转发、命令片段、多标签与双栏 SFTP 文件管理。 A terminal S...
+
 ### [xiaolai](https://github.com/xiaolai)
 - 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) to [xiaolai/claude-code-sub-agents](https://github.com/xiaolai/claude-code-sub-agents)
   > Collection of specialized AI subagents for Claude Code for personal use (full-stack development).
@@ -460,5 +520,5 @@
 
 
 ---
-*最后更新于 2026-07-04 13:25:53 UTC*
+*最后更新于 2026-07-04 15:05:12 UTC*
 *历史记录保存在 `archive` 目录中。*
