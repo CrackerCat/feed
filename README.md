@@ -144,6 +144,8 @@
   > Rust crates supporting Apple platform development
 - 🍴 👤 [Keno](https://github.com/Keno) Forked [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) to [KenoAIStaging/OpenBLAS](https://github.com/KenoAIStaging/OpenBLAS)
   > OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. 
+- 🍴 👤 [Keno](https://github.com/Keno) Forked [JuliaLang/LinearAlgebra.jl](https://github.com/JuliaLang/LinearAlgebra.jl) to [KenoAIStaging/LinearAlgebra.jl](https://github.com/KenoAIStaging/LinearAlgebra.jl)
+  > Julia Linear Algebra standard library
 
 ### [Keyird](https://github.com/Keyird)
 - 🌟 👤 [Keyird](https://github.com/Keyird) Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)
@@ -172,6 +174,12 @@
   > 🍂 Android Binder 调用观测工具, 基于内核采集 Binder transaction实现!
 - 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [fuqiuluo/binder-trace](https://github.com/fuqiuluo/binder-trace) to [LunFengChen/binder-trace](https://github.com/LunFengChen/binder-trace)
   > 🍂 Android Binder 调用观测工具, 基于内核采集 Binder transaction实现!
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [lucky-oi/kpm_svc_call_hook_trace](https://github.com/lucky-oi/kpm_svc_call_hook_trace)
+  > APatch可用的svc call hook kpm模块
+- 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [lucky-oi/kpm_svc_call_hook_trace](https://github.com/lucky-oi/kpm_svc_call_hook_trace) to [LunFengChen/kpm_svc_call_hook_trace](https://github.com/LunFengChen/kpm_svc_call_hook_trace)
+  > APatch可用的svc call hook kpm模块
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [evil-huawei/evil-huawei](https://github.com/evil-huawei/evil-huawei)
+  > Evil Huawei - 华为作过的恶
 
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [akustikrausch/yamaha-smaf-player](https://github.com/akustikrausch/yamaha-smaf-player)
@@ -378,6 +386,9 @@
   > Python tool for converting files and office documents to Markdown.
 - 🌟 👤 [afkT](https://github.com/afkT) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
   > Spec-driven development (SDD) for AI coding assistants.
+
+### [alfiecg24](https://github.com/alfiecg24)
+- 🌟 👤 [alfiecg24](https://github.com/alfiecg24) Starred [milankovo/struct-compare](https://github.com/milankovo/struct-compare)
 
 ### [ant4g0nist](https://github.com/ant4g0nist)
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [xjffff/FUNCATTN](https://github.com/xjffff/FUNCATTN)
@@ -720,6 +731,10 @@
 - 🌟 👤 [lxzh](https://github.com/lxzh) Starred [AGRIForward/ROS2ISOBUS](https://github.com/AGRIForward/ROS2ISOBUS)
   > ROS 2 adapters for ISO 11783 / NMEA 2000
 
+### [mborgerson](https://github.com/mborgerson)
+- 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [kerlenton/mcpsnoop](https://github.com/kerlenton/mcpsnoop)
+  > Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and yo...
+
 ### [mdcgqq](https://github.com/mdcgqq)
 - 🌟 👤 [mdcgqq](https://github.com/mdcgqq) Starred [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot)
   > [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online ...
@@ -1056,5 +1071,5 @@
 
 
 ---
-*最后更新于 2026-07-03 21:06:23 UTC*
+*最后更新于 2026-07-03 23:03:51 UTC*
 *历史记录保存在 `archive` 目录中。*
