@@ -94,11 +94,21 @@
 - 🌟 👤 [KunMinX](https://github.com/KunMinX) Starred [snownico0722/PaperTodo](https://github.com/snownico0722/PaperTodo)
   > 极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky n...
 
+### [Linuxoid-cn](https://github.com/Linuxoid-cn)
+- 🌟 👤 [Linuxoid-cn](https://github.com/Linuxoid-cn) Starred [pvzcxw/cai-install_stloader](https://github.com/pvzcxw/cai-install_stloader)
+  > Cai Install XP是一款专为 Steam 解锁工具（如 SteamTools、GreenLuma）量身打造的全自动游戏清单（Manifest）及密钥（DepotKey）下载、配置与入库辅助工...
+
 ### [LunFengChen](https://github.com/LunFengChen)
 - 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [marsinator358/luajit-decompiler-v2](https://github.com/marsinator358/luajit-decompiler-v2)
   > LuaJIT bytecode decompiler
 - 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [marsinator358/luajit-decompiler-v2](https://github.com/marsinator358/luajit-decompiler-v2) to [LunFengChen/luajit-decompiler-v2](https://github.com/LunFengChen/luajit-decompiler-v2)
   > LuaJIT bytecode decompiler
+
+### [M0Rf30](https://github.com/M0Rf30)
+- 🍴 👤 [M0Rf30](https://github.com/M0Rf30) Forked [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets) to [M0Rf30/EasyEffects-Presets](https://github.com/M0Rf30/EasyEffects-Presets)
+  > Collection of PulseEffects presets
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [ShanonPearce/ASH-Toolset](https://github.com/ShanonPearce/ASH-Toolset)
+  > A set of tools for headphone correction and binaural synthesis of spatial audio systems on headphone...
 
 ### [MartinKayJr](https://github.com/MartinKayJr)
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [vibe-motion/skills](https://github.com/vibe-motion/skills)
@@ -359,6 +369,8 @@
   > 🦊 内置 AI 逆向 Agent 的 Firefox — 通用 JS/JSVMP/WASM/签名逆向工作站，SpiderMonkey 引擎层非侵入 trace，把加密参数从黑盒还原成不依赖浏览器的纯算...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) to [gmh5225/Dark-Moon](https://github.com/gmh5225/Dark-Moon)
   > Autonomous AI pentesting engine performing continuous offensive security across web, cloud, AD and K...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [regaan/ollama-security-research](https://github.com/regaan/ollama-security-research) to [gmh5225/ollama-security-research](https://github.com/gmh5225/ollama-security-research)
+  > Security research and proof-of-concept demonstrations for multiple Ollama vulnerabilities, including...
 
 ### [guiying712](https://github.com/guiying712)
 - 🌟 👤 [guiying712](https://github.com/guiying712) Starred [kritishmohapatra/100_Days_100_IoT_Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects)
@@ -504,6 +516,10 @@
 - 🌟 👤 [pwh-pwh](https://github.com/pwh-pwh) Starred [noobexon1/XposedFakeLocation](https://github.com/noobexon1/XposedFakeLocation)
   > Android application and Xposed module that allows you to spoof your device's location globally or fo...
 
+### [rdbo](https://github.com/rdbo)
+- 🌟 👤 [rdbo](https://github.com/rdbo) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
 ### [rmuxnet](https://github.com/rmuxnet)
 - 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [ps5-linux/ps5-linux-patches](https://github.com/ps5-linux/ps5-linux-patches) to [rmuxnet/ps5](https://github.com/rmuxnet/ps5)
   > Linux patches and configuration to run on PS5
@@ -551,6 +567,10 @@
   > Cloudflare WARP tunnel with custom DNS (macOS)
 - 🌟 👤 [surendrajat](https://github.com/surendrajat) Starred [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy)
   > Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
+
+### [ttttmr](https://github.com/ttttmr)
+- 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [Augani/dory](https://github.com/Augani/dory)
+  > A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and D...
 
 ### [veaba](https://github.com/veaba)
 - 🌟 👤 [veaba](https://github.com/veaba) Starred [hikariming/ghfind](https://github.com/hikariming/ghfind)
@@ -620,5 +640,5 @@
 
 
 ---
-*最后更新于 2026-07-04 19:13:10 UTC*
+*最后更新于 2026-07-04 20:57:25 UTC*
 *历史记录保存在 `archive` 目录中。*
