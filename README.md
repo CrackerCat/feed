@@ -51,6 +51,10 @@
 - 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)
   > A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚...
 
+### [GermanAizek](https://github.com/GermanAizek)
+- 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux)
+  > Android File Transfer for Linux (and macOS!)
+
 ### [Gracker](https://github.com/Gracker)
 - 🌟 👤 [Gracker](https://github.com/Gracker) Starred [Fenng/Tech-Doc-Style-Chinese](https://github.com/Fenng/Tech-Doc-Style-Chinese)
   > Yet another reusable writing skill for Chinese technical documentation and product copy.
@@ -73,6 +77,14 @@
 ### [Howard20181](https://github.com/Howard20181)
 - 🌟 👤 [Howard20181](https://github.com/Howard20181) Starred [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram)
   > Open-source third-party Telegram client with not many but useful modifications.
+
+### [Idov31](https://github.com/Idov31)
+- 🌟 👤 [Idov31](https://github.com/Idov31) Starred [google/zerocopy](https://github.com/google/zerocopy)
+  > Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
+
+### [JunioJsv](https://github.com/JunioJsv)
+- 🌟 👤 [JunioJsv](https://github.com/JunioJsv) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
+  > Box3D is a 3D physics engine for games
 
 ### [Keno](https://github.com/Keno)
 - 🍴 👤 [Keno](https://github.com/Keno) Forked [MakieOrg/Makie.jl](https://github.com/MakieOrg/Makie.jl) to [KenoAIStaging/Makie.jl](https://github.com/KenoAIStaging/Makie.jl)
@@ -184,6 +196,8 @@
   > An A12/A13 SecureROM exploit
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [halal-beef/houston-pub](https://github.com/halal-beef/houston-pub)
   > We had a problem - and now, publicly, a solution :)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [ZH-XiJun/SuperSUInstaller](https://github.com/ZH-XiJun/SuperSUInstaller)
+  > 适用于SP9820E机型的root工具SuperSU Installer
 
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [sjshb57/Pairip-Patches](https://github.com/sjshb57/Pairip-Patches)
@@ -213,6 +227,10 @@
   > 基于内核模式的硬件信息欺骗工具
 - 🌟 👤 [WangWei-CM](https://github.com/WangWei-CM) Starred [FiYHer/EASY-HWID-SPOOFER](https://github.com/FiYHer/EASY-HWID-SPOOFER)
   > 基于内核模式的硬件信息欺骗工具
+
+### [XiaoTong6666](https://github.com/XiaoTong6666)
+- 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [frida/frida-gum](https://github.com/frida/frida-gum)
+  > Cross-platform instrumentation and introspection library written in C
 
 ### [Xieansecn](https://github.com/Xieansecn)
 - 🍴 👤 [Xieansecn](https://github.com/Xieansecn) Forked [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) to [Xieansecn/Shizuku](https://github.com/Xieansecn/Shizuku)
@@ -249,6 +267,8 @@
   > The browser that isn't there — zero-chrome macOS browser for clean screenshots and fullscreen video....
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [dougburks/so-crates](https://github.com/dougburks/so-crates)
   > SO-CRATES: Security Onion Containerized Rapid Analysis of Threats, Evil, and Sus!
+- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [antoniolupetti/algebrica](https://github.com/antoniolupetti/algebrica)
+  > Algebrica is free and open a mathematical knowledge base dedicated to clarity, structure, and concep...
 
 ### [apkunpacker](https://github.com/apkunpacker)
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [AldazActivator/usbliter8-c](https://github.com/AldazActivator/usbliter8-c)
@@ -337,6 +357,8 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Ape-xCV/Nika-Read-Only](https://github.com/Ape-xCV/Nika-Read-Only) to [gmh5225/Nika-Read-Only](https://github.com/gmh5225/Nika-Read-Only)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [WhiteNightShadow/firefox-reverse](https://github.com/WhiteNightShadow/firefox-reverse) to [gmh5225/firefox-reverse](https://github.com/gmh5225/firefox-reverse)
   > 🦊 内置 AI 逆向 Agent 的 Firefox — 通用 JS/JSVMP/WASM/签名逆向工作站，SpiderMonkey 引擎层非侵入 trace，把加密参数从黑盒还原成不依赖浏览器的纯算...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) to [gmh5225/Dark-Moon](https://github.com/gmh5225/Dark-Moon)
+  > Autonomous AI pentesting engine performing continuous offensive security across web, cloud, AD and K...
 
 ### [guiying712](https://github.com/guiying712)
 - 🌟 👤 [guiying712](https://github.com/guiying712) Starred [kritishmohapatra/100_Days_100_IoT_Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects)
@@ -372,6 +394,10 @@
 - 🌟 👤 [igorbrigadir](https://github.com/igorbrigadir) Starred [HotCakeX/Official-IANA-IP-blocks](https://github.com/HotCakeX/Official-IANA-IP-blocks)
   > Official IANA IP blocks for each country | IPV4 and IPV6 | TEXT | CSV | JSON
 
+### [imlk0](https://github.com/imlk0)
+- 🌟 👤 [imlk0](https://github.com/imlk0) Starred [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)
+  > The best agent harness.
+
 ### [jaywcjlove](https://github.com/jaywcjlove)
 - 🌟 👤 [jaywcjlove](https://github.com/jaywcjlove) Starred [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID)
   > Use your phone's Face ID or fingerprint to approve sudo and unlock your Mac. QR pairing, encrypted B...
@@ -403,6 +429,10 @@
 - 🌟 👤 [kin4stat](https://github.com/kin4stat) Starred [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8)
   > An A12/A13 SecureROM exploit
 
+### [kingking888](https://github.com/kingking888)
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [fuqiuluo/binder-trace](https://github.com/fuqiuluo/binder-trace)
+  > 🍂 Android Binder 调用观测工具, 基于内核采集 Binder transaction实现!
+
 ### [lich4](https://github.com/lich4)
 - 🌟 👤 [lich4](https://github.com/lich4) Starred [TikHub/TikHub-API-Python-SDK](https://github.com/TikHub/TikHub-API-Python-SDK)
   > High-performance asynchronous Douyin(抖音) TikTok Xiaohongshu(小红书) Kuaishou(快手) Weibo(微博) Instagram Yo...
@@ -410,10 +440,6 @@
 ### [lightsummer233](https://github.com/lightsummer233)
 - 🍴 👤 [lightsummer233](https://github.com/lightsummer233) Forked [imren0x/kernel_techpack_xiaomi-titanium](https://github.com/imren0x/kernel_techpack_xiaomi-titanium) to [lightsummer233/kernel_techpack_xiaomi-titanium](https://github.com/lightsummer233/kernel_techpack_xiaomi-titanium)
   > Techpack Module for Mi-Titanium (Vince/YSL/Mido/tiffany) wip unified for vince/ysl/mido
-
-### [llsc12](https://github.com/llsc12)
-- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [pound-emu/ballistic](https://github.com/pound-emu/ballistic)
-  > The Ballistic JIT Engine: On track to become the worlds fastest ARM recompiler.
 
 ### [lyming99](https://github.com/lyming99)
 - 🌟 👤 [lyming99](https://github.com/lyming99) Starred [lyming99/autoplan](https://github.com/lyming99/autoplan)
@@ -523,6 +549,8 @@
   > Shrink the web for your local LLMs!
 - 🚀 👤 [surendrajat](https://github.com/surendrajat) Made [surendrajat/cfwarpd](https://github.com/surendrajat/cfwarpd) public
   > Cloudflare WARP tunnel with custom DNS (macOS)
+- 🌟 👤 [surendrajat](https://github.com/surendrajat) Starred [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy)
+  > Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 
 ### [veaba](https://github.com/veaba)
 - 🌟 👤 [veaba](https://github.com/veaba) Starred [hikariming/ghfind](https://github.com/hikariming/ghfind)
@@ -531,6 +559,16 @@
 ### [wangshub](https://github.com/wangshub)
 - 🍴 👤 [wangshub](https://github.com/wangshub) Forked [fastrepl/anarlog](https://github.com/fastrepl/anarlog) to [wangshub/anarlog](https://github.com/wangshub/anarlog)
   > Open source Granola AI Alternative
+
+### [winezer0](https://github.com/winezer0)
+- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
+- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+  > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [WhiteNightShadow/firefox-reverse](https://github.com/WhiteNightShadow/firefox-reverse)
+  > 🦊 内置 AI 逆向 Agent 的 Firefox — 通用 JS/JSVMP/WASM/签名逆向工作站，SpiderMonkey 引擎层非侵入 trace，把加密参数从黑盒还原成不依赖浏览器的纯算...
+- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [rabbitmask/BeforeDawn-docker](https://github.com/rabbitmask/BeforeDawn-docker)
+  > BeforeDawn 漏洞全生命周期管理平台 docker部署项目
 
 ### [winmin](https://github.com/winmin)
 - 🌟 👤 [winmin](https://github.com/winmin) Starred [huangzheng2016/eTerm](https://github.com/huangzheng2016/eTerm)
@@ -560,6 +598,12 @@
 - 🌟 👤 [yynxxxxx](https://github.com/yynxxxxx) Starred [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)
   > Codex Switch & Instruct desktop manager
 
+### [zacbre](https://github.com/zacbre)
+- 🌟 👤 [zacbre](https://github.com/zacbre) Starred [toniebox-reverse-engineering/teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud)
+  > teddyCloud is an open source server replacement for the Boxine Cloud
+- 🍴 👤 [zacbre](https://github.com/zacbre) Forked [toniebox-reverse-engineering/teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) to [zacbre/teddycloud](https://github.com/zacbre/teddycloud)
+  > teddyCloud is an open source server replacement for the Boxine Cloud
+
 ### [zetaloop](https://github.com/zetaloop)
 - 🌟 👤 [zetaloop](https://github.com/zetaloop) Starred [paper-design/shaders](https://github.com/paper-design/shaders)
   > Zero-dependency canvas shaders that can be installed from npm or designed in Paper
@@ -576,5 +620,5 @@
 
 
 ---
-*最后更新于 2026-07-04 17:05:44 UTC*
+*最后更新于 2026-07-04 19:13:10 UTC*
 *历史记录保存在 `archive` 目录中。*
