@@ -34,6 +34,10 @@
   > Agent skill for agentcad — a CAD tool for AI agents. Install via: npx skills add jdilla1277/agentcad...
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [Snitro/Pointer-CAD](https://github.com/Snitro/Pointer-CAD)
 
+### [Barre](https://github.com/Barre)
+- 🌟 👤 [Barre](https://github.com/Barre) Starred [apache/arrow-rs-object-store](https://github.com/apache/arrow-rs-object-store)
+  > Rust object_store crate
+
 ### [BruceLi20110501](https://github.com/BruceLi20110501)
 - 🚀 👤 [BruceLi20110501](https://github.com/BruceLi20110501) Made [BruceLi20110501/Pulsar_RAT](https://github.com/BruceLi20110501/Pulsar_RAT) public
   > Pulsar RAT现有官方仓库已被下架，此仓库为个人二开版，禁止商用
@@ -154,6 +158,8 @@
   > Android Binder transaction tracer
 - 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding)
   > 超低成本硬件短信转发器，支持移动联通电信，ML307R+ESP32C3
+- 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [Dispa1r/bad-epoll-android](https://github.com/Dispa1r/bad-epoll-android) to [LunFengChen/bad-epoll-android](https://github.com/LunFengChen/bad-epoll-android)
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [Dispa1r/bad-epoll-android](https://github.com/Dispa1r/bad-epoll-android)
 
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [timschneeb/RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP)
@@ -224,6 +230,18 @@
 ### [Ridter](https://github.com/Ridter)
 - 🌟 👤 [Ridter](https://github.com/Ridter) Starred [portbuster1337/ArachneC2](https://github.com/portbuster1337/ArachneC2)
   > Decentralized C2 framework built on libp2p
+
+### [RusJJ](https://github.com/RusJJ)
+- 🌟 👤 [RusJJ](https://github.com/RusJJ) Starred [AndroidModLoader/JPatch](https://github.com/AndroidModLoader/JPatch)
+  > A little (yet) patch-mod that does a good thing!
+- 🌟 👤 [RusJJ](https://github.com/RusJJ) Starred [AndroidModLoader/aml-psdk](https://github.com/AndroidModLoader/aml-psdk)
+  > A plugin SDK for an easier mods creation for everyone!
+
+### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [aerovato/container](https://github.com/aerovato/container)
+  > Safely run OpenCode, Codex, Claude Code with full permissions.
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [marksunner/dgx-spark-single-stack](https://github.com/marksunner/dgx-spark-single-stack)
+  > Complete single-Spark AI agent stack: Qwen 122B + Hermes + Honcho on one DGX Spark
 
 ### [Satar07](https://github.com/Satar07)
 - 🌟 👤 [Satar07](https://github.com/Satar07) Starred [LinXiaoTao/FuckClaude](https://github.com/LinXiaoTao/FuckClaude)
@@ -316,6 +334,12 @@
 - 🌟 👤 [andy0andy](https://github.com/andy0andy) Starred [Javis603/token-monitor](https://github.com/Javis603/token-monitor)
   > Real-time token, cost, and AI limits widget with multi-device sync for Claude Code, Codex, OpenCode,...
 
+### [astrelsky](https://github.com/astrelsky)
+- 🌟 👤 [astrelsky](https://github.com/astrelsky) Starred [woct0rdho/evotensile](https://github.com/woct0rdho/evotensile)
+  > Evolutionary algorithm for hipBLASLt TensileLite tuning
+- 🌟 👤 [astrelsky](https://github.com/astrelsky) Starred [woct0rdho/rdna35-isa-markdown](https://github.com/woct0rdho/rdna35-isa-markdown)
+  > AMD GPU RDNA3.5 (Strix Halo) instruction set architecture manual in Markdown for AI retrieval
+
 ### [aviraxp](https://github.com/aviraxp)
 - 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [Dispa1r/bad-epoll-android](https://github.com/Dispa1r/bad-epoll-android)
 
@@ -353,6 +377,9 @@
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [wgpsec/tchkiller](https://github.com/wgpsec/tchkiller)
   > 基于 claude-agent-sdk 的智能渗透测试 Agent，用于参与第二届 TCH 智能渗透挑战赛。
 
+### [darkskygit](https://github.com/darkskygit)
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [mizchi/similarity](https://github.com/mizchi/similarity)
+
 ### [doodlewind](https://github.com/doodlewind)
 - 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [pocket-stack/pocketjs](https://github.com/pocket-stack/pocketjs)
   > High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid s...
@@ -364,6 +391,10 @@
   > Dataset
 - 🌟 👤 [dreamland-blog](https://github.com/dreamland-blog) Starred [dreamland-blog/shoeep_Dataset](https://github.com/dreamland-blog/shoeep_Dataset)
   > Dataset
+
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [ankane/awesome-legal](https://github.com/ankane/awesome-legal)
+  > Awesome free legal documents for companies
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [shitagaki-lab/see-through](https://github.com/shitagaki-lab/see-through)
@@ -384,6 +415,10 @@
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [ghostplant/Ubuntu-Tiny](https://github.com/ghostplant/Ubuntu-Tiny)
   > A Tiny, Faster and Power-Saving Ubuntu MATE LTS
+
+### [elnormous](https://github.com/elnormous)
+- 🍴 👤 [elnormous](https://github.com/elnormous) Forked [mountain-loop/yaak](https://github.com/mountain-loop/yaak) to [elnormous/yaak](https://github.com/elnormous/yaak)
+  > The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent E...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [AethelisDEV/rustix-os](https://github.com/AethelisDEV/rustix-os)
@@ -453,9 +488,19 @@
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [alliedmodders/hl2sdk](https://github.com/alliedmodders/hl2sdk) to [HLND2T/hl2sdk](https://github.com/HLND2T/hl2sdk)
   > Half-Life 2 SDK Mirrors
 
+### [ich777](https://github.com/ich777)
+- 🌟 👤 [ich777](https://github.com/ich777) Starred [anym001/healthlog](https://github.com/anym001/healthlog)
+  > Self-hosted Apple Health analysis on your own hardware — no cloud, no tracking
+- 🌟 👤 [ich777](https://github.com/ich777) Starred [anym001/pocketlog](https://github.com/anym001/pocketlog)
+  > Self-hosted household budget book as an PWA (FastAPI) — your finances on your own server.
+
 ### [ilian](https://github.com/ilian)
 - 🌟 👤 [ilian](https://github.com/ilian) Starred [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)
   > CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within ...
+
+### [imj01y](https://github.com/imj01y)
+- 🌟 👤 [imj01y](https://github.com/imj01y) Starred [aimardcr/akane-injector](https://github.com/aimardcr/akane-injector)
+  > A kernel-assisted shared-library injector for Android. Loads any .so into a target process without p...
 
 ### [iyxan23](https://github.com/iyxan23)
 - 🌟 👤 [iyxan23](https://github.com/iyxan23) Starred [eclipse-jdtls/eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls)
@@ -555,6 +600,8 @@
 ### [qazbnm456](https://github.com/qazbnm456)
 - 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [OneSavieLabs/Bastet](https://github.com/OneSavieLabs/Bastet)
   > Bastet is a comprehensive dataset of common smart contract vulnerabilities in DeFi along with an AI-...
+- 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [shepherd-agents/shepherd](https://github.com/shepherd-agents/shepherd)
+  > A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agent...
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/subprocessor-tracker-public](https://github.com/rand-tech/subprocessor-tracker-public) public
@@ -606,6 +653,10 @@
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns)
   > 一个 DNS 转发器
 
+### [sjshb57](https://github.com/sjshb57)
+- 🌟 👤 [sjshb57](https://github.com/sjshb57) Starred [zhongbai2333/Tomato-Novel-Downloader](https://github.com/zhongbai2333/Tomato-Novel-Downloader)
+  > 番茄小说下载器不精简版
+
 ### [smx-smx](https://github.com/smx-smx)
 - 🌟 👤 [smx-smx](https://github.com/smx-smx) Starred [JohnBel/EfsTools](https://github.com/JohnBel/EfsTools)
   > Command line tools for Qualcomm EFS file system
@@ -642,6 +693,10 @@
   > 澎湃通知
 - 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [wxxsfxyzm/IslandRecoder](https://github.com/wxxsfxyzm/IslandRecoder)
   > 简易的miuix风格 超级岛屏幕录制app
+
+### [xaitax](https://github.com/xaitax)
+- 🌟 👤 [xaitax](https://github.com/xaitax) Starred [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
+  > autonomous red teaming platform; multi-agent offensive-security meta-harness
 
 ### [xiaobfly](https://github.com/xiaobfly)
 - 🌟 👤 [xiaobfly](https://github.com/xiaobfly) Starred [IgorKorkin/DesktopRanger](https://github.com/IgorKorkin/DesktopRanger)
@@ -698,5 +753,5 @@
 
 
 ---
-*最后更新于 2026-07-05 19:17:31 UTC*
+*最后更新于 2026-07-05 21:00:03 UTC*
 *历史记录保存在 `archive` 目录中。*
