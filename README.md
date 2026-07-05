@@ -40,6 +40,10 @@
 - 🌟 👤 [BruceLi20110501](https://github.com/BruceLi20110501) Starred [BruceLi20110501/Pulsar_RAT](https://github.com/BruceLi20110501/Pulsar_RAT)
   > Pulsar RAT现有官方仓库已被下架，此仓库为个人二开版，禁止商用
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [lief-project/LIEF](https://github.com/lief-project/LIEF)
+  > LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
+
 ### [DeEpinGh0st](https://github.com/DeEpinGh0st)
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [0xBlackash/CVE-2026-46242](https://github.com/0xBlackash/CVE-2026-46242)
   > CVE-2026-46242
@@ -85,6 +89,8 @@
   > AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video...
 - 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+- 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS)
+  > A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
 
 ### [Freakboy](https://github.com/Freakboy)
 - 🍴 👤 [Freakboy](https://github.com/Freakboy) Forked [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) to [Freakboy/flutter_server_box](https://github.com/Freakboy/flutter_server_box)
@@ -149,6 +155,10 @@
 - 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding)
   > 超低成本硬件短信转发器，支持移动联通电信，ML307R+ESP32C3
 
+### [M0Rf30](https://github.com/M0Rf30)
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [timschneeb/RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP)
+  > An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices
+
 ### [M4cs](https://github.com/M4cs)
 - 🍴 👤 [M4cs](https://github.com/M4cs) Forked [pret/pokefirered](https://github.com/pret/pokefirered) to [M4cs/pokemonfirered](https://github.com/M4cs/pokemonfirered)
   > Decompilation of Pokémon FireRed/LeafGreen
@@ -157,11 +167,18 @@
 - 🌟 👤 [Manistein](https://github.com/Manistein) Starred [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
   > 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 
+### [MhmRdd](https://github.com/MhmRdd)
+- 🌟 👤 [MhmRdd](https://github.com/MhmRdd) Starred [Dispa1r/bad-epoll-android](https://github.com/Dispa1r/bad-epoll-android)
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [Dispa1r/bad-epoll-android](https://github.com/Dispa1r/bad-epoll-android)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [Beauty114514/trierarch](https://github.com/Beauty114514/trierarch)
   > Your pocket Arch Linux + KDE Plasma (Wayland) desktop—pretty, personal, always with you. Neither Ter...
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [axboe/fio](https://github.com/axboe/fio)
+  > Flexible I/O Tester
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [FractalFir/crustc](https://github.com/FractalFir/crustc)
+  > Entirety of `rustc`, translated to C. 
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)
@@ -173,9 +190,18 @@
 - 🌟 👤 [NativeStar](https://github.com/NativeStar) Starred [haikow/com.chekayo.feishuantirecall](https://github.com/haikow/com.chekayo.feishuantirecall)
   > fuck lark · 飞书增强 (防撤回 + 离职统计 + 资料归档 · LSPosed 原生层; 7.71.8 验证; arm64)
 
+### [Nep-Timeline](https://github.com/Nep-Timeline)
+- 🌟 👤 [Nep-Timeline](https://github.com/Nep-Timeline) Starred [Anatdx/YukiSU](https://github.com/Anatdx/YukiSU)
+  > Kernel-based Android Root Solution
+- 🌟 👤 [Nep-Timeline](https://github.com/Nep-Timeline) Starred [NekoSekaiMoe/Tamisu](https://github.com/NekoSekaiMoe/Tamisu)
+  > Tamisu is a Kernel-based Android Zygote control tool
+
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [WhiteNightShadow/firefox-reverse](https://github.com/WhiteNightShadow/firefox-reverse)
   > 🦊 内置 AI 逆向 Agent 的 Firefox — 通用 JS/JSVMP/WASM/签名逆向工作站，SpiderMonkey 引擎层非侵入 trace，把加密参数从黑盒还原成不依赖浏览器的纯算...
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [aws-samples/sample-bedrock-api-proxy](https://github.com/aws-samples/sample-bedrock-api-proxy) to [NyaMisty/sample-bedrock-api-proxy](https://github.com/NyaMisty/sample-bedrock-api-proxy)
 
 ### [P001water](https://github.com/P001water)
 - 🌟 👤 [P001water](https://github.com/P001water) Starred [Muz1K1zuM/kslkatz_bof](https://github.com/Muz1K1zuM/kslkatz_bof)
@@ -245,6 +271,10 @@
 ### [XiaoTong6666](https://github.com/XiaoTong6666)
 - 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook)
   > :fire: ShadowHook is an Android inlinehook library which supports thumb, arm32 and arm64.
+- 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [capstone-engine/capstone](https://github.com/capstone-engine/capstone)
+  > Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, L...
+- 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [LuckyPray/DexKit](https://github.com/LuckyPray/DexKit)
+  > An easy-to-use, high-performance dex deobfuscation library.
 
 ### [XiaoliChan](https://github.com/XiaoliChan)
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [portbuster1337/ArachneC2](https://github.com/portbuster1337/ArachneC2)
@@ -266,6 +296,9 @@
   > Reverse-engineering toolkit for Qualcomm Adreno GPU command-processor (CP) microcode: the 32-bit mic...
 - 🍴 👤 [YungRaj](https://github.com/YungRaj) Forked [locus-x64/ida-adreno-qrisc](https://github.com/locus-x64/ida-adreno-qrisc) to [YungRaj/ida-adreno-qrisc](https://github.com/YungRaj/ida-adreno-qrisc)
   > Reverse-engineering toolkit for Qualcomm Adreno GPU command-processor (CP) microcode: the 32-bit mic...
+- 🌟 👤 [YungRaj](https://github.com/YungRaj) Starred [NextgCoreLab/nextgcore](https://github.com/NextgCoreLab/nextgcore)
+  > NextG Core epc
+- 🌟 👤 [YungRaj](https://github.com/YungRaj) Starred [NextgCoreLab/nextgsim](https://github.com/NextgCoreLab/nextgsim)
 
 ### [afkT](https://github.com/afkT)
 - 🌟 👤 [afkT](https://github.com/afkT) Starred [TortoiseGit/TortoiseGit](https://github.com/TortoiseGit/TortoiseGit)
@@ -344,6 +377,10 @@
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
   > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
 
+### [ejpir](https://github.com/ejpir)
+- 🌟 👤 [ejpir](https://github.com/ejpir) Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)
+  > OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [ghostplant/Ubuntu-Tiny](https://github.com/ghostplant/Ubuntu-Tiny)
   > A Tiny, Faster and Power-Saving Ubuntu MATE LTS
@@ -351,6 +388,14 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [AethelisDEV/rustix-os](https://github.com/AethelisDEV/rustix-os)
   > Safe, self-healing bare-metal x86-64 operating system designed for radiation-hardened aerospace syst...
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [klauspost/compress](https://github.com/klauspost/compress)
+  > Optimized Go Compression Packages
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [perber/leafwiki](https://github.com/perber/leafwiki)
+  > LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database requir...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [k1LoW/mo](https://github.com/k1LoW/mo)
+  > mo is a Markdown viewer that opens .md files in a browser.
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [skydoves/compose-nav-graph](https://github.com/skydoves/compose-nav-graph)
@@ -374,6 +419,13 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [aerovato/container](https://github.com/aerovato/container) to [gmh5225/container-](https://github.com/gmh5225/container-)
   > Safely run OpenCode, Codex, Claude Code with full permissions.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Raikiri/RadianceCascadesPaper](https://github.com/Raikiri/RadianceCascadesPaper) to [gmh5225/RadianceCascadesPaper](https://github.com/gmh5225/RadianceCascadesPaper)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [KingOfTheNOPs/CDP-Enable-BOF](https://github.com/KingOfTheNOPs/CDP-Enable-BOF) to [gmh5225/CDP-Enable-BOF](https://github.com/gmh5225/CDP-Enable-BOF)
+  > Beacon Object File to Enable Chrome DevTools Protocol (CDP)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [lucas-eea/symbolic-range-analysis](https://github.com/lucas-eea/symbolic-range-analysis) to [gmh5225/symbolic-range-analysis](https://github.com/gmh5225/symbolic-range-analysis)
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
+  > MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Patvessel/ComfyUI-krea2_projector_delta](https://github.com/Patvessel/ComfyUI-krea2_projector_delta) to [gmh5225/ComfyUI-krea2_projector_delta](https://github.com/gmh5225/ComfyUI-krea2_projector_delta)
+  > This is a custom node for the Krea2 model with a variable dynamic Delta value, designed to integrate...
 
 ### [grant-h](https://github.com/grant-h)
 - 🌟 👤 [grant-h](https://github.com/grant-h) Starred [microsoft/preflate-rs](https://github.com/microsoft/preflate-rs)
@@ -384,6 +436,10 @@
   > The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - 🌟 👤 [guiying712](https://github.com/guiying712) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
   > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
+### [haikow](https://github.com/haikow)
+- 🌟 👤 [haikow](https://github.com/haikow) Starred [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)
+  > DataBackup for Android 7.0+
 
 ### [hanbings](https://github.com/hanbings)
 - 🌟 👤 [hanbings](https://github.com/hanbings) Starred [rust-vmm/linux-loader](https://github.com/rust-vmm/linux-loader)
@@ -474,6 +530,11 @@
   > Safely run OpenCode, Codex, Claude Code with full permissions.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter)
   > A tiny ~10K-parameter LLM router that learns which open-source model (deepseek-v4-pro / glm-5p2 / ki...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lucas-eea/symbolic-range-analysis](https://github.com/lucas-eea/symbolic-range-analysis)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
+  > MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Patvessel/ComfyUI-krea2_projector_delta](https://github.com/Patvessel/ComfyUI-krea2_projector_delta)
+  > This is a custom node for the Krea2 model with a variable dynamic Delta value, designed to integrate...
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)
@@ -490,6 +551,10 @@
 ### [prife](https://github.com/prife)
 - 🌟 👤 [prife](https://github.com/prife) Starred [lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use)
   > Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
+
+### [qazbnm456](https://github.com/qazbnm456)
+- 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [OneSavieLabs/Bastet](https://github.com/OneSavieLabs/Bastet)
+  > Bastet is a comprehensive dataset of common smart contract vulnerabilities in DeFi along with an AI-...
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/subprocessor-tracker-public](https://github.com/rand-tech/subprocessor-tracker-public) public
@@ -633,5 +698,5 @@
 
 
 ---
-*最后更新于 2026-07-05 17:10:26 UTC*
+*最后更新于 2026-07-05 19:17:31 UTC*
 *历史记录保存在 `archive` 目录中。*
