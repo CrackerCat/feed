@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0dayCTF](https://github.com/0dayCTF)
+- 🌟 👤 [0dayCTF](https://github.com/0dayCTF) Starred [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
+  > autonomous red teaming platform; multi-agent offensive-security meta-harness
+
 ### [0xjiayu](https://github.com/0xjiayu)
 - 🌟 👤 [0xjiayu](https://github.com/0xjiayu) Starred [amruth-sn/kong](https://github.com/amruth-sn/kong)
   > The world's first agentic reverse engineer.
@@ -58,6 +62,10 @@
 ### [Chordp](https://github.com/Chordp)
 - 🌟 👤 [Chordp](https://github.com/Chordp) Starred [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli)
   > A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
+- 🌟 👤 [Chordp](https://github.com/Chordp) Starred [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)
+  > AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for persona...
+- 🌟 👤 [Chordp](https://github.com/Chordp) Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+  > Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. Open...
 
 ### [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut)
 - 🌟 👤 [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut) Starred [amruth-sn/kong](https://github.com/amruth-sn/kong)
@@ -121,6 +129,10 @@
   > btrace：binder_transaction+eBPF+Golang实现通用的Android APP动态行为追踪工具
 - 🌟 👤 [FANGG3](https://github.com/FANGG3) Starred [fuqiuluo/binder-trace](https://github.com/fuqiuluo/binder-trace)
   > 🍂 Android Binder 调用观测工具, 基于内核采集 Binder transaction实现!
+
+### [FldBudin](https://github.com/FldBudin)
+- 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [nagisanzenin/engram](https://github.com/nagisanzenin/engram)
+  > Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verificatio...
 
 ### [Fplyth0ner-Combie](https://github.com/Fplyth0ner-Combie)
 - 🌟 👤 [Fplyth0ner-Combie](https://github.com/Fplyth0ner-Combie) Starred [mandiant/speakeasy](https://github.com/mandiant/speakeasy)
@@ -201,6 +213,10 @@
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)
   > Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -     ...
 
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [argosphil/aurora](https://github.com/argosphil/aurora)
+  > Porting AsteroidOS to the Google Pixel Watch (version 2)
+
 ### [MorvanZhou](https://github.com/MorvanZhou)
 - 🌟 👤 [MorvanZhou](https://github.com/MorvanZhou) Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
   > A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
@@ -228,6 +244,10 @@
 ### [NiTianErXing666](https://github.com/NiTianErXing666)
 - 🌟 👤 [NiTianErXing666](https://github.com/NiTianErXing666) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
   > android 无痕probe 无痕hook kpm demo
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
+  > IDA Pro RPC for assisted RE-tasks
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
@@ -323,6 +343,10 @@
   > CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 - 🍴 👤 [SummerSec](https://github.com/SummerSec) Forked [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) to [SummerSec/cloudflare_email](https://github.com/SummerSec/cloudflare_email)
   > CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [DimonSmart/DbSketch](https://github.com/DimonSmart/DbSketch)
+  > Generate compact database schema diagrams and Markdown docs from live SQL Server, PostgreSQL, and My...
 
 ### [TheNetAdmin](https://github.com/TheNetAdmin)
 - 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam)
@@ -468,6 +492,8 @@
   > Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwi...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [json-e/json-e](https://github.com/json-e/json-e)
   > A data-structure parameterization system written for embedding context in JSON objects
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
+  > OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automat...
 
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [woodchen-ink/video2gif](https://github.com/woodchen-ink/video2gif)
@@ -500,6 +526,10 @@
   > AI-assisted IDA Pro plugin (local llama.cpp) for function explanations, renames, struct detection, a...
 - 🌟 👤 [darvincisec](https://github.com/darvincisec) Starred [amruth-sn/kong](https://github.com/amruth-sn/kong)
   > The world's first agentic reverse engineer.
+
+### [dekuan](https://github.com/dekuan)
+- 🌟 👤 [dekuan](https://github.com/dekuan) Starred [dekuan/py-apple-photos-large-file-finder](https://github.com/dekuan/py-apple-photos-large-file-finder)
+  > Find large files in Apple Photos on macOS
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [XiNian-dada/Fuck_My_Shit_Mountain](https://github.com/XiNian-dada/Fuck_My_Shit_Mountain)
@@ -576,6 +606,10 @@
   > Toolchain to create JVM-ready Java bytecode from Rust MIR.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [dreamfast/ungguf](https://github.com/dreamfast/ungguf) to [gmh5225/ungguf](https://github.com/gmh5225/ungguf)
   > GGUF -> Safetensor converter
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [eugr/llama-benchy](https://github.com/eugr/llama-benchy)
+  > llama-benchy - llama-bench style benchmarking tool for all backends
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [centerforaisafety/HarmBench](https://github.com/centerforaisafety/HarmBench)
+  > HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal
 
 ### [goatmilkkk](https://github.com/goatmilkkk)
 - 🌟 👤 [goatmilkkk](https://github.com/goatmilkkk) Starred [htimesnine/DarkSword-RCE](https://github.com/htimesnine/DarkSword-RCE)
@@ -637,6 +671,12 @@
   > Persistent Codex-style goal tracking extension for pi
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [jamesob/local-llm](https://github.com/jamesob/local-llm)
   > Everything I know about running LLMs locally
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [MiaAI-Lab/Best-Local-Model_Agentic-Workflows_2026](https://github.com/MiaAI-Lab/Best-Local-Model_Agentic-Workflows_2026)
+  > Head-to-head comparison of local LLMs for agentic workflows (Hermes Agent, tool-eval-bench)
+
+### [iAklis](https://github.com/iAklis)
+- 🌟 👤 [iAklis](https://github.com/iAklis) Starred [teamchong/pxpipe](https://github.com/teamchong/pxpipe)
+  > cut Fable 5 token usage by rendering text context as images
 
 ### [iamtorsten](https://github.com/iamtorsten)
 - 🍴 👤 [iamtorsten](https://github.com/iamtorsten) Forked [bikini/exploitarium](https://github.com/bikini/exploitarium) to [iamtorsten/exploitarium](https://github.com/iamtorsten/exploitarium)
@@ -764,6 +804,8 @@
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Bynario/pocs](https://github.com/Bynario/pocs) to [killvxk/pocs-bynario](https://github.com/killvxk/pocs-bynario)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [n0qword/win32k-callback-detouring](https://github.com/n0qword/win32k-callback-detouring)
   > Abusing the win32k.sys kernel callback mechanism for arbitrary code execution
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Orangera1n/spironolactone](https://github.com/Orangera1n/spironolactone)
+  > Something, mayhaps?
 
 ### [kingking888](https://github.com/kingking888)
 - 🌟 👤 [kingking888](https://github.com/kingking888) Starred [ramtinak/InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp)
@@ -819,6 +861,10 @@
 - 🍴 👤 [lz6688](https://github.com/lz6688) Forked [AgentSmithers/x64DbgMCPServer](https://github.com/AgentSmithers/x64DbgMCPServer) to [lz6688/x64DbgMCPServer](https://github.com/lz6688/x64DbgMCPServer)
   > x64DbgMCPServer made from c# with Claude, Windsurf and Cursor support
 
+### [mahmoudimus](https://github.com/mahmoudimus)
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [can1357/pon](https://github.com/can1357/pon)
+  > Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, r...
+
 ### [miunasu](https://github.com/miunasu)
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [CAPESandbox/CAPEsolo](https://github.com/CAPESandbox/CAPEsolo)
 
@@ -841,6 +887,8 @@
   > The LLM Evaluation Framework
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [centerforaisafety/HarmBench](https://github.com/centerforaisafety/HarmBench)
   > HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eugr/llama-benchy](https://github.com/eugr/llama-benchy)
+  > llama-benchy - llama-bench style benchmarking tool for all backends
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [farazsth98/poc-CVE-2025-38352](https://github.com/farazsth98/poc-CVE-2025-38352)
@@ -867,6 +915,8 @@
   > An app to measure audio latency (ear-to-mouth delay) in android systems
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [superpoweredSDK/SuperpoweredLatency](https://github.com/superpoweredSDK/SuperpoweredLatency)
   > This application measures round-trip audio latency on an iOS or Android device. Low round-trip audio...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
+  > Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ayyucedemirbas/Windows-Research-Kernel-WRK-](https://github.com/ayyucedemirbas/Windows-Research-Kernel-WRK-)
@@ -918,6 +968,8 @@
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [asmjit/asmjit](https://github.com/asmjit/asmjit)
   > Low-latency machine code generation
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [LLVMParty/loki](https://github.com/LLVMParty/loki)
+  > [Fork] Hardening code obfuscation against automated attacks
 
 ### [ret2ldz](https://github.com/ret2ldz)
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [williballenthin/python-idb](https://github.com/williballenthin/python-idb)
@@ -991,6 +1043,10 @@
 ### [surunzi](https://github.com/surunzi)
 - 🌟 👤 [surunzi](https://github.com/surunzi) Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
   > A collection of MCP servers.
+
+### [tomLadder](https://github.com/tomLadder)
+- 🌟 👤 [tomLadder](https://github.com/tomLadder) Starred [dotintent/react-native-ble-plx](https://github.com/dotintent/react-native-ble-plx)
+  > React Native BLE library
 
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [yuandaimaahao/aosp-harness-demo](https://github.com/yuandaimaahao/aosp-harness-demo)
@@ -1100,6 +1156,10 @@
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [lingbol088-spec/Codex-5.5-codex-instruct-5.5](https://github.com/lingbol088-spec/Codex-5.5-codex-instruct-5.5)
   > Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。
 
+### [xihan123](https://github.com/xihan123)
+- 🌟 👤 [xihan123](https://github.com/xihan123) Starred [xihan123/gb2260](https://github.com/xihan123/gb2260)
+  > 中国行政区划(GB2260)历史沿革与代码数据集。整合多源数据，提供多格式下载(CSV/JSON/SQLite)、多API及可视化检索
+
 ### [xsser](https://github.com/xsser)
 - 🌟 👤 [xsser](https://github.com/xsser) Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
   > Show usage stats for OpenAI Codex and Claude Code, without having to login.
@@ -1154,5 +1214,5 @@
 
 
 ---
-*最后更新于 2026-07-06 17:43:15 UTC*
+*最后更新于 2026-07-06 19:57:07 UTC*
 *历史记录保存在 `archive` 目录中。*
