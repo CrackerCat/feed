@@ -354,6 +354,10 @@
 - 🌟 👤 [c1y2m3](https://github.com/c1y2m3) Starred [lianqingsec/NucleiPocGather](https://github.com/lianqingsec/NucleiPocGather)
   > 每日自动收集全网可用 Nuclei POC 
 
+### [cctv18](https://github.com/cctv18)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [vercel/hyper](https://github.com/vercel/hyper)
+  > A terminal built on web technologies
+
 ### [chizhanyuefeng](https://github.com/chizhanyuefeng)
 - 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [jd-opensource/JoyAI-VL-Interaction](https://github.com/jd-opensource/JoyAI-VL-Interaction)
 
@@ -364,6 +368,8 @@
 ### [cristeigabriela](https://github.com/cristeigabriela)
 - 🌟 👤 [cristeigabriela](https://github.com/cristeigabriela) Starred [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens)
   >  Companion code for the global workspace interpretability paper
+- 🌟 👤 [cristeigabriela](https://github.com/cristeigabriela) Starred [0vercl0k/sic](https://github.com/0vercl0k/sic)
+  > Enumerate user mode shared memory mappings on Windows.
 
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🍴 👤 [ctkqiang](https://github.com/ctkqiang) Forked [erlcloud/erlcloud](https://github.com/erlcloud/erlcloud) to [ctkqiang/erlcloud](https://github.com/ctkqiang/erlcloud)
@@ -420,6 +426,10 @@
 ### [fanzhidongyzby](https://github.com/fanzhidongyzby)
 - 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [Forward-Future/loopy](https://github.com/Forward-Future/loopy)
   > A library of practical AI-agent loops and an installable skill for finding, adapting, and designing ...
+
+### [fei-ke](https://github.com/fei-ke)
+- 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
+  > Orchestrate multiple coding agents from desktop and mobile
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MistyFir/SVMHypervisor-Preview](https://github.com/MistyFir/SVMHypervisor-Preview) to [fengjixuchui/SVMHypervisor-Preview](https://github.com/fengjixuchui/SVMHypervisor-Preview)
@@ -555,10 +565,6 @@
 - 🌟 👤 [imj01y](https://github.com/imj01y) Starred [Atomos-X/Camera2Magic](https://github.com/Atomos-X/Camera2Magic)
   > A Virtual Camera, support Android 10+
 
-### [j2kun](https://github.com/j2kun)
-- 🍴 👤 [j2kun](https://github.com/j2kun) Forked [llvm/torch-mlir-release](https://github.com/llvm/torch-mlir-release) to [j2kun/torch-mlir-release](https://github.com/j2kun/torch-mlir-release)
-  > Automated releases for torch-mlir
-
 ### [jaywcjlove](https://github.com/jaywcjlove)
 - 🌟 👤 [jaywcjlove](https://github.com/jaywcjlove) Starred [jaywcjlove/SVGSymbolKit](https://github.com/jaywcjlove/SVGSymbolKit)
 
@@ -600,10 +606,6 @@
 ### [keleus](https://github.com/keleus)
 - 🌟 👤 [keleus](https://github.com/keleus) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-
-### [kernelwernel](https://github.com/kernelwernel)
-- 🍴 👤 [kernelwernel](https://github.com/kernelwernel) Forked [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware) to [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware)
-  > Advanced VM detection library and tool
 
 ### [langgithub](https://github.com/langgithub)
 - 🌟 👤 [langgithub](https://github.com/langgithub) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
@@ -735,6 +737,14 @@
   > Implementation of FFM API for Android 8.0+
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [qbicc/qbicc](https://github.com/qbicc/qbicc)
   > Experimental static compiler for Java programs.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [warren-bank/Android-AirPlay-Client](https://github.com/warren-bank/Android-AirPlay-Client)
+  > AirPlay (version 1) client for Android
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [google/flatbuffers](https://github.com/google/flatbuffers)
+  > FlatBuffers: Memory Efficient Serialization Library
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [killop/puerts-unity-mcp](https://github.com/killop/puerts-unity-mcp)
+  > unity-mcp driven by tencent puerts , invoke js/ts  call c#  in your cell phone and unity editor
 
 ### [oobbb](https://github.com/oobbb)
 - 🌟 👤 [oobbb](https://github.com/oobbb) Starred [LukeFZ/Il2CppInspectorRedux](https://github.com/LukeFZ/Il2CppInspectorRedux)
@@ -781,6 +791,14 @@
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [WildKernels/kernel_patches](https://github.com/WildKernels/kernel_patches)
+- 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [fatalcoder524/TCP_Optimiser_Module](https://github.com/fatalcoder524/TCP_Optimiser_Module)
+  > A Magisk/KernelSU module to change tcp congestion algorithm based on current active internet type an...
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [Daivuk/PureDOOM](https://github.com/Daivuk/PureDOOM)
+  > Pure DOOM - Single Header Doom Source Port
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [maximecb/uvm](https://github.com/maximecb/uvm)
+  > Fun, portable, minimalistic virtual machine.
 
 ### [redbearder](https://github.com/redbearder)
 - 🌟 👤 [redbearder](https://github.com/redbearder) Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
@@ -790,6 +808,10 @@
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [1mmey/bili-live-source-toolkit](https://github.com/1mmey/bili-live-source-toolkit)
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [linkedin/qark](https://github.com/linkedin/qark)
   > Tool to look for several security related Android application vulnerabilities
+
+### [riba2534](https://github.com/riba2534)
+- 🌟 👤 [riba2534](https://github.com/riba2534) Starred [Dicklesworthstone/franken_ocr](https://github.com/Dicklesworthstone/franken_ocr)
+  > Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixe...
 
 ### [riusksk](https://github.com/riusksk)
 - 🌟 👤 [riusksk](https://github.com/riusksk) Starred [SEC-bench/SEC-bench](https://github.com/SEC-bench/SEC-bench)
@@ -942,5 +964,5 @@
 
 
 ---
-*最后更新于 2026-07-07 19:02:07 UTC*
+*最后更新于 2026-07-07 21:23:56 UTC*
 *历史记录保存在 `archive` 目录中。*
