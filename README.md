@@ -155,6 +155,8 @@
   > flat assembler g - adaptable assembly engine
 - 🌟 👤 [Fyyre](https://github.com/Fyyre) Starred [tgrysztar/fasm2](https://github.com/tgrysztar/fasm2)
   > flat assembler 2
+- 🚀 👤 [Fyyre](https://github.com/Fyyre) Made [Fyyre/LDASM64](https://github.com/Fyyre/LDASM64) public
+  > LDASM - x86-64 / VEX / EVEX / XOP maintenance and correctness port by Fyyre
 
 ### [GangJust](https://github.com/GangJust)
 - 🌟 👤 [GangJust](https://github.com/GangJust) Starred [Yoahoug/mirror-studio](https://github.com/Yoahoug/mirror-studio)
@@ -247,6 +249,10 @@
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [V4bel/Januscape](https://github.com/V4bel/Januscape)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [teslamotors/fleet-telemetry](https://github.com/teslamotors/fleet-telemetry)
+
+### [M0Rf30](https://github.com/M0Rf30)
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
+  > PoCs and exploits for CVEs discovered by VEGA. 
 
 ### [MartinKayJr](https://github.com/MartinKayJr)
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [null-luo/btrace](https://github.com/null-luo/btrace)
@@ -907,6 +913,10 @@
 - 🍴 👤 [mosentest](https://github.com/mosentest) Forked [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) to [mosentest/CyberMeowfia](https://github.com/mosentest/CyberMeowfia)
   > PoCs and exploits for CVEs discovered by VEGA. 
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [majidmanzarpour/threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills)
+  > Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphic...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hikarioyama/a6b-k-expansion](https://github.com/hikarioyama/a6b-k-expansion)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills)
@@ -919,6 +929,8 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
   > The open-source AI voice studio. Clone, dictate, create.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aerovato/nitro](https://github.com/aerovato/nitro)
+  > A tiny and efficient harness for running Bash commands.
 
 ### [mudongliang](https://github.com/mudongliang)
 - 🍴 👤 [mudongliang](https://github.com/mudongliang) Forked [hust-open-atom-club/wechat-office-account-cli](https://github.com/hust-open-atom-club/wechat-office-account-cli) to [mudongliang/wechat-office-account-cli](https://github.com/mudongliang/wechat-office-account-cli)
@@ -975,9 +987,15 @@
   > Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [chattocorp/chatto](https://github.com/chattocorp/chatto)
   > A really good chat application that you can self-host.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [5731la/battery-historian](https://github.com/5731la/battery-historian)
+  > Battery Historian is a tool to analyze battery consumers using Android "bugreport" files.
 
 ### [nzcv](https://github.com/nzcv)
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [nzcv/idevice](https://github.com/nzcv/idevice)
+
+### [oblique](https://github.com/oblique)
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
+  > agent multiplexer that lives in your terminal.
 
 ### [pbek](https://github.com/pbek)
 - 🌟 👤 [pbek](https://github.com/pbek) Starred [prettier/prettier](https://github.com/prettier/prettier)
@@ -1051,6 +1069,8 @@
 ### [stuxnet147](https://github.com/stuxnet147)
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)
   > OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
+  > HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) a...
 
 ### [su-vikas](https://github.com/su-vikas)
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [pgarba/ida-llm-explainer](https://github.com/pgarba/ida-llm-explainer)
@@ -1205,5 +1225,5 @@
 
 
 ---
-*最后更新于 2026-07-08 20:20:05 UTC*
+*最后更新于 2026-07-08 22:05:09 UTC*
 *历史记录保存在 `archive` 目录中。*
