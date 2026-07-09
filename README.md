@@ -158,6 +158,8 @@
 ### [Keno](https://github.com/Keno)
 - 🍴 👤 [Keno](https://github.com/Keno) Forked [JuliaLang/Distributed.jl](https://github.com/JuliaLang/Distributed.jl) to [KenoAIStaging/Distributed.jl](https://github.com/KenoAIStaging/Distributed.jl)
   > Create and control multiple Julia processes remotely for distributed computing. Ships as a Julia std...
+- 🍴 👤 [Keno](https://github.com/Keno) Forked [JuliaDebug/LoweredCodeUtils.jl](https://github.com/JuliaDebug/LoweredCodeUtils.jl) to [KenoAIStaging/LoweredCodeUtils.jl](https://github.com/KenoAIStaging/LoweredCodeUtils.jl)
+  > Tools for manipulating Julia's lowered code
 
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [CodingWithCalvin/VS-MCPServer](https://github.com/CodingWithCalvin/VS-MCPServer)
@@ -178,6 +180,14 @@
 ### [Lotus6](https://github.com/Lotus6)
 - 🌟 👤 [Lotus6](https://github.com/Lotus6) Starred [daijro/camoufox](https://github.com/daijro/camoufox)
   > 🦊 Anti-detect browser
+
+### [LunFengChen](https://github.com/LunFengChen)
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [LineageOS/android_bionic](https://github.com/LineageOS/android_bionic)
+- 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [LineageOS/android_bionic](https://github.com/LineageOS/android_bionic) to [LunFengChen/android_bionic](https://github.com/LunFengChen/android_bionic)
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [h3xduck/TripleCross](https://github.com/h3xduck/TripleCross)
+  > A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and st...
+- 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [h3xduck/TripleCross](https://github.com/h3xduck/TripleCross) to [LunFengChen/TripleCross](https://github.com/LunFengChen/TripleCross)
+  > A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and st...
 
 ### [Monoceros406](https://github.com/Monoceros406)
 - 🌟 👤 [Monoceros406](https://github.com/Monoceros406) Starred [The-Sword-of-Constantine/UsingBYOVD](https://github.com/The-Sword-of-Constantine/UsingBYOVD)
@@ -210,6 +220,8 @@
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [wxxsfxyzm/MiuiBackGestureHook](https://github.com/wxxsfxyzm/MiuiBackGestureHook)
   > Restore AOSP gesture and predictive back for Xiaomi Android 16 devices without hooking Xiaomi Home.
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [fakerqu/StorageRedirectionXposed](https://github.com/fakerqu/StorageRedirectionXposed)
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [paditianxiu/QQ_Revived](https://github.com/paditianxiu/QQ_Revived)
+  > 基于手表QQ9.0.5版本的文艺复兴模块
 
 ### [SherlockChiang](https://github.com/SherlockChiang)
 - 🌟 👤 [SherlockChiang](https://github.com/SherlockChiang) Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)
@@ -538,7 +550,7 @@
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [zwclose/realtek-dma](https://github.com/zwclose/realtek-dma)
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [zwclose/realtek-dma](https://github.com/zwclose/realtek-dma) to [killvxk/realtek-dma](https://github.com/killvxk/realtek-dma)
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wearrrrr/Nari](https://github.com/wearrrrr/Nari)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [nari-lang/nari](https://github.com/nari-lang/nari)
   > Nari is a dynamically typed multi-paradigm language featuring a full JIT compiler, and an entire eco...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [heeeyaaaa/vmem-decrypt](https://github.com/heeeyaaaa/vmem-decrypt)
   > Decrypt VMware vTPM-encrypted .vmem/.vmsn/.vmss/.nvram from the VM password, and flatten the .vmem t...
@@ -880,6 +892,10 @@
 - 🍴 👤 [ylytdeng](https://github.com/ylytdeng) Forked [keep-coffee/keep-sdk](https://github.com/keep-coffee/keep-sdk) to [ylytdeng/keep-sdk](https://github.com/ylytdeng/keep-sdk)
   > Non-custodial, refundable onchain fundraising on Solana - TypeScript SDK for AI builders and agents
 
+### [yunsmall](https://github.com/yunsmall)
+- 🌟 👤 [yunsmall](https://github.com/yunsmall) Starred [marcoesposito1988/dependency_runner](https://github.com/marcoesposito1988/dependency_runner)
+  > ldd for Windows - and more!
+
 ### [yuzheng14](https://github.com/yuzheng14)
 - 🌟 👤 [yuzheng14](https://github.com/yuzheng14) Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
   > Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
@@ -905,5 +921,5 @@
 
 
 ---
-*最后更新于 2026-07-09 17:55:48 UTC*
+*最后更新于 2026-07-09 19:48:08 UTC*
 *历史记录保存在 `archive` 目录中。*
