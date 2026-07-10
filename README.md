@@ -246,6 +246,10 @@
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)
   > Codex Switch & Instruct desktop manager
 
+### [StephenDev0](https://github.com/StephenDev0)
+- 🌟 👤 [StephenDev0](https://github.com/StephenDev0) Starred [sergealagon/ImmortalizerJailed](https://github.com/sergealagon/ImmortalizerJailed)
+  > Jailed tweak version of Immortalizer
+
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
   > Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/...
@@ -301,6 +305,10 @@
 ### [androidmalin](https://github.com/androidmalin)
 - 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [JailedBird/ArouterGradlePlugin](https://github.com/JailedBird/ArouterGradlePlugin)
   > Arouter auto register plugin for AGP7.4+ & AGP8
+
+### [answer-huang](https://github.com/answer-huang)
+- 🌟 👤 [answer-huang](https://github.com/answer-huang) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+  > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
 ### [aviraxp](https://github.com/aviraxp)
 - 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
@@ -474,6 +482,8 @@
 ### [iAklis](https://github.com/iAklis)
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [rustscript-lang/rustscript](https://github.com/rustscript-lang/rustscript)
   > RustScript implementation
+- 🌟 👤 [iAklis](https://github.com/iAklis) Starred [malisper/pgrust](https://github.com/malisper/pgrust)
+  > Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
 ### [je5442804](https://github.com/je5442804)
 - 🌟 👤 [je5442804](https://github.com/je5442804) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
@@ -542,6 +552,10 @@
   > 免费无广告的追剧资源导航与影视工具指南，收录无广告在线影视、影视App、网盘搜索、磁力与 BT、字幕、TVBox、影视仓配置地址、IPTV 订阅源和会员拼团，每日可用性检测。
 - 🌟 👤 [lightless233](https://github.com/lightless233) Starred [dramaclaw/dramaclaw](https://github.com/dramaclaw/dramaclaw)
   > A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product ...
+
+### [lightsummer233](https://github.com/lightsummer233)
+- 🌟 👤 [lightsummer233](https://github.com/lightsummer233) Starred [wxxsfxyzm/MiuiBackGestureHook](https://github.com/wxxsfxyzm/MiuiBackGestureHook)
+  > Restore AOSP gesture and predictive back for Xiaomi Android 16 devices without hooking Xiaomi Home.
 
 ### [lizhangqu](https://github.com/lizhangqu)
 - 🌟 👤 [lizhangqu](https://github.com/lizhangqu) Starred [Aliucord/hook](https://github.com/Aliucord/hook)
@@ -684,6 +698,16 @@
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft)
 
+### [techknowlogick](https://github.com/techknowlogick)
+- 🍴 👤 [techknowlogick](https://github.com/techknowlogick) Forked [caddyserver/caddy](https://github.com/caddyserver/caddy) to [techknowlogick/caddy](https://github.com/techknowlogick/caddy)
+  > Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+
+### [tijme](https://github.com/tijme)
+- 🌟 👤 [tijme](https://github.com/tijme) Starred [Orange-Cyberdefense/p3-loader](https://github.com/Orange-Cyberdefense/p3-loader)
+  > P³-Shellcode Loader is a loader that implements a code injection technique which leverages the Proce...
+- 🍴 👤 [tijme](https://github.com/tijme) Forked [Orange-Cyberdefense/p3-loader](https://github.com/Orange-Cyberdefense/p3-loader) to [tijme/forked-p3-loader](https://github.com/tijme/forked-p3-loader)
+  > P³-Shellcode Loader is a loader that implements a code injection technique which leverages the Proce...
+
 ### [uknowsec](https://github.com/uknowsec)
 - 🌟 👤 [uknowsec](https://github.com/uknowsec) Starred [A4n9g7e2l/burp-mcp-bridge](https://github.com/A4n9g7e2l/burp-mcp-bridge)
   > 把 Burp Suite 33 个插件（26 核心 + 7 Phase 3 高级工具）通过 MCP 协议桥接到 AI 客户端
@@ -748,6 +772,9 @@
 - 🌟 👤 [yfe404](https://github.com/yfe404) Starred [tiliondev/fortress](https://github.com/tiliondev/fortress)
   > Stealth Chromium engine that stops scrapers and browser agents from getting blocked, with one line o...
 
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [shogo82148/TinySegmenterMaker](https://github.com/shogo82148/TinySegmenterMaker)
+
 ### [zfl9](https://github.com/zfl9)
 - 🌟 👤 [zfl9](https://github.com/zfl9) Starred [fcying/compiledb-go](https://github.com/fcying/compiledb-go)
   > Tool for generating Clang's JSON Compilation Database files for make-based build systems.
@@ -755,6 +782,10 @@
   > A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by...
 - 🌟 👤 [zfl9](https://github.com/zfl9) Starred [oz123/awesome-c](https://github.com/oz123/awesome-c)
   > A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all...
+
+### [zgy0x01](https://github.com/zgy0x01)
+- 🌟 👤 [zgy0x01](https://github.com/zgy0x01) Starred [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace)
+  > qbdi based android arm64 trace tool
 
 ### [zhangyoufu](https://github.com/zhangyoufu)
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [charlievieth/strcase](https://github.com/charlievieth/strcase)
@@ -781,5 +812,5 @@
 
 
 ---
-*最后更新于 2026-07-10 16:24:28 UTC*
+*最后更新于 2026-07-10 18:22:33 UTC*
 *历史记录保存在 `archive` 目录中。*
