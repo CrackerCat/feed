@@ -64,6 +64,10 @@
 - 🌟 👤 [CCint3](https://github.com/CCint3) Starred [Ylarod/btrace](https://github.com/Ylarod/btrace)
   > btrace：binder_transaction+eBPF+Golang实现通用的Android APP动态行为追踪工具
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
+  > A flight-compliant WebAssembly interpreter
+
 ### [DarkLineX](https://github.com/DarkLineX)
 - 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [MobiusM/CVE-2026-43499](https://github.com/MobiusM/CVE-2026-43499)
   > CVE-2026-43499 PoC
@@ -207,6 +211,10 @@
 - 🍴 👤 [Resery](https://github.com/Resery) Forked [wzy114514sb/pwnage24mtk](https://github.com/wzy114514sb/pwnage24mtk) to [Resery/pwnage24mtk](https://github.com/Resery/pwnage24mtk)
   > Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2...
 
+### [RiccardoAncarani](https://github.com/RiccardoAncarani)
+- 🍴 👤 [RiccardoAncarani](https://github.com/RiccardoAncarani) Forked [amankumarsingh77/pi-browser-harness](https://github.com/amankumarsingh77/pi-browser-harness) to [RiccardoAncarani/pi-browser-harness](https://github.com/RiccardoAncarani/pi-browser-harness)
+  > Browser control extension for pi — navigate, click, type, screenshot, and extract data from real Chr...
+
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [malisper/pgrust](https://github.com/malisper/pgrust)
   > Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
@@ -302,6 +310,10 @@
 - 🍴 👤 [ZacharyZcR](https://github.com/ZacharyZcR) Forked [JustVugg/colibri](https://github.com/JustVugg/colibri) to [ZacharyZcR/colibri](https://github.com/ZacharyZcR/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
 
+### [alexander-hanel](https://github.com/alexander-hanel)
+- 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [Adham504/iocforge](https://github.com/Adham504/iocforge)
+  > An advanced, production-ready Threat Intelligence utility that extracts Indicators of Compromise (Io...
+
 ### [androidmalin](https://github.com/androidmalin)
 - 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [JailedBird/ArouterGradlePlugin](https://github.com/JailedBird/ArouterGradlePlugin)
   > Arouter auto register plugin for AGP7.4+ & AGP8
@@ -334,6 +346,12 @@
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
+  > omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebase...
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex)
+  > The one and only agent harness for complex codebases. Project memory, planning, execution, and verif...
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+  > 所有小初高、大学PDF教材。
 
 ### [cnlh](https://github.com/cnlh)
 - 🌟 👤 [cnlh](https://github.com/cnlh) Starred [zw008/VMware-AIops](https://github.com/zw008/VMware-AIops)
@@ -524,6 +542,16 @@
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus)
   > An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的...
 
+### [kaganisildak](https://github.com/kaganisildak)
+- 🍴 👤 [kaganisildak](https://github.com/kaganisildak) Forked [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) to [kaganisildak/awesome-mcp-servers](https://github.com/kaganisildak/awesome-mcp-servers)
+  > A collection of MCP servers.
+- 🍴 👤 [kaganisildak](https://github.com/kaganisildak) Forked [Malwation/threatzone-mcp-server](https://github.com/Malwation/threatzone-mcp-server) to [threat-zone/threatzone-mcp-server](https://github.com/threat-zone/threatzone-mcp-server)
+  > Official Threat.Zone MCP Server
+- 🌟 👤 [kaganisildak](https://github.com/kaganisildak) Starred [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime)
+  > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+- 🍴 👤 [kaganisildak](https://github.com/kaganisildak) Forked [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) to [kaganisildak/wasmtime](https://github.com/kaganisildak/wasmtime)
+  > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+
 ### [keith2018](https://github.com/keith2018)
 - 🌟 👤 [keith2018](https://github.com/keith2018) Starred [steering-vectors/steering-vectors](https://github.com/steering-vectors/steering-vectors)
   > Steering vectors for transformer language models in Pytorch / Huggingface
@@ -578,6 +606,10 @@
 - 🌟 👤 [luochuanyuewu](https://github.com/luochuanyuewu) Starred [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector)
   > Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, a...
 
+### [mav8557](https://github.com/mav8557)
+- 🌟 👤 [mav8557](https://github.com/mav8557) Starred [0x676e67/wreq](https://github.com/0x676e67/wreq)
+  > An ergonomic, censorship-resistant Rust HTTP Client
+
 ### [mdcgqq](https://github.com/mdcgqq)
 - 🌟 👤 [mdcgqq](https://github.com/mdcgqq) Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
   > LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system wi...
@@ -593,6 +625,10 @@
   > Skills for Design Engineers.
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [davidondrej/skills](https://github.com/davidondrej/skills)
   > access to david ondrej's personal agent skills
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [lukearend/x86-bootloader](https://github.com/lukearend/x86-bootloader)
+  > write your own bootloader!
 
 ### [mr-m0nst3r](https://github.com/mr-m0nst3r)
 - 🍴 👤 [mr-m0nst3r](https://github.com/mr-m0nst3r) Forked [xipki/xipki](https://github.com/xipki/xipki) to [mr-m0nst3r/xipki](https://github.com/mr-m0nst3r/xipki)
@@ -812,5 +848,5 @@
 
 
 ---
-*最后更新于 2026-07-10 18:22:33 UTC*
+*最后更新于 2026-07-10 20:22:29 UTC*
 *历史记录保存在 `archive` 目录中。*
