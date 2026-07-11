@@ -7,6 +7,8 @@
 ### [0x1306a94](https://github.com/0x1306a94)
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [pocket-stack/pocket-figma](https://github.com/pocket-stack/pocket-figma)
   > A Figma file viewer for the Sony PSP — a real Community file baked into streamed CLUT8 tile pyramids...
+- 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
+  > A flight-compliant WebAssembly interpreter.
 
 ### [2977094657](https://github.com/2977094657)
 - 🌟 👤 [2977094657](https://github.com/2977094657) Starred [254558/claude-range-slider](https://github.com/254558/claude-range-slider)
@@ -22,6 +24,12 @@
 
 ### [CHYbeta](https://github.com/CHYbeta)
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [ZephrFish/TokenBurn](https://github.com/ZephrFish/TokenBurn)
+- 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness)
+  > Reference code for the Meta-Harness paper.
+
+### [ColdWindScholar](https://github.com/ColdWindScholar)
+- 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [sandyz987/XVirtualCamera](https://github.com/sandyz987/XVirtualCamera) to [ColdWindScholar/XVirtualCamera](https://github.com/ColdWindScholar/XVirtualCamera)
+  > Xposed虚拟摄像头，适用于Android9.0+;   Xposed virtual camera, available for Android 9.0+
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [extenhive/Redirector](https://github.com/extenhive/Redirector)
@@ -128,6 +136,9 @@
 - 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [thxa/deep-researcher](https://github.com/thxa/deep-researcher)
 - 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [thxa/deep-researcher](https://github.com/thxa/deep-researcher) to [Silentsoul04/deep-researcher](https://github.com/Silentsoul04/deep-researcher)
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [zayg21-pixel/pdf-pixel](https://github.com/zayg21-pixel/pdf-pixel)
+
 ### [V-E-O](https://github.com/V-E-O)
 - 🌟 👤 [V-E-O](https://github.com/V-E-O) Starred [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)
   > Secure, Fast, and Extensible Sandbox runtime for AI agents.
@@ -174,6 +185,18 @@
 - 🌟 👤 [burpheart](https://github.com/burpheart) Starred [vanhauser-thc/thc-ipv6](https://github.com/vanhauser-thc/thc-ipv6)
   > IPv6 attack toolkit
 
+### [c1y2m3](https://github.com/c1y2m3)
+- 🌟 👤 [c1y2m3](https://github.com/c1y2m3) Starred [owl234/ARL-Next](https://github.com/owl234/ARL-Next)
+  > 🚀 自动化资产侦察与漏洞监控平台 (ARL-Next)。重构自 ARL 经典版，升级为 Puppeteer + Nuclei 引擎，打通“天眼查/ICP ➔ 资产发现 ➔ 漏洞扫描➔ 威胁情报追踪”全...
+
+### [carlonluca](https://github.com/carlonluca)
+- 🌟 👤 [carlonluca](https://github.com/carlonluca) Starred [nc-music/music](https://github.com/nc-music/music)
+  > :notes: Music app for Nextcloud
+- 🌟 👤 [carlonluca](https://github.com/carlonluca) Starred [navidrome/navidrome](https://github.com/navidrome/navidrome)
+  > 🎧 Your Personal Streaming Service 
+- 🌟 👤 [carlonluca](https://github.com/carlonluca) Starred [ghenry22/substreamer](https://github.com/ghenry22/substreamer)
+  > Substreamer - Subsonic Music Streamer
+
 ### [dartcv](https://github.com/dartcv)
 - 🌟 👤 [dartcv](https://github.com/dartcv) Starred [linkedin/dexmaker](https://github.com/linkedin/dexmaker)
   > A utility for doing compile or runtime code generation targeting Android's Dalvik VM
@@ -191,6 +214,9 @@
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [muxy-app/muxy](https://github.com/muxy-app/muxy)
   > Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
+
+### [enginelesscc](https://github.com/enginelesscc)
+- 🍴 👤 [enginelesscc](https://github.com/enginelesscc) Forked [lvwmwm/vendettian-plugins](https://github.com/lvwmwm/vendettian-plugins) to [enginelesscc/vendettian-plugins](https://github.com/enginelesscc/vendettian-plugins)
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [tidwall/neco](https://github.com/tidwall/neco)
@@ -225,6 +251,8 @@
   > lowRISC Style Guides
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [co-l/openfox](https://github.com/co-l/openfox) to [gmh5225/openfox](https://github.com/gmh5225/openfox)
   > Local-LLM-first agentic coding assistant, with everything you need out of the box.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [whatchamacallem/libhatchet](https://github.com/whatchamacallem/libhatchet) to [gmh5225/libhatchet](https://github.com/gmh5225/libhatchet)
+  > libhatchet is a fast-compiling, lightweight, bespoke C17/C++23 alternative to the C++ standard libra...
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [AaronL725/grok-register](https://github.com/AaronL725/grok-register)
@@ -233,6 +261,10 @@
 ### [hoochanlon](https://github.com/hoochanlon)
 - 🌟 👤 [hoochanlon](https://github.com/hoochanlon) Starred [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)
   > [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语...
+
+### [huoji120](https://github.com/huoji120)
+- 🌟 👤 [huoji120](https://github.com/huoji120) Starred [altdeep/causalAI](https://github.com/altdeep/causalAI)
+  > The open source repository for the Causal Modeling in Machine Learning Workshop at Altdeep.ai @ www....
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [LottoLottoLotto/localmaxxing-cli](https://github.com/LottoLottoLotto/localmaxxing-cli)
@@ -287,6 +319,10 @@
 - 🍴 👤 [lyy289065406](https://github.com/lyy289065406) Forked [steipete/CodexBar](https://github.com/steipete/CodexBar) to [Visuals-AI/CodexBar](https://github.com/Visuals-AI/CodexBar)
   > Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+  > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [co-l/openfox](https://github.com/co-l/openfox)
   > Local-LLM-first agentic coding assistant, with everything you need out of the box.
@@ -330,12 +366,22 @@
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [fuqiuluo/amice](https://github.com/fuqiuluo/amice)
   > 🍂A Rust implementation of Obfuscator-LLVM (OLLVM) passes
 
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [dxy250312/-RK3588-PCB-YOLO-](https://github.com/dxy250312/-RK3588-PCB-YOLO-)
+  > 基于 YOLOv11 与 ELF 2（RK3588）的 PCB 裸板缺陷检测系统。项目包含模型训练、数据集配置、RKNN 部署、Qt 可视化界面以及 RK3588 GPIO 控制示例，可用于学习边缘 ...
+
 ### [surunzi](https://github.com/surunzi)
 - 🌟 👤 [surunzi](https://github.com/surunzi) Starred [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
   > Free and open-source macOS menu bar toolkit.
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-Abliterated-Uncensored](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-Abliterated-Uncensored)
+  > DeepSeek V4 Flash DSpark Abliterated (Uncensored) — 2× DGX Spark serving
+
 ### [tomLadder](https://github.com/tomLadder)
 - 🌟 👤 [tomLadder](https://github.com/tomLadder) Starred [adamlyttleapps/claude-skill-aso-appstore-screenshots](https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots)
+- 🌟 👤 [tomLadder](https://github.com/tomLadder) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+  > The design language that makes your AI harness better at design.
 
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor)
@@ -383,5 +429,5 @@
 
 
 ---
-*最后更新于 2026-07-11 11:51:21 UTC*
+*最后更新于 2026-07-11 13:18:42 UTC*
 *历史记录保存在 `archive` 目录中。*
