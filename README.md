@@ -4,9 +4,21 @@
 
 ## 今日动态
 
+### [0x1306a94](https://github.com/0x1306a94)
+- 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [pocket-stack/pocket-figma](https://github.com/pocket-stack/pocket-figma)
+  > A Figma file viewer for the Sony PSP — a real Community file baked into streamed CLUT8 tile pyramids...
+
+### [2977094657](https://github.com/2977094657)
+- 🌟 👤 [2977094657](https://github.com/2977094657) Starred [254558/claude-range-slider](https://github.com/254558/claude-range-slider)
+  > 复刻Claude 璨星动画
+
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
   > Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+
+### [Anatdx](https://github.com/Anatdx)
+- 🍴 👤 [Anatdx](https://github.com/Anatdx) Forked [Tools-cx-app/gki_build_action](https://github.com/Tools-cx-app/gki_build_action) to [Anatdx/gki_build_action](https://github.com/Anatdx/gki_build_action)
+  > An automatic kernel builder for 5.10 gki
 
 ### [DerekSelander](https://github.com/DerekSelander)
 - 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [insidegui/TwoMillionKit](https://github.com/insidegui/TwoMillionKit)
@@ -38,6 +50,10 @@
 - 🍴 👤 [Keno](https://github.com/Keno) Forked [JuliaCI/BaseBenchmarks.jl](https://github.com/JuliaCI/BaseBenchmarks.jl) to [KenoAIStaging/BaseBenchmarks.jl](https://github.com/KenoAIStaging/BaseBenchmarks.jl)
   >  A collection of Julia benchmarks available for CI tracking from the JuliaLang/julia repository
 
+### [LanBaiCode](https://github.com/LanBaiCode)
+- 🌟 👤 [LanBaiCode](https://github.com/LanBaiCode) Starred [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject)
+- 🍴 👤 [LanBaiCode](https://github.com/LanBaiCode) Forked [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject) to [LanBaiCode/sukinject](https://github.com/LanBaiCode/sukinject)
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
@@ -45,10 +61,16 @@
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [theteatoast/local-vuln-research-pipeline](https://github.com/theteatoast/local-vuln-research-pipeline)
   > Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exh...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
+  > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
 
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
+  > Framework for evaluating and improving agents 
 
 ### [Pysamlam](https://github.com/Pysamlam)
 - 🌟 👤 [Pysamlam](https://github.com/Pysamlam) Starred [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
@@ -110,6 +132,10 @@
 - 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [pocket-stack/pocket-figma](https://github.com/pocket-stack/pocket-figma)
   > A Figma file viewer for the Sony PSP — a real Community file baked into streamed CLUT8 tile pyramids...
 
+### [dzxpert](https://github.com/dzxpert)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [Vu2n/miniSVM](https://github.com/Vu2n/miniSVM)
+  > A from-scratch AMD-V (SVM) Type-1 hypervisor that boots as a UEFI app and runs real Windows as its g...
+
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [muxy-app/muxy](https://github.com/muxy-app/muxy)
   > Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
@@ -117,6 +143,14 @@
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [tidwall/neco](https://github.com/tidwall/neco)
   > Concurrency library for C (coroutines)
+
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [huggingface/tau](https://github.com/huggingface/tau)
+  > a minimalist agent that teaches you to create coding agents
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
+  > A flight-compliant WebAssembly interpreter.
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [gostonx/uninstally](https://github.com/gostonx/uninstally)
+  > A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using sm...
 
 ### [feicong](https://github.com/feicong)
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [gal2xy/FridaDetector](https://github.com/gal2xy/FridaDetector) to [feicong/FridaDetector-1](https://github.com/feicong/FridaDetector-1)
@@ -131,6 +165,16 @@
   > A flight-compliant WebAssembly interpreter.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [lowRISC/style-guides](https://github.com/lowRISC/style-guides) to [gmh5225/style-guides](https://github.com/gmh5225/style-guides)
   > lowRISC Style Guides
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [co-l/openfox](https://github.com/co-l/openfox) to [gmh5225/openfox](https://github.com/gmh5225/openfox)
+  > Local-LLM-first agentic coding assistant, with everything you need out of the box.
+
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [AaronL725/grok-register](https://github.com/AaronL725/grok-register)
+  > 【已存活三个月+，无封号】批量注册稳定 Grok 账号，可直接导入 grok2api 使用，并且可以与cloudflare无限域名邮箱联动。通过1000+账号连续注册测试。
+
+### [hoochanlon](https://github.com/hoochanlon)
+- 🌟 👤 [hoochanlon](https://github.com/hoochanlon) Starred [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)
+  > [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语...
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [LottoLottoLotto/localmaxxing-cli](https://github.com/LottoLottoLotto/localmaxxing-cli)
@@ -139,6 +183,10 @@
 ### [jialeicui](https://github.com/jialeicui)
 - 🍴 👤 [jialeicui](https://github.com/jialeicui) Forked [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) to [jialeicui/kimi-cli](https://github.com/jialeicui/kimi-cli)
   > Kimi Code CLI is your next CLI agent.
+
+### [juliocesarfort](https://github.com/juliocesarfort)
+- 🌟 👤 [juliocesarfort](https://github.com/juliocesarfort) Starred [theteatoast/local-vuln-research-pipeline](https://github.com/theteatoast/local-vuln-research-pipeline)
+  > Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exh...
 
 ### [kaganisildak](https://github.com/kaganisildak)
 - 🌟 👤 [kaganisildak](https://github.com/kaganisildak) Starred [uxmal/reko](https://github.com/uxmal/reko)
@@ -155,6 +203,8 @@
 ### [libra146](https://github.com/libra146)
 - 🌟 👤 [libra146](https://github.com/libra146) Starred [gostonx/uninstally](https://github.com/gostonx/uninstally)
   > A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using sm...
+- 🌟 👤 [libra146](https://github.com/libra146) Starred [coder/code-server](https://github.com/coder/code-server)
+  > VS Code in the browser
 
 ### [lihenggui](https://github.com/lihenggui)
 - 🌟 👤 [lihenggui](https://github.com/lihenggui) Starred [openai/codex](https://github.com/openai/codex)
@@ -172,11 +222,23 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [co-l/openfox](https://github.com/co-l/openfox)
   > Local-LLM-first agentic coding assistant, with everything you need out of the box.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [whatchamacallem/libhatchet](https://github.com/whatchamacallem/libhatchet)
+  > libhatchet is a fast-compiling, lightweight, bespoke C17/C++23 alternative to the C++ standard libra...
 
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)
   > "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
+
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link)
+  > Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [TextureGroup/Texture](https://github.com/TextureGroup/Texture)
+  > Smooth asynchronous user interfaces for iOS apps.
+
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo)
+  > CrystalDiskInfo
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Orange-Cyberdefense/p3-loader](https://github.com/Orange-Cyberdefense/p3-loader)
@@ -195,6 +257,9 @@
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [fuqiuluo/amice](https://github.com/fuqiuluo/amice)
   > 🍂A Rust implementation of Obfuscator-LLVM (OLLVM) passes
+
+### [tomLadder](https://github.com/tomLadder)
+- 🌟 👤 [tomLadder](https://github.com/tomLadder) Starred [adamlyttleapps/claude-skill-aso-appstore-screenshots](https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots)
 
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor)
@@ -238,5 +303,5 @@
 
 
 ---
-*最后更新于 2026-07-11 08:46:27 UTC*
+*最后更新于 2026-07-11 10:14:18 UTC*
 *历史记录保存在 `archive` 目录中。*
