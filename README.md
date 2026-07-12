@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [AndnixSH](https://github.com/AndnixSH)
+- 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [LSPosed/LSPlant](https://github.com/LSPosed/LSPlant)
+  > A hook framework for Android Runtime (ART)
+- 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [LSPosed/DexBuilder](https://github.com/LSPosed/DexBuilder)
+  > Generate dex file by c++
+
 ### [Ascotbe](https://github.com/Ascotbe)
 - 🌟 👤 [Ascotbe](https://github.com/Ascotbe) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
   > Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible...
@@ -109,6 +115,10 @@
 - 🌟 👤 [WindowsAddict](https://github.com/WindowsAddict) Starred [mmozeiko/aes-finder](https://github.com/mmozeiko/aes-finder)
   > Utility to find AES keys in running processes
 
+### [XiaoTong6666](https://github.com/XiaoTong6666)
+- 🍴 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Forked [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) to [XiaoTong6666/CyberMeowfia](https://github.com/XiaoTong6666/CyberMeowfia)
+  > PoCs and exploits for CVEs discovered by VEGA. 
+
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
@@ -116,6 +126,10 @@
 ### [apkunpacker](https://github.com/apkunpacker)
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [Nmzik/KytyPS5](https://github.com/Nmzik/KytyPS5)
   > PlayStation 5 emulator for Windows
+
+### [b3x206](https://github.com/b3x206)
+- 🌟 👤 [b3x206](https://github.com/b3x206) Starred [p2r3/convert](https://github.com/p2r3/convert)
+  > Truly universal online file converter
 
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
@@ -143,6 +157,26 @@
 - 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [pocket-stack/quickjs-oxide](https://github.com/pocket-stack/quickjs-oxide)
   > A memory-safe Rust rewrite aiming for QuickJS feature parity
 
+### [dzxpert](https://github.com/dzxpert)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [tsunam9/MemHvHooked](https://github.com/tsunam9/MemHvHooked)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
+  > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+
+### [einverne](https://github.com/einverne)
+- 🌟 👤 [einverne](https://github.com/einverne) Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
+  > Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact ...
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [laolanya123/rmcn-physx](https://github.com/laolanya123/rmcn-physx)
+  > 失控进化 PhysX：Unity 2022.3 / PhysX 4.1.2 场景遍历、可见性检测与准心碰撞模型绘制
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) to [fengjixuchui/gdid-reversal](https://github.com/fengjixuchui/gdid-reversal)
+
+### [ghluzhiyuan](https://github.com/ghluzhiyuan)
+- 🌟 👤 [ghluzhiyuan](https://github.com/ghluzhiyuan) Starred [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook)
+  > AI-powered multi-voice audiobook generator — LLM script annotation, voice cloning, voice design, LoR...
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)
   > Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering,...
@@ -150,6 +184,11 @@
   > Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering,...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [JustVugg/colibri](https://github.com/JustVugg/colibri) to [gmh5225/colibri](https://github.com/gmh5225/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [theMackabu/ant](https://github.com/theMackabu/ant) to [gmh5225/ant-](https://github.com/gmh5225/ant-)
+  > javascript for 🐜's, a tiny runtime with big ambitions
+
+### [haikow](https://github.com/haikow)
+- 🚀 👤 [haikow](https://github.com/haikow) Made [haikow/feishu-linux-patch](https://github.com/haikow/feishu-linux-patch) public
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [maxucheng0/grok-auto-register](https://github.com/maxucheng0/grok-auto-register)
@@ -168,6 +207,8 @@
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [google/automotive-design-compose](https://github.com/google/automotive-design-compose)
   > Automotive Design for Compose is an extension to Jetpack Compose that allows every screen, component...
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [open-batt/openbms-hardware](https://github.com/open-batt/openbms-hardware)
+  > OpenBMS - Open Source Battery Management System Hardware
 
 ### [jmpews](https://github.com/jmpews)
 - 🌟 👤 [jmpews](https://github.com/jmpews) Starred [Florisheedless915/grok-register](https://github.com/Florisheedless915/grok-register)
@@ -205,6 +246,10 @@
 - 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
   > Skills for Design Engineers.
 
+### [mos9527](https://github.com/mos9527)
+- 🌟 👤 [mos9527](https://github.com/mos9527) Starred [MMD-Blender/blender_mmd_tools_append](https://github.com/MMD-Blender/blender_mmd_tools_append)
+  > MMD Tools Append is a blender addon for adjusting scenes, models and materials in concert with MMD T...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
@@ -216,6 +261,12 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [shurikgo/cve-2026-25262-sm8450-research](https://github.com/shurikgo/cve-2026-25262-sm8450-research)
   > CVE-2026-25262 applicability to Snapdragon 8 Gen 1 — experimental results
+
+### [quangnh89](https://github.com/quangnh89)
+- 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [cebeuq/Synthid-Bypass](https://github.com/cebeuq/Synthid-Bypass)
+  > Ai safety research showing a working bypass to Google's synthid on Nano Banana Pro
+- 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID)
+  > reverse engineering Gemini's SynthID detection
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [CodSpeedHQ/codspeed](https://github.com/CodSpeedHQ/codspeed)
@@ -241,6 +292,14 @@
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [prostec-labs/TetherKit](https://github.com/prostec-labs/TetherKit)
   > Share your Android phone's mobile internet with your Mac over USB — DriverKit port of HoRNDIS
 
+### [wbaby](https://github.com/wbaby)
+- 🍴 👤 [wbaby](https://github.com/wbaby) Forked [huilang-me/CF-Server-Monitor](https://github.com/huilang-me/CF-Server-Monitor) to [wbaby/CF-Server-Monitor](https://github.com/wbaby/CF-Server-Monitor)
+  > 一个基于 Cloudflare Workers + D1 + Durable Objects 的多服务器监控探针系统，支持实时监控、历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Al...
+
+### [wszqkzqk](https://github.com/wszqkzqk)
+- 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) to [wszqkzqk/kimi-code](https://github.com/wszqkzqk/kimi-code)
+  > Kimi Code CLI  —  The Starting Point for Next-Gen Agents
+
 ### [xroche](https://github.com/xroche)
 - 🍴 👤 [xroche](https://github.com/xroche) Forked [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) to [xroche/homebrew-core](https://github.com/xroche/homebrew-core)
   > 🍻 Default formulae for the missing package manager for macOS (or Linux)
@@ -256,6 +315,8 @@
 ### [youncyb](https://github.com/youncyb)
 - 🌟 👤 [youncyb](https://github.com/youncyb) Starred [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice)
   > Multilingual speech understanding: ASR + emotion recognition + audio event detection. 50+ languages,...
+- 🌟 👤 [youncyb](https://github.com/youncyb) Starred [FunAudioLLM/Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)
+  > Fun-ASR-Nano LLM-ASR model: 31 languages, dialects, accents, lyrics, hotwords, timestamps, and speak...
 
 ### [yynxxxxx](https://github.com/yynxxxxx)
 - 🌟 👤 [yynxxxxx](https://github.com/yynxxxxx) Starred [ShirkNeko/GKI_KernelSU_SUSFS](https://github.com/ShirkNeko/GKI_KernelSU_SUSFS)
@@ -269,5 +330,5 @@
 
 
 ---
-*最后更新于 2026-07-12 08:28:55 UTC*
+*最后更新于 2026-07-12 10:27:45 UTC*
 *历史记录保存在 `archive` 目录中。*
