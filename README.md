@@ -18,6 +18,10 @@
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
   > C++ Insights - See your source code with the eyes of a compiler
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Wren6991/RISCBoy](https://github.com/Wren6991/RISCBoy)
+  > Portable games console, designed from scratch: CPU, graphics, PCB, and the kitchen sink
+
 ### [FormatFa](https://github.com/FormatFa)
 - 🌟 👤 [FormatFa](https://github.com/FormatFa) Starred [vuejs-ai/skills](https://github.com/vuejs-ai/skills)
   > Agent skills for Vue 3 development
@@ -119,6 +123,10 @@
 - 🍴 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Forked [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) to [XiaoTong6666/CyberMeowfia](https://github.com/XiaoTong6666/CyberMeowfia)
   > PoCs and exploits for CVEs discovered by VEGA. 
 
+### [ZacharyZcR](https://github.com/ZacharyZcR)
+- 🌟 👤 [ZacharyZcR](https://github.com/ZacharyZcR) Starred [kacper-daftcode/vLLM-Moet](https://github.com/kacper-daftcode/vLLM-Moet)
+  > A vLLM patch + hand‑written SM120 SASS kernels: 2‑bit MoE experts + an FP4 "delta" cache that recove...
+
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
@@ -186,6 +194,8 @@
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [theMackabu/ant](https://github.com/theMackabu/ant) to [gmh5225/ant-](https://github.com/gmh5225/ant-)
   > javascript for 🐜's, a tiny runtime with big ambitions
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework](https://github.com/ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework) to [gmh5225/AI-Driven-Zero-Click-Exploit-Deployment-Framework](https://github.com/gmh5225/AI-Driven-Zero-Click-Exploit-Deployment-Framework)
+  > A state-sponsored APT framework for cyber/counter-espionage featuring AI-driven zero-click supply ch...
 
 ### [haikow](https://github.com/haikow)
 - 🚀 👤 [haikow](https://github.com/haikow) Made [haikow/feishu-linux-patch](https://github.com/haikow/feishu-linux-patch) public
@@ -253,6 +263,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [danveloper/flash-pi-dsv4](https://github.com/danveloper/flash-pi-dsv4)
+  > DeepSeek-V4-Flash on a Raspberry Pi 5 (8GB)
 
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [mikugirls/hangover](https://github.com/mikugirls/hangover)
@@ -288,6 +300,10 @@
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
   > Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
+### [urbanadventurer](https://github.com/urbanadventurer)
+- 🌟 👤 [urbanadventurer](https://github.com/urbanadventurer) Starred [gowtham0992/link](https://github.com/gowtham0992/link)
+  > Local personal memory for LLM agents
+
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [prostec-labs/TetherKit](https://github.com/prostec-labs/TetherKit)
   > Share your Android phone's mobile internet with your Mac over USB — DriverKit port of HoRNDIS
@@ -299,6 +315,14 @@
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) to [wszqkzqk/kimi-code](https://github.com/wszqkzqk/kimi-code)
   > Kimi Code CLI  —  The Starting Point for Next-Gen Agents
+
+### [wszxl516](https://github.com/wszxl516)
+- 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd)
+  > When you need a web server in a hurry.
+
+### [wwh1004](https://github.com/wwh1004)
+- 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [Threekiii/Awesome-POC](https://github.com/Threekiii/Awesome-POC)
+  > 一个漏洞 PoC 知识库。A knowledge base for vulnerability PoCs(Proof of Concept),  with 1k+ vulnerabilities.
 
 ### [xroche](https://github.com/xroche)
 - 🍴 👤 [xroche](https://github.com/xroche) Forked [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) to [xroche/homebrew-core](https://github.com/xroche/homebrew-core)
@@ -330,5 +354,5 @@
 
 
 ---
-*最后更新于 2026-07-12 10:27:45 UTC*
+*最后更新于 2026-07-12 11:59:36 UTC*
 *历史记录保存在 `archive` 目录中。*
