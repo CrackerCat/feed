@@ -40,8 +40,28 @@
 - 🌟 👤 [LoseNine](https://github.com/LoseNine) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
   > Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible...
 
+### [PoomSmart](https://github.com/PoomSmart)
+- 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [synackuk/De-Rebus-Antiquis-v6](https://github.com/synackuk/De-Rebus-Antiquis-v6)
+  > Tools and a writeup for porting De Rebus Antiquis to iOS 6.
+
 ### [R0rt1z2](https://github.com/R0rt1z2)
 - 🍴 👤 [R0rt1z2](https://github.com/R0rt1z2) Forked [TheMuppets/manifests](https://github.com/TheMuppets/manifests) to [moto-mediatek-devs/manifests](https://github.com/moto-mediatek-devs/manifests)
+
+### [ShirkNeko](https://github.com/ShirkNeko)
+- 🌟 👤 [ShirkNeko](https://github.com/ShirkNeko) Starred [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)
+  > A simple, decentralized mesh VPN with WireGuard support.
+- 🍴 👤 [ShirkNeko](https://github.com/ShirkNeko) Forked [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) to [ShirkNeko/EasyTier](https://github.com/ShirkNeko/EasyTier)
+  > A simple, decentralized mesh VPN with WireGuard support.
+
+### [Skulltrail192](https://github.com/Skulltrail192)
+- 🌟 👤 [Skulltrail192](https://github.com/Skulltrail192) Starred [e3kskoy7wqk/vscode-for-windows-7](https://github.com/e3kskoy7wqk/vscode-for-windows-7)
+  > vscode, which runs on windows 7 and uses the latest version of electron.
+
+### [Sndav](https://github.com/Sndav)
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
+  > C++ Insights - See your source code with the eyes of a compiler
+- 🌟 👤 [Sndav](https://github.com/Sndav) Starred [bitdefender/bddisasm](https://github.com/bitdefender/bddisasm)
+  > bddisasm is a fast, lightweight, x86/x64 instruction decoder.  The project also features a fast, bas...
 
 ### [WindowsAddict](https://github.com/WindowsAddict)
 - 🌟 👤 [WindowsAddict](https://github.com/WindowsAddict) Starred [mmozeiko/aes-finder](https://github.com/mmozeiko/aes-finder)
@@ -51,9 +71,46 @@
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
+### [apkunpacker](https://github.com/apkunpacker)
+- 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [Nmzik/KytyPS5](https://github.com/Nmzik/KytyPS5)
+  > PlayStation 5 emulator for Windows
+
+### [cristeigabriela](https://github.com/cristeigabriela)
+- 🌟 👤 [cristeigabriela](https://github.com/cristeigabriela) Starred [can1357/clawdi](https://github.com/can1357/clawdi)
+  > A native macOS desktop pet and agent companion that tracks Claude Code, Cursor, and other AI agents ...
+
+### [developer-krushna](https://github.com/developer-krushna)
+- 🌟 👤 [developer-krushna](https://github.com/developer-krushna) Starred [developer-krushna/Dex-Editor-Android](https://github.com/developer-krushna/Dex-Editor-Android)
+  > A work in progress Android dalvik byte code(DEX) editor 
+
 ### [doodlewind](https://github.com/doodlewind)
 - 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)
   > Run Windows apps on 🐧 Linux with ✨ seamless integration
+- 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [pocket-stack/quickjs-oxide](https://github.com/pocket-stack/quickjs-oxide)
+  > A memory-safe Rust rewrite aiming for QuickJS feature parity
+
+### [gmh5225](https://github.com/gmh5225)
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)
+  > Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering,...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) to [gmh5225/ctf-skills](https://github.com/gmh5225/ctf-skills)
+  > Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering,...
+
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [maxucheng0/grok-auto-register](https://github.com/maxucheng0/grok-auto-register)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab)
+  > Open-source reverse engineering lab: 197-article knowledge base + MCP tools + CTF/APK/PE automation ...
+
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [google/automotive-design-compose](https://github.com/google/automotive-design-compose)
+  > Automotive Design for Compose is an extension to Jetpack Compose that allows every screen, component...
+
+### [jmpews](https://github.com/jmpews)
+- 🌟 👤 [jmpews](https://github.com/jmpews) Starred [Florisheedless915/grok-register](https://github.com/Florisheedless915/grok-register)
+  > Automate x.ai registration with a web console, batch runner, WARP egress, and grok2api token sink in...
+
+### [jpillora](https://github.com/jpillora)
+- 🌟 👤 [jpillora](https://github.com/jpillora) Starred [google/gvisor](https://github.com/google/gvisor)
+  > Application Kernel for Containers
 
 ### [lanyi233](https://github.com/lanyi233)
 - 🌟 👤 [lanyi233](https://github.com/lanyi233) Starred [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot)
@@ -81,6 +138,14 @@
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [CodSpeedHQ/codspeed](https://github.com/CodSpeedHQ/codspeed)
   > CodSpeed is the all-in-one performance testing toolkit. Optimize code performance and catch regressi...
 
+### [smallfawn](https://github.com/smallfawn)
+- 🍴 👤 [smallfawn](https://github.com/smallfawn) Forked [cdle/sillyGirl](https://github.com/cdle/sillyGirl) to [smallfawn/sillyGirl](https://github.com/smallfawn/sillyGirl)
+  > 傻妞机器人
+
+### [w00tzenheimer](https://github.com/w00tzenheimer)
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [prostec-labs/TetherKit](https://github.com/prostec-labs/TetherKit)
+  > Share your Android phone's mobile internet with your Mac over USB — DriverKit port of HoRNDIS
+
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
   > AI Agent-first JS 逆向 MCP Server：有头 Chrome 调试、断点、网络/WebSocket 分析、Patchright 反检测，可选 CloakBrowser。
@@ -95,7 +160,11 @@
 - 🍴 👤 [yynxxxxx](https://github.com/yynxxxxx) Forked [ShirkNeko/GKI_KernelSU_SUSFS](https://github.com/ShirkNeko/GKI_KernelSU_SUSFS) to [yynxxxxx/GKI_KernelSU_SUSFS](https://github.com/yynxxxxx/GKI_KernelSU_SUSFS)
   > 使用 SukiSU 和 SUSFS 的 GKI 内核
 
+### [zhanghecn](https://github.com/zhanghecn)
+- 🍴 👤 [zhanghecn](https://github.com/zhanghecn) Forked [lingbol088-spec/Codex-5.5-codex-instruct-5.5](https://github.com/lingbol088-spec/Codex-5.5-codex-instruct-5.5) to [zhanghecn/Codex-5.5-codex-instruct-5.5](https://github.com/zhanghecn/Codex-5.5-codex-instruct-5.5)
+  > Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。
+
 
 ---
-*最后更新于 2026-07-12 02:46:26 UTC*
+*最后更新于 2026-07-12 06:00:11 UTC*
 *历史记录保存在 `archive` 目录中。*
