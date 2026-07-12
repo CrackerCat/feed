@@ -163,6 +163,10 @@
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [bitdefender/bddisasm](https://github.com/bitdefender/bddisasm)
   > bddisasm is a fast, lightweight, x86/x64 instruction decoder.  The project also features a fast, bas...
 
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [barnhill/barcodelib](https://github.com/barnhill/barcodelib)
+  > C# Barcode Image Generation Library
+
 ### [TomKing062](https://github.com/TomKing062)
 - 🍴 👤 [TomKing062](https://github.com/TomKing062) Forked [cctv18/oppo_oplus_realme_sm8650](https://github.com/cctv18/oppo_oplus_realme_sm8650) to [TomKing062/oppo_oplus_realme_sm8650](https://github.com/TomKing062/oppo_oplus_realme_sm8650)
   > An automatic kernel builder for Oppo/Oneplus/Realme Snapdragon sm8650 series in a completely new way...
@@ -178,6 +182,8 @@
 ### [ZacharyZcR](https://github.com/ZacharyZcR)
 - 🌟 👤 [ZacharyZcR](https://github.com/ZacharyZcR) Starred [kacper-daftcode/vLLM-Moet](https://github.com/kacper-daftcode/vLLM-Moet)
   > A vLLM patch + hand‑written SM120 SASS kernels: 2‑bit MoE experts + an FP4 "delta" cache that recove...
+- 🌟 👤 [ZacharyZcR](https://github.com/ZacharyZcR) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
+  > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
 
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
@@ -254,6 +260,10 @@
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
 
+### [easychen](https://github.com/easychen)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [muscriptor/muscriptor](https://github.com/muscriptor/muscriptor)
+  > MuScriptor is a multi-instrument music transcription model developed by Kyutai and Mirelo.
+
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
   > Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact ...
@@ -272,6 +282,12 @@
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) to [fengjixuchui/gdid-reversal](https://github.com/fengjixuchui/gdid-reversal)
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Nmzik/KytyPS5](https://github.com/Nmzik/KytyPS5)
+  > PlayStation 5 emulator for Windows
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
+  > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
 
 ### [ghluzhiyuan](https://github.com/ghluzhiyuan)
 - 🌟 👤 [ghluzhiyuan](https://github.com/ghluzhiyuan) Starred [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook)
@@ -292,6 +308,14 @@
   > PlayStation 5 emulator for Windows
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [danveloper/flash-pi-dsv4](https://github.com/danveloper/flash-pi-dsv4) to [gmh5225/flash-pi-dsv4](https://github.com/gmh5225/flash-pi-dsv4)
   > DeepSeek-V4-Flash on a Raspberry Pi 5 (8GB)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [opencompl/paper-template](https://github.com/opencompl/paper-template) to [gmh5225/paper-template](https://github.com/gmh5225/paper-template)
+  > A template for writing CS papers with latex -- includes CI, todonotes, ...
+
+### [guiying712](https://github.com/guiying712)
+- 🌟 👤 [guiying712](https://github.com/guiying712) Starred [Jingyi-Wu-Richael/douyin-rule-check](https://github.com/Jingyi-Wu-Richael/douyin-rule-check)
+  > 基于 2025 年 12 月更新的巨量星图官方规范，全方位检查视频的画面内容、文字文案以及口播语音，重点识别引导外流（如私下交易、第三方平台导流）和诱导下载等违规行为，适用于短视频发布前的合规性自检，...
+- 🌟 👤 [guiying712](https://github.com/guiying712) Starred [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)
+  > 美股指南
 
 ### [haikow](https://github.com/haikow)
 - 🚀 👤 [haikow](https://github.com/haikow) Made [haikow/feishu-linux-patch](https://github.com/haikow/feishu-linux-patch) public
@@ -315,6 +339,12 @@
   > Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/...
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)
   > A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent ...
+- 🌟 👤 [iAklis](https://github.com/iAklis) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
+  > Skills for Design Engineers.
+
+### [igorbrigadir](https://github.com/igorbrigadir)
+- 🌟 👤 [igorbrigadir](https://github.com/igorbrigadir) Starred [enjalot/latent-scope](https://github.com/enjalot/latent-scope)
+  > A scientific instrument for investigating latent spaces
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [google/automotive-design-compose](https://github.com/google/automotive-design-compose)
@@ -397,6 +427,12 @@
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [mikugirls/hangover](https://github.com/mikugirls/hangover)
   >  Hangover runs Win64 and Win32 applications on arm64 Linux
+- 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [Project-Silicium/Mu-Silicium](https://github.com/Project-Silicium/Mu-Silicium)
+  > Project Mu Port for ARM64-Based Devices
+
+### [nuta](https://github.com/nuta)
+- 🌟 👤 [nuta](https://github.com/nuta) Starred [Barre/ZeroFS](https://github.com/Barre/ZeroFS)
+  > ZeroFS: A log-structured filesystem for S3.  ZeroFS serves S3-compatible buckets as POSIX filesystem...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [kernullist/KnWin32ApiMonitor](https://github.com/kernullist/KnWin32ApiMonitor)
@@ -437,12 +473,20 @@
 - 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [kvsnr113/xiaomi_sm8250_kernel_e404](https://github.com/kvsnr113/xiaomi_sm8250_kernel_e404) to [rmuxnet/xiaomi_sm8250_kernel_e404](https://github.com/rmuxnet/xiaomi_sm8250_kernel_e404)
   > FORCE PUSH WARNING ! --- E404 Kernel for MiKona
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
+  > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
+
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [otnc/fake-repo-ogp-image](https://github.com/otnc/fake-repo-ogp-image)
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [miegl/PiFmAdv](https://github.com/miegl/PiFmAdv)
   > Advanced Raspberry Pi FM transmitter with RDS encoding
+
+### [sjshb57](https://github.com/sjshb57)
+- 🚀 👤 [sjshb57](https://github.com/sjshb57) Made [TwitterArchiver/Vo1dLight](https://github.com/TwitterArchiver/Vo1dLight) public
+  > 空光 的本地推文存档
 
 ### [smallfawn](https://github.com/smallfawn)
 - 🍴 👤 [smallfawn](https://github.com/smallfawn) Forked [cdle/sillyGirl](https://github.com/cdle/sillyGirl) to [smallfawn/sillyGirl](https://github.com/smallfawn/sillyGirl)
@@ -477,6 +521,10 @@
 - 🍴 👤 [wbaby](https://github.com/wbaby) Forked [huilang-me/CF-Server-Monitor](https://github.com/huilang-me/CF-Server-Monitor) to [wbaby/CF-Server-Monitor](https://github.com/wbaby/CF-Server-Monitor)
   > 一个基于 Cloudflare Workers + D1 + Durable Objects 的多服务器监控探针系统，支持实时监控、历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Al...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [hyuunnn/ida-slides](https://github.com/hyuunnn/ida-slides)
+  > Present live reverse-engineering with Marp/Slidev decks docked inside IDA Pro
+
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) to [wszqkzqk/kimi-code](https://github.com/wszqkzqk/kimi-code)
   > Kimi Code CLI  —  The Starting Point for Next-Gen Agents
@@ -505,6 +553,9 @@
 - 🌟 👤 [yhirose](https://github.com/yhirose) Starred [jvanderberg/markless](https://github.com/jvanderberg/markless)
   > A terminal markdown viewer with image support
 
+### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
+- 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)
+
 ### [youncyb](https://github.com/youncyb)
 - 🌟 👤 [youncyb](https://github.com/youncyb) Starred [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice)
   > Multilingual speech understanding: ASR + emotion recognition + audio event detection. 50+ languages,...
@@ -517,11 +568,15 @@
 - 🍴 👤 [yynxxxxx](https://github.com/yynxxxxx) Forked [ShirkNeko/GKI_KernelSU_SUSFS](https://github.com/ShirkNeko/GKI_KernelSU_SUSFS) to [yynxxxxx/GKI_KernelSU_SUSFS](https://github.com/yynxxxxx/GKI_KernelSU_SUSFS)
   > 使用 SukiSU 和 SUSFS 的 GKI 内核
 
+### [zetaloop](https://github.com/zetaloop)
+- 🌟 👤 [zetaloop](https://github.com/zetaloop) Starred [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
+  > Modern embedded framework, using Rust and async.
+
 ### [zhanghecn](https://github.com/zhanghecn)
 - 🍴 👤 [zhanghecn](https://github.com/zhanghecn) Forked [lingbol088-spec/Codex-5.5-codex-instruct-5.5](https://github.com/lingbol088-spec/Codex-5.5-codex-instruct-5.5) to [zhanghecn/Codex-5.5-codex-instruct-5.5](https://github.com/zhanghecn/Codex-5.5-codex-instruct-5.5)
   > Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。
 
 
 ---
-*最后更新于 2026-07-12 16:00:45 UTC*
+*最后更新于 2026-07-12 17:57:41 UTC*
 *历史记录保存在 `archive` 目录中。*
