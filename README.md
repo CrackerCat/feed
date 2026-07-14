@@ -20,6 +20,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [shark4ce/Ghidra-SandBlaster-Plugin](https://github.com/shark4ce/Ghidra-SandBlaster-Plugin)
   >  The SandBlaster Plugin is a sophisticated extension for Ghidra that seamlessly integrates the funct...
 
+### [0xdad0](https://github.com/0xdad0)
+- 🌟 👤 [0xdad0](https://github.com/0xdad0) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+  > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
+
 ### [34306](https://github.com/34306)
 - 🌟 👤 [34306](https://github.com/34306) Starred [okalachev/flix](https://github.com/okalachev/flix)
   > Making an ESP32-based quadcopter from scratch
@@ -57,6 +61,9 @@
   > Silent Hill: Downpour — native Windows PC port via static recompilation of the Xbox 360 binary. v1.0...
 - 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [dreamingmoths/memory-of-alessa](https://github.com/dreamingmoths/memory-of-alessa)
   > In-progress matching decompilation of Silent Hill 3
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [weak1337/DetectTpmSpoofing](https://github.com/weak1337/DetectTpmSpoofing)
 
 ### [Cxk4ng](https://github.com/Cxk4ng)
 - 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar)
@@ -127,6 +134,8 @@
   > Geometry library for topological robustness
 - 🍴 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Forked [CommonWealthRobotics/manifold3d-java](https://github.com/CommonWealthRobotics/manifold3d-java) to [Grigory-Rylov/manifold3d-java](https://github.com/Grigory-Rylov/manifold3d-java)
   > Geometry library for topological robustness
+- 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [autonomous-ai/autonomous-computer](https://github.com/autonomous-ai/autonomous-computer)
+  > The future of AI is local. Time to build your own Personal AI Computer.
 
 ### [HdShare](https://github.com/HdShare)
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
@@ -149,6 +158,16 @@
 - 🍴 👤 [Laurie-Lin](https://github.com/Laurie-Lin) Forked [aristocratos/btop](https://github.com/aristocratos/btop) to [Laurie-Lin/btop](https://github.com/Laurie-Lin/btop)
   > A monitor of resources
 
+### [LimerBoy](https://github.com/LimerBoy)
+- 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [fr0gger/Awesome_Malware_Techniques](https://github.com/fr0gger/Awesome_Malware_Techniques)
+  > This is a repository of resource about Malware techniques
+
+### [Linuxoid-cn](https://github.com/Linuxoid-cn)
+- 🌟 👤 [Linuxoid-cn](https://github.com/Linuxoid-cn) Starred [rhythmcache/payload-dumper-gui](https://github.com/rhythmcache/payload-dumper-gui)
+  > App for Windows and Android to extract Android OTA payloads from local files or HTTP URLs
+- 🌟 👤 [Linuxoid-cn](https://github.com/Linuxoid-cn) Starred [Linuxoid-cn/CVE-2026-43499-Poc-Analysis](https://github.com/Linuxoid-cn/CVE-2026-43499-Poc-Analysis)
+  > Vulnerability analysis and Proof of Concept (PoC) for CVE-2026-43499 affecting Xiaomi devices. For e...
+
 ### [LumitoLuma](https://github.com/LumitoLuma)
 - 🍴 👤 [LumitoLuma](https://github.com/LumitoLuma) Forked [ONLYOFFICE/server](https://github.com/ONLYOFFICE/server) to [LumitoLuma/server](https://github.com/LumitoLuma/server)
   > The backend server software layer which is the part of ONLYOFFICE Document Server and is the base fo...
@@ -156,6 +175,8 @@
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
   > 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent become...
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [cinar/indicator](https://github.com/cinar/indicator)
+  > Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a po...
 
 ### [MartinKayJr](https://github.com/MartinKayJr)
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [niasand/gg-keeper](https://github.com/niasand/gg-keeper)
@@ -197,6 +218,10 @@
 - 🌟 👤 [PenguinAndy](https://github.com/PenguinAndy) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
 
+### [RenardDev](https://github.com/RenardDev)
+- 🍴 👤 [RenardDev](https://github.com/RenardDev) Forked [google/bindiff](https://github.com/google/bindiff) to [RenardDev/bindiff](https://github.com/RenardDev/bindiff)
+  > Quickly find differences and similarities in disassembled code
+
 ### [RohitVerma882](https://github.com/RohitVerma882)
 - 🌟 👤 [RohitVerma882](https://github.com/RohitVerma882) Starred [Miuzarte/ScrcpyForAndroid](https://github.com/Miuzarte/ScrcpyForAndroid)
   > scrcpy android client (unofficial)
@@ -224,6 +249,10 @@
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [Anatdx/YukiZygisk](https://github.com/Anatdx/YukiZygisk)
   > A new kernel-level Zygisk implementation designed to explore better, cleaner, and more flexible ways...
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [ScreaMy7/soxtract](https://github.com/ScreaMy7/soxtract)
+  > Dynamically extract native .so libraries from running Android applications using Frida. Extracted fi...
 
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [impost0r/Rie](https://github.com/impost0r/Rie)
@@ -418,7 +447,7 @@
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [otter-sec/rctf](https://github.com/otter-sec/rctf)
-  > A CTF platform for all
+  > rCTF is a platform for hosting cybersecurity capture-the-flag competitions.
 
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use)
@@ -492,7 +521,7 @@
   > A terminal Tornado Cash governance proposal.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [weak1337/DetectTpmSpoofing](https://github.com/weak1337/DetectTpmSpoofing) to [gmh5225/DetectTpmSpoofing](https://github.com/gmh5225/DetectTpmSpoofing)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [otter-sec/rctf](https://github.com/otter-sec/rctf) to [gmh5225/rctf-](https://github.com/gmh5225/rctf-)
-  > A CTF platform for all
+  > rCTF is a platform for hosting cybersecurity capture-the-flag competitions.
 - 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm)
   > muvm - run programs from your system in a microVM
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [hyuunnn/ida-slides](https://github.com/hyuunnn/ida-slides) to [gmh5225/ida-slides](https://github.com/gmh5225/ida-slides)
@@ -633,6 +662,8 @@
 ### [mav8557](https://github.com/mav8557)
 - 🌟 👤 [mav8557](https://github.com/mav8557) Starred [littledivy/mimic](https://github.com/littledivy/mimic)
   > Intercept any app, then call it from Python like a library
+- 🌟 👤 [mav8557](https://github.com/mav8557) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
 ### [miunasu](https://github.com/miunasu)
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
@@ -700,6 +731,14 @@
   > Zero boilerplate generic type erasure, powered by C++26 reflection.
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [juggler-ai/juggler](https://github.com/juggler-ai/juggler)
   > The Juggler Code Agent
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools)
+  > Framework for tracking and building your own Google Find My Device / Find Hub trackers 🧭
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [BSkando/GoogleFindMy-HA](https://github.com/BSkando/GoogleFindMy-HA)
+  > Google FindMy device tracker integration for Home Assistant
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [ArtifexSoftware/mupdf-android-viewer](https://github.com/ArtifexSoftware/mupdf-android-viewer)
+  > Android SDK: viewer
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [ArtifexSoftware/mupdf-android-viewer-mini](https://github.com/ArtifexSoftware/mupdf-android-viewer-mini)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [PDFium/PDFium](https://github.com/PDFium/PDFium)
 
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [DarkFlippers/flipperzero-subbrute](https://github.com/DarkFlippers/flipperzero-subbrute)
@@ -707,6 +746,10 @@
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [weak1337/DetectTpmSpoofing](https://github.com/weak1337/DetectTpmSpoofing)
+
+### [oobbb](https://github.com/oobbb)
+- 🌟 👤 [oobbb](https://github.com/oobbb) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
+  > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
 
 ### [orangbus](https://github.com/orangbus)
 - 🌟 👤 [orangbus](https://github.com/orangbus) Starred [666ghj/BettaFish](https://github.com/666ghj/BettaFish)
@@ -872,6 +915,16 @@
 - 🌟 👤 [uforever](https://github.com/uforever) Starred [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)
   > Fix Play Integrity <A13 verdicts, allowing custom fields and props
 
+### [unixpickle](https://github.com/unixpickle)
+- 🚀 👤 [unixpickle](https://github.com/unixpickle) Made [unixpickle/h264framer](https://github.com/unixpickle/h264framer) public
+  > Generate h.264 frames from image sequences by wrapping ffmpeg
+
+### [w00tzenheimer](https://github.com/w00tzenheimer)
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [shootthesound/comfyUI-Realtime-Lora](https://github.com/shootthesound/comfyUI-Realtime-Lora)
+  > Train and block edit and save  LoRAs directly inside ComfyUI for Z-image, Flux Klein, SDXL, Flux, WA...
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [stuttlepress/ComfyUI-Wan-VACE-Prep](https://github.com/stuttlepress/ComfyUI-Wan-VACE-Prep)
+  > ComfyUI nodes designed to help make common video editing tasks with video generation models less com...
+
 ### [wh1te4ever](https://github.com/wh1te4ever)
 - 🌟 👤 [wh1te4ever](https://github.com/wh1te4ever) Starred [bin456789/reinstall](https://github.com/bin456789/reinstall)
   > 一键DD/重装脚本 (One-click reinstall OS on VPS)
@@ -968,5 +1021,5 @@
 
 
 ---
-*最后更新于 2026-07-14 18:03:02 UTC*
+*最后更新于 2026-07-14 20:11:22 UTC*
 *历史记录保存在 `archive` 目录中。*
