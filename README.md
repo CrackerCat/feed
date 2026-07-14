@@ -58,6 +58,10 @@
 - 🌟 👤 [AeonLucid](https://github.com/AeonLucid) Starred [par274/sharpemu](https://github.com/par274/sharpemu)
   > An experimental PlayStation 5 emulator project.
 
+### [Aniketh01](https://github.com/Aniketh01)
+- 🌟 👤 [Aniketh01](https://github.com/Aniketh01) Starred [Quazi-07/Research-Grant-Finder-Agent](https://github.com/Quazi-07/Research-Grant-Finder-Agent)
+  > An agentic AI tool for searching, screening, and ranking NIH funding opportunities based on research...
+
 ### [AnkioTomas](https://github.com/AnkioTomas)
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [AnkioTomas/cherry-markdown-next-vsc](https://github.com/AnkioTomas/cherry-markdown-next-vsc)
   > 基于cherry-markdown-next的vscode插件
@@ -167,6 +171,8 @@
 ### [Grigory-Rylov](https://github.com/Grigory-Rylov)
 - 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [aikitoria/open-gpu-kernel-modules](https://github.com/aikitoria/open-gpu-kernel-modules)
   > NVIDIA Linux open GPU with P2P support
+- 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [tonyd2wild/Hy3-295B-NVFP4-MTP-2x-DGX-Spark](https://github.com/tonyd2wild/Hy3-295B-NVFP4-MTP-2x-DGX-Spark)
+  > Tencent Hunyuan 3 (295B MoE) on 2x NVIDIA DGX Spark: NVFP4 W4A16 + native MTP speculative decoding. ...
 
 ### [HSSkyBoy](https://github.com/HSSkyBoy)
 - 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) to [HSSkyBoy/Mihomo](https://github.com/HSSkyBoy/Mihomo)
@@ -179,6 +185,10 @@
 ### [HdShare](https://github.com/HdShare)
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe)
   > No TrickyStore on Canoe
+- 🌟 👤 [HdShare](https://github.com/HdShare) Starred [zxc7563598/key-heat](https://github.com/zxc7563598/key-heat)
+  > Real-time keyboard heatmap & productivity tracker. A desktop app that runs in the tray, records key ...
+- 🍴 👤 [HdShare](https://github.com/HdShare) Forked [zxc7563598/key-heat](https://github.com/zxc7563598/key-heat) to [HdShare/key-heat](https://github.com/HdShare/key-heat)
+  > Real-time keyboard heatmap & productivity tracker. A desktop app that runs in the tray, records key ...
 
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
@@ -225,6 +235,10 @@
   > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
   > An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+
+### [LabGuy94](https://github.com/LabGuy94)
+- 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [m1ckc3s/claude-status-bar](https://github.com/m1ckc3s/claude-status-bar)
+  > A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/clos...
 
 ### [LunFengChen](https://github.com/LunFengChen)
 - 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [zxr-roro/GPT5.6-5.5-](https://github.com/zxr-roro/GPT5.6-5.5-)
@@ -295,6 +309,10 @@
 - 🌟 👤 [Satar07](https://github.com/Satar07) Starred [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng)
   > D810-ng (Next Generation) is an updated, tested, refactored, and optimized IDA Pro plugin used to de...
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
+  > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
+
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
   > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
@@ -304,6 +322,8 @@
   > 面向移动安全分析场景的 6 阶段总控 Skill。用于统一调度 APK 静态侦察、流量与代码对齐、SO/JNI 深度分析、加密与漏洞综合分析、验证设计与报告交付流程。支持 JADX MCP、Burp/...
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [mrboom951715/USB-Redirector-Technician-Edition](https://github.com/mrboom951715/USB-Redirector-Technician-Edition)
   > USB Redirector Technician Edition
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)
+  > The best agent harness.
 
 ### [SherlockChiang](https://github.com/SherlockChiang)
 - 🌟 👤 [SherlockChiang](https://github.com/SherlockChiang) Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
@@ -324,6 +344,8 @@
   > Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [biplobsd/running_services_monitor](https://github.com/biplobsd/running_services_monitor)
   > Monitor running services on your Android device. With a clean and intuitive interface, you can easil...
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [Legatto2/MotoTool_MTK](https://github.com/Legatto2/MotoTool_MTK)
+  > A Qt CPP project to interact with Motorola Company mobile phones. it is a tool to unlock the Network...
 
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🍴 👤 [SodaMilk233](https://github.com/SodaMilk233) Forked [fuqiuluo/amice](https://github.com/fuqiuluo/amice) to [SodaMilk233/amice-ollvm](https://github.com/SodaMilk233/amice-ollvm)
@@ -425,6 +447,12 @@
 - 🌟 👤 [aalansehaiyang](https://github.com/aalansehaiyang) Starred [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)
   > A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝...
 
+### [adysec](https://github.com/adysec)
+- 🌟 👤 [adysec](https://github.com/adysec) Starred [adysec/hwpoc](https://github.com/adysec/hwpoc)
+  > 护网漏洞情报库 · 0day/1day/nday 漏洞数据 · 原腾讯文档迁移 · Issue 提交 · TOML 源数据
+- 🌟 👤 [adysec](https://github.com/adysec) Starred [adysec/AVE](https://github.com/adysec/AVE)
+  > AVE 是面向安全运营的多源漏洞知识库，统一 AVE 编号并输出结构化 TOML，同时整理和校验公开 PoC/EXP 资产，支持按严重等级快速筛选高价值漏洞。漏洞爬取与梳理的代码和逻辑暂未开源。
+
 ### [amezin](https://github.com/amezin)
 - 🌟 👤 [amezin](https://github.com/amezin) Starred [aleko2144/KoTR_Modern_Patch](https://github.com/aleko2144/KoTR_Modern_Patch)
   > King of the Road (Дальнобойщики 2) Modern Patch sources
@@ -450,6 +478,8 @@
   > 🧱 easy, fast and local-first microVM runtime
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [e2b-dev/E2B](https://github.com/e2b-dev/E2B)
   > Open-source, secure environment with real-world tools for enterprise-grade agents.
+- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router)
+  > Superfast AI decision making and intelligent processing of multi-modal data.
 
 ### [any86](https://github.com/any86)
 - 🌟 👤 [any86](https://github.com/any86) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
@@ -488,6 +518,9 @@
 - 🌟 👤 [bingoogolapple](https://github.com/bingoogolapple) Starred [bingoogolapple/OpenInAppForMac](https://github.com/bingoogolapple/OpenInAppForMac)
   > 在 Mac 的 Finder 窗口中点击工具栏的图标即可用 OpenInXxx 打开当前文件夹
 
+### [blacktop](https://github.com/blacktop)
+- 🌟 👤 [blacktop](https://github.com/blacktop) Starred [19h/certrax](https://github.com/19h/certrax)
+
 ### [breaking153](https://github.com/breaking153)
 - 🌟 👤 [breaking153](https://github.com/breaking153) Starred [anthropics/skills](https://github.com/anthropics/skills)
   > Public repository for Agent Skills
@@ -515,6 +548,8 @@
 ### [crvvdev](https://github.com/crvvdev)
 - 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [BjornRuytenberg/kdmap-patcher](https://github.com/BjornRuytenberg/kdmap-patcher)
   > Patches Kernel DMA Protection onto unsupported Thunderbolt-powered systems.
+- 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [Cr4sh/SmmBackdoorNg](https://github.com/Cr4sh/SmmBackdoorNg)
+  > Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks
 
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [simstudioai/sim](https://github.com/simstudioai/sim)
@@ -615,6 +650,10 @@
   > MacOS Cross-Toolchain for Linux and *BSD
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Archeb/CyberGroupmate](https://github.com/Archeb/CyberGroupmate) to [gmh5225/CyberGroupmate](https://github.com/gmh5225/CyberGroupmate)
   > Code-Driven Social Agent
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset) to [gmh5225/crackmes-re-dataset](https://github.com/gmh5225/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [karttoon/iocs](https://github.com/karttoon/iocs) to [gmh5225/iocs-](https://github.com/gmh5225/iocs-)
+  > IoC's, PCRE's, YARA's etc
 
 ### [halfkiss](https://github.com/halfkiss)
 - 🌟 👤 [halfkiss](https://github.com/halfkiss) Starred [Ylarod/Florida](https://github.com/Ylarod/Florida)
@@ -760,6 +799,13 @@
 ### [lyming99](https://github.com/lyming99)
 - 🌟 👤 [lyming99](https://github.com/lyming99) Starred [JYChen-8866/Cditor](https://github.com/JYChen-8866/Cditor)
   > High-performance large-document rich text editor built with Rust and GPUI
+- 🌟 👤 [lyming99](https://github.com/lyming99) Starred [qiu7824/zsui](https://github.com/qiu7824/zsui)
+
+### [malware-unicorn](https://github.com/malware-unicorn)
+- 🍴 👤 [malware-unicorn](https://github.com/malware-unicorn) Forked [openai/tart](https://github.com/openai/tart) to [malware-unicorn/tart](https://github.com/malware-unicorn/tart)
+  > macOS and Linux VMs on Apple Silicon to use in CI and other automations
+- 🍴 👤 [malware-unicorn](https://github.com/malware-unicorn) Forked [openai/orchard](https://github.com/openai/orchard) to [malware-unicorn/orchard](https://github.com/malware-unicorn/orchard)
+  > Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 
 ### [mcr](https://github.com/mcr)
 - 🍴 👤 [mcr](https://github.com/mcr) Forked [lamps-wg/lamps-attestation-freshness](https://github.com/lamps-wg/lamps-attestation-freshness) to [mcr/lamps-attestation-freshness](https://github.com/mcr/lamps-attestation-freshness)
@@ -768,6 +814,9 @@
 ### [mcxiaoke](https://github.com/mcxiaoke)
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [JuliaStrings/utf8proc](https://github.com/JuliaStrings/utf8proc)
   > a clean C library for processing UTF-8 Unicode data
+
+### [mistrmochov](https://github.com/mistrmochov)
+- 🍴 👤 [mistrmochov](https://github.com/mistrmochov) Forked [WayDroid-ATV/android_vendor_waydroid](https://github.com/WayDroid-ATV/android_vendor_waydroid) to [mistrmochov/android_vendor_waydroid](https://github.com/mistrmochov/android_vendor_waydroid)
 
 ### [miunasu](https://github.com/miunasu)
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [JustLikeCheese/LGBT-Prompt](https://github.com/JustLikeCheese/LGBT-Prompt)
@@ -784,6 +833,12 @@
   > A novel obfuscation technique for ELF programs by abusing symbol resolution metadata to break disass...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xp987/symbridge](https://github.com/xp987/symbridge)
+  > Live IDA ↔ x64dbg annotation and type synchronization bridge
+
+### [naim94a](https://github.com/naim94a)
+- 🌟 👤 [naim94a](https://github.com/naim94a) Starred [open-leash/desktop-client](https://github.com/open-leash/desktop-client)
+  > OpenLeash desktop client, local API, tray app, and hook installer.
 
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [code002-2/WinDroid](https://github.com/code002-2/WinDroid)
@@ -810,6 +865,12 @@
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [google/walt](https://github.com/google/walt)
   > A device for measuring latency of physical sensors and outputs on phones and computers
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [jqssun/android-mac-editor](https://github.com/jqssun/android-mac-editor)
+  > Securely edit Wi-Fi MAC address on Android
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [jqssun/android-helium-browser](https://github.com/jqssun/android-helium-browser)
+  > Secure open-source Android browser with support for extensions
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [jqssun/android-bt-remote](https://github.com/jqssun/android-bt-remote)
+  > First open-source universal serverless Bluetooth HID keyboard, mouse, and media remote for Android
 
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
@@ -890,6 +951,10 @@
   > The Fully Customizable Desktop Environment for Windows 10/11.
 - 🌟 👤 [shellsec](https://github.com/shellsec) Starred [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
 
+### [sigwl](https://github.com/sigwl)
+- 🌟 👤 [sigwl](https://github.com/sigwl) Starred [mr1337robot/imgui-studio](https://github.com/mr1337robot/imgui-studio)
+  > ImGui Studio is a local-first, AI-native development environment for creating custom Dear ImGui menu...
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)
   > Port of OpenAI's Whisper model in C/C++
@@ -951,6 +1016,10 @@
 - 🌟 👤 [surunzi](https://github.com/surunzi) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > An agentic skills framework & software development methodology that works.
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [HacktronAI/tools](https://github.com/HacktronAI/tools)
+  > Tool schemas each model family uses.
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
   > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
@@ -962,6 +1031,10 @@
   > A Beacon Object File (BOF) is a compiled C program, written to a convention that allows it to execut...
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [InfinityCurveLabs/vm-filesystem](https://github.com/InfinityCurveLabs/vm-filesystem)
   > Filesystem interaction via firebeam virtual machine execution
+
+### [void-stack](https://github.com/void-stack)
+- 🍴 👤 [void-stack](https://github.com/void-stack) Forked [Washi1337/Echo](https://github.com/Washi1337/Echo) to [void-stack/Echo](https://github.com/void-stack/Echo)
+  > Generic static analysis framework.
 
 ### [wangray](https://github.com/wangray)
 - 🌟 👤 [wangray](https://github.com/wangray) Starred [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA)
@@ -1085,5 +1158,5 @@
 
 
 ---
-*最后更新于 2026-07-13 18:43:14 UTC*
+*最后更新于 2026-07-13 21:56:20 UTC*
 *历史记录保存在 `archive` 目录中。*
