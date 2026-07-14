@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0x1c1101](https://github.com/0x1c1101)
+- 🌟 👤 [0x1c1101](https://github.com/0x1c1101) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+
 ### [0xacb](https://github.com/0xacb)
 - 🌟 👤 [0xacb](https://github.com/0xacb) Starred [ethiack/ethibench](https://github.com/ethiack/ethibench)
   > Ethiack AI Pentesting Benchmark Framework
@@ -29,6 +33,10 @@
   > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
 - 🌟 👤 [Brinmon](https://github.com/Brinmon) Starred [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering)
   > Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems ...
+
+### [ColdWindScholar](https://github.com/ColdWindScholar)
+- 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [Vatuu/silent-hill-decomp](https://github.com/Vatuu/silent-hill-decomp)
+  > An in-progress decompilation of the 1.1 US release of Silent Hill on the Playstation 1.
 
 ### [Cxk4ng](https://github.com/Cxk4ng)
 - 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar)
@@ -66,9 +74,19 @@
 - 🌟 👤 [Felix3322](https://github.com/Felix3322) Starred [ljy2367765883/EDR-DataProtector](https://github.com/ljy2367765883/EDR-DataProtector)
   > An experimental intranet security defense EDR
 
+### [FldBudin](https://github.com/FldBudin)
+- 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
+  > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
+
 ### [GangJust](https://github.com/GangJust)
 - 🌟 👤 [GangJust](https://github.com/GangJust) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
   > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
+
+### [HdShare](https://github.com/HdShare)
+- 🌟 👤 [HdShare](https://github.com/HdShare) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+  > Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- 🌟 👤 [HdShare](https://github.com/HdShare) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible...
 
 ### [Knight-ZXW](https://github.com/Knight-ZXW)
 - 🍴 👤 [Knight-ZXW](https://github.com/Knight-ZXW) Forked [block/stoic](https://github.com/block/stoic) to [Knight-ZXW/stoic](https://github.com/Knight-ZXW/stoic)
@@ -103,6 +121,8 @@
 ### [PIKACHUIM](https://github.com/PIKACHUIM)
 - 🌟 👤 [PIKACHUIM](https://github.com/PIKACHUIM) Starred [laobamac/MirageWallpaper](https://github.com/laobamac/MirageWallpaper)
   > A live wallpaper engine for macOS, supporting Web/video/scene wallpaper
+- 🍴 👤 [PIKACHUIM](https://github.com/PIKACHUIM) Forked [laobamac/MirageWallpaper](https://github.com/laobamac/MirageWallpaper) to [PIKACHUIM/MirageWallpaper](https://github.com/PIKACHUIM/MirageWallpaper)
+  > A live wallpaper engine for macOS, supporting Web/video/scene wallpaper
 
 ### [PenguinAndy](https://github.com/PenguinAndy)
 - 🌟 👤 [PenguinAndy](https://github.com/PenguinAndy) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
@@ -128,6 +148,10 @@
 - 🌟 👤 [SPuerBRead](https://github.com/SPuerBRead) Starred [deusyu/harness-engineering](https://github.com/deusyu/harness-engineering)
   > Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案
 
+### [Skorpion96](https://github.com/Skorpion96)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [impost0r/Rie](https://github.com/impost0r/Rie)
+  > CVE-2026-43724 - Apple's published enough advisories about the issue, I'm not getting paid for any o...
+
 ### [Sndav](https://github.com/Sndav)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [TwoSevenOneT/EDRChoker](https://github.com/TwoSevenOneT/EDRChoker)
   > A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from...
@@ -151,9 +175,6 @@
 ### [Tardis07](https://github.com/Tardis07)
 - 🌟 👤 [Tardis07](https://github.com/Tardis07) Starred [ttimasdf/pi-maintainer-workflows](https://github.com/ttimasdf/pi-maintainer-workflows)
   > Pi prompt templates for maintaining long-lived soft forks of upstream projects
-
-### [TheQmaks](https://github.com/TheQmaks)
-- 🚀 👤 [TheQmaks](https://github.com/TheQmaks) Made [TheQmaks/antibot-captcha-reverse-wiki](https://github.com/TheQmaks/antibot-captcha-reverse-wiki) public
 
 ### [TheWildJames](https://github.com/TheWildJames)
 - 🍴 👤 [TheWildJames](https://github.com/TheWildJames) Forked [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) to [TheWildJames/KernelSU-Next](https://github.com/TheWildJames/KernelSU-Next)
@@ -200,6 +221,10 @@
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [par274/sharpemu](https://github.com/par274/sharpemu)
   > An experimental PlayStation 5 emulator project.
 
+### [asLody](https://github.com/asLody)
+- 🌟 👤 [asLody](https://github.com/asLody) Starred [droidrun/mobilerun](https://github.com/droidrun/mobilerun)
+  > Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
+
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use)
   > Let Pi control your apps on MacOS & Windows
@@ -211,6 +236,8 @@
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [JetBrains/youtrackdb](https://github.com/JetBrains/youtrackdb)
   > YouTrackDB is a general-use object-oriented graph database with storage format native to handle grap...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [okalachev/flix](https://github.com/okalachev/flix)
+  > Making an ESP32-based quadcopter from scratch
 
 ### [chsbuffer](https://github.com/chsbuffer)
 - 🌟 👤 [chsbuffer](https://github.com/chsbuffer) Starred [pandoc-ext/diagram](https://github.com/pandoc-ext/diagram)
@@ -225,6 +252,8 @@
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [gadievron/raptor](https://github.com/gadievron/raptor)
   > Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Clau...
+- 🌟 👤 [codingsf](https://github.com/codingsf) Starred [canyie/CVE-2024-0044](https://github.com/canyie/CVE-2024-0044)
+  > RunAsAnyone: PoC and writeup for bypassing the initial patch of CVE-2024-0044, Android run-as any ap...
 
 ### [cryzlasm](https://github.com/cryzlasm)
 - 🌟 👤 [cryzlasm](https://github.com/cryzlasm) Starred [lhish/topic_solve](https://github.com/lhish/topic_solve)
@@ -252,9 +281,19 @@
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [beancount/beancount](https://github.com/beancount/beancount)
   > Beancount: Double-Entry Accounting from Text Files.
 
+### [elllusion](https://github.com/elllusion)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [ALIGN-analoglayout/ALIGN-public](https://github.com/ALIGN-analoglayout/ALIGN-public)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [ucb-art/BAG_framework](https://github.com/ucb-art/BAG_framework)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [rachelselinar/ReGDS-Logic-Gate-Extraction](https://github.com/rachelselinar/ReGDS-Logic-Gate-Extraction)
+  > A custom C++ routine to identify logic gates in the layout extracted netlist (SPICE) of digital circ...
+
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use)
   > Let Pi control your apps on MacOS & Windows
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP)
+  > MCP extension for dnSpy.
 
 ### [exp-sky](https://github.com/exp-sky)
 - 🌟 👤 [exp-sky](https://github.com/exp-sky) Starred [anysearch-ai/anysearch-skill](https://github.com/anysearch-ai/anysearch-skill)
@@ -352,6 +391,10 @@
 - 🌟 👤 [jas502n](https://github.com/jas502n) Starred [SickleSec/GhostWolf](https://github.com/SickleSec/GhostWolf)
   > 从内存中提取浏览器和Todesk用户凭证
 
+### [jianchang512](https://github.com/jianchang512)
+- 🌟 👤 [jianchang512](https://github.com/jianchang512) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+  > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [iree-org/iree](https://github.com/iree-org/iree)
   > A retargetable MLIR-based machine learning compiler and runtime toolkit.
@@ -403,6 +446,8 @@
 ### [kurogai](https://github.com/kurogai)
 - 🌟 👤 [kurogai](https://github.com/kurogai) Starred [antonioCoco/RunasCs](https://github.com/antonioCoco/RunasCs)
   > RunasCs - Csharp and open version of windows builtin runas.exe
+- 🌟 👤 [kurogai](https://github.com/kurogai) Starred [strikoder/NagoyaSpray](https://github.com/strikoder/NagoyaSpray)
+  > CTF-focused password spray wordlist generator.  Perfected for OSCP/PNPT/CPTS. Generates realistic se...
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [qingfengtommy/SpineAgent](https://github.com/qingfengtommy/SpineAgent)
@@ -431,6 +476,12 @@
   > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [callstack/agent-device](https://github.com/callstack/agent-device)
   > CLI to control iOS and Android devices for AI agents
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [plateaukao/einkbro](https://github.com/plateaukao/einkbro)
+  > A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works g...
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter)
+  > 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其...
+- 🌟 👤 [netxfly](https://github.com/netxfly) Starred [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+  > 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [kivikakk/comrak](https://github.com/kivikakk/comrak)
@@ -483,6 +534,10 @@
 ### [poorevil](https://github.com/poorevil)
 - 🌟 👤 [poorevil](https://github.com/poorevil) Starred [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano)
   > MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenM...
+
+### [pplux](https://github.com/pplux)
+- 🌟 👤 [pplux](https://github.com/pplux) Starred [catppuccin/nvim](https://github.com/catppuccin/nvim)
+  > 🍨 Soothing pastel theme for Neovim
 
 ### [progmboy](https://github.com/progmboy)
 - 🌟 👤 [progmboy](https://github.com/progmboy) Starred [gigioneggiando/argo](https://github.com/gigioneggiando/argo)
@@ -550,6 +605,10 @@
 - 🌟 👤 [rogertan30](https://github.com/rogertan30) Starred [nividata-consultancy/math-riddle-free](https://github.com/nividata-consultancy/math-riddle-free)
   > Open source repo of math-riddle game launched on Playstore
 
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer)
+  > Transformer related optimization, including BERT, GPT
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
   > DNS-Blocklists: For a better internet - keep the internet clean!
@@ -599,6 +658,8 @@
 ### [wszxl516](https://github.com/wszxl516)
 - 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [Awesome-Embedded-Learning-Studio/Cinux](https://github.com/Awesome-Embedded-Learning-Studio/Cinux)
   > Cinux, C/C++'s version of X64 Operating System, using modern feature in C/C++!
+- 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire)
+  > A modular and extensible wayland compositor
 
 ### [wy876](https://github.com/wy876)
 - 🌟 👤 [wy876](https://github.com/wy876) Starred [mtvpls/MoonTVPlus](https://github.com/mtvpls/MoonTVPlus)
@@ -648,5 +709,5 @@
 
 
 ---
-*最后更新于 2026-07-14 10:45:53 UTC*
+*最后更新于 2026-07-14 12:12:10 UTC*
 *历史记录保存在 `archive` 目录中。*
