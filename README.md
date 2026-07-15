@@ -68,6 +68,8 @@
 ### [Cxk4ng](https://github.com/Cxk4ng)
 - 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar)
   > A compact lunar calendar for your macOS menu bar.
+- 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8)
+  > An A12/A13 SecureROM exploit
 
 ### [DarkLineX](https://github.com/DarkLineX)
 - 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [tc3650/CVE-2026-43499-armv7](https://github.com/tc3650/CVE-2026-43499-armv7)
@@ -121,6 +123,10 @@
 - 🌟 👤 [GangJust](https://github.com/GangJust) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
   > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
 
+### [GermanAizek](https://github.com/GermanAizek)
+- 🍴 👤 [GermanAizek](https://github.com/GermanAizek) Forked [sddm/sddm](https://github.com/sddm/sddm) to [GermanAizek/sddm](https://github.com/GermanAizek/sddm)
+  > QML based X11 and Wayland display manager
+
 ### [GitSquared](https://github.com/GitSquared)
 - 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [vercel/workflow](https://github.com/vercel/workflow)
   > Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript
@@ -142,6 +148,8 @@
   > Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
   > Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible...
+- 🌟 👤 [HdShare](https://github.com/HdShare) Starred [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
+  > The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being exec...
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🚀 👤 [JoasASantos](https://github.com/JoasASantos) Made [Red-Team-Leaders/RTL-Labs](https://github.com/Red-Team-Leaders/RTL-Labs) public
@@ -449,6 +457,10 @@
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [otter-sec/rctf](https://github.com/otter-sec/rctf)
   > rCTF is a platform for hosting cybersecurity capture-the-flag competitions.
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [ChapzoMods/NinjaDBG](https://github.com/ChapzoMods/NinjaDBG)
+  > NinjaDBG v1.1.4 - Stealth-Aware Native Debugger | x64dbg-like features (modules, handles, dump, find...
+
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use)
   > Let Pi control your apps on MacOS & Windows
@@ -645,6 +657,10 @@
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [qingfengtommy/SpineAgent](https://github.com/qingfengtommy/SpineAgent)
 
+### [llsc12](https://github.com/llsc12)
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [qt/qtbridge-swift](https://github.com/qt/qtbridge-swift)
+  > Qt Bridge for Swift. Qt Bridges enables developers to provide application logic written in a foreign...
+
 ### [ltlly](https://github.com/ltlly)
 - 🌟 👤 [ltlly](https://github.com/ltlly) Starred [trzsz/trzsz](https://github.com/trzsz/trzsz)
   > trzsz is a simple file transfer tools, similar to lrzsz ( rz / sz ), and compatible with tmux.
@@ -652,6 +668,10 @@
 ### [luoyesiqiu](https://github.com/luoyesiqiu)
 - 🌟 👤 [luoyesiqiu](https://github.com/luoyesiqiu) Starred [lenzarchive/UnityBundleExtractor](https://github.com/lenzarchive/UnityBundleExtractor)
   > A robust Python script for extracting various assets from Unity3D bundle files. Features intelligent...
+
+### [mahmoudimus](https://github.com/mahmoudimus)
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [truizlop/ndrstnd](https://github.com/truizlop/ndrstnd)
+  > A companion for coding agents to help you understand large outputs
 
 ### [marlkiller](https://github.com/marlkiller)
 - 🍴 👤 [marlkiller](https://github.com/marlkiller) Forked [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) to [marlkiller/pastebin-worker](https://github.com/marlkiller/pastebin-worker)
@@ -679,6 +699,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset) to [mrexodia/crackmes-re-dataset](https://github.com/mrexodia/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [videlalvaro/leet-llm](https://github.com/videlalvaro/leet-llm)
+  > A hands-on Swift and Metal course for building LLM inference from first principles on Apple silicon,...
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [ish-app/ish](https://github.com/ish-app/ish)
@@ -739,6 +761,10 @@
   > Android SDK: viewer
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [ArtifexSoftware/mupdf-android-viewer-mini](https://github.com/ArtifexSoftware/mupdf-android-viewer-mini)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [PDFium/PDFium](https://github.com/PDFium/PDFium)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [traccar/traccar](https://github.com/traccar/traccar)
+  > Traccar GPS Tracking System
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [tribixbite/CleverKeys](https://github.com/tribixbite/CleverKeys)
+  > Privacy-first neural Android keyboard with advanced swipe prediction
 
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [DarkFlippers/flipperzero-subbrute](https://github.com/DarkFlippers/flipperzero-subbrute)
@@ -965,6 +991,10 @@
 - 🌟 👤 [x7dbg](https://github.com/x7dbg) Starred [KSwordDEV/KswordFrame](https://github.com/KSwordDEV/KswordFrame)
   > Windows C++ GUI Work Frame
 
+### [xct](https://github.com/xct)
+- 🌟 👤 [xct](https://github.com/xct) Starred [modelscope/evalscope](https://github.com/modelscope/evalscope)
+  > A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and p...
+
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [CircuitSavage/hcaptcha-hsj-hsw-reversed](https://github.com/CircuitSavage/hcaptcha-hsj-hsw-reversed)
   > hCaptcha hsj/hsw master-key extraction — byte-accurate per build
@@ -1021,5 +1051,5 @@
 
 
 ---
-*最后更新于 2026-07-14 20:11:22 UTC*
+*最后更新于 2026-07-14 23:01:02 UTC*
 *历史记录保存在 `archive` 目录中。*
