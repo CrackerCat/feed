@@ -106,6 +106,10 @@
 - 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [local-inference-lab/rtx6kpro](https://github.com/local-inference-lab/rtx6kpro)
   > RTX 6000 Pro Wiki — Running Large LLMs (Qwen3.5-397B, Kimi-K2.5, GLM-5) on PCIe GPUs without NVLink
 
+### [HdShare](https://github.com/HdShare)
+- 🌟 👤 [HdShare](https://github.com/HdShare) Starred [reqable/reqable-mcp-server](https://github.com/reqable/reqable-mcp-server)
+  > Reqable MCP server is a command-line tool for connecting your AI to Reqable
+
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [dark-kingA/cloudTools](https://github.com/dark-kingA/cloudTools)
   > 云资产管理工具 目前工具定位是云安全相关工具，目前是两个模块 云存储工具、云服务工具， 云存储工具主要是针对oss存储、查看、删除、上传、下载、预览等等 云服务工具主要是针对rds、服务器的管理，查看...
@@ -136,8 +140,7 @@
 
 ### [L4ys](https://github.com/L4ys)
 - 🌟 👤 [L4ys](https://github.com/L4ys) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
-  > 140 vulnerabilities in Samsung preinstalled Android apps
-- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [arabel1a/cmpunlocker](https://github.com/arabel1a/cmpunlocker)
+  > 176 vulnerabilities in Samsung preinstalled Android apps
 
 ### [LunFengChen](https://github.com/LunFengChen)
 - 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
@@ -179,6 +182,13 @@
 - 🌟 👤 [PeiQi0](https://github.com/PeiQi0) Starred [mjunaidca/polymarket-skills](https://github.com/mjunaidca/polymarket-skills)
   > Composable Agent Skills for Polymarket prediction market trading. Paper-trading-first, security-audi...
 
+### [RiccardoAncarani](https://github.com/RiccardoAncarani)
+- 🌟 👤 [RiccardoAncarani](https://github.com/RiccardoAncarani) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
+  > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+
+### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
+- 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [toneillcodes/UnwindRaven](https://github.com/toneillcodes/UnwindRaven)
+
 ### [SakuraKoi](https://github.com/SakuraKoi)
 - 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [K4ryuu/IDA-Fusion-Enhanced](https://github.com/K4ryuu/IDA-Fusion-Enhanced)
   > ULTRA Fast Signature scanner & creator for IDA9+
@@ -194,6 +204,10 @@
 ### [Satar07](https://github.com/Satar07)
 - 🌟 👤 [Satar07](https://github.com/Satar07) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
   > Headless IDA Pro MCP Server
+
+### [Seyud](https://github.com/Seyud)
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [Stack-Cairn/LiveAgent](https://github.com/Stack-Cairn/LiveAgent)
+  > A fully functional AI Agent desktop client that supports Webui access and can be creatively customiz...
 
 ### [Silentsoul04](https://github.com/Silentsoul04)
 - 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [p0w3rsh3ll/MSRC-data](https://github.com/p0w3rsh3ll/MSRC-data)
@@ -217,7 +231,7 @@
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [grant-h/omap_loader](https://github.com/grant-h/omap_loader)
   > A USB BootROM uploading utility for TI ARM OMAP3 family processors. Rewrite of omap3_usbload. Suppor...
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
-  > 140 vulnerabilities in Samsung preinstalled Android apps
+  > 176 vulnerabilities in Samsung preinstalled Android apps
 
 ### [Sndav](https://github.com/Sndav)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [MustangYM/SovietExtension](https://github.com/MustangYM/SovietExtension)
@@ -246,6 +260,10 @@
 ### [Wh0ale](https://github.com/Wh0ale)
 - 🌟 👤 [Wh0ale](https://github.com/Wh0ale) Starred [cha0upup/LeoAI](https://github.com/cha0upup/LeoAI)
   > AI 驱动的后渗透综合管理平台，深度集成 LLM Agent，开箱即用。
+
+### [WindySha](https://github.com/WindySha)
+- 🌟 👤 [WindySha](https://github.com/WindySha) Starred [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)
+  > Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Curs...
 
 ### [X1r0z](https://github.com/X1r0z)
 - 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [stablyai/orca](https://github.com/stablyai/orca)
@@ -283,9 +301,9 @@
 
 ### [apkunpacker](https://github.com/apkunpacker)
 - 🍴 👤 [apkunpacker](https://github.com/apkunpacker) Forked [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities) to [apkunpacker/Samsung_Vulnerabilities](https://github.com/apkunpacker/Samsung_Vulnerabilities)
-  > 140 vulnerabilities in Samsung preinstalled Android apps
+  > 176 vulnerabilities in Samsung preinstalled Android apps
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
-  > 140 vulnerabilities in Samsung preinstalled Android apps
+  > 176 vulnerabilities in Samsung preinstalled Android apps
 
 ### [aprz512](https://github.com/aprz512)
 - 🌟 👤 [aprz512](https://github.com/aprz512) Starred [aprz512/qbdi-android](https://github.com/aprz512/qbdi-android)
@@ -293,6 +311,10 @@
 ### [asLody](https://github.com/asLody)
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [Civitasmass/make-gpt-great-again](https://github.com/Civitasmass/make-gpt-great-again)
   > Run OpenAI's GPT-5.6 family (Sol / Terra / Luna) inside Claude Code — an Anthropic-to-OpenAI proxy w...
+
+### [ashvardanian](https://github.com/ashvardanian)
+- 🌟 👤 [ashvardanian](https://github.com/ashvardanian) Starred [ashvardanian/ForkUnion](https://github.com/ashvardanian/ForkUnion)
+  > Lower-latency OpenMP-style NUMA-aware minimalistic scoped thread-pool designed for 'Fork-Join' paral...
 
 ### [bibinocode](https://github.com/bibinocode)
 - 🌟 👤 [bibinocode](https://github.com/bibinocode) Starred [412845222/DVStudio](https://github.com/412845222/DVStudio)
@@ -312,7 +334,7 @@
 
 ### [canyie](https://github.com/canyie)
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
-  > 140 vulnerabilities in Samsung preinstalled Android apps
+  > 176 vulnerabilities in Samsung preinstalled Android apps
 
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
@@ -345,6 +367,10 @@
 ### [cozis](https://github.com/cozis)
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [kristoff-it/railroad](https://github.com/kristoff-it/railroad)
   > Railroad diagram generator.
+
+### [crazy-max](https://github.com/crazy-max)
+- 🌟 👤 [crazy-max](https://github.com/crazy-max) Starred [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat)
+  > Jellystat is a free and open source Statistics App for Jellyfin
 
 ### [crvvdev](https://github.com/crvvdev)
 - 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [senko37/drvload-bootkit](https://github.com/senko37/drvload-bootkit)
@@ -458,6 +484,26 @@
   > Surgical x64 VEH/VCH dumper. Walks the vectored exception handler list, extracts each handler as a s...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [saikrishnarallabandi/jataayu](https://github.com/saikrishnarallabandi/jataayu) to [gmh5225/jataayu](https://github.com/gmh5225/jataayu)
   > LLM-backed AI agent security — inbound injection detection + outbound privacy protection
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent)
+  > A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemin...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) to [gmh5225/llm-wiki-agent](https://github.com/gmh5225/llm-wiki-agent)
+  > A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemin...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [lewislulu/llm-wiki-skill](https://github.com/lewislulu/llm-wiki-skill) to [gmh5225/llm-wiki-skill](https://github.com/gmh5225/llm-wiki-skill)
+  > Karpathy-style LLM knowledge base Agent Skill for OpenClaw/Codex. Experimental — will iterate over t...
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
+  > Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Nutlope/hallmark](https://github.com/Nutlope/hallmark) to [gmh5225/hallmark](https://github.com/gmh5225/hallmark)
+  > Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [google/GNM](https://github.com/google/GNM) to [gmh5225/GNM](https://github.com/gmh5225/GNM)
+  > An open ecosystem of parametric human models and perception stacks, starting with GNM Head.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ShakespeareLabs/open-agent-relay](https://github.com/ShakespeareLabs/open-agent-relay) to [gmh5225/open-agent-relay](https://github.com/gmh5225/open-agent-relay)
+  > Turn any local agent or automation into a team-callable capability.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [MSNightmare/LegacyHive](https://github.com/MSNightmare/LegacyHive) to [gmh5225/LegacyHive](https://github.com/gmh5225/LegacyHive)
+  > N/A
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) to [gmh5225/herdr](https://github.com/gmh5225/herdr)
+  > agent multiplexer that lives in your terminal.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [clawkwork/clawk](https://github.com/clawkwork/clawk) to [gmh5225/clawk](https://github.com/gmh5225/clawk)
+  > Give coding agents a disposable Linux VM, not your laptop
 
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [runcat-dev/RunCatNeo](https://github.com/runcat-dev/RunCatNeo)
@@ -496,6 +542,8 @@
   > LLM inference in C/C++
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [ArmanJR/PrismML-Bonsai-vs-Qwen3.5-Benchmark](https://github.com/ArmanJR/PrismML-Bonsai-vs-Qwen3.5-Benchmark)
   > PrismMl Bonsai vs Qwen3.5 Benchmark
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
+  > Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous exec...
 
 ### [iamtorsten](https://github.com/iamtorsten)
 - 🍴 👤 [iamtorsten](https://github.com/iamtorsten) Forked [QBDI/QBDI](https://github.com/QBDI/QBDI) to [iamtorsten/QBDI](https://github.com/iamtorsten/QBDI)
@@ -515,6 +563,10 @@
 
 ### [iraizo](https://github.com/iraizo)
 - 🌟 👤 [iraizo](https://github.com/iraizo) Starred [TradeSkillMaster/wowlua-ls](https://github.com/TradeSkillMaster/wowlua-ls)
+
+### [jakogut](https://github.com/jakogut)
+- 🍴 👤 [jakogut](https://github.com/jakogut) Forked [libkrun/libkrun](https://github.com/libkrun/libkrun) to [jakogut/libkrun](https://github.com/jakogut/libkrun)
+  > A dynamic library providing Virtualization-based process isolation capabilities
 
 ### [jeanboydev](https://github.com/jeanboydev)
 - 🌟 👤 [jeanboydev](https://github.com/jeanboydev) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -603,6 +655,8 @@
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [0xSero/turboquant](https://github.com/0xSero/turboquant)
   > TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Tri...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [badlogic/sitegeist](https://github.com/badlogic/sitegeist)
+  > An AI assistant that lives in your browser. Built for collaboration, not autonomy theater. You guide...
 
 ### [mistymntncop](https://github.com/mistymntncop)
 - 🌟 👤 [mistymntncop](https://github.com/mistymntncop) Starred [unprovable/PDFRecover](https://github.com/unprovable/PDFRecover)
@@ -653,7 +707,7 @@
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [minchenlee/rmdv](https://github.com/minchenlee/rmdv)
   > Native Rust markdown viewer — Mermaid, Graphviz DOT, LaTeX math, mind maps. No Electron, no browser....
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
-  > 140 vulnerabilities in Samsung preinstalled Android apps
+  > 176 vulnerabilities in Samsung preinstalled Android apps
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use)
   > Let Pi control your apps on MacOS & Windows
 
@@ -690,6 +744,9 @@
   > Trinity is an Android emulator designed to simultaneously meet the goals of good compatibility, secu...
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [justincodinguk/kdoc-export-ts](https://github.com/justincodinguk/kdoc-export-ts)
   > Embeds KDoc inside generated TS definitions
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [toneillcodes/UnwindRaven](https://github.com/toneillcodes/UnwindRaven)
 
 ### [phith0n](https://github.com/phith0n)
 - 🌟 👤 [phith0n](https://github.com/phith0n) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
@@ -800,6 +857,8 @@
   > muvm - run programs from your system in a microVM
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [libkrun/libkrun](https://github.com/libkrun/libkrun)
   > A dynamic library providing Virtualization-based process isolation capabilities
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
+  > OxiZ is a high-performance Satisfiability Modulo Theories (SMT) solver written entirely in Rust. Thi...
 
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app)
@@ -930,5 +989,5 @@
 
 
 ---
-*最后更新于 2026-07-15 18:06:56 UTC*
+*最后更新于 2026-07-15 20:08:17 UTC*
 *历史记录保存在 `archive` 目录中。*
