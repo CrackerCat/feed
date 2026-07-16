@@ -33,6 +33,14 @@
 - 🌟 👤 [7etsuo](https://github.com/7etsuo) Starred [7etsuo/anvil](https://github.com/7etsuo/anvil)
   > Anvil — agent-native multi-genre game engine for AI coding agents
 
+### [AabyssZG](https://github.com/AabyssZG)
+- 🌟 👤 [AabyssZG](https://github.com/AabyssZG) Starred [3516634930/Payloader](https://github.com/3516634930/Payloader)
+  > 渗透测试Payload速查平台 | Pentest Payload Quick Reference | XSS/SQLi/SSRF/RCE | React+TypeScript
+
+### [AbhiTheModder](https://github.com/AbhiTheModder)
+- 🌟 👤 [AbhiTheModder](https://github.com/AbhiTheModder) Starred [facebook/astryx](https://github.com/facebook/astryx)
+  > An open source design system that's fully customizable and agent ready
+
 ### [Ackites](https://github.com/Ackites)
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
@@ -85,6 +93,7 @@
 - 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [android-generic/external_llvm-project](https://github.com/android-generic/external_llvm-project) to [Nredroid/external_llvm-project](https://github.com/Nredroid/external_llvm-project)
 - 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [WayDroid-ATV/android_external_libdrm](https://github.com/WayDroid-ATV/android_external_libdrm) to [ColdWindScholar/android_external_libdrm](https://github.com/ColdWindScholar/android_external_libdrm)
 - 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [WayDroid-ATV/android_external_libdrm](https://github.com/WayDroid-ATV/android_external_libdrm) to [Nredroid/android_external_libdrm](https://github.com/Nredroid/android_external_libdrm)
+- 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [LineageOS/android_external_libevdev](https://github.com/LineageOS/android_external_libevdev) to [Nredroid/android_external_libevdev](https://github.com/Nredroid/android_external_libevdev)
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [floooh/chips](https://github.com/floooh/chips)
@@ -213,6 +222,8 @@
   > AgentGuard: Zero-Trust Security Foundation for AI Agents
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openclaw/shellbench](https://github.com/openclaw/shellbench)
   > The agent benchmark that scores the full stack — harness, config, and model — not just the LLM. Trac...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)
+  > Codex Dream Skin
 
 ### [PalmDevs](https://github.com/PalmDevs)
 - 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [thomasbuilds/Spectre](https://github.com/thomasbuilds/Spectre)
@@ -269,6 +280,10 @@
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [timscriptov/ApkEditor-Release](https://github.com/timscriptov/ApkEditor-Release)
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [squallopen/superpowers-zh-adapters](https://github.com/squallopen/superpowers-zh-adapters)
   > 为 Cline、Codex、Claude Code、Droid、OpenCode、CodeBuddy 和 ZCode 提供 obra/superpowers 的中文友好适配，支持中文触发、中文文档输出...
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
+  > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [AAnything001/GPT-5.6-Instruct-GPT-5.5-Codex-Claude-Cursor](https://github.com/AAnything001/GPT-5.6-Instruct-GPT-5.5-Codex-Claude-Cursor)
+  > 一键破甲客户端 Codex/Claude Code/Cursor 破甲逆向工具｜没错就是你想的：CTF 渗透｜GPT-5.6-Instruct / GPT-5.5｜AI 编程、会话恢复、上下文恢复、源...
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne)
@@ -450,13 +465,15 @@
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-### [dwisiswant0](https://github.com/dwisiswant0)
-- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
-  > 176 vulnerabilities in Samsung preinstalled Android apps
+### [doodlewind](https://github.com/doodlewind)
+- 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [LemonHX/Xmas.JS](https://github.com/LemonHX/Xmas.JS)
+  > Xmas.JS is a lightweight, high-performance JavaScript/TypeScript runtime
 
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [kernelwernel/llarm](https://github.com/kernelwernel/llarm)
   > ARM emulator, assembler, and disassembler libraries/tools
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [starfallreverie/tsundrain](https://github.com/starfallreverie/tsundrain)
+  > external discord token grabber via process memory scanning
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [Picrew/ConStory-Bench](https://github.com/Picrew/ConStory-Bench)
@@ -578,6 +595,24 @@
   > usermode thread hijacking detection via working set page fault monitoring
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [confidential-dot-ai/c8s](https://github.com/confidential-dot-ai/c8s) to [gmh5225/c8s](https://github.com/gmh5225/c8s)
   > c8s is confidential Kubernetes. It runs k8s workloads confidentially and verifiably in Trusted Execu...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [toneillcodes/windows-process-injection](https://github.com/toneillcodes/windows-process-injection) to [gmh5225/windows-process-injection](https://github.com/gmh5225/windows-process-injection)
+  > A collection of techniques for process injection on Windows
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [guoxing2024/magicmida-rs](https://github.com/guoxing2024/magicmida-rs) to [gmh5225/magicmida-rs](https://github.com/gmh5225/magicmida-rs)
+  > Themida v3 x64 automatic unpacker — Rust reimplementation of Hendi48/Magicmida (Pascal). Deletes she...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [AnarchDevelopment/aegledll](https://github.com/AnarchDevelopment/aegledll) to [gmh5225/aegledll](https://github.com/gmh5225/aegledll)
+  > Internal Minecraft client (DLL) with ImGui overlay, hooks, and modular system
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Sutaigne/alibi](https://github.com/Sutaigne/alibi) to [gmh5225/alibi](https://github.com/gmh5225/alibi)
+  > Someone thinks you're cheating? Prove them wrong. One read-only scan, four report files on your Desk...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NoobDigital/react-native-shieldscan](https://github.com/NoobDigital/react-native-shieldscan) to [gmh5225/react-native-shieldscan](https://github.com/gmh5225/react-native-shieldscan)
+  > Instant device integrity + screen protection for React Native. Detect root/jailbreak, Frida, debugge...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ProwlEngine/Prowl](https://github.com/ProwlEngine/Prowl) to [gmh5225/Prowl](https://github.com/gmh5225/Prowl)
+  > An Open Source C# 3D Game Engine under MIT license, inspired by Unity and featuring a complete edito...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mabbcoll13/xposed-module-kit](https://github.com/mabbcoll13/xposed-module-kit) to [gmh5225/xposed-module-kit](https://github.com/gmh5225/xposed-module-kit)
+  > Xposed/LSPosed module development kit: reusable hook templates, Gradle build config, a root-detectio...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [fmc999/GTA5-DMA-CHEAT](https://github.com/fmc999/GTA5-DMA-CHEAT) to [gmh5225/GTA5-DMA-CHEAT](https://github.com/gmh5225/GTA5-DMA-CHEAT)
+  > 一个基于 DMA（直接内存访问）技术的 GTA5 游戏修改工具，支持GTA5 和 GTA5 Enhanced 版本。
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) to [gmh5225/reflect-open](https://github.com/gmh5225/reflect-open)
+  > Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
 
 ### [guiying712](https://github.com/guiying712)
 - 🌟 👤 [guiying712](https://github.com/guiying712) Starred [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS)
@@ -734,6 +769,10 @@
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton)
   > Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your re...
 
+### [merces](https://github.com/merces)
+- 🌟 👤 [merces](https://github.com/merces) Starred [fizzyizzy05/binary](https://github.com/fizzyizzy05/binary)
+  > Small and simple app to convert numbers to a different base.
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
   > Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists se...
@@ -821,6 +860,8 @@
   > CLI QuickTime AAC/ALAC encoder
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus)
   > [ HOBBY PROJECT ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you fin...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [AlanHuang99/Voyager](https://github.com/AlanHuang99/Voyager)
+  > Material Design 3 file browser for Android with SFTP, FTP, SMB, WebDAV support
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [weak1337/DetectTpmSpoofing](https://github.com/weak1337/DetectTpmSpoofing)
@@ -910,6 +951,10 @@
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [sekaiacg/CVE-2026-43499-popsicle](https://github.com/sekaiacg/CVE-2026-43499-popsicle)
   > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
 
+### [seritools](https://github.com/seritools)
+- 🌟 👤 [seritools](https://github.com/seritools) Starred [welcome-to-the-sunny-side/misa77](https://github.com/welcome-to-the-sunny-side/misa77)
+  > Ridiculously fast decompression at good ratios. misa77 is 1.5-3x faster than LZ4 for decompression o...
+
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [shibadogcap/dpgk](https://github.com/shibadogcap/dpgk)
   > ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ
@@ -923,6 +968,13 @@
   > Lightweight coding agent that runs in your terminal
 - 🌟 👤 [sotasan](https://github.com/sotasan) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+
+### [sothx](https://github.com/sothx)
+- 🌟 👤 [sothx](https://github.com/sothx) Starred [weinaoa/cebianlan_sidebar](https://github.com/weinaoa/cebianlan_sidebar)
+
+### [strobejb](https://github.com/strobejb)
+- 🌟 👤 [strobejb](https://github.com/strobejb) Starred [strobejb/q22](https://github.com/strobejb/q22)
+  > Catch22 Hex Editor
 
 ### [strongcourage](https://github.com/strongcourage)
 - 🌟 👤 [strongcourage](https://github.com/strongcourage) Starred [OTRF/Security-Datasets](https://github.com/OTRF/Security-Datasets)
@@ -1094,5 +1146,5 @@
 
 
 ---
-*最后更新于 2026-07-16 17:15:13 UTC*
+*最后更新于 2026-07-16 19:10:13 UTC*
 *历史记录保存在 `archive` 目录中。*
