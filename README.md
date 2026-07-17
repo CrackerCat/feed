@@ -94,6 +94,8 @@
 - 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [WayDroid-ATV/android_external_libdrm](https://github.com/WayDroid-ATV/android_external_libdrm) to [ColdWindScholar/android_external_libdrm](https://github.com/ColdWindScholar/android_external_libdrm)
 - 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [WayDroid-ATV/android_external_libdrm](https://github.com/WayDroid-ATV/android_external_libdrm) to [Nredroid/android_external_libdrm](https://github.com/Nredroid/android_external_libdrm)
 - 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [LineageOS/android_external_libevdev](https://github.com/LineageOS/android_external_libevdev) to [Nredroid/android_external_libevdev](https://github.com/Nredroid/android_external_libevdev)
+- 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [Droid-VM/libvncserver](https://github.com/Droid-VM/libvncserver) to [Nredroid/libvncserver](https://github.com/Nredroid/libvncserver)
+  > VNC Server for Android (crosvm)
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [floooh/chips](https://github.com/floooh/chips)
@@ -284,6 +286,18 @@
   > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [AAnything001/GPT-5.6-Instruct-GPT-5.5-Codex-Claude-Cursor](https://github.com/AAnything001/GPT-5.6-Instruct-GPT-5.5-Codex-Claude-Cursor)
   > 一键破甲客户端 Codex/Claude Code/Cursor 破甲逆向工具｜没错就是你想的：CTF 渗透｜GPT-5.6-Instruct / GPT-5.5｜AI 编程、会话恢复、上下文恢复、源...
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [countbot-ai/CountBot](https://github.com/countbot-ai/CountBot)
+  > 更适配中文用户的轻量开源AI Agent | 国产大模型Coding plan支持 | 兼容OpenClaw Skills生态| 已接入微信ClawBot/微博龙虾/飞书/钉钉/QQ/小智AI/Tel...
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [OscarYi9527/codex_proxy](https://github.com/OscarYi9527/codex_proxy)
+  > 一个能让codex自动切换国产模型的脚本
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [git-liu835/codex-cn-bridge](https://github.com/git-liu835/codex-cn-bridge)
+  > 一个让新版codex用国产模型的工具，目前适配国内主流模型，编程没有问题，codex cil,codex桌面，vs插件都可以
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [zouyuxuan122/ZX-code](https://github.com/zouyuxuan122/ZX-code)
+  > 一键登录免费使用 DeepSeek/GLM/Kimi/通义/MiniMax 国产大模型（免API Key），可用于 AI 编程。内置 AI 桌宠、九宫格工作台、长期记忆、技能进化引擎、定时Agent、...
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [hwttop5/tabbit2api](https://github.com/hwttop5/tabbit2api)
+  > 一个本地网关，把 Tabbit Web Chat 能力桥接成 API 给外部调用，白嫖最新的大模型 GPT-5.5、 Opus-4.8 等。|  A local gateway that turns ...
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [chentianxiong123/freeLLM-web2Api2Mcp](https://github.com/chentianxiong123/freeLLM-web2Api2Mcp)
+  > 把 DeepSeek 网页端免费对话转换为 OpenAI Chat Completions API，供 Claude Code 作为后端模型
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne)
@@ -461,6 +475,10 @@
 - 🌟 👤 [darvincisec](https://github.com/darvincisec) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
   > 176 vulnerabilities in Samsung preinstalled Android apps
 
+### [dbalsom](https://github.com/dbalsom)
+- 🍴 👤 [dbalsom](https://github.com/dbalsom) Forked [MobyGamer/CGACompatibilityTester](https://github.com/MobyGamer/CGACompatibilityTester) to [dbalsom/CGACompatibilityTester](https://github.com/dbalsom/CGACompatibilityTester)
+  > The CGA Compatibility Tester: Tests ISA videocards for register-level compatibility with CGA
+
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
@@ -486,6 +504,10 @@
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [fpgasystems/Coyote](https://github.com/fpgasystems/Coyote)
   > Framework providing operating system abstractions and a range of shared networking and memory servic...
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [eventphone/guru3](https://github.com/eventphone/guru3)
+  > Generic User Registration Utility v3
 
 ### [evdenis](https://github.com/evdenis)
 - 🌟 👤 [evdenis](https://github.com/evdenis) Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
@@ -725,6 +747,8 @@
 ### [kurogai](https://github.com/kurogai)
 - 🌟 👤 [kurogai](https://github.com/kurogai) Starred [Hackndo/pyGPOAbuse](https://github.com/Hackndo/pyGPOAbuse)
   > Partial python implementation of SharpGPOAbuse
+- 🌟 👤 [kurogai](https://github.com/kurogai) Starred [0x4D-5A/Invoke-SeRestoreAbuse](https://github.com/0x4D-5A/Invoke-SeRestoreAbuse)
+  > SeRestorePrivilege priv esc
 
 ### [la0s](https://github.com/la0s)
 - 🌟 👤 [la0s](https://github.com/la0s) Starred [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook)
@@ -806,6 +830,10 @@
 - 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown)
   > Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
 
+### [moyada](https://github.com/moyada)
+- 🌟 👤 [moyada](https://github.com/moyada) Starred [Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish)
+  > An end-to-end production workspace for AI-generated short dramas. From script input to structured st...
+
 ### [mstfknn](https://github.com/mstfknn)
 - 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [mstfknn/sast-skills](https://github.com/mstfknn/sast-skills)
   > Collection of agent skills that turn your AI coder into a SAST scanner
@@ -865,6 +893,8 @@
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [weak1337/DetectTpmSpoofing](https://github.com/weak1337/DetectTpmSpoofing)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [MrTiz/CET-Enum-CallStack-Spoofer](https://github.com/MrTiz/CET-Enum-CallStack-Spoofer)
+  > A Proof of Concept demonstrating CET-compliant callstack spoofing in Rust. It leverages Windows Thre...
 
 ### [pplux](https://github.com/pplux)
 - 🌟 👤 [pplux](https://github.com/pplux) Starred [kraptor/dotfiles](https://github.com/kraptor/dotfiles)
@@ -936,6 +966,8 @@
   > Intel / AMD CPU Internals
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [Splitx12/AetherVisor](https://github.com/Splitx12/AetherVisor)
   > Memory hacking library powered by AMD SVM
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [zer0condition/Ophion](https://github.com/zer0condition/Ophion)
+  > Stealth-focused Intel VT-x hypervisor (EAC/BE/ACs/AVs).
 
 ### [safe6Sec](https://github.com/safe6Sec)
 - 🍴 👤 [safe6Sec](https://github.com/safe6Sec) Forked [pyroxenites/Nextjs_RCE_Exploit_Tool](https://github.com/pyroxenites/Nextjs_RCE_Exploit_Tool) to [safe6Sec/Nextjs_RCE_Exploit_Tool](https://github.com/safe6Sec/Nextjs_RCE_Exploit_Tool)
@@ -944,6 +976,8 @@
 ### [sakana164](https://github.com/sakana164)
 - 🌟 👤 [sakana164](https://github.com/sakana164) Starred [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi)
   > 纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源
+- 🌟 👤 [sakana164](https://github.com/sakana164) Starred [cpulxb/WSL-Image-Clipboard-Helper](https://github.com/cpulxb/WSL-Image-Clipboard-Helper)
+  > 该工具用于在 Windows 中配合 WSL 环境下的 Claude Code、CodeX、OpenCode等 AI 工具，快速保存剪贴板图片并将其转换为 WSL 路径，方便粘贴给 AI 读取。Thi...
 
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🍴 👤 [sekaiacg](https://github.com/sekaiacg) Forked [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle) to [sekaiacg/CVE-2026-43499-popsicle](https://github.com/sekaiacg/CVE-2026-43499-popsicle)
@@ -987,6 +1021,12 @@
   > Code and implementation guidelines for the paper Counting Anything. Project Page: https://mengqi-lei...
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
+  > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
+
+### [subat0mik](https://github.com/subat0mik)
+- 🌟 👤 [subat0mik](https://github.com/subat0mik) Starred [SpecterOps/Jailbreaker-CE](https://github.com/SpecterOps/Jailbreaker-CE)
+  > Jailbreaker is a local evaluation tool for testing chatbot and agent-style systems against jailbreak...
 
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2)
@@ -1146,5 +1186,5 @@
 
 
 ---
-*最后更新于 2026-07-16 19:10:13 UTC*
+*最后更新于 2026-07-16 22:09:18 UTC*
 *历史记录保存在 `archive` 目录中。*
