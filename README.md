@@ -19,6 +19,10 @@
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)
   > Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
+### [Ch0pin](https://github.com/Ch0pin)
+- 🌟 👤 [Ch0pin](https://github.com/Ch0pin) Starred [lautarovculic/frida-ipa-extract](https://github.com/lautarovculic/frida-ipa-extract)
+  > Robust Frida-based tool to dump decrypted iOS apps as .ipa from a jailbroken device supports App Sto...
+
 ### [D4Vinci](https://github.com/D4Vinci)
 - 🌟 👤 [D4Vinci](https://github.com/D4Vinci) Starred [Skyvern-AI/rustwright](https://github.com/Skyvern-AI/rustwright)
   > Playwright's API on a Rust CDP engine — Chromium browser automation for Python & Node, no driver sub...
@@ -26,6 +30,10 @@
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [TeamWheelWizard/WheelWizard](https://github.com/TeamWheelWizard/WheelWizard)
   > WheelWizard, Retro Rewind Launcher
+
+### [Dump-GUY](https://github.com/Dump-GUY)
+- 🍴 👤 [Dump-GUY](https://github.com/Dump-GUY) Forked [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP) to [Dump-GUY/dnSpy.Extension.MCP](https://github.com/Dump-GUY/dnSpy.Extension.MCP)
+  > MCP extension for dnSpy.
 
 ### [Felix3322](https://github.com/Felix3322)
 - 🌟 👤 [Felix3322](https://github.com/Felix3322) Starred [Felix3322/PotPlayer_ChatGPT_Translate](https://github.com/Felix3322/PotPlayer_ChatGPT_Translate)
@@ -67,6 +75,13 @@
 ### [LanBaiCode](https://github.com/LanBaiCode)
 - 🌟 👤 [LanBaiCode](https://github.com/LanBaiCode) Starred [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus)
   > Self-hosted AI gateway monitoring — track requests, cost, failures, quota, and account health for CP...
+
+### [LasCC](https://github.com/LasCC)
+- 🌟 👤 [LasCC](https://github.com/LasCC) Starred [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal)
+
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [miniyu157/lina](https://github.com/miniyu157/lina)
+  > lina = 在 Android 上运行真实 Linux 发行版的最薄实现层。以 chroot 为核心，100%原生性能
 
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [Ylarod/Florida](https://github.com/Ylarod/Florida)
@@ -143,9 +158,17 @@
 - 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
   > 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them...
 
+### [dzxpert](https://github.com/dzxpert)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [duneanalytics/skills](https://github.com/duneanalytics/skills)
+  > Agent skills
+
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp)
   > An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, ...
+
+### [eltavine](https://github.com/eltavine)
+- 🌟 👤 [eltavine](https://github.com/eltavine) Starred [ShareX/ShareX](https://github.com/ShareX/ShareX)
+  > ShareX is a free and open-source application that enables users to capture or record any area of the...
 
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
@@ -160,6 +183,12 @@
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox)
   > The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
+  > A batteries-included framework for building web apps
+
+### [gamelaster](https://github.com/gamelaster)
+- 🌟 👤 [gamelaster](https://github.com/gamelaster) Starred [kjanat/kp2bw](https://github.com/kjanat/kp2bw)
+  > Python based KeePass to Bitwarden converter
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sh1ftd/dma-speedtest-memflow-rs](https://github.com/sh1ftd/dma-speedtest-memflow-rs) to [gmh5225/dma-speedtest-memflow-rs](https://github.com/gmh5225/dma-speedtest-memflow-rs)
@@ -215,9 +244,9 @@
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [landlock-lsm/rust-landlock](https://github.com/landlock-lsm/rust-landlock)
   > A Rust library for the Linux Landlock sandboxing feature
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
-  > Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links,...
+### [mstxq17](https://github.com/mstxq17)
+- 🌟 👤 [mstxq17](https://github.com/mstxq17) Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)
+  > CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow)
@@ -236,10 +265,22 @@
   > A batteries-included framework for building web apps
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [LoliLin/journal-android-multilingual](https://github.com/LoliLin/journal-android-multilingual)
   > 仅为使用中文的你做准备...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [GraceThings/bubble-notice-android](https://github.com/GraceThings/bubble-notice-android)
+  > A lightweight bubble notice tool for android phones, no "Root/Shizuku" required.
+
+### [nuta](https://github.com/nuta)
+- 🌟 👤 [nuta](https://github.com/nuta) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
+  > A batteries-included framework for building web apps
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config)
   > My entire infrastructure in a nix flake.
+
+### [rikushoney](https://github.com/rikushoney)
+- 🌟 👤 [rikushoney](https://github.com/rikushoney) Starred [nanopb/nanopb](https://github.com/nanopb/nanopb)
+  > Protocol Buffers with small code size
+- 🌟 👤 [rikushoney](https://github.com/rikushoney) Starred [PetteriAimonen/libfixmath](https://github.com/PetteriAimonen/libfixmath)
+  > Cross Platform Fixed Point Maths Library
 
 ### [rmuxnet](https://github.com/rmuxnet)
 - 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [ps4-linux/ps4-linux-loader](https://github.com/ps4-linux/ps4-linux-loader) to [rmuxnet/ps4-linux-loader](https://github.com/rmuxnet/ps4-linux-loader)
@@ -285,9 +326,17 @@
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [securitysonar/spark-hashcat](https://github.com/securitysonar/spark-hashcat)
   > An optimized, containerized Hashcat API service engineered specifically for NVIDIA Grace Blackwell (...
 
+### [urbanadventurer](https://github.com/urbanadventurer)
+- 🌟 👤 [urbanadventurer](https://github.com/urbanadventurer) Starred [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+  > Comfortably monitor your Internet traffic 🕵️‍♂️
+
 ### [vavkamil](https://github.com/vavkamil)
 - 🌟 👤 [vavkamil](https://github.com/vavkamil) Starred [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness)
   > Visa Vulnerability Agentic Harness
+
+### [wishihab](https://github.com/wishihab)
+- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [dietrichmax/colota](https://github.com/dietrichmax/colota)
+  > Colota - Android GPS Location tracker
 
 ### [wszxl516](https://github.com/wszxl516)
 - 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [fungos/cr](https://github.com/fungos/cr)
@@ -320,6 +369,8 @@
   > Offline folder protection and SRT subtitle utilities
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [NextWeb4/tips-prompt-manager](https://github.com/NextWeb4/tips-prompt-manager)
   > Offline prompt engineering manager for Windows
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [NextWeb4/folder-locker](https://github.com/NextWeb4/folder-locker)
+  > Offline folder locker with AES-256-GCM encrypted containers and optional Windows ACL quick lock
 
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🍴 👤 [yux1azhengye](https://github.com/yux1azhengye) Forked [oritera/Cairn](https://github.com/oritera/Cairn) to [yux1azhengye/Cairn](https://github.com/yux1azhengye/Cairn)
@@ -331,7 +382,11 @@
 - 🌟 👤 [yynxxxxx](https://github.com/yynxxxxx) Starred [encore22/pixel-gemini](https://github.com/encore22/pixel-gemini)
   > Pixel 10 Pro Google One Gemini Offer Bot - Telegram Interface
 
+### [zhanghecn](https://github.com/zhanghecn)
+- 🌟 👤 [zhanghecn](https://github.com/zhanghecn) Starred [shidenggui/easytrader](https://github.com/shidenggui/easytrader)
+  > 提供同花顺客户端/miniqmt/雪球的股票量化交易，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合
+
 
 ---
-*最后更新于 2026-07-18 11:03:06 UTC*
+*最后更新于 2026-07-18 13:14:37 UTC*
 *历史记录保存在 `archive` 目录中。*
