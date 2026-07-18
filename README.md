@@ -35,6 +35,10 @@
 - 🍴 👤 [Dump-GUY](https://github.com/Dump-GUY) Forked [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP) to [Dump-GUY/dnSpy.Extension.MCP](https://github.com/Dump-GUY/dnSpy.Extension.MCP)
   > MCP extension for dnSpy.
 
+### [Fansirsqi](https://github.com/Fansirsqi)
+- 🌟 👤 [Fansirsqi](https://github.com/Fansirsqi) Starred [Tomiya233/grok2api_new](https://github.com/Tomiya233/grok2api_new)
+  > 将 Grok 网页端转换为 OpenAI 兼容 API 的逆向代理服务，支持多账号轮询、真实多轮对话上下文、跨账号会话续接，附带可视化管理后台
+
 ### [Felix3322](https://github.com/Felix3322)
 - 🌟 👤 [Felix3322](https://github.com/Felix3322) Starred [Felix3322/PotPlayer_ChatGPT_Translate](https://github.com/Felix3322/PotPlayer_ChatGPT_Translate)
   > [support ollama/other model]【兼容ollama和其他模型】将任何具有OpenAI API调用方法的模型集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打...
@@ -68,6 +72,10 @@
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core)
   > Flagpack contains 250+ flag icons to easily use within your code project.
 
+### [KunMinX](https://github.com/KunMinX)
+- 🌟 👤 [KunMinX](https://github.com/KunMinX) Starred [Wangnov/codex-app-mirror](https://github.com/Wangnov/codex-app-mirror)
+  > 原样镜像官方 Codex 桌面应用:每 15 分钟探测、SHA256 可校验、国内直连下载、 Mac 可增量更新 | Verbatim, verifiable mirror of the offici...
+
 ### [Lakr233](https://github.com/Lakr233)
 - 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [claration/Impactor](https://github.com/claration/Impactor)
   > Feature rich iOS/tvOS sideloading application written in Rust.
@@ -82,6 +90,10 @@
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [miniyu157/lina](https://github.com/miniyu157/lina)
   > lina = 在 Android 上运行真实 Linux 发行版的最薄实现层。以 chroot 为核心，100%原生性能
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [ThomasNJordan/wp2shell](https://github.com/ThomasNJordan/wp2shell) to [Mr-xn/wp2shell](https://github.com/Mr-xn/wp2shell)
+  > A PoC for wp2shell 
 
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [Ylarod/Florida](https://github.com/Ylarod/Florida)
@@ -115,6 +127,9 @@
 - 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [asrtroh-netizen/OneIms](https://github.com/asrtroh-netizen/OneIms)
   > OneIms — Google Pixel IMS helper. Public README + APK releases only; source is not open.
 
+### [TonyChen56](https://github.com/TonyChen56)
+- 🌟 👤 [TonyChen56](https://github.com/TonyChen56) Starred [charlie947/social-media-skills](https://github.com/charlie947/social-media-skills)
+
 ### [Trijal08](https://github.com/Trijal08)
 - 🌟 👤 [Trijal08](https://github.com/Trijal08) Starred [samcday/pocketboot](https://github.com/samcday/pocketboot)
 
@@ -147,6 +162,10 @@
 - 🌟 👤 [atlas4381](https://github.com/atlas4381) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
   > Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible...
 
+### [bkerler](https://github.com/bkerler)
+- 🍴 👤 [bkerler](https://github.com/bkerler) Forked [Osmantic/ODS](https://github.com/Osmantic/ODS) to [bkerler/ODS](https://github.com/bkerler/ODS)
+  > Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows...
+
 ### [can1357](https://github.com/can1357)
 - 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
 
@@ -173,6 +192,8 @@
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [steipete/summarize](https://github.com/steipete/summarize)
+  > Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 
 ### [exp-sky](https://github.com/exp-sky)
 - 🌟 👤 [exp-sky](https://github.com/exp-sky) Starred [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase)
@@ -248,6 +269,10 @@
 - 🌟 👤 [mstxq17](https://github.com/mstxq17) Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)
   > CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
+### [muellan](https://github.com/muellan)
+- 🍴 👤 [muellan](https://github.com/muellan) Forked [orjangj/neotest-ctest](https://github.com/orjangj/neotest-ctest) to [muellan/neotest-ctest](https://github.com/muellan/neotest-ctest)
+  > A neotest adapter for C/C++ using CTest as a test runner.  Supports GoogleTest, Catch2 and doctest t...
+
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow)
   > Crowdsourcing better titles and thumbnails on YouTube
@@ -255,6 +280,10 @@
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [Yizhou147/Droidspaces-USB-Manager](https://github.com/Yizhou147/Droidspaces-USB-Manager)
   > USB 设备管理工具 - 自动检测和管理 USB 存储设备和 ADB 设备
+
+### [nblog](https://github.com/nblog)
+- 🌟 👤 [nblog](https://github.com/nblog) Starred [pd4d10/debugtron](https://github.com/pd4d10/debugtron)
+  > Debug in-production Electron based app
 
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [darbra/awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse)
@@ -271,10 +300,6 @@
 ### [nuta](https://github.com/nuta)
 - 🌟 👤 [nuta](https://github.com/nuta) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
   > A batteries-included framework for building web apps
-
-### [ravindu644](https://github.com/ravindu644)
-- 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config)
-  > My entire infrastructure in a nix flake.
 
 ### [rikushoney](https://github.com/rikushoney)
 - 🌟 👤 [rikushoney](https://github.com/rikushoney) Starred [nanopb/nanopb](https://github.com/nanopb/nanopb)
@@ -334,6 +359,12 @@
 - 🌟 👤 [vavkamil](https://github.com/vavkamil) Starred [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness)
   > Visa Vulnerability Agentic Harness
 
+### [wangshub](https://github.com/wangshub)
+- 🌟 👤 [wangshub](https://github.com/wangshub) Starred [ningzimu/image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill)
+  > Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint d...
+- 🌟 👤 [wangshub](https://github.com/wangshub) Starred [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)
+  > GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other...
+
 ### [wishihab](https://github.com/wishihab)
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [dietrichmax/colota](https://github.com/dietrichmax/colota)
   > Colota - Android GPS Location tracker
@@ -343,6 +374,10 @@
   > cr.h: A Simple C Hot Reload Header-only Library
 - 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
   > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
+
+### [wwh1004](https://github.com/wwh1004)
+- 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)
+  > Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery...
 
 ### [x-hw](https://github.com/x-hw)
 - 🌟 👤 [x-hw](https://github.com/x-hw) Starred [obra/superpowers](https://github.com/obra/superpowers)
@@ -388,5 +423,5 @@
 
 
 ---
-*最后更新于 2026-07-18 13:14:37 UTC*
+*最后更新于 2026-07-18 14:52:13 UTC*
 *历史记录保存在 `archive` 目录中。*
