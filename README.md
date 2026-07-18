@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [0xdea](https://github.com/0xdea)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [hackerschoice/tmux](https://github.com/hackerschoice/tmux)
+
 ### [7etsuo](https://github.com/7etsuo)
 - 🌟 👤 [7etsuo](https://github.com/7etsuo) Starred [tetsuo-ai/voice_clone_lab](https://github.com/tetsuo-ai/voice_clone_lab)
   > Clone a voice from a few minutes of audio and generate speech locally — Qwen3-TTS fine-tuning pipeli...
@@ -60,6 +63,14 @@
 ### [Lakr233](https://github.com/Lakr233)
 - 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [claration/Impactor](https://github.com/claration/Impactor)
   > Feature rich iOS/tvOS sideloading application written in Rust.
+
+### [LanBaiCode](https://github.com/LanBaiCode)
+- 🌟 👤 [LanBaiCode](https://github.com/LanBaiCode) Starred [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus)
+  > Self-hosted AI gateway monitoring — track requests, cost, failures, quota, and account health for CP...
+
+### [Seyud](https://github.com/Seyud)
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [Ylarod/Florida](https://github.com/Ylarod/Florida)
+  > 基础反检测 frida-server / Basic anti-detection frida-server
 
 ### [Siguza](https://github.com/Siguza)
 - 🌟 👤 [Siguza](https://github.com/Siguza) Starred [jprx/gxf-playground](https://github.com/jprx/gxf-playground)
@@ -128,15 +139,27 @@
 - 🌟 👤 [dekuan](https://github.com/dekuan) Starred [dekuan/py-apple-photos-large-file-finder](https://github.com/dekuan/py-apple-photos-large-file-finder)
   > Find large files in Apple Photos on macOS
 
+### [doodlewind](https://github.com/doodlewind)
+- 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
+  > 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them...
+
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp)
   > An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, ...
+
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
 ### [exp-sky](https://github.com/exp-sky)
 - 🌟 👤 [exp-sky](https://github.com/exp-sky) Starred [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase)
   > This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Crypto...
 - 🌟 👤 [exp-sky](https://github.com/exp-sky) Starred [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit)
   > Transparent and Efficient Financial Analysis
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox)
+  > The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control...
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sh1ftd/dma-speedtest-memflow-rs](https://github.com/sh1ftd/dma-speedtest-memflow-rs) to [gmh5225/dma-speedtest-memflow-rs](https://github.com/gmh5225/dma-speedtest-memflow-rs)
@@ -161,6 +184,10 @@
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview)
   > A simple Markdown viewer for reading .md files
+
+### [jiqiu2022](https://github.com/jiqiu2022)
+- 🌟 👤 [jiqiu2022](https://github.com/jiqiu2022) Starred [seakee/CPA-Manager](https://github.com/seakee/CPA-Manager)
+  > This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications a...
 
 ### [jpillora](https://github.com/jpillora)
 - 🚀 👤 [jpillora](https://github.com/jpillora) Made [jpillora/ciphers](https://github.com/jpillora/ciphers) public
@@ -207,6 +234,12 @@
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
   > A batteries-included framework for building web apps
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [LoliLin/journal-android-multilingual](https://github.com/LoliLin/journal-android-multilingual)
+  > 仅为使用中文的你做准备...
+
+### [ravindu644](https://github.com/ravindu644)
+- 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [tuxdotrs/nix-config](https://github.com/tuxdotrs/nix-config)
+  > My entire infrastructure in a nix flake.
 
 ### [rmuxnet](https://github.com/rmuxnet)
 - 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [ps4-linux/ps4-linux-loader](https://github.com/ps4-linux/ps4-linux-loader) to [rmuxnet/ps4-linux-loader](https://github.com/rmuxnet/ps4-linux-loader)
@@ -241,10 +274,16 @@
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [Seung-Hun-Lee/CAVIS](https://github.com/Seung-Hun-Lee/CAVIS)
   > Official code for CAVIS: Context-Aware Video Instance Segmentation
 
+### [surunzi](https://github.com/surunzi)
+- 🌟 👤 [surunzi](https://github.com/surunzi) Starred [evi0s/WMPFDebugger](https://github.com/evi0s/WMPFDebugger)
+  > Yet another WeChat miniapp debugger on Windows
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Zoeille/picsou-finance](https://github.com/Zoeille/picsou-finance)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
   > Run frontier AI locally.
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [securitysonar/spark-hashcat](https://github.com/securitysonar/spark-hashcat)
+  > An optimized, containerized Hashcat API service engineered specifically for NVIDIA Grace Blackwell (...
 
 ### [vavkamil](https://github.com/vavkamil)
 - 🌟 👤 [vavkamil](https://github.com/vavkamil) Starred [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness)
@@ -277,12 +316,22 @@
   > Codex Switch & Instruct desktop manager
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
   > The world's fastest apk (android)/java open source decompiler
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [NextWeb4/offline-utility-suite](https://github.com/NextWeb4/offline-utility-suite)
+  > Offline folder protection and SRT subtitle utilities
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [NextWeb4/tips-prompt-manager](https://github.com/NextWeb4/tips-prompt-manager)
+  > Offline prompt engineering manager for Windows
 
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🍴 👤 [yux1azhengye](https://github.com/yux1azhengye) Forked [oritera/Cairn](https://github.com/oritera/Cairn) to [yux1azhengye/Cairn](https://github.com/yux1azhengye/Cairn)
   > A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
+- 🍴 👤 [yux1azhengye](https://github.com/yux1azhengye) Forked [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc) to [yux1azhengye/wp2shell-pocD](https://github.com/yux1azhengye/wp2shell-pocD)
+  > wp2shell
+
+### [yynxxxxx](https://github.com/yynxxxxx)
+- 🌟 👤 [yynxxxxx](https://github.com/yynxxxxx) Starred [encore22/pixel-gemini](https://github.com/encore22/pixel-gemini)
+  > Pixel 10 Pro Google One Gemini Offer Bot - Telegram Interface
 
 
 ---
-*最后更新于 2026-07-18 09:24:53 UTC*
+*最后更新于 2026-07-18 11:03:06 UTC*
 *历史记录保存在 `archive` 目录中。*
