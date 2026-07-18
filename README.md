@@ -19,9 +19,19 @@
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)
   > Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
+### [BryanGIG](https://github.com/BryanGIG)
+- 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [MeroZemory/ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp)
+  > Multi-instance IDA Pro MCP server — analyze multiple binaries simultaneously through a single MCP en...
+
 ### [Ch0pin](https://github.com/Ch0pin)
 - 🌟 👤 [Ch0pin](https://github.com/Ch0pin) Starred [lautarovculic/frida-ipa-extract](https://github.com/lautarovculic/frida-ipa-extract)
   > Robust Frida-based tool to dump decrypted iOS apps as .ipa from a jailbroken device supports App Sto...
+
+### [Chordp](https://github.com/Chordp)
+- 🌟 👤 [Chordp](https://github.com/Chordp) Starred [waditu/czsc](https://github.com/waditu/czsc)
+  > 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易
+- 🌟 👤 [Chordp](https://github.com/Chordp) Starred [lyogavin/airllm](https://github.com/lyogavin/airllm)
+  > AirLLM 70B inference with single 4GB GPU
 
 ### [D4Vinci](https://github.com/D4Vinci)
 - 🌟 👤 [D4Vinci](https://github.com/D4Vinci) Starred [Skyvern-AI/rustwright](https://github.com/Skyvern-AI/rustwright)
@@ -30,6 +40,14 @@
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [TeamWheelWizard/WheelWizard](https://github.com/TeamWheelWizard/WheelWizard)
   > WheelWizard, Retro Rewind Launcher
+
+### [DerekSelander](https://github.com/DerekSelander)
+- 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [capitalone/VulnHunter](https://github.com/capitalone/VulnHunter)
+  > Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.
+
+### [Dispa1r](https://github.com/Dispa1r)
+- 🌟 👤 [Dispa1r](https://github.com/Dispa1r) Starred [AaronL725/grok-register](https://github.com/AaronL725/grok-register)
+  > 【已存活三个月+，无封号】批量注册稳定 Grok 账号，可直接导入 grok2api 和 cpa 使用，并且可以与cloudflare无限域名邮箱等联动。通过1000+账号连续注册测试。
 
 ### [Dump-GUY](https://github.com/Dump-GUY)
 - 🍴 👤 [Dump-GUY](https://github.com/Dump-GUY) Forked [KernelErr/dnSpy.Extension.MCP](https://github.com/KernelErr/dnSpy.Extension.MCP) to [Dump-GUY/dnSpy.Extension.MCP](https://github.com/Dump-GUY/dnSpy.Extension.MCP)
@@ -87,6 +105,10 @@
 ### [LasCC](https://github.com/LasCC)
 - 🌟 👤 [LasCC](https://github.com/LasCC) Starred [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal)
 
+### [M0Rf30](https://github.com/M0Rf30)
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [skyhook-io/radar](https://github.com/skyhook-io/radar)
+  > The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource...
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [miniyu157/lina](https://github.com/miniyu157/lina)
   > lina = 在 Android 上运行真实 Linux 发行版的最薄实现层。以 chroot 为核心，100%原生性能
@@ -94,6 +116,16 @@
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [ThomasNJordan/wp2shell](https://github.com/ThomasNJordan/wp2shell) to [Mr-xn/wp2shell](https://github.com/Mr-xn/wp2shell)
   > A PoC for wp2shell 
+
+### [No-Github](https://github.com/No-Github)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+  > Chrome DevTools for coding agents
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc)
+  > wp2shell full RCE chain
+
+### [Pengrey](https://github.com/Pengrey)
+- 🌟 👤 [Pengrey](https://github.com/Pengrey) Starred [foundry-rs/foundry](https://github.com/foundry-rs/foundry)
+  > Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written...
 
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [Ylarod/Florida](https://github.com/Ylarod/Florida)
@@ -154,6 +186,10 @@
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [kromych/disarm64](https://github.com/kromych/disarm64)
   > Instruction decoder generator
 
+### [astrelsky](https://github.com/astrelsky)
+- 🍴 👤 [astrelsky](https://github.com/astrelsky) Forked [amd/IRON](https://github.com/amd/IRON) to [astrelsky/IRON](https://github.com/astrelsky/IRON)
+  > Close-to-metal programming for AMD NPUs
+
 ### [atlas4381](https://github.com/atlas4381)
 - 🌟 👤 [atlas4381](https://github.com/atlas4381) Starred [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples)
   > This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driv...
@@ -169,6 +205,14 @@
 ### [can1357](https://github.com/can1357)
 - 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
 
+### [cctv18](https://github.com/cctv18)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [peigongdsd/nvmet-mdev-pci](https://github.com/peigongdsd/nvmet-mdev-pci)
+  > Serving vfio-mdev NVMe disk to virtual machine, backed by linux nvmet 
+
+### [dayt0n](https://github.com/dayt0n)
+- 🌟 👤 [dayt0n](https://github.com/dayt0n) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
 ### [dekuan](https://github.com/dekuan)
 - 🌟 👤 [dekuan](https://github.com/dekuan) Starred [dekuan/py-apple-photos-large-file-finder](https://github.com/dekuan/py-apple-photos-large-file-finder)
   > Find large files in Apple Photos on macOS
@@ -180,6 +224,8 @@
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [duneanalytics/skills](https://github.com/duneanalytics/skills)
   > Agent skills
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [xidenlz/Screenshot-Detection-Bypass](https://github.com/xidenlz/Screenshot-Detection-Bypass)
+  > This repository provides a simple project demonstrating how to hook BitBlt from gdi32.dll to capture...
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp)
@@ -206,6 +252,10 @@
   > The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control...
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
   > A batteries-included framework for building web apps
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [libLISA/Sem86](https://github.com/libLISA/Sem86)
+  > A full-system emulator without hard-coded semantics
 
 ### [gamelaster](https://github.com/gamelaster)
 - 🌟 👤 [gamelaster](https://github.com/gamelaster) Starred [kjanat/kp2bw](https://github.com/kjanat/kp2bw)
@@ -247,6 +297,10 @@
 - 🌟 👤 [jweny](https://github.com/jweny) Starred [SourByte05/Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC)
   > 🚀 2024-至今 1Day 漏洞 PoC 深度研究与复现归档。涵盖 OA、ERP、安防、数通、大模型及容器等 高价值资产漏洞，实战导向，助力安全研究与合规检测。
 
+### [mainfunx](https://github.com/mainfunx)
+- 🌟 👤 [mainfunx](https://github.com/mainfunx) Starred [lxh77721/k12-reg](https://github.com/lxh77721/k12-reg)
+  > 多线程全自动注册free 强上K12空间 gmail版
+
 ### [mcxiaoke](https://github.com/mcxiaoke)
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [zufuliu/notepad4](https://github.com/zufuliu/notepad4)
   > Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syn...
@@ -256,6 +310,12 @@
 ### [mingheyan](https://github.com/mingheyan)
 - 🌟 👤 [mingheyan](https://github.com/mingheyan) Starred [reqable/reqable-mcp-server](https://github.com/reqable/reqable-mcp-server)
   > Reqable MCP server is a command-line tool for connecting your AI to Reqable
+- 🌟 👤 [mingheyan](https://github.com/mingheyan) Starred [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)
+  > Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery...
+
+### [mo-xiaoxi](https://github.com/mo-xiaoxi)
+- 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [ZGC-LLM/zgc-llm.github.io](https://github.com/ZGC-LLM/zgc-llm.github.io)
+  > 中关村自主大模型产业联盟官方网站｜Next.js 16、React 19 与 Tailwind CSS 4
 
 ### [mos9527](https://github.com/mos9527)
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [postmemetic/Duke-RT](https://github.com/postmemetic/Duke-RT)
@@ -300,6 +360,14 @@
 ### [nuta](https://github.com/nuta)
 - 🌟 👤 [nuta](https://github.com/nuta) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
   > A batteries-included framework for building web apps
+
+### [pgarba](https://github.com/pgarba)
+- 🌟 👤 [pgarba](https://github.com/pgarba) Starred [postmemetic/Duke-RT](https://github.com/postmemetic/Duke-RT)
+  > Ray-traced rendering for the Raze engine, and, specifically, Duke 3D. Forked from the Build engine p...
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [keycloak/keycloak](https://github.com/keycloak/keycloak)
+  > Open Source Identity and Access Management For Modern Applications and Services
 
 ### [rikushoney](https://github.com/rikushoney)
 - 🌟 👤 [rikushoney](https://github.com/rikushoney) Starred [nanopb/nanopb](https://github.com/nanopb/nanopb)
@@ -350,6 +418,8 @@
   > Run frontier AI locally.
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [securitysonar/spark-hashcat](https://github.com/securitysonar/spark-hashcat)
   > An optimized, containerized Hashcat API service engineered specifically for NVIDIA Grace Blackwell (...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark--36tok-s](https://github.com/tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark--36tok-s)
+  > Recipe: GLM-5.2 (unpruned QuantTrio Int4-Int8Mix) at 200K ctx with MTP spec decode on a 4x NVIDIA DG...
 
 ### [urbanadventurer](https://github.com/urbanadventurer)
 - 🌟 👤 [urbanadventurer](https://github.com/urbanadventurer) Starred [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
@@ -365,9 +435,15 @@
 - 🌟 👤 [wangshub](https://github.com/wangshub) Starred [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)
   > GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other...
 
+### [wbaby](https://github.com/wbaby)
+- 🍴 👤 [wbaby](https://github.com/wbaby) Forked [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) to [wbaby/UniGetUI](https://github.com/wbaby/UniGetUI)
+  > UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a packag...
+
 ### [wishihab](https://github.com/wishihab)
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [dietrichmax/colota](https://github.com/dietrichmax/colota)
   > Colota - Android GPS Location tracker
+- 🌟 👤 [wishihab](https://github.com/wishihab) Starred [cassandra/home-information](https://github.com/cassandra/home-information)
+  > Home Information - Your home, your data, organized.
 
 ### [wszxl516](https://github.com/wszxl516)
 - 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [fungos/cr](https://github.com/fungos/cr)
@@ -406,12 +482,16 @@
   > Offline prompt engineering manager for Windows
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [NextWeb4/folder-locker](https://github.com/NextWeb4/folder-locker)
   > Offline folder locker with AES-256-GCM encrypted containers and optional Windows ACL quick lock
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [video-production-buddy/video-production-buddy](https://github.com/video-production-buddy/video-production-buddy)
+  > Video Production Buddy - AI Video Production Studio
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [NextWeb4/photo-metadata-editor](https://github.com/NextWeb4/photo-metadata-editor)
+  > Windows desktop EXIF/XMP/IPTC photo metadata editor powered by ExifTool.
 
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🍴 👤 [yux1azhengye](https://github.com/yux1azhengye) Forked [oritera/Cairn](https://github.com/oritera/Cairn) to [yux1azhengye/Cairn](https://github.com/yux1azhengye/Cairn)
   > A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
 - 🍴 👤 [yux1azhengye](https://github.com/yux1azhengye) Forked [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc) to [yux1azhengye/wp2shell-pocD](https://github.com/yux1azhengye/wp2shell-pocD)
-  > wp2shell
+  > wp2shell (CVE-2026-63030) - full RCE chain
 
 ### [yynxxxxx](https://github.com/yynxxxxx)
 - 🌟 👤 [yynxxxxx](https://github.com/yynxxxxx) Starred [encore22/pixel-gemini](https://github.com/encore22/pixel-gemini)
@@ -423,5 +503,5 @@
 
 
 ---
-*最后更新于 2026-07-18 14:52:13 UTC*
+*最后更新于 2026-07-18 17:01:45 UTC*
 *历史记录保存在 `archive` 目录中。*
