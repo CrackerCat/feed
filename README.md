@@ -92,6 +92,10 @@
 - 🌟 👤 [Gracker](https://github.com/Gracker) Starred [tobi/qmd](https://github.com/tobi/qmd)
   > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
 
+### [HackingLZ](https://github.com/HackingLZ)
+- 🚀 👤 [HackingLZ](https://github.com/HackingLZ) Made [HackingLZ/wp2shell_stock_chain](https://github.com/HackingLZ/wp2shell_stock_chain) public
+  > PoC for the WordPress 6.9/7.0 REST batch-route confusion and author__not_in SQL injection chain.
+
 ### [Hzllaga](https://github.com/Hzllaga)
 - 🌟 👤 [Hzllaga](https://github.com/Hzllaga) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
   > Skills for Design Engineers.
@@ -138,6 +142,8 @@
 ### [MhmRdd](https://github.com/MhmRdd)
 - 🌟 👤 [MhmRdd](https://github.com/MhmRdd) Starred [cberner/redb](https://github.com/cberner/redb)
   > An embedded key-value database in pure Rust
+- 🌟 👤 [MhmRdd](https://github.com/MhmRdd) Starred [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix)
+  > Safe Rust bindings to POSIX-ish APIs
 
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [miniyu157/lina](https://github.com/miniyu157/lina)
@@ -216,6 +222,10 @@
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 - 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [syncthing/syncthing](https://github.com/syncthing/syncthing)
   > Open Source Continuous File Synchronization
+
+### [ZacharyZcR](https://github.com/ZacharyZcR)
+- 🌟 👤 [ZacharyZcR](https://github.com/ZacharyZcR) Starred [The-OpenROAD-Project/OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD)
+  > OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.re...
 
 ### [anggrayudi](https://github.com/anggrayudi)
 - 🌟 👤 [anggrayudi](https://github.com/anggrayudi) Starred [silships/figma-cli](https://github.com/silships/figma-cli)
@@ -329,6 +339,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [karollooool/CVE-2026-50416-writeup-and-poc](https://github.com/karollooool/CVE-2026-50416-writeup-and-poc) to [gmh5225/CVE-2026-50416-writeup-and-poc](https://github.com/gmh5225/CVE-2026-50416-writeup-and-poc)
   > CVE-2026-50416: Windows 11 KASLR bypass
 
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [hamishivi/tmax](https://github.com/hamishivi/tmax)
+  > Training terminal-agents
+
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview)
   > A simple Markdown viewer for reading .md files
@@ -410,6 +424,14 @@
   > A lightweight bubble notice tool for android phones, no "Root/Shizuku" required.
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [jqssun/android-lineage-qemu](https://github.com/jqssun/android-lineage-qemu)
   > LineageOS for QEMU virtual machines
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+  > Easy to use OpenStreetMap editor for Android
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [streetcomplete/StreetMeasure](https://github.com/streetcomplete/StreetMeasure)
+  > Measure distances with AR
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [google-ar/arcore-android-sdk](https://github.com/google-ar/arcore-android-sdk)
+  > ARCore SDK for Android Studio
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [thomasbuilds/Spectre](https://github.com/thomasbuilds/Spectre)
+  > Radio frequency scanner with recon and offensive capabilities
 
 ### [nuta](https://github.com/nuta)
 - 🌟 👤 [nuta](https://github.com/nuta) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
@@ -546,6 +568,10 @@
   > Windows desktop EXIF/XMP/IPTC photo metadata editor powered by ExifTool.
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [NextWeb4/alias-cockpit](https://github.com/NextWeb4/alias-cockpit)
   > Windows local email-alias cockpit built with .NET and WinUI for alias generation, markers, local sto...
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [RepoStatSnaps/fullerene_structure](https://github.com/RepoStatSnaps/fullerene_structure)
+  > Reorganized XYZ structure library for fullerene isomers from C20 to C80 and selected hydrogenated fu...
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [NextWeb4/deepseek-translation-studio](https://github.com/NextWeb4/deepseek-translation-studio)
+  > Windows Python/PySide6 translation studio for DeepSeek Web/API workflows, SRT continuation, capture,...
 
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🍴 👤 [yux1azhengye](https://github.com/yux1azhengye) Forked [oritera/Cairn](https://github.com/oritera/Cairn) to [yux1azhengye/Cairn](https://github.com/yux1azhengye/Cairn)
@@ -563,5 +589,5 @@
 
 
 ---
-*最后更新于 2026-07-18 19:03:20 UTC*
+*最后更新于 2026-07-18 20:47:30 UTC*
 *历史记录保存在 `archive` 目录中。*
