@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [7etsuo](https://github.com/7etsuo)
+- 🌟 👤 [7etsuo](https://github.com/7etsuo) Starred [tetsuo-ai/voice_clone_lab](https://github.com/tetsuo-ai/voice_clone_lab)
+  > Clone a voice from a few minutes of audio and generate speech locally — Qwen3-TTS fine-tuning pipeli...
+
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [microsoft/agent-framework-go](https://github.com/microsoft/agent-framework-go)
   > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
@@ -33,6 +37,8 @@
   > Iceman Fork - Proxmark3
 
 ### [Gracker](https://github.com/Gracker)
+- 🚀 👤 [Gracker](https://github.com/Gracker) Made [Gracker/android-internals-knowledge-pack](https://github.com/Gracker/android-internals-knowledge-pack) public
+  > TUF-signed, versioned Android Internals knowledge snapshots for SmartPerfetto
 - 🌟 👤 [Gracker](https://github.com/Gracker) Starred [android/skills](https://github.com/android/skills)
 - 🌟 👤 [Gracker](https://github.com/Gracker) Starred [tobi/qmd](https://github.com/tobi/qmd)
   > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
@@ -51,6 +57,10 @@
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [Yummygum/flagpack-core](https://github.com/Yummygum/flagpack-core)
   > Flagpack contains 250+ flag icons to easily use within your code project.
 
+### [Lakr233](https://github.com/Lakr233)
+- 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [claration/Impactor](https://github.com/claration/Impactor)
+  > Feature rich iOS/tvOS sideloading application written in Rust.
+
 ### [Siguza](https://github.com/Siguza)
 - 🌟 👤 [Siguza](https://github.com/Siguza) Starred [jprx/gxf-playground](https://github.com/jprx/gxf-playground)
   > Experimenting with SPRR/ GXF in a Hypervisor.framework VM
@@ -58,6 +68,14 @@
 ### [Silentsoul04](https://github.com/Silentsoul04)
 - 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [TuYv/ccpm](https://github.com/TuYv/ccpm) to [Silentsoul04/ccpm](https://github.com/Silentsoul04/ccpm)
   > Claude Code Preset Manager — browse and activate community presets for Claude Code
+- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [DragonJAR/Android-Pentesting-Skill](https://github.com/DragonJAR/Android-Pentesting-Skill)
+  > Skill de Pentesting para Android
+- 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [DragonJAR/Android-Pentesting-Skill](https://github.com/DragonJAR/Android-Pentesting-Skill) to [Silentsoul04/Android-Pentesting-Skill](https://github.com/Silentsoul04/Android-Pentesting-Skill)
+  > Skill de Pentesting para Android
+- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [Ikuradachi/morphe-ai](https://github.com/Ikuradachi/morphe-ai)
+  > Morphe's AI-powered Android APK patching workspace — multi-agent pipeline for APK analysis, target h...
+- 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [Ikuradachi/morphe-ai](https://github.com/Ikuradachi/morphe-ai) to [Silentsoul04/morphe-ai](https://github.com/Silentsoul04/morphe-ai)
+  > Morphe's AI-powered Android APK patching workspace — multi-agent pipeline for APK analysis, target h...
 
 ### [Skulltrail192](https://github.com/Skulltrail192)
 - 🌟 👤 [Skulltrail192](https://github.com/Skulltrail192) Starred [OwnedByWuigi/NT](https://github.com/OwnedByWuigi/NT)
@@ -98,6 +116,10 @@
 ### [atlas4381](https://github.com/atlas4381)
 - 🌟 👤 [atlas4381](https://github.com/atlas4381) Starred [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples)
   > This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driv...
+- 🌟 👤 [atlas4381](https://github.com/atlas4381) Starred [AaronL725/grok-register](https://github.com/AaronL725/grok-register)
+  > 【已存活三个月+，无封号】批量注册稳定 Grok 账号，可直接导入 grok2api 和 cpa 使用，并且可以与cloudflare无限域名邮箱等联动。通过1000+账号连续注册测试。
+- 🌟 👤 [atlas4381](https://github.com/atlas4381) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
+  > Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible...
 
 ### [can1357](https://github.com/can1357)
 - 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
@@ -115,6 +137,30 @@
   > This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Crypto...
 - 🌟 👤 [exp-sky](https://github.com/exp-sky) Starred [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit)
   > Transparent and Efficient Financial Analysis
+
+### [gmh5225](https://github.com/gmh5225)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sh1ftd/dma-speedtest-memflow-rs](https://github.com/sh1ftd/dma-speedtest-memflow-rs) to [gmh5225/dma-speedtest-memflow-rs](https://github.com/gmh5225/dma-speedtest-memflow-rs)
+  > A Windows command-line tool for benchmarking DMA (Direct Memory Access) read/write speeds using the ...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [geeks-accelerator/ollama-herd](https://github.com/geeks-accelerator/ollama-herd) to [gmh5225/ollama-herd](https://github.com/gmh5225/ollama-herd)
+  > Local AI load balancer for Ollama fleets — auto-discovery, smart routing, OpenAI-compatible API, zer...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [416rehman/asus-bsitf-0-day-poc](https://github.com/416rehman/asus-bsitf-0-day-poc) to [gmh5225/asus-bsitf-0-day-poc](https://github.com/gmh5225/asus-bsitf-0-day-poc)
+  > PoC for CVE-2026-13585
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [QianMo/PBR-White-Paper](https://github.com/QianMo/PBR-White-Paper)
+  > ⚡️基于物理的渲染（PBR）白皮书 |  White Paper of Physically Based Rendering(PBR) 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [openclaw/release-workflows](https://github.com/openclaw/release-workflows) to [gmh5225/release-workflows](https://github.com/gmh5225/release-workflows)
+  > Reusable release workflows for the OpenClaw/steipete fleet: uniform draft → verify → publish pipelin...
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
+  > Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links,...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [misuka-renderer/misuka](https://github.com/misuka-renderer/misuka) to [gmh5225/misuka](https://github.com/gmh5225/misuka)
+  > misuka: A differentiable room acoustic renderer
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jtriley2p/uni-governance-seatbelt](https://github.com/jtriley2p/uni-governance-seatbelt) to [gmh5225/uni-governance-seatbelt](https://github.com/gmh5225/uni-governance-seatbelt)
+  > Make governance safer
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [karollooool/CVE-2026-50416-writeup-and-poc](https://github.com/karollooool/CVE-2026-50416-writeup-and-poc) to [gmh5225/CVE-2026-50416-writeup-and-poc](https://github.com/gmh5225/CVE-2026-50416-writeup-and-poc)
+  > CVE-2026-50416: Windows 11 KASLR bypass
+
+### [jianglin-code](https://github.com/jianglin-code)
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview)
+  > A simple Markdown viewer for reading .md files
 
 ### [jpillora](https://github.com/jpillora)
 - 🚀 👤 [jpillora](https://github.com/jpillora) Made [jpillora/ciphers](https://github.com/jpillora/ciphers) public
@@ -138,6 +184,10 @@
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [postmemetic/Duke-RT](https://github.com/postmemetic/Duke-RT)
   > Ray-traced rendering for the Raze engine, and, specifically, Duke 3D. Forked from the Build engine p...
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [landlock-lsm/rust-landlock](https://github.com/landlock-lsm/rust-landlock)
+  > A Rust library for the Linux Landlock sandboxing feature
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
   > Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links,...
@@ -158,6 +208,18 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
   > A batteries-included framework for building web apps
 
+### [rmuxnet](https://github.com/rmuxnet)
+- 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [ps4-linux/ps4-linux-loader](https://github.com/ps4-linux/ps4-linux-loader) to [rmuxnet/ps4-linux-loader](https://github.com/rmuxnet/ps4-linux-loader)
+  > Firmware Agnostic PS4 Linux Loader
+
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [AnalogCyberNuke/RE-Verse-2026-Slides](https://github.com/AnalogCyberNuke/RE-Verse-2026-Slides)
+  > Public archive of slides provided by Bas and James
+
+### [s5uishida](https://github.com/s5uishida)
+- 🍴 👤 [s5uishida](https://github.com/s5uishida) Forked [FDio/vpp](https://github.com/FDio/vpp) to [s5uishida/vpp](https://github.com/s5uishida/vpp)
+  > Mirror of VPP code base hosted at git.fd.io
+
 ### [serein-213](https://github.com/serein-213)
 - 🌟 👤 [serein-213](https://github.com/serein-213) Starred [Archmage83/tvapk](https://github.com/Archmage83/tvapk)
   > 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
@@ -171,6 +233,18 @@
   > Tool for Cheat Engine to collect information about Unreal Engine games
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [megvii-research/MOTR](https://github.com/megvii-research/MOTR)
   > [ECCV2022] MOTR: End-to-End Multiple-Object Tracking with TRansformer
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [NVlabs/MinVIS](https://github.com/NVlabs/MinVIS)
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [KainingYing/CTVIS](https://github.com/KainingYing/CTVIS)
+  > [ICCV 2023] CTVIS: Consistent Training for Online Video Instance Segmentation
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [Seung-Hun-Lee/LOMM](https://github.com/Seung-Hun-Lee/LOMM)
+  > Official code for Latest Object Memory Management for Temporally Consistent Video Instance Segmentat...
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [Seung-Hun-Lee/CAVIS](https://github.com/Seung-Hun-Lee/CAVIS)
+  > Official code for CAVIS: Context-Aware Video Instance Segmentation
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Zoeille/picsou-finance](https://github.com/Zoeille/picsou-finance)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
+  > Run frontier AI locally.
 
 ### [vavkamil](https://github.com/vavkamil)
 - 🌟 👤 [vavkamil](https://github.com/vavkamil) Starred [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness)
@@ -182,9 +256,17 @@
 - 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
   > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
 
+### [x-hw](https://github.com/x-hw)
+- 🌟 👤 [x-hw](https://github.com/x-hw) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
+
 ### [xiaolai](https://github.com/xiaolai)
 - 🌟 👤 [xiaolai](https://github.com/xiaolai) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+
+### [xsser](https://github.com/xsser)
+- 🌟 👤 [xsser](https://github.com/xsser) Starred [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)
+  > Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, a...
 
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [XD06/gemini-free-api](https://github.com/XD06/gemini-free-api)
@@ -196,7 +278,11 @@
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
   > The world's fastest apk (android)/java open source decompiler
 
+### [yux1azhengye](https://github.com/yux1azhengye)
+- 🍴 👤 [yux1azhengye](https://github.com/yux1azhengye) Forked [oritera/Cairn](https://github.com/oritera/Cairn) to [yux1azhengye/Cairn](https://github.com/yux1azhengye/Cairn)
+  > A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
+
 
 ---
-*最后更新于 2026-07-18 07:49:14 UTC*
+*最后更新于 2026-07-18 09:24:53 UTC*
 *历史记录保存在 `archive` 目录中。*
