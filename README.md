@@ -54,6 +54,10 @@
 - 🌟 👤 [Chordp](https://github.com/Chordp) Starred [yutiansut/QUANTAXIS](https://github.com/yutiansut/QUANTAXIS)
   > QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
 
+### [ColdWindScholar](https://github.com/ColdWindScholar)
+- 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [Nredroid/vendor_redroid](https://github.com/Nredroid/vendor_redroid)
+  > shared redroid modules
+
 ### [Colorful-glassblock](https://github.com/Colorful-glassblock)
 - 🍴 👤 [Colorful-glassblock](https://github.com/Colorful-glassblock) Forked [oven-sh/bun](https://github.com/oven-sh/bun) to [Colorful-glassblock/bun](https://github.com/Colorful-glassblock/bun)
   > Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -142,6 +146,10 @@
 - 🌟 👤 [Mati365](https://github.com/Mati365) Starred [brian8544/BlitzkriegPatch](https://github.com/brian8544/BlitzkriegPatch)
   > Allows Blitzkrieg 1 to run up to higher resolutions.
 
+### [MhmRdd](https://github.com/MhmRdd)
+- 🌟 👤 [MhmRdd](https://github.com/MhmRdd) Starred [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
+  > KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [stardustai/dataset-viewer](https://github.com/stardustai/dataset-viewer)
   > A sleek dataset viewer built entirely by AI Agent. Supports streaming large files from WebDAV, S3, S...
@@ -163,6 +171,8 @@
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [ShinMegamiBoson/OpenPlanter](https://github.com/ShinMegamiBoson/OpenPlanter)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [BuSung-dev/CVE-2026-43499-S25U](https://github.com/BuSung-dev/CVE-2026-43499-S25U)
+  > Standalone CVE-2026-43499 PoC for Galaxy S25 Ultra SM-S938N S938NKSUACZF1
 
 ### [Soulghost](https://github.com/Soulghost)
 - 🌟 👤 [Soulghost](https://github.com/Soulghost) Starred [weeeBox/mobile-system-design](https://github.com/weeeBox/mobile-system-design)
@@ -223,6 +233,10 @@
 - 🌟 👤 [andy0andy](https://github.com/andy0andy) Starred [RSSNext/Folo](https://github.com/RSSNext/Folo)
   > 🧡 Folo is the AI RSS Reader
 
+### [aviraxp](https://github.com/aviraxp)
+- 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)
+  > Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering,...
+
 ### [blasty](https://github.com/blasty)
 - 🍴 👤 [blasty](https://github.com/blasty) Forked [iksteen/shellglass](https://github.com/iksteen/shellglass) to [blasty/shellglass](https://github.com/blasty/shellglass)
   > Mirror a pty as live HTML in your browser or to an ssh client
@@ -230,6 +244,10 @@
 ### [buzzer-re](https://github.com/buzzer-re)
 - 🌟 👤 [buzzer-re](https://github.com/buzzer-re) Starred [keowu/sjcam](https://github.com/keowu/sjcam)
   > Reverse engineering research and custom firmware for the Allwinner V3-based   SJCAM SJ4000 Air, incl...
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
 
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc)
@@ -352,6 +370,9 @@
   > Local browser driver for trusted agents: control your existing Chromium browser through a small exte...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [n0rthl1ght/ahwt](https://github.com/n0rthl1ght/ahwt) to [gmh5225/ahwt](https://github.com/gmh5225/ahwt)
   > Another Hardening Windows Tool
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mrexodia/qaccessible-agent](https://github.com/mrexodia/qaccessible-agent) to [gmh5225/qaccessible-agent](https://github.com/gmh5225/qaccessible-agent)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [orange-cpp/omath](https://github.com/orange-cpp/omath) to [gmh5225/omath](https://github.com/gmh5225/omath)
+  > Cross-platform modern general purpose game/mods/cheats development framework written in C++23.
 
 ### [h0li3](https://github.com/h0li3)
 - 🌟 👤 [h0li3](https://github.com/h0li3) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
@@ -400,6 +421,16 @@
 ### [kingking888](https://github.com/kingking888)
 - 🌟 👤 [kingking888](https://github.com/kingking888) Starred [19h/idax](https://github.com/19h/idax)
   > A beautiful, idiomatic and less frustrating IDA C++ SDK.
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [Harmenszoon/ida-fast-mcp](https://github.com/Harmenszoon/ida-fast-mcp)
+  > MCP server for IDA Pro. Built for automated reverse engineering.
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [P4nda0s/kpm-panda-hide](https://github.com/P4nda0s/kpm-panda-hide)
+  > (kpm) (for Android hackers)Hide your frida and debuggers
+
+### [kkkbbb](https://github.com/kkkbbb)
+- 🍴 👤 [kkkbbb](https://github.com/kkkbbb) Forked [Numbersf/Action-Build](https://github.com/Numbersf/Action-Build) to [kkkbbb/Action-Build](https://github.com/kkkbbb/Action-Build)
+  > Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2....
+- 🍴 👤 [kkkbbb](https://github.com/kkkbbb) Forked [Numbersf/kernel_manifest](https://github.com/Numbersf/kernel_manifest) to [kkkbbb/kernel_manifest](https://github.com/kkkbbb/kernel_manifest)
+  > OnePlus Dynamic Kernel Manifest
 
 ### [lmk123](https://github.com/lmk123)
 - 🌟 👤 [lmk123](https://github.com/lmk123) Starred [alex8088/electron-vite](https://github.com/alex8088/electron-vite)
@@ -448,6 +479,8 @@
   > Offline MCP Server for Qt 4.8.4 documentation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [anomalyco/browser-control](https://github.com/anomalyco/browser-control)
   > Local browser driver for trusted agents: control your existing Chromium browser through a small exte...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)
+  > 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 
 ### [netanelc305](https://github.com/netanelc305)
 - 🌟 👤 [netanelc305](https://github.com/netanelc305) Starred [immich-app/immich](https://github.com/immich-app/immich)
@@ -465,12 +498,27 @@
 - 🌟 👤 [phith0n](https://github.com/phith0n) Starred [loc567/loc567](https://github.com/loc567/loc567)
   > loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com
 
+### [quangnh89](https://github.com/quangnh89)
+- 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [FiloSottile/age](https://github.com/FiloSottile/age)
+  > A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config opt...
+- 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [PBhadoo/Rapidleech](https://github.com/PBhadoo/Rapidleech)
+  > The Most Up to Date Rapidleech Fork
+
 ### [r0ysue](https://github.com/r0ysue)
 - 🌟 👤 [r0ysue](https://github.com/r0ysue) Starred [tiwe0/r0dump](https://github.com/tiwe0/r0dump)
 
 ### [ra66itmachine](https://github.com/ra66itmachine)
 - 🌟 👤 [ra66itmachine](https://github.com/ra66itmachine) Starred [otter1101/blogger-distiller](https://github.com/otter1101/blogger-distiller)
   > 【小红书抖音3万人看过的——博主蒸馏器】你研究了 N 个爆款博主，还是说不清任何一个的操作系统。输入博主的链接，直接蒸馏 TA 的认知和内容打法，装进你的 AI。Distill any blogger...
+
+### [rankalpha](https://github.com/rankalpha)
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [hello245m/free-stockdb](https://github.com/hello245m/free-stockdb)
+  > 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [shy3130/tickflow-stock-panel](https://github.com/shy3130/tickflow-stock-panel)
+  > TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个...
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [Travisun/Opptrix](https://github.com/Travisun/Opptrix)
+  > Opptrix — 大模型驱动的投研助手 | Open-source LLM research assistant for China A-shares. 40+ MCP tools, factor ...
+- 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [tickflow-org/tickflow](https://github.com/tickflow-org/tickflow)
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🍴 👤 [ravindu644](https://github.com/ravindu644) Forked [vc-teahouse/Baseband-guard](https://github.com/vc-teahouse/Baseband-guard) to [ravindu644/Baseband-guard](https://github.com/ravindu644/Baseband-guard)
@@ -497,6 +545,8 @@
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [trzsz/trzsz-go](https://github.com/trzsz/trzsz-go)
+  > trzsz-go is the go version of trzsz, makes all terminals that support local shell to support trzsz (...
 
 ### [surunzi](https://github.com/surunzi)
 - 🌟 👤 [surunzi](https://github.com/surunzi) Starred [klinecharts/KLineChart](https://github.com/klinecharts/KLineChart)
@@ -550,6 +600,10 @@
 - 🌟 👤 [yfe404](https://github.com/yfe404) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
   > agent multiplexer that lives in your terminal.
 
+### [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia)
+- 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
+  > PoCs and exploits for CVEs discovered by VEGA. 
+
 ### [zjlywjh001](https://github.com/zjlywjh001)
 - 🌟 👤 [zjlywjh001](https://github.com/zjlywjh001) Starred [kshipeng/MonkeyDev-Next](https://github.com/kshipeng/MonkeyDev-Next)
   > MonkeyDev-Next
@@ -570,5 +624,5 @@
 
 
 ---
-*最后更新于 2026-07-19 15:57:47 UTC*
+*最后更新于 2026-07-19 19:05:23 UTC*
 *历史记录保存在 `archive` 目录中。*
