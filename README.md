@@ -6,6 +6,8 @@
 
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [hackerschoice/tmux](https://github.com/hackerschoice/tmux)
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [cross-rs/cross](https://github.com/cross-rs/cross)
+  > “Zero setup” cross compilation and “cross testing” of Rust crates
 
 ### [7etsuo](https://github.com/7etsuo)
 - 🌟 👤 [7etsuo](https://github.com/7etsuo) Starred [tetsuo-ai/voice_clone_lab](https://github.com/tetsuo-ai/voice_clone_lab)
@@ -46,6 +48,24 @@
   > Modular and customizable Material Design UI components for Pyside
 - 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [sudoevolve/material-components-pyside](https://github.com/sudoevolve/material-components-pyside) to [ColdWindScholar/material-components-pyside](https://github.com/ColdWindScholar/material-components-pyside)
   > Modular and customizable Material Design UI components for Pyside
+- 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui)
+  > Microsoft's WinUI3 in Flutter.
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [JackTYM/FEX](https://github.com/JackTYM/FEX)
+  > A fast usermode x86 and x86-64 emulator for Arm64 Linux
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [4l3x777/wkhttp_lib](https://github.com/4l3x777/wkhttp_lib)
+  > Windows Kernel Http Library
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [0xflux/Hells-Hollow](https://github.com/0xflux/Hells-Hollow)
+  > Hells Hollow Windows 11 Rootkit technique to Hook the SSDT via Alt Syscalls
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [moyix/pdbparse](https://github.com/moyix/pdbparse)
+  > Python code to parse Microsoft PDB files
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [MatheuZSecurity/Furtex](https://github.com/MatheuZSecurity/Furtex)
+  > Post-exploitation and evasion research toolkit for Linux.
+
+### [Cxk4ng](https://github.com/Cxk4ng)
+- 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [gdbinit/MachOView](https://github.com/gdbinit/MachOView)
+  > MachOView fork
 
 ### [D4Vinci](https://github.com/D4Vinci)
 - 🌟 👤 [D4Vinci](https://github.com/D4Vinci) Starred [Skyvern-AI/rustwright](https://github.com/Skyvern-AI/rustwright)
@@ -135,6 +155,10 @@
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
   > If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 
+### [Markakd](https://github.com/Markakd)
+- 🍴 👤 [Markakd](https://github.com/Markakd) Forked [v8/v8](https://github.com/v8/v8) to [Markakd/v8](https://github.com/Markakd/v8)
+  > The official mirror of the V8 Git repository
+
 ### [MatheuZSecurity](https://github.com/MatheuZSecurity)
 - 🚀 👤 [MatheuZSecurity](https://github.com/MatheuZSecurity) Made [MatheuZSecurity/Furtex](https://github.com/MatheuZSecurity/Furtex) public
   > Post-exploitation and evasion research toolkit for Linux.
@@ -153,11 +177,21 @@
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [ThomasNJordan/wp2shell](https://github.com/ThomasNJordan/wp2shell) to [Mr-xn/wp2shell](https://github.com/Mr-xn/wp2shell)
   > A PoC for wp2shell 
 
+### [Nekmo](https://github.com/Nekmo)
+- 🌟 👤 [Nekmo](https://github.com/Nekmo) Starred [Nekmo/sphinx-quiz](https://github.com/Nekmo/sphinx-quiz)
+  > Sphinx extension + dark theme that builds a static, Kahoot-like quiz website from reStructuredText
+- 🌟 👤 [Nekmo](https://github.com/Nekmo) Starred [Nekmo/know-your-python](https://github.com/Nekmo/know-your-python)
+  > A Kahoot-like quiz site to test how well you know Python, built with sphinx-quiz
+
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   > Chrome DevTools for coding agents
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc)
-  > wp2shell (CVE-2026-63030) - full RCE chain
+  > wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [lemonade-sdk/llamacpp-rocm](https://github.com/lemonade-sdk/llamacpp-rocm) to [NyaMisty/llamacpp-rocmfpx-ci](https://github.com/NyaMisty/llamacpp-rocmfpx-ci)
+  > Fresh builds of llama.cpp with AMD ROCm™ 7 acceleration
 
 ### [Pengrey](https://github.com/Pengrey)
 - 🌟 👤 [Pengrey](https://github.com/Pengrey) Starred [foundry-rs/foundry](https://github.com/foundry-rs/foundry)
@@ -198,6 +232,8 @@
 ### [TGSAN](https://github.com/TGSAN)
 - 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [asrtroh-netizen/OneIms](https://github.com/asrtroh-netizen/OneIms)
   > OneIms — Google Pixel IMS helper. Public README + APK releases only; source is not open.
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [zinzied/cloudscraper](https://github.com/zinzied/cloudscraper)
+  > Enhanced Python module to bypass Cloudflare's anti-bot page.
 
 ### [TonyChen56](https://github.com/TonyChen56)
 - 🌟 👤 [TonyChen56](https://github.com/TonyChen56) Starred [charlie947/social-media-skills](https://github.com/charlie947/social-media-skills)
@@ -227,6 +263,9 @@
 - 🌟 👤 [ZacharyZcR](https://github.com/ZacharyZcR) Starred [The-OpenROAD-Project/OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD)
   > OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.re...
 
+### [ZephrFish](https://github.com/ZephrFish)
+- 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [schwartz1375/genai-security-training](https://github.com/schwartz1375/genai-security-training)
+
 ### [anggrayudi](https://github.com/anggrayudi)
 - 🌟 👤 [anggrayudi](https://github.com/anggrayudi) Starred [silships/figma-cli](https://github.com/silships/figma-cli)
 
@@ -242,6 +281,8 @@
   > Instruction decoder generator
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [Stack-Cairn/LiveAgent](https://github.com/Stack-Cairn/LiveAgent)
   > A fully functional AI Agent desktop client that supports Webui access and can be creatively customiz...
+- 🌟 👤 [asLody](https://github.com/asLody) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
+  > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
 
 ### [astrelsky](https://github.com/astrelsky)
 - 🍴 👤 [astrelsky](https://github.com/astrelsky) Forked [amd/IRON](https://github.com/amd/IRON) to [astrelsky/IRON](https://github.com/astrelsky/IRON)
@@ -284,6 +325,7 @@
   > Agent skills
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [xidenlz/Screenshot-Detection-Bypass](https://github.com/xidenlz/Screenshot-Detection-Bypass)
   > This repository provides a simple project demonstrating how to hook BitBlt from gdi32.dll to capture...
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [RandomStuffFromAI/IDA-VTable-Utility](https://github.com/RandomStuffFromAI/IDA-VTable-Utility)
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp)
@@ -342,6 +384,8 @@
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [hamishivi/tmax](https://github.com/hamishivi/tmax)
   > Training terminal-agents
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [markrussinovich/DoomPaint](https://github.com/markrussinovich/DoomPaint)
+  > Doom using MS Paint as a playable display by leveraging clipboard and paste. Includes Doom shareware...
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview)
@@ -363,6 +407,10 @@
 - 🌟 👤 [kurogai](https://github.com/kurogai) Starred [NTHSec/nxcspray](https://github.com/NTHSec/nxcspray)
   > Simple bash script to spray known credentials against multiple services with netexec
 
+### [luochuanyuewu](https://github.com/luochuanyuewu)
+- 🌟 👤 [luochuanyuewu](https://github.com/luochuanyuewu) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+
 ### [mainfunx](https://github.com/mainfunx)
 - 🌟 👤 [mainfunx](https://github.com/mainfunx) Starred [lxh77721/k12-reg](https://github.com/lxh77721/k12-reg)
   > 多线程全自动注册free 强上K12空间 gmail版
@@ -379,6 +427,10 @@
 - 🌟 👤 [mingheyan](https://github.com/mingheyan) Starred [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)
   > Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery...
 
+### [mistrmochov](https://github.com/mistrmochov)
+- 🍴 👤 [mistrmochov](https://github.com/mistrmochov) Forked [zlib-ng/zlib-ng](https://github.com/zlib-ng/zlib-ng) to [mistrmochov/zlib-ng](https://github.com/mistrmochov/zlib-ng)
+  > zlib replacement with optimizations for "next generation" systems.
+
 ### [mo-xiaoxi](https://github.com/mo-xiaoxi)
 - 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [ZGC-LLM/zgc-llm.github.io](https://github.com/ZGC-LLM/zgc-llm.github.io)
   > 中关村自主大模型产业联盟官方网站｜Next.js 16、React 19 与 Tailwind CSS 4
@@ -386,6 +438,10 @@
 ### [mos9527](https://github.com/mos9527)
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [postmemetic/Duke-RT](https://github.com/postmemetic/Duke-RT)
   > Ray-traced rendering for the Raze engine, and, specifically, Duke 3D. Forked from the Build engine p...
+
+### [moyada](https://github.com/moyada)
+- 🌟 👤 [moyada](https://github.com/moyada) Starred [adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium)
+  > An open source fingerprint browser based on Ungoogled Chromium. 指纹浏览器 隐私浏览器
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [landlock-lsm/rust-landlock](https://github.com/landlock-lsm/rust-landlock)
@@ -398,6 +454,8 @@
 ### [muellan](https://github.com/muellan)
 - 🍴 👤 [muellan](https://github.com/muellan) Forked [orjangj/neotest-ctest](https://github.com/orjangj/neotest-ctest) to [muellan/neotest-ctest](https://github.com/muellan/neotest-ctest)
   > A neotest adapter for C/C++ using CTest as a test runner.  Supports GoogleTest, Catch2 and doctest t...
+- 🍴 👤 [muellan](https://github.com/muellan) Forked [simonwinther/cppman.nvim](https://github.com/simonwinther/cppman.nvim) to [muellan/cppman.nvim](https://github.com/muellan/cppman.nvim)
+  > Neovim popup UI for cppman, with searchable C++ reference docs and in-buffer navigation
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow)
@@ -577,11 +635,15 @@
 - 🍴 👤 [yux1azhengye](https://github.com/yux1azhengye) Forked [oritera/Cairn](https://github.com/oritera/Cairn) to [yux1azhengye/Cairn](https://github.com/yux1azhengye/Cairn)
   > A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
 - 🍴 👤 [yux1azhengye](https://github.com/yux1azhengye) Forked [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc) to [yux1azhengye/wp2shell-pocD](https://github.com/yux1azhengye/wp2shell-pocD)
-  > wp2shell (CVE-2026-63030) - full RCE chain
+  > wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain
 
 ### [yynxxxxx](https://github.com/yynxxxxx)
 - 🌟 👤 [yynxxxxx](https://github.com/yynxxxxx) Starred [encore22/pixel-gemini](https://github.com/encore22/pixel-gemini)
   > Pixel 10 Pro Google One Gemini Offer Bot - Telegram Interface
+
+### [zboralski](https://github.com/zboralski)
+- 🌟 👤 [zboralski](https://github.com/zboralski) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+  > The open-source AI voice studio. Clone, dictate, create.
 
 ### [zhanghecn](https://github.com/zhanghecn)
 - 🌟 👤 [zhanghecn](https://github.com/zhanghecn) Starred [shidenggui/easytrader](https://github.com/shidenggui/easytrader)
@@ -589,5 +651,5 @@
 
 
 ---
-*最后更新于 2026-07-18 20:47:30 UTC*
+*最后更新于 2026-07-18 22:49:34 UTC*
 *历史记录保存在 `archive` 目录中。*
