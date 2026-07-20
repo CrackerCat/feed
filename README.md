@@ -37,6 +37,8 @@
   > The official source code repository for the calibre ebook manager
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [guaguastandup/zotero-pdf2zh](https://github.com/guaguastandup/zotero-pdf2zh)
   > PDF2zh for Zotero | Zotero PDF中文翻译插件
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [sunnypilot/sunnypilot](https://github.com/sunnypilot/sunnypilot)
+  > sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving e...
 
 ### [BruceLi20110501](https://github.com/BruceLi20110501)
 - 🌟 👤 [BruceLi20110501](https://github.com/BruceLi20110501) Starred [mssky9527/Pulsar_RAT](https://github.com/mssky9527/Pulsar_RAT)
@@ -69,11 +71,19 @@
 - 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [horsicq/XMachOViewer](https://github.com/horsicq/XMachOViewer)
   >  XMachOViewer is a Mach-O viewer for Windows, Linux and MacOS
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [frida/r2pharo](https://github.com/frida/r2pharo)
+  > Pharo/Smalltalk bindings for Frida
+
 ### [DeEpinGh0st](https://github.com/DeEpinGh0st)
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [icecliffs/nextwq](https://github.com/icecliffs/nextwq)
   > QQ小程序反编译逆向/微信小程序反编译逆向/红队攻击面分析/快速漏洞/检查/筛查
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc)
   > wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain
+
+### [DeLuks2006](https://github.com/DeLuks2006)
+- 🌟 👤 [DeLuks2006](https://github.com/DeLuks2006) Starred [syunnPC/qemu-system-ia64](https://github.com/syunnPC/qemu-system-ia64)
+  > A QEMU-based experimental IA-64 full system emulator
 
 ### [Decalogue](https://github.com/Decalogue)
 - 🌟 👤 [Decalogue](https://github.com/Decalogue) Starred [jinyangwu/SEED](https://github.com/jinyangwu/SEED)
@@ -185,10 +195,18 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [aelyo-softworks/AOTrino](https://github.com/aelyo-softworks/AOTrino)
   > Electron-like desktop apps on .NET AOT + WebView2, single-exe, Windows x64, front-end-framework-agno...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Litenova-Solutions/Fuse](https://github.com/Litenova-Solutions/Fuse)
+  > MCP server for .NET: typecheck AI agent edits against the compiler, resolve DI and route wiring from...
 
 ### [TGSAN](https://github.com/TGSAN)
 - 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
   > An an app that installs Sidestore on iOS 27, fully on-device 
+
+### [TheNetAdmin](https://github.com/TheNetAdmin)
+- 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)
+  > Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [Parassharmaa/agent-sandbox](https://github.com/Parassharmaa/agent-sandbox)
+  > A sandboxed execution environment for AI agents via WASM
 
 ### [TomKing062](https://github.com/TomKing062)
 - 🌟 👤 [TomKing062](https://github.com/TomKing062) Starred [R0rt1z2/lkpatcher](https://github.com/R0rt1z2/lkpatcher)
@@ -214,6 +232,10 @@
 - 🌟 👤 [WangWei-CM](https://github.com/WangWei-CM) Starred [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub)
   > RikkaHub is an Android APP that supports for multiple LLM providers.
 
+### [WitherOrNot](https://github.com/WitherOrNot)
+- 🌟 👤 [WitherOrNot](https://github.com/WitherOrNot) Starred [syunnPC/qemu-system-ia64](https://github.com/syunnPC/qemu-system-ia64)
+  > A QEMU-based experimental IA-64 full system emulator
+
 ### [X1r0z](https://github.com/X1r0z)
 - 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [atuinsh/atuin](https://github.com/atuinsh/atuin)
   > ✨ Making your shell magical
@@ -221,6 +243,10 @@
 ### [YuKongA](https://github.com/YuKongA)
 - 🍴 👤 [YuKongA](https://github.com/YuKongA) Forked [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle) to [YuKongA/CVE-2026-43499-PHK110](https://github.com/YuKongA/CVE-2026-43499-PHK110)
   > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
+
+### [YungRaj](https://github.com/YungRaj)
+- 🌟 👤 [YungRaj](https://github.com/YungRaj) Starred [qkaiser/qemu](https://github.com/qkaiser/qemu)
+  > Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU....
 
 ### [a1ive](https://github.com/a1ive)
 - 🌟 👤 [a1ive](https://github.com/a1ive) Starred [a1ive/FsRover](https://github.com/a1ive/FsRover)
@@ -260,6 +286,8 @@
   > GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootloader
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)
   > Codex Dream Skin
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [halucinator/halucinator](https://github.com/halucinator/halucinator)
+  > Main HALucinator branch
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
@@ -308,6 +336,8 @@
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [Forevka/canvas-word](https://github.com/Forevka/canvas-word)
   > A page-accurate, embeddable Word-class document editor for the browser.
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [vosen/ZLUDA](https://github.com/vosen/ZLUDA)
+  > CUDA on non-NVIDIA GPUs
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [Kirakun0328/text-to-vrma](https://github.com/Kirakun0328/text-to-vrma)
@@ -365,7 +395,7 @@
   > This is official repository of our paper "RFUAV: A Benchmark Dataset for Unmanned Aerial Vehicle Det...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [CybersecSpirit/CVE-2026-63030](https://github.com/CybersecSpirit/CVE-2026-63030) to [gmh5225/CVE-2026-63030](https://github.com/gmh5225/CVE-2026-63030)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jztan/qt4-doc-mcp-server](https://github.com/jztan/qt4-doc-mcp-server) to [gmh5225/qt4-doc-mcp-server](https://github.com/gmh5225/qt4-doc-mcp-server)
-  > Offline MCP Server for Qt 4.8.4 documentation
+  > Offline MCP Server for Qt 4.8, Qt 5, or Qt 6 documentation
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [anomalyco/browser-control](https://github.com/anomalyco/browser-control) to [gmh5225/browser-control](https://github.com/gmh5225/browser-control)
   > Local browser driver for trusted agents: control your existing Chromium browser through a small exte...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [n0rthl1ght/ahwt](https://github.com/n0rthl1ght/ahwt) to [gmh5225/ahwt](https://github.com/gmh5225/ahwt)
@@ -381,6 +411,11 @@
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [lautarovculic/ioscpy](https://github.com/lautarovculic/ioscpy)
   > Now you can mirror and control your jailbroken iPhone over USB
+
+### [hanbings](https://github.com/hanbings)
+- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [actionbook/rust-skills](https://github.com/actionbook/rust-skills)
+  > Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing
+- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [arcboxlabs/kernel](https://github.com/arcboxlabs/kernel)
 
 ### [hayasec](https://github.com/hayasec)
 - 🌟 👤 [hayasec](https://github.com/hayasec) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
@@ -476,7 +511,7 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [jztan/qt4-doc-mcp-server](https://github.com/jztan/qt4-doc-mcp-server) to [mrexodia/qt-doc-mcp](https://github.com/mrexodia/qt-doc-mcp)
-  > Offline MCP Server for Qt 4.8.4 documentation
+  > Offline MCP Server for Qt 4.8, Qt 5, or Qt 6 documentation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [anomalyco/browser-control](https://github.com/anomalyco/browser-control)
   > Local browser driver for trusted agents: control your existing Chromium browser through a small exte...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)
@@ -548,6 +583,9 @@
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [trzsz/trzsz-go](https://github.com/trzsz/trzsz-go)
   > trzsz-go is the go version of trzsz, makes all terminals that support local shell to support trzsz (...
 
+### [sjshb57](https://github.com/sjshb57)
+- 🚀 👤 [sjshb57](https://github.com/sjshb57) Made [TwitterArchiver/Moningmeng](https://github.com/TwitterArchiver/Moningmeng) public
+
 ### [surunzi](https://github.com/surunzi)
 - 🌟 👤 [surunzi](https://github.com/surunzi) Starred [klinecharts/KLineChart](https://github.com/klinecharts/KLineChart)
   > 📈Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile.（可高度自定义的轻...
@@ -555,6 +593,8 @@
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [tonyd2wild/MiniMax-M3-2x-DGX-Spark-36-tok-s](https://github.com/tonyd2wild/MiniMax-M3-2x-DGX-Spark-36-tok-s)
   > MiniMax-M3 (428B, no pruning) at 36 tok/s on 2× NVIDIA DGX Spark — W4A16 GPTQ + NVFP4 KV + EAGLE-3 s...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Orange-Cyberdefense/p3-loader](https://github.com/Orange-Cyberdefense/p3-loader)
+  > P³-Shellcode Loader is a loader that implements a code injection technique which leverages the Proce...
 
 ### [szdyg](https://github.com/szdyg)
 - 🍴 👤 [szdyg](https://github.com/szdyg) Forked [killvxk/llvm-msvc-ex](https://github.com/killvxk/llvm-msvc-ex) to [szdyg/llvm-msvc-ex](https://github.com/szdyg/llvm-msvc-ex)
@@ -604,6 +644,10 @@
 - 🌟 👤 [yizhiyonggangdexiaojia](https://github.com/yizhiyonggangdexiaojia) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
   > PoCs and exploits for CVEs discovered by VEGA. 
 
+### [zboralski](https://github.com/zboralski)
+- 🌟 👤 [zboralski](https://github.com/zboralski) Starred [polygraphene/gunyah-on-sd-guide](https://github.com/polygraphene/gunyah-on-sd-guide)
+  > A guide to use gunyah VM on Android snapdragon devices with crosvm
+
 ### [zjlywjh001](https://github.com/zjlywjh001)
 - 🌟 👤 [zjlywjh001](https://github.com/zjlywjh001) Starred [kshipeng/MonkeyDev-Next](https://github.com/kshipeng/MonkeyDev-Next)
   > MonkeyDev-Next
@@ -624,5 +668,5 @@
 
 
 ---
-*最后更新于 2026-07-19 19:05:23 UTC*
+*最后更新于 2026-07-19 21:52:27 UTC*
 *历史记录保存在 `archive` 目录中。*
