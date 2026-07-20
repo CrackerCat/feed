@@ -80,14 +80,12 @@
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [19h/chernobog](https://github.com/19h/chernobog)
   > chernobog is a Hex-Rays decompiler plugin that defeats Hikari LLVM obfuscation.
 
-### [Chordp](https://github.com/Chordp)
-- 🌟 👤 [Chordp](https://github.com/Chordp) Starred [Yu9191/wloc](https://github.com/Yu9191/wloc)
-  > 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
-
 ### [ColdWindScholar](https://github.com/ColdWindScholar)
 - 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [Shiro836/waydroid-nvidia](https://github.com/Shiro836/waydroid-nvidia) to [Nredroid/waydroid-nvidia](https://github.com/Nredroid/waydroid-nvidia)
   > GPU-accelerated Waydroid on the NVIDIA proprietary driver — container-native, no VM
 - 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
+- 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [compose-fluent/compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui)
+  > Fluent Design UI library for Compose Multiplatform
 
 ### [Colorful-glassblock](https://github.com/Colorful-glassblock)
 - 🌟 👤 [Colorful-glassblock](https://github.com/Colorful-glassblock) Starred [Colorful-glassblock/duchamp-root](https://github.com/Colorful-glassblock/duchamp-root)
@@ -96,6 +94,10 @@
 ### [DarkLineX](https://github.com/DarkLineX)
 - 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [jqssun/android-lineage-qemu](https://github.com/jqssun/android-lineage-qemu)
   > LineageOS for QEMU virtual machines
+
+### [DavidBuchanan314](https://github.com/DavidBuchanan314)
+- 🌟 👤 [DavidBuchanan314](https://github.com/DavidBuchanan314) Starred [raspberrypi/rpi-eeprom](https://github.com/raspberrypi/rpi-eeprom)
+  > Installation scripts and binaries for the Raspberry Pi 4 and Raspberry Pi 5 bootloader EEPROMs
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [LeapHeap/XBat](https://github.com/LeapHeap/XBat)
@@ -129,6 +131,10 @@
 ### [Fansirsqi](https://github.com/Fansirsqi)
 - 🌟 👤 [Fansirsqi](https://github.com/Fansirsqi) Starred [Git-creat7/grokRegister-cpa](https://github.com/Git-creat7/grokRegister-cpa)
   > Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传
+
+### [FeJQ](https://github.com/FeJQ)
+- 🌟 👤 [FeJQ](https://github.com/FeJQ) Starred [Dailin521/codex-provider-sync](https://github.com/Dailin521/codex-provider-sync)
+  > Synchronize Codex session provider metadata across rollout files and SQLite state.
 
 ### [FiYHer](https://github.com/FiYHer)
 - 🌟 👤 [FiYHer](https://github.com/FiYHer) Starred [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
@@ -166,6 +172,7 @@
 ### [L4ys](https://github.com/L4ys)
 - 🌟 👤 [L4ys](https://github.com/L4ys) Starred [19h/chernobog](https://github.com/19h/chernobog)
   > chernobog is a Hex-Rays decompiler plugin that defeats Hikari LLVM obfuscation.
+- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [wouijvziqy/Fastjson-JsonType-RCE-PoC](https://github.com/wouijvziqy/Fastjson-JsonType-RCE-PoC)
 
 ### [LabGuy94](https://github.com/LabGuy94)
 - 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [weak1337/DetectTpmSpoofing](https://github.com/weak1337/DetectTpmSpoofing)
@@ -180,6 +187,10 @@
 ### [Ls4ss](https://github.com/Ls4ss)
 - 🌟 👤 [Ls4ss](https://github.com/Ls4ss) Starred [mverschu/adwsdomaindump](https://github.com/mverschu/adwsdomaindump)
   > Active Directory information dumper via ADWS for evasion purposes.
+
+### [LucisUrbe](https://github.com/LucisUrbe)
+- 🌟 👤 [LucisUrbe](https://github.com/LucisUrbe) Starred [chentao1006/BrowSync](https://github.com/chentao1006/BrowSync)
+  > BrowSync is a cross-browser routing and sync hub for macOS. It unites Safari, all Chromium-based bro...
 
 ### [LunFengChen](https://github.com/LunFengChen)
 - 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
@@ -225,6 +236,12 @@
 ### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
 - 🍴 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Forked [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) to [Utility-Software-Collection/excalidraw](https://github.com/Utility-Software-Collection/excalidraw)
   > Virtual whiteboard for sketching hand-drawn like diagrams
+
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
+  > Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,...
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)
+  > Research and development (R&D) is crucial for the enhancement of industrial productivity, especially...
 
 ### [Natsume324](https://github.com/Natsume324)
 - 🌟 👤 [Natsume324](https://github.com/Natsume324) Starred [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
@@ -283,6 +300,10 @@
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [ElonJask/reqable-mcp](https://github.com/ElonJask/reqable-mcp)
   > MCP server for Reqable local capture data
 
+### [Silentsoul04](https://github.com/Silentsoul04)
+- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [wouijvziqy/Fastjson-JsonType-RCE-PoC](https://github.com/wouijvziqy/Fastjson-JsonType-RCE-PoC)
+- 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [wouijvziqy/Fastjson-JsonType-RCE-PoC](https://github.com/wouijvziqy/Fastjson-JsonType-RCE-PoC) to [Silentsoul04/Fastjson-JsonType-RCE-PoC](https://github.com/Silentsoul04/Fastjson-JsonType-RCE-PoC)
+
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
   > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
@@ -298,6 +319,7 @@
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🍴 👤 [SodaMilk233](https://github.com/SodaMilk233) Forked [luoyesiqiu/dpt-shell](https://github.com/luoyesiqiu/dpt-shell) to [SodaMilk233/dex-shell](https://github.com/SodaMilk233/dex-shell)
   > An android Dex protection shell implementation
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [MurasameCyan/GrokRegisterAgent](https://github.com/MurasameCyan/GrokRegisterAgent)
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
@@ -398,7 +420,7 @@
 
 ### [ashvardanian](https://github.com/ashvardanian)
 - 🌟 👤 [ashvardanian](https://github.com/ashvardanian) Starred [ashvardanian/JsonTape](https://github.com/ashvardanian/JsonTape)
-  > Minimalistic allocator-aware JSON parser in pure Rust
+  > Feature-rich allocator-aware JSON & JSON5 parser in pure Rust
 
 ### [atlas4381](https://github.com/atlas4381)
 - 🌟 👤 [atlas4381](https://github.com/atlas4381) Starred [weikaizhi4/sprd-dsu-patcher](https://github.com/weikaizhi4/sprd-dsu-patcher)
@@ -811,6 +833,10 @@
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5)
   > PlayStation 5 emulator for Windows
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ZimengXiong/Modelr](https://github.com/ZimengXiong/Modelr)
+  > Image to 3D on your Mac
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [unrooted/sandbox-shenanigans](https://github.com/unrooted/sandbox-shenanigans)
   > A showcase repo containing demo of a potential Windows Sandbox abuse
@@ -833,6 +859,8 @@
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [vladislav1983/V11_Dyson_BMS](https://github.com/vladislav1983/V11_Dyson_BMS)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [hgaiser/moonshine](https://github.com/hgaiser/moonshine)
+  > Headless streaming server for Moonlight clients, written in Rust.
 
 ### [nyaoouo](https://github.com/nyaoouo)
 - 🍴 👤 [nyaoouo](https://github.com/nyaoouo) Forked [DestinyItemManager/DIM](https://github.com/DestinyItemManager/DIM) to [nyaoouo/DIM](https://github.com/nyaoouo/DIM)
@@ -934,9 +962,17 @@
 - 🍴 👤 [startergo](https://github.com/startergo) Forked [Jazzzny/platform-uxp](https://github.com/Jazzzny/platform-uxp) to [startergo/platform-uxp](https://github.com/startergo/platform-uxp)
   > UXP with changes for Mac OS X 10.3, 10.4, 10.5, and 10.6
 
+### [strazzere](https://github.com/strazzere)
+- 🌟 👤 [strazzere](https://github.com/strazzere) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
+  > 176 vulnerabilities in Samsung preinstalled Android apps
+
 ### [su-vikas](https://github.com/su-vikas)
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [matthewdgreen/decipher](https://github.com/matthewdgreen/decipher)
   > An AI-enabled application for cracking ciphers
+
+### [thebabush](https://github.com/thebabush)
+- 🍴 👤 [thebabush](https://github.com/thebabush) Forked [gimli-rs/cpp_demangle](https://github.com/gimli-rs/cpp_demangle) to [thebabush/cpp_demangle](https://github.com/thebabush/cpp_demangle)
+  > A crate for demangling C++ symbols
 
 ### [thelicato](https://github.com/thelicato)
 - 🌟 👤 [thelicato](https://github.com/thelicato) Starred [mandiant/gopacket](https://github.com/mandiant/gopacket)
@@ -1022,10 +1058,16 @@
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
   > Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [Tencent/WeChatReading](https://github.com/Tencent/WeChatReading)
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [jorge-martinez-gil/similarity-ensemble](https://github.com/jorge-martinez-gil/similarity-ensemble)
+  > A comprehensive review of stacking methods for semantic similarity measurement
 
 ### [yaofeifly](https://github.com/yaofeifly)
 - 🌟 👤 [yaofeifly](https://github.com/yaofeifly) Starred [langflow-ai/langflow](https://github.com/langflow-ai/langflow)
   > Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+
+### [yfe404](https://github.com/yfe404)
+- 🌟 👤 [yfe404](https://github.com/yfe404) Starred [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding)
+  > AI coding jargon, explained in plain English.
 
 ### [yhy0](https://github.com/yhy0)
 - 🌟 👤 [yhy0](https://github.com/yhy0) Starred [yhy0/SecMentor](https://github.com/yhy0/SecMentor)
@@ -1057,5 +1099,5 @@
 
 
 ---
-*最后更新于 2026-07-20 15:49:29 UTC*
+*最后更新于 2026-07-20 18:02:22 UTC*
 *历史记录保存在 `archive` 目录中。*
