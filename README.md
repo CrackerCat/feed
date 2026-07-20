@@ -32,7 +32,7 @@
 - 🌟 👤 [AlexAltea](https://github.com/AlexAltea) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
   >  ggml speech-to-text inference for 16+ model families
 - 🚀 👤 [AlexAltea](https://github.com/AlexAltea) Made [AlexAltea/asmx](https://github.com/AlexAltea/asmx) public
-  > Multi-architecture assembly execution playground for web browsers
+  > Multi-architecture assembly execution playground
 
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [muscriptor/muscriptor](https://github.com/muscriptor/muscriptor)
@@ -139,6 +139,10 @@
 ### [FiYHer](https://github.com/FiYHer)
 - 🌟 👤 [FiYHer](https://github.com/FiYHer) Starred [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
   > The universal proxy platform
+
+### [HackingLZ](https://github.com/HackingLZ)
+- 🌟 👤 [HackingLZ](https://github.com/HackingLZ) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
+  > 🪅 Windows & Linux userspace emulator 
 
 ### [HappyMax0](https://github.com/HappyMax0)
 - 🌟 👤 [HappyMax0](https://github.com/HappyMax0) Starred [qianguyihao/Web](https://github.com/qianguyihao/Web)
@@ -341,6 +345,8 @@
   > Free Windows, Mac and Linux cleaner, scanner, and more.
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [arcships/light-ocr](https://github.com/arcships/light-ocr)
   > C++17 PP-OCRv6 small OCR core with an asynchronous Node-API adapter
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [scb-10x/typhoon-ocr](https://github.com/scb-10x/typhoon-ocr)
+  > An open-source OCR model for Thai, optimized for Thai document extraction.
 
 ### [Tornaco](https://github.com/Tornaco)
 - 🌟 👤 [Tornaco](https://github.com/Tornaco) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
@@ -422,6 +428,10 @@
 - 🌟 👤 [ashvardanian](https://github.com/ashvardanian) Starred [ashvardanian/JsonTape](https://github.com/ashvardanian/JsonTape)
   > Feature-rich allocator-aware JSON & JSON5 parser in pure Rust
 
+### [astrelsky](https://github.com/astrelsky)
+- 🌟 👤 [astrelsky](https://github.com/astrelsky) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
+  > Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other model...
+
 ### [atlas4381](https://github.com/atlas4381)
 - 🌟 👤 [atlas4381](https://github.com/atlas4381) Starred [weikaizhi4/sprd-dsu-patcher](https://github.com/weikaizhi4/sprd-dsu-patcher)
   > A web tool that can be used to patch the init of some Unisoc devices to remove DSU restrictions.
@@ -457,6 +467,10 @@
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Fratres-X-AI/JamBoy](https://github.com/Fratres-X-AI/JamBoy)
   > GPS-denied drone navigation layer: optical flow + offline map geo-match + EKF → MAVLink (sim-validat...
 
+### [carloscn](https://github.com/carloscn)
+- 🌟 👤 [carloscn](https://github.com/carloscn) Starred [rauc/rauc](https://github.com/rauc/rauc)
+  > Safe and secure software updates for embedded Linux
+
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [dqev/reicon](https://github.com/dqev/reicon)
   > Reicon — Open-Source Icon Library for Designers & Developers
@@ -491,6 +505,12 @@
 ### [darkskygit](https://github.com/darkskygit)
 - 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [google/oss-fuzz](https://github.com/google/oss-fuzz)
   > OSS-Fuzz - continuous fuzzing for open source software.
+
+### [dartcv](https://github.com/dartcv)
+- 🍴 👤 [dartcv](https://github.com/dartcv) Forked [zjyzip/AdClose](https://github.com/zjyzip/AdClose) to [dartcv/AdClose](https://github.com/dartcv/AdClose)
+  > Block ads and remove app limit for Xposed.
+- 🌟 👤 [dartcv](https://github.com/dartcv) Starred [zjyzip/AdClose](https://github.com/zjyzip/AdClose)
+  > Block ads and remove app limit for Xposed.
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [chattocorp/chatto](https://github.com/chattocorp/chatto)
@@ -575,11 +595,13 @@
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+  > A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 
 ### [gamelaster](https://github.com/gamelaster)
 - 🌟 👤 [gamelaster](https://github.com/gamelaster) Starred [biohazardious/truenas-nvidia-driver-updater](https://github.com/biohazardious/truenas-nvidia-driver-updater)
   > Build and deploy any NVIDIA proprietary/open driver as a systemd-sysext image (nvidia.raw) for TrueN...
+- 🌟 👤 [gamelaster](https://github.com/gamelaster) Starred [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM)
+  > Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered ...
 
 ### [gh0stkey](https://github.com/gh0stkey)
 - 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code)
@@ -617,6 +639,9 @@
   > Talk to one agent. Ship with a crew.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [pgarba/ida-llm-explainer](https://github.com/pgarba/ida-llm-explainer) to [gmh5225/ida-llm-explainer](https://github.com/gmh5225/ida-llm-explainer)
   > AI-assisted IDA Pro plugin (local llama.cpp) for function explanations, renames, struct detection, a...
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [rclone/rclone](https://github.com/rclone/rclone)
+  > "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [kassandraoftroy/kohaku-cli](https://github.com/kassandraoftroy/kohaku-cli) to [gmh5225/kohaku-cli](https://github.com/gmh5225/kohaku-cli)
 
 ### [guiying712](https://github.com/guiying712)
 - 🌟 👤 [guiying712](https://github.com/guiying712) Starred [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api)
@@ -655,7 +680,7 @@
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [openclaw/imsg](https://github.com/openclaw/imsg)
   > CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+  > A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 
 ### [iwxyi](https://github.com/iwxyi)
 - 🌟 👤 [iwxyi](https://github.com/iwxyi) Starred [lovelyyoshino/Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API)
@@ -857,10 +882,16 @@
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [smallnest/pigo](https://github.com/smallnest/pigo)
   > pi agent in Golang
 
+### [niqiuqiux](https://github.com/niqiuqiux)
+- 🌟 👤 [niqiuqiux](https://github.com/niqiuqiux) Starred [yc-duan/fastctx](https://github.com/yc-duan/fastctx)
+  > Fast, context-efficient repository tools for AI agents (MCP)
+
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [vladislav1983/V11_Dyson_BMS](https://github.com/vladislav1983/V11_Dyson_BMS)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [hgaiser/moonshine](https://github.com/hgaiser/moonshine)
   > Headless streaming server for Moonlight clients, written in Rust.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [kidfromjupiter/nearby](https://github.com/kidfromjupiter/nearby)
+  > 🔗 Linux implementation of Google's Nearby Connections, Nearby Presence, Fast Pair and QuickShare
 
 ### [nyaoouo](https://github.com/nyaoouo)
 - 🍴 👤 [nyaoouo](https://github.com/nyaoouo) Forked [DestinyItemManager/DIM](https://github.com/DestinyItemManager/DIM) to [nyaoouo/DIM](https://github.com/nyaoouo/DIM)
@@ -871,6 +902,8 @@
   > Bitsliced implementations of the AREION permutation (AREION-512, AREION-256).
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jedisct1/badrsa](https://github.com/jedisct1/badrsa)
   > Malicious RSA keys.
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [An0nUD4Y/Offensive-COM](https://github.com/An0nUD4Y/Offensive-COM)
+  > Research notes on Windows Component Object Model (COM) attack surface for offensive security and vul...
 
 ### [penguin-wwy](https://github.com/penguin-wwy)
 - 🌟 👤 [penguin-wwy](https://github.com/penguin-wwy) Starred [gimli-rs/object](https://github.com/gimli-rs/object)
@@ -1008,6 +1041,10 @@
 - 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [yzfly/Awesome-AGI-Agents](https://github.com/yzfly/Awesome-AGI-Agents)
   > 🤖 Awesome list of AGI Agents. Agents 精选资源合集.
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [mahmoudimus/idavator](https://github.com/mahmoudimus/idavator)
+  > an "elevator" to round-trip lift IDA microcode up to LLVM and back down again to IDA microcode. ida2...
+
 ### [winezer0](https://github.com/winezer0)
 - 🌟 👤 [winezer0](https://github.com/winezer0) Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
   > Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists se...
@@ -1027,6 +1064,14 @@
   > Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your ...
 - 🌟 👤 [xiandanin](https://github.com/xiandanin) Starred [visioncortex/vtracer](https://github.com/visioncortex/vtracer)
   > Raster to Vector Graphics Converter
+
+### [xiaolai](https://github.com/xiaolai)
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) to [xiaolai/claude-code-skills-zh](https://github.com/xiaolai/claude-code-skills-zh)
+  > 面向中文开发者的 Claude Code Skills / Agents / Plugins 精选与原创技能库｜按场景分类｜复制即装｜持续更新
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) to [xiaolai/conductor](https://github.com/xiaolai/conductor)
+  > A plugin for AI coding agents (Antigravity, Claude Code) enabling Spec-Driven Development to specify...
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) to [xiaolai/text-to-cad](https://github.com/xiaolai/text-to-cad)
+  > A collection of agent skills for CAD, robotics and hardware design
 
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth)
@@ -1099,5 +1144,5 @@
 
 
 ---
-*最后更新于 2026-07-20 18:02:22 UTC*
+*最后更新于 2026-07-20 20:20:27 UTC*
 *历史记录保存在 `archive` 目录中。*
