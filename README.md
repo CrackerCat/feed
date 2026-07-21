@@ -39,6 +39,10 @@
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring)
   > An io_uring backed runtime for Rust
 
+### [AndnixSH](https://github.com/AndnixSH)
+- 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [zhongfly/mpv-winbuild](https://github.com/zhongfly/mpv-winbuild)
+  > Use Github Action to build mpv for Windows with latest commit.
+
 ### [AndreiKud](https://github.com/AndreiKud)
 - 🍴 👤 [AndreiKud](https://github.com/AndreiKud) Forked [henriknelson/wireguard-tools-magisk-module](https://github.com/henriknelson/wireguard-tools-magisk-module) to [AndreiKud/wireguard-tools-magisk-module](https://github.com/AndreiKud/wireguard-tools-magisk-module)
   > A statically built version of the latest stable wireguard-tools for Android (aarch64)
@@ -297,6 +301,10 @@
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [wanxiaoT/TChat](https://github.com/wanxiaoT/TChat)
   > 开源的AI聊天软件
 
+### [StephenDev0](https://github.com/StephenDev0)
+- 🍴 👤 [StephenDev0](https://github.com/StephenDev0) Forked [JesseTG/melonds-ds](https://github.com/JesseTG/melonds-ds) to [StephenDev0/melonds-ds](https://github.com/StephenDev0/melonds-ds)
+  > A remake of the libretro melonDS core that prioritizes standalone parity, reliability, and usability...
+
 ### [SummerSec](https://github.com/SummerSec)
 - 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [Bl0omZ/open-voice-bridge](https://github.com/Bl0omZ/open-voice-bridge)
   > 小米蓝牙遥控器 2 Pro /用于 codex 和 claudecode 编程
@@ -310,6 +318,14 @@
 ### [Super12138](https://github.com/Super12138)
 - 🍴 👤 [Super12138](https://github.com/Super12138) Forked [amll-dev/amll-ttml-tool](https://github.com/amll-dev/amll-ttml-tool) to [Super12138/amll-ttml-tool](https://github.com/Super12138/amll-ttml-tool)
   > A brand-new syllable lyric editor for Apple Music-like lyrics! 一个全新的逐词歌词编辑器！针对 Apple Music-like Lyri...
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
+  > Very low latency speech to text, intent recognition, and text to speech, for building voice agents a...
+
+### [TGSAN](https://github.com/TGSAN)
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [ziguishian/winlean-coding-skill](https://github.com/ziguishian/winlean-coding-skill)
+  > WinLean Coding Skill 是一个面向代码 Agent 的开发规范 Skill，用来减少 Windows 环境下的命令、编码、路径、换行问题，同时避免 AI 乱读上下文、重复造轮子和生成...
 
 ### [TestPlanB](https://github.com/TestPlanB)
 - 🍴 👤 [TestPlanB](https://github.com/TestPlanB) Forked [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) to [TestPlanB/taste-skill](https://github.com/TestPlanB/taste-skill)
@@ -337,6 +353,8 @@
   > Lightweight 2D Framebuffer Graphics Library for Linux
 - 🍴 👤 [WitherOrNot](https://github.com/WitherOrNot) Forked [ButterscotchRunner/Butterscotch](https://github.com/ButterscotchRunner/Butterscotch) to [WitherOrNot/Butterscotch](https://github.com/WitherOrNot/Butterscotch)
   > 🥧 An open source re-implementation of GameMaker: Studio's runner (YoYo Runner), targeting Undertale ...
+- 🌟 👤 [WitherOrNot](https://github.com/WitherOrNot) Starred [ncroxon/gnu-efi](https://github.com/ncroxon/gnu-efi)
+  > Develop EFI applications for ARM-64, ARM-32, x86_64, IA-64 (IPF), IA-32 (x86), and MIPS platforms us...
 
 ### [WooyunDota](https://github.com/WooyunDota)
 - 🌟 👤 [WooyunDota](https://github.com/WooyunDota) Starred [leibnitz27/cfr](https://github.com/leibnitz27/cfr)
@@ -374,6 +392,18 @@
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [5mukx/GDID-Extractor](https://github.com/5mukx/GDID-Extractor)
   > GDID Extractor comes with Rust / C / BoF
+
+### [aadog](https://github.com/aadog)
+- 🌟 👤 [aadog](https://github.com/aadog) Starred [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy)
+  > Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
+- 🌟 👤 [aadog](https://github.com/aadog) Starred [icedland/iced](https://github.com/icedland/iced)
+  > Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Pyt...
+- 🌟 👤 [aadog](https://github.com/aadog) Starred [Washi1337/AsmResolver](https://github.com/Washi1337/AsmResolver)
+  > A library for creating, reading and editing PE files and .NET modules.
+- 🌟 👤 [aadog](https://github.com/aadog) Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+  > Ghidra is a software reverse engineering (SRE) framework
+- 🌟 👤 [aadog](https://github.com/aadog) Starred [mandiant/capa](https://github.com/mandiant/capa)
+  > The FLARE team's open-source tool to identify capabilities in executable files.
 
 ### [abdihaikal](https://github.com/abdihaikal)
 - 🌟 👤 [abdihaikal](https://github.com/abdihaikal) Starred [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering)
@@ -461,6 +491,7 @@
 ### [crvvdev](https://github.com/crvvdev)
 - 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [LadyDarknes/um-mouse-hub](https://github.com/LadyDarknes/um-mouse-hub)
   > User-mode mouse movement algorithms and trajectory simulation hub.
+- 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [LadyDarknes/MousHid-25H2](https://github.com/LadyDarknes/MousHid-25H2)
 
 ### [cwuom](https://github.com/cwuom)
 - 🌟 👤 [cwuom](https://github.com/cwuom) Starred [XxxXTeam/chatai-plugin](https://github.com/XxxXTeam/chatai-plugin)
@@ -495,6 +526,7 @@
   > ImGui Studio is a local-first, AI-native development environment for creating custom Dear ImGui menu...
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame)
   > Proof-of-concept game using VBS enclaves to protect itself from cheating
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [blobbyblo/vad-manipulation](https://github.com/blobbyblo/vad-manipulation)
 
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)
@@ -515,6 +547,8 @@
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [microsoft/Ontology-Playground](https://github.com/microsoft/Ontology-Playground)
   > Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [oblien/openship](https://github.com/oblien/openship)
+  > Self-hosted deployment platform
 
 ### [fanqieVip](https://github.com/fanqieVip)
 - 🌟 👤 [fanqieVip](https://github.com/fanqieVip) Starred [Wangnov/codex-app-mirror](https://github.com/Wangnov/codex-app-mirror)
@@ -533,6 +567,10 @@
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame)
   > Proof-of-concept game using VBS enclaves to protect itself from cheating
+
+### [gamelaster](https://github.com/gamelaster)
+- 🌟 👤 [gamelaster](https://github.com/gamelaster) Starred [tullamods/tullaCTC](https://github.com/tullamods/tullaCTC)
+  > Cooldown Text Customizer
 
 ### [gh0stkey](https://github.com/gh0stkey)
 - 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [oxc-project/oxc](https://github.com/oxc-project/oxc)
@@ -579,6 +617,8 @@
   > Among Us Cheat Menu for Android
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [etotheipi/CUDA-Image-Processing](https://github.com/etotheipi/CUDA-Image-Processing) to [gmh5225/CUDA-Image-Processing](https://github.com/gmh5225/CUDA-Image-Processing)
   > Developing a complete set of GPU-accelerated image processing tools, including convolution and morph...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [endgamec2framework/endgame](https://github.com/endgamec2framework/endgame) to [gmh5225/endgame-c2](https://github.com/gmh5225/endgame-c2)
+  > ENDGAME C2 FRAMEWORK — AI-powered command and control for professional red team operations
 
 ### [goweii](https://github.com/goweii)
 - 🌟 👤 [goweii](https://github.com/goweii) Starred [goweii/WanAndroid](https://github.com/goweii/WanAndroid)
@@ -617,6 +657,10 @@
 - 🌟 👤 [hluwa](https://github.com/hluwa) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
   > 176 vulnerabilities in Samsung preinstalled Android apps
 
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [poolsideai/pool](https://github.com/poolsideai/pool)
+  > pool is Poolside’s coding agent that runs in your terminal or integrates with any ACP-compatible edi...
+
 ### [jas502n](https://github.com/jas502n)
 - 🍴 👤 [jas502n](https://github.com/jas502n) Forked [dinosn/fastjson-jsontype-rce-lab](https://github.com/dinosn/fastjson-jsontype-rce-lab) to [jas502n/fastjson-jsontype-rce-lab](https://github.com/jas502n/fastjson-jsontype-rce-lab)
   > Docker lab + one-payload exploit + defensive scanner for the fastjson 1.2.66-1.2.83 @JSONType remote...
@@ -646,6 +690,9 @@
 ### [kasnria001](https://github.com/kasnria001)
 - 🌟 👤 [kasnria001](https://github.com/kasnria001) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+
+### [kernelzeroday](https://github.com/kernelzeroday)
+- 🌟 👤 [kernelzeroday](https://github.com/kernelzeroday) Starred [Kalcode/spaceprojectsim](https://github.com/Kalcode/spaceprojectsim)
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt)
@@ -717,6 +764,10 @@
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [luau-lang/luau](https://github.com/luau-lang/luau)
   > A small, fast, and embeddable programming language based on Lua with a gradual type system.
 
+### [moyada](https://github.com/moyada)
+- 🌟 👤 [moyada](https://github.com/moyada) Starred [Jane-xiaoer/paper-collage-ad-codex](https://github.com/Jane-xiaoer/paper-collage-ad-codex)
+  > Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation,...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
   > High-performance single-GPU inference for selected model checkpoints and GPUs.
@@ -745,6 +796,8 @@
   > Morok is a modular C++23 LLVM New-PM IR obfuscator. It loads as a pass plugin inside clang or opt, r...
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [MistyFir/SVMHypervisor-Preview](https://github.com/MistyFir/SVMHypervisor-Preview)
   > 从零开始手写的AMD平台Hypervisor
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame)
+  > Proof-of-concept game using VBS enclaves to protect itself from cheating
 
 ### [ommadawn46](https://github.com/ommadawn46)
 - 🌟 👤 [ommadawn46](https://github.com/ommadawn46) Starred [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc)
@@ -754,6 +807,10 @@
 - 🌟 👤 [pbek](https://github.com/pbek) Starred [simoarpe/ziggity](https://github.com/simoarpe/ziggity)
   > ⚡️  Ziggity an ultra fast, keyboard driven terminal UI for Git, written in Zig. 
 
+### [penguin-wwy](https://github.com/penguin-wwy)
+- 🍴 👤 [penguin-wwy](https://github.com/penguin-wwy) Forked [tile-ai/tvm](https://github.com/tile-ai/tvm) to [penguin-wwy/tvm](https://github.com/penguin-wwy/tvm)
+  > Open deep learning compiler stack for cpu, gpu and specialized accelerators
+
 ### [prife](https://github.com/prife)
 - 🌟 👤 [prife](https://github.com/prife) Starred [Hoper-J/AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN)
   > 这是一份入门AI/LLM大模型的逐步指南，包含教程和演示代码，带你从API走进本地大模型部署和微调，代码文件会提供Kaggle或Colab在线版本，即便没有显卡也可以进行学习。项目中还开设了一个小型的...
@@ -761,6 +818,8 @@
 ### [qazbnm456](https://github.com/qazbnm456)
 - 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
+- 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [microsoft/dusseldorf](https://github.com/microsoft/dusseldorf)
+  > Dusseldorf is an out-of-band security tool to help in security research.
 
 ### [r0ysue](https://github.com/r0ysue)
 - 🌟 👤 [r0ysue](https://github.com/r0ysue) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
@@ -962,5 +1021,5 @@
 
 
 ---
-*最后更新于 2026-07-21 17:19:18 UTC*
+*最后更新于 2026-07-21 19:21:37 UTC*
 *历史记录保存在 `archive` 目录中。*
