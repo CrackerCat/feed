@@ -32,7 +32,9 @@
 - 🌟 👤 [AlexAltea](https://github.com/AlexAltea) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
   >  ggml speech-to-text inference for 16+ model families
 - 🚀 👤 [AlexAltea](https://github.com/AlexAltea) Made [AlexAltea/asmx](https://github.com/AlexAltea/asmx) public
-  > Multi-architecture assembly execution playground
+  > Multi-architecture assembly execution playground for web browsers
+- 🌟 👤 [AlexAltea](https://github.com/AlexAltea) Starred [google-deepmind/formal-conjectures](https://github.com/google-deepmind/formal-conjectures)
+  > A collection of formalized statements of conjectures in Lean.
 
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [muscriptor/muscriptor](https://github.com/muscriptor/muscriptor)
@@ -165,6 +167,10 @@
 ### [JasonWei512](https://github.com/JasonWei512)
 - 🌟 👤 [JasonWei512](https://github.com/JasonWei512) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
   > A batteries-included framework for building web apps
+
+### [KHwang9883](https://github.com/KHwang9883)
+- 🌟 👤 [KHwang9883](https://github.com/KHwang9883) Starred [github/hubot-sans](https://github.com/github/hubot-sans)
+  > Hubot Sans, a variable font from GitHub
 
 ### [KingJA](https://github.com/KingJA)
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [v3ucn/live2d-TTS-LLM-GPT-SoVITS-Vtuber](https://github.com/v3ucn/live2d-TTS-LLM-GPT-SoVITS-Vtuber)
@@ -307,10 +313,18 @@
 ### [Silentsoul04](https://github.com/Silentsoul04)
 - 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [wouijvziqy/Fastjson-JsonType-RCE-PoC](https://github.com/wouijvziqy/Fastjson-JsonType-RCE-PoC)
 - 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [wouijvziqy/Fastjson-JsonType-RCE-PoC](https://github.com/wouijvziqy/Fastjson-JsonType-RCE-PoC) to [Silentsoul04/Fastjson-JsonType-RCE-PoC](https://github.com/Silentsoul04/Fastjson-JsonType-RCE-PoC)
+- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)
+  > Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+- 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) to [Silentsoul04/Apollo-11](https://github.com/Silentsoul04/Apollo-11)
+  > Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
   > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+
+### [Skorpion96](https://github.com/Skorpion96)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [NikOverflow/AndroidUnchained](https://github.com/NikOverflow/AndroidUnchained)
+  > Methods and tools to root your Android phone.
 
 ### [Sndav](https://github.com/Sndav)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin)
@@ -403,6 +417,8 @@
 ### [ZacharyZcR](https://github.com/ZacharyZcR)
 - 🌟 👤 [ZacharyZcR](https://github.com/ZacharyZcR) Starred [ZacharyZcR/battlefield-1937](https://github.com/ZacharyZcR/battlefield-1937)
   > 单机抗日战争第一人称战场游戏原型 / A single-player WWII battlefield prototype built with Three.js
+- 🌟 👤 [ZacharyZcR](https://github.com/ZacharyZcR) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 ### [ant4g0nist](https://github.com/ant4g0nist)
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [34306/vphone-aio](https://github.com/34306/vphone-aio)
@@ -445,6 +461,10 @@
   > Linux提权
 - 🌟 👤 [badboycxcc](https://github.com/badboycxcc) Starred [d0ctorsec/RedTeamAttackChainMapper](https://github.com/d0ctorsec/RedTeamAttackChainMapper)
   > 一款红队攻防资产管理小工具，解决攻防资产没有图形化的问题，以图文信息管理信息，方便制定攻击方向。
+- 🌟 👤 [badboycxcc](https://github.com/badboycxcc) Starred [DotNetRussell/BloodBash](https://github.com/DotNetRussell/BloodBash)
+  > A Bloodhound alternative. BloodBash will ingest the same files bloodhound does but no server is requ...
+- 🍴 👤 [badboycxcc](https://github.com/badboycxcc) Forked [fzypl/Fastjson-JsonType-RCE-Demo](https://github.com/fzypl/Fastjson-JsonType-RCE-Demo) to [badboycxcc/Fastjson-JsonType-RCE-Demo](https://github.com/badboycxcc/Fastjson-JsonType-RCE-Demo)
+  > Fastjson-JsonType-RCE-PoC
 
 ### [besscroft](https://github.com/besscroft)
 - 🌟 👤 [besscroft](https://github.com/besscroft) Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)
@@ -471,9 +491,17 @@
 - 🌟 👤 [carloscn](https://github.com/carloscn) Starred [rauc/rauc](https://github.com/rauc/rauc)
   > Safe and secure software updates for embedded Linux
 
+### [carlospolop](https://github.com/carlospolop)
+- 🌟 👤 [carlospolop](https://github.com/carlospolop) Starred [W4RRR/cachaza](https://github.com/W4RRR/cachaza)
+  > Passive-first OSINT and authorized reconnaissance orchestration for Kali Linux, with automatic origi...
+
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [dqev/reicon](https://github.com/dqev/reicon)
   > Reicon — Open-Source Icon Library for Designers & Developers
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [zhom/donutbrowser](https://github.com/zhom/donutbrowser)
+  > Simple Yet Powerful Anti-Detect Browser 🍩
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [lyu0805/OpenBrowser](https://github.com/lyu0805/OpenBrowser)
+  > 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA
 
 ### [chinleez](https://github.com/chinleez)
 - 🌟 👤 [chinleez](https://github.com/chinleez) Starred [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router)
@@ -488,9 +516,6 @@
 ### [cozis](https://github.com/cozis)
 - 🌟 👤 [cozis](https://github.com/cozis) Starred [resonatehq/resonate-on-nats](https://github.com/resonatehq/resonate-on-nats)
   > A Resonate server built on NATS JetStream — durable promises, tasks, and schedules with JetStream as...
-
-### [crazy-max](https://github.com/crazy-max)
-- 🌟 👤 [crazy-max](https://github.com/crazy-max) Starred [ffind-dev/pve-ups](https://github.com/ffind-dev/pve-ups)
 
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [CrackerCat/UsingBYOVD](https://github.com/CrackerCat/UsingBYOVD)
@@ -682,6 +707,10 @@
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 
+### [iPower](https://github.com/iPower)
+- 🌟 👤 [iPower](https://github.com/iPower) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
+  > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
+
 ### [iwxyi](https://github.com/iwxyi)
 - 🌟 👤 [iwxyi](https://github.com/iwxyi) Starred [lovelyyoshino/Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API)
   > BILIBILI 直播/番剧 API
@@ -712,6 +741,9 @@
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+
+### [kentcdodds](https://github.com/kentcdodds)
+- 🌟 👤 [kentcdodds](https://github.com/kentcdodds) Starred [douglance/devsql](https://github.com/douglance/devsql)
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [G4sp4rCS/CVE-2026-42980-POC](https://github.com/G4sp4rCS/CVE-2026-42980-POC)
@@ -772,6 +804,10 @@
   > Discord as a C2
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [din4e/c2-signal](https://github.com/din4e/c2-signal)
   > Defensive multi-engine artifact triage console for YARA, Sigma and Suricata
+
+### [kotori2](https://github.com/kotori2)
+- 🌟 👤 [kotori2](https://github.com/kotori2) Starred [Pixel-Props/sensitive-props](https://github.com/Pixel-Props/sensitive-props)
+  > This Magisk module helps you bypass SafetyNet and Play Integrity on rooted Android devices by modify...
 
 ### [krestenlaust](https://github.com/krestenlaust)
 - 🌟 👤 [krestenlaust](https://github.com/krestenlaust) Starred [tavinus/pdfScale](https://github.com/tavinus/pdfScale)
@@ -999,6 +1035,10 @@
 - 🌟 👤 [strazzere](https://github.com/strazzere) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
   > 176 vulnerabilities in Samsung preinstalled Android apps
 
+### [stuxnet147](https://github.com/stuxnet147)
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [roboflow/rf-detr](https://github.com/roboflow/rf-detr)
+  > RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, S...
+
 ### [su-vikas](https://github.com/su-vikas)
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [matthewdgreen/decipher](https://github.com/matthewdgreen/decipher)
   > An AI-enabled application for cracking ciphers
@@ -1044,6 +1084,8 @@
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [mahmoudimus/idavator](https://github.com/mahmoudimus/idavator)
   > an "elevator" to round-trip lift IDA microcode up to LLVM and back down again to IDA microcode. ida2...
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 
 ### [winezer0](https://github.com/winezer0)
 - 🌟 👤 [winezer0](https://github.com/winezer0) Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
@@ -1128,6 +1170,14 @@
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🍴 👤 [yux1azhengye](https://github.com/yux1azhengye) Forked [wouijvziqy/Fastjson-JsonType-RCE-PoC](https://github.com/wouijvziqy/Fastjson-JsonType-RCE-PoC) to [yux1azhengye/Fastjson-JsonType-RCE-PoC](https://github.com/yux1azhengye/Fastjson-JsonType-RCE-PoC)
 
+### [zhanghai](https://github.com/zhanghai)
+- 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch)
+  > A fast file search utility for Unix-like systems based on GTK3
+- 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [fbraz3/GeneralsX](https://github.com/fbraz3/GeneralsX)
+  > Command and Conquer: Generals - Zero Hour
+- 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [meerzulee/GeneralsXWeb](https://github.com/meerzulee/GeneralsXWeb)
+  > Command and Conquer: Generals - Zero Hour
+
 ### [zhangyoufu](https://github.com/zhangyoufu)
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [mjl-/mox](https://github.com/mjl-/mox)
   > modern full-featured open source secure mail server for low-maintenance self-hosted email
@@ -1138,11 +1188,15 @@
 - 🌟 👤 [zjw-swun](https://github.com/zjw-swun) Starred [BigStrongSun/ccswitchmulti](https://github.com/BigStrongSun/ccswitchmulti)
   > CCSwitchMulti: Codex 多模型路由，把 OpenAI 订阅与 DeepSeek/Qwen/本地/第三方 OpenAI-compatible 模型合并到 Codex。
 
+### [zodiacon](https://github.com/zodiacon)
+- 🍴 👤 [zodiacon](https://github.com/zodiacon) Forked [MicrosoftDocs/windows-driver-docs-ddi](https://github.com/MicrosoftDocs/windows-driver-docs-ddi) to [zodiacon/windows-driver-docs-ddi](https://github.com/zodiacon/windows-driver-docs-ddi)
+  > The official Windows Driver Kit DDI reference documentation sources
+
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [maddada/Ghostex](https://github.com/maddada/Ghostex)
   > Native Agent CLIs manager for macOS. Ghostty Terminals + Codex App Features/UX = Ghostex! Embedded b...
 
 
 ---
-*最后更新于 2026-07-20 20:20:27 UTC*
+*最后更新于 2026-07-20 23:08:18 UTC*
 *历史记录保存在 `archive` 目录中。*
