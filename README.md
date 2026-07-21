@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xdad0](https://github.com/0xdad0)
+- 🌟 👤 [0xdad0](https://github.com/0xdad0) Starred [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager)
+  > 🛰️ Represent any GraphQL API as an interactive graph
+
 ### [1998lixin](https://github.com/1998lixin)
 - 🌟 👤 [1998lixin](https://github.com/1998lixin) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
   > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
@@ -137,6 +141,8 @@
   > Bluetooth experimentation framework for Broadcom and Cypress chips.
 - 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [msteinert/cairo](https://github.com/msteinert/cairo)
   > A 2D graphics library with support for multiple output devices
+- 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [isledecomp/isle](https://github.com/isledecomp/isle)
+  > A decompilation of LEGO Island (1997)
 
 ### [H4ckForJob](https://github.com/H4ckForJob)
 - 🍴 👤 [H4ckForJob](https://github.com/H4ckForJob) Forked [DmTomHL/fastjson-1.2.83-gadget-rce](https://github.com/DmTomHL/fastjson-1.2.83-gadget-rce) to [H4ckForJob/fastjson-1.2.83-gadget-rce](https://github.com/H4ckForJob/fastjson-1.2.83-gadget-rce)
@@ -351,10 +357,10 @@
 ### [WitherOrNot](https://github.com/WitherOrNot)
 - 🌟 👤 [WitherOrNot](https://github.com/WitherOrNot) Starred [lvntky/fbgl](https://github.com/lvntky/fbgl)
   > Lightweight 2D Framebuffer Graphics Library for Linux
-- 🍴 👤 [WitherOrNot](https://github.com/WitherOrNot) Forked [ButterscotchRunner/Butterscotch](https://github.com/ButterscotchRunner/Butterscotch) to [WitherOrNot/Butterscotch](https://github.com/WitherOrNot/Butterscotch)
-  > 🥧 An open source re-implementation of GameMaker: Studio's runner (YoYo Runner), targeting Undertale ...
 - 🌟 👤 [WitherOrNot](https://github.com/WitherOrNot) Starred [ncroxon/gnu-efi](https://github.com/ncroxon/gnu-efi)
   > Develop EFI applications for ARM-64, ARM-32, x86_64, IA-64 (IPF), IA-32 (x86), and MIPS platforms us...
+- 🍴 👤 [WitherOrNot](https://github.com/WitherOrNot) Forked [iProgramMC/Butterscotch](https://github.com/iProgramMC/Butterscotch) to [WitherOrNot/Butterscotch](https://github.com/WitherOrNot/Butterscotch)
+  > 🥧 An open source re-implementation of GameMaker: Studio's runner (YoYo Runner), targeting Undertale ...
 
 ### [WooyunDota](https://github.com/WooyunDota)
 - 🌟 👤 [WooyunDota](https://github.com/WooyunDota) Starred [leibnitz27/cfr](https://github.com/leibnitz27/cfr)
@@ -404,6 +410,8 @@
   > Ghidra is a software reverse engineering (SRE) framework
 - 🌟 👤 [aadog](https://github.com/aadog) Starred [mandiant/capa](https://github.com/mandiant/capa)
   > The FLARE team's open-source tool to identify capabilities in executable files.
+- 🌟 👤 [aadog](https://github.com/aadog) Starred [openwall/john](https://github.com/openwall/john)
+  > John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and ciphe...
 
 ### [abdihaikal](https://github.com/abdihaikal)
 - 🌟 👤 [abdihaikal](https://github.com/abdihaikal) Starred [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering)
@@ -465,6 +473,10 @@
 ### [caikelun](https://github.com/caikelun)
 - 🌟 👤 [caikelun](https://github.com/caikelun) Starred [Gracker/SmartPerfetto](https://github.com/Gracker/SmartPerfetto)
   > AI-assisted Perfetto analysis with Web UI, CLI, evidence workflows, reports, and portable runtimes.
+
+### [cctv18](https://github.com/cctv18)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [travisgoodspeed/maskromtool](https://github.com/travisgoodspeed/maskromtool)
+  > A CAD tool for extracting bits from Mask ROM photographs.
 
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
@@ -768,6 +780,14 @@
 - 🌟 👤 [moyada](https://github.com/moyada) Starred [Jane-xiaoer/paper-collage-ad-codex](https://github.com/Jane-xiaoer/paper-collage-ad-codex)
   > Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation,...
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .agents directory.
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt)
+  > Orchestrate AI agents to find real vulnerabilities in code.
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
   > High-performance single-GPU inference for selected model checkpoints and GPUs.
@@ -914,6 +934,10 @@
 - 🌟 👤 [veaba](https://github.com/veaba) Starred [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
   > A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
+### [wesmar](https://github.com/wesmar)
+- 🚀 👤 [wesmar](https://github.com/wesmar) Made [wesmar/RegEdLin](https://github.com/wesmar/RegEdLin) public
+  > Native, dual-pane Windows registry editor (offline) for Linux (GTK4/libadwaita/C11) with CLI tools. ...
+
 ### [winmin](https://github.com/winmin)
 - 🌟 👤 [winmin](https://github.com/winmin) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
   > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
@@ -1021,5 +1045,5 @@
 
 
 ---
-*最后更新于 2026-07-21 19:21:37 UTC*
+*最后更新于 2026-07-21 21:08:55 UTC*
 *历史记录保存在 `archive` 目录中。*
