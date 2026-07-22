@@ -197,6 +197,10 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)
   > Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery...
 
+### [LasCC](https://github.com/LasCC)
+- 🌟 👤 [LasCC](https://github.com/LasCC) Starred [timescale/rsigma](https://github.com/timescale/rsigma)
+  > A complete Sigma detection engineering toolkit: parser, linter, evaluator, correlation engine, conve...
+
 ### [Lil-Ran](https://github.com/Lil-Ran)
 - 🌟 👤 [Lil-Ran](https://github.com/Lil-Ran) Starred [theme-shoka-x/astro-blog-shokax](https://github.com/theme-shoka-x/astro-blog-shokax)
   > Astro port of the Hexo theme ShokaX, featuring a clean design and modern blog experience.
@@ -985,6 +989,10 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [ThanatosXingYu/2026FastjsonPoC](https://github.com/ThanatosXingYu/2026FastjsonPoC)
   > 【已复现】Fastjson 1.2.66–1.2.83 JsonType 纯库一键 RCE（AutoType 关闭仍可利用；完整 RCE 需 JDK8 + Spring Boot LaunchedUR...
 
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [wado-lang/wado](https://github.com/wado-lang/wado)
+  > The Wado Programming Language
+
 ### [yifengyou](https://github.com/yifengyou)
 - 🌟 👤 [yifengyou](https://github.com/yifengyou) Starred [yifengyou/BDY_G98_RK3588](https://github.com/yifengyou/BDY_G98_RK3588)
   >  彼度云G98 
@@ -996,6 +1004,12 @@
 ### [youncyb](https://github.com/youncyb)
 - 🌟 👤 [youncyb](https://github.com/youncyb) Starred [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)
   > Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+
+### [zhanghai](https://github.com/zhanghai)
+- 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [LottieFiles/dotlottie-android](https://github.com/LottieFiles/dotlottie-android)
+  > Official LottieFiles player for Lottie & dotLottie animations on Android — Jetpack Compose & Views, ...
+- 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [alexzhirkevich/compottie](https://github.com/alexzhirkevich/compottie)
+  > Compose Multiplatform library for rendering Lottie animations with custom pure Kotlin renderer
 
 ### [zhangkanqi](https://github.com/zhangkanqi)
 - 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [FrontisAI/Awesome-Self-Improving-Agents](https://github.com/FrontisAI/Awesome-Self-Improving-Agents)
@@ -1045,5 +1059,5 @@
 
 
 ---
-*最后更新于 2026-07-21 21:08:55 UTC*
+*最后更新于 2026-07-21 22:56:33 UTC*
 *历史记录保存在 `archive` 目录中。*
