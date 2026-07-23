@@ -55,6 +55,21 @@
   > SILENT HILL 3 Engine Remake in OpenGL and C++
 - 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [Palm-Studios/sh3redux](https://github.com/Palm-Studios/sh3redux) to [ColdWindScholar/sh3redux](https://github.com/ColdWindScholar/sh3redux)
   > SILENT HILL 3 Engine Remake in OpenGL and C++
+- 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5)
+  > PlayStation 5 emulator for Windows
+- 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [RPCSX/rpcsx](https://github.com/RPCSX/rpcsx)
+- 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu)
+  > An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [vn-tools/arc_unpacker](https://github.com/vn-tools/arc_unpacker) to [ColdWindScholar/arc_unpacker](https://github.com/ColdWindScholar/arc_unpacker)
+  > CLI tool for extracting images and sounds from visual novels.
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [sailay1996/HiveOracle](https://github.com/sailay1996/HiveOracle)
+  > Raw NTFS volume oracle: locked-file read and offline SAM hashes without LSASS
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dafthack/GraphRunner](https://github.com/dafthack/GraphRunner)
+  > A Post-exploitation Toolset for Interacting with the Microsoft Graph API
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  > :books: Learn to write an embedded OS in Rust :crab:
 
 ### [Cxk4ng](https://github.com/Cxk4ng)
 - 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [FDH2/UxPlay](https://github.com/FDH2/UxPlay)
@@ -129,8 +144,16 @@
 ### [Jefino9488](https://github.com/Jefino9488)
 - 🍴 👤 [Jefino9488](https://github.com/Jefino9488) Forked [AxionAOSP/AxionAOSP.github.io](https://github.com/AxionAOSP/AxionAOSP.github.io) to [Jefino9488/AxionAOSP.github.io](https://github.com/Jefino9488/AxionAOSP.github.io)
 
+### [Jirubizu](https://github.com/Jirubizu)
+- 🌟 👤 [Jirubizu](https://github.com/Jirubizu) Starred [Automattic/harper](https://github.com/Automattic/harper)
+  > Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+
 ### [KingJA](https://github.com/KingJA)
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)
+
+### [KirovAir](https://github.com/KirovAir)
+- 🍴 👤 [KirovAir](https://github.com/KirovAir) Forked [DS-Homebrew/wiki](https://github.com/DS-Homebrew/wiki) to [KirovAir/wiki](https://github.com/KirovAir/wiki)
+  > Wikis for DS-Homebrew projects
 
 ### [KunMinX](https://github.com/KunMinX)
 - 🌟 👤 [KunMinX](https://github.com/KunMinX) Starred [caelestia-dots/shell](https://github.com/caelestia-dots/shell)
@@ -218,9 +241,25 @@
 - 🌟 👤 [Paper-Pen](https://github.com/Paper-Pen) Starred [tdragon6/AgBox](https://github.com/tdragon6/AgBox)
   > AgBox 是一个 OPC 数字员工托管平台
 
+### [People-11](https://github.com/People-11)
+- 🌟 👤 [People-11](https://github.com/People-11) Starred [realzza/bilibili-accelerator](https://github.com/realzza/bilibili-accelerator)
+  > Safari-friendly Bilibili CDN accelerator for smoother overseas playback.
+
 ### [Ppsoft1991](https://github.com/Ppsoft1991)
 - 🍴 👤 [Ppsoft1991](https://github.com/Ppsoft1991) Forked [lightpanda-io/browser](https://github.com/lightpanda-io/browser) to [Ppsoft1991/browser](https://github.com/Ppsoft1991/browser)
   > Lightpanda: the headless browser designed for AI and automation
+
+### [Prslc](https://github.com/Prslc)
+- 🌟 👤 [Prslc](https://github.com/Prslc) Starred [hluwa/frida-dexdump](https://github.com/hluwa/frida-dexdump)
+  > A frida tool to dump dex in memory to support security engineers analyzing malware.
+- 🌟 👤 [Prslc](https://github.com/Prslc) Starred [Exo1i/MagiskHluda](https://github.com/Exo1i/MagiskHluda)
+  > Run a more undetectable frida server on boot using magisk 🔐✅
+- 🍴 👤 [Prslc](https://github.com/Prslc) Forked [Exo1i/MagiskHluda](https://github.com/Exo1i/MagiskHluda) to [Prslc/MagiskHluda](https://github.com/Prslc/MagiskHluda)
+  > Run a more undetectable frida server on boot using magisk 🔐✅
+- 🍴 👤 [Prslc](https://github.com/Prslc) Forked [Ylarod/Florida](https://github.com/Ylarod/Florida) to [Prslc/Florida](https://github.com/Prslc/Florida)
+  > 基础反检测 frida-server / Basic anti-detection frida-server
+- 🌟 👤 [Prslc](https://github.com/Prslc) Starred [lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida)
+  > Injects frida gadget using zygisk to bypass anti-tamper checks.
 
 ### [RicoloveFeng](https://github.com/RicoloveFeng)
 - 🌟 👤 [RicoloveFeng](https://github.com/RicoloveFeng) Starred [NVIDIA/nccl-extensions](https://github.com/NVIDIA/nccl-extensions)
@@ -234,6 +273,12 @@
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [blockman3063/ADB_X](https://github.com/blockman3063/ADB_X)
   > ??ADB???? Xposed ??
 
+### [Silentsoul04](https://github.com/Silentsoul04)
+- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [0xazanul/fuzzctl](https://github.com/0xazanul/fuzzctl)
+  > Fuzzing Infrastructure using afl++ for coverage guided fuzzing including triaging and live dashboard...
+- 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [0xazanul/fuzzctl](https://github.com/0xazanul/fuzzctl) to [Silentsoul04/fuzzctl](https://github.com/Silentsoul04/fuzzctl)
+  > Fuzzing Infrastructure using afl++ for coverage guided fuzzing including triaging and live dashboard...
+
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [agegr/pi-web](https://github.com/agegr/pi-web)
   > Web UI for the pi coding agent
@@ -241,6 +286,12 @@
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [plainhub/plain-app](https://github.com/plainhub/plain-app)
   > 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access...
+
+### [Smooth-E](https://github.com/Smooth-E)
+- 🌟 👤 [Smooth-E](https://github.com/Smooth-E) Starred [isaacsa51/Minus](https://github.com/isaacsa51/Minus)
+  > Register, calculate and make reminders for your recurring expenses alongside credit card due dates.
+- 🌟 👤 [Smooth-E](https://github.com/Smooth-E) Starred [ihateblueb/snowdrop](https://github.com/ihateblueb/snowdrop)
+  > Compose Multiplatform client for Mastodon API compatable Fediverse software
 
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🍴 👤 [SodaMilk233](https://github.com/SodaMilk233) Forked [luoyesiqiu/dpt-shell](https://github.com/luoyesiqiu/dpt-shell) to [SodaMilk233/apk-shell](https://github.com/SodaMilk233/apk-shell)
@@ -377,9 +428,17 @@
 - 🌟 👤 [codezjx](https://github.com/codezjx) Starred [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)
   > A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
 
+### [compuphase](https://github.com/compuphase)
+- 🍴 👤 [compuphase](https://github.com/compuphase) Forked [dawnlarsson/prism](https://github.com/dawnlarsson/prism) to [compuphase/prism](https://github.com/compuphase/prism)
+  > Robust C by default  —  zeroinit, defer, orelse, safety in C
+
 ### [cotsom](https://github.com/cotsom)
 - 🌟 👤 [cotsom](https://github.com/cotsom) Starred [jakeotte/klist2ccache](https://github.com/jakeotte/klist2ccache)
   > Dump TGTs remotely and convert Windows' klist binary output to ccache. 
+
+### [crazy-max](https://github.com/crazy-max)
+- 🌟 👤 [crazy-max](https://github.com/crazy-max) Starred [outline/outline](https://github.com/outline/outline)
+  > The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and...
 
 ### [crvvdev](https://github.com/crvvdev)
 - 🌟 👤 [crvvdev](https://github.com/crvvdev) Starred [un4ckn0wl3z/dioprocess-private](https://github.com/un4ckn0wl3z/dioprocess-private)
@@ -410,6 +469,10 @@
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [geomys/unbound-wasm](https://github.com/geomys/unbound-wasm)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
   > Orchestrate multiple coding agents from desktop and mobile
+
+### [dzxpert](https://github.com/dzxpert)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [kkent030315/MsIoExploit](https://github.com/kkent030315/MsIoExploit)
+  > Exploit MsIo vulnerable driver
 
 ### [easychen](https://github.com/easychen)
 - 🍴 👤 [easychen](https://github.com/easychen) Forked [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) to [easychen/SillyTavern](https://github.com/easychen/SillyTavern)
@@ -538,6 +601,10 @@
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [Julian-adv/OpenMMO](https://github.com/Julian-adv/OpenMMO)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [cellebrite-labs/ida-setup](https://github.com/cellebrite-labs/ida-setup)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
+  > 176 vulnerabilities in Samsung preinstalled Android apps
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
+  > Firmware for the Xteink X3 and X4 e-readers
 
 ### [ilian](https://github.com/ilian)
 - 🌟 👤 [ilian](https://github.com/ilian) Starred [reisxd/TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt)
@@ -660,6 +727,12 @@
   > vLLM 0.25.1 serving stack for poolside/Laguna-S-2.1-NVFP4 with DFlash speculative decoding — DGX Spa...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
   > Firmware for the Xteink X3 and X4 e-readers
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
+  > Multi-architecture emulation for the modern era.
+
+### [mrmacete](https://github.com/mrmacete)
+- 🌟 👤 [mrmacete](https://github.com/mrmacete) Starred [blacktop/symbolicator](https://github.com/blacktop/symbolicator)
+  > `ipsw` symbolication signatures
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [OpenStrap/edge](https://github.com/OpenStrap/edge)
@@ -716,6 +789,12 @@
 ### [rabbitstack](https://github.com/rabbitstack)
 - 🍴 👤 [rabbitstack](https://github.com/rabbitstack) Forked [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) to [rabbitstack/atomic-red-team](https://github.com/rabbitstack/atomic-red-team)
   > Small and highly portable detection tests based on MITRE's ATT&CK.
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)
+  > Vite plugin that reimplements the Next.js API surface — deploy anywhere
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
+  > How soon until perfect decompilation? https://decbench.com/
 
 ### [revercc](https://github.com/revercc)
 - 🌟 👤 [revercc](https://github.com/revercc) Starred [yocn/AndroidMediaCodec](https://github.com/yocn/AndroidMediaCodec)
@@ -911,6 +990,12 @@
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [Yeti-791/Awesome-Offensive-AI-Agentic-Landscape](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape)
   > This document curates open-source projects, academic papers, capability benchmarks, and commercial s...
 
+### [zeroxjf](https://github.com/zeroxjf)
+- 🍴 👤 [zeroxjf](https://github.com/zeroxjf) Forked [NyanSatan/Image3RE](https://github.com/NyanSatan/Image3RE) to [zeroxjf/Image3RE](https://github.com/zeroxjf/Image3RE)
+  > iBoot-1145.3 Image3/heap stack RE (+unholy tools)
+- 🍴 👤 [zeroxjf](https://github.com/zeroxjf) Forked [NyanSatan/StarInjector](https://github.com/NyanSatan/StarInjector) to [zeroxjf/StarInjector](https://github.com/zeroxjf/StarInjector)
+  > Writes to nand_llb and triggers the Image3 SHSH overlap bug
+
 ### [zhangyoufu](https://github.com/zhangyoufu)
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [arcboxlabs/linkcode](https://github.com/arcboxlabs/linkcode)
   > Every Agent in the Palm of Hand
@@ -923,5 +1008,5 @@
 
 
 ---
-*最后更新于 2026-07-22 19:18:51 UTC*
+*最后更新于 2026-07-22 23:03:14 UTC*
 *历史记录保存在 `archive` 目录中。*
