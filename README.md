@@ -223,6 +223,10 @@
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock)
   > A new network stack based on gVisor
 
+### [Monoceros406](https://github.com/Monoceros406)
+- 🌟 👤 [Monoceros406](https://github.com/Monoceros406) Starred [XSere/swfrztool](https://github.com/XSere/swfrztool)
+  > 内核级希沃冰点还原管理工具
+
 ### [Natsume324](https://github.com/Natsume324)
 - 🌟 👤 [Natsume324](https://github.com/Natsume324) Starred [xororz/local-dream](https://github.com/xororz/local-dream)
   > Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU infe...
@@ -238,6 +242,10 @@
 ### [PalmDevs](https://github.com/PalmDevs)
 - 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [NikhilKain/stride](https://github.com/NikhilKain/stride)
   > Material 3 Expressive step counter for Android
+
+### [People-11](https://github.com/People-11)
+- 🌟 👤 [People-11](https://github.com/People-11) Starred [ByLsPro/JxPan](https://github.com/ByLsPro/JxPan)
+  > CloudFlare Workes网盘直链解析，目前支持: 阿里云盘(alipan.com) | 小飞机网盘(feijipan.com) | 蓝奏云优享版(ilanzou.com) | 蓝奏云(lan...
 
 ### [RiccardoAncarani](https://github.com/RiccardoAncarani)
 - 🌟 👤 [RiccardoAncarani](https://github.com/RiccardoAncarani) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
@@ -358,6 +366,12 @@
   > Libraries that implement and clients that utilize the Mink-IPC interface
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [qualcomm/mink-idl-compiler](https://github.com/qualcomm/mink-idl-compiler)
 
+### [cctv18](https://github.com/cctv18)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [kasnria001/qualcomm_noavb_exploit_common](https://github.com/kasnria001/qualcomm_noavb_exploit_common)
+  > Unlocking Bootloader via noavb exploit (still in progress)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [marcelroed/gigatoken](https://github.com/marcelroed/gigatoken)
+  > Language model tokenization at GB/s
+
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [Zippland/perler-beads](https://github.com/Zippland/perler-beads)
   > 拼豆底稿生成器 (Perler Beads Generator)
@@ -409,6 +423,12 @@
 ### [eggfly](https://github.com/eggfly)
 - 🌟 👤 [eggfly](https://github.com/eggfly) Starred [JinGuYuan/jinguyuan-dumpling-skill](https://github.com/JinGuYuan/jinguyuan-dumpling-skill)
   > 金谷园饺子馆.Skill - 北邮旁的饺子馆
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [abcdefgjh-li/ALLVM](https://github.com/abcdefgjh-li/ALLVM)
+  > 基于 LLVM 21.x 的 Android NDK 代码混淆编译器，支持控制流平坦化、间接跳转/调用、字符串加密、常量加密、VMP 虚拟机保护、系统调用替换（Syscall Protect）及反调试...
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
+  > ARM64 ELF Virtual Machine Protection System
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [jdan/98.css](https://github.com/jdan/98.css)
@@ -702,6 +722,10 @@
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [lac-dcc/llvm-course](https://github.com/lac-dcc/llvm-course)
   > Code examples used for the LAC LLVM course
 
+### [omeraydindev](https://github.com/omeraydindev)
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune)
+  > FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 1...
+
 ### [pplux](https://github.com/pplux)
 - 🌟 👤 [pplux](https://github.com/pplux) Starred [Automattic/harper](https://github.com/Automattic/harper)
   > Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -734,6 +758,14 @@
 ### [r00t4dm](https://github.com/r00t4dm)
 - 🌟 👤 [r00t4dm](https://github.com/r00t4dm) Starred [baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus)
   > An powerful enhanced toolkit of MyBatis for simplify development
+
+### [r0ysue](https://github.com/r0ysue)
+- 🌟 👤 [r0ysue](https://github.com/r0ysue) Starred [rezoch340/R2RPC](https://github.com/rezoch340/R2RPC)
+  > Distributed device RPC relay and operations control plane with NestJS, Next.js, WebSocket and offici...
+
+### [refgd](https://github.com/refgd)
+- 🍴 👤 [refgd](https://github.com/refgd) Forked [JesseProjects-LLC/session-deck](https://github.com/JesseProjects-LLC/session-deck) to [refgd/session-deck](https://github.com/refgd/session-deck)
+  > Web-based tmux workspace manager with live terminal panes
 
 ### [ret2ldz](https://github.com/ret2ldz)
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [GANGE666/xVMP](https://github.com/GANGE666/xVMP)
@@ -959,5 +991,5 @@
 
 
 ---
-*最后更新于 2026-07-24 20:19:02 UTC*
+*最后更新于 2026-07-24 22:03:43 UTC*
 *历史记录保存在 `archive` 目录中。*
