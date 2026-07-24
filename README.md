@@ -72,7 +72,7 @@
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [yunfanxing6/grok-register](https://github.com/yunfanxing6/grok-register)
   > Grok free-account register CLI (Go): CloudMail → OAuth → auto-upload to grok2api / CPA
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [simonlin1212/global-stock-data](https://github.com/simonlin1212/global-stock-data)
-  > US & HK stock full-stack data toolkit for AI coding assistants — 13 layers · 30+ endpoints · 11 sour...
+  > US & HK stock market data for AI coding assistants — zero-auth, official sources. CBOE options with ...
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
   > "Vibe-Trading: Your Personal Trading Agent"
 
@@ -112,7 +112,7 @@
 
 ### [Drun1baby](https://github.com/Drun1baby)
 - 🌟 👤 [Drun1baby](https://github.com/Drun1baby) Starred [simonlin1212/global-stock-data](https://github.com/simonlin1212/global-stock-data)
-  > US & HK stock full-stack data toolkit for AI coding assistants — 13 layers · 30+ endpoints · 11 sour...
+  > US & HK stock market data for AI coding assistants — zero-auth, official sources. CBOE options with ...
 - 🌟 👤 [Drun1baby](https://github.com/Drun1baby) Starred [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
   > "Vibe-Trading: Your Personal Trading Agent"
 
@@ -155,12 +155,28 @@
 - 🌟 👤 [H3d9](https://github.com/H3d9) Starred [ThelevenFD/zhenxun_plugin_AICallSticker](https://github.com/ThelevenFD/zhenxun_plugin_AICallSticker)
   > BYM_AI附属插件，让ai可以发表情包！
 
+### [HdShare](https://github.com/HdShare)
+- 🌟 👤 [HdShare](https://github.com/HdShare) Starred [Mocha-L/QuJing](https://github.com/Mocha-L/QuJing)
+  > 曲境是一个xposed模块，可支持在PC浏览器上动态监控（hook）安卓APP的函数调用和查看堆栈信息，及反射调用（invoke）等功能。
+- 🌟 👤 [HdShare](https://github.com/HdShare) Starred [KitsunePie/AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking)
+  > Added more features to app's crash dialog, fixed custom rom deleted dialog, the best experience to A...
+- 🍴 👤 [HdShare](https://github.com/HdShare) Forked [KitsunePie/AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking) to [HdShare/AppErrorsTracking](https://github.com/HdShare/AppErrorsTracking)
+  > Added more features to app's crash dialog, fixed custom rom deleted dialog, the best experience to A...
+
 ### [Howard20181](https://github.com/Howard20181)
 - 🌟 👤 [Howard20181](https://github.com/Howard20181) Starred [spocky/miproja1](https://github.com/spocky/miproja1)
+
+### [Icex0](https://github.com/Icex0)
+- 🌟 👤 [Icex0](https://github.com/Icex0) Starred [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc)
+  > wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain
 
 ### [JoinChang](https://github.com/JoinChang)
 - 🌟 👤 [JoinChang](https://github.com/JoinChang) Starred [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)
   > Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery...
+
+### [JunioJsv](https://github.com/JunioJsv)
+- 🌟 👤 [JunioJsv](https://github.com/JunioJsv) Starred [garrytan/gstack](https://github.com/garrytan/gstack)
+  > Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag...
 
 ### [KingJA](https://github.com/KingJA)
 - 🌟 👤 [KingJA](https://github.com/KingJA) Starred [different-ai/openwork](https://github.com/different-ai/openwork)
@@ -185,7 +201,7 @@
 
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [DeliciousMeatPop/VRCD](https://github.com/DeliciousMeatPop/VRCD)
-  > A cyberpunk flavored, multi OS, sideloader
+  > An app that will let you win at blackjack. And slots, but never roullete
 
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [R0rt1z2/lkpatcher](https://github.com/R0rt1z2/lkpatcher)
@@ -291,6 +307,10 @@
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)
   > Certighost POC
 
+### [Xyl2k](https://github.com/Xyl2k)
+- 🍴 👤 [Xyl2k](https://github.com/Xyl2k) Forked [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) to [Xyl2k/notepad-plus-plus](https://github.com/Xyl2k/notepad-plus-plus)
+  > Notepad++ official repository
+
 ### [YuKongA](https://github.com/YuKongA)
 - 🍴 👤 [YuKongA](https://github.com/YuKongA) Forked [wxxsfxyzm/MiuiBackGestureHook](https://github.com/wxxsfxyzm/MiuiBackGestureHook) to [YuKongA/MiuiBackGestureHook](https://github.com/YuKongA/MiuiBackGestureHook)
   > Restore AOSP gesture and predictive back for Xiaomi Android 16 devices.
@@ -337,9 +357,6 @@
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [qualcomm/minkipc](https://github.com/qualcomm/minkipc)
   > Libraries that implement and clients that utilize the Mink-IPC interface
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [qualcomm/mink-idl-compiler](https://github.com/qualcomm/mink-idl-compiler)
-
-### [cctv18](https://github.com/cctv18)
-- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [Tools-cx-app/gnosis](https://github.com/Tools-cx-app/gnosis)
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [Zippland/perler-beads](https://github.com/Zippland/perler-beads)
@@ -497,6 +514,8 @@
   > Build autonomous Python agents with native Agent-to-Agent (A2A) communication
 - 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [plasma-ai/wiki](https://github.com/plasma-ai/wiki)
   > Indexed knowledge bases with command-line tools for agents.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [namazso/rsbtd](https://github.com/namazso/rsbtd) to [gmh5225/rsbtd](https://github.com/gmh5225/rsbtd)
+  > A BitTorrent daemon
 
 ### [h4sh5](https://github.com/h4sh5)
 - 🌟 👤 [h4sh5](https://github.com/h4sh5) Starred [block/buzz](https://github.com/block/buzz)
@@ -628,6 +647,10 @@
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [unclebob/swarm-forge](https://github.com/unclebob/swarm-forge)
   > A simple tool for coordinating several AI agents.
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [Gyoonus/deoptfuscator](https://github.com/Gyoonus/deoptfuscator)
+  > Deobfuscator for Android Application
+
 ### [mohuihui](https://github.com/mohuihui)
 - 🌟 👤 [mohuihui](https://github.com/mohuihui) Starred [inclusionAI/Avernet](https://github.com/inclusionAI/Avernet)
   > Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve ...
@@ -664,6 +687,10 @@
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [winters27/StreamNook](https://github.com/winters27/StreamNook)
   > A native Twitch desktop client for Windows. Multi-stream grid, standalone chat, and every emote prov...
+
+### [obheda12](https://github.com/obheda12)
+- 🌟 👤 [obheda12](https://github.com/obheda12) Starred [osquery/osquery](https://github.com/osquery/osquery)
+  > SQL powered operating system instrumentation, monitoring, and analytics.
 
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [fencesandbox/fence](https://github.com/fencesandbox/fence)
@@ -728,6 +755,10 @@
   > chernobog is a Hex-Rays decompiler plugin that defeats Hikari LLVM obfuscation.
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame)
   > Proof-of-concept game using VBS enclaves to protect itself from cheating
+
+### [safe6Sec](https://github.com/safe6Sec)
+- 🌟 👤 [safe6Sec](https://github.com/safe6Sec) Starred [praetorian-inc/brutus](https://github.com/praetorian-inc/brutus)
+  > Fast, zero-dependency credential testing tool in Go. Brute force SSH, MySQL, PostgreSQL, Redis, Mong...
 
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
@@ -876,6 +907,12 @@
   > 💫 STMP（Smart Tobacco Manufacturing Platform） — A smart digital factory platform for tobacco producti...
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [Sisyphe42/ReignsAgent](https://github.com/Sisyphe42/ReignsAgent)
   > Creator, simulation reviewer, and portable player toolchain for binary-choice card narratives.
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [loulanyue/java-multithreading](https://github.com/loulanyue/java-multithreading)
+  > 💫 帮助你快速掌握多线程与并发编程的实战经验 💫 A practical note repository to help you quickly learn multithreading and co...
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [cndaqiang/cfimapmail](https://github.com/cndaqiang/cfimapmail)
+  > 基于 Cloudflare Workers 的轻量 IMAP 邮件读取页面。
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [loulanyue/toutiao-center](https://github.com/loulanyue/toutiao-center)
+  > Java web项目，使用SpringBoot+Mybatis+velocity开发。数据库使用了redis和mysql
 
 ### [ydf0509](https://github.com/ydf0509)
 - 🌟 👤 [ydf0509](https://github.com/ydf0509) Starred [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
@@ -895,6 +932,10 @@
 
 ### [yichen115](https://github.com/yichen115)
 - 🌟 👤 [yichen115](https://github.com/yichen115) Starred [runZeroInc/vulns-2026-fatfs-chance](https://github.com/runZeroInc/vulns-2026-fatfs-chance)
+
+### [yunsmall](https://github.com/yunsmall)
+- 🌟 👤 [yunsmall](https://github.com/yunsmall) Starred [osm0sis/mkbootimg](https://github.com/osm0sis/mkbootimg)
+  > mkbootimg + unpackbootimg, forked and updated
 
 ### [zenghongtu](https://github.com/zenghongtu)
 - 🌟 👤 [zenghongtu](https://github.com/zenghongtu) Starred [gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)
@@ -918,5 +959,5 @@
 
 
 ---
-*最后更新于 2026-07-24 18:17:04 UTC*
+*最后更新于 2026-07-24 20:19:02 UTC*
 *历史记录保存在 `archive` 目录中。*
