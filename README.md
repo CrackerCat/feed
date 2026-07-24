@@ -46,14 +46,26 @@
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [yunfanxing6/grok-register](https://github.com/yunfanxing6/grok-register)
   > Grok free-account register CLI (Go): CloudMail → OAuth → auto-upload to grok2api / CPA
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [simonlin1212/global-stock-data](https://github.com/simonlin1212/global-stock-data)
-  > 美股港股全栈数据工具包 (AI Skill) — 7层架构 · 17端点 · 5数据源 · 零鉴权 | US & HK Stock Full-Stack Data Toolkit for AI Cod...
+  > US & HK stock full-stack data toolkit for AI coding assistants — 13 layers · 30+ endpoints · 11 sour...
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
   > "Vibe-Trading: Your Personal Trading Agent"
+
+### [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO)
+- 🌟 👤 [CYRUS-STUDIO](https://github.com/CYRUS-STUDIO) Starred [JIEKE66633/One-click-cleaning-of-C-drive](https://github.com/JIEKE66633/One-click-cleaning-of-C-drive)
+  > 只需轻松一点，即可安全高效的清理C盘残留和垃圾，并且对电脑毫无危险
 
 ### [ColdWindScholar](https://github.com/ColdWindScholar)
 - 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [LineageOS/android_device_pc_basic_x86_64_pc](https://github.com/LineageOS/android_device_pc_basic_x86_64_pc)
 - 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [vinegarhq/sober](https://github.com/vinegarhq/sober)
   > Runtime for Roblox on Linux
+
+### [Cxk4ng](https://github.com/Cxk4ng)
+- 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
+  > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
+
+### [DerekSelander](https://github.com/DerekSelander)
+- 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [bharatsesham/InstaAuction](https://github.com/bharatsesham/InstaAuction)
+  > iOS app to generate a 360 imagery of an automobile. 
 
 ### [Dispa1r](https://github.com/Dispa1r)
 - 🌟 👤 [Dispa1r](https://github.com/Dispa1r) Starred [Dispa1r/Integrated_kernel_module](https://github.com/Dispa1r/Integrated_kernel_module)
@@ -64,7 +76,7 @@
 
 ### [Drun1baby](https://github.com/Drun1baby)
 - 🌟 👤 [Drun1baby](https://github.com/Drun1baby) Starred [simonlin1212/global-stock-data](https://github.com/simonlin1212/global-stock-data)
-  > 美股港股全栈数据工具包 (AI Skill) — 7层架构 · 17端点 · 5数据源 · 零鉴权 | US & HK Stock Full-Stack Data Toolkit for AI Cod...
+  > US & HK stock full-stack data toolkit for AI coding assistants — 13 layers · 30+ endpoints · 11 sour...
 - 🌟 👤 [Drun1baby](https://github.com/Drun1baby) Starred [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
   > "Vibe-Trading: Your Personal Trading Agent"
 
@@ -85,6 +97,10 @@
 ### [Felix3322](https://github.com/Felix3322)
 - 🌟 👤 [Felix3322](https://github.com/Felix3322) Starred [AzidoPP/HVCCPS-V1.4](https://github.com/AzidoPP/HVCCPS-V1.4)
   > 2200V 200mA 400W High voltage power supply
+
+### [FldBudin](https://github.com/FldBudin)
+- 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [Nanbeige/llama.cpp](https://github.com/Nanbeige/llama.cpp)
+  > LLM inference in C/C++
 
 ### [GangJust](https://github.com/GangJust)
 - 🌟 👤 [GangJust](https://github.com/GangJust) Starred [JohanChane/clashtui](https://github.com/JohanChane/clashtui)
@@ -108,6 +124,10 @@
 - 🌟 👤 [LasCC](https://github.com/LasCC) Starred [Automattic/harper](https://github.com/Automattic/harper)
   > Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
+### [LeadroyaL](https://github.com/LeadroyaL)
+- 🍴 👤 [LeadroyaL](https://github.com/LeadroyaL) Forked [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP) to [LeadroyaL/IDA-NO-MCP](https://github.com/LeadroyaL/IDA-NO-MCP)
+  > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
+
 ### [Lz1y](https://github.com/Lz1y)
 - 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero)
   > Agent Zero AI framework
@@ -116,9 +136,27 @@
 - 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [c0r1/grok-secintel-daily](https://github.com/c0r1/grok-secintel-daily)
   > 从 X（Twitter）收集并汇总网络安全情报，每日生成 Markdown 日报并由 GitHub Actions 自动提交；Prompt 通过 Secrets 下发
 
+### [M0Rf30](https://github.com/M0Rf30)
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [DeliciousMeatPop/VRCD](https://github.com/DeliciousMeatPop/VRCD)
+  > A cyberpunk flavored, multi OS, sideloader
+
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [R0rt1z2/lkpatcher](https://github.com/R0rt1z2/lkpatcher)
   > Streamline tool and module to patch bootloader (LK) images of MTK device(s).
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus)
+  > GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootloader
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [SlightNeko/ghostlock-rothko](https://github.com/SlightNeko/ghostlock-rothko)
+  > CVE-2026-43499 GhostLock exploit for Redmi K70 Ultra (rothko) - data-only physmap overwrite
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [PeronGH/ghostlock-selinux-disabler](https://github.com/PeronGH/ghostlock-selinux-disabler)
+  > Use CVE-2026-43499 to disable SELinux on Android
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox)
+  > Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <200ms boot...
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [p2p3p/GhostLock-for-OnePlus](https://github.com/p2p3p/GhostLock-for-OnePlus)
+  > （CVE-2026-43499）内核漏洞利用程序，适用于未解锁 Bootloader 的一加设备。
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [Wtrwx/smt878u-ionstack-poc](https://github.com/Wtrwx/smt878u-ionstack-poc)
+  > CVE-2026-43499 (IonStack/GhostLock) pure-C re-root POC for Samsung SM-T878U / gts7l (T878USQS8DXE1)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [Thiasap/oppo-pgem10-ghostlock](https://github.com/Thiasap/oppo-pgem10-ghostlock)
+  > OPPO Find X6 Pro GhostLock (CVE-2026-43499) exploit adaptation
 
 ### [Natsume324](https://github.com/Natsume324)
 - 🌟 👤 [Natsume324](https://github.com/Natsume324) Starred [xororz/local-dream](https://github.com/xororz/local-dream)
@@ -139,6 +177,14 @@
 ### [RiccardoAncarani](https://github.com/RiccardoAncarani)
 - 🌟 👤 [RiccardoAncarani](https://github.com/RiccardoAncarani) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
   > agent multiplexer that lives in your terminal.
+
+### [Ridter](https://github.com/Ridter)
+- 🌟 👤 [Ridter](https://github.com/Ridter) Starred [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)
+  > Certighost POC
+- 🍴 👤 [Ridter](https://github.com/Ridter) Forked [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121) to [Ridter/CVE-2026-54121](https://github.com/Ridter/CVE-2026-54121)
+  > Certighost POC
+- 🌟 👤 [Ridter](https://github.com/Ridter) Starred [sliverarmory/beignet](https://github.com/sliverarmory/beignet)
+  > MacOS Shared Library to Shellcode Loader
 
 ### [SherlockChiang](https://github.com/SherlockChiang)
 - 🌟 👤 [SherlockChiang](https://github.com/SherlockChiang) Starred [nekocatso/Lustful-Spirit-Hunt-Chinese](https://github.com/nekocatso/Lustful-Spirit-Hunt-Chinese)
@@ -168,6 +214,10 @@
   > Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your sou...
 - 🌟 👤 [TideSec](https://github.com/TideSec) Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
   > Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+
+### [TonyChen56](https://github.com/TonyChen56)
+- 🌟 👤 [TonyChen56](https://github.com/TonyChen56) Starred [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill)
+  > dontbesilent 的商业诊断 Skills
 
 ### [Udyz](https://github.com/Udyz)
 - 🌟 👤 [Udyz](https://github.com/Udyz) Starred [berabuddies/redis-poc](https://github.com/berabuddies/redis-poc)
@@ -211,6 +261,9 @@
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [d3vn0mi/Morgans](https://github.com/d3vn0mi/Morgans)
   > Tool to generate a set of malicious/benign odt files. The malicious files have an embedded macro tha...
 
+### [cctv18](https://github.com/cctv18)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [Tools-cx-app/gnosis](https://github.com/Tools-cx-app/gnosis)
+
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [Zippland/perler-beads](https://github.com/Zippland/perler-beads)
   > 拼豆底稿生成器 (Perler Beads Generator)
@@ -236,6 +289,8 @@
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [dinosn/raptor-loop-hunt](https://github.com/dinosn/raptor-loop-hunt)
   > RAPTOR autonomous looping multi-altitude security vulnerability hunt — Claude Code skill
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [VictoriaMetrics/mcp-victoriametrics](https://github.com/VictoriaMetrics/mcp-victoriametrics)
+  > The implementation of Model Context Protocol (MCP) server for VictoriaMetrics
 
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [Sizeable-Bingus/BingusLdr](https://github.com/Sizeable-Bingus/BingusLdr)
@@ -273,6 +328,10 @@
   > The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [google/cityhash](https://github.com/google/cityhash) to [fengjixuchui/cityhash](https://github.com/fengjixuchui/cityhash)
   > Automatically exported from code.google.com/p/cityhash
+
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [34306/macOSAppstoreDecrypter](https://github.com/34306/macOSAppstoreDecrypter)
+  > Source code for an online decrypted app on App Store, require M1 macOS running on 11.2.3 or lower
 
 ### [for-A1kaid](https://github.com/for-A1kaid)
 - 🌟 👤 [for-A1kaid](https://github.com/for-A1kaid) Starred [eeeeeeeeee-code/e0e1-wx](https://github.com/eeeeeeeeee-code/e0e1-wx)
@@ -317,6 +376,14 @@
   > A hive mind communication platform
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [xa11y/xa11y](https://github.com/xa11y/xa11y) to [gmh5225/xa11y](https://github.com/gmh5225/xa11y)
   > Cross platform desktop accessibility library
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [wh1t3lord/kotek](https://github.com/wh1t3lord/kotek) to [gmh5225/kotek](https://github.com/gmh5225/kotek)
+  > Framework for building your game engine or any application. OpenGL ES & Vulkan & BGFX with C++20.
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [wh1t3lord/kotek](https://github.com/wh1t3lord/kotek)
+  > Framework for building your game engine or any application. OpenGL ES & Vulkan & BGFX with C++20.
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [MRCalderon3D/everything-game-dev-code](https://github.com/MRCalderon3D/everything-game-dev-code)
+  > A universal scaffold for AI-assisted game development. 42 agents, 51 commands, 86 skills. Multi-engi...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [MRCalderon3D/everything-game-dev-code](https://github.com/MRCalderon3D/everything-game-dev-code) to [gmh5225/everything-game-dev-code](https://github.com/gmh5225/everything-game-dev-code)
+  > A universal scaffold for AI-assisted game development. 42 agents, 51 commands, 86 skills. Multi-engi...
 
 ### [heyhu](https://github.com/heyhu)
 - 🌟 👤 [heyhu](https://github.com/heyhu) Starred [localsend/localsend](https://github.com/localsend/localsend)
@@ -324,6 +391,8 @@
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [nyblnet/bento](https://github.com/nyblnet/bento)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [fn-opt/dryforge](https://github.com/fn-opt/dryforge)
+  > Dryforge : New generation of harness engineering - Claude Code & Codex Plugin.
 
 ### [ich777](https://github.com/ich777)
 - 🌟 👤 [ich777](https://github.com/ich777) Starred [rpf16rj/steamos-led-bar-release](https://github.com/rpf16rj/steamos-led-bar-release)
@@ -339,6 +408,8 @@
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [openSUSE/snapper](https://github.com/openSUSE/snapper)
   > Manage filesystem snapshots and allow undo of system modifications
+- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [marcelroed/gigatoken](https://github.com/marcelroed/gigatoken)
+  > Language model tokenization at GB/s
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [ZMGID/kivio](https://github.com/ZMGID/kivio)
@@ -358,6 +429,8 @@
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [egoist/kero](https://github.com/egoist/kero)
   > A native terminal workspace for macOS.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dinosn/apache-axis-security-assessment](https://github.com/dinosn/apache-axis-security-assessment)
+  > Security assessment of Apache Axis 1.x + Axis2 — RAPTOR auto-research hunt; lab-proven unauth RCE on...
 
 ### [kost](https://github.com/kost)
 - 🌟 👤 [kost](https://github.com/kost) Starred [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
@@ -370,6 +443,10 @@
 ### [leleliu008](https://github.com/leleliu008)
 - 🌟 👤 [leleliu008](https://github.com/leleliu008) Starred [codespell-project/codespell](https://github.com/codespell-project/codespell)
   > check code for common misspellings
+
+### [llsc12](https://github.com/llsc12)
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [rhx/swift-scripting-bridge](https://github.com/rhx/swift-scripting-bridge)
+  > Swift Bindings for the macOS Scripting Bridge
 
 ### [lz6688](https://github.com/lz6688)
 - 🍴 👤 [lz6688](https://github.com/lz6688) Forked [cncsnet1/jadx-gui-ai](https://github.com/cncsnet1/jadx-gui-ai) to [lz6688/jadx-gui-ai](https://github.com/lz6688/jadx-gui-ai)
@@ -453,18 +530,24 @@
 - 🍴 👤 [quanyeyang](https://github.com/quanyeyang) Forked [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) to [quanyeyang/dragonfly](https://github.com/quanyeyang/dragonfly)
   > A modern replacement for Redis and Memcached
 
+### [r00t4dm](https://github.com/r00t4dm)
+- 🌟 👤 [r00t4dm](https://github.com/r00t4dm) Starred [baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus)
+  > An powerful enhanced toolkit of MyBatis for simplify development
+
 ### [ret2ldz](https://github.com/ret2ldz)
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [GANGE666/xVMP](https://github.com/GANGE666/xVMP)
 
 ### [semlinker](https://github.com/semlinker)
 - 🌟 👤 [semlinker](https://github.com/semlinker) Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
-  > The best browser for both you and your AI agents work in parallel.
+  > The fastest browser for AI agents to run web automation, built for sharing your logged-in browser st...
 
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [soltia48/nfcpy](https://github.com/soltia48/nfcpy)
   > A Python module to read/write NFC tags or communicate with another NFC device.
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
   > "Vibe-Trading: Your Personal Trading Agent"
+- 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [DavidHDev/canvas-ui](https://github.com/DavidHDev/canvas-ui)
+  > A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, S...
 
 ### [shuixi2013](https://github.com/shuixi2013)
 - 🍴 👤 [shuixi2013](https://github.com/shuixi2013) Forked [kkkbbb/rustFrida](https://github.com/kkkbbb/rustFrida) to [shuixi2013/rustFrida](https://github.com/shuixi2013/rustFrida)
@@ -481,6 +564,8 @@
   > DecBench: How close are we to recovering perfect decompilation from binaries?
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [NomaDamas/katok](https://github.com/NomaDamas/katok)
   > 에이전트도 카카오톡을 보고 검색할 권리가 있다 - BM25 + Vector Search까지
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [gmh5225/code-act](https://github.com/gmh5225/code-act)
+  > Official Repo for ICML 2024 paper "Executable Code Actions Elicit Better LLM Agents" by Xingyao Wang...
 
 ### [su-vikas](https://github.com/su-vikas)
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [PhonePe/thorfinn](https://github.com/PhonePe/thorfinn)
@@ -516,6 +601,10 @@
 ### [vavkamil](https://github.com/vavkamil)
 - 🌟 👤 [vavkamil](https://github.com/vavkamil) Starred [JanglingPointer/Image_To_QR](https://github.com/JanglingPointer/Image_To_QR)
   > Generating QR Codes From Images
+
+### [veaba](https://github.com/veaba)
+- 🌟 👤 [veaba](https://github.com/veaba) Starred [blmoistawinde/HarvestText](https://github.com/blmoistawinde/HarvestText)
+  > 文本挖掘和预处理工具（文本清洗、新词发现、情感分析、实体识别链接、关键词抽取、知识抽取、句法分析等），无监督或弱监督方法
 
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [cdredfox/workbuddy-skin-studio](https://github.com/cdredfox/workbuddy-skin-studio)
@@ -602,5 +691,5 @@
 
 
 ---
-*最后更新于 2026-07-24 10:16:44 UTC*
+*最后更新于 2026-07-24 12:18:01 UTC*
 *历史记录保存在 `archive` 目录中。*
