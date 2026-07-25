@@ -130,6 +130,18 @@
 - 🚀 👤 [LeadroyaL](https://github.com/LeadroyaL) Made [xinsheng-plugin/chrome-plugin](https://github.com/xinsheng-plugin/chrome-plugin) public
   > 为心声社区评论增加正序选项，恢复评论楼层号。
 
+### [Linuxoid-cn](https://github.com/Linuxoid-cn)
+- 🌟 👤 [Linuxoid-cn](https://github.com/Linuxoid-cn) Starred [timeshiftsauce/CeruMusic](https://github.com/timeshiftsauce/CeruMusic)
+  > Ceru Music 是基于 Electron 和 Vue 开发的跨平台桌面音乐播放器工具，借鉴洛雪音乐插件思想，提供插件运行框架与播放功能，不直接存储、提供任何音乐源文件。用户需通过自行选择、安装合...
+
+### [LockGit](https://github.com/LockGit)
+- 🌟 👤 [LockGit](https://github.com/LockGit) Starred [Sanster/IOPaint](https://github.com/Sanster/IOPaint)
+  > Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your...
+
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [0xf15h/mtk_su](https://github.com/0xf15h/mtk_su)
+  > CVE-2020-0069
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [bit4woo/knife](https://github.com/bit4woo/knife) to [Mr-xn/knife](https://github.com/Mr-xn/knife)
   > A burp extension that add some useful function to  Context Menu 添加一些右键菜单让burp用起来更顺畅
@@ -153,6 +165,8 @@
   > A powerful decompiler that lets you reverse-engineer React Native mobile apps by converting their co...
 - 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
   > bluetooth mesh chat, IRC vibes
+- 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [ThioJoe/Thio-Background-App-Notifier](https://github.com/ThioJoe/Thio-Background-App-Notifier)
+  > Windows tool to notify you about new auto-run services and scheduled tasks
 
 ### [Pengrey](https://github.com/Pengrey)
 - 🌟 👤 [Pengrey](https://github.com/Pengrey) Starred [torry2/sharpbound](https://github.com/torry2/sharpbound)
@@ -277,6 +291,10 @@
 - 🌟 👤 [abdihaikal](https://github.com/abdihaikal) Starred [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
   > The agent engineering platform.
 
+### [ahkehra](https://github.com/ahkehra)
+- 🍴 👤 [ahkehra](https://github.com/ahkehra) Forked [NothingOSS/android_kernel_msm-6.6_nothing_sm8735](https://github.com/NothingOSS/android_kernel_msm-6.6_nothing_sm8735) to [ahkehra/android_nexuskernel_msm-6.6_nothing_sm8735](https://github.com/ahkehra/android_nexuskernel_msm-6.6_nothing_sm8735)
+  > Kernel Source and devicetree for NOTHING Phone(3)
+
 ### [ant4g0nist](https://github.com/ant4g0nist)
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
   > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
@@ -336,6 +354,10 @@
   > 内核级希沃冰点还原管理工具
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Sizeable-Bingus/BingusLdr](https://github.com/Sizeable-Bingus/BingusLdr) to [fengjixuchui/BingusLdr](https://github.com/fengjixuchui/BingusLdr)
   > BingusLdr is a DLL loader built with Crystal Palace that uses a CET compatible stack spoofing techni...
+
+### [ganyao114](https://github.com/ganyao114)
+- 🌟 👤 [ganyao114](https://github.com/ganyao114) Starred [pocket-stack/pocketjs](https://github.com/pocket-stack/pocketjs)
+  > High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid s...
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
@@ -445,6 +467,8 @@
   > 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and ...
 - 🍴 👤 [kost](https://github.com/kost) Forked [opencloud-eu/reva](https://github.com/opencloud-eu/reva) to [kost/reva](https://github.com/kost/reva)
   > WebDAV/gRPC/HTTP high performance server to link high level clients to storage backends
+- 🍴 👤 [kost](https://github.com/kost) Forked [opencloud-eu/web](https://github.com/opencloud-eu/web) to [kost/opencloud-web](https://github.com/kost/opencloud-web)
+  > 🐻 Web UI for OpenCloud built with Vue.js and TypeScript
 
 ### [kurogai](https://github.com/kurogai)
 - 🌟 👤 [kurogai](https://github.com/kurogai) Starred [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound)
@@ -472,6 +496,8 @@
 ### [moonD4rk](https://github.com/moonD4rk)
 - 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [cloudflare/nimbus](https://github.com/cloudflare/nimbus)
   > Docs for humans and agents, built on Astro
+- 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [YTwsy/OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac)
+  > Surge-style whole-home gateway and control plane for macOS — mihomo TUN, dnsmasq-powered DHCP/DNS, p...
 
 ### [mr-bogey](https://github.com/mr-bogey)
 - 🍴 👤 [mr-bogey](https://github.com/mr-bogey) Forked [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) to [mr-bogey/Wand-Enhancer](https://github.com/mr-bogey/Wand-Enhancer)
@@ -571,6 +597,8 @@
 ### [sjshb57](https://github.com/sjshb57)
 - 🍴 👤 [sjshb57](https://github.com/sjshb57) Forked [a1393323447/aseprite-builder](https://github.com/a1393323447/aseprite-builder) to [sjshb57/aseprite-builder-R](https://github.com/sjshb57/aseprite-builder-R)
   > Build Aseprite using Github action(Window, MacOS, Ubuntu) in 10 minutes.
+- 🌟 👤 [sjshb57](https://github.com/sjshb57) Starred [RookieEnough/Orion-Store](https://github.com/RookieEnough/Orion-Store)
+  > The ultimate home for modded apps. OrionStore offers instant access to YouTube Morphe, YT Music Morp...
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🍴 👤 [sonyps5201314](https://github.com/sonyps5201314) Forked [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng) to [sonyps5201314/hrtng](https://github.com/sonyps5201314/hrtng)
@@ -583,6 +611,10 @@
 ### [stray-coding](https://github.com/stray-coding)
 - 🌟 👤 [stray-coding](https://github.com/stray-coding) Starred [cat3399/blbl](https://github.com/cat3399/blbl)
   > 一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5
+
+### [surendrajat](https://github.com/surendrajat)
+- 🌟 👤 [surendrajat](https://github.com/surendrajat) Starred [Automattic/harper](https://github.com/Automattic/harper)
+  > Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)
@@ -636,6 +668,10 @@
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills)
   > A curated directory of open-source AI agent skills for Swift and Apple platform development.
 
+### [wxxsfxyzm](https://github.com/wxxsfxyzm)
+- 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [killerprojecte/REAREye](https://github.com/killerprojecte/REAREye)
+  > Yet Another Xposed module for Xiaomi rear screen
+
 ### [xbyl1234](https://github.com/xbyl1234)
 - 🍴 👤 [xbyl1234](https://github.com/xbyl1234) Forked [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) to [xbyl1234/Duck-Detector-Refactoring](https://github.com/xbyl1234/Duck-Detector-Refactoring)
   > Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, a...
@@ -647,12 +683,16 @@
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [NextWeb4/gw](https://github.com/NextWeb4/gw)
   > HxHwang Gw 公文事务与写作管理系统
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [FreeAccHub/qaa-airtype](https://github.com/FreeAccHub/qaa-airtype)
+  > QAA AirType 是一个轻量级的局域网输入板，让你可以通过手机端的输入法（如豆包语音输入）来实现电脑端的文字输入（与Agent对话）。
 
 ### [yfe404](https://github.com/yfe404)
 - 🌟 👤 [yfe404](https://github.com/yfe404) Starred [EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f)
   > WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a ...
 - 🚀 👤 [yfe404](https://github.com/yfe404) Made [yfe404/apify-light-console](https://github.com/yfe404/apify-light-console) public
   > A local console for watching your Apify runs. Zero dependencies, no build step.
+- 🌟 👤 [yfe404](https://github.com/yfe404) Starred [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
+  > Academic Research Skills for Claude Code: research → write → review → revise → finalize
 
 ### [yhirose](https://github.com/yhirose)
 - 🌟 👤 [yhirose](https://github.com/yhirose) Starred [jakesgordon/javascript-racer](https://github.com/jakesgordon/javascript-racer)
@@ -682,5 +722,5 @@
 
 
 ---
-*最后更新于 2026-07-25 16:57:01 UTC*
+*最后更新于 2026-07-25 19:21:20 UTC*
 *历史记录保存在 `archive` 目录中。*
