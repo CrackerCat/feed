@@ -18,6 +18,10 @@
 - 🌟 👤 [1193776794](https://github.com/1193776794) Starred [jqssun/android-lineage-qemu](https://github.com/jqssun/android-lineage-qemu)
   > LineageOS for QEMU virtual machines
 
+### [1orz](https://github.com/1orz)
+- 🌟 👤 [1orz](https://github.com/1orz) Starred [GeQ1an/Special-Guide](https://github.com/GeQ1an/Special-Guide)
+  > Some special guides for electronics / 一些关于电子产品的特殊教程
+
 ### [5ec1cff](https://github.com/5ec1cff)
 - 🌟 👤 [5ec1cff](https://github.com/5ec1cff) Starred [huajideshutiao/legado](https://github.com/huajideshutiao/legado)
   > Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学...
@@ -86,6 +90,10 @@
 - 🌟 👤 [Nep-Timeline](https://github.com/Nep-Timeline) Starred [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS)
   > Open source alternative to proprietary Tricky Store module
 
+### [PabloCastellano](https://github.com/PabloCastellano)
+- 🌟 👤 [PabloCastellano](https://github.com/PabloCastellano) Starred [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
+  > mailcow: dockerized - 🐮 + 🐋 = 💕
+
 ### [QingYuan688](https://github.com/QingYuan688)
 - 🍴 👤 [QingYuan688](https://github.com/QingYuan688) Forked [Numbersf/Action-Build](https://github.com/Numbersf/Action-Build) to [QingYuan688/Action-Build](https://github.com/QingYuan688/Action-Build)
   > Build SukiSU-Ultra/KernelSU/KernelSU-Next/ReSukiSU Kernels For All OnePlus QCOM & MTK Devices (GKI2....
@@ -117,12 +125,18 @@
   > Read, understand and silence the Windows GDID device identifier (the ID that tracked a hacker throug...
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [bryanthaboi/pokemon-gen1-recomp-project](https://github.com/bryanthaboi/pokemon-gen1-recomp-project)
   > Pokemon Gen 1 Recompilation Project - aka Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Pok...
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [Xposed-Modules-Repo/balti.xposed.pixelifygooglephotos](https://github.com/Xposed-Modules-Repo/balti.xposed.pixelifygooglephotos)
+  > Pixelify GPhotos
 
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [lessweb/deepcode-cli](https://github.com/lessweb/deepcode-cli)
   > Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [bolone-sengkuni/CleveresTricky](https://github.com/bolone-sengkuni/CleveresTricky)
   > Advanced Spoofing Module for Android
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [ibelick/ui-skills](https://github.com/ibelick/ui-skills)
+  > Skills for Design Engineers
 
 ### [TheQmaks](https://github.com/TheQmaks)
 - 🌟 👤 [TheQmaks](https://github.com/TheQmaks) Starred [likec4/likec4](https://github.com/likec4/likec4)
@@ -160,6 +174,10 @@
 ### [Xieansecn](https://github.com/Xieansecn)
 - 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [microg/GmsCore](https://github.com/microg/GmsCore)
   > Free implementation of Play Services
+- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [KernelSU-Modules-Repo/microg_installer_revived_again](https://github.com/KernelSU-Modules-Repo/microg_installer_revived_again)
+  > microG Installer Revived.... again
+- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [spacealtctrl/microg_installer_revived_again](https://github.com/spacealtctrl/microg_installer_revived_again)
+  > Promote microG GmsCore, GsfProxy, Companion/Play Store and MapsV1 to system with privileged permissi...
 
 ### [ZeroMemoryEx](https://github.com/ZeroMemoryEx)
 - 🌟 👤 [ZeroMemoryEx](https://github.com/ZeroMemoryEx) Starred [adamyaxley/Obfuscate](https://github.com/adamyaxley/Obfuscate)
@@ -181,6 +199,10 @@
 - 🌟 👤 [ch4ncellor](https://github.com/ch4ncellor) Starred [yubie-re/ida-jm-xorstr-decrypt-plugin](https://github.com/yubie-re/ida-jm-xorstr-decrypt-plugin)
   > Attempts to decrypt JM Xorstr in some x64 binaries
 
+### [codehz](https://github.com/codehz)
+- 🌟 👤 [codehz](https://github.com/codehz) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
+  > TypeScript-to-Native Compiler
+
 ### [cwuom](https://github.com/cwuom)
 - 🌟 👤 [cwuom](https://github.com/cwuom) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
@@ -190,6 +212,9 @@
   > Fast and accurate AI powered file content types detection 
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [marcelroed/gigatoken](https://github.com/marcelroed/gigatoken)
   > Language model tokenization at GB/s
+
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [34306/usbliter8-fun](https://github.com/34306/usbliter8-fun)
 
 ### [fei-ke](https://github.com/fei-ke)
 - 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [vova7878/ZygoteLoader](https://github.com/vova7878/ZygoteLoader)
@@ -221,6 +246,9 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [panwnvda/SliverC2-Evasion-Suite](https://github.com/panwnvda/SliverC2-Evasion-Suite) to [gmh5225/SliverC2-Evasion-Suite](https://github.com/gmh5225/SliverC2-Evasion-Suite)
   > Four-kit defense evasion suite for Sliver C2: Crystal Palace loader, sleep masking, in-memory PE exe...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [lsecqt/FakeWindowsPopup](https://github.com/lsecqt/FakeWindowsPopup) to [gmh5225/FakeWindowsPopup](https://github.com/gmh5225/FakeWindowsPopup)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [arihealthbird/opencharts-mcp](https://github.com/arihealthbird/opencharts-mcp) to [gmh5225/opencharts-mcp](https://github.com/gmh5225/opencharts-mcp)
+  > Docs for the OpenCharts MCP server — build flowcharts, notes, slides, sheets, boards, sites, agents ...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) to [gmh5225/esp32-ai](https://github.com/gmh5225/esp32-ai)
 
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness)
@@ -248,6 +276,10 @@
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [leookun/cursor-byok](https://github.com/leookun/cursor-byok)
   > Infinite BYOK in Cursor  https://github.com/leookun/cursor-byok/releases
 
+### [jpacg](https://github.com/jpacg)
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
 ### [kenvix](https://github.com/kenvix)
 - 🌟 👤 [kenvix](https://github.com/kenvix) Starred [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager)
   > A Download Manager that speeds up your downloads
@@ -255,6 +287,18 @@
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [panwnvda/SliverC2-Evasion-Suite](https://github.com/panwnvda/SliverC2-Evasion-Suite)
   > Four-kit defense evasion suite for Sliver C2: Crystal Palace loader, sleep masking, in-memory PE exe...
+
+### [kurogai](https://github.com/kurogai)
+- 🌟 👤 [kurogai](https://github.com/kurogai) Starred [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound)
+  > Six Degrees of Domain Admin
+
+### [lyy289065406](https://github.com/lyy289065406)
+- 🍴 👤 [lyy289065406](https://github.com/lyy289065406) Forked [nocobase/nocobase](https://github.com/nocobase/nocobase) to [EXP-Codes/pay-system](https://github.com/EXP-Codes/pay-system)
+  > NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of gene...
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)
+  > Certighost POC
 
 ### [mingheyan](https://github.com/mingheyan)
 - 🌟 👤 [mingheyan](https://github.com/mingheyan) Starred [HanZzzzz000/iv8](https://github.com/HanZzzzz000/iv8)
@@ -264,6 +308,10 @@
 ### [mr-bogey](https://github.com/mr-bogey)
 - 🍴 👤 [mr-bogey](https://github.com/mr-bogey) Forked [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) to [mr-bogey/Wand-Enhancer](https://github.com/mr-bogey/Wand-Enhancer)
   > Advanced UX and interoperability extension for Wand (WeMod) app
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stencil-hq/slab](https://github.com/stencil-hq/slab)
+  > A design language for agents
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)
@@ -288,6 +336,10 @@
   > GUI for apktool, signapk, zipalign and baksmali utilities.
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [mise-plugins/vfox-android-sdk](https://github.com/mise-plugins/vfox-android-sdk)
   > vfox plugin for Android SDK command-line tools
+
+### [polygraphene](https://github.com/polygraphene)
+- 🍴 👤 [polygraphene](https://github.com/polygraphene) Forked [jossephus/chuchu](https://github.com/jossephus/chuchu) to [polygraphene/chuchu](https://github.com/polygraphene/chuchu)
+  > ssh client for android based on libghostty
 
 ### [quangnh89](https://github.com/quangnh89)
 - 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
@@ -357,6 +409,10 @@
 - 🍴 👤 [xbyl1234](https://github.com/xbyl1234) Forked [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) to [xbyl1234/Duck-Detector-Refactoring](https://github.com/xbyl1234/Duck-Detector-Refactoring)
   > Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, a...
 
+### [yfe404](https://github.com/yfe404)
+- 🌟 👤 [yfe404](https://github.com/yfe404) Starred [EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f)
+  > WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a ...
+
 ### [yhirose](https://github.com/yhirose)
 - 🌟 👤 [yhirose](https://github.com/yhirose) Starred [jakesgordon/javascript-racer](https://github.com/jakesgordon/javascript-racer)
   > How to build an outrun-style racing game in javascript
@@ -381,5 +437,5 @@
 
 
 ---
-*最后更新于 2026-07-25 09:46:50 UTC*
+*最后更新于 2026-07-25 11:09:42 UTC*
 *历史记录保存在 `archive` 目录中。*
