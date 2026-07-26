@@ -10,6 +10,10 @@
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [steelbrain/reims-vgpu](https://github.com/steelbrain/reims-vgpu)
   > reims-vgpu is an experimental virtual GPU for macOS guests
 
+### [0xacb](https://github.com/0xacb)
+- 🍴 👤 [0xacb](https://github.com/0xacb) Forked [libvips/libvips](https://github.com/libvips/libvips) to [0xacb/libvips](https://github.com/0xacb/libvips)
+  > A fast image processing library with low memory needs.
+
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec)
   > An open specification for agentic AI security evaluation and testing, from Cisco.
@@ -23,6 +27,8 @@
   > Mythic C2 agent targeting Linux and Windows hosts written in Rust
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic)
   > A collaborative, multi-platform, red teaming framework
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
+  > Build and query a graph database representation of source code
 
 ### [1193776794](https://github.com/1193776794)
 - 🌟 👤 [1193776794](https://github.com/1193776794) Starred [feicong/droid-ddk](https://github.com/feicong/droid-ddk)
@@ -36,6 +42,14 @@
 - 🌟 👤 [1orz](https://github.com/1orz) Starred [nxtrace/nexttraceweb](https://github.com/nxtrace/nexttraceweb)
   > MTR风格的NextTrace网页WRAPPER
 
+### [4ra1n](https://github.com/4ra1n)
+- 🌟 👤 [4ra1n](https://github.com/4ra1n) Starred [201853910/VMwareWorkstation](https://github.com/201853910/VMwareWorkstation)
+  > 手动上传官网的VMwareWorkstation安装包
+
+### [Aar0n3906](https://github.com/Aar0n3906)
+- 🌟 👤 [Aar0n3906](https://github.com/Aar0n3906) Starred [SoyBeanMilkx/dbi_detect](https://github.com/SoyBeanMilkx/dbi_detect)
+  >  check whether important functions are being traced.
+
 ### [ColdWindScholar](https://github.com/ColdWindScholar)
 - 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)
   > Telegram Desktop messaging app
@@ -43,6 +57,9 @@
 ### [Colorful-glassblock](https://github.com/Colorful-glassblock)
 - 🍴 👤 [Colorful-glassblock](https://github.com/Colorful-glassblock) Forked [xianwan1314/CVE-2026-43499-Poc-Analysis](https://github.com/xianwan1314/CVE-2026-43499-Poc-Analysis) to [Colorful-glassblock/CVE-2026-43499-Poc-Analysis](https://github.com/Colorful-glassblock/CVE-2026-43499-Poc-Analysis)
   > Vulnerability analysis and Proof of Concept (PoC) for CVE-2026-43499 affecting Xiaomi devices. For e...
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [MSNightmare/BrokenArrow](https://github.com/MSNightmare/BrokenArrow)
 
 ### [DarkLineX](https://github.com/DarkLineX)
 - 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
@@ -57,6 +74,10 @@
 ### [DerekSelander](https://github.com/DerekSelander)
 - 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [CoreBedtime/playground](https://github.com/CoreBedtime/playground)
   > arm64 macos tweak injector
+
+### [Dispa1r](https://github.com/Dispa1r)
+- 🍴 👤 [Dispa1r](https://github.com/Dispa1r) Forked [tiann/hapi](https://github.com/tiann/hapi) to [Dispa1r/hapi](https://github.com/Dispa1r/hapi)
+  > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
 
 ### [Fplyth0ner-Combie](https://github.com/Fplyth0ner-Combie)
 - 🌟 👤 [Fplyth0ner-Combie](https://github.com/Fplyth0ner-Combie) Starred [atharva-acharya/Splunk-SOC-Lab](https://github.com/atharva-acharya/Splunk-SOC-Lab)
@@ -104,6 +125,12 @@
 ### [Lakr233](https://github.com/Lakr233)
 - 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [steelbrain/reims-vgpu](https://github.com/steelbrain/reims-vgpu)
   > reims-vgpu is an experimental virtual GPU for macOS guests
+
+### [LunFengChen](https://github.com/LunFengChen)
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [SoyBeanMilkx/dbi_detect](https://github.com/SoyBeanMilkx/dbi_detect)
+  >  check whether important functions are being traced.
+- 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [SoyBeanMilkx/dbi_detect](https://github.com/SoyBeanMilkx/dbi_detect) to [LunFengChen/dbi_detect-yuuki](https://github.com/LunFengChen/dbi_detect-yuuki)
+  >  check whether important functions are being traced.
 
 ### [Lz1y](https://github.com/Lz1y)
 - 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
@@ -156,9 +183,17 @@
 - 🌟 👤 [Satar07](https://github.com/Satar07) Starred [Satar07/obsidian-ai-learning](https://github.com/Satar07/obsidian-ai-learning)
   > AI-assisted recursive learning plugin for Obsidian. Context-aware sidebar that follows your note lin...
 
+### [SeeFlowerX](https://github.com/SeeFlowerX)
+- 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [p2p3p/GhostLock-for-OnePlus](https://github.com/p2p3p/GhostLock-for-OnePlus)
+  > （CVE-2026-43499）内核漏洞利用程序，适用于未解锁 Bootloader 的一加设备。
+
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
   > Signed device profiles, mobile exploit payloads, and KernelSU artifacts for Root My Galaxy
+
+### [SodaMilk233](https://github.com/SodaMilk233)
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [Fanxiaoyao66/pass-claude-check](https://github.com/Fanxiaoyao66/pass-claude-check)
+  > 本机无感使用虚拟机健康环境运行 Claude，绕过 Claude 的时区检测，并隔离语言、字体和配置状态。
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [SoyBeanMilkx/dbi_detect](https://github.com/SoyBeanMilkx/dbi_detect)
@@ -198,6 +233,13 @@
 ### [Xieansecn](https://github.com/Xieansecn)
 - 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [ReSukiSU/ReSukiSU](https://github.com/ReSukiSU/ReSukiSU)
   > A KernelSU based root solution for Android
+- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [Chaitanyakm/device_xiaomi_marble](https://github.com/Chaitanyakm/device_xiaomi_marble)
+  > vendor: https://github.com/Chaitanyakm/vendor_xiaomi_marble.git
+- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [Chaitanyakm/device_xiaomi_miuicamera-marble](https://github.com/Chaitanyakm/device_xiaomi_miuicamera-marble)
+  > vendor: https://gitlab.com/Chaitanyakm/vendor_xiaomi_miuicamera-marble
+- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [Chaitanyakm/device_xiaomi_sm8450-common](https://github.com/Chaitanyakm/device_xiaomi_sm8450-common)
+  > vendor: https://github.com/Chaitanyakm/vendor_xiaomi_sm8450-common.git
+- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [LineageOS/android_kernel_xiaomi_sm8450](https://github.com/LineageOS/android_kernel_xiaomi_sm8450)
 
 ### [Yu2erer](https://github.com/Yu2erer)
 - 🌟 👤 [Yu2erer](https://github.com/Yu2erer) Starred [slopus/happy](https://github.com/slopus/happy)
@@ -271,6 +313,10 @@
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [ish-app/ish](https://github.com/ish-app/ish)
   > Linux shell for iOS
 
+### [eggfly](https://github.com/eggfly)
+- 🍴 👤 [eggfly](https://github.com/eggfly) Forked [nand2mario/tangcore](https://github.com/nand2mario/tangcore) to [eggfly/tangcore](https://github.com/eggfly/tangcore)
+  > FPGA gaming distribution for Sipeed Tang FPGA boards - NES, SNES, GBA, MegaDrive/Genesis and SMS
+
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [pressly/goose](https://github.com/pressly/goose)
   > A database migration tool. Supports SQL migrations and Go functions. 
@@ -317,6 +363,10 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [matrixleons/evilwaf](https://github.com/matrixleons/evilwaf) to [gmh5225/evilwaf](https://github.com/gmh5225/evilwaf)
   > evilwaf is a penetration testing tool designed to detect and bypass common Web Application Firewalls...
 
+### [guiying712](https://github.com/guiying712)
+- 🌟 👤 [guiying712](https://github.com/guiying712) Starred [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+  > Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, sch...
+
 ### [hanbings](https://github.com/hanbings)
 - 🌟 👤 [hanbings](https://github.com/hanbings) Starred [LMMS/lmms](https://github.com/LMMS/lmms)
   > Cross-platform music production software
@@ -330,6 +380,8 @@
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)
   > A Call of Duty-quality FPS in Three.js, built from a single prompt.
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)
+  > Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSee...
 
 ### [iAklis](https://github.com/iAklis)
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)
@@ -384,6 +436,10 @@
 - 🌟 👤 [luochuanyuewu](https://github.com/luochuanyuewu) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
   > Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
+### [lyming99](https://github.com/lyming99)
+- 🌟 👤 [lyming99](https://github.com/lyming99) Starred [kurzcraft/DeepTask](https://github.com/kurzcraft/DeepTask)
+  > open source agent in vscodium
+
 ### [lynnux](https://github.com/lynnux)
 - 🌟 👤 [lynnux](https://github.com/lynnux) Starred [ShigemoriHakura/rlm_jar_bypass](https://github.com/ShigemoriHakura/rlm_jar_bypass)
   > a jar package which bypass rlm.
@@ -429,6 +485,10 @@
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/raknet](https://github.com/bedrock-v/raknet)
   > V library for RakNet protocol.
 
+### [mo-xiaoxi](https://github.com/mo-xiaoxi)
+- 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [deerwork-ai/deer-workflow](https://github.com/deerwork-ai/deer-workflow)
+  > An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semanti...
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Avi130805/twist-bench](https://github.com/Avi130805/twist-bench)
   > Closed-loop visual reasoning benchmark: can a model build an accurate world-model from its own scree...
@@ -465,6 +525,10 @@
 - 🍴 👤 [qaiu](https://github.com/qaiu) Forked [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) to [nfd-parser/netdisk-fast-download-pybak](https://github.com/nfd-parser/netdisk-fast-download-pybak)
   > 聚合多种主流网盘的直链解析下载服务, 一键解析下载，已支持夸克网盘/uc网盘/蓝奏云/蓝奏优享/小飞机盘/123云盘等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top ht...
 
+### [quangnh89](https://github.com/quangnh89)
+- 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [lipku/LiveTalking](https://github.com/lipku/LiveTalking)
+  > Real time interactive streaming digital human
+
 ### [quanyeyang](https://github.com/quanyeyang)
 - 🌟 👤 [quanyeyang](https://github.com/quanyeyang) Starred [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
   > WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, ed...
@@ -474,6 +538,10 @@
   > Production-Grade Container Scheduling and Management
 - 🍴 👤 [quanyeyang](https://github.com/quanyeyang) Forked [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) to [quanyeyang/kubernetes](https://github.com/quanyeyang/kubernetes)
   > Production-Grade Container Scheduling and Management
+
+### [qwq233](https://github.com/qwq233)
+- 🍴 👤 [qwq233](https://github.com/qwq233) Forked [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) to [qwq233/ios_rule_script](https://github.com/qwq233/ios_rule_script)
+  > 分流规则、重写写规则及脚本。
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [IliyaBrook/figma-linux](https://github.com/IliyaBrook/figma-linux)
@@ -509,6 +577,10 @@
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
   > Dopamine is a semi-untethered jailbreak for iOS 15 and 16
 
+### [taviso](https://github.com/taviso)
+- 🌟 👤 [taviso](https://github.com/taviso) Starred [cantino/mcfly](https://github.com/cantino/mcfly)
+  > Fly through your shell history. Great Scott!
+
 ### [tfoldi](https://github.com/tfoldi)
 - 🌟 👤 [tfoldi](https://github.com/tfoldi) Starred [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos)
   > Dimensional is the agentic operating system for physical space. Command humanoids, quadrupeds, drone...
@@ -520,6 +592,8 @@
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build...
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [ZyphrZero/kiro.rs](https://github.com/ZyphrZero/kiro.rs)
+  > A Kiro Client in Rust
 
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [modem-dev/skills](https://github.com/modem-dev/skills)
@@ -568,5 +642,5 @@
 
 
 ---
-*最后更新于 2026-07-26 15:04:43 UTC*
+*最后更新于 2026-07-26 17:00:45 UTC*
 *历史记录保存在 `archive` 目录中。*
