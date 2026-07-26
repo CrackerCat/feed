@@ -12,6 +12,10 @@
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [cisco-foundation-ai/vulnerability-localization-benchmark](https://github.com/cisco-foundation-ai/vulnerability-localization-benchmark)
   > Repository for Vulnerability Localization Benchmark
 
+### [1193776794](https://github.com/1193776794)
+- 🌟 👤 [1193776794](https://github.com/1193776794) Starred [feicong/droid-ddk](https://github.com/feicong/droid-ddk)
+  > 安卓内核驱动开发工具包 (Droid Driver Development Kit)
+
 ### [16hex-Dumb](https://github.com/16hex-Dumb)
 - 🌟 👤 [16hex-Dumb](https://github.com/16hex-Dumb) Starred [gastownhall/beads](https://github.com/gastownhall/beads)
   > Beads - A memory upgrade for your coding agent
@@ -32,6 +36,12 @@
 - 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
   > Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server,...
 
+### [Dere3046](https://github.com/Dere3046)
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [YosefLab/VISION](https://github.com/YosefLab/VISION)
+  > Signature Analysis and Visualization for Single-Cell RNA-seq
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [zDyant/Vision-Cursor](https://github.com/zDyant/Vision-Cursor)
+  > Clean cursor inspired by Windows 11 style
+
 ### [Fplyth0ner-Combie](https://github.com/Fplyth0ner-Combie)
 - 🌟 👤 [Fplyth0ner-Combie](https://github.com/Fplyth0ner-Combie) Starred [atharva-acharya/Splunk-SOC-Lab](https://github.com/atharva-acharya/Splunk-SOC-Lab)
   > Splunk SIEM investigation lab with SPL detection rules, BOTS dataset analysis, and IR reports mapped...
@@ -41,6 +51,12 @@
 ### [Gegenbauer](https://github.com/Gegenbauer)
 - 🍴 👤 [Gegenbauer](https://github.com/Gegenbauer) Forked [Predidit/Kazumi](https://github.com/Predidit/Kazumi) to [Gegenbauer/kazumi](https://github.com/Gegenbauer/kazumi)
   > 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
+
+### [HSSkyBoy](https://github.com/HSSkyBoy)
+- 🌟 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
+  > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
+- 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) to [HSSkyBoy/claude-hud](https://github.com/HSSkyBoy/claude-hud)
+  > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
 
 ### [HdShare](https://github.com/HdShare)
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [wux1an/wxapkg](https://github.com/wux1an/wxapkg)
@@ -60,6 +76,8 @@
 
 ### [Konano](https://github.com/Konano)
 - 🌟 👤 [Konano](https://github.com/Konano) Starred [ji233-Sun/kaleidodanmu](https://github.com/ji233-Sun/kaleidodanmu)
+- 🍴 👤 [Konano](https://github.com/Konano) Forked [cgeo/cgeo](https://github.com/cgeo/cgeo) to [Konano/cgeo-cn](https://github.com/Konano/cgeo-cn)
+  > c:geo - The powerful Android geocaching app.
 
 ### [Lz1y](https://github.com/Lz1y)
 - 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
@@ -99,6 +117,10 @@
 ### [Satar07](https://github.com/Satar07)
 - 🌟 👤 [Satar07](https://github.com/Satar07) Starred [Satar07/obsidian-ai-learning](https://github.com/Satar07/obsidian-ai-learning)
   > AI-assisted recursive learning plugin for Obsidian. Context-aware sidebar that follows your note lin...
+
+### [Skorpion96](https://github.com/Skorpion96)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
+  > Signed device profiles, mobile exploit payloads, and KernelSU artifacts for Root My Galaxy
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [SoyBeanMilkx/dbi_detect](https://github.com/SoyBeanMilkx/dbi_detect)
@@ -171,6 +193,10 @@
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)
   > GLM-OCR: Accurate ×  Fast × Comprehensive
+
+### [cxxsheng](https://github.com/cxxsheng)
+- 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [jingyaogong/minimind-o](https://github.com/jingyaogong/minimind-o)
+  > 🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speak...
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [kunobi-ninja/kache](https://github.com/kunobi-ninja/kache)
@@ -254,6 +280,10 @@
 - 🌟 👤 [lich4](https://github.com/lich4) Starred [perspective-dev/perspective](https://github.com/perspective-dev/perspective)
   > A data visualization and analytics component, especially well-suited for large and/or streaming data...
 
+### [luochuanyuewu](https://github.com/luochuanyuewu)
+- 🌟 👤 [luochuanyuewu](https://github.com/luochuanyuewu) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
+  > Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
 ### [lynnux](https://github.com/lynnux)
 - 🌟 👤 [lynnux](https://github.com/lynnux) Starred [ShigemoriHakura/rlm_jar_bypass](https://github.com/ShigemoriHakura/rlm_jar_bypass)
   > a jar package which bypass rlm.
@@ -302,10 +332,6 @@
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy)
   > 📱 Display and control your Android device graphically with scrcpy.
 
-### [niqiuqiux](https://github.com/niqiuqiux)
-- 🍴 👤 [niqiuqiux](https://github.com/niqiuqiux) Forked [Lm36/tempmail-server](https://github.com/Lm36/tempmail-server) to [niqiuqiux/tempmail-server](https://github.com/niqiuqiux/tempmail-server)
-  > An inbound-only mail server and REST API
-
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X)
   > The main repository of Telegram X — official alternative Telegram client for Android.
@@ -340,6 +366,10 @@
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [Gethe/wow-ui-textures](https://github.com/Gethe/wow-ui-textures)
   > git mirror of the user interface textures for World of Warcraft
 
+### [szdyg](https://github.com/szdyg)
+- 🌟 👤 [szdyg](https://github.com/szdyg) Starred [waylandzhang/ai-quant-book](https://github.com/waylandzhang/ai-quant-book)
+  > 《AI Quant Trading - From Zero to One》
+
 ### [taisuii](https://github.com/taisuii)
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
   > Dopamine is a semi-untethered jailbreak for iOS 15 and 16
@@ -355,6 +385,8 @@
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [modem-dev/skills](https://github.com/modem-dev/skills)
   > Agent skills from Modem — starting with write-discoverable-code
+- 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+  > The fastest browser for AI agents to run web automation, built for sharing your logged-in browser st...
 
 ### [wonderkun](https://github.com/wonderkun)
 - 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [JohnTroony/php-webshells](https://github.com/JohnTroony/php-webshells)
@@ -378,5 +410,5 @@
 
 
 ---
-*最后更新于 2026-07-26 09:59:00 UTC*
+*最后更新于 2026-07-26 11:24:53 UTC*
 *历史记录保存在 `archive` 目录中。*
