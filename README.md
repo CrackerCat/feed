@@ -4,6 +4,12 @@
 
 ## 今日动态
 
+### [0x1306a94](https://github.com/0x1306a94)
+- 🍴 👤 [0x1306a94](https://github.com/0x1306a94) Forked [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) to [0x1306a94/OpenMinis](https://github.com/0x1306a94/OpenMinis)
+  > OpenMinis — The AI Agent app across platforms. Fully free and open source.
+- 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [steelbrain/reims-vgpu](https://github.com/steelbrain/reims-vgpu)
+  > reims-vgpu is an experimental virtual GPU for macOS guests
+
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec)
   > An open specification for agentic AI security evaluation and testing, from Cisco.
@@ -11,6 +17,12 @@
   > Project CodeGuard is an open-source, model-agnostic security framework that embeds secure-by-default...
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [cisco-foundation-ai/vulnerability-localization-benchmark](https://github.com/cisco-foundation-ai/vulnerability-localization-benchmark)
   > Repository for Vulnerability Localization Benchmark
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [MythicAgents/thanatos](https://github.com/MythicAgents/thanatos)
+  > Mythic C2 agent targeting Linux and Windows hosts written in Rust
+- 🍴 👤 [0xdea](https://github.com/0xdea) Forked [MythicAgents/thanatos](https://github.com/MythicAgents/thanatos) to [0xdea/thanatos](https://github.com/0xdea/thanatos)
+  > Mythic C2 agent targeting Linux and Windows hosts written in Rust
+- 🌟 👤 [0xdea](https://github.com/0xdea) Starred [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic)
+  > A collaborative, multi-platform, red teaming framework
 
 ### [1193776794](https://github.com/1193776794)
 - 🌟 👤 [1193776794](https://github.com/1193776794) Starred [feicong/droid-ddk](https://github.com/feicong/droid-ddk)
@@ -209,6 +221,10 @@
 - 🌟 👤 [binbin594738977](https://github.com/binbin594738977) Starred [jgravelle/jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp)
   > Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub...
 
+### [bingoogolapple](https://github.com/bingoogolapple)
+- 🌟 👤 [bingoogolapple](https://github.com/bingoogolapple) Starred [wuseal/JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass)
+  > 🚀 Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text ( Js...
+
 ### [burpheart](https://github.com/burpheart)
 - 🌟 👤 [burpheart](https://github.com/burpheart) Starred [schollz/croc](https://github.com/schollz/croc)
   > Easily and securely send things from one computer to another :crocodile: :package:
@@ -222,6 +238,12 @@
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [lingbol088-spec/5.6-JAILBREAK-NERV](https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV)
   > NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能...
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS)
+  > A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions native...
+
+### [chinleez](https://github.com/chinleez)
+- 🌟 👤 [chinleez](https://github.com/chinleez) Starred [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)
+  > A Call of Duty-quality FPS in Three.js, built from a single prompt.
 
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)
@@ -264,6 +286,10 @@
 ### [gal2xy](https://github.com/gal2xy)
 - 🌟 👤 [gal2xy](https://github.com/gal2xy) Starred [vvb2060/MagiskDetector](https://github.com/vvb2060/MagiskDetector)
 
+### [ggggmllll](https://github.com/ggggmllll)
+- 🌟 👤 [ggggmllll](https://github.com/ggggmllll) Starred [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)
+  > DataBackup for Android 7.0+
+
 ### [gh0stkey](https://github.com/gh0stkey)
 - 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [egoist/kero](https://github.com/egoist/kero)
   > A native terminal workspace for macOS.
@@ -286,6 +312,20 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nuntax/arbitrum-reth](https://github.com/nuntax/arbitrum-reth) to [gmh5225/arbitrum-reth](https://github.com/gmh5225/arbitrum-reth)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [gakonst/nanocodex](https://github.com/gakonst/nanocodex) to [gmh5225/nanocodex](https://github.com/gmh5225/nanocodex)
   > Blazing-fast, minimal, library-first reimplementation of Codex
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Oros42/IMSI-catcher](https://github.com/Oros42/IMSI-catcher) to [gmh5225/IMSI-catcher](https://github.com/gmh5225/IMSI-catcher)
+  > This program show you IMSI numbers of cellphones around you.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [matrixleons/evilwaf](https://github.com/matrixleons/evilwaf) to [gmh5225/evilwaf](https://github.com/gmh5225/evilwaf)
+  > evilwaf is a penetration testing tool designed to detect and bypass common Web Application Firewalls...
+
+### [hanbings](https://github.com/hanbings)
+- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [LMMS/lmms](https://github.com/LMMS/lmms)
+  > Cross-platform music production software
+- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [karinushka/paneru](https://github.com/karinushka/paneru)
+  > A sliding, tiling window manager for MacOS.
+
+### [hhhaiai](https://github.com/hhhaiai)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [BCS1037/codian](https://github.com/BCS1037/codian)
+  > Open-source Obsidian plugin for local coding agents
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)
@@ -311,6 +351,10 @@
 ### [killeven](https://github.com/killeven)
 - 🌟 👤 [killeven](https://github.com/killeven) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
   > Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle dia...
+
+### [kingking888](https://github.com/kingking888)
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [SoyBeanMilkx/dbi_detect](https://github.com/SoyBeanMilkx/dbi_detect)
+  >  check whether important functions are being traced.
 
 ### [langgithub](https://github.com/langgithub)
 - 🌟 👤 [langgithub](https://github.com/langgithub) Starred [p2p3p/GhostLock-for-OnePlus](https://github.com/p2p3p/GhostLock-for-OnePlus)
@@ -351,6 +395,7 @@
   > The Legend of Sword and Fairy 3 (仙剑奇侠传三) & The Legend of Sword and Fairy 3 Gaiden: Wenqing Pian (仙剑奇...
 - 🍴 👤 [lyy289065406](https://github.com/lyy289065406) Forked [0x7c13/Pal3.Unity](https://github.com/0x7c13/Pal3.Unity) to [EXP-Games/Pal3.Unity](https://github.com/EXP-Games/Pal3.Unity)
   > The Legend of Sword and Fairy 3 (仙剑奇侠传三) & The Legend of Sword and Fairy 3 Gaiden: Wenqing Pian (仙剑奇...
+- 🌟 👤 [lyy289065406](https://github.com/lyy289065406) Starred [nocobase/skills](https://github.com/nocobase/skills)
 
 ### [mainfunx](https://github.com/mainfunx)
 - 🌟 👤 [mainfunx](https://github.com/mainfunx) Starred [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
@@ -400,6 +445,10 @@
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy)
   > 📱 Display and control your Android device graphically with scrcpy.
 
+### [nblog](https://github.com/nblog)
+- 🌟 👤 [nblog](https://github.com/nblog) Starred [alibaba/react-intl-universal](https://github.com/alibaba/react-intl-universal)
+  > Internationalize React apps. Not only for Component but also for Vanilla JS.
+
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X)
   > The main repository of Telegram X — official alternative Telegram client for Android.
@@ -408,9 +457,23 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [morethanwords/tweb](https://github.com/morethanwords/tweb)
   > Telegram Web K, GPL v3
 
+### [penguin-wwy](https://github.com/penguin-wwy)
+- 🍴 👤 [penguin-wwy](https://github.com/penguin-wwy) Forked [pliron-org/pliron](https://github.com/pliron-org/pliron) to [penguin-wwy/pliron](https://github.com/penguin-wwy/pliron)
+  > An Extensible Compiler IR Framework
+
 ### [qaiu](https://github.com/qaiu)
 - 🍴 👤 [qaiu](https://github.com/qaiu) Forked [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) to [nfd-parser/netdisk-fast-download-pybak](https://github.com/nfd-parser/netdisk-fast-download-pybak)
   > 聚合多种主流网盘的直链解析下载服务, 一键解析下载，已支持夸克网盘/uc网盘/蓝奏云/蓝奏优享/小飞机盘/123云盘等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top ht...
+
+### [quanyeyang](https://github.com/quanyeyang)
+- 🌟 👤 [quanyeyang](https://github.com/quanyeyang) Starred [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
+  > WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, ed...
+- 🍴 👤 [quanyeyang](https://github.com/quanyeyang) Forked [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) to [quanyeyang/WasmEdge](https://github.com/quanyeyang/WasmEdge)
+  > WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, ed...
+- 🌟 👤 [quanyeyang](https://github.com/quanyeyang) Starred [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+  > Production-Grade Container Scheduling and Management
+- 🍴 👤 [quanyeyang](https://github.com/quanyeyang) Forked [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) to [quanyeyang/kubernetes](https://github.com/quanyeyang/kubernetes)
+  > Production-Grade Container Scheduling and Management
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [IliyaBrook/figma-linux](https://github.com/IliyaBrook/figma-linux)
@@ -454,6 +517,10 @@
 - 🚀 👤 [threathunterX](https://github.com/threathunterX) Made [threathunterX/gesture-fingerprint](https://github.com/threathunterX/gesture-fingerprint) public
   > Identify whether a mobile touch comes from a human, a software script, or a specific cheating hardwa...
 
+### [topcoco](https://github.com/topcoco)
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
+  > A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build...
+
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [modem-dev/skills](https://github.com/modem-dev/skills)
   > Agent skills from Modem — starting with write-discoverable-code
@@ -481,13 +548,25 @@
 - 🍴 👤 [xyxdaily](https://github.com/xyxdaily) Forked [pubglite55/oppo-ghostlock](https://github.com/pubglite55/oppo-ghostlock) to [xyxdaily/oppo-ghostlock-cve](https://github.com/xyxdaily/oppo-ghostlock-cve)
   > OPPO Find N2 GhostLock (CVE-2026-43499) exploit adaptation
 
+### [ybdt](https://github.com/ybdt)
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [NUL0x4C/KnownDllUnhook](https://github.com/NUL0x4C/KnownDllUnhook)
+  > Replace the .txt section of the current loaded modules from \KnownDlls\
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [rad9800/WTSRM](https://github.com/rad9800/WTSRM)
+  > WTSRM
+- 🌟 👤 [ybdt](https://github.com/ybdt) Starred [MaorSabag/SafeCrypt](https://github.com/MaorSabag/SafeCrypt)
+  > SafeCrypt is an academic ransomware simulation suite developed for Red Team engagements. It demonstr...
+
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
   > A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybe...
 - 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
 
+### [zxh0](https://github.com/zxh0)
+- 🌟 👤 [zxh0](https://github.com/zxh0) Starred [mattermost/mattermost](https://github.com/mattermost/mattermost)
+  > Mattermost is an open source platform for secure collaboration across the entire software developmen...
+
 
 ---
-*最后更新于 2026-07-26 13:21:32 UTC*
+*最后更新于 2026-07-26 15:04:43 UTC*
 *历史记录保存在 `archive` 目录中。*
