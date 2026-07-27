@@ -61,6 +61,10 @@
 - 🍴 👤 [Bzi-Han](https://github.com/Bzi-Han) Forked [tugcantopaloglu/godot-mcp](https://github.com/tugcantopaloglu/godot-mcp) to [Bzi-Han/godot-mcp](https://github.com/Bzi-Han/godot-mcp)
   > MCP server for full Godot 4.x engine control: 157 tools for AI-driven game development (GDScript and...
 
+### [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut)
+- 🌟 👤 [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut) Starred [PeronGH/badepoll-selinux-disabler](https://github.com/PeronGH/badepoll-selinux-disabler)
+  > Use CVE-2026-43074 to disable SELinux on Android (Linux 6.6/6.12)
+
 ### [ColdWindScholar](https://github.com/ColdWindScholar)
 - 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)
   > Telegram Desktop messaging app
@@ -104,6 +108,12 @@
 - 🍴 👤 [Gegenbauer](https://github.com/Gegenbauer) Forked [Predidit/Kazumi](https://github.com/Predidit/Kazumi) to [Gegenbauer/kazumi](https://github.com/Gegenbauer/kazumi)
   > 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
 
+### [GermanAizek](https://github.com/GermanAizek)
+- 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch)
+  > Monitor network traffic per executable
+- 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [kalicyh/ImmortalWrt-tenda_be12-pro](https://github.com/kalicyh/ImmortalWrt-tenda_be12-pro)
+  > Tenda BE12 Pro ImmortalWrt build tree
+
 ### [HSSkyBoy](https://github.com/HSSkyBoy)
 - 🌟 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
   > A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and ...
@@ -127,6 +137,16 @@
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [mirror/mesa](https://github.com/mirror/mesa) to [JingMatrix/mesa](https://github.com/JingMatrix/mesa)
   > https://gitlab.freedesktop.org/mesa/mesa
+
+### [Jirubizu](https://github.com/Jirubizu)
+- 🌟 👤 [Jirubizu](https://github.com/Jirubizu) Starred [creusot-rs/creusot](https://github.com/creusot-rs/creusot)
+  > Creusot helps you prove your Rust code is correct.
+- 🌟 👤 [Jirubizu](https://github.com/Jirubizu) Starred [mijorus/gearlever](https://github.com/mijorus/gearlever)
+  > Manage AppImages with ease 📦
+- 🌟 👤 [Jirubizu](https://github.com/Jirubizu) Starred [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
+  > Empowering everyone to host fast and efficient Minecraft servers.
+- 🌟 👤 [Jirubizu](https://github.com/Jirubizu) Starred [juhaku/utoipa](https://github.com/juhaku/utoipa)
+  > Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 
 ### [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
 - 🌟 👤 [KagurazakaHanabi](https://github.com/KagurazakaHanabi) Starred [vicharak-in/shrike](https://github.com/vicharak-in/shrike)
@@ -275,6 +295,8 @@
 
 ### [amalmurali47](https://github.com/amalmurali47)
 - 🌟 👤 [amalmurali47](https://github.com/amalmurali47) Starred [shivprime94/file-itr](https://github.com/shivprime94/file-itr)
+- 🌟 👤 [amalmurali47](https://github.com/amalmurali47) Starred [drunkrhin0/antislop](https://github.com/drunkrhin0/antislop)
+  > By slop for slop, to remove slop in an AI slop world.
 
 ### [amrali-eg](https://github.com/amrali-eg)
 - 🌟 👤 [amrali-eg](https://github.com/amrali-eg) Starred [amrali-eg/EncodingChecker](https://github.com/amrali-eg/EncodingChecker)
@@ -286,6 +308,12 @@
 ### [armxe](https://github.com/armxe)
 - 🌟 👤 [armxe](https://github.com/armxe) Starred [iamtorsten/SherlockElf](https://github.com/iamtorsten/SherlockElf)
   > SherlockElf is a powerful tool designed for both static and dynamic analysis of Android ELF binaries...
+
+### [astrelsky](https://github.com/astrelsky)
+- 🍴 👤 [astrelsky](https://github.com/astrelsky) Forked [woct0rdho/torch-ggml-ops](https://github.com/woct0rdho/torch-ggml-ops) to [astrelsky/torch-ggml-ops](https://github.com/astrelsky/torch-ggml-ops)
+  > PyTorch bindings of GGML operators with autograd
+- 🌟 👤 [astrelsky](https://github.com/astrelsky) Starred [woct0rdho/torch-ggml-ops](https://github.com/woct0rdho/torch-ggml-ops)
+  > PyTorch bindings of GGML operators with autograd
 
 ### [binbin594738977](https://github.com/binbin594738977)
 - 🌟 👤 [binbin594738977](https://github.com/binbin594738977) Starred [jgravelle/jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp)
@@ -306,7 +334,7 @@
   > Certighost POC
 
 ### [cctv18](https://github.com/cctv18)
-- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [lingbol088-spec/5.6-JAILBREAK-NERV](https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6](https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6)
   > NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能...
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS)
   > A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions native...
@@ -541,6 +569,8 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/ExCrypt](https://github.com/emoose/ExCrypt) to [mrexodia/ExCrypt](https://github.com/mrexodia/ExCrypt)
   > Open source replacement for the Xbox360 XeCrypt suite.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)
+  > Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid)
@@ -602,9 +632,20 @@
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [Lakr233/unfaird](https://github.com/Lakr233/unfaird)
 
+### [sigwl](https://github.com/sigwl)
+- 🌟 👤 [sigwl](https://github.com/sigwl) Starred [nikgeneburn/MemPDB](https://github.com/nikgeneburn/MemPDB)
+  > Fast in-memory Microsoft PDB parser for C++20. Tiered parsing (functions, globals, structs), optiona...
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [Tencent/libco](https://github.com/Tencent/libco)
   > libco is a coroutine library which is widely used in wechat  back-end service. It has been running o...
+
+### [sjshb57](https://github.com/sjshb57)
+- 🌟 👤 [sjshb57](https://github.com/sjshb57) Starred [sjshb57/TwitterArchiverApp](https://github.com/sjshb57/TwitterArchiverApp)
+  > 基于 Wayback Machine 的推特账号存档 Android 客户端
+- 🌟 👤 [sjshb57](https://github.com/sjshb57) Starred [sjshb57/IncandescenceArchiver](https://github.com/sjshb57/IncandescenceArchiver)
+  > Twitter/X Wayback 存档工具 · archive.py
+- 🌟 👤 [sjshb57](https://github.com/sjshb57) Starred [sjshb57/Test](https://github.com/sjshb57/Test)
 
 ### [skyzh](https://github.com/skyzh)
 - 🌟 👤 [skyzh](https://github.com/skyzh) Starred [conradludgate/paxosans](https://github.com/conradludgate/paxosans)
@@ -682,6 +723,8 @@
 ### [yfe404](https://github.com/yfe404)
 - 🌟 👤 [yfe404](https://github.com/yfe404) Starred [MQ37/alpaca](https://github.com/MQ37/alpaca)
   > Session launcher for llama.cpp — discovers cached GGUF models, runs llama-cli/llama-server
+- 🌟 👤 [yfe404](https://github.com/yfe404) Starred [zyedidia/Literate](https://github.com/zyedidia/Literate)
+  > A literate programming tool for any language
 
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
@@ -695,5 +738,5 @@
 
 
 ---
-*最后更新于 2026-07-26 19:09:35 UTC*
+*最后更新于 2026-07-26 22:02:23 UTC*
 *历史记录保存在 `archive` 目录中。*
