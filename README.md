@@ -122,6 +122,9 @@
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [samudoria/Google-Play-APK-Downloader](https://github.com/samudoria/Google-Play-APK-Downloader)
   > Plug in your favourite device or emulator, enable adb and provide the list of package names.
 
+### [Lakr233](https://github.com/Lakr233)
+- 🚀 👤 [Lakr233](https://github.com/Lakr233) Made [Lakr233/mini-control-action](https://github.com/Lakr233/mini-control-action) public
+
 ### [Ls4ss](https://github.com/Ls4ss)
 - 🌟 👤 [Ls4ss](https://github.com/Ls4ss) Starred [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec)
   > The Network Execution Tool
@@ -131,6 +134,14 @@
   > bluetooth mesh chat, IRC vibes
 - 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) to [LunFengChen/bitchat](https://github.com/LunFengChen/bitchat)
   > bluetooth mesh chat, IRC vibes
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [OrientalGlass/ida-export-cli](https://github.com/OrientalGlass/ida-export-cli)
+  > 基于 idalib 和 ida-domain 的二进制分析工具, 为 AI 自动化分析提供完整的反编译信息.  A binary analysis tool based on idalib and i...
+- 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [OrientalGlass/ida-export-cli](https://github.com/OrientalGlass/ida-export-cli) to [LunFengChen/ida-export-cli](https://github.com/LunFengChen/ida-export-cli)
+  > 基于 idalib 和 ida-domain 的二进制分析工具, 为 AI 自动化分析提供完整的反编译信息.  A binary analysis tool based on idalib and i...
+- 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [imxiaoc996/DeviceWarLock](https://github.com/imxiaoc996/DeviceWarLock)
+  > 这是一个Android Project，具备设备指纹采集，设备安全检测的能力
+- 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [imxiaoc996/DeviceWarLock](https://github.com/imxiaoc996/DeviceWarLock) to [LunFengChen/DeviceWarLock](https://github.com/LunFengChen/DeviceWarLock)
+  > 这是一个Android Project，具备设备指纹采集，设备安全检测的能力
 
 ### [M4cs](https://github.com/M4cs)
 - 🌟 👤 [M4cs](https://github.com/M4cs) Starred [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm)
@@ -173,6 +184,10 @@
 - 🌟 👤 [QianNangong](https://github.com/QianNangong) Starred [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)
   > Weighs the soul of incoming HTTP requests to stop AI crawlers
 
+### [SMlc666](https://github.com/SMlc666)
+- 🍴 👤 [SMlc666](https://github.com/SMlc666) Forked [allthingsida/idasql](https://github.com/allthingsida/idasql) to [SMlc666/idasql](https://github.com/SMlc666/idasql)
+  > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
+
 ### [Samael-Z](https://github.com/Samael-Z)
 - 🍴 👤 [Samael-Z](https://github.com/Samael-Z) Forked [maillab/cloud-mail](https://github.com/maillab/cloud-mail) to [Samael-Z/cloud-mail](https://github.com/Samael-Z/cloud-mail)
   > A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
@@ -200,6 +215,10 @@
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [walidboulanouar/maestro](https://github.com/walidboulanouar/maestro)
   > Open-source Fugu: the open-source LLM orchestration brain. 
+
+### [Skorpion96](https://github.com/Skorpion96)
+- 🚀 👤 [Skorpion96](https://github.com/Skorpion96) Made [Skorpion96/CVE-2026-40000](https://github.com/Skorpion96/CVE-2026-40000) public
+  > A poc for a vulnerability in ZTE File Manager (zte.com.cn.filer) which allows to read arbitrary file...
 
 ### [SodaMilk233](https://github.com/SodaMilk233)
 - 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [worldwonderer/video-recap-skills](https://github.com/worldwonderer/video-recap-skills)
@@ -265,6 +284,12 @@
 - 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [lulistart/variant-clone-factory](https://github.com/lulistart/variant-clone-factory)
   > Variant 复刻工厂，粘贴模板链接，一键导出 React 工程 Capture → Classify → Codegen → Package ZIP。1:1复刻还原。
 
+### [ZacharyZcR](https://github.com/ZacharyZcR)
+- 🌟 👤 [ZacharyZcR](https://github.com/ZacharyZcR) Starred [erebe/wstunnel](https://github.com/erebe/wstunnel)
+  > Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available 
+- 🍴 👤 [ZacharyZcR](https://github.com/ZacharyZcR) Forked [erebe/wstunnel](https://github.com/erebe/wstunnel) to [ZacharyZcR/wstunnel](https://github.com/ZacharyZcR/wstunnel)
+  > Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available 
+
 ### [accessmodifier364](https://github.com/accessmodifier364)
 - 🌟 👤 [accessmodifier364](https://github.com/accessmodifier364) Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
   > Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -294,6 +319,7 @@
 ### [banteg](https://github.com/banteg)
 - 🍴 👤 [banteg](https://github.com/banteg) Forked [discourse/discourse](https://github.com/discourse/discourse) to [banteg/discourse](https://github.com/banteg/discourse)
   > A platform for community discussion. Free, open, simple.
+- 🌟 👤 [banteg](https://github.com/banteg) Starred [Faolain/ts-drp-1](https://github.com/Faolain/ts-drp-1)
 
 ### [besscroft](https://github.com/besscroft)
 - 🌟 👤 [besscroft](https://github.com/besscroft) Starred [Sanotsu/china-food-composition-data](https://github.com/Sanotsu/china-food-composition-data)
@@ -312,6 +338,11 @@
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
   > bluetooth mesh chat, IRC vibes
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [4thfever/codex-document-mode](https://github.com/4thfever/codex-document-mode)
+  > 让Codex向你呈递公文并接受批示圈阅
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player)
+  > Web player for terminal session recordings and live streams
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [Mandi-Sa/QQGifGuard](https://github.com/Mandi-Sa/QQGifGuard)
 
 ### [coder-pig](https://github.com/coder-pig)
 - 🌟 👤 [coder-pig](https://github.com/coder-pig) Starred [maxzhang666/OneKeyVip](https://github.com/maxzhang666/OneKeyVip)
@@ -426,6 +457,16 @@
   > BSimVis is a tool to analyze similarities across a collection of binaries, based on Ghidra analyzers...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [4minx/CVE-2026-50522](https://github.com/4minx/CVE-2026-50522) to [gmh5225/CVE-2026-50522](https://github.com/gmh5225/CVE-2026-50522)
   > CVE-2026-50522 PoC
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) to [gmh5225/AgentENV](https://github.com/gmh5225/AgentENV)
+  > AgentENV (AENV) is a distributed platform for running agent environments at scale.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [microsoft/ActiveDirectoryTierModel](https://github.com/microsoft/ActiveDirectoryTierModel) to [gmh5225/ActiveDirectoryTierModel](https://github.com/gmh5225/ActiveDirectoryTierModel)
+  > Deployment of an Active Directory Tier Model structure to support Tier 0, Tier 1, and Tier 2 objects...
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
+  > AgentENV (AENV) is a distributed platform for running agent environments at scale.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr) to [gmh5225/NocturneLdr](https://github.com/gmh5225/NocturneLdr)
+  > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+  > The most RAM effiecent harness
 
 ### [h0li3](https://github.com/h0li3)
 - 🌟 👤 [h0li3](https://github.com/h0li3) Starred [olafhartong/ETWLocksmith](https://github.com/olafhartong/ETWLocksmith)
@@ -667,11 +708,15 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/idaxex](https://github.com/emoose/idaxex) to [mrexodia/idaxex](https://github.com/mrexodia/idaxex)
-  > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable file fo...
+  > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable formats...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
   > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
   > AgentENV (AENV) is a distributed platform for running agent environments at scale.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+  > The most RAM effiecent harness
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr)
+  > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [xihan123/SignHook](https://github.com/xihan123/SignHook)
@@ -727,6 +772,10 @@
   > Signed device profiles, mobile exploit payloads, and KernelSU artifacts for Root My Galaxy
 - 🌟 👤 [polygraphene](https://github.com/polygraphene) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
   > PoCs and exploits for CVEs discovered by VEGA. 
+
+### [qazbnm456](https://github.com/qazbnm456)
+- 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
+  > Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
 
 ### [qi4L](https://github.com/qi4L)
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [svipm/cursor-i18n-zh](https://github.com/svipm/cursor-i18n-zh)
@@ -935,5 +984,5 @@
 
 
 ---
-*最后更新于 2026-07-27 16:56:45 UTC*
+*最后更新于 2026-07-27 20:21:36 UTC*
 *历史记录保存在 `archive` 目录中。*
