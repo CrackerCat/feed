@@ -35,6 +35,17 @@
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
   > TypeScript-to-Native Compiler
 
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [gakonst/nanocodex](https://github.com/gakonst/nanocodex)
+  > Blazing-fast, minimal, library-first reimplementation of Codex
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)
+  > Open Frontier Intelligence
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [MoonshotAI/MoonEP](https://github.com/MoonshotAI/MoonEP)
+  > MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [MoonshotAI/FlashKDA](https://github.com/MoonshotAI/FlashKDA)
+  > FlashKDA: high-performance Kimi Delta Attention kernels
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [MoonshotAI/Attention-Residuals](https://github.com/MoonshotAI/Attention-Residuals)
+
 ### [AnthonyCalandra](https://github.com/AnthonyCalandra)
 - 🌟 👤 [AnthonyCalandra](https://github.com/AnthonyCalandra) Starred [RyanJK5/rjk-duck](https://github.com/RyanJK5/rjk-duck)
   > Zero boilerplate generic type erasure, powered by C++26 reflection.
@@ -121,6 +132,10 @@
 - 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) to [LunFengChen/bitchat](https://github.com/LunFengChen/bitchat)
   > bluetooth mesh chat, IRC vibes
 
+### [M4cs](https://github.com/M4cs)
+- 🌟 👤 [M4cs](https://github.com/M4cs) Starred [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm)
+  > Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat...
+
 ### [MisakiKata](https://github.com/MisakiKata)
 - 🌟 👤 [MisakiKata](https://github.com/MisakiKata) Starred [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
   > Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: determi...
@@ -135,6 +150,12 @@
 ### [NiTianErXing666](https://github.com/NiTianErXing666)
 - 🌟 👤 [NiTianErXing666](https://github.com/NiTianErXing666) Starred [evoker0/AlwaysStrong](https://github.com/evoker0/AlwaysStrong)
   > Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundl...
+
+### [P001water](https://github.com/P001water)
+- 🌟 👤 [P001water](https://github.com/P001water) Starred [WKL-Sec/HiddenDesktop](https://github.com/WKL-Sec/HiddenDesktop)
+  > HVNC for Cobalt Strike
+- 🌟 👤 [P001water](https://github.com/P001water) Starred [sailay1996/HiveOracle](https://github.com/sailay1996/HiveOracle)
+  > Raw NTFS volume oracle: locked-file read and offline SAM hashes without LSASS
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)
@@ -214,6 +235,10 @@
 - 🍴 👤 [Super12138](https://github.com/Super12138) Forked [vite-pwa/assets-generator](https://github.com/vite-pwa/assets-generator) to [Super12138/assets-generator](https://github.com/Super12138/assets-generator)
   > Zero-config PWA Assets Generator
 
+### [VonChange](https://github.com/VonChange)
+- 🌟 👤 [VonChange](https://github.com/VonChange) Starred [orailnoor/DroidDesk](https://github.com/orailnoor/DroidDesk)
+  > DroidDesk turns your Android phone into a real Linux desktop using Termux, Termux X11, TUR, and Proo...
+
 ### [WindowsAddict](https://github.com/WindowsAddict)
 - 🌟 👤 [WindowsAddict](https://github.com/WindowsAddict) Starred [hyperion-cs/dpi-checkers](https://github.com/hyperion-cs/dpi-checkers)
   > Checkers to test your internet provider for censorship.
@@ -222,11 +247,19 @@
 - 🍴 👤 [WitherOrNot](https://github.com/WitherOrNot) Forked [testdriveupgrade/XenonRecompUnlimited](https://github.com/testdriveupgrade/XenonRecompUnlimited) to [WitherOrNot/XenonRecompUnlimited](https://github.com/WitherOrNot/XenonRecompUnlimited)
   > XenonRecompUnlimited - it's special fork of XenonRecomp for TDU engine, like experimental fork-versi...
 
+### [XiaoTong6666](https://github.com/XiaoTong6666)
+- 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [Plutarch01/opencode-lcm](https://github.com/Plutarch01/opencode-lcm)
+  > Long-memory plugin for OpenCode with context-mode interop
+
 ### [Yu2erer](https://github.com/Yu2erer)
 - 🌟 👤 [Yu2erer](https://github.com/Yu2erer) Starred [kzahel/yepanywhere](https://github.com/kzahel/yepanywhere)
   > Self-hosted web UI for Claude and Codex. Push notifications, file uploads, no accounts, no database....
 - 🌟 👤 [Yu2erer](https://github.com/Yu2erer) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
   > Orchestrate multiple coding agents from desktop and mobile
+
+### [YuKongA](https://github.com/YuKongA)
+- 🍴 👤 [YuKongA](https://github.com/YuKongA) Forked [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus) to [YuKongA/ghostlock-oneplus](https://github.com/YuKongA/ghostlock-oneplus)
+  > GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootloader
 
 ### [ZJ595](https://github.com/ZJ595)
 - 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [lulistart/variant-clone-factory](https://github.com/lulistart/variant-clone-factory)
@@ -241,6 +274,14 @@
 ### [antiwar3](https://github.com/antiwar3)
 - 🌟 👤 [antiwar3](https://github.com/antiwar3) Starred [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3)
   > LIBERATED AI CHAT
+
+### [ashishb](https://github.com/ashishb)
+- 🌟 👤 [ashishb](https://github.com/ashishb) Starred [MoonshotAI/FlashKDA](https://github.com/MoonshotAI/FlashKDA)
+  > FlashKDA: high-performance Kimi Delta Attention kernels
+- 🌟 👤 [ashishb](https://github.com/ashishb) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
+  > AgentENV (AENV) is a distributed platform for running agent environments at scale.
+- 🌟 👤 [ashishb](https://github.com/ashishb) Starred [MoonshotAI/MoonEP](https://github.com/MoonshotAI/MoonEP)
+  > MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts
 
 ### [atlas4381](https://github.com/atlas4381)
 - 🌟 👤 [atlas4381](https://github.com/atlas4381) Starred [C-Hidery/sfd_tool](https://github.com/C-Hidery/sfd_tool)
@@ -292,6 +333,8 @@
 ### [darkskygit](https://github.com/darkskygit)
 - 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center)
   > This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications a...
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [orlp/slotmap](https://github.com/orlp/slotmap)
+  > Slotmap data structure for Rust
 
 ### [detunized](https://github.com/detunized)
 - 🍴 👤 [detunized](https://github.com/detunized) Forked [bitwarden/sdk-internal](https://github.com/bitwarden/sdk-internal) to [detunized/sdk-internal](https://github.com/detunized/sdk-internal)
@@ -319,6 +362,8 @@
   > Final project for 6.205
 - 🌟 👤 [eggfly](https://github.com/eggfly) Starred [catallo/MiSTerbrot](https://github.com/catallo/MiSTerbrot)
   > Mandelbrot eye candy for MiSTer FPGA in 240p
+- 🍴 👤 [eggfly](https://github.com/eggfly) Forked [elipsitz/gamebub](https://github.com/elipsitz/gamebub) to [geeksoftware/gamebub](https://github.com/geeksoftware/gamebub)
+  > Open-source FPGA retro emulation handheld 
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [AltoidUC/bandicam-overlay-hook](https://github.com/AltoidUC/bandicam-overlay-hook) to [fengjixuchui/bandicam-overlay-hook](https://github.com/fengjixuchui/bandicam-overlay-hook)
@@ -375,6 +420,12 @@
   > SIGGRAPH 2026 course materials for hands-on neural shading with Slang.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [google/xls](https://github.com/google/xls) to [gmh5225/xls](https://github.com/gmh5225/xls)
   > XLS: Accelerated HW Synthesis
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [karola3vax/CS2AC](https://github.com/karola3vax/CS2AC) to [gmh5225/CS2AC](https://github.com/gmh5225/CS2AC)
+  > Server-side anti-cheat for Counter-Strike 2 community servers, built for Metamod:Source.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [MISP/bsimvis](https://github.com/MISP/bsimvis) to [gmh5225/bsimvis](https://github.com/gmh5225/bsimvis)
+  > BSimVis is a tool to analyze similarities across a collection of binaries, based on Ghidra analyzers...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [4minx/CVE-2026-50522](https://github.com/4minx/CVE-2026-50522) to [gmh5225/CVE-2026-50522](https://github.com/gmh5225/CVE-2026-50522)
+  > CVE-2026-50522 PoC
 
 ### [h0li3](https://github.com/h0li3)
 - 🌟 👤 [h0li3](https://github.com/h0li3) Starred [olafhartong/ETWLocksmith](https://github.com/olafhartong/ETWLocksmith)
@@ -474,6 +525,10 @@
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [daimon3332/OutlookRegister](https://github.com/daimon3332/OutlookRegister)
   > Outlook/Hotmail account batch registration tool.                          Outlook / Hotmail 账号批量注册工具...
 
+### [jingyaogong](https://github.com/jingyaogong)
+- 🌟 👤 [jingyaogong](https://github.com/jingyaogong) Starred [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)
+  > Open Frontier Intelligence
+
 ### [jixiaoyong](https://github.com/jixiaoyong)
 - 🌟 👤 [jixiaoyong](https://github.com/jixiaoyong) Starred [Silentely/eSIM-Tools](https://github.com/Silentely/eSIM-Tools)
   > 专为已有 Giffgaff 和 Simyo 号码的用户设计的现代化 eSIM 管理工具集，支持将物理 SIM 卡转换为 eSIM、设备更换和二维码生成。(A modern set of eSIM ma...
@@ -490,6 +545,8 @@
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
   > Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+- 🌟 👤 [jpacg](https://github.com/jpacg) Starred [vicanso/zedis](https://github.com/vicanso/zedis)
+  > Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI.
 
 ### [jweny](https://github.com/jweny)
 - 🌟 👤 [jweny](https://github.com/jweny) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
@@ -568,6 +625,12 @@
 - 🌟 👤 [luoyesiqiu](https://github.com/luoyesiqiu) Starred [xihan123/SignHook](https://github.com/xihan123/SignHook)
   > 这是一个简单的签名校验通杀模块
 
+### [mahmoudimus](https://github.com/mahmoudimus)
+- 🍴 👤 [mahmoudimus](https://github.com/mahmoudimus) Forked [dylan-sutton-chavez/edge-python](https://github.com/dylan-sutton-chavez/edge-python) to [mahmoudimus/edge-python](https://github.com/mahmoudimus/edge-python)
+  > Single-pass SSA bytecode compiler and threaded-code stack VM for a sandboxed Python subset: NaN-boxe...
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [plasma-ai/fractal](https://github.com/plasma-ai/fractal)
+  > Hierarchical agent loops with recursive self-organization.
+
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [xshaduwulfx/proton-linuwux](https://github.com/xshaduwulfx/proton-linuwux)
   > Custom Proton builds patched in order to make HV bypass working on Linux.
@@ -607,6 +670,8 @@
   > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable file fo...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
   > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
+  > AgentENV (AENV) is a distributed platform for running agent environments at scale.
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [xihan123/SignHook](https://github.com/xihan123/SignHook)
@@ -666,6 +731,10 @@
 ### [qi4L](https://github.com/qi4L)
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [svipm/cursor-i18n-zh](https://github.com/svipm/cursor-i18n-zh)
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [google/xls](https://github.com/google/xls)
+  > XLS: Accelerated HW Synthesis
+
 ### [redbearder](https://github.com/redbearder)
 - 🌟 👤 [redbearder](https://github.com/redbearder) Starred [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)
   > 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support....
@@ -714,6 +783,14 @@
 - 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [MercuryWorkshop/celeste-wasm](https://github.com/MercuryWorkshop/celeste-wasm)
   > Browser port of Celeste (2018) and Everest using WebAssembly
 
+### [taisuii](https://github.com/taisuii)
+- 🌟 👤 [taisuii](https://github.com/taisuii) Starred [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+  > Run iOS apps without actually installing them!
+
+### [thelicato](https://github.com/thelicato)
+- 🌟 👤 [thelicato](https://github.com/thelicato) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
+  > TypeScript-to-Native Compiler
+
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [KSwordDEV/KSword](https://github.com/KSwordDEV/KSword)
   > [Windows toolkit for ARK] KSword 5.1 is an open-source Windows toolkit for ARK, kernel debugging, an...
@@ -740,6 +817,10 @@
 - 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
   > Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your sou...
 
+### [wcedla](https://github.com/wcedla)
+- 🌟 👤 [wcedla](https://github.com/wcedla) Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+  > Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. ...
+
 ### [winezer0](https://github.com/winezer0)
 - 🌟 👤 [winezer0](https://github.com/winezer0) Starred [git-pkgs/sarif](https://github.com/git-pkgs/sarif)
   > Go library for reading, writing, and validating SARIF 2.1.0 logs
@@ -753,6 +834,10 @@
 ### [wkbin](https://github.com/wkbin)
 - 🌟 👤 [wkbin](https://github.com/wkbin) Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
   > The fastest browser for AI agents to run browser automation, built for sharing your logged-in browse...
+
+### [wszqkzqk](https://github.com/wszqkzqk)
+- 🌟 👤 [wszqkzqk](https://github.com/wszqkzqk) Starred [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)
+  > Open Frontier Intelligence
 
 ### [wszxl516](https://github.com/wszxl516)
 - 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7)
@@ -772,6 +857,12 @@
 - 🍴 👤 [xyxdaily](https://github.com/xyxdaily) Forked [KhunHtetzNaing/SRPatch-X](https://github.com/KhunHtetzNaing/SRPatch-X) to [xyxdaily/SRPatch-X-android](https://github.com/xyxdaily/SRPatch-X-android)
   > Android APK signature killer supporting PMS, IO, and SVC hooking methods
 
+### [yahch](https://github.com/yahch)
+- 🌟 👤 [yahch](https://github.com/yahch) Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+  > A set of beautifully-designed, accessible components and a code distribution platform. Works with yo...
+- 🌟 👤 [yahch](https://github.com/yahch) Starred [shadcn/improve](https://github.com/shadcn/improve)
+  > Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [kairyou/agent-tools](https://github.com/kairyou/agent-tools)
   > Reusable skills, hooks, statusline tools, and installers for Codex, Claude Code, and opencode.
@@ -781,6 +872,10 @@
 ### [yfe404](https://github.com/yfe404)
 - 🍴 👤 [yfe404](https://github.com/yfe404) Forked [microlinkhq/is-antibot](https://github.com/microlinkhq/is-antibot) to [yfe404/is-antibot](https://github.com/yfe404/is-antibot)
   > Detect anti-bot protection from 20+ providers — CloudFlare, Akamai, DataDome, PerimeterX, Kasada, Im...
+
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [1rgs/nanocode](https://github.com/1rgs/nanocode)
+  > Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
 
 ### [yhy0](https://github.com/yhy0)
 - 🌟 👤 [yhy0](https://github.com/yhy0) Starred [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
@@ -840,5 +935,5 @@
 
 
 ---
-*最后更新于 2026-07-27 14:33:23 UTC*
+*最后更新于 2026-07-27 16:56:45 UTC*
 *历史记录保存在 `archive` 目录中。*
