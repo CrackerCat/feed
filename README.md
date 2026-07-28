@@ -8,9 +8,15 @@
 - 🌟 👤 [0x1c1101](https://github.com/0x1c1101) Starred [Colton1skees/Dna](https://github.com/Colton1skees/Dna)
   > LLVM based static binary analysis framework 
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [tihmstar/libpatchfinder](https://github.com/tihmstar/libpatchfinder)
+  > A arm offsetfinder. It finds offsets, patches, parses Mach-O and even supports IMG4/IMG3
+
 ### [0xdad0](https://github.com/0xdad0)
 - 🌟 👤 [0xdad0](https://github.com/0xdad0) Starred [k8scout/k8scout](https://github.com/k8scout/k8scout)
   > Drop a single binary into a compromised Kubernetes pod and instantly map every   realistic attack pa...
+- 🌟 👤 [0xdad0](https://github.com/0xdad0) Starred [QM4RS/FridaBox](https://github.com/QM4RS/FridaBox)
+  > Android research workspace for per-app Frida Gadget instrumentation: on-device JavaScript, desktop a...
 
 ### [0xricksanchez](https://github.com/0xricksanchez)
 - 🌟 👤 [0xricksanchez](https://github.com/0xricksanchez) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
@@ -40,6 +46,10 @@
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
   > The world's fastest apk (android)/java open source decompiler
+
+### [Dere3046](https://github.com/Dere3046)
+- 🍴 👤 [Dere3046](https://github.com/Dere3046) Forked [ThePedroo/CSOLoader](https://github.com/ThePedroo/CSOLoader) to [Dere3046/OpenLinke](https://github.com/Dere3046/OpenLinke)
+  > Traceless and system-linker-independent custom linker for Android and Linux.
 
 ### [Dispa1r](https://github.com/Dispa1r)
 - 🌟 👤 [Dispa1r](https://github.com/Dispa1r) Starred [Rednick16/TrollStoreJITEnabler](https://github.com/Rednick16/TrollStoreJITEnabler)
@@ -83,6 +93,10 @@
 - 🌟 👤 [GangJust](https://github.com/GangJust) Starred [rhythmcache/payload-dumper-gui](https://github.com/rhythmcache/payload-dumper-gui)
   > App for Windows and Android to extract Android OTA payloads from local files or HTTP URLs
 
+### [Him188](https://github.com/Him188)
+- 🍴 👤 [Him188](https://github.com/Him188) Forked [ProblemFactory/vibespace](https://github.com/ProblemFactory/vibespace) to [Him188/vibespace](https://github.com/Him188/vibespace)
+  > A backend-agnostic web workspace for coding agents (Claude Code, Codex, …) — manage many concurrent ...
+
 ### [J5now](https://github.com/J5now)
 - 🌟 👤 [J5now](https://github.com/J5now) Starred [rogxo/kernel_hack](https://github.com/rogxo/kernel_hack)
   > 安卓内存读写驱动 linux kernel (Android) memory tool
@@ -99,6 +113,10 @@
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [tiwe0/r0dump](https://github.com/tiwe0/r0dump)
 - 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [tiwe0/r0dump](https://github.com/tiwe0/r0dump) to [KuNgia09/r0dump](https://github.com/KuNgia09/r0dump)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [tiwe0/wxshadow-hook-poc](https://github.com/tiwe0/wxshadow-hook-poc)
+
+### [LasCC](https://github.com/LasCC)
+- 🌟 👤 [LasCC](https://github.com/LasCC) Starred [abrignoni/DLEAPP](https://github.com/abrignoni/DLEAPP)
+  > DLEAPP — Desktop Logs Events And Protobuf Parser. A LEAPP for triaging desktop-application artifacts...
 
 ### [Lz1y](https://github.com/Lz1y)
 - 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
@@ -132,6 +150,9 @@
   > 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 - 🌟 👤 [Mrack](https://github.com/Mrack) Starred [Cloxl/xhshow](https://github.com/Cloxl/xhshow)
   > 小红书xs纯算 小红书x-s x-s-common xsc 等字段 纯算逆向
+
+### [N3rdL0rd](https://github.com/N3rdL0rd)
+- 🌟 👤 [N3rdL0rd](https://github.com/N3rdL0rd) Starred [rbowes-r7/gestalt](https://github.com/rbowes-r7/gestalt)
 
 ### [Natsume324](https://github.com/Natsume324)
 - 🌟 👤 [Natsume324](https://github.com/Natsume324) Starred [map220v/ubuntu-xiaomi-nabu](https://github.com/map220v/ubuntu-xiaomi-nabu)
@@ -181,6 +202,10 @@
 - 🌟 👤 [Slzdude](https://github.com/Slzdude) Starred [threathunterX/gesture-fingerprint](https://github.com/threathunterX/gesture-fingerprint)
   > Identify whether a mobile touch comes from a human, a software script, or a specific cheating hardwa...
 
+### [SodaMilk233](https://github.com/SodaMilk233)
+- 🌟 👤 [SodaMilk233](https://github.com/SodaMilk233) Starred [shuxueshuxue/Spexcode](https://github.com/shuxueshuxue/Spexcode)
+  > SDD that actually works.
+
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime)
   > WebAssembly Micro Runtime (WAMR)
@@ -199,6 +224,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [joe-gregory/blazor-devtools](https://github.com/joe-gregory/blazor-devtools)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity)
   > An explorable 3D city that shows how Postgres actually works
+
+### [TheQmaks](https://github.com/TheQmaks)
+- 🌟 👤 [TheQmaks](https://github.com/TheQmaks) Starred [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security)
+  > awesome game security [Welcome to PR]
 
 ### [TheWildJames](https://github.com/TheWildJames)
 - 🍴 👤 [TheWildJames](https://github.com/TheWildJames) Forked [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) to [WildKernels/Wild_Kernel_Builder](https://github.com/WildKernels/Wild_Kernel_Builder)
@@ -226,6 +255,8 @@
 - 🍴 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Forked [lithium-4-4-project/android_device_xiaomi_msm8996-common](https://github.com/lithium-4-4-project/android_device_xiaomi_msm8996-common) to [XiaoTong6666/android_device_xiaomi_msm8996-common](https://github.com/XiaoTong6666/android_device_xiaomi_msm8996-common)
 - 🍴 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Forked [lithium-4-4-project/proprietary_vendor_xiaomi_capricorn](https://github.com/lithium-4-4-project/proprietary_vendor_xiaomi_capricorn) to [XiaoTong6666/proprietary_vendor_xiaomi_capricorn](https://github.com/XiaoTong6666/proprietary_vendor_xiaomi_capricorn)
 - 🍴 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Forked [lithium-4-4-project/proprietary_vendor_xiaomi_msm8996-common](https://github.com/lithium-4-4-project/proprietary_vendor_xiaomi_msm8996-common) to [XiaoTong6666/proprietary_vendor_xiaomi_msm8996-common](https://github.com/XiaoTong6666/proprietary_vendor_xiaomi_msm8996-common)
+- 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [FireBurn/Vino](https://github.com/FireBurn/Vino)
+  > Vino Driver
 
 ### [Ylarod](https://github.com/Ylarod)
 - 🍴 👤 [Ylarod](https://github.com/Ylarod) Forked [KyuubiRan/hsin.rs](https://github.com/KyuubiRan/hsin.rs) to [Ylarod/hsin.rs](https://github.com/Ylarod/hsin.rs)
@@ -281,6 +312,10 @@
 ### [binbin594738977](https://github.com/binbin594738977)
 - 🌟 👤 [binbin594738977](https://github.com/binbin594738977) Starred [amimo/dcc](https://github.com/amimo/dcc)
   > DCC (Dex-to-C Compiler) is method-based aot compiler that can translate DEX code to C code.
+
+### [canyie](https://github.com/canyie)
+- 🍴 👤 [canyie](https://github.com/canyie) Forked [aospa-op13/proprietary](https://github.com/aospa-op13/proprietary) to [FancyLife/proprietary](https://github.com/FancyLife/proprietary)
+  > This is the relevant code of the qcom platform vendor branch /vendor/qcom/proprietary
 
 ### [chizhanyuefeng](https://github.com/chizhanyuefeng)
 - 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [Ahmednull/L2CS-Net](https://github.com/Ahmednull/L2CS-Net)
@@ -426,6 +461,16 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker) to [gmh5225/wallbreaker-](https://github.com/gmh5225/wallbreaker-)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [claustra01/my-ctf-challenges](https://github.com/claustra01/my-ctf-challenges) to [gmh5225/my-ctf-challenges---](https://github.com/gmh5225/my-ctf-challenges---)
   > CTF challenges I created 🚩
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [AbdelStark/Lensemble](https://github.com/AbdelStark/Lensemble) to [gmh5225/Lensemble](https://github.com/gmh5225/Lensemble)
+  > Research stack for reproducible federated training and evaluation of action-conditioned JEPA world m...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [adulau/rifp](https://github.com/adulau/rifp) to [gmh5225/rifp](https://github.com/gmh5225/rifp)
+  > Radio Image Framing Protocol
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [HORKimhab/CVE-2026-53264](https://github.com/HORKimhab/CVE-2026-53264) to [gmh5225/CVE-2026-53264](https://github.com/gmh5225/CVE-2026-53264)
+  > CVE-2026-53264 - Draft
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [1vivy/gbl-chainload](https://github.com/1vivy/gbl-chainload) to [gmh5225/gbl-chainload](https://github.com/gmh5225/gbl-chainload)
+  > GBL chainloader 
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [noahware/flexos](https://github.com/noahware/flexos) to [gmh5225/flexos](https://github.com/gmh5225/flexos)
+  > operating system written in modern c++
 
 ### [grant-h](https://github.com/grant-h)
 - 🌟 👤 [grant-h](https://github.com/grant-h) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
@@ -436,6 +481,13 @@
 ### [hahwul](https://github.com/hahwul)
 - 🌟 👤 [hahwul](https://github.com/hahwul) Starred [sdogruyol/sdogruyol.github.io](https://github.com/sdogruyol/sdogruyol.github.io)
   > serdardogruyol.com source code
+- 🚀 👤 [hahwul](https://github.com/hahwul) Made [crystal-actions/activity-weather](https://github.com/crystal-actions/activity-weather) public
+
+### [haikow](https://github.com/haikow)
+- 🌟 👤 [haikow](https://github.com/haikow) Starred [pzdddd/llhook-](https://github.com/pzdddd/llhook-)
+  > 极速版
+- 🍴 👤 [haikow](https://github.com/haikow) Forked [pzdddd/llhook-](https://github.com/pzdddd/llhook-) to [haikow/llhook-](https://github.com/haikow/llhook-)
+  > 极速版
 
 ### [halfkiss](https://github.com/halfkiss)
 - 🌟 👤 [halfkiss](https://github.com/halfkiss) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
@@ -544,6 +596,10 @@
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [roothide/Developer](https://github.com/roothide/Developer)
   > document for tweak Developers
 
+### [liuzjMr](https://github.com/liuzjMr)
+- 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [calesthio/Crucix](https://github.com/calesthio/Crucix)
+  > Your personal intelligence agent. Watches the world from multiple data sources and pings you when so...
+
 ### [luk1337](https://github.com/luk1337)
 - 🍴 👤 [luk1337](https://github.com/luk1337) Forked [buchgr/bazel-remote](https://github.com/buchgr/bazel-remote) to [luk1337/bazel-remote](https://github.com/luk1337/bazel-remote)
   > A remote cache for Bazel
@@ -605,6 +661,10 @@
 - 🌟 👤 [nevermoe](https://github.com/nevermoe) Starred [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym)
   > ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to e...
 
+### [noahware](https://github.com/noahware)
+- 🌟 👤 [noahware](https://github.com/noahware) Starred [noahware/flexos](https://github.com/noahware/flexos)
+  > operating system written in modern c++
+
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker)
 
@@ -612,7 +672,7 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [contentauth/c2pa-rs](https://github.com/contentauth/c2pa-rs)
   > Rust SDK for the core C2PA (Coalition for Content Provenance and Authenticity) specification
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [feyninc/nobg](https://github.com/feyninc/nobg)
-  > a library for image and video matting
+  > a library for background removal models
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Angel-Studio/MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island)
   > Free Android version of Dynamic Island feature stylized with Material You.
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [mkay/CrystalBall](https://github.com/mkay/CrystalBall)
@@ -623,10 +683,20 @@
   > GMS Flags is a tool for changing parameters in Google services to activate or deactivate certain fun...
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [parallelcc/MiCTS](https://github.com/parallelcc/MiCTS)
   > Trigger Circle to Search on any Android 9–16 device
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [schildep/verified-3d-mesh-intersection](https://github.com/schildep/verified-3d-mesh-intersection)
+  > Formally verified 3D mesh intersection - trust 93 lines of spec, not 1000+ lines of AI-written code
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [reflex-dev/xy](https://github.com/reflex-dev/xy)
+  > Fast, composable, GPU-accelerated charts for the web and notebooks
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Steel-Foundation/SteelMC](https://github.com/Steel-Foundation/SteelMC)
+  > A Minecraft server in Rust focused on a strong foundation and performance
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [peffre/ReBirth-RB-338](https://github.com/peffre/ReBirth-RB-338)
   > Rebirth RB-338 mods
+
+### [pbatard](https://github.com/pbatard)
+- 🌟 👤 [pbatard](https://github.com/pbatard) Starred [cetotos/PolyDroid2](https://github.com/cetotos/PolyDroid2)
+  > Android app to run Polytoria Linux client on mobile. Completely rewritten and seperate from PolyDroi...
 
 ### [penguin-wwy](https://github.com/penguin-wwy)
 - 🌟 👤 [penguin-wwy](https://github.com/penguin-wwy) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
@@ -772,6 +842,8 @@
 ### [wxxsfxyzm](https://github.com/wxxsfxyzm)
 - 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [james-6-23/codex2api](https://github.com/james-6-23/codex2api)
   > Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
+- 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)
+  > Translation plugin for IntelliJ-based IDEs/Android Studio.
 
 ### [wy876](https://github.com/wy876)
 - 🌟 👤 [wy876](https://github.com/wy876) Starred [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
@@ -836,5 +908,5 @@
 
 
 ---
-*最后更新于 2026-07-28 15:20:53 UTC*
+*最后更新于 2026-07-28 17:26:50 UTC*
 *历史记录保存在 `archive` 目录中。*
