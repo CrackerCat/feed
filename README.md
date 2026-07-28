@@ -30,6 +30,10 @@
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [cosscom/coss](https://github.com/cosscom/coss)
   > coss.com/ui is the official design system of Cal.com
 
+### [AndnixSH](https://github.com/AndnixSH)
+- 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [bmax121/APatch](https://github.com/bmax121/APatch)
+  > The patching of Android kernel and Android system
+
 ### [Andrea-lyz](https://github.com/Andrea-lyz)
 - 🌟 👤 [Andrea-lyz](https://github.com/Andrea-lyz) Starred [xyTom/coding-tools-mcp](https://github.com/xyTom/coding-tools-mcp)
   > Give any AI agent the ability to code
@@ -42,6 +46,10 @@
 
 ### [BlackHole1](https://github.com/BlackHole1)
 - 🌟 👤 [BlackHole1](https://github.com/BlackHole1) Starred [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img)
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ncroxon/gnu-efi](https://github.com/ncroxon/gnu-efi)
+  > Develop EFI applications for ARM-64, ARM-32, x86_64, IA-64 (IPF), IA-32 (x86), and MIPS platforms us...
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
@@ -92,6 +100,10 @@
   > 超级镜像提取打包工具，支持 EROFS EXT4 F2FS SUPER，UY Scuti 的继承者
 - 🌟 👤 [GangJust](https://github.com/GangJust) Starred [rhythmcache/payload-dumper-gui](https://github.com/rhythmcache/payload-dumper-gui)
   > App for Windows and Android to extract Android OTA payloads from local files or HTTP URLs
+
+### [Hackl0us](https://github.com/Hackl0us)
+- 🌟 👤 [Hackl0us](https://github.com/Hackl0us) Starred [ChrisMack32/Locus](https://github.com/ChrisMack32/Locus)
+  > Free open-source iPhone location teleport (MIT)
 
 ### [Him188](https://github.com/Him188)
 - 🍴 👤 [Him188](https://github.com/Him188) Forked [ProblemFactory/vibespace](https://github.com/ProblemFactory/vibespace) to [Him188/vibespace](https://github.com/Him188/vibespace)
@@ -160,6 +172,10 @@
   > Linux disk images, kernel and scripts for the Xiaomi Pad 5 tablet (codename: nabu).
 - 🍴 👤 [Natsume324](https://github.com/Natsume324) Forked [map220v/ubuntu-xiaomi-nabu](https://github.com/map220v/ubuntu-xiaomi-nabu) to [Natsume324/ubuntu-xiaomi-nabu](https://github.com/Natsume324/ubuntu-xiaomi-nabu)
 
+### [Nep-Timeline](https://github.com/Nep-Timeline)
+- 🌟 👤 [Nep-Timeline](https://github.com/Nep-Timeline) Starred [bug-bit/NzHelper](https://github.com/bug-bit/NzHelper)
+  > 一个简单、高效、易用的打飞机记录工具，帮助你科学管理✈️生活
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
   > AgentENV (AENV) is a distributed platform for running agent environments at scale.
@@ -167,6 +183,10 @@
 ### [PalmDevs](https://github.com/PalmDevs)
 - 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [EvanZhouDev/openai-oauth](https://github.com/EvanZhouDev/openai-oauth)
   > Free AI with your ChatGPT account
+
+### [PranavPurwar](https://github.com/PranavPurwar)
+- 🌟 👤 [PranavPurwar](https://github.com/PranavPurwar) Starred [Hessesian/kmp-lsp](https://github.com/Hessesian/kmp-lsp)
+  > Fast, low-memory LSP server for Kotlin and Java, written in Rust
 
 ### [RohitVerma882](https://github.com/RohitVerma882)
 - 🌟 👤 [RohitVerma882](https://github.com/RohitVerma882) Starred [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android)
@@ -187,6 +207,10 @@
 ### [Satar07](https://github.com/Satar07)
 - 🌟 👤 [Satar07](https://github.com/Satar07) Starred [mkj/dropbear](https://github.com/mkj/dropbear)
   > Dropbear SSH
+
+### [Seyud](https://github.com/Seyud)
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [mirforged/MirKernelForge](https://github.com/mirforged/MirKernelForge)
+  > Standalone implementation of KPM support for Magisk/KernelSU
 
 ### [SherlockChiang](https://github.com/SherlockChiang)
 - 🌟 👤 [SherlockChiang](https://github.com/SherlockChiang) Starred [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
@@ -255,7 +279,11 @@
 - 🍴 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Forked [lithium-4-4-project/android_device_xiaomi_msm8996-common](https://github.com/lithium-4-4-project/android_device_xiaomi_msm8996-common) to [XiaoTong6666/android_device_xiaomi_msm8996-common](https://github.com/XiaoTong6666/android_device_xiaomi_msm8996-common)
 - 🍴 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Forked [lithium-4-4-project/proprietary_vendor_xiaomi_capricorn](https://github.com/lithium-4-4-project/proprietary_vendor_xiaomi_capricorn) to [XiaoTong6666/proprietary_vendor_xiaomi_capricorn](https://github.com/XiaoTong6666/proprietary_vendor_xiaomi_capricorn)
 - 🍴 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Forked [lithium-4-4-project/proprietary_vendor_xiaomi_msm8996-common](https://github.com/lithium-4-4-project/proprietary_vendor_xiaomi_msm8996-common) to [XiaoTong6666/proprietary_vendor_xiaomi_msm8996-common](https://github.com/XiaoTong6666/proprietary_vendor_xiaomi_msm8996-common)
+- 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [DisplayLink/evdi](https://github.com/DisplayLink/evdi)
+  > Extensible Virtual Display Interface
 - 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [FireBurn/Vino](https://github.com/FireBurn/Vino)
+  > Vino Driver
+- 🍴 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Forked [FireBurn/Vino](https://github.com/FireBurn/Vino) to [XiaoTong6666/Vino](https://github.com/XiaoTong6666/Vino)
   > Vino Driver
 
 ### [Ylarod](https://github.com/Ylarod)
@@ -377,6 +405,10 @@
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)
   > Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready T...
 
+### [doodlewind](https://github.com/doodlewind)
+- 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [octanejs/octane](https://github.com/octanejs/octane)
+  > React’s programming model, compiled. The successor to Inferno, carrying its performance-first goal f...
+
 ### [doronz88](https://github.com/doronz88)
 - 🍴 👤 [doronz88](https://github.com/doronz88) Forked [m1stadev/lzfse](https://github.com/m1stadev/lzfse) to [doronz88/lzfse](https://github.com/doronz88/lzfse)
   > Python bindings for the LZFSE reference implementation
@@ -403,6 +435,10 @@
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [everettjf/graphchat](https://github.com/everettjf/graphchat)
   > Local-first, graph-native AI learning workspace powered by Pi.
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre)
+  > A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. ...
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
@@ -471,6 +507,15 @@
   > GBL chainloader 
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [noahware/flexos](https://github.com/noahware/flexos) to [gmh5225/flexos](https://github.com/gmh5225/flexos)
   > operating system written in modern c++
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [simonw/mcp-explorer](https://github.com/simonw/mcp-explorer) to [gmh5225/mcp-explorer](https://github.com/gmh5225/mcp-explorer)
+  > CLI tool for exploring an MCP server
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) to [gmh5225/text-to-cad](https://github.com/gmh5225/text-to-cad)
+  > A collection of agent skills for CAD, robotics and hardware design
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [tiwe0/wxshadow-hook-poc](https://github.com/tiwe0/wxshadow-hook-poc) to [gmh5225/wxshadow-hook-poc](https://github.com/gmh5225/wxshadow-hook-poc)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Margin-Lab/evals](https://github.com/Margin-Lab/evals) to [gmh5225/evals](https://github.com/gmh5225/evals)
+  > Fast, robust, configurable agent evals
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [sfewer-r7/CVE-2026-16232](https://github.com/sfewer-r7/CVE-2026-16232) to [gmh5225/CVE-2026-16232](https://github.com/gmh5225/CVE-2026-16232)
+  > A proof-of-concept script to exploit CVE-2026-16232, an authentication bypass via the SmartConsole l...
 
 ### [grant-h](https://github.com/grant-h)
 - 🌟 👤 [grant-h](https://github.com/grant-h) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
@@ -520,6 +565,10 @@
 ### [hktalent](https://github.com/hktalent)
 - 🌟 👤 [hktalent](https://github.com/hktalent) Starred [ying32/govcl](https://github.com/ying32/govcl)
   >  Cross-platform Go/Golang GUI library.
+
+### [iAklis](https://github.com/iAklis)
+- 🌟 👤 [iAklis](https://github.com/iAklis) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+  > Write HTML. Render video. Built for agents.
 
 ### [iyxan23](https://github.com/iyxan23)
 - 🌟 👤 [iyxan23](https://github.com/iyxan23) Starred [rsuite/rsuite](https://github.com/rsuite/rsuite)
@@ -638,6 +687,11 @@
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [libsm64/libsm64](https://github.com/libsm64/libsm64)
   > Mario 64 as a library for use in external game engines
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
+  > Build local voice agents with open-source models
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [letstri/druk](https://github.com/letstri/druk)
+
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal)
   > a machine learning image inpainting task that instinctively removes watermarks from image indistingu...
@@ -686,9 +740,13 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [schildep/verified-3d-mesh-intersection](https://github.com/schildep/verified-3d-mesh-intersection)
   > Formally verified 3D mesh intersection - trust 93 lines of spec, not 1000+ lines of AI-written code
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [reflex-dev/xy](https://github.com/reflex-dev/xy)
-  > Fast, composable, GPU-accelerated charts for the web and notebooks
+  > Fast, composable, GPU-accelerated Python charts for the web and notebooks
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Steel-Foundation/SteelMC](https://github.com/Steel-Foundation/SteelMC)
   > A Minecraft server in Rust focused on a strong foundation and performance
+
+### [oblique](https://github.com/oblique)
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
+  > A batteries-included framework for building web apps
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [peffre/ReBirth-RB-338](https://github.com/peffre/ReBirth-RB-338)
@@ -908,5 +966,5 @@
 
 
 ---
-*最后更新于 2026-07-28 17:26:50 UTC*
+*最后更新于 2026-07-28 19:23:03 UTC*
 *历史记录保存在 `archive` 目录中。*
