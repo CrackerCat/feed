@@ -31,9 +31,13 @@
 
 ### [Ackites](https://github.com/Ackites)
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 - 🍴 👤 [Ackites](https://github.com/Ackites) Forked [MyuriKanao/src-hunter-skill](https://github.com/MyuriKanao/src-hunter-skill) to [Ackites/src-hunter-skill](https://github.com/Ackites/src-hunter-skill)
   > 实战 SRC / 众测 / Bug bounty 漏洞挖掘 Claude Code skill — 19 个攻击类 playbook、305 个结构化 payload、263 个 WAF/EDR 绕过...
+
+### [Alex313031](https://github.com/Alex313031)
+- 🍴 👤 [Alex313031](https://github.com/Alex313031) Forked [raspberrypi/utils](https://github.com/raspberrypi/utils) to [Alex313031/raspi-utils](https://github.com/Alex313031/raspi-utils)
+  > A collection of scripts and simple applications
 
 ### [AlexAltea](https://github.com/AlexAltea)
 - 🌟 👤 [AlexAltea](https://github.com/AlexAltea) Starred [XiongjunGuan/JIPNet](https://github.com/XiongjunGuan/JIPNet)
@@ -47,7 +51,7 @@
 
 ### [Ascotbe](https://github.com/Ascotbe)
 - 🌟 👤 [Ascotbe](https://github.com/Ascotbe) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [BeichenDream](https://github.com/BeichenDream)
 - 🌟 👤 [BeichenDream](https://github.com/BeichenDream) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
@@ -62,6 +66,8 @@
 ### [ChiChou](https://github.com/ChiChou)
 - 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)
   > 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
+- 🌟 👤 [ChiChou](https://github.com/ChiChou) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
 
 ### [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut)
 - 🌟 👤 [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut) Starred [mfellner/sparkrun-recipes](https://github.com/mfellner/sparkrun-recipes)
@@ -70,6 +76,12 @@
 ### [ColdWindScholar](https://github.com/ColdWindScholar)
 - 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [erofs/erofs-utils](https://github.com/erofs/erofs-utils) to [ColdWindScholar/erofs-utils](https://github.com/ColdWindScholar/erofs-utils)
   > A github erofs-utils fork for community development
+- 🍴 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Forked [affggh/deb-cygwin-debian](https://github.com/affggh/deb-cygwin-debian) to [ColdWindScholar/deb-cygwin-debian](https://github.com/ColdWindScholar/deb-cygwin-debian)
+  > (unofficial) Cygwin cross-compilers on Debian bookworm
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [libriscv/libriscv](https://github.com/libriscv/libriscv)
+  > The fastest RISC-V sandbox
 
 ### [DarkFunct](https://github.com/DarkFunct)
 - 🌟 👤 [DarkFunct](https://github.com/DarkFunct) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
@@ -79,7 +91,7 @@
 
 ### [Drun1baby](https://github.com/Drun1baby)
 - 🌟 👤 [Drun1baby](https://github.com/Drun1baby) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [FaceAISDK](https://github.com/FaceAISDK)
 - 🌟 👤 [FaceAISDK](https://github.com/FaceAISDK) Starred [FaceAISDK/FaceAISDK_Android](https://github.com/FaceAISDK/FaceAISDK_Android)
@@ -99,7 +111,7 @@
 
 ### [FunnyWolf](https://github.com/FunnyWolf)
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 - 🌟 👤 [FunnyWolf](https://github.com/FunnyWolf) Starred [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit)
   > AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and rel...
 
@@ -124,7 +136,7 @@
 
 ### [H3rmesk1t](https://github.com/H3rmesk1t)
 - 🌟 👤 [H3rmesk1t](https://github.com/H3rmesk1t) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [HdShare](https://github.com/HdShare)
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6)
@@ -142,7 +154,7 @@
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [cldrn/codeql-queries](https://github.com/cldrn/codeql-queries)
   > My CodeQL queries collection
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [Jefino9488](https://github.com/Jefino9488)
 - 🍴 👤 [Jefino9488](https://github.com/Jefino9488) Forked [AxionAOSP/device_manifests](https://github.com/AxionAOSP/device_manifests) to [Axion-xaga/device_manifests](https://github.com/Axion-xaga/device_manifests)
@@ -177,11 +189,13 @@
 
 ### [L4ys](https://github.com/L4ys)
 - 🌟 👤 [L4ys](https://github.com/L4ys) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
+- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [bcoles/kasld](https://github.com/bcoles/kasld)
+  > KASLD derandomizes the Linux kernel's virtual and physical memory layout from a local process, using...
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [LabGuy94](https://github.com/LabGuy94)
 - 🌟 👤 [LabGuy94](https://github.com/LabGuy94) Starred [liufanfanlff/C3-Context-Cascade-Compression](https://github.com/liufanfanlff/C3-Context-Cascade-Compression)
@@ -201,6 +215,10 @@
 ### [LunFengChen](https://github.com/LunFengChen)
 - 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [pawelsalawa/letos](https://github.com/pawelsalawa/letos)
   > A free, open source, multi-platform SQLite database manager.
+
+### [MhmRdd](https://github.com/MhmRdd)
+- 🍴 👤 [MhmRdd](https://github.com/MhmRdd) Forked [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) to [MhmRdd/Duck-Detector-Refactoring](https://github.com/MhmRdd/Duck-Detector-Refactoring)
+  > Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, a...
 
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [ExTV/Podroid](https://github.com/ExTV/Podroid)
@@ -236,7 +254,7 @@
 - 🚀 👤 [P4nda0s](https://github.com/P4nda0s) Made [P4nda0s/bin-trace-agent](https://github.com/P4nda0s/bin-trace-agent) public
   > bin-trace-agent 
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [PabloCastellano](https://github.com/PabloCastellano)
 - 🌟 👤 [PabloCastellano](https://github.com/PabloCastellano) Starred [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
@@ -305,7 +323,7 @@
 
 ### [Tokeii0](https://github.com/Tokeii0)
 - 🌟 👤 [Tokeii0](https://github.com/Tokeii0) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [ViRb3](https://github.com/ViRb3)
 - 🚀 👤 [ViRb3](https://github.com/ViRb3) Made [ViRb3/applescript-tools](https://github.com/ViRb3/applescript-tools) public
@@ -313,11 +331,11 @@
 
 ### [WooyunDota](https://github.com/WooyunDota)
 - 🌟 👤 [WooyunDota](https://github.com/WooyunDota) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [X1r0z](https://github.com/X1r0z)
 - 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [XiaoTong6666](https://github.com/XiaoTong6666)
 - 🍴 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Forked [LineageOS/android_device_xiaomi_msm8996-common](https://github.com/LineageOS/android_device_xiaomi_msm8996-common) to [XiaoTong6666/android_device_xiaomi_msm8996-common](https://github.com/XiaoTong6666/android_device_xiaomi_msm8996-common)
@@ -358,6 +376,8 @@
 ### [ant4g0nist](https://github.com/ant4g0nist)
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
   > AgentENV (AENV) is a distributed platform for running agent environments at scale.
+- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [V33RU/tcpk](https://github.com/V33RU/tcpk)
+  > Portable Windows toolkit for pentesting thick-client applications, including .NET, MSIX, and native ...
 
 ### [any86](https://github.com/any86)
 - 🌟 👤 [any86](https://github.com/any86) Starred [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
@@ -382,6 +402,14 @@
 ### [breaking153](https://github.com/breaking153)
 - 🌟 👤 [breaking153](https://github.com/breaking153) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
   > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre)
+  > A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. ...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [block/buzz](https://github.com/block/buzz)
+  > A hive mind communication platform
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
 
 ### [carlospolop](https://github.com/carlospolop)
 - 🌟 👤 [carlospolop](https://github.com/carlospolop) Starred [LennesVP/TREMEND](https://github.com/LennesVP/TREMEND)
@@ -413,11 +441,17 @@
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [ctkqiang/Kimi-K3](https://github.com/ctkqiang/Kimi-K3)
   > Open Frontier Intelligence
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
   > Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible...
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [ylmyg/ani-destiny](https://github.com/ylmyg/ani-destiny)
   > AniDestiny 是一个非盈利的 Flutter 动漫发现、播放与弹幕学习项目。
+
+### [dartcv](https://github.com/dartcv)
+- 🌟 👤 [dartcv](https://github.com/dartcv) Starred [4ra1n/class-obf](https://github.com/4ra1n/class-obf)
+  > 一个 CLASS 文件混淆工具，支持方法字段参数名引用分析和重命名混淆，支持字符串提取/AES加密运行时解密/整型异或混淆/垃圾代码花指令混淆/错误注解崩溃/特殊字符迷惑用户/反编译器对抗/方法和字段...
+- 🌟 👤 [dartcv](https://github.com/dartcv) Starred [jar-analyzer/jar-obfuscator](https://github.com/jar-analyzer/jar-obfuscator)
+  > Jar Obfuscator V2 - 一个 JAR 文件保护混淆工具，支持包名/类名/方法名/字段名/参数名引用分析和重命名混淆方式，支持字符串加密/整型异或混淆/垃圾代码花指令混淆/等方式，支持方...
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
@@ -429,7 +463,7 @@
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [eerimoq](https://github.com/eerimoq)
 - 🍴 👤 [eerimoq](https://github.com/eerimoq) Forked [MetalPetal/VideoIO](https://github.com/MetalPetal/VideoIO) to [eerimoq/VideoIO](https://github.com/eerimoq/VideoIO)
@@ -479,11 +513,11 @@
 
 ### [firmianay](https://github.com/firmianay)
 - 🌟 👤 [firmianay](https://github.com/firmianay) Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)
-  > Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your sou...
+  > Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies a...
 - 🌟 👤 [firmianay](https://github.com/firmianay) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - 🌟 👤 [firmianay](https://github.com/firmianay) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [AkashaCorporation/HikariSystem-HexCore](https://github.com/AkashaCorporation/HikariSystem-HexCore)
@@ -493,7 +527,7 @@
 
 ### [fynch3r](https://github.com/fynch3r)
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [traceroot-ai/traceroot](https://github.com/traceroot-ai/traceroot)
   > TraceRoot - open-source observability and self-healing layer for AI agents. YC S25
 
@@ -528,9 +562,9 @@
 - 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio)
   > A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX...
 - 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [openai/codex-security](https://github.com/openai/codex-security) to [gmh5225/codex-security](https://github.com/gmh5225/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 - 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [rhaiscript/rhai](https://github.com/rhaiscript/rhai)
   > Rhai - An embedded scripting language for Rust.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [versenilvis/IRIS](https://github.com/versenilvis/IRIS) to [gmh5225/IRIS-go](https://github.com/gmh5225/IRIS-go)
@@ -568,6 +602,8 @@
 ### [grant-h](https://github.com/grant-h)
 - 🌟 👤 [grant-h](https://github.com/grant-h) Starred [bmdhacks/machismo](https://github.com/bmdhacks/machismo)
   > MacOS to Linux aarch64 loader/patcher
+- 🍴 👤 [grant-h](https://github.com/grant-h) Forked [bmdhacks/machismo](https://github.com/bmdhacks/machismo) to [grant-h/machismo](https://github.com/grant-h/machismo)
+  > MacOS to Linux aarch64 loader/patcher
 
 ### [hahwul](https://github.com/hahwul)
 - 🍴 👤 [hahwul](https://github.com/hahwul) Forked [github/advisory-database](https://github.com/github/advisory-database) to [hahwul/advisory-database](https://github.com/hahwul/advisory-database)
@@ -579,7 +615,7 @@
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [HugoRCD/evlog](https://github.com/HugoRCD/evlog)
   > Digging through logs is not observability. It's hope — wide events, structured errors, TypeScript-fi...
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [34306/MilkyWayReborn](https://github.com/34306/MilkyWayReborn)
@@ -588,10 +624,12 @@
   > Sysinternals ZoomIt for MacOS
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [QoderAI/better-harness](https://github.com/QoderAI/better-harness)
   > Help your coding agents get better at getting better. Better Harness evaluates how Claude Code, Code...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+  > TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and c...
 
 ### [iAklis](https://github.com/iAklis)
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [BeautyyuYanli/codex-apply-patch](https://github.com/BeautyyuYanli/codex-apply-patch)
   > Standalone automatically updated mirror of OpenAI Codex apply-patch
 
@@ -637,7 +675,7 @@
 - 🌟 👤 [jweny](https://github.com/jweny) Starred [halo-dev/halo](https://github.com/halo-dev/halo)
   > Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
 - 🌟 👤 [jweny](https://github.com/jweny) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [kagancapar](https://github.com/kagancapar)
 - 🌟 👤 [kagancapar](https://github.com/kagancapar) Starred [netdata/netdata](https://github.com/netdata/netdata)
@@ -645,7 +683,7 @@
 
 ### [kernullist](https://github.com/kernullist)
 - 🌟 👤 [kernullist](https://github.com/kernullist) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 - 🚀 👤 [kernullist](https://github.com/kernullist) Made [kernullist/starry-farm](https://github.com/kernullist/starry-farm) public
   > 별밤 농장 - 스타듀밸리풍 농장 생활 시뮬레이션 (단일 HTML)
 
@@ -693,7 +731,7 @@
 
 ### [moonD4rk](https://github.com/moonD4rk)
 - 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [mos9527](https://github.com/mos9527)
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [lewish/asciiflow](https://github.com/lewish/asciiflow)
@@ -716,7 +754,7 @@
 ### [netxfly](https://github.com/netxfly)
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [andeya/forge](https://github.com/andeya/forge)
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
   > Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you ...
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [different-ai/openwork](https://github.com/different-ai/openwork)
@@ -743,11 +781,16 @@
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [nickvourd/Weaponize-CobaltStrike](https://github.com/nickvourd/Weaponize-CobaltStrike)
   > Automatically Download & Compile Useful BOFs for CS
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [Macs75/pico8-android](https://github.com/Macs75/pico8-android)
+  > A wrapper for PICO-8 to run on Android
+- 🌟 👤 [patois](https://github.com/patois) Starred [Macs75/game-and-watch-retro-go-sd](https://github.com/Macs75/game-and-watch-retro-go-sd)
+
 ### [plusls](https://github.com/plusls)
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [openafw/openafw](https://github.com/openafw/openafw)
   > OpenAFW is a local agent firewall — keep your secrets off the model, the API relay, and the supply c...
 - 🌟 👤 [plusls](https://github.com/plusls) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [plusvic](https://github.com/plusvic)
 - 🌟 👤 [plusvic](https://github.com/plusvic) Starred [VirusTotal/yara](https://github.com/VirusTotal/yara)
@@ -785,7 +828,7 @@
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
   >  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Acceler...
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [rogxo](https://github.com/rogxo)
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [AkashaCorporation/HikariSystem-HexCore](https://github.com/AkashaCorporation/HikariSystem-HexCore)
@@ -812,7 +855,7 @@
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [megvii-research/MOTRv2](https://github.com/megvii-research/MOTRv2)
   > [CVPR2023] MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
   > Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible...
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
@@ -844,13 +887,17 @@
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
   > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
 
+### [taowen](https://github.com/taowen)
+- 🍴 👤 [taowen](https://github.com/taowen) Forked [Tencent/ncnn](https://github.com/Tencent/ncnn) to [taowen/ncnn](https://github.com/taowen/ncnn)
+  > ncnn is a high-performance neural network inference framework optimized for the mobile platform
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
   > KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
 
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [veritas501](https://github.com/veritas501)
 - 🍴 👤 [veritas501](https://github.com/veritas501) Forked [2lab-ai/herdr-mx](https://github.com/2lab-ai/herdr-mx) to [veritas501/herdr-mx](https://github.com/veritas501/herdr-mx)
@@ -929,7 +976,7 @@
 
 ### [yhy0](https://github.com/yhy0)
 - 🌟 👤 [yhy0](https://github.com/yhy0) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 - 🍴 👤 [yhy0](https://github.com/yhy0) Forked [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) to [yhy0/BrowserSkill](https://github.com/yhy0/BrowserSkill)
   > Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for b...
 
@@ -943,7 +990,7 @@
 
 ### [yulate](https://github.com/yulate)
 - 🌟 👤 [yulate](https://github.com/yulate) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [looCiprian/GC2-sheet](https://github.com/looCiprian/GC2-sheet)
@@ -963,7 +1010,7 @@
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [CuriousLearnerDev/Online_Tools-AI](https://github.com/CuriousLearnerDev/Online_Tools-AI)
   > 一个面向 Web 版桌面 安全测试的 AI Agent 平台，集成侦察、分析、规划、工具调用与反馈学习，实现自主完成渗透测试工作流An AI Agent platform for web-based ...
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [zhangkanqi](https://github.com/zhangkanqi)
 - 🌟 👤 [zhangkanqi](https://github.com/zhangkanqi) Starred [OWASP/DockSec](https://github.com/OWASP/DockSec)
@@ -977,11 +1024,11 @@
 
 ### [zzzcccyyyggg](https://github.com/zzzcccyyyggg)
 - 🌟 👤 [zzzcccyyyggg](https://github.com/zzzcccyyyggg) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 - 🍴 👤 [zzzcccyyyggg](https://github.com/zzzcccyyyggg) Forked [openai/codex-security](https://github.com/openai/codex-security) to [zzzcccyyyggg/codex-security](https://github.com/zzzcccyyyggg/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 
 ---
-*最后更新于 2026-07-29 19:15:23 UTC*
+*最后更新于 2026-07-29 22:01:08 UTC*
 *历史记录保存在 `archive` 目录中。*
