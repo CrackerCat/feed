@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [1orz](https://github.com/1orz)
+- 🌟 👤 [1orz](https://github.com/1orz) Starred [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun)
+  > A list of publicly available STUN servers, refreshed every hour.
+
 ### [Andrea-lyz](https://github.com/Andrea-lyz)
 - 🌟 👤 [Andrea-lyz](https://github.com/Andrea-lyz) Starred [heyroute-ai/codex-threadkeeper](https://github.com/heyroute-ai/codex-threadkeeper)
   > Keep Codex threads visible by syncing session metadata, SQLite state, and managed backups.
@@ -24,6 +28,10 @@
 ### [HdShare](https://github.com/HdShare)
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI)
   > A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six platfo...
+
+### [Him188](https://github.com/Him188)
+- 🍴 👤 [Him188](https://github.com/Him188) Forked [stablyai/orca](https://github.com/stablyai/orca) to [Him188/orca](https://github.com/Him188/orca)
+  > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
 
 ### [Just-Hack-For-Fun](https://github.com/Just-Hack-For-Fun)
 - 🌟 👤 [Just-Hack-For-Fun](https://github.com/Just-Hack-For-Fun) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
@@ -57,9 +65,21 @@
 - 🌟 👤 [Nekmo](https://github.com/Nekmo) Starred [Nekmo/vozia](https://github.com/Nekmo/vozia)
   > Your voice, everywhere: self-hosted publisher for Twitter/X, Bluesky, LinkedIn, Mastodon and Telegra...
 
+### [NiTianErXing666](https://github.com/NiTianErXing666)
+- 🌟 👤 [NiTianErXing666](https://github.com/NiTianErXing666) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+  > 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at...
+
+### [Steesha](https://github.com/Steesha)
+- 🌟 👤 [Steesha](https://github.com/Steesha) Starred [angr/angr-management](https://github.com/angr/angr-management)
+  > The official angr GUI.
+
 ### [SummerSec](https://github.com/SummerSec)
 - 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
   > Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSoc...
+
+### [TGSAN](https://github.com/TGSAN)
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle)
+  > A Flash Player emulator written in Rust
 
 ### [ThomasThelen](https://github.com/ThomasThelen)
 - 🌟 👤 [ThomasThelen](https://github.com/ThomasThelen) Starred [rapidsai/cugraph](https://github.com/rapidsai/cugraph)
@@ -70,6 +90,12 @@
 ### [Udyz](https://github.com/Udyz)
 - 🌟 👤 [Udyz](https://github.com/Udyz) Starred [hendrywang/BatchTranslate](https://github.com/hendrywang/BatchTranslate)
   > Batch Translate Chinese SRT to English and Vietnamese VTT
+
+### [Walkman100](https://github.com/Walkman100)
+- 🌟 👤 [Walkman100](https://github.com/Walkman100) Starred [asdcorp/rearm](https://github.com/asdcorp/rearm)
+  > Rearm Every Activation-Related Mechanism
+- 🍴 👤 [Walkman100](https://github.com/Walkman100) Forked [asdcorp/rearm](https://github.com/asdcorp/rearm) to [Walkman-Mirror/rearm](https://github.com/Walkman-Mirror/rearm)
+  > Rearm Every Activation-Related Mechanism
 
 ### [WangWei-CM](https://github.com/WangWei-CM)
 - 🌟 👤 [WangWei-CM](https://github.com/WangWei-CM) Starred [ExTV/rikkahub-agent](https://github.com/ExTV/rikkahub-agent)
@@ -99,13 +125,31 @@
 - 🍴 👤 [affggh](https://github.com/affggh) Forked [ibilux/android_device_tree_hermes](https://github.com/ibilux/android_device_tree_hermes) to [affggh/android_device_oppo_a37m](https://github.com/affggh/android_device_oppo_a37m)
   > LineageOS device tree for Xiaomi Redmi Note 2
 
+### [andy0andy](https://github.com/andy0andy)
+- 🌟 👤 [andy0andy](https://github.com/andy0andy) Starred [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)
+  > Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulator...
+
 ### [bigsinger](https://github.com/bigsinger)
 - 🌟 👤 [bigsinger](https://github.com/bigsinger) Starred [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool)
   > Office Tool Plus localization projects.
 
+### [codingsf](https://github.com/codingsf)
+- 🌟 👤 [codingsf](https://github.com/codingsf) Starred [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
+  > OpenMMLab Foundational Library for Training Deep Learning Models
+
+### [crazy-max](https://github.com/crazy-max)
+- 🌟 👤 [crazy-max](https://github.com/crazy-max) Starred [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud)
+  > 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and ...
+
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [cloudflare/kumo](https://github.com/cloudflare/kumo)
   > Cloudflare's component library for building modern web applications.
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [layui/layui](https://github.com/layui/layui)
+  > 一套遵循浏览器原生态开发模式的 Web UI 组件库。
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [SanzarRehman/HTML2PDF](https://github.com/SanzarRehman/HTML2PDF)
@@ -113,9 +157,18 @@
 - 🍴 👤 [feicong](https://github.com/feicong) Forked [SanzarRehman/HTML2PDF](https://github.com/SanzarRehman/HTML2PDF) to [feicong/HTML2PDF](https://github.com/feicong/HTML2PDF)
   > World's fastest, leanest open source parallel HTML-to-PDF engine for serious server workloads.
 
+### [fr0zenrain](https://github.com/fr0zenrain)
+- 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [Jingyi-Wu-Richael/rachel-digital-human-production](https://github.com/Jingyi-Wu-Richael/rachel-digital-human-production)
+
 ### [g0th1c54e4](https://github.com/g0th1c54e4)
 - 🌟 👤 [g0th1c54e4](https://github.com/g0th1c54e4) Starred [flutter/flutter](https://github.com/flutter/flutter)
   > Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+### [gmh5225](https://github.com/gmh5225)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ElectronicCats/CatSniffer](https://github.com/ElectronicCats/CatSniffer) to [gmh5225/CatSniffer](https://github.com/gmh5225/CatSniffer)
+  > CatSniffer is an original multiprotocol and multiband board for sniffing, communicating, and attacki...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [openhackai/OpenHack](https://github.com/openhackai/OpenHack) to [gmh5225/OpenHack](https://github.com/gmh5225/OpenHack)
+  > Open Source Agentic Security Scanner
 
 ### [greg7mdp](https://github.com/greg7mdp)
 - 🌟 👤 [greg7mdp](https://github.com/greg7mdp) Starred [sqliteai/waste](https://github.com/sqliteai/waste)
@@ -140,6 +193,10 @@
 - 🌟 👤 [kyle-sylvestre](https://github.com/kyle-sylvestre) Starred [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend)
   > A fast and clever hex editor for macOS
 
+### [lightless233](https://github.com/lightless233)
+- 🌟 👤 [lightless233](https://github.com/lightless233) Starred [RamuneIDA/Ramune-ida](https://github.com/RamuneIDA/Ramune-ida)
+  > Headless IDA Pro MCP Server — expose IDA Pro's reverse engineering capabilities to AI agents for mor...
+
 ### [lionsoul2014](https://github.com/lionsoul2014)
 - 🌟 👤 [lionsoul2014](https://github.com/lionsoul2014) Starred [jhy/jsoup](https://github.com/jhy/jsoup)
   > jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
@@ -147,6 +204,10 @@
 ### [lucky-oi](https://github.com/lucky-oi)
 - 🍴 👤 [lucky-oi](https://github.com/lucky-oi) Forked [abcz316/rwProcMem33](https://github.com/abcz316/rwProcMem33) to [lucky-oi/rwProcMem33](https://github.com/lucky-oi/rwProcMem33)
   > Linux ARM64内核硬件进程内存读写驱动、硬件断点调试驱动。硬件级读写Linux进程内存、硬件级下断点。
+
+### [m0nad](https://github.com/m0nad)
+- 🚀 👤 [m0nad](https://github.com/m0nad) Made [m0nad/forgejo_ssrf](https://github.com/m0nad/forgejo_ssrf) public
+  > forgejo_ssrf
 
 ### [madeye](https://github.com/madeye)
 - 🌟 👤 [madeye](https://github.com/madeye) Starred [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
@@ -194,6 +255,10 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [yc-software/qm](https://github.com/yc-software/qm)
   > Multiplayer agent harness for work
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [APKLab/APKLab](https://github.com/APKLab/APKLab)
+  > Android Reverse-Engineering Workbench for VS Code
+
 ### [qaiu](https://github.com/qaiu)
 - 🌟 👤 [qaiu](https://github.com/qaiu) Starred [guohuiyuan/music-lib](https://github.com/guohuiyuan/music-lib)
   > 一个强大的网易云、QQ、酷狗、Bilibili、汽水等音乐聚合搜索与下载核心库 (Go 语言实现)
@@ -214,6 +279,13 @@
 - 🌟 👤 [roadwy](https://github.com/roadwy) Starred [BlackSnufkin/BYOVD](https://github.com/BlackSnufkin/BYOVD)
   > BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology. ...
 
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [YinMo19/fanqie-rs](https://github.com/YinMo19/fanqie-rs)
+
+### [sh1ma](https://github.com/sh1ma)
+- 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [opensearch-project/opensearch-agent-skills](https://github.com/opensearch-project/opensearch-agent-skills)
+  > A collection of Agent Skills for building search applications and analyzing observability data with ...
+
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [LeoChen-CoreMind/UDX710-TOOLS](https://github.com/LeoChen-CoreMind/UDX710-TOOLS)
   > UDX710-TOOLS
@@ -224,17 +296,31 @@
 - 🌟 👤 [thatqier](https://github.com/thatqier) Starred [Hype-yolo/wechat-export-tool](https://github.com/Hype-yolo/wechat-export-tool)
   > 从 iPhone 加密备份导出你自己的微信聊天记录（本地运行，数据不出本机）
 
+### [vilebbit](https://github.com/vilebbit)
+- 🌟 👤 [vilebbit](https://github.com/vilebbit) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+  > The open source coding agent.
+
 ### [vitaviva](https://github.com/vitaviva)
 - 🌟 👤 [vitaviva](https://github.com/vitaviva) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
   > 🎥      Make videos programmatically with React
+
+### [wxxsfxyzm](https://github.com/wxxsfxyzm)
+- 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [TakeKazeX/HyperTweak](https://github.com/TakeKazeX/HyperTweak)
+  > A self-use tweak for HyperOS
 
 ### [x7dbg](https://github.com/x7dbg)
 - 🌟 👤 [x7dbg](https://github.com/x7dbg) Starred [vasie1337/shared-section-driver](https://github.com/vasie1337/shared-section-driver)
   > Windows kernel driver demonstrating kernel-to-usermode communication via shared memory sections
 
+### [xiaolai](https://github.com/xiaolai)
+- 🌟 👤 [xiaolai](https://github.com/xiaolai) Starred [Cohenjikan/shiyun](https://github.com/Cohenjikan/shiyun)
+  > 把中国三千年的诗放进一片可漫游的三维星系：每位诗人是一颗星，每首诗都有坐标，星与星之间的虚空是「一切可能的诗」。32,657 位诗人 / 933,857 首。灵感来自刘慈欣《诗云》。
+
 ### [xunchahaha](https://github.com/xunchahaha)
 - 🌟 👤 [xunchahaha](https://github.com/xunchahaha) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build...
+- 🌟 👤 [xunchahaha](https://github.com/xunchahaha) Starred [YunJavaPro/Silk-Codec-Android](https://github.com/YunJavaPro/Silk-Codec-Android)
+  > Android 平台 Silk 音频编解码工具
 
 ### [xyxdaily](https://github.com/xyxdaily)
 - 🍴 👤 [xyxdaily](https://github.com/xyxdaily) Forked [YinMo19/fanqie-rs](https://github.com/YinMo19/fanqie-rs) to [xyxdaily/fanqie-rs-tiktok](https://github.com/xyxdaily/fanqie-rs-tiktok)
@@ -249,5 +335,5 @@
 
 
 ---
-*最后更新于 2026-08-01 07:27:05 UTC*
+*最后更新于 2026-08-01 09:58:49 UTC*
 *历史记录保存在 `archive` 目录中。*
