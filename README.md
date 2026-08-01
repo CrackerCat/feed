@@ -61,6 +61,10 @@
 - 🌟 👤 [MolotovCherry](https://github.com/MolotovCherry) Starred [MolotovCherry/dms-dnd](https://github.com/MolotovCherry/dms-dnd)
   > Intelligently toggle DND for fullscreen windows
 
+### [Monoceros406](https://github.com/Monoceros406)
+- 🌟 👤 [Monoceros406](https://github.com/Monoceros406) Starred [NVIDIA/open-gpu-doc](https://github.com/NVIDIA/open-gpu-doc)
+  > Documentation of NVIDIA chip/hardware interfaces
+
 ### [Nekmo](https://github.com/Nekmo)
 - 🌟 👤 [Nekmo](https://github.com/Nekmo) Starred [Nekmo/vozia](https://github.com/Nekmo/vozia)
   > Your voice, everywhere: self-hosted publisher for Twitter/X, Bluesky, LinkedIn, Mastodon and Telegra...
@@ -69,6 +73,10 @@
 - 🌟 👤 [NiTianErXing666](https://github.com/NiTianErXing666) Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
   > 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at...
 
+### [SimonTheCoder](https://github.com/SimonTheCoder)
+- 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
+  > A pure Unix shell script ACME client for SSL / TLS certificate automation
+
 ### [Steesha](https://github.com/Steesha)
 - 🌟 👤 [Steesha](https://github.com/Steesha) Starred [angr/angr-management](https://github.com/angr/angr-management)
   > The official angr GUI.
@@ -76,6 +84,10 @@
 ### [SummerSec](https://github.com/SummerSec)
 - 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
   > Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSoc...
+
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
+  > Send push notifications to your phone or desktop using PUT/POST
 
 ### [TGSAN](https://github.com/TGSAN)
 - 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle)
@@ -133,6 +145,10 @@
 - 🌟 👤 [bigsinger](https://github.com/bigsinger) Starred [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool)
   > Office Tool Plus localization projects.
 
+### [boy-hack](https://github.com/boy-hack)
+- 🌟 👤 [boy-hack](https://github.com/boy-hack) Starred [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)
+  > LuaN1aoAgent is a fully autonomous AI penetration testing agent driven by graph-based cognitive reas...
+
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
   > OpenMMLab Foundational Library for Training Deep Learning Models
@@ -160,6 +176,10 @@
 ### [fr0zenrain](https://github.com/fr0zenrain)
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [Jingyi-Wu-Richael/rachel-digital-human-production](https://github.com/Jingyi-Wu-Richael/rachel-digital-human-production)
 
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)
+  > TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DISREGARD PREV. INSTRUCTS] {*...
+
 ### [g0th1c54e4](https://github.com/g0th1c54e4)
 - 🌟 👤 [g0th1c54e4](https://github.com/g0th1c54e4) Starred [flutter/flutter](https://github.com/flutter/flutter)
   > Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -169,6 +189,16 @@
   > CatSniffer is an original multiprotocol and multiband board for sniffing, communicating, and attacki...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [openhackai/OpenHack](https://github.com/openhackai/OpenHack) to [gmh5225/OpenHack](https://github.com/gmh5225/OpenHack)
   > Open Source Agentic Security Scanner
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [SuperagenticAI/superclaw](https://github.com/SuperagenticAI/superclaw) to [gmh5225/superclaw](https://github.com/gmh5225/superclaw)
+  > SuperClaw: Red-Team AI Agents Before They Red-Team You
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NulledNah/cheat-engine-undetectable](https://github.com/NulledNah/cheat-engine-undetectable) to [gmh5225/cheat-engine-undetectable](https://github.com/gmh5225/cheat-engine-undetectable)
+  > Academic Research Edition - T1: User-mode evasion (obfuscation + syscall gateway), T2: BYOVD kernel ...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [uttam-gelot/payo](https://github.com/uttam-gelot/payo) to [gmh5225/payo](https://github.com/gmh5225/payo)
+  > Generate project-tailored AI assistant rules & skills (CLAUDE.md, .cursorrules, Copilot instructions...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [p0nymc1/cee](https://github.com/p0nymc1/cee) to [gmh5225/cee](https://github.com/gmh5225/cee)
+  > CEE — Cognitive Execution Engine: a business-agnostic protocol for deterministic-first agent executi...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [AMD-AGI/Hyperloom](https://github.com/AMD-AGI/Hyperloom) to [gmh5225/Hyperloom](https://github.com/gmh5225/Hyperloom)
+  > An agentic system that auto-optimizes LLM workloads on AMD GPUs.
 
 ### [greg7mdp](https://github.com/greg7mdp)
 - 🌟 👤 [greg7mdp](https://github.com/greg7mdp) Starred [sqliteai/waste](https://github.com/sqliteai/waste)
@@ -259,6 +289,9 @@
 - 🌟 👤 [patois](https://github.com/patois) Starred [APKLab/APKLab](https://github.com/APKLab/APKLab)
   > Android Reverse-Engineering Workbench for VS Code
 
+### [piotrek-szczygiel](https://github.com/piotrek-szczygiel)
+- 🌟 👤 [piotrek-szczygiel](https://github.com/piotrek-szczygiel) Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
 ### [qaiu](https://github.com/qaiu)
 - 🌟 👤 [qaiu](https://github.com/qaiu) Starred [guohuiyuan/music-lib](https://github.com/guohuiyuan/music-lib)
   > 一个强大的网易云、QQ、酷狗、Bilibili、汽水等音乐聚合搜索与下载核心库 (Go 语言实现)
@@ -266,6 +299,8 @@
 ### [quanyeyang](https://github.com/quanyeyang)
 - 🌟 👤 [quanyeyang](https://github.com/quanyeyang) Starred [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K)
   > Experimental PlayStation Vita emulator
+- 🌟 👤 [quanyeyang](https://github.com/quanyeyang) Starred [google/syzkaller](https://github.com/google/syzkaller)
+  > syzkaller is an unsupervised coverage-guided kernel fuzzer
 
 ### [r0eXpeR](https://github.com/r0eXpeR)
 - 🌟 👤 [r0eXpeR](https://github.com/r0eXpeR) Starred [SourByte05/Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC)
@@ -278,6 +313,8 @@
 ### [roadwy](https://github.com/roadwy)
 - 🌟 👤 [roadwy](https://github.com/roadwy) Starred [BlackSnufkin/BYOVD](https://github.com/BlackSnufkin/BYOVD)
   > BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology. ...
+- 🌟 👤 [roadwy](https://github.com/roadwy) Starred [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
+  > DeepSeek-v4-Flash 0731 recipe for 2x DGX Sparks
 
 ### [rogxo](https://github.com/rogxo)
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [YinMo19/fanqie-rs](https://github.com/YinMo19/fanqie-rs)
@@ -295,6 +332,10 @@
   > Windows / MAC 微信聊天记录工具  一键生成群聊总结助手
 - 🌟 👤 [thatqier](https://github.com/thatqier) Starred [Hype-yolo/wechat-export-tool](https://github.com/Hype-yolo/wechat-export-tool)
   > 从 iPhone 加密备份导出你自己的微信聊天记录（本地运行，数据不出本机）
+
+### [twogoat](https://github.com/twogoat)
+- 🍴 👤 [twogoat](https://github.com/twogoat) Forked [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) to [twogoat/PenetrationAI](https://github.com/twogoat/PenetrationAI)
+  > The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence b...
 
 ### [vilebbit](https://github.com/vilebbit)
 - 🌟 👤 [vilebbit](https://github.com/vilebbit) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
@@ -325,6 +366,10 @@
 ### [xyxdaily](https://github.com/xyxdaily)
 - 🍴 👤 [xyxdaily](https://github.com/xyxdaily) Forked [YinMo19/fanqie-rs](https://github.com/YinMo19/fanqie-rs) to [xyxdaily/fanqie-rs-tiktok](https://github.com/xyxdaily/fanqie-rs-tiktok)
 
+### [yinsel](https://github.com/yinsel)
+- 🌟 👤 [yinsel](https://github.com/yinsel) Starred [Le1a/JarLibsConsolidator](https://github.com/Le1a/JarLibsConsolidator)
+  > 一个IDEA插件：一键收集项目中所有jar包依赖的工具插件。遍历项目目录收集所有jar文件，复制到all-in-one文件夹，并自动添加为项目库。
+
 ### [zhangyoufu](https://github.com/zhangyoufu)
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [flatcar/Flatcar](https://github.com/flatcar/Flatcar)
   > Flatcar project repository for issue tracking, project documentation, etc.
@@ -335,5 +380,5 @@
 
 
 ---
-*最后更新于 2026-08-01 09:58:49 UTC*
+*最后更新于 2026-08-01 11:24:04 UTC*
 *历史记录保存在 `archive` 目录中。*
