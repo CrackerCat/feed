@@ -16,6 +16,28 @@
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [ruvnet/RuVector](https://github.com/ruvnet/RuVector)
   > RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust.
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [oxidecomputer/helios](https://github.com/oxidecomputer/helios)
+  > Helios: Or, a Vision in a Dream. A Fragment.
+
+### [DarkFunct](https://github.com/DarkFunct)
+- 🌟 👤 [DarkFunct](https://github.com/DarkFunct) Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
+  > A high-throughput and memory-efficient inference and serving engine for LLMs
+
+### [DeHby](https://github.com/DeHby)
+- 🌟 👤 [DeHby](https://github.com/DeHby) Starred [sqdshguy/wreq-js](https://github.com/sqdshguy/wreq-js)
+  > HTTP client for Node.js with browser TLS fingerprint impersonation
+
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [imuncle/live2d](https://github.com/imuncle/live2d)
+  > live2d模型收集+展示，可直接用于静态网站
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [jtydhr88/ComfyUI-See-through](https://github.com/jtydhr88/ComfyUI-See-through)
+  > A ComfyUI plugin that wraps [See-through](https://github.com/shitagaki-lab/see-through) — an AI syst...
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
+  > The repository provides code for running inference with the SegmentAnything Model (SAM), links for d...
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [shitagaki-lab/see-through](https://github.com/shitagaki-lab/see-through)
+  > "Single-image Layer Decomposition for Anime Characters" (SIGGRAPH 2026 Conference Paper)
+
 ### [GermanAizek](https://github.com/GermanAizek)
 - 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [ggarra13/mrv2](https://github.com/ggarra13/mrv2)
   > Professional player and review tool for vfx, animation and computer graphics.
@@ -30,6 +52,17 @@
 - 🍴 👤 [Keno](https://github.com/Keno) Forked [MicrosoftDocs/win32](https://github.com/MicrosoftDocs/win32) to [KenoAIStaging/win32-docs](https://github.com/KenoAIStaging/win32-docs)
   > Public mirror for win32-pr
 
+### [LanBaiCode](https://github.com/LanBaiCode)
+- 🌟 👤 [LanBaiCode](https://github.com/LanBaiCode) Starred [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)
+  > Codex Switch & Instruct desktop manager
+
+### [Ridter](https://github.com/Ridter)
+- 🌟 👤 [Ridter](https://github.com/Ridter) Starred [komimoe/Arkari](https://github.com/komimoe/Arkari)
+  > Yet another llvm based obfuscator based on goron.
+
+### [Seyud](https://github.com/Seyud)
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [YuKongA/scripta](https://github.com/YuKongA/scripta)
+
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [vehoelite/tcl-fota-tool](https://github.com/vehoelite/tcl-fota-tool)
   > TCL Firmware Tool - Firmware checker & downloader for TCL/REVVL
@@ -37,6 +70,10 @@
 ### [SummerSec](https://github.com/SummerSec)
 - 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+
+### [TheWildJames](https://github.com/TheWildJames)
+- 🍴 👤 [TheWildJames](https://github.com/TheWildJames) Forked [kerneltoast/android_kernel_google_tensynos](https://github.com/kerneltoast/android_kernel_google_tensynos) to [TheWildJames/android_kernel_google_tensynos](https://github.com/TheWildJames/android_kernel_google_tensynos)
+  > Pixel 7, 8, and 9 series kernel.
 
 ### [TonyChen56](https://github.com/TonyChen56)
 - 🌟 👤 [TonyChen56](https://github.com/TonyChen56) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
@@ -59,6 +96,10 @@
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [zongyin8/pay153-checkout-link](https://github.com/zongyin8/pay153-checkout-link)
 
+### [byt3n33dl3](https://github.com/byt3n33dl3)
+- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [dollarboysushil/oscp-cpts-notes](https://github.com/dollarboysushil/oscp-cpts-notes)
+  > Notes for OSCP & CPTS.
+
 ### [chsbuffer](https://github.com/chsbuffer)
 - 🍴 👤 [chsbuffer](https://github.com/chsbuffer) Forked [nasaarmas/pmaports-alioth](https://github.com/nasaarmas/pmaports-alioth) to [chsbuffer/pmaports-alioth](https://github.com/chsbuffer/pmaports-alioth)
   > Documenting work and progress towards making postmarketOS work on xiaomi POCO F3
@@ -69,6 +110,11 @@
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer)
+
+### [fynch3r](https://github.com/fynch3r)
+- 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [andrewyng/openworker](https://github.com/andrewyng/openworker)
+- 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+  > Build AI Agents, Visually
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Alex-LeTux/perfect_dark_VR](https://github.com/Alex-LeTux/perfect_dark_VR) to [gmh5225/perfect_dark_VR](https://github.com/gmh5225/perfect_dark_VR)
@@ -84,6 +130,18 @@
   > Detect and redact PII locally with SOTA performance
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) to [gmh5225/qwen-audio-agent](https://github.com/gmh5225/qwen-audio-agent)
   > A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime f...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [daringanitch/claude-memory](https://github.com/daringanitch/claude-memory) to [gmh5225/claude-memory](https://github.com/gmh5225/claude-memory)
+  > Persistent vector memory MCP server for Claude Code — PostgreSQL + pgvector + FastMCP with semantic ...
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [h5i-dev/h5i](https://github.com/h5i-dev/h5i)
+  > Auditable workspaces for AI coding agents: sandboxed worktrees, programmable multi-agent orchestrati...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [h5i-dev/h5i](https://github.com/h5i-dev/h5i) to [gmh5225/h5i](https://github.com/gmh5225/h5i)
+  > Auditable workspaces for AI coding agents: sandboxed worktrees, programmable multi-agent orchestrati...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [openai/ten-proofs](https://github.com/openai/ten-proofs) to [gmh5225/ten-proofs](https://github.com/gmh5225/ten-proofs)
+  > Lean certificates accompanying proofs in mathematics and theoretical computer science
+
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) to [HLND2T/systeminformer](https://github.com/HLND2T/systeminformer)
+  > A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and det...
 
 ### [iraizo](https://github.com/iraizo)
 - 🌟 👤 [iraizo](https://github.com/iraizo) Starred [tursodatabase/turso](https://github.com/tursodatabase/turso)
@@ -98,6 +156,14 @@
 ### [jiqiu2022](https://github.com/jiqiu2022)
 - 🌟 👤 [jiqiu2022](https://github.com/jiqiu2022) Starred [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack)
   > Deobfuscate obfuscator.io, unminify and unpack bundled javascript
+
+### [jpillora](https://github.com/jpillora)
+- 🌟 👤 [jpillora](https://github.com/jpillora) Starred [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks)
+  > System font stack CSS organized by typeface classification for every modern operating system
+
+### [kenvix](https://github.com/kenvix)
+- 🌟 👤 [kenvix](https://github.com/kenvix) Starred [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
+  > Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 
 ### [le31ei](https://github.com/le31ei)
 - 🌟 👤 [le31ei](https://github.com/le31ei) Starred [tiantianGPU/reg-factory](https://github.com/tiantianGPU/reg-factory)
@@ -119,9 +185,25 @@
 - 🌟 👤 [llsc12](https://github.com/llsc12) Starred [Nightdavisao/osake](https://github.com/Nightdavisao/osake)
   > An Electron wrapper for Apple Music's web version
 
+### [mainfunx](https://github.com/mainfunx)
+- 🌟 👤 [mainfunx](https://github.com/mainfunx) Starred [stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero)
+  > STEP-GUI: The top GUI agent solution in the galaxy.  Developed by the StepFun-GELab team and powered...
+
+### [mrT4ntr4](https://github.com/mrT4ntr4)
+- 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+
 ### [nico](https://github.com/nico)
 - 🌟 👤 [nico](https://github.com/nico) Starred [abokhalill/lshaz](https://github.com/abokhalill/lshaz)
   > Find the microarchitectural performance bugs hiding in your C++ code
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [jimrandomh/g2flash](https://github.com/jimrandomh/g2flash)
+  > Script for applying custom firmware to Even Realities G2 smart glasses
+
+### [ret2ldz](https://github.com/ret2ldz)
+- 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [strongcourage/fuzzing-corpus](https://github.com/strongcourage/fuzzing-corpus)
+  > My fuzzing corpus
 
 ### [ssfdust](https://github.com/ssfdust)
 - 🌟 👤 [ssfdust](https://github.com/ssfdust) Starred [giannisanni/pulsar](https://github.com/giannisanni/pulsar)
@@ -131,7 +213,11 @@
 - 🌟 👤 [yifengyou](https://github.com/yifengyou) Starred [u-boot/u-boot](https://github.com/u-boot/u-boot)
   > "Das U-Boot" Source Tree
 
+### [ymdzq](https://github.com/ymdzq)
+- 🌟 👤 [ymdzq](https://github.com/ymdzq) Starred [GrahamZen/animeko-tv-releases](https://github.com/GrahamZen/animeko-tv-releases)
+  > Animeko 第三方 Android TV（安卓电视） 适配分发仓库
+
 
 ---
-*最后更新于 2026-08-02 03:38:14 UTC*
+*最后更新于 2026-08-02 06:32:14 UTC*
 *历史记录保存在 `archive` 目录中。*
