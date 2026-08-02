@@ -4,6 +4,14 @@
 
 ## 今日动态
 
+### [0x1306a94](https://github.com/0x1306a94)
+- 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [t8y2/dbx](https://github.com/t8y2/dbx)
+  > 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQL...
+
+### [0xdad0](https://github.com/0xdad0)
+- 🌟 👤 [0xdad0](https://github.com/0xdad0) Starred [f3rb123/beetle](https://github.com/f3rb123/beetle)
+  > Modern offline-first Application Security Intelligence Platform for Android, iOS, Flutter and React ...
+
 ### [0xdea](https://github.com/0xdea)
 - 🌟 👤 [0xdea](https://github.com/0xdea) Starred [enisaeu/enisa-sbd-playbook](https://github.com/enisaeu/enisa-sbd-playbook)
   > A practical collection of Secure by Design and Secure by Default playbooks for SMEs, based on the EN...
@@ -28,6 +36,10 @@
 - 🌟 👤 [BryanGIG](https://github.com/BryanGIG) Starred [reveny/Android-Ptrace-Injector](https://github.com/reveny/Android-Ptrace-Injector)
   > Android Ptrace Injector
 
+### [Col-E](https://github.com/Col-E)
+- 🌟 👤 [Col-E](https://github.com/Col-E) Starred [kusoroadeolu/Clique](https://github.com/kusoroadeolu/Clique)
+  > A dependency free and extensible Java library for styling and beautifying terminal output
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [oxidecomputer/helios](https://github.com/oxidecomputer/helios)
   > Helios: Or, a Vision in a Dream. A Fragment.
@@ -40,9 +52,15 @@
 - 🌟 👤 [DeHby](https://github.com/DeHby) Starred [sqdshguy/wreq-js](https://github.com/sqdshguy/wreq-js)
   > HTTP client for Node.js with browser TLS fingerprint impersonation
 
+### [Dere3046](https://github.com/Dere3046)
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [Dere3046/Safemod](https://github.com/Dere3046/Safemod)
+  > sukisu presence detector.
+
 ### [Dispa1r](https://github.com/Dispa1r)
 - 🌟 👤 [Dispa1r](https://github.com/Dispa1r) Starred [harmony-on-android/HOA](https://github.com/harmony-on-android/HOA)
   > Run OpenHarmony hap on Android
+- 🌟 👤 [Dispa1r](https://github.com/Dispa1r) Starred [Zitann/HarmonyOS-Haps](https://github.com/Zitann/HarmonyOS-Haps)
+  > ⚡️鸿蒙Next Hap安装包合集，如果您觉得有帮助，还请点亮一下 Star 🌟 哦~ 万分感谢！
 
 ### [Dump-GUY](https://github.com/Dump-GUY)
 - 🌟 👤 [Dump-GUY](https://github.com/Dump-GUY) Starred [0xDbgMan/0xDbgMan.github.io](https://github.com/0xDbgMan/0xDbgMan.github.io)
@@ -76,6 +94,12 @@
 - 🍴 👤 [Keno](https://github.com/Keno) Forked [MicrosoftDocs/win32](https://github.com/MicrosoftDocs/win32) to [KenoAIStaging/win32-docs](https://github.com/KenoAIStaging/win32-docs)
   > Public mirror for win32-pr
 
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+  > Easily train a good VC model with voice data <= 10 mins!
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [daemonphantom/Awayke](https://github.com/daemonphantom/Awayke)
+  > Keep Your Mac Awayke With the Lid Closed
+
 ### [LanBaiCode](https://github.com/LanBaiCode)
 - 🌟 👤 [LanBaiCode](https://github.com/LanBaiCode) Starred [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)
   > OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。
@@ -92,6 +116,7 @@
   > KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
 - 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [aidenybai/pattycake](https://github.com/aidenybai/pattycake)
   > Zero-runtime pattern matching
+- 🚀 👤 [PalmDevs](https://github.com/PalmDevs) Made [revenge-mod/revenge-plugin-cli](https://github.com/revenge-mod/revenge-plugin-cli) public
 - 🚀 👤 [PalmDevs](https://github.com/PalmDevs) Made [revenge-mod/revenge-types](https://github.com/revenge-mod/revenge-types) public
 
 ### [Pengrey](https://github.com/Pengrey)
@@ -160,9 +185,19 @@
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [zongyin8/pay153-checkout-link](https://github.com/zongyin8/pay153-checkout-link)
 
+### [badboycxcc](https://github.com/badboycxcc)
+- 🌟 👤 [badboycxcc](https://github.com/badboycxcc) Starred [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike)
+  > Open-source AI-augmented offensive security harness. 13+ autonomous agents, 150+ LLM providers, 5,30...
+
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [dollarboysushil/oscp-cpts-notes](https://github.com/dollarboysushil/oscp-cpts-notes)
   > Notes for OSCP & CPTS.
+
+### [cctv18](https://github.com/cctv18)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [congwa/codex-autoresearch](https://github.com/congwa/codex-autoresearch)
+  > codex 永动机，避免codex执行一个长任务总是自动停止的问题
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [novcky/codex-goal-mode-skill](https://github.com/novcky/codex-goal-mode-skill)
+  > Codex Goal Mode：用于无人值守目标工作流的可分发 Skill | Distributable Codex skill for unattended goal workflows
 
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
@@ -171,6 +206,8 @@
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [XiaoMi/xiaomi-miloco](https://github.com/XiaoMi/xiaomi-miloco)
   > Xiaomi Miloco
+- 🌟 👤 [codingsf](https://github.com/codingsf) Starred [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy)
+  > 📱 Display and control your Android device graphically with scrcpy.
 
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
@@ -183,6 +220,9 @@
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
   > Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects sca...
 
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)
+
 ### [fynch3r](https://github.com/fynch3r)
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [andrewyng/openworker](https://github.com/andrewyng/openworker)
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
@@ -191,6 +231,10 @@
 ### [gal2xy](https://github.com/gal2xy)
 - 🌟 👤 [gal2xy](https://github.com/gal2xy) Starred [dreamcolor123/skp-drmid-kernel-virtualizer](https://github.com/dreamcolor123/skp-drmid-kernel-virtualizer)
   > Android 14+ ARM64 DRM ID kernel virtualizer for SKRoot Pro (Linux 6.6 / 6.12)
+
+### [genius158](https://github.com/genius158)
+- 🌟 👤 [genius158](https://github.com/genius158) Starred [joyfoxai/LTX2-ICEdit-Insight](https://github.com/joyfoxai/LTX2-ICEdit-Insight)
+  > 基于LTX2.3的向高清修复、视频去水印等编辑任务，提出统一的时空扩散技术路线：在 LTX-2.3 框架下以任务感知型适配器（Task-Aware Adapters）替代单一 LoRA 增量，通过轻量...
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [Alex-LeTux/perfect_dark_VR](https://github.com/Alex-LeTux/perfect_dark_VR) to [gmh5225/perfect_dark_VR](https://github.com/gmh5225/perfect_dark_VR)
@@ -246,6 +290,8 @@
 ### [iyxan23](https://github.com/iyxan23)
 - 🌟 👤 [iyxan23](https://github.com/iyxan23) Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
   > Virtual whiteboard for sketching hand-drawn like diagrams
+- 🌟 👤 [iyxan23](https://github.com/iyxan23) Starred [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+  > The beautiful & flexible React.js docs framework.
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)
@@ -260,6 +306,10 @@
 ### [jpillora](https://github.com/jpillora)
 - 🌟 👤 [jpillora](https://github.com/jpillora) Starred [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks)
   > System font stack CSS organized by typeface classification for every modern operating system
+
+### [keleus](https://github.com/keleus)
+- 🌟 👤 [keleus](https://github.com/keleus) Starred [binaricat/Netcatty](https://github.com/binaricat/Netcatty)
+  > SSH workspace, SFTP, and terminals in one
 
 ### [kenvix](https://github.com/kenvix)
 - 🌟 👤 [kenvix](https://github.com/kenvix) Starred [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
@@ -329,6 +379,10 @@
 - 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
   > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dodo-reach/pi-clarify](https://github.com/dodo-reach/pi-clarify)
+  > Pi extension: rewrite rough prompts into precise technical prompts before send
+
 ### [nblog](https://github.com/nblog)
 - 🌟 👤 [nblog](https://github.com/nblog) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
   > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
@@ -382,6 +436,20 @@
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [TakahikoKawasaki/nv-bluetooth](https://github.com/TakahikoKawasaki/nv-bluetooth)
   > Bluetooth utility library, mainly for Android.
 
+### [sidex15](https://github.com/sidex15)
+- 🍴 👤 [sidex15](https://github.com/sidex15) Forked [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) to [sidex15/PlayIntegrityFork](https://github.com/sidex15/PlayIntegrityFork)
+  > Fix Play Integrity <A13 verdicts, allowing custom fields and props
+
+### [sin5678](https://github.com/sin5678)
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide)
+  > Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
+- 🌟 👤 [sin5678](https://github.com/sin5678) Starred [mrexodia/TitanHide](https://github.com/mrexodia/TitanHide)
+  > Hiding kernel-driver for x86/x64.
+
+### [skywind3000](https://github.com/skywind3000)
+- 🌟 👤 [skywind3000](https://github.com/skywind3000) Starred [Qihoo360/evpp](https://github.com/Qihoo360/evpp)
+  > A modern C++ network library for developing high performance network services in TCP/UDP/HTTP protoc...
+
 ### [ssfdust](https://github.com/ssfdust)
 - 🌟 👤 [ssfdust](https://github.com/ssfdust) Starred [giannisanni/pulsar](https://github.com/giannisanni/pulsar)
   > SSD-streaming inference engine for giant MoE models (Rust + CUDA). GLM 5.2 743B at 2 tok/s and Hy3 2...
@@ -398,6 +466,10 @@
   > Multiplayer agent harness for work
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt)
   > Orchestrate AI agents to find real vulnerabilities in code.
+
+### [vilebbit](https://github.com/vilebbit)
+- 🌟 👤 [vilebbit](https://github.com/vilebbit) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
 
 ### [wargio](https://github.com/wargio)
 - 🌟 👤 [wargio](https://github.com/wargio) Starred [degoog-org/degoog](https://github.com/degoog-org/degoog)
@@ -427,5 +499,5 @@
 
 
 ---
-*最后更新于 2026-08-02 11:16:03 UTC*
+*最后更新于 2026-08-02 13:20:13 UTC*
 *历史记录保存在 `archive` 目录中。*
