@@ -25,6 +25,8 @@
   > Keep Codex threads visible by syncing session metadata, SQLite state, and managed backups.
 - 🌟 👤 [Andrea-lyz](https://github.com/Andrea-lyz) Starred [Quorinex/Freebuff2API](https://github.com/Quorinex/Freebuff2API)
   > 🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-us...
+- 🌟 👤 [Andrea-lyz](https://github.com/Andrea-lyz) Starred [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router)
+  > External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
 
 ### [AndroidReverser-Test](https://github.com/AndroidReverser-Test)
 - 🌟 👤 [AndroidReverser-Test](https://github.com/AndroidReverser-Test) Starred [YinMo19/fanqie-rs](https://github.com/YinMo19/fanqie-rs)
@@ -47,6 +49,8 @@
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
   > Private, searchable screen history for macOS.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [alshedivat/al-folio](https://github.com/alshedivat/al-folio)
+  > A beautiful, simple, clean, and responsive Jekyll theme for academics
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Esadecimale/chip-8](https://github.com/Esadecimale/chip-8)
@@ -89,6 +93,10 @@
 - 🌟 👤 [Just-Hack-For-Fun](https://github.com/Just-Hack-For-Fun) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build...
 
+### [KHwang9883](https://github.com/KHwang9883)
+- 🌟 👤 [KHwang9883](https://github.com/KHwang9883) Starred [rclone/rclone](https://github.com/rclone/rclone)
+  > "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi...
+
 ### [Keyird](https://github.com/Keyird)
 - 🌟 👤 [Keyird](https://github.com/Keyird) Starred [Bria-AI/RMBG-2.0](https://github.com/Bria-AI/RMBG-2.0)
   > Bria RMBG 2.0 - image background removee
@@ -120,6 +128,8 @@
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [krallin/tini](https://github.com/krallin/tini)
   > A tiny but valid `init` for containers
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [Shrey113/Android-Dex](https://github.com/Shrey113/Android-Dex)
+  > Enable a full desktop experience from any Android device over Wi‑Fi. No root, scrcpy-powered, Flutte...
 
 ### [MolotovCherry](https://github.com/MolotovCherry)
 - 🌟 👤 [MolotovCherry](https://github.com/MolotovCherry) Starred [MolotovCherry/dms-dnd](https://github.com/MolotovCherry/dms-dnd)
@@ -142,6 +152,10 @@
 ### [PalmDevs](https://github.com/PalmDevs)
 - 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [dennisss/dacha](https://github.com/dennisss/dacha)
   > Monorepo for awesome tools/projects/libraries
+
+### [ParkHanbum](https://github.com/ParkHanbum)
+- 🌟 👤 [ParkHanbum](https://github.com/ParkHanbum) Starred [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
+  > Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
 
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
@@ -243,6 +257,10 @@
 - 🌟 👤 [andy0andy](https://github.com/andy0andy) Starred [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp)
   > Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulator...
 
+### [ashvardanian](https://github.com/ashvardanian)
+- 🌟 👤 [ashvardanian](https://github.com/ashvardanian) Starred [ashvardanian/StringZilla-CLI](https://github.com/ashvardanian/StringZilla-CLI)
+  > Collection of SIMD-accelerated CLI tools for binary & UTF-8-aware text processing with StringZilla c...
+
 ### [astrelsky](https://github.com/astrelsky)
 - 🍴 👤 [astrelsky](https://github.com/astrelsky) Forked [Xilinx/mlir-aie](https://github.com/Xilinx/mlir-aie) to [astrelsky/mlir-aie](https://github.com/astrelsky/mlir-aie)
   > A close-to-metal Python API for programming AMD Ryzen™ AI NPUs (AI Engines), built on an open-source...
@@ -336,6 +354,7 @@
   > The open-source alternative to Capcut、ChatCut. Drivable by any AI agent over MCP.
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [qqqqqf-q/OpenAnytime](https://github.com/qqqqqf-q/OpenAnytime) to [gmh5225/OpenAnytime](https://github.com/gmh5225/OpenAnytime)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [JoasASantos/NeuroPurple](https://github.com/JoasASantos/NeuroPurple) to [gmh5225/NeuroPurple](https://github.com/gmh5225/NeuroPurple)
+  > The AI Autonomous SOC & Purple-Team Engine
 
 ### [greg7mdp](https://github.com/greg7mdp)
 - 🌟 👤 [greg7mdp](https://github.com/greg7mdp) Starred [sqliteai/waste](https://github.com/sqliteai/waste)
@@ -366,6 +385,10 @@
   > Electron GUI app for the pi coding agent runtime
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [vercel-labs/native](https://github.com/vercel-labs/native)
   > Toolkit for building native desktop apps
+
+### [iraizo](https://github.com/iraizo)
+- 🌟 👤 [iraizo](https://github.com/iraizo) Starred [kaleidawave/ezno](https://github.com/kaleidawave/ezno)
+  > A correct and efficient TypeScript type checker and compiler with additional experiments
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
@@ -427,6 +450,10 @@
 ### [killeven](https://github.com/killeven)
 - 🌟 👤 [killeven](https://github.com/killeven) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Ephemeral-AI-Lab/ephemeral-sandbox](https://github.com/Ephemeral-AI-Lab/ephemeral-sandbox)
+  > Open-source agent sandbox infrastructure for parallel coding agents: isolated workspaces, MCP/CLI co...
 
 ### [kingking888](https://github.com/kingking888)
 - 🌟 👤 [kingking888](https://github.com/kingking888) Starred [YinMo19/fanqie-rs](https://github.com/YinMo19/fanqie-rs)
@@ -506,6 +533,8 @@
   > Personal website.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drowzeys/DeepSeek-V4-Flash-DSpark-Abliterated-Uncensored-1M-57toks](https://github.com/drowzeys/DeepSeek-V4-Flash-DSpark-Abliterated-Uncensored-1M-57toks)
   > DeepSeek-V4-Flash-DSpark abliterated (uncensored) · ~100% refusal bypass · C1 ~57 tok/s · 1M ctx · 2...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [linsmod/-vc-dev-debuging-tool-for-ai-agent](https://github.com/linsmod/-vc-dev-debuging-tool-for-ai-agent) to [mrexodia/-vc-dev-debuging-tool-for-ai-agent](https://github.com/mrexodia/-vc-dev-debuging-tool-for-ai-agent)
+  > aidbg: bringing an "AI-friendly gdb" back to Windows
 
 ### [mrphrazer](https://github.com/mrphrazer)
 - 🌟 👤 [mrphrazer](https://github.com/mrphrazer) Starred [can1357/vibemon](https://github.com/can1357/vibemon)
@@ -628,9 +657,25 @@
 - 🌟 👤 [vitaviva](https://github.com/vitaviva) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
   > 🎥      Make videos programmatically with React
 
+### [w00tzenheimer](https://github.com/w00tzenheimer)
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [Raykosan/ComfyUI_RaykoStudio](https://github.com/Raykosan/ComfyUI_RaykoStudio)
+  > Set of custom nodes for ComfyUI providing additional image processing capabilities
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [lbouaraba/krea2edit-trainer](https://github.com/lbouaraba/krea2edit-trainer)
+  > Community ai-toolkit extension for training Krea 2 identity-edit LoRAs — the training code behind kr...
+
+### [winezer0](https://github.com/winezer0)
+- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [itmisx/deepx-code](https://github.com/itmisx/deepx-code)
+  > deepseek标配coding agent、原生支持模型路由、CodeGraph代码图谱、OCR截图识别、自动上下文压缩、最佳工作模式选择，workflow等功能，从根本上节省Token
+- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [techsavvyash/codegraph](https://github.com/techsavvyash/codegraph)
+  > LLM-powered code intelligence platform with SCIP indexing, Neo4j graph database, and MCP server inte...
+
 ### [wizardforcel](https://github.com/wizardforcel)
 - 🌟 👤 [wizardforcel](https://github.com/wizardforcel) Starred [zhaoyang97/Paper-Notes-en](https://github.com/zhaoyang97/Paper-Notes-en)
   > 📚 Read a top-tier AI paper in 5 minutes. 23,000+ structured notes across ACL, CVPR, ICLR, NeurIPS, A...
+
+### [wjcsharp](https://github.com/wjcsharp)
+- 🌟 👤 [wjcsharp](https://github.com/wjcsharp) Starred [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag)
+  > 🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/
 
 ### [wxxsfxyzm](https://github.com/wxxsfxyzm)
 - 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [TakeKazeX/HyperTweak](https://github.com/TakeKazeX/HyperTweak)
@@ -683,6 +728,10 @@
 - 🌟 👤 [zer0def](https://github.com/zer0def) Starred [pavelsof/mobile-wormhole](https://github.com/pavelsof/mobile-wormhole)
   > mobile client for the magic wormhole protocol
 
+### [zetaloop](https://github.com/zetaloop)
+- 🍴 👤 [zetaloop](https://github.com/zetaloop) Forked [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) to [zetaloop/v2ray-agent](https://github.com/zetaloop/v2ray-agent)
+  > Xray、Tuic、hysteria2、sing-box 八合一一键脚本
+
 ### [zhangyoufu](https://github.com/zhangyoufu)
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [flatcar/Flatcar](https://github.com/flatcar/Flatcar)
   > Flatcar project repository for issue tracking, project documentation, etc.
@@ -693,5 +742,5 @@
 
 
 ---
-*最后更新于 2026-08-01 17:59:41 UTC*
+*最后更新于 2026-08-01 20:52:23 UTC*
 *历史记录保存在 `archive` 目录中。*
