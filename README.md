@@ -159,6 +159,8 @@
 ### [Monoceros406](https://github.com/Monoceros406)
 - 🌟 👤 [Monoceros406](https://github.com/Monoceros406) Starred [FeeiCN/security-engineering](https://github.com/FeeiCN/security-engineering)
   > 网络安全空间安全
+- 🌟 👤 [Monoceros406](https://github.com/Monoceros406) Starred [guaidao2/intelpwn](https://github.com/guaidao2/intelpwn)
+  > 玄幕安全团队创始人自设计架构，兼vibecoding的CTF pwn解题辅助框架。
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli)
@@ -281,6 +283,8 @@
 ### [ant4g0nist](https://github.com/ant4g0nist)
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
   > SGLang is a high-performance serving framework for large language models and multimodal models.
+- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [isaqueseneda/shieldfont](https://github.com/isaqueseneda/shieldfont)
+  > A typeface that protects written content by poisoning unauthorized AI training datasets.
 
 ### [aquynh](https://github.com/aquynh)
 - 🌟 👤 [aquynh](https://github.com/aquynh) Starred [vinsoc-cyber/peryton](https://github.com/vinsoc-cyber/peryton)
@@ -318,6 +322,10 @@
   > 基于Memprocfs和Volatility的可视化内存取证工具
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS)
   > MemProcFS
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
+  > Typed interactions with the GitHub API v3
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit)
+  > The modern, all-batteries-included GitHub SDK for Python, including rest api, graphql, webhooks, lik...
 
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
@@ -361,9 +369,14 @@
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer)
 
+### [ejpir](https://github.com/ejpir)
+- 🌟 👤 [ejpir](https://github.com/ejpir) Starred [dynaum/kubeside](https://github.com/dynaum/kubeside)
+  > A Kubernetes client scoped to the developer, not the cluster operator. Your app, not your cluster.
+
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [alibaba/atrex-kernel-agent](https://github.com/alibaba/atrex-kernel-agent)
   > An end-to-end agent project for GPU kernel implementation, analysis, profiling, and iterative optimi...
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [andrewyng/openworker](https://github.com/andrewyng/openworker)
 
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
@@ -371,6 +384,8 @@
 
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [pasquini-dario/LLMmap](https://github.com/pasquini-dario/LLMmap)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+  > The agent engineering platform.
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [antirez/ds4](https://github.com/antirez/ds4)
@@ -619,6 +634,8 @@
   > An agentic operating system where the kernel is controlled directly by Claude
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [dodo-reach/pi-clarify](https://github.com/dodo-reach/pi-clarify)
   > Pi extension: rewrite rough prompts into precise technical prompts before send
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
 ### [mrT4ntr4](https://github.com/mrT4ntr4)
 - 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
@@ -641,6 +658,10 @@
 ### [nologic](https://github.com/nologic)
 - 🍴 👤 [nologic](https://github.com/nologic) Forked [AI-Security-Bootcamp/aisb](https://github.com/AI-Security-Bootcamp/aisb) to [nologic/aisb](https://github.com/nologic/aisb)
 
+### [not1cyyy](https://github.com/not1cyyy)
+- 🌟 👤 [not1cyyy](https://github.com/not1cyyy) Starred [tr4m0ryp/tr4mpass](https://github.com/tr4m0ryp/tr4mpass)
+  > Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPho...
+
 ### [noxke](https://github.com/noxke)
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [mkckr0/audio-share](https://github.com/mkckr0/audio-share)
   > Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone be...
@@ -648,6 +669,8 @@
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [jakeajames/dylibify](https://github.com/jakeajames/dylibify)
   > Transform any ARM macho executable to a dynamic library
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Kareadita/Kavita](https://github.com/Kareadita/Kavita)
+  > Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full s...
 
 ### [progman](https://github.com/progman)
 - 🌟 👤 [progman](https://github.com/progman) Starred [lxc/incus](https://github.com/lxc/incus)
@@ -742,9 +765,17 @@
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt)
   > Orchestrate AI agents to find real vulnerabilities in code.
 
+### [teble](https://github.com/teble)
+- 🌟 👤 [teble](https://github.com/teble) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+
 ### [vilebbit](https://github.com/vilebbit)
 - 🌟 👤 [vilebbit](https://github.com/vilebbit) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
+
+### [vm32](https://github.com/vm32)
+- 🌟 👤 [vm32](https://github.com/vm32) Starred [iss4cf0ng/Alien](https://github.com/iss4cf0ng/Alien)
+  > Alien is a modular webshell client developed for cybersecurity research and education.  It provides ...
 
 ### [wargio](https://github.com/wargio)
 - 🌟 👤 [wargio](https://github.com/wargio) Starred [degoog-org/degoog](https://github.com/degoog-org/degoog)
@@ -812,5 +843,5 @@
 
 
 ---
-*最后更新于 2026-08-02 20:09:33 UTC*
+*最后更新于 2026-08-02 21:56:06 UTC*
 *历史记录保存在 `archive` 目录中。*
