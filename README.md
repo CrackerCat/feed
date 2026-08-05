@@ -16,6 +16,10 @@
 - 🌟 👤 [0xdad0](https://github.com/0xdad0) Starred [simonw/llm](https://github.com/simonw/llm)
   > Access large language models from the command-line
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [kweatherman/IDA_ClassInformer_PlugIn](https://github.com/kweatherman/IDA_ClassInformer_PlugIn) to [lallouslab/IDA_ClassInformer_PlugIn](https://github.com/lallouslab/IDA_ClassInformer_PlugIn)
+  > IDA ClassInformer PlugIn
+
 ### [0xjiayu](https://github.com/0xjiayu)
 - 🌟 👤 [0xjiayu](https://github.com/0xjiayu) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
@@ -98,10 +102,14 @@
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [NotRequiem/antidbg](https://github.com/NotRequiem/antidbg)
   > A stealthy, fully syscalled C/C++ userland anti-debugging library for Windows, designed to protect s...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [SpecterOps/pass-the-passkey](https://github.com/SpecterOps/pass-the-passkey)
+  > Pass-the-Passkey Family of Attacks
 
 ### [Dere3046](https://github.com/Dere3046)
 - 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [LyraVoid/FolkPatch](https://github.com/LyraVoid/FolkPatch)
   > 基于 APatch 开发的内核级别ROOT方案!
+- 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [Dere3046/BatMon](https://github.com/Dere3046/BatMon)
+  > Battery drain telemetry
 
 ### [Dispa1r](https://github.com/Dispa1r)
 - 🌟 👤 [Dispa1r](https://github.com/Dispa1r) Starred [ryanzhou/deepseek-v4-flash-mi300x](https://github.com/ryanzhou/deepseek-v4-flash-mi300x)
@@ -123,6 +131,10 @@
 ### [FaceAISDK](https://github.com/FaceAISDK)
 - 🌟 👤 [FaceAISDK](https://github.com/FaceAISDK) Starred [shiyinghan/UVCAndroid](https://github.com/shiyinghan/UVCAndroid)
 - 🍴 👤 [FaceAISDK](https://github.com/FaceAISDK) Forked [shiyinghan/UVCAndroid](https://github.com/shiyinghan/UVCAndroid) to [FaceAIPro/UVCAndroid](https://github.com/FaceAIPro/UVCAndroid)
+
+### [FldBudin](https://github.com/FldBudin)
+- 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)
+  > Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery...
 
 ### [HdShare](https://github.com/HdShare)
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
@@ -312,6 +324,8 @@
 ### [ant4g0nist](https://github.com/ant4g0nist)
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
   > Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic acros...
+- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws)
+  > A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a s...
 
 ### [antiwar3](https://github.com/antiwar3)
 - 🌟 👤 [antiwar3](https://github.com/antiwar3) Starred [gmh5225/blacksea](https://github.com/gmh5225/blacksea)
@@ -369,6 +383,8 @@
 ### [darkskygit](https://github.com/darkskygit)
 - 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [denoland/celld](https://github.com/denoland/celld)
   > self-hosted, distributed Durable Objects
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
+  > Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agent...
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
@@ -383,6 +399,14 @@
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [denoland/celld](https://github.com/denoland/celld)
+  > self-hosted, distributed Durable Objects
+
+### [dzxpert](https://github.com/dzxpert)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [RemakeCode/hv-launcher](https://github.com/RemakeCode/hv-launcher)
+  > A quick readiness check and launch manager for hypervisor games
+
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [Blizaine/Maestro](https://github.com/Blizaine/Maestro)
   > An all-in-one, 100% local AI video, image, and music studio. Director mode plans full music videos a...
@@ -394,6 +418,9 @@
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [joelbqz/writer-computer](https://github.com/joelbqz/writer-computer)
   > Local-first desktop markdown editor
+
+### [elllusion](https://github.com/elllusion)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [ByteDance-Seed/In-Place-TTT](https://github.com/ByteDance-Seed/In-Place-TTT)
 
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [giljihun/ClockHandKit](https://github.com/giljihun/ClockHandKit)
@@ -537,6 +564,9 @@
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [NVIDIA/dgx-spark-playbooks](https://github.com/NVIDIA/dgx-spark-playbooks)
   > Collection of step-by-step playbooks for setting up AI/ML workloads on NVIDIA DGX Spark devices with...
 
+### [jmpews](https://github.com/jmpews)
+- 🌟 👤 [jmpews](https://github.com/jmpews) Starred [your-quantguy/gate-crossex](https://github.com/your-quantguy/gate-crossex)
+
 ### [kaganisildak](https://github.com/kaganisildak)
 - 🌟 👤 [kaganisildak](https://github.com/kaganisildak) Starred [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws)
   > A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a s...
@@ -644,6 +674,30 @@
   > 微信小程序,pdf的操作一些工具
 - 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [Alexei-xie/home-recipe-miniapp](https://github.com/Alexei-xie/home-recipe-miniapp) to [liuzjvip/home-recipe-miniapp](https://github.com/liuzjvip/home-recipe-miniapp)
   > 今日食签：家常菜谱、BMI健康记录、特殊人群筛查与随机抽菜微信小程序
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [LiMaoRizhi/limaorizhidingpiao](https://github.com/LiMaoRizhi/limaorizhidingpiao) to [liuzjMr/limaorizhidingpiao](https://github.com/liuzjMr/limaorizhidingpiao)
+  > 客运订票系统基于Vue3 + Go全栈解决方案，微信小程序购票 + 管理后台 + 实时车辆追踪，用户/司机/管理员三端分离。
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [zyzxkb2019/word-hero-miniapp](https://github.com/zyzxkb2019/word-hero-miniapp) to [liuzjMr/word-hero-miniapp](https://github.com/liuzjMr/word-hero-miniapp)
+  > 微信小程序：单词英雄 V17
+- 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [2002yy/smart-elderly-care](https://github.com/2002yy/smart-elderly-care)
+  > 智慧养老微信小程序 - Spring Boot + 微信小程序 养老服务平台
+- 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [Alexei-xie/home-recipe-miniapp](https://github.com/Alexei-xie/home-recipe-miniapp)
+  > 今日食签：家常菜谱、BMI健康记录、特殊人群筛查与随机抽菜微信小程序
+- 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [Protect-world/BarHop](https://github.com/Protect-world/BarHop)
+  > 微信小程序-BarHop(酒鬼地图)  专为酒蒙子打造~
+- 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [a2666012-netizen/Food_Dice](https://github.com/a2666012-netizen/Food_Dice)
+  > 一个用于解决“是啊，吃什么”而诞生的微信小程序
+- 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [gsPeng-168/jiazhuangben](https://github.com/gsPeng-168/jiazhuangben)
+  > 家帐本：面向上班族家庭的微信记账小程序开源版，支持多账本、家庭共享、周期记账、订阅提醒、语音/拍照记账
+- 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [Boen36/threejs-miniprogram-adapter](https://github.com/Boen36/threejs-miniprogram-adapter)
+  > 微信小程序 three.js 模块化适配器，支持 three.js 0.183.1+
+- 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [cscsxx606/zhongyi-clinic-mall](https://github.com/cscsxx606/zhongyi-clinic-mall)
+  > 中医诊所微信公众号挂号 + 小程序商城 + 管理后台
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [cscsxx606/zhongyi-clinic-mall](https://github.com/cscsxx606/zhongyi-clinic-mall) to [liuzjMr/zhongyi-clinic-mall](https://github.com/liuzjMr/zhongyi-clinic-mall)
+  > 中医诊所微信公众号挂号 + 小程序商城 + 管理后台
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [etocs/fund-miniapp](https://github.com/etocs/fund-miniapp) to [liuzjvip/etocs-fund-miniapp](https://github.com/liuzjvip/etocs-fund-miniapp)
+  > 一个基金估值程序
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [kezhenxu94/mini-github](https://github.com/kezhenxu94/mini-github) to [liuzjMr/mini-github](https://github.com/liuzjMr/mini-github)
+  > GitHub WeChat Mini Program
 
 ### [lynnux](https://github.com/lynnux)
 - 🌟 👤 [lynnux](https://github.com/lynnux) Starred [LegadoTeam/legado](https://github.com/LegadoTeam/legado)
@@ -660,6 +714,10 @@
 ### [mcxiaoke](https://github.com/mcxiaoke)
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [intel/ARM_NEON_2_x86_SSE](https://github.com/intel/ARM_NEON_2_x86_SSE)
   > The platform independent header allowing to compile any C/C++ code containing ARM NEON intrinsic fun...
+
+### [merces](https://github.com/merces)
+- 🌟 👤 [merces](https://github.com/merces) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
 
 ### [merlinxcy](https://github.com/merlinxcy)
 - 🌟 👤 [merlinxcy](https://github.com/merlinxcy) Starred [AmesianX/CVE-2026-53435](https://github.com/AmesianX/CVE-2026-53435)
@@ -780,6 +838,10 @@
 ### [singe](https://github.com/singe)
 - 🍴 👤 [singe](https://github.com/singe) Forked [aircrack-ng/aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) to [singe/aircrack-ng](https://github.com/singe/aircrack-ng)
   > WiFi security auditing tools suite
+
+### [skylot](https://github.com/skylot)
+- 🌟 👤 [skylot](https://github.com/skylot) Starred [cys7885/jexray](https://github.com/cys7885/jexray)
+  > JADX plugin: browse native (JNI) methods and view Ghidra pseudocode/disassembly inside JADX
 
 ### [sotasan](https://github.com/sotasan)
 - 🌟 👤 [sotasan](https://github.com/sotasan) Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
@@ -953,5 +1015,5 @@
 
 
 ---
-*最后更新于 2026-08-05 17:36:15 UTC*
+*最后更新于 2026-08-05 19:32:40 UTC*
 *历史记录保存在 `archive` 目录中。*
