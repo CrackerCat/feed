@@ -160,6 +160,10 @@
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
   > GhostLock One-Tap Execution App
 
+### [Slzdude](https://github.com/Slzdude)
+- 🌟 👤 [Slzdude](https://github.com/Slzdude) Starred [RamuneIDA/Ramune-ida](https://github.com/RamuneIDA/Ramune-ida)
+  > Headless IDA Pro MCP Server — expose IDA Pro's reverse engineering capabilities to AI agents for mor...
+
 ### [Steesha](https://github.com/Steesha)
 - 🌟 👤 [Steesha](https://github.com/Steesha) Starred [ergrelet/themida-unmutate](https://github.com/ergrelet/themida-unmutate)
   > Static deobfuscator for Themida, WinLicense and Code Virtualizer 3.x's mutation-based obfuscation.
@@ -188,6 +192,8 @@
   > For APatch build-in mount
 - 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
+- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)
+  > 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。
 
 ### [Yu2erer](https://github.com/Yu2erer)
 - 🌟 👤 [Yu2erer](https://github.com/Yu2erer) Starred [stablyai/orca](https://github.com/stablyai/orca)
@@ -231,6 +237,10 @@
 - 🌟 👤 [burpheart](https://github.com/burpheart) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
   > The headless browser for AI agents and web scraping
 
+### [cctv18](https://github.com/cctv18)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+
 ### [chf007](https://github.com/chf007)
 - 🌟 👤 [chf007](https://github.com/chf007) Starred [mokshablr/gander](https://github.com/mokshablr/gander)
   > Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint,...
@@ -269,6 +279,10 @@
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [IChooseYou/Reclass](https://github.com/IChooseYou/Reclass)
 - 🍴 👤 [dzxpert](https://github.com/dzxpert) Forked [IChooseYou/Reclass](https://github.com/IChooseYou/Reclass) to [dzxpert/Reclass](https://github.com/dzxpert/Reclass)
 
+### [einverne](https://github.com/einverne)
+- 🌟 👤 [einverne](https://github.com/einverne) Starred [openchamber/openchamber](https://github.com/openchamber/openchamber)
+  > Desktop and web interface for OpenCode AI agent
+
 ### [enjoy-binbin](https://github.com/enjoy-binbin)
 - 🍴 👤 [enjoy-binbin](https://github.com/enjoy-binbin) Forked [RediSearch/RediSearchBenchmark](https://github.com/RediSearch/RediSearchBenchmark) to [enjoy-binbin/RediSearchBenchmark](https://github.com/enjoy-binbin/RediSearchBenchmark)
   > Benchmarks for the RediSearch module
@@ -277,6 +291,16 @@
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [Dump-GUY/BTR_CLI](https://github.com/Dump-GUY/BTR_CLI)
   > Offensive PoC tool for BTR.sys - Microsoft Defender's Boot Time Removal Tool. Supporting material fo...
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
+  > Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI...
+
+### [feicong](https://github.com/feicong)
+- 🌟 👤 [feicong](https://github.com/feicong) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
+  > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave ...
+- 🍴 👤 [feicong](https://github.com/feicong) Forked [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) to [feicong/DeepSeek-Reasonix](https://github.com/feicong/DeepSeek-Reasonix)
+  > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave ...
+
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [mysk-research/loupe](https://github.com/mysk-research/loupe)
   > A privacy-focused iOS app that raises awareness about what native apps can see
@@ -284,6 +308,9 @@
 ### [for-A1kaid](https://github.com/for-A1kaid)
 - 🌟 👤 [for-A1kaid](https://github.com/for-A1kaid) Starred [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX)
   > AI 自主渗透测试系统
+
+### [gclm](https://github.com/gclm)
+- 🚀 👤 [gclm](https://github.com/gclm) Made [gclm/honeybadger](https://github.com/gclm/honeybadger) public
 
 ### [genius158](https://github.com/genius158)
 - 🌟 👤 [genius158](https://github.com/genius158) Starred [rgthree/rgthree-comfy](https://github.com/rgthree/rgthree-comfy)
@@ -326,6 +353,11 @@
   > DeepSeek V4 Flash 0731 on 8x NVIDIA DGX Spark: deployment, reproducible benchmarks, optimization pro...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [captainkie/ai-usage-esp32](https://github.com/captainkie/ai-usage-esp32) to [gmh5225/ai-usage-esp32](https://github.com/gmh5225/ai-usage-esp32)
   > Your Claude Code usage limits on a Waveshare ESP32-S3-Touch-LCD-3.49 (640×172), with a pixel compani...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [guangzhengli/mailworker](https://github.com/guangzhengli/mailworker) to [gmh5225/mailworker](https://github.com/gmh5225/mailworker)
+
+### [hanbings](https://github.com/hanbings)
+- 🌟 👤 [hanbings](https://github.com/hanbings) Starred [acsandmann/rift](https://github.com/acsandmann/rift)
+  > a tiling window manager for macos
 
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew)
@@ -365,6 +397,8 @@
 ### [je5442804](https://github.com/je5442804)
 - 🌟 👤 [je5442804](https://github.com/je5442804) Starred [0xaled/Vipere](https://github.com/0xaled/Vipere)
   > BOF exploiting the Visual Studio Installer Elevation Service for SYSTEM LPE and persistence via AppD...
+- 🌟 👤 [je5442804](https://github.com/je5442804) Starred [cognis-digital/packpeek](https://github.com/cognis-digital/packpeek)
+  > Static packer/loader fingerprinter (C) — UPX/ASPack/Themida/MPRESS/VMProtect + entropy; emits YARA +...
 
 ### [jeanboydev](https://github.com/jeanboydev)
 - 🌟 👤 [jeanboydev](https://github.com/jeanboydev) Starred [HuolalaTech/huolala-figma-mcp](https://github.com/HuolalaTech/huolala-figma-mcp)
@@ -472,6 +506,9 @@
 - 🌟 👤 [lizhangqu](https://github.com/lizhangqu) Starred [JackEblan/Geto](https://github.com/JackEblan/Geto)
   > Apply device settings to your apps.
 
+### [llsc12](https://github.com/llsc12)
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [Meayua/switch-guide](https://github.com/Meayua/switch-guide)
+
 ### [lmk123](https://github.com/lmk123)
 - 🌟 👤 [lmk123](https://github.com/lmk123) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
   > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
@@ -513,6 +550,9 @@
 - 🌟 👤 [nblog](https://github.com/nblog) Starred [microsoft/FSQ](https://github.com/microsoft/FSQ)
   > FSQ is an evidence-first agent harness for replayable, verifiable AI UI automation across web, mobil...
 
+### [not1cyyy](https://github.com/not1cyyy)
+- 🌟 👤 [not1cyyy](https://github.com/not1cyyy) Starred [IChooseYou/Reclass](https://github.com/IChooseYou/Reclass)
+
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
   > The headless browser for AI agents and web scraping
@@ -535,11 +575,19 @@
 - 🌟 👤 [pengwei1024](https://github.com/pengwei1024) Starred [WeChatCV/Wan-Alpha](https://github.com/WeChatCV/Wan-Alpha)
   > [CVPR 2026 Highlight] High-Quality Text-to-Video Generation with Alpha Channel
 
+### [plumk97](https://github.com/plumk97)
+- 🍴 👤 [plumk97](https://github.com/plumk97) Forked [brave/adblock-rust](https://github.com/brave/adblock-rust) to [plumk97/adblock-rust](https://github.com/plumk97/adblock-rust)
+  > Brave's Rust-based adblock engine
+
 ### [qazbnm456](https://github.com/qazbnm456)
 - 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [DataDog/datadog-saist](https://github.com/DataDog/datadog-saist)
   > AI-native SAST
 - 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [puffinsoft/peek-cli](https://github.com/puffinsoft/peek-cli)
   > Let coding agents see your browser.
+- 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [googleprojectzero/sandbox-attacksurface-analysis-tools](https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools)
+  > Set of tools to analyze Windows sandboxes for exposed attack surface.
+- 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [ethz-spylab/agentdojo](https://github.com/ethz-spylab/agentdojo)
+  > A Dynamic Environment to Evaluate Attacks and Defenses for LLM Agents.
 
 ### [quanyeyang](https://github.com/quanyeyang)
 - 🌟 👤 [quanyeyang](https://github.com/quanyeyang) Starred [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge)
@@ -567,6 +615,10 @@
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [tsl0922/ttyd](https://github.com/tsl0922/ttyd)
   > Share your terminal over the web
 
+### [snowwlex](https://github.com/snowwlex)
+- 🌟 👤 [snowwlex](https://github.com/snowwlex) Starred [tonsky/CanYouHearMe](https://github.com/tonsky/CanYouHearMe)
+  > Automatically change macOS audio input/ouput based on priority
+
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [awakecoding/openspecs](https://github.com/awakecoding/openspecs)
   > Microsoft Open Specifications Windows Protocols Skill
@@ -574,6 +626,8 @@
 ### [stuxnet147](https://github.com/stuxnet147)
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [openNAMU/openNAMU](https://github.com/openNAMU/openNAMU)
   > 여러 기능이 있는 위키 엔진 (Wiki engine with multiple functions)
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [wjdgustn/thetree](https://github.com/wjdgustn/thetree)
+  > 나무마크 호환 위키 엔진
 
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [badaozhai/hotvideocopy](https://github.com/badaozhai/hotvideocopy)
@@ -710,5 +764,5 @@
 
 
 ---
-*最后更新于 2026-08-07 11:44:14 UTC*
+*最后更新于 2026-08-07 13:02:07 UTC*
 *历史记录保存在 `archive` 目录中。*
