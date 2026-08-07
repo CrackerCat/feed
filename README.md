@@ -14,12 +14,20 @@
 - 🌟 👤 [CHIZI-0618](https://github.com/CHIZI-0618) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
   > GhostLock One-Tap Execution App
 
+### [DarkLineX](https://github.com/DarkLineX)
+- 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
+  > AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and ...
+
 ### [Evian-Zhang](https://github.com/Evian-Zhang)
 - 🍴 👤 [Evian-Zhang](https://github.com/Evian-Zhang) Forked [rust-lang/book](https://github.com/rust-lang/book) to [Evian-Zhang/book](https://github.com/Evian-Zhang/book)
   > The Rust Programming Language
 
 ### [Firebasky](https://github.com/Firebasky)
 - 🍴 👤 [Firebasky](https://github.com/Firebasky) Forked [V4bel/Zapscape](https://github.com/V4bel/Zapscape) to [Firebasky/Zapscape](https://github.com/Firebasky/Zapscape)
+
+### [FunnyWolf](https://github.com/FunnyWolf)
+- 🍴 👤 [FunnyWolf](https://github.com/FunnyWolf) Forked [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) to [FunnyWolf/OfficeCLI](https://github.com/FunnyWolf/OfficeCLI)
+  > OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automat...
 
 ### [GaoYuCan](https://github.com/GaoYuCan)
 - 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
@@ -32,14 +40,34 @@
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [ax128/AegisGate](https://github.com/ax128/AegisGate)
   > Open-source security gateway for LLM APIs — prompt injection detection, PII redaction, dangerous res...
+- 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [sensepost/pipetap](https://github.com/sensepost/pipetap)
+  > A Windows Named Pipe Multi-tool / Proxy
+
+### [Keyird](https://github.com/Keyird)
+- 🌟 👤 [Keyird](https://github.com/Keyird) Starred [jjchen17/wps-cli](https://github.com/jjchen17/wps-cli)
+  > WPS Office CLI - COM automation for WPS Office (Word/Excel/PPT/PDF)
+
+### [LimerBoy](https://github.com/LimerBoy)
+- 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [MushGrowth/MobaXtermPasswordRecovery](https://github.com/MushGrowth/MobaXtermPasswordRecovery)
+  > Recover authorized MobaXterm credentials with improved portable INI compatibility
 
 ### [LunFengChen](https://github.com/LunFengChen)
 - 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [34306/macOSAppstoreDecrypter](https://github.com/34306/macOSAppstoreDecrypter)
   > Source code for an online decrypted app on App Store, require M1 macOS running on 11.2.3 or lower
 
+### [MartinKayJr](https://github.com/MartinKayJr)
+- 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)
+  > 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI a...
+- 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [erweixin/RaTeX](https://github.com/erweixin/RaTeX)
+  > >99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. O...
+
 ### [MhmRdd](https://github.com/MhmRdd)
 - 🌟 👤 [MhmRdd](https://github.com/MhmRdd) Starred [compose-miuix-ui/miuix](https://github.com/compose-miuix-ui/miuix)
   > A UI library for Compose Multiplatform
+
+### [Moe-hacker](https://github.com/Moe-hacker)
+- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [openwrt-xiaomi/xmir-patcher](https://github.com/openwrt-xiaomi/xmir-patcher)
+  > Firmware patcher for Xiaomi routers
 
 ### [N-X-T](https://github.com/N-X-T)
 - 🌟 👤 [N-X-T](https://github.com/N-X-T) Starred [script-or-script/FlutterTap](https://github.com/script-or-script/FlutterTap)
@@ -63,6 +91,9 @@
 - 🌟 👤 [Steesha](https://github.com/Steesha) Starred [ergrelet/themida-unmutate](https://github.com/ergrelet/themida-unmutate)
   > Static deobfuscator for Themida, WinLicense and Code Virtualizer 3.x's mutation-based obfuscation.
 
+### [THISISAGOODNAME](https://github.com/THISISAGOODNAME)
+- 🌟 👤 [THISISAGOODNAME](https://github.com/THISISAGOODNAME) Starred [lindbergh-loader/linuxloader](https://github.com/lindbergh-loader/linuxloader)
+
 ### [Xieansecn](https://github.com/Xieansecn)
 - 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [AndroidPatch/magic_mount](https://github.com/AndroidPatch/magic_mount)
   > For APatch build-in mount
@@ -74,6 +105,8 @@
 ### [YuKongA](https://github.com/YuKongA)
 - 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
   > GhostLock One-Tap Execution App
+- 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe)
+  > No TrickyStore on Canoe
 
 ### [adysec](https://github.com/adysec)
 - 🌟 👤 [adysec](https://github.com/adysec) Starred [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist)
@@ -82,10 +115,16 @@
 ### [apkunpacker](https://github.com/apkunpacker)
 - 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
   > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+- 🌟 👤 [apkunpacker](https://github.com/apkunpacker) Starred [saileaxh/iida-dfs](https://github.com/saileaxh/iida-dfs)
+  > Machine-learning-based function similarity analysis that helps you quickly locate matching functions...
 
 ### [arpruss](https://github.com/arpruss)
 - 🍴 👤 [arpruss](https://github.com/arpruss) Forked [Lumince/singularity](https://github.com/Lumince/singularity) to [arpruss/singularity](https://github.com/arpruss/singularity)
   > meta horizon aio root app
+
+### [bet4it](https://github.com/bet4it)
+- 🌟 👤 [bet4it](https://github.com/bet4it) Starred [chillcicada/tntt](https://github.com/chillcicada/tntt)
+  > :page_facing_up: TnTT is Not a Tex Thesis Template for Tsinghua university (THU)...
 
 ### [bibinocode](https://github.com/bibinocode)
 - 🌟 👤 [bibinocode](https://github.com/bibinocode) Starred [34306/macOSAppstoreDecrypter](https://github.com/34306/macOSAppstoreDecrypter)
@@ -109,6 +148,10 @@
 - 🍴 👤 [cxxzhang](https://github.com/cxxzhang) Forked [electerm/electerm](https://github.com/electerm/electerm) to [cxxzhang/electerm](https://github.com/cxxzhang/electerm)
   > 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyO...
 
+### [darkskygit](https://github.com/darkskygit)
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
+
 ### [doodlewind](https://github.com/doodlewind)
 - 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [pocket-stack/pocket-voxel](https://github.com/pocket-stack/pocket-voxel)
   > A Game Boy creature-RPG as a voxelized 3D diorama on a real PSP — gameplay in a QuickJS TypeScript g...
@@ -116,6 +159,10 @@
 ### [dstmath](https://github.com/dstmath)
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [onekey-sec/ubi_reader](https://github.com/onekey-sec/ubi_reader)
   > Collection of Python scripts for reading information about and extracting data from UBI and UBIFS im...
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [Dump-GUY/BTR_CLI](https://github.com/Dump-GUY/BTR_CLI)
+  > Offensive PoC tool for BTR.sys - Microsoft Defender's Boot Time Removal Tool. Supporting material fo...
 
 ### [for-A1kaid](https://github.com/for-A1kaid)
 - 🌟 👤 [for-A1kaid](https://github.com/for-A1kaid) Starred [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX)
@@ -144,6 +191,10 @@
 ### [hhhaiai](https://github.com/hhhaiai)
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew)
   > A persistent workspace for development work that self-improves and continues beyond one session.
+
+### [howmp](https://github.com/howmp)
+- 🌟 👤 [howmp](https://github.com/howmp) Starred [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX)
+  > AI 自主渗透测试系统
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [yassinmohamed1111/superxss](https://github.com/yassinmohamed1111/superxss)
@@ -180,6 +231,10 @@
 - 🌟 👤 [kekeimiku](https://github.com/kekeimiku) Starred [bryanthaboi/gen1recomp](https://github.com/bryanthaboi/gen1recomp)
   > Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Poke 
 
+### [kenvix](https://github.com/kenvix)
+- 🌟 👤 [kenvix](https://github.com/kenvix) Starred [littledivy/mimic](https://github.com/littledivy/mimic)
+  > Intercept any app, then call it from Python like a library
+
 ### [lightless233](https://github.com/lightless233)
 - 🌟 👤 [lightless233](https://github.com/lightless233) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
   > Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle dia...
@@ -214,9 +269,9 @@
 - 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [xuanyustudio/LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) to [liuzjMr/LocalMiniDrama](https://github.com/liuzjMr/LocalMiniDrama)
   > 🎬 seedance2接入  开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source ...
 - 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [TorresLi608/SceneFlow](https://github.com/TorresLi608/SceneFlow) to [liuzjMr/SceneFlow](https://github.com/liuzjMr/SceneFlow)
-  > 一个Ai 漫剧/视频 生成平台
+  > 一个Ai 工作台，支持智能对话，ai生图/视频，ai短剧等功能。以及一系列的管理后台
 - 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [TorresLi608/SceneFlow](https://github.com/TorresLi608/SceneFlow)
-  > 一个Ai 漫剧/视频 生成平台
+  > 一个Ai 工作台，支持智能对话，ai生图/视频，ai短剧等功能。以及一系列的管理后台
 - 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [ooTeen/LumxAI](https://github.com/ooTeen/LumxAI)
   > AI漫剧短剧角色设计Agent
 - 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [Laity1m/manjing-desktop](https://github.com/Laity1m/manjing-desktop)
@@ -261,6 +316,10 @@
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [traceroot-ai/traceroot](https://github.com/traceroot-ai/traceroot)
   > TraceRoot - open-source observability and self-improving layer for AI agents. YC S25
 
+### [moonD4rk](https://github.com/moonD4rk)
+- 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
+  > Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agent...
+
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
   > GhostLock One-Tap Execution App
@@ -272,6 +331,10 @@
   > Yet Another Injection Library — a Windows x64 manual-map DLL injection library written in modern C++...
 - 🌟 👤 [nblog](https://github.com/nblog) Starred [Encryqed/Dumper-7](https://github.com/Encryqed/Dumper-7)
   > Unreal Engine SDK Generator
+
+### [oblique](https://github.com/oblique)
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
 
 ### [peiqiF4ck](https://github.com/peiqiF4ck)
 - 🌟 👤 [peiqiF4ck](https://github.com/peiqiF4ck) Starred [larlarua/AutoCVE](https://github.com/larlarua/AutoCVE)
@@ -290,6 +353,10 @@
 ### [ret2ldz](https://github.com/ret2ldz)
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [bmax121/APatch](https://github.com/bmax121/APatch)
   > The patching of Android kernel and Android system
+- 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)
+  > Standalone implementation of Zygisk
+- 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
+  > LSPosed Framework
 
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [Sigumaa/shiyui](https://github.com/Sigumaa/shiyui)
@@ -305,6 +372,10 @@
 
 ### [un4ckn0wl3z](https://github.com/un4ckn0wl3z)
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [IChooseYou/Reclass](https://github.com/IChooseYou/Reclass)
+
+### [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz)
+- 🌟 👤 [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz) Starred [zerodha/pykiteconnect](https://github.com/zerodha/pykiteconnect)
+  > The official Python client library for the Kite Connect trading APIs
 
 ### [veaba](https://github.com/veaba)
 - 🌟 👤 [veaba](https://github.com/veaba) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
@@ -333,10 +404,15 @@
   > 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆红弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlif...
 - 🍴 👤 [wy876](https://github.com/wy876) Forked [huangxd-/danmu_api](https://github.com/huangxd-/danmu_api) to [wy876/danmu_api](https://github.com/wy876/danmu_api)
   > 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆红弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlif...
+- 🍴 👤 [wy876](https://github.com/wy876) Forked [ufrisk/pcileech](https://github.com/ufrisk/pcileech) to [wy876/pcileech](https://github.com/wy876/pcileech)
+  > Direct Memory Access (DMA) Attack Software
 
 ### [wyattearp](https://github.com/wyattearp)
 - 🍴 👤 [wyattearp](https://github.com/wyattearp) Forked [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) to [wyattearp/Model-Optimizer](https://github.com/wyattearp/Model-Optimizer)
   > A unified library of SOTA model optimization techniques like quantization, distillation, pruning, ne...
+
+### [xiandanin](https://github.com/xiandanin)
+- 🌟 👤 [xiandanin](https://github.com/xiandanin) Starred [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)
 
 ### [xiaobfly](https://github.com/xiaobfly)
 - 🌟 👤 [xiaobfly](https://github.com/xiaobfly) Starred [TsingShui/ida-agent-bridge](https://github.com/TsingShui/ida-agent-bridge)
@@ -345,6 +421,20 @@
 ### [xiaolai](https://github.com/xiaolai)
 - 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) to [xiaolai/video-shotcraft](https://github.com/xiaolai/video-shotcraft)
   > AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe car...
+
+### [xiaoweigege](https://github.com/xiaoweigege)
+- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
+- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
+  > the runtime your coding agents live on
+- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
+  > Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle dia...
+- 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
+  > Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+
+### [xinruofuchen](https://github.com/xinruofuchen)
+- 🌟 👤 [xinruofuchen](https://github.com/xinruofuchen) Starred [WPeace-HcH/WPeGPT](https://github.com/WPeace-HcH/WPeGPT)
+  > An IDA plugin for binary file analysis, powered by AI models such as OpenAI and DeepSeek.
 
 ### [y11en](https://github.com/y11en)
 - 🌟 👤 [y11en](https://github.com/y11en) Starred [kunitoki/LuaBridge3](https://github.com/kunitoki/LuaBridge3)
@@ -363,6 +453,10 @@
 - 🌟 👤 [zacbre](https://github.com/zacbre) Starred [JonasJakobi/SM64-Quest-3](https://github.com/JonasJakobi/SM64-Quest-3)
   > Super Mario 64 running natively on the Quest 3, interacting with the real world environment.
 
+### [zhanghai](https://github.com/zhanghai)
+- 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [FFTYYY/sts2-MzmChar-mod](https://github.com/FFTYYY/sts2-MzmChar-mod)
+  > 杀戮尖塔2若叶睦人物mod
+
 ### [zhangyoufu](https://github.com/zhangyoufu)
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
   > Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agent...
@@ -373,5 +467,5 @@
 
 
 ---
-*最后更新于 2026-08-07 05:39:23 UTC*
+*最后更新于 2026-08-07 07:14:29 UTC*
 *历史记录保存在 `archive` 目录中。*
