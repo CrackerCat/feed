@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0Chencc](https://github.com/0Chencc)
+- 🌟 👤 [0Chencc](https://github.com/0Chencc) Starred [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+  > AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to fr...
+
 ### [0x1306a94](https://github.com/0x1306a94)
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [lassejlv/loora](https://github.com/lassejlv/loora)
   > A canvas design tool your agent can edit. Arrange structured UI nodes on the canvas; connect Claude,...
@@ -58,6 +62,30 @@
 - 🌟 👤 [LucisUrbe](https://github.com/LucisUrbe) Starred [LI-NA/zed-i18n](https://github.com/LI-NA/zed-i18n)
   > Localization toolkit for Zed editor — extract, translate, and build multilingual releases
 
+### [MikaCybertron](https://github.com/MikaCybertron)
+- 🌟 👤 [MikaCybertron](https://github.com/MikaCybertron) Starred [anldori/Battle-Realms-Data-Editor-XLSX](https://github.com/anldori/Battle-Realms-Data-Editor-XLSX)
+  > An editor for Battle Realms game data in the newer xlsx format.
+- 🍴 👤 [MikaCybertron](https://github.com/MikaCybertron) Forked [anldori/Battle-Realms-Data-Editor-XLSX](https://github.com/anldori/Battle-Realms-Data-Editor-XLSX) to [MikaCybertron/Battle-Realms-Data-Editor-XLSX](https://github.com/MikaCybertron/Battle-Realms-Data-Editor-XLSX)
+  > An editor for Battle Realms game data in the newer xlsx format.
+
+### [Monoceros406](https://github.com/Monoceros406)
+- 🌟 👤 [Monoceros406](https://github.com/Monoceros406) Starred [fyrlove/r0re](https://github.com/fyrlove/r0re)
+  > 自动化逆向分析工具
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Mr-xn/fmfuzz_tool](https://github.com/Mr-xn/fmfuzz_tool)
+  > freemarker SSTI 命令执行/混淆/文件写入，以及jmreport组件利用payload生成
+
+### [No-Github](https://github.com/No-Github)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [Xaaaa-bip/GodzillaSuper](https://github.com/Xaaaa-bip/GodzillaSuper)
+  > 哥斯拉webshell管理工具二开
+- 🍴 👤 [No-Github](https://github.com/No-Github) Forked [Xaaaa-bip/GodzillaSuper](https://github.com/Xaaaa-bip/GodzillaSuper) to [No-Github/GodzillaSuper](https://github.com/No-Github/GodzillaSuper)
+  > 哥斯拉webshell管理工具二开
+
+### [Nyloner](https://github.com/Nyloner)
+- 🌟 👤 [Nyloner](https://github.com/Nyloner) Starred [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+  > The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
 ### [OpenHRTT](https://github.com/OpenHRTT)
 - 🌟 👤 [OpenHRTT](https://github.com/OpenHRTT) Starred [layui/layui](https://github.com/layui/layui)
   > 一套遵循浏览器原生态开发模式的 Web UI 组件库。
@@ -81,12 +109,30 @@
 ### [TomKing062](https://github.com/TomKing062)
 - 🌟 👤 [TomKing062](https://github.com/TomKing062) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
   > GhostLock One-Tap Execution App
+- 🍴 👤 [TomKing062](https://github.com/TomKing062) Forked [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app) to [TomKing062/ghostlock-app](https://github.com/TomKing062/ghostlock-app)
+  > GhostLock One-Tap Execution App
+
+### [XiaoTong6666](https://github.com/XiaoTong6666)
+- 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
+  > GhostLock One-Tap Execution App
+
+### [asLody](https://github.com/asLody)
+- 🌟 👤 [asLody](https://github.com/asLody) Starred [openchamber/openchamber](https://github.com/openchamber/openchamber)
+  > Desktop and web interface for OpenCode AI agent
 
 ### [bibinocode](https://github.com/bibinocode)
 - 🌟 👤 [bibinocode](https://github.com/bibinocode) Starred [china794/jiakao-baodian-dump](https://github.com/china794/jiakao-baodian-dump)
   > 驾考宝典题库逆向：5759题全量（科目一5754+科目四5）+ 1979图 + 39视频 + 标签/解析，仅供技术研究
 - 🍴 👤 [bibinocode](https://github.com/bibinocode) Forked [china794/jiakao-baodian-dump](https://github.com/china794/jiakao-baodian-dump) to [bibinocode/jiakao-baodian-dump](https://github.com/bibinocode/jiakao-baodian-dump)
   > 驾考宝典题库逆向：5759题全量（科目一5754+科目四5）+ 1979图 + 39视频 + 标签/解析，仅供技术研究
+
+### [bmax121](https://github.com/bmax121)
+- 🌟 👤 [bmax121](https://github.com/bmax121) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+
+### [boy-hack](https://github.com/boy-hack)
+- 🌟 👤 [boy-hack](https://github.com/boy-hack) Starred [wgpsec/hunxiang](https://github.com/wgpsec/hunxiang)
+  > 浑象 AI agent CTF 靶场竞赛平台
 
 ### [cmzy](https://github.com/cmzy)
 - 🌟 👤 [cmzy](https://github.com/cmzy) Starred [tiann/tango-mirror](https://github.com/tiann/tango-mirror)
@@ -125,9 +171,17 @@
 - 🌟 👤 [cyal1](https://github.com/cyal1) Starred [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site)
   > ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 
+### [defuse](https://github.com/defuse)
+- 🌟 👤 [defuse](https://github.com/defuse) Starred [defuse/vfy](https://github.com/defuse/vfy)
+  > vfy - a backup/directory comparison tool
+
 ### [duanluan](https://github.com/duanluan)
 - 🌟 👤 [duanluan](https://github.com/duanluan) Starred [7723mod/NPatch](https://github.com/7723mod/NPatch)
   > NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
+### [dzxpert](https://github.com/dzxpert)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [Adofyn1/VMPHide](https://github.com/Adofyn1/VMPHide)
+  > Bypassing anti-vm and anti-debug for VMProtect
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [NO6KIKO/gorest-2d-animation-spritesheet-generator](https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator)
@@ -138,6 +192,18 @@
   > Build a production-grade, server-side anticheat for Roblox from scratch. Every line explained.
 - 🍴 👤 [everettjf](https://github.com/everettjf) Forked [0xmortuex/roblox-anticheat-the-hard-way](https://github.com/0xmortuex/roblox-anticheat-the-hard-way) to [everettjf/roblox-anticheat-the-hard-way](https://github.com/everettjf/roblox-anticheat-the-hard-way)
   > Build a production-grade, server-side anticheat for Roblox from scratch. Every line explained.
+
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [microsoft/ZoomitForMac](https://github.com/microsoft/ZoomitForMac)
+  > Sysinternals ZoomIt for MacOS
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [WitherOrNot/XenonRecomp-XEO3](https://github.com/WitherOrNot/XenonRecomp-XEO3)
+  > A proof-of-concept fork of XenonRecomp aimed at allowing arbitrary games to run on Microsoft's offic...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [xoreaxeaxeax/mmiotic](https://github.com/xoreaxeaxeax/mmiotic)
+  > Latency x-ray for undocumented hardware
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [xoreaxeaxeax/schrodingers-toctou](https://github.com/xoreaxeaxeax/schrodingers-toctou)
+  > The binary you run is not the program you wrote.
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [saad-script/ssbu-online-deluxe](https://github.com/saad-script/ssbu-online-deluxe) to [gmh5225/ssbu-online-deluxe](https://github.com/gmh5225/ssbu-online-deluxe)
@@ -183,6 +249,10 @@
 ### [joydo](https://github.com/joydo)
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [0xnonce404/fanqie-rs](https://github.com/0xnonce404/fanqie-rs) to [joydo/7news](https://github.com/joydo/7news)
 
+### [killeven](https://github.com/killeven)
+- 🌟 👤 [killeven](https://github.com/killeven) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+
 ### [kinginu](https://github.com/kinginu)
 - 🌟 👤 [kinginu](https://github.com/kinginu) Starred [tenstorrent/sfpi-gcc](https://github.com/tenstorrent/sfpi-gcc)
 - 🌟 👤 [kinginu](https://github.com/kinginu) Starred [marty1885/ttMandelbrot](https://github.com/marty1885/ttMandelbrot)
@@ -207,6 +277,46 @@
   > 基于微信小程序和Web管理后台的售后工单管理系统。小程序端支持工单录入、状态跟进、客户关联、通讯录实时通讯、数据看板；PC后台支持工单/客户/用户/维护商的增删改查、批量操作、在线状态监控。前后端数据...
 - 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [19559220516/sn-workorder](https://github.com/19559220516/sn-workorder) to [liuzjMr/sn-workorder](https://github.com/liuzjMr/sn-workorder)
   > 基于微信小程序和Web管理后台的售后工单管理系统。小程序端支持工单录入、状态跟进、客户关联、通讯录实时通讯、数据看板；PC后台支持工单/客户/用户/维护商的增删改查、批量操作、在线状态监控。前后端数据...
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [islon/comenow](https://github.com/islon/comenow) to [liuzjMr/comenow](https://github.com/liuzjMr/comenow)
+  > 惠享Go 白领优惠平台 - 微信小程序(原生) + Node.js(Express)后端 + 管理后台  聚焦老用户日常可买的≤9.9元咖啡奶茶优惠，每天下午3点来蹲下午茶补贴，周末来蹲喜茶半价
+- 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [shuaigehzx-ux/hostex-wechat-miniapp](https://github.com/shuaigehzx-ux/hostex-wechat-miniapp)
+  > 微信订房小程序
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [jungle122/LyraScore](https://github.com/jungle122/LyraScore) to [liuzjMr/LyraScore](https://github.com/liuzjMr/LyraScore)
+  > 一款极简风格的吉他谱管理微信小程序 / A minimalist guitar tabs manager Mini Program.
+- 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [dawn23106/oneclick-trip](https://github.com/dawn23106/oneclick-trip)
+  > 一键游：基于 Spring Boot、Vue、微信小程序与 LangGraph 的 AI 旅行规划及预订管理项目
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [dawn23106/oneclick-trip](https://github.com/dawn23106/oneclick-trip) to [liuzjMr/oneclick-trip](https://github.com/liuzjMr/oneclick-trip)
+  > 一键游：基于 Spring Boot、Vue、微信小程序与 LangGraph 的 AI 旅行规划及预订管理项目
+- 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [XX888QM/yunxin-loan-calculator-miniprogram](https://github.com/XX888QM/yunxin-loan-calculator-miniprogram)
+  > 微信小程序车贷房贷月供与真实利率计算器
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [XX888QM/yunxin-loan-calculator-miniprogram](https://github.com/XX888QM/yunxin-loan-calculator-miniprogram) to [liuzjMr/yunxin-loan-calculator-miniprogram](https://github.com/liuzjMr/yunxin-loan-calculator-miniprogram)
+  > 微信小程序车贷房贷月供与真实利率计算器
+- 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [eureka1460/eureka-financial](https://github.com/eureka1460/eureka-financial)
+  > A股财报分析全栈项目：Python FastAPI 后端 + 微信小程序前端 + MySQL，支持 5000+只股票真实财报自动同步、多期对比、DCF/DDM 估值模型与多条件选股筛选。
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [jiaxinwang19961223-ctrl/venue-system](https://github.com/jiaxinwang19961223-ctrl/venue-system) to [liuzjMr/venue-system](https://github.com/liuzjMr/venue-system)
+  > 场馆运营系统 - 三端架构：管理后台+员工小程序+顾客小程序，含人脸识别签到
+- 🌟 👤 [liuzjMr](https://github.com/liuzjMr) Starred [jiaxinwang19961223-ctrl/venue-system](https://github.com/jiaxinwang19961223-ctrl/venue-system)
+  > 场馆运营系统 - 三端架构：管理后台+员工小程序+顾客小程序，含人脸识别签到
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [ithinkthereisdark/Daily-checkin](https://github.com/ithinkthereisdark/Daily-checkin) to [liuzjMr/Daily-checkin](https://github.com/liuzjMr/Daily-checkin)
+  > 打卡微信小程序
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [Shadow1086/laundry-fronted](https://github.com/Shadow1086/laundry-fronted) to [liuzjMr/laundry-fronted](https://github.com/liuzjMr/laundry-fronted)
+  > 洗衣小程序前端项目
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [Gaoruoheng/wardrobe-miniprogram](https://github.com/Gaoruoheng/wardrobe-miniprogram) to [liuzjMr/wardrobe-miniprogram](https://github.com/liuzjMr/wardrobe-miniprogram)
+  > 衣柜小程序
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [liyue-aigc/female-portrait-director](https://github.com/liyue-aigc/female-portrait-director) to [liuzjMr/female-portrait-director](https://github.com/liuzjMr/female-portrait-director)
+  > A modular Codex Skill for directing and expanding detailed AI female portrait prompts.
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [liyue-aigc/outfit-director](https://github.com/liyue-aigc/outfit-director) to [liuzjMr/outfit-director](https://github.com/liuzjMr/outfit-director)
+  > 换装导演：支持女性、男性和宠物的多造型拼贴与换装视频脚本 Skill
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [liyue-aigc/xianxia-visual-director](https://github.com/liyue-aigc/xianxia-visual-director) to [liuzjMr/xianxia-visual-director](https://github.com/liuzjMr/xianxia-visual-director)
+  > Codex Skill for cinematic Eastern xianxia stills, celestial realms and sky megastructures.
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [liyue-aigc/xianxia-cinematic-video-director](https://github.com/liyue-aigc/xianxia-cinematic-video-director) to [liuzjMr/xianxia-cinematic-video-director](https://github.com/liuzjMr/xianxia-cinematic-video-director)
+  > Codex Skill for Eastern xianxia storyboards, camera movement and video continuity.
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) to [liuzjMr/image-matting](https://github.com/liuzjMr/image-matting)
+  > AI抠图、格式转换、图片压缩、AI证件照
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny) to [liuzjMr/remix-words-funny](https://github.com/liuzjMr/remix-words-funny)
+  > a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + her...
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [roboflow/supervision](https://github.com/roboflow/supervision) to [liuzjMr/supervision](https://github.com/liuzjMr/supervision)
+  > We write your reusable computer vision tools. 💜
 
 ### [madeye](https://github.com/madeye)
 - 🍴 👤 [madeye](https://github.com/madeye) Forked [idootop/open-xiaoai](https://github.com/idootop/open-xiaoai) to [madeye/open-xiaoai](https://github.com/madeye/open-xiaoai)
@@ -228,6 +338,10 @@
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
   > The agent engineering platform.
 
+### [ret2ldz](https://github.com/ret2ldz)
+- 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [longld/peda](https://github.com/longld/peda)
+  > PEDA - Python Exploit Development Assistance for GDB
+
 ### [reveng007](https://github.com/reveng007)
 - 🌟 👤 [reveng007](https://github.com/reveng007) Starred [microsoft/Building-AI-Agents-From-Zero-To-Production](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production)
 
@@ -247,9 +361,16 @@
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [suifei/shownet](https://github.com/suifei/shownet)
   > 抓包 · HTTPS 证书 · 协议逆向 · AI 分析· JA3。 AI-native desktop traffic capture, protocol analysis, AI evidence...
 
+### [ttttmr](https://github.com/ttttmr)
+- 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [grapeot/codex-behavior-today](https://github.com/grapeot/codex-behavior-today)
+
 ### [uforever](https://github.com/uforever)
 - 🌟 👤 [uforever](https://github.com/uforever) Starred [for-the-zero/Free-LLM-Collection](https://github.com/for-the-zero/Free-LLM-Collection)
   > 免费大模型API合集 / Free LLM api Collection
+
+### [wangshub](https://github.com/wangshub)
+- 🌟 👤 [wangshub](https://github.com/wangshub) Starred [larashero3-dotcom/writing-dna-skill](https://github.com/larashero3-dotcom/writing-dna-skill)
+  > 写作蒸馏器.skill｜蒸馏复刻任意写作风格的 agent skill | Writing DNA Distiller - distill and recreate any writing style...
 
 ### [wszqkzqk](https://github.com/wszqkzqk)
 - 🍴 👤 [wszqkzqk](https://github.com/wszqkzqk) Forked [videolan/dav1d](https://github.com/videolan/dav1d) to [wszqkzqk/dav1d](https://github.com/wszqkzqk/dav1d)
@@ -289,5 +410,5 @@
 
 
 ---
-*最后更新于 2026-08-09 06:55:39 UTC*
+*最后更新于 2026-08-09 08:41:59 UTC*
 *历史记录保存在 `archive` 目录中。*
