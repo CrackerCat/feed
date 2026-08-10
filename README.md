@@ -8,6 +8,10 @@
 - 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [ivRodriguezCA/MobHunt](https://github.com/ivRodriguezCA/MobHunt)
   > An agentic mobile security research system built as a Claude Code project. An orchestrator spawns fo...
 
+### [0xricksanchez](https://github.com/0xricksanchez)
+- 🌟 👤 [0xricksanchez](https://github.com/0xricksanchez) Starred [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness)
+  > Visa Vulnerability Agentic Harness
+
 ### [1013503897](https://github.com/1013503897)
 - 🌟 👤 [1013503897](https://github.com/1013503897) Starred [SetsunaYukiOvO/x64dbg-mcp](https://github.com/SetsunaYukiOvO/x64dbg-mcp)
   > MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging vi...
@@ -20,6 +24,10 @@
 - 🌟 👤 [Aar0n3906](https://github.com/Aar0n3906) Starred [lidongyooo/AlgoKiller](https://github.com/lidongyooo/AlgoKiller)
   > 专为 ARM64 Trace 算法还原设计的 Harness 工程。
 
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [antirez/h3.c](https://github.com/antirez/h3.c)
+  > MiniMax H3 inference engine for Mac computers
+
 ### [AlphabugX](https://github.com/AlphabugX)
 - 🌟 👤 [AlphabugX](https://github.com/AlphabugX) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
@@ -27,6 +35,8 @@
 ### [CHIZI-0618](https://github.com/CHIZI-0618)
 - 🌟 👤 [CHIZI-0618](https://github.com/CHIZI-0618) Starred [LittlenineEnnea/QC_Signature_Inspector](https://github.com/LittlenineEnnea/QC_Signature_Inspector)
   > A python script to inspect the signature inside the elf/mbn
+- 🌟 👤 [CHIZI-0618](https://github.com/CHIZI-0618) Starred [TanakaLun/mihomo](https://github.com/TanakaLun/mihomo)
+  > A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
 ### [CHYbeta](https://github.com/CHYbeta)
 - 🌟 👤 [CHYbeta](https://github.com/CHYbeta) Starred [darkmentorllc/bt-re-mad-skillz](https://github.com/darkmentorllc/bt-re-mad-skillz)
@@ -37,6 +47,10 @@
 ### [CasterWx](https://github.com/CasterWx)
 - 🌟 👤 [CasterWx](https://github.com/CasterWx) Starred [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist)
   > PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the comm...
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [MythicAgents/Hades](https://github.com/MythicAgents/Hades)
+  > Hades is a fully-featured cross-platform Chrome Extension agent. Hades is designed for Mythic 3.0 an...
 
 ### [CreditTone](https://github.com/CreditTone)
 - 🍴 👤 [CreditTone](https://github.com/CreditTone) Forked [my8100/scrapydweb](https://github.com/my8100/scrapydweb) to [CreditTone/scrapydweb](https://github.com/CreditTone/scrapydweb)
@@ -113,6 +127,8 @@
 ### [HdShare](https://github.com/HdShare)
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
   > World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700...
+- 🍴 👤 [HdShare](https://github.com/HdShare) Forked [hellodigua/emoji](https://github.com/hellodigua/emoji) to [HdShare/emoji](https://github.com/HdShare/emoji)
+  > 各大平台常见表情包收录
 
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [google/gvisor](https://github.com/google/gvisor)
@@ -134,6 +150,9 @@
 ### [Lakr233](https://github.com/Lakr233)
 - 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [shinyquagsire23/Klepton](https://github.com/shinyquagsire23/Klepton)
   > JIT-less relinker and compatibility layer for running Quest/Android XR APKs on visionOS and macOS
+
+### [LasCC](https://github.com/LasCC)
+- 🌟 👤 [LasCC](https://github.com/LasCC) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 
 ### [LimerBoy](https://github.com/LimerBoy)
 - 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [MojtabaTajik/Robber](https://github.com/MojtabaTajik/Robber)
@@ -157,6 +176,8 @@
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
   > Send push notifications to your phone or desktop using PUT/POST
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder)
+  > 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webh...
 
 ### [NHPT](https://github.com/NHPT)
 - 🍴 👤 [NHPT](https://github.com/NHPT) Forked [fatedier/frp](https://github.com/fatedier/frp) to [NHPT/frp](https://github.com/NHPT/frp)
@@ -207,6 +228,18 @@
 ### [Steesha](https://github.com/Steesha)
 - 🌟 👤 [Steesha](https://github.com/Steesha) Starred [SideChannelMarvels/BlueGalaxyEnergy](https://github.com/SideChannelMarvels/BlueGalaxyEnergy)
   > A tool to perform so called BGE attack
+
+### [StephenDev0](https://github.com/StephenDev0)
+- 🌟 👤 [StephenDev0](https://github.com/StephenDev0) Starred [jkcoxson/idevice_pair](https://github.com/jkcoxson/idevice_pair)
+  > Generate pair records for iOS and save them
+
+### [T5ive](https://github.com/T5ive)
+- 🍴 👤 [T5ive](https://github.com/T5ive) Forked [thananon/9arm-skills](https://github.com/thananon/9arm-skills) to [T5ive/9arm-skills](https://github.com/T5ive/9arm-skills)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [T5ive/andrej-karpathy-skills](https://github.com/T5ive/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [T5ive/pordee](https://github.com/T5ive/pordee)
+  > ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [T5ive/9arm-skills](https://github.com/T5ive/9arm-skills)
 
 ### [WAY29](https://github.com/WAY29)
 - 🌟 👤 [WAY29](https://github.com/WAY29) Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
@@ -272,6 +305,10 @@
 - 🌟 👤 [bingoogolapple](https://github.com/bingoogolapple) Starred [yc-software/qm](https://github.com/yc-software/qm)
   > Multiplayer agent harness for work
 
+### [blasty](https://github.com/blasty)
+- 🍴 👤 [blasty](https://github.com/blasty) Forked [iksteen/discosnoop](https://github.com/iksteen/discosnoop) to [blasty/discosnoop](https://github.com/blasty/discosnoop)
+  > Broadcast Discord voice chats or stand alone solo chat to the web
+
 ### [boy-hack](https://github.com/boy-hack)
 - 🌟 👤 [boy-hack](https://github.com/boy-hack) Starred [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)
   > 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol anal...
@@ -316,6 +353,10 @@
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [VKCOM/devicehub](https://github.com/VKCOM/devicehub)
   > Control and manage Android and iOS devices directly from your browser. Real-time screen viewing, res...
 
+### [ctkqiang](https://github.com/ctkqiang)
+- 🍴 👤 [ctkqiang](https://github.com/ctkqiang) Forked [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) to [ctkqiang/cve-lite-cli](https://github.com/ctkqiang/cve-lite-cli)
+  > Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV ma...
+
 ### [cwuom](https://github.com/cwuom)
 - 🌟 👤 [cwuom](https://github.com/cwuom) Starred [3899/ncmm](https://github.com/3899/ncmm)
   > 🤖网易云音乐人助手：日常任务（云贝中心、会员中心、乐迷团） +音乐人专项任务（签到、领黑胶VIP）
@@ -343,6 +384,18 @@
   > A font-based deception tool for red teaming, security research, and whatever else.
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [hybridgroup/yzma](https://github.com/hybridgroup/yzma)
   > Go with your own intelligence - Go applications that directly integrate llama.cpp for local inferenc...
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [JupiterRider/ffi](https://github.com/JupiterRider/ffi)
+  > A purego binding for libffi.
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [tidwall/expr](https://github.com/tidwall/expr)
+  > Expression evaluator for Go
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [quasilyte/pratt-parsers-go](https://github.com/quasilyte/pratt-parsers-go)
+  > Pratt parser implemented in Go
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [modern-go/parse](https://github.com/modern-go/parse)
+  > pratt parser framework
+
+### [dzxpert](https://github.com/dzxpert)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [korczis/osmocom-bb](https://github.com/korczis/osmocom-bb)
+  > Mirror of git://git.osmocom.org/osmocom-bb.git - OsmocomBB is an Free Software / Open Source GSM Bas...
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [Sorwcyra/ds-vision-skill](https://github.com/Sorwcyra/ds-vision-skill)
@@ -404,6 +457,19 @@
   > Install pnpm and a JavaScript runtime (Node.js, Bun, or Deno) in one GitHub actions step
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [antirez/h3.c](https://github.com/antirez/h3.c) to [gmh5225/h3.c](https://github.com/gmh5225/h3.c)
   > MiniMax H3 inference engine for Mac computers
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [iktok90-design/btcpay-scanner](https://github.com/iktok90-design/btcpay-scanner) to [gmh5225/btcpay-scanner](https://github.com/gmh5225/btcpay-scanner)
+  > Network scanner for BTCPay Server instances — version detection, SSRF CVE auditor (< 2.4.2), and Lig...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [thatskriptkid/re-harness](https://github.com/thatskriptkid/re-harness) to [gmh5225/re-harness](https://github.com/gmh5225/re-harness)
+  > Harness fo malware analysis
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [pashov/ai-web3-security](https://github.com/pashov/ai-web3-security)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ericscharff/smallworld.js](https://github.com/ericscharff/smallworld.js) to [gmh5225/smallworld.js](https://github.com/gmh5225/smallworld.js)
+  > A Smalltalk interpreter and virtual machine in JavaScript
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [basecamp/gh-signoff](https://github.com/basecamp/gh-signoff) to [gmh5225/gh-signoff](https://github.com/gmh5225/gh-signoff)
+  > Local CI. Sign off on your own work.
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ACD421/dc34-badge-tools](https://github.com/ACD421/dc34-badge-tools) to [gmh5225/dc34-badge-tools](https://github.com/gmh5225/dc34-badge-tools)
+  > DEF CON 34 Baochip badge tools: max lights (BadgeMu), gene dump, sealed gamete QR forge
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [oriansj/stage0](https://github.com/oriansj/stage0) to [gmh5225/stage0](https://github.com/gmh5225/stage0)
+  > A set of minimal dependency bootstrap binaries
 
 ### [h0li3](https://github.com/h0li3)
 - 🌟 👤 [h0li3](https://github.com/h0li3) Starred [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h)
@@ -423,6 +489,10 @@
 - 🍴 👤 [hhhaiai](https://github.com/hhhaiai) Forked [AaronL725/grok-register](https://github.com/AaronL725/grok-register) to [nixiangple/grok-register](https://github.com/nixiangple/grok-register)
   > 批量注册稳定 Grok 账号，可直接导入 grok2api 和 cpa 使用，并且可以与cloudflare无限域名邮箱等联动。通过1000+账号连续注册测试。
 - 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [2951461586/GPT-Register-Tool](https://github.com/2951461586/GPT-Register-Tool)
+- 🍴 👤 [hhhaiai](https://github.com/hhhaiai) Forked [2951461586/GPT-Register-Tool](https://github.com/2951461586/GPT-Register-Tool) to [nixiangple/GPT-Register-Tool](https://github.com/nixiangple/GPT-Register-Tool)
+- 🌟 👤 [hhhaiai](https://github.com/hhhaiai) Starred [2951461586/Open-AI-Team](https://github.com/2951461586/Open-AI-Team)
+  > AI Team Runtime — multi-agent orchestration harness with dashboard
 
 ### [huoji120](https://github.com/huoji120)
 - 🌟 👤 [huoji120](https://github.com/huoji120) Starred [aoe2control/AoE2Control](https://github.com/aoe2control/AoE2Control)
@@ -433,6 +503,8 @@
   > The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the po...
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins)
   > Make any agent harness multimodal-native.
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [antirez/h3.c](https://github.com/antirez/h3.c)
+  > MiniMax H3 inference engine for Mac computers
 
 ### [infosecn1nja](https://github.com/infosecn1nja)
 - 🌟 👤 [infosecn1nja](https://github.com/infosecn1nja) Starred [google/oss-fuzz](https://github.com/google/oss-fuzz)
@@ -450,9 +522,20 @@
 - 🌟 👤 [jaywcjlove](https://github.com/jaywcjlove) Starred [jaywcjlove/insta360-mic-wallpapers](https://github.com/jaywcjlove/insta360-mic-wallpapers)
   > Ink screen wallpapers for Insta360 Mic Pro
 
+### [jiji262](https://github.com/jiji262)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill)
+  > GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation...
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [wuyoscar/Internal-Safety-Collapse](https://github.com/wuyoscar/Internal-Safety-Collapse)
+  > ISC
+
 ### [jingyaogong](https://github.com/jingyaogong)
 - 🍴 👤 [jingyaogong](https://github.com/jingyaogong) Forked [binaricat/Netcatty](https://github.com/binaricat/Netcatty) to [jingyaogong/Netcatty](https://github.com/jingyaogong/Netcatty)
   > SSH workspace, SFTP, and terminals in one
+
+### [jiyulany](https://github.com/jiyulany)
+- 🌟 👤 [jiyulany](https://github.com/jiyulany) Starred [zhaotoday/fingerprint-browser](https://github.com/zhaotoday/fingerprint-browser)
+  > 指纹浏览器（防关联浏览器）资源整理 - Fingerprint Browser (Antidetect Browser) Resources
 
 ### [junknet](https://github.com/junknet)
 - 🌟 👤 [junknet](https://github.com/junknet) Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
@@ -589,6 +672,8 @@
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [KriyosArcane/TrustMeBro](https://github.com/KriyosArcane/TrustMeBro)
   > Authenticode signature manipulation toolkit for Red Team operations and security research. Covers si...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [martinus/unordered_dense](https://github.com/martinus/unordered_dense)
+  > A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion
 
 ### [ret2ldz](https://github.com/ret2ldz)
 - 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
@@ -638,6 +723,14 @@
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [cloudflare/computer](https://github.com/cloudflare/computer)
   > Give your agent a computer 👾
 
+### [xiaolai](https://github.com/xiaolai)
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) to [xiaolai/Claude-OSINT](https://github.com/xiaolai/Claude-OSINT)
+  > 8 Claude skills · 100+ recon capabilities · 80 secret-regex patterns · 80+ dorks · 9 read-only crede...
+
+### [xingfengwxx](https://github.com/xingfengwxx)
+- 🌟 👤 [xingfengwxx](https://github.com/xingfengwxx) Starred [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume)
+  > free online AI resume editor，the only official website is  https://magicv.art
+
 ### [xingguangcuican6666](https://github.com/xingguangcuican6666)
 - 🍴 👤 [xingguangcuican6666](https://github.com/xingguangcuican6666) Forked [xiahy456/AronaAI](https://github.com/xiahy456/AronaAI) to [xingguangcuican6666/AronaAI](https://github.com/xingguangcuican6666/AronaAI)
   > 阿洛娜AI是一个以游戏《蔚蓝档案》（Blue Archive）中角色"阿洛娜"为原型打造的桌面AI产品。
@@ -671,6 +764,8 @@
   > Local, web-based mail server application. Slurp mails into oblivion!
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [ory/kratos](https://github.com/ory/kratos)
   > Headless cloud-native authentication and identity management written in Go. Scales to a billion+ use...
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [ba-itsys/keycloak-push-mfa-extension](https://github.com/ba-itsys/keycloak-push-mfa-extension)
+  > Keycloak Push-MFA Extension
 
 ### [zhengjim](https://github.com/zhengjim)
 - 🌟 👤 [zhengjim](https://github.com/zhengjim) Starred [manyuegong33/r0crawl_skills](https://github.com/manyuegong33/r0crawl_skills)
@@ -696,5 +791,5 @@
 
 
 ---
-*最后更新于 2026-08-10 11:07:30 UTC*
+*最后更新于 2026-08-10 13:06:26 UTC*
 *历史记录保存在 `archive` 目录中。*
