@@ -29,6 +29,11 @@
 ### [Ackites](https://github.com/Ackites)
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [AntigmaLabs/ante](https://github.com/AntigmaLabs/ante)
   > Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works l...
+- 🌟 👤 [Ackites](https://github.com/Ackites) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+- 🌟 👤 [Ackites](https://github.com/Ackites) Starred [cordiverse/cordis](https://github.com/cordiverse/cordis)
+  > Meta-Framework of Spatiotemporal Composability
+- 🌟 👤 [Ackites](https://github.com/Ackites) Starred [cordiverse/paper](https://github.com/cordiverse/paper)
+  > A Programming Paradigm for Spatiotemporal Composability
 
 ### [CasterWx](https://github.com/CasterWx)
 - 🌟 👤 [CasterWx](https://github.com/CasterWx) Starred [MemeCalculate/moyin-creator](https://github.com/MemeCalculate/moyin-creator)
@@ -37,6 +42,11 @@
 ### [Cossack9989](https://github.com/Cossack9989)
 - 🍴 👤 [Cossack9989](https://github.com/Cossack9989) Forked [virt-pvm/linux](https://github.com/virt-pvm/linux) to [Cossack9989/pvmi-linux](https://github.com/Cossack9989/pvmi-linux)
   > Linux kernel source tree for PVM
+- 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [vjt/grappa-irc](https://github.com/vjt/grappa-irc)
+  > Always-on IRC bouncer with a REST-first API (grappa) + irssi-shape PWA client (cicchetto). Beta.
 
 ### [EZForever](https://github.com/EZForever)
 - 🌟 👤 [EZForever](https://github.com/EZForever) Starred [azomDev/TinyTitle](https://github.com/azomDev/TinyTitle)
@@ -50,10 +60,15 @@
 - 🚀 👤 [FBLeee](https://github.com/FBLeee) Made [FBLeee/LocalVault](https://github.com/FBLeee/LocalVault) public
   > Android，个人使用，一个本地存储密码的工具。
 
+### [GaoYuCan](https://github.com/GaoYuCan)
+- 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
 ### [H4ckForJob](https://github.com/H4ckForJob)
 - 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [QiuKuBoy/code-audit-docker](https://github.com/QiuKuBoy/code-audit-docker)
   > AI-powered code security audit platform (Docker deployment)
 - 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [mhtsec/GeoServer-jsonArrayContains-PG-RCE](https://github.com/mhtsec/GeoServer-jsonArrayContains-PG-RCE)
+- 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike)
+  > Open-source AI-augmented offensive security harness. 13+ autonomous agents, 150+ LLM providers, 5,30...
 
 ### [HdShare](https://github.com/HdShare)
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [HdShare/WAuxiliary_Public](https://github.com/HdShare/WAuxiliary_Public)
@@ -63,9 +78,18 @@
 - 🍴 👤 [ImuSpirit](https://github.com/ImuSpirit) Forked [KSP-CKAN/CKAN](https://github.com/KSP-CKAN/CKAN) to [ImuSpirit/CKAN](https://github.com/ImuSpirit/CKAN)
   > The Comprehensive Kerbal Archive Network
 
+### [KHwang9883](https://github.com/KHwang9883)
+- 🌟 👤 [KHwang9883](https://github.com/KHwang9883) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject)
 - 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject) to [KuNgia09/sukinject](https://github.com/KuNgia09/sukinject)
+
+### [KyuubiRan](https://github.com/KyuubiRan)
+- 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
+### [LLeavesG](https://github.com/LLeavesG)
+- 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
 ### [Lz1y](https://github.com/Lz1y)
 - 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [Nuklon/Steam-Economy-Enhancer](https://github.com/Nuklon/Steam-Economy-Enhancer)
@@ -81,6 +105,9 @@
 - 🌟 👤 [NHPT](https://github.com/NHPT) Starred [YuYisir/Initial-M](https://github.com/YuYisir/Initial-M)
   > Typecho-theme 简约 SEO 博客主题 · 支持 1.3.0 · 结构化数据优化 · 响应式设计
 
+### [No-Github](https://github.com/No-Github)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
 ### [Peterpan0927](https://github.com/Peterpan0927)
 - 🌟 👤 [Peterpan0927](https://github.com/Peterpan0927) Starred [cellebrite-labs/ida-bridge](https://github.com/cellebrite-labs/ida-bridge)
   > Bridge between agents and IDA Pro.
@@ -88,14 +115,28 @@
 ### [PhoenixHairpin](https://github.com/PhoenixHairpin)
 - 🍴 👤 [PhoenixHairpin](https://github.com/PhoenixHairpin) Forked [zhaoboy9692/ydpc-keeplive](https://github.com/zhaoboy9692/ydpc-keeplive) to [PhoenixHairpin/ydpc-keeplive](https://github.com/PhoenixHairpin/ydpc-keeplive)
   > 移动云电脑保活
+- 🍴 👤 [PhoenixHairpin](https://github.com/PhoenixHairpin) Forked [script-or-script/FlutterTap](https://github.com/script-or-script/FlutterTap) to [PhoenixHairpin/FlutterTap](https://github.com/PhoenixHairpin/FlutterTap)
+  > Zygisk module that intercepts Flutter app traffic — redirects to a proxy and bypasses BoringSSL TLS ...
 
 ### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
 - 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
   > Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me...
 
+### [SHangwendada](https://github.com/SHangwendada)
+- 🌟 👤 [SHangwendada](https://github.com/SHangwendada) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+- 🍴 👤 [SHangwendada](https://github.com/SHangwendada) Forked [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) to [SHangwendada/deepseek-harness](https://github.com/SHangwendada/deepseek-harness)
+
 ### [SakuraKoi](https://github.com/SakuraKoi)
 - 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [Netw0rkNoob/VulnClaw](https://github.com/Netw0rkNoob/VulnClaw)
   > 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
+
+### [Satar07](https://github.com/Satar07)
+- 🌟 👤 [Satar07](https://github.com/Satar07) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+- 🌟 👤 [Satar07](https://github.com/Satar07) Starred [cordiverse/paper](https://github.com/cordiverse/paper)
+  > A Programming Paradigm for Spatiotemporal Composability
+
+### [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO)
+- 🌟 👤 [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [ilyagr/diffedit3](https://github.com/ilyagr/diffedit3)
@@ -112,6 +153,10 @@
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [MSNightmare/ShieldBreak](https://github.com/MSNightmare/ShieldBreak)
   > Windows Defender 0day vulnerability
 
+### [SnowNF](https://github.com/SnowNF)
+- 🌟 👤 [SnowNF](https://github.com/SnowNF) Starred [ShareX/ShareX](https://github.com/ShareX/ShareX)
+  > ShareX is a free and open-source application that enables users to capture or record any area of the...
+
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [RongleCat/grok-app](https://github.com/RongleCat/grok-app)
   > Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)
@@ -120,16 +165,38 @@
 - 🌟 👤 [Steesha](https://github.com/Steesha) Starred [NtQuery/Scylla](https://github.com/NtQuery/Scylla)
   > Imports Reconstructor
 
+### [SummerSec](https://github.com/SummerSec)
+- 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [omdsh-dev/dsh-notification](https://github.com/omdsh-dev/dsh-notification)
+  > Desktop notifications for DeepSeek Harness turn completions, with per-outcome controls and include/e...
+- 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [lhh010/dsh-bash-encoding](https://github.com/lhh010/dsh-bash-encoding)
+  > DSH bash 输出编码自动识别插件：替换 ctx.bash，自管 spawn 收集原始字节，自动检测 UTF-16LE/UTF-8/GBK 等编码并正确解码，修复 WSL/Windows 下 ba...
+- 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
+### [TKazer](https://github.com/TKazer)
+- 🌟 👤 [TKazer](https://github.com/TKazer) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
 ### [Th4nat0s](https://github.com/Th4nat0s)
 - 🚀 👤 [Th4nat0s](https://github.com/Th4nat0s) Made [ail-project/CCWget](https://github.com/ail-project/CCWget) public
   > Common Crawl Wget
 
 ### [ThomasThelen](https://github.com/ThomasThelen)
 - 🌟 👤 [ThomasThelen](https://github.com/ThomasThelen) Starred [phillord/horned-owl](https://github.com/phillord/horned-owl)
+- 🍴 👤 [ThomasThelen](https://github.com/ThomasThelen) Forked [RDFLib/pyLODE](https://github.com/RDFLib/pyLODE) to [ThomasThelen/pyLODE](https://github.com/ThomasThelen/pyLODE)
+  > An OWL ontology documentation tool using Python and templating, based on LODE
+
+### [Uevo001](https://github.com/Uevo001)
+- 🍴 👤 [Uevo001](https://github.com/Uevo001) Forked [huilang-me/CF-Server-Monitor](https://github.com/huilang-me/CF-Server-Monitor) to [Uevo001/CF-Server-Monitor](https://github.com/Uevo001/CF-Server-Monitor)
+  > 一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容...
 
 ### [V-E-O](https://github.com/V-E-O)
 - 🌟 👤 [V-E-O](https://github.com/V-E-O) Starred [HEXUXIU/M365-Copilot2API](https://github.com/HEXUXIU/M365-Copilot2API)
   > Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。
+
+### [WAY29](https://github.com/WAY29)
+- 🌟 👤 [WAY29](https://github.com/WAY29) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
+### [X1r0z](https://github.com/X1r0z)
+- 🌟 👤 [X1r0z](https://github.com/X1r0z) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
 ### [Yervant7](https://github.com/Yervant7)
 - 🍴 👤 [Yervant7](https://github.com/Yervant7) Forked [bmax121/KernelPatch](https://github.com/bmax121/KernelPatch) to [Yervant7/KernelPatch](https://github.com/Yervant7/KernelPatch)
@@ -138,6 +205,7 @@
 ### [YinMo19](https://github.com/YinMo19)
 - 🌟 👤 [YinMo19](https://github.com/YinMo19) Starred [ad-si/Woxi](https://github.com/ad-si/Woxi)
   > Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
+- 🌟 👤 [YinMo19](https://github.com/YinMo19) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
 ### [aaa1115910](https://github.com/aaa1115910)
 - 🌟 👤 [aaa1115910](https://github.com/aaa1115910) Starred [TheMythologist/GenP](https://github.com/TheMythologist/GenP)
@@ -150,9 +218,21 @@
 - 🌟 👤 [badboycxcc](https://github.com/badboycxcc) Starred [ropnop/impacket_static_binaries](https://github.com/ropnop/impacket_static_binaries)
   > Standalone binaries for Linux/Windows of Impacket's examples
 
+### [besscroft](https://github.com/besscroft)
+- 🌟 👤 [besscroft](https://github.com/besscroft) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
+### [c26root](https://github.com/c26root)
+- 🌟 👤 [c26root](https://github.com/c26root) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
 ### [calebstewart](https://github.com/calebstewart)
 - 🍴 👤 [calebstewart](https://github.com/calebstewart) Forked [Thunderbottom/nix-options-doc](https://github.com/Thunderbottom/nix-options-doc) to [calebstewart/nix-options-doc](https://github.com/calebstewart/nix-options-doc)
   > Generate multi-format documentation for NixOS module options
+
+### [chinleez](https://github.com/chinleez)
+- 🌟 👤 [chinleez](https://github.com/chinleez) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
+### [coder-pig](https://github.com/coder-pig)
+- 🌟 👤 [coder-pig](https://github.com/coder-pig) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
 ### [crvvdev](https://github.com/crvvdev)
 - 🍴 👤 [crvvdev](https://github.com/crvvdev) Forked [tianocore/edk2](https://github.com/tianocore/edk2) to [TadalaSoftware/edk2](https://github.com/TadalaSoftware/edk2)
@@ -184,10 +264,13 @@
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [yangyu91/aipoc](https://github.com/yangyu91/aipoc)
   > AI POC Thinking Skill - 从7468条真实POC中提炼的AI漏洞利用思维框架
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [memohai/Memoh](https://github.com/memohai/Memoh)
+  > ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and lon...
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [meepo-it/letsfinddomain-skill](https://github.com/meepo-it/letsfinddomain-skill)
   > A read-only AI skill for finding domain names, checking availability in bulk, and comparing renewal ...
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
 ### [elqahtani](https://github.com/elqahtani)
 - 🌟 👤 [elqahtani](https://github.com/elqahtani) Starred [kubernetes/kompose](https://github.com/kubernetes/kompose)
@@ -240,6 +323,12 @@
   > collected from LinkedIn scammers
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [aramosf/CVE-2026-68138](https://github.com/aramosf/CVE-2026-68138) to [gmh5225/CVE-2026-68138](https://github.com/gmh5225/CVE-2026-68138)
   > CVE-2026-68138 Linux qdisc rate-table race local privilege escalation PoC
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) to [gmh5225/deepseek-harness](https://github.com/gmh5225/deepseek-harness)
+
+### [hahwul](https://github.com/hahwul)
+- 🌟 👤 [hahwul](https://github.com/hahwul) Starred [crystal-loot/exception_page](https://github.com/crystal-loot/exception_page)
+  > An exceptional exception page for Crystal web libraries and frameworks
 
 ### [happydog-intj](https://github.com/happydog-intj)
 - 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
@@ -250,8 +339,13 @@
   > Quickly find differences and similarities in disassembled code
 
 ### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [binsync/binsync](https://github.com/binsync/binsync) to [HLND2T/binsync](https://github.com/HLND2T/binsync)
+  > A reversing plugin for cross-decompiler collaboration, built on git. 
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [binsync/binsync](https://github.com/binsync/binsync) to [hzqst/binsync](https://github.com/hzqst/binsync)
   > A reversing plugin for cross-decompiler collaboration, built on git. 
+
+### [imbaya2466](https://github.com/imbaya2466)
+- 🌟 👤 [imbaya2466](https://github.com/imbaya2466) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
 ### [jhalon](https://github.com/jhalon)
 - 🍴 👤 [jhalon](https://github.com/jhalon) Forked [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp) to [jhalon/binary_ninja_mcp](https://github.com/jhalon/binary_ninja_mcp)
@@ -284,6 +378,18 @@
 ### [keleus](https://github.com/keleus)
 - 🌟 👤 [keleus](https://github.com/keleus) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
   > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave ...
+- 🌟 👤 [keleus](https://github.com/keleus) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
+### [kenvix](https://github.com/kenvix)
+- 🌟 👤 [kenvix](https://github.com/kenvix) Starred [luolangaga/tubatools](https://github.com/luolangaga/tubatools)
+  > 图吧工具箱 winUI3 版
+
+### [lanyi233](https://github.com/lanyi233)
+- 🌟 👤 [lanyi233](https://github.com/lanyi233) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
+### [linxid](https://github.com/linxid)
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL)
+  > Scalable toolkit for efficient model reinforcement
 
 ### [luochuanyuewu](https://github.com/luochuanyuewu)
 - 🌟 👤 [luochuanyuewu](https://github.com/luochuanyuewu) Starred [pro-laico/payload-plugins](https://github.com/pro-laico/payload-plugins)
@@ -306,6 +412,12 @@
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [lemomo-ai/codex-radar](https://github.com/lemomo-ai/codex-radar)
   > A Codex CLI plugin that grades how you collaborate with Codex across 9 dimensions in 3 categories — ...
+
+### [namename333](https://github.com/namename333)
+- 🌟 👤 [namename333](https://github.com/namename333) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
+### [nblog](https://github.com/nblog)
+- 🌟 👤 [nblog](https://github.com/nblog) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
@@ -341,6 +453,9 @@
 - 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [pnnbao97/VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS)
   > Vietnamese TTS with instant voice cloning • On-device • Real-time CPU inference • 24kHz audio qualit...
 
+### [ret2ldz](https://github.com/ret2ldz)
+- 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
 ### [retme7](https://github.com/retme7)
 - 🌟 👤 [retme7](https://github.com/retme7) Starred [stared/benching-local-llms-on-apple-silicon](https://github.com/stared/benching-local-llms-on-apple-silicon)
   > Qwen 3.6 - llama.cpp (with or without MTP) vs mlx-ml benchmark
@@ -351,6 +466,13 @@
 - 🌟 👤 [revercc](https://github.com/revercc) Starred [manyuegong33/r0crawl_skills](https://github.com/manyuegong33/r0crawl_skills)
   > r0crawl_skills is a massive reverse-engineering skill arsenal for web, Android, iOS, Frida, native b...
 
+### [riusksk](https://github.com/riusksk)
+- 🌟 👤 [riusksk](https://github.com/riusksk) Starred [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)
+  > 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
+
+### [semlinker](https://github.com/semlinker)
+- 🌟 👤 [semlinker](https://github.com/semlinker) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
   > the runtime your coding agents live on
@@ -360,6 +482,11 @@
 ### [smallfawn](https://github.com/smallfawn)
 - 🌟 👤 [smallfawn](https://github.com/smallfawn) Starred [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free)
   > 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！
+
+### [std-microblock](https://github.com/std-microblock)
+- 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [cordiverse/paper](https://github.com/cordiverse/paper)
+  > A Programming Paradigm for Spatiotemporal Composability
+- 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
 ### [stuxnet147](https://github.com/stuxnet147)
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [mrphrazer/msynth](https://github.com/mrphrazer/msynth)
@@ -393,6 +520,9 @@
 - 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [joernio/joern](https://github.com/joernio/joern)
   > Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code prop...
 
+### [waruqi](https://github.com/waruqi)
+- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
 ### [winezer0](https://github.com/winezer0)
 - 🌟 👤 [winezer0](https://github.com/winezer0) Starred [smallnest/pigo](https://github.com/smallnest/pigo)
   > pi agent in Golang
@@ -402,6 +532,10 @@
   > Easily create AI projects with Python on edge device
 - 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [cnlohr/mini-rv32ima](https://github.com/cnlohr/mini-rv32ima)
   > A tiny C header-only risc-v emulator.
+
+### [x-spy](https://github.com/x-spy)
+- 🍴 👤 [x-spy](https://github.com/x-spy) Forked [symgraph/BinAssistMCP](https://github.com/symgraph/BinAssistMCP) to [x-spy/BinAssistMCP](https://github.com/x-spy/BinAssistMCP)
+  > Binary Ninja plugin to provide MCP functionality.
 
 ### [x0rz4](https://github.com/x0rz4)
 - 🌟 👤 [x0rz4](https://github.com/x0rz4) Starred [0401lucky/narra-image](https://github.com/0401lucky/narra-image)
@@ -414,6 +548,7 @@
 ### [xiaobfly](https://github.com/xiaobfly)
 - 🌟 👤 [xiaobfly](https://github.com/xiaobfly) Starred [llnl/OGhidra](https://github.com/llnl/OGhidra)
   > OGhidra bridges Large Language Models (LLMs) via Ollama with the Ghidra reverse engineering platform...
+- 🌟 👤 [xiaobfly](https://github.com/xiaobfly) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
 ### [xiaoweigege](https://github.com/xiaoweigege)
 - 🌟 👤 [xiaoweigege](https://github.com/xiaoweigege) Starred [walterwhite-69/ViperTLS](https://github.com/walterwhite-69/ViperTLS)
@@ -447,15 +582,25 @@
 - 🌟 👤 [yaofeifly](https://github.com/yaofeifly) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
   > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
 
+### [yggo](https://github.com/yggo)
+- 🌟 👤 [yggo](https://github.com/yggo) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
 ### [zinja-coder](https://github.com/zinja-coder)
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [BishopFox/bfdecrypt](https://github.com/BishopFox/bfdecrypt)
   > Utility to decrypt App Store apps on jailbroken iOS 11.x
+
+### [zpp0196](https://github.com/zpp0196)
+- 🌟 👤 [zpp0196](https://github.com/zpp0196) Starred [mobile-shell/mosh](https://github.com/mobile-shell/mosh)
+  > Mobile Shell
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
   > Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package...
 
+### [zzzcccyyyggg](https://github.com/zzzcccyyyggg)
+- 🌟 👤 [zzzcccyyyggg](https://github.com/zzzcccyyyggg) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
 
 ---
-*最后更新于 2026-08-13 11:45:43 UTC*
+*最后更新于 2026-08-13 13:09:11 UTC*
 *历史记录保存在 `archive` 目录中。*
