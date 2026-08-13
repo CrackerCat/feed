@@ -8,9 +8,15 @@
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [huangwb8/skills](https://github.com/huangwb8/skills)
   > General Skills Development Pipeline - Claude Code & Codex
 
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [Mobile-IoT-Security-Lab/LLMObfuscDetection](https://github.com/Mobile-IoT-Security-Lab/LLMObfuscDetection)
+  > LLM Obfuscation Detection Framework for Android Apps
+
 ### [0xbug](https://github.com/0xbug)
 - 🌟 👤 [0xbug](https://github.com/0xbug) Starred [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX)
   > AI 自主渗透测试系统
+- 🌟 👤 [0xbug](https://github.com/0xbug) Starred [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+  > Find, verify, and analyze leaked credentials
 
 ### [1193776794](https://github.com/1193776794)
 - 🌟 👤 [1193776794](https://github.com/1193776794) Starred [1193776794/launch](https://github.com/1193776794/launch)
@@ -39,6 +45,7 @@
 ### [H4ckForJob](https://github.com/H4ckForJob)
 - 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [QiuKuBoy/code-audit-docker](https://github.com/QiuKuBoy/code-audit-docker)
   > AI-powered code security audit platform (Docker deployment)
+- 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [mhtsec/GeoServer-jsonArrayContains-PG-RCE](https://github.com/mhtsec/GeoServer-jsonArrayContains-PG-RCE)
 
 ### [HdShare](https://github.com/HdShare)
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [HdShare/WAuxiliary_Public](https://github.com/HdShare/WAuxiliary_Public)
@@ -51,6 +58,10 @@
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject)
 - 🍴 👤 [KuNgia09](https://github.com/KuNgia09) Forked [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject) to [KuNgia09/sukinject](https://github.com/KuNgia09/sukinject)
+
+### [Lz1y](https://github.com/Lz1y)
+- 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [Nuklon/Steam-Economy-Enhancer](https://github.com/Nuklon/Steam-Economy-Enhancer)
+  > Enhances the Steam Inventory and Steam Market.
 
 ### [MartinKayJr](https://github.com/MartinKayJr)
 - 🌟 👤 [MartinKayJr](https://github.com/MartinKayJr) Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
@@ -66,6 +77,10 @@
 - 🌟 👤 [Peterpan0927](https://github.com/Peterpan0927) Starred [cellebrite-labs/ida-bridge](https://github.com/cellebrite-labs/ida-bridge)
   > Bridge between agents and IDA Pro.
 
+### [PhoenixHairpin](https://github.com/PhoenixHairpin)
+- 🍴 👤 [PhoenixHairpin](https://github.com/PhoenixHairpin) Forked [zhaoboy9692/ydpc-keeplive](https://github.com/zhaoboy9692/ydpc-keeplive) to [PhoenixHairpin/ydpc-keeplive](https://github.com/PhoenixHairpin/ydpc-keeplive)
+  > 移动云电脑保活
+
 ### [SakuraKoi](https://github.com/SakuraKoi)
 - 🌟 👤 [SakuraKoi](https://github.com/SakuraKoi) Starred [Netw0rkNoob/VulnClaw](https://github.com/Netw0rkNoob/VulnClaw)
   > 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
@@ -80,6 +95,18 @@
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
   > Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor...
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)
+
+### [Skorpion96](https://github.com/Skorpion96)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [MSNightmare/ShieldBreak](https://github.com/MSNightmare/ShieldBreak)
+  > Windows Defender 0day vulnerability
+
+### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
+- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [RongleCat/grok-app](https://github.com/RongleCat/grok-app)
+  > Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)
+
+### [Steesha](https://github.com/Steesha)
+- 🌟 👤 [Steesha](https://github.com/Steesha) Starred [NtQuery/Scylla](https://github.com/NtQuery/Scylla)
+  > Imports Reconstructor
 
 ### [ThomasThelen](https://github.com/ThomasThelen)
 - 🌟 👤 [ThomasThelen](https://github.com/ThomasThelen) Starred [phillord/horned-owl](https://github.com/phillord/horned-owl)
@@ -99,6 +126,9 @@
 ### [aaa1115910](https://github.com/aaa1115910)
 - 🌟 👤 [aaa1115910](https://github.com/aaa1115910) Starred [TheMythologist/GenP](https://github.com/TheMythologist/GenP)
   > Automatically builds GenP executables from source
+
+### [antiwar3](https://github.com/antiwar3)
+- 🌟 👤 [antiwar3](https://github.com/antiwar3) Starred [oakboat/DisableNvidiaScreenshot](https://github.com/oakboat/DisableNvidiaScreenshot)
 
 ### [badboycxcc](https://github.com/badboycxcc)
 - 🌟 👤 [badboycxcc](https://github.com/badboycxcc) Starred [ropnop/impacket_static_binaries](https://github.com/ropnop/impacket_static_binaries)
@@ -120,10 +150,24 @@
 - 🍴 👤 [ctkqiang](https://github.com/ctkqiang) Forked [trymonoly/K8sPenTool](https://github.com/trymonoly/K8sPenTool) to [ctkqiang/K8sPenTool](https://github.com/ctkqiang/K8sPenTool)
   > 一款针对K8s综合利用GUI工具
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [ctkqiang/NezhaIDE](https://github.com/ctkqiang/NezhaIDE)
+- 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)
+  > AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and...
+- 🍴 👤 [ctkqiang](https://github.com/ctkqiang) Forked [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) to [ctkqiang/claude-bug-bounty](https://github.com/ctkqiang/claude-bug-bounty)
+  > AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and...
+- 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [nu11secur1ty/CVE-mitre](https://github.com/nu11secur1ty/CVE-mitre)
+  > https://cve.mitre.org/
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [Jakubantalik/Libraries](https://github.com/Jakubantalik/Libraries)
   > Collection of effects for React: Border beam, Liquid Gooey
+
+### [dzxpert](https://github.com/dzxpert)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [dmaivel/libdecomp](https://github.com/dmaivel/libdecomp)
+  > Library for decompiling multi-architecture disassembly (ARM64, X86, X86-64) into source code (C, Zig...
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [yangyu91/aipoc](https://github.com/yangyu91/aipoc)
+  > AI POC Thinking Skill - 从7468条真实POC中提炼的AI漏洞利用思维框架
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [meepo-it/letsfinddomain-skill](https://github.com/meepo-it/letsfinddomain-skill)
@@ -198,6 +242,10 @@
   > ai自动写小说工具
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [gna1280072/LeePanel](https://github.com/gna1280072/LeePanel)
   > Linux VPS control panel free software open source
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)
+  > 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [sunls24/scenemint](https://github.com/sunls24/scenemint)
+  > scenemint
 
 ### [jiqiu2022](https://github.com/jiqiu2022)
 - 🍴 👤 [jiqiu2022](https://github.com/jiqiu2022) Forked [Caldis/Mos](https://github.com/Caldis/Mos) to [jiqiu2022/Mos](https://github.com/jiqiu2022/Mos)
@@ -263,6 +311,10 @@
 - 🍴 👤 [pbek](https://github.com/pbek) Forked [KDE/syntax-highlighting](https://github.com/KDE/syntax-highlighting) to [pbek/kde-syntax-highlighting](https://github.com/pbek/kde-syntax-highlighting)
   > Syntax highlighting Engine for Structured Text and Code.
 
+### [quangnh89](https://github.com/quangnh89)
+- 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [pnnbao97/VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS)
+  > Vietnamese TTS with instant voice cloning • On-device • Real-time CPU inference • 24kHz audio qualit...
+
 ### [retme7](https://github.com/retme7)
 - 🌟 👤 [retme7](https://github.com/retme7) Starred [stared/benching-local-llms-on-apple-silicon](https://github.com/stared/benching-local-llms-on-apple-silicon)
   > Qwen 3.6 - llama.cpp (with or without MTP) vs mlx-ml benchmark
@@ -288,6 +340,10 @@
   > Nintendo 3DS dual-screen port of Zelda A Link to the Past based on zelda3
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [EstebanPdN/zelda-tmc-3ds](https://github.com/EstebanPdN/zelda-tmc-3ds)
   > Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori
+
+### [thelicato](https://github.com/thelicato)
+- 🌟 👤 [thelicato](https://github.com/thelicato) Starred [f3rb123/kill_flutter](https://github.com/f3rb123/kill_flutter)
+  > Flutter SSL Pinning Bypass Tool for Android & iOS — works on any Flutter version without pattern dat...
 
 ### [tiwe0](https://github.com/tiwe0)
 - 🌟 👤 [tiwe0](https://github.com/tiwe0) Starred [yaojingang/TokHub](https://github.com/yaojingang/TokHub)
@@ -333,6 +389,10 @@
 - 🌟 👤 [xixiaobei-bei](https://github.com/xixiaobei-bei) Starred [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
   > Using system APIs directly with adb/root privileges from normal apps through a Java process started ...
 
+### [xyxdaily](https://github.com/xyxdaily)
+- 🍴 👤 [xyxdaily](https://github.com/xyxdaily) Forked [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app) to [xyxdaily/ghostlock-app-cve](https://github.com/xyxdaily/ghostlock-app-cve)
+  > GhostLock One-Tap Execution App
+
 ### [y11en](https://github.com/y11en)
 - 🌟 👤 [y11en](https://github.com/y11en) Starred [tongzx/nt5src](https://github.com/tongzx/nt5src)
   > Source code of Windows XP (NT5). Leaks are not from me. I just extracted the archive and cabinet fil...
@@ -347,5 +407,5 @@
 
 
 ---
-*最后更新于 2026-08-13 08:20:07 UTC*
+*最后更新于 2026-08-13 10:05:01 UTC*
 *历史记录保存在 `archive` 目录中。*
