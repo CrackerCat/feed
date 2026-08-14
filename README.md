@@ -12,6 +12,10 @@
 - 🌟 👤 [20000s](https://github.com/20000s) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [C0untFloyd](https://github.com/C0untFloyd)
+- 🌟 👤 [C0untFloyd](https://github.com/C0untFloyd) Starred [MrJoiny/Idleon-Injector](https://github.com/MrJoiny/Idleon-Injector)
+  > Node / JS injector for Idleon, allowing code injection and runtime modification.
+
 ### [CasterWx](https://github.com/CasterWx)
 - 🌟 👤 [CasterWx](https://github.com/CasterWx) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -26,6 +30,12 @@
 - 🌟 👤 [Colorful-glassblock](https://github.com/Colorful-glassblock) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [AndyAiCardputer/zx-spectrum-cardputer](https://github.com/AndyAiCardputer/zx-spectrum-cardputer)
+  > ZX Spectrum 48K Emulator for M5Stack Cardputer
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [EugenyN/GLAZX](https://github.com/EugenyN/GLAZX)
+  > a small, open-source game for ZX Spectrum 48/128 in classic arcade style
+
 ### [Dere3046](https://github.com/Dere3046)
 - 🌟 👤 [Dere3046](https://github.com/Dere3046) Starred [Dere3046/HooKern](https://github.com/Dere3046/HooKern)
   > kernel hook library
@@ -33,13 +43,22 @@
 ### [Dispa1r](https://github.com/Dispa1r)
 - 🌟 👤 [Dispa1r](https://github.com/Dispa1r) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
+- 🌟 👤 [Dispa1r](https://github.com/Dispa1r) Starred [villager1314/CVE-2026-64560-Analysis](https://github.com/villager1314/CVE-2026-64560-Analysis)
 
 ### [Drun1baby](https://github.com/Drun1baby)
 - 🌟 👤 [Drun1baby](https://github.com/Drun1baby) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
+### [ErodedElk](https://github.com/ErodedElk)
+- 🌟 👤 [ErodedElk](https://github.com/ErodedElk) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+
 ### [G4rb3n](https://github.com/G4rb3n)
 - 🌟 👤 [G4rb3n](https://github.com/G4rb3n) Starred [Sangfor-AI/cybergym-submission-sangfor-ai-v2](https://github.com/Sangfor-AI/cybergym-submission-sangfor-ai-v2)
+
+### [GaoYuCan](https://github.com/GaoYuCan)
+- 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement)
+  > 二创爆改，懒得提交给原仓库了
 
 ### [H4ckForJob](https://github.com/H4ckForJob)
 - 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [cr0hn/nosqlinjection_wordlists](https://github.com/cr0hn/nosqlinjection_wordlists)
@@ -106,6 +125,10 @@
 - 🌟 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Starred [Nagi-ovo/dsh-ads](https://github.com/Nagi-ovo/dsh-ads)
   > 是兄弟就来蹬我！DSH Web UI 广告：2005 年中文站点风格的侧栏广告 / 对话内信息流 / 角落弹窗 + 一个真实热区比视觉小得多的关闭叉。素材全虚构，域名打码。
 
+### [NHPT](https://github.com/NHPT)
+- 🌟 👤 [NHPT](https://github.com/NHPT) Starred [MoShouSecurity/easyscan](https://github.com/MoShouSecurity/easyscan)
+  > Easy Scan — 跨平台桌面资产侦察工具：子域名枚举、端口扫描、Web 指纹、截图与漏洞检测
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [suleram/View8](https://github.com/suleram/View8)
   > View8 - Decompiles serialized V8 objects back into high-level readable code.
@@ -143,11 +166,17 @@
 ### [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO)
 - 🍴 👤 [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO) Forked [Aoripus-LTD/vLLM-Kunlun-Exp](https://github.com/Aoripus-LTD/vLLM-Kunlun-Exp) to [SetsunaYukiOvO/vLLM-Kunlun-Exp](https://github.com/SetsunaYukiOvO/vLLM-Kunlun-Exp)
   > vllm-kunlun for Kunlun P800-OAM 96G
+- 🌟 👤 [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO) Starred [Aoripus-LTD/vLLM-Kunlun-Exp](https://github.com/Aoripus-LTD/vLLM-Kunlun-Exp)
+  > vllm-kunlun for Kunlun P800-OAM 96G
 
 ### [SherlockChiang](https://github.com/SherlockChiang)
 - 🌟 👤 [SherlockChiang](https://github.com/SherlockChiang) Starred [Mercury000/SonyPods](https://github.com/Mercury000/SonyPods)
 - 🌟 👤 [SherlockChiang](https://github.com/SherlockChiang) Starred [Xposed-Modules-Repo/cn.xihan.qdds](https://github.com/Xposed-Modules-Repo/cn.xihan.qdds)
   > QDReadHook
+
+### [ShirkNeko](https://github.com/ShirkNeko)
+- 🍴 👤 [ShirkNeko](https://github.com/ShirkNeko) Forked [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) to [ShirkNeko/HyperCeiler](https://github.com/ShirkNeko/HyperCeiler)
+  > HyperOS enhancement module - Make HyperOS Great Again!
 
 ### [Silentsoul04](https://github.com/Silentsoul04)
 - 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
@@ -158,6 +187,10 @@
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife)
   > The Ultimate Swiss Army Knife for Xray and Sing-box
+
+### [Skorpion96](https://github.com/Skorpion96)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [jianbuzhai698-ui/ios](https://github.com/jianbuzhai698-ui/ios)
+  > 神也自卑 iOS — iOS 全版本安全研究框架
 
 ### [Slzdude](https://github.com/Slzdude)
 - 🌟 👤 [Slzdude](https://github.com/Slzdude) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
@@ -188,6 +221,10 @@
 - 🍴 👤 [ThomasKing2014](https://github.com/ThomasKing2014) Forked [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) to [ThomasKing2014/deepseek-harness](https://github.com/ThomasKing2014/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [WayneDevMaze](https://github.com/WayneDevMaze)
+- 🌟 👤 [WayneDevMaze](https://github.com/WayneDevMaze) Starred [WayneDevMaze/AIDD_Data](https://github.com/WayneDevMaze/AIDD_Data)
+  > AIDD数据收集，目前以阿片受体中μ受体的数据收集为主
+
 ### [WooyunDota](https://github.com/WooyunDota)
 - 🌟 👤 [WooyunDota](https://github.com/WooyunDota) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -212,6 +249,8 @@
   > DeepSeek Harness: Everything is a Plugin.
 - 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv)
   > Virtual environment for Node.js & integrator with virtualenv
+- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [FunnelCakes/deepseek-harness-android](https://github.com/FunnelCakes/deepseek-harness-android)
+  > 在 Android/Termux 上原生运行 DeepSeek Harness 的一键部署脚本（含全部 Android 兼容修复）
 
 ### [XtrLumen](https://github.com/XtrLumen)
 - 🌟 👤 [XtrLumen](https://github.com/XtrLumen) Starred [orbien-org/orbien](https://github.com/orbien-org/orbien)
@@ -302,6 +341,10 @@
 - 🌟 👤 [boy-hack](https://github.com/boy-hack) Starred [chainreactors/aiscan](https://github.com/chainreactors/aiscan)
   > AI-driven pi-like agent for cyber security — single binary for  pentest, red team, bug  bounty
 
+### [breaking153](https://github.com/breaking153)
+- 🍴 👤 [breaking153](https://github.com/breaking153) Forked [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) to [breaking153/rig](https://github.com/breaking153/rig)
+  > ⚙️🦀 Build modular and scalable LLM Applications in Rust
+
 ### [c10udlnk](https://github.com/c10udlnk)
 - 🌟 👤 [c10udlnk](https://github.com/c10udlnk) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -309,6 +352,10 @@
 ### [chizhanyuefeng](https://github.com/chizhanyuefeng)
 - 🌟 👤 [chizhanyuefeng](https://github.com/chizhanyuefeng) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
+
+### [cn-kali-team](https://github.com/cn-kali-team)
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend)
+  > Community maintained hardware plugin for vLLM on Ascend
 
 ### [codehz](https://github.com/codehz)
 - 🌟 👤 [codehz](https://github.com/codehz) Starred [AdamPlatin123/awesome-dsh-plugins](https://github.com/AdamPlatin123/awesome-dsh-plugins)
@@ -318,11 +365,24 @@
 - 🌟 👤 [coder-pig](https://github.com/coder-pig) Starred [tmux/tmux](https://github.com/tmux/tmux)
   > tmux source code
 
+### [cryzlasm](https://github.com/cryzlasm)
+- 🌟 👤 [cryzlasm](https://github.com/cryzlasm) Starred [jiji262/awesome-deepseek-harness](https://github.com/jiji262/awesome-deepseek-harness)
+
 ### [ctkqiang](https://github.com/ctkqiang)
 - 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 - 🍴 👤 [ctkqiang](https://github.com/ctkqiang) Forked [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) to [ctkqiang/deepseek-harness](https://github.com/ctkqiang/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
+
+### [cxapython](https://github.com/cxapython)
+- 🌟 👤 [cxapython](https://github.com/cxapython) Starred [zhaotoday/fingerprint-browser](https://github.com/zhaotoday/fingerprint-browser)
+  > 指纹浏览器（防关联浏览器）资源整理 - Fingerprint Browser (Antidetect Browser) Resources
+- 🍴 👤 [cxapython](https://github.com/cxapython) Forked [zhaotoday/fingerprint-browser](https://github.com/zhaotoday/fingerprint-browser) to [cxapython/fingerprint-browser](https://github.com/cxapython/fingerprint-browser)
+  > 指纹浏览器（防关联浏览器）资源整理 - Fingerprint Browser (Antidetect Browser) Resources
+
+### [darbra](https://github.com/darbra)
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [yangjian102621/geekai](https://github.com/yangjian102621/geekai)
+  > AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diff...
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [eclipse-zenoh/zenoh-kotlin](https://github.com/eclipse-zenoh/zenoh-kotlin)
@@ -334,6 +394,18 @@
   > Medigate plugin for c++ reverse engineering and other utils
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [doivedau/irecovery-rs](https://github.com/doivedau/irecovery-rs)
   > Native Rust port of libirecovery's Apple DFU/Recovery device identification — parse iBoot serial str...
+
+### [easychen](https://github.com/easychen)
+- 🌟 👤 [easychen](https://github.com/easychen) Starred [MatrAIx-ai/MatrAIx-Persona-8B](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B)
+  > Simulate Before Reality. 
+
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [dayanch96/YTLite](https://github.com/dayanch96/YTLite)
+  > A flexible enhancer for YouTube on iOS
+
+### [erfur](https://github.com/erfur)
+- 🍴 👤 [erfur](https://github.com/erfur) Forked [Bill13579/tabby](https://github.com/Bill13579/tabby) to [erfur/tabby](https://github.com/erfur/tabby)
+  > A web extension for managing great amounts of windows and tabs at ease.
 
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
@@ -348,6 +420,10 @@
   > Rojo enables Roblox developers to use professional-grade software engineering tools
 - 🍴 👤 [everettjf](https://github.com/everettjf) Forked [rojo-rbx/rojo](https://github.com/rojo-rbx/rojo) to [everettjf/rojo](https://github.com/everettjf/rojo)
   > Rojo enables Roblox developers to use professional-grade software engineering tools
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [smthdagg/wificalling-location-gateway](https://github.com/smthdagg/wificalling-location-gateway)
@@ -380,6 +456,14 @@
 - 🌟 👤 [hanc00l](https://github.com/hanc00l) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [hyuunnn](https://github.com/hyuunnn)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer)
+  > The best way to get AI coding agents to solve hard problems in complex codebases.
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [cordiverse/cordis](https://github.com/cordiverse/cordis)
+  > Meta-Framework of Spatiotemporal Composability
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [cordiverse/paper](https://github.com/cordiverse/paper)
+  > A Programming Paradigm for Spatiotemporal Composability
+
 ### [idkhidden](https://github.com/idkhidden)
 - 🌟 👤 [idkhidden](https://github.com/idkhidden) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
@@ -395,6 +479,9 @@
 ### [jeanboydev](https://github.com/jeanboydev)
 - 🌟 👤 [jeanboydev](https://github.com/jeanboydev) Starred [Zeejay0/gathered-scenes-zine-skill](https://github.com/Zeejay0/gathered-scenes-zine-skill)
 - 🍴 👤 [jeanboydev](https://github.com/jeanboydev) Forked [Zeejay0/gathered-scenes-zine-skill](https://github.com/Zeejay0/gathered-scenes-zine-skill) to [jeanboydev/gathered-scenes-zine-skill](https://github.com/jeanboydev/gathered-scenes-zine-skill)
+- 🌟 👤 [jeanboydev](https://github.com/jeanboydev) Starred [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)
+- 🌟 👤 [jeanboydev](https://github.com/jeanboydev) Starred [Evianis/travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction)
+  > A source-available Codex skill for distilling photographs into sparse editorial abstractions.
 
 ### [jianglin-code](https://github.com/jianglin-code)
 - 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
@@ -426,6 +513,14 @@
 - 🌟 👤 [killeven](https://github.com/killeven) Starred [outline/outline](https://github.com/outline/outline)
   > The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and...
 
+### [kin9-0rz](https://github.com/kin9-0rz)
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)
+  > DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0
+- 🍴 👤 [kin9-0rz](https://github.com/kin9-0rz) Forked [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) to [kin9-0rz/dsh-deep-whale](https://github.com/kin9-0rz/dsh-deep-whale)
+  > DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0
+- 🌟 👤 [kin9-0rz](https://github.com/kin9-0rz) Starred [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)
+  > Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side pan...
+
 ### [kingking888](https://github.com/kingking888)
 - 🌟 👤 [kingking888](https://github.com/kingking888) Starred [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)
   > OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。
@@ -453,6 +548,10 @@
 ### [madeye](https://github.com/madeye)
 - 🌟 👤 [madeye](https://github.com/madeye) Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)
   > A terminal workspace with batteries included
+- 🌟 👤 [madeye](https://github.com/madeye) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+- 🍴 👤 [madeye](https://github.com/madeye) Forked [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) to [madeye/deepseek-harness](https://github.com/madeye/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
 
 ### [merces](https://github.com/merces)
 - 🌟 👤 [merces](https://github.com/merces) Starred [lief-project/LIEF](https://github.com/lief-project/LIEF)
@@ -506,6 +605,10 @@
   > Headless IDA Pro MCP Server
 - 🌟 👤 [nzcv](https://github.com/nzcv) Starred [qubka/valijson](https://github.com/qubka/valijson)
   > Header-only C++ library for JSON Schema validation, with support for many popular parsers
+
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [pharo-project/pharo-vm](https://github.com/pharo-project/pharo-vm) to [frida/pharo-vm](https://github.com/frida/pharo-vm)
+  > This is the VM used by Pharo
 
 ### [ommadawn46](https://github.com/ommadawn46)
 - 🌟 👤 [ommadawn46](https://github.com/ommadawn46) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
@@ -572,6 +675,10 @@
 - 🌟 👤 [un4ckn0wl3z](https://github.com/un4ckn0wl3z) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [vipstone](https://github.com/vipstone)
+- 🌟 👤 [vipstone](https://github.com/vipstone) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+
 ### [wa1ki0g](https://github.com/wa1ki0g)
 - 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [vulhub/vulhub](https://github.com/vulhub/vulhub)
   > Pre-Built Vulnerable Environments Based on Docker-Compose
@@ -589,9 +696,23 @@
 - 🍴 👤 [wcedla](https://github.com/wcedla) Forked [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) to [wcedla/turb-gpt-free-register](https://github.com/wcedla/turb-gpt-free-register)
   > 指纹浏览器、纯协议全自动ChatGPT FREE注册机+Codex自动接码授权、对接提链服务器
 
+### [weizn11](https://github.com/weizn11)
+- 🍴 👤 [weizn11](https://github.com/weizn11) Forked [sgabe/DSVPWA](https://github.com/sgabe/DSVPWA) to [weizn11/DSVPWA](https://github.com/weizn11/DSVPWA)
+  > Damn Simple Vulnerable Python Web Application
+
+### [winezer0](https://github.com/winezer0)
+- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [oritera/Cairn](https://github.com/oritera/Cairn)
+  > A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
+- 🍴 👤 [winezer0](https://github.com/winezer0) Forked [oritera/Cairn](https://github.com/oritera/Cairn) to [winezer0/Cairn](https://github.com/winezer0/Cairn)
+  > A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
+
 ### [wkbin](https://github.com/wkbin)
 - 🌟 👤 [wkbin](https://github.com/wkbin) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
+
+### [wszxl516](https://github.com/wszxl516)
+- 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [orbien-org/orbien](https://github.com/orbien-org/orbien)
+  > 一个轻量高性能的内网穿透工具，二进制体积 5MB 左右，支持 TCP、QUIC、KCP、WebSocket 传输协议，支持 TCP、UDP、HTTP、HTTPS 协议代理，提供桌面客户端和服务端 We...
 
 ### [wxxsfxyzm](https://github.com/wxxsfxyzm)
 - 🍴 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Forked [Howard20181/Mi_AOSP_IME](https://github.com/Howard20181/Mi_AOSP_IME) to [wxxsfxyzm/Mi_AOSP_IME](https://github.com/wxxsfxyzm/Mi_AOSP_IME)
@@ -604,6 +725,14 @@
 - 🌟 👤 [x7dbg](https://github.com/x7dbg) Starred [LaoFeng-mouse/flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format)
   > 飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/...
 
+### [xdek42](https://github.com/xdek42)
+- 🌟 👤 [xdek42](https://github.com/xdek42) Starred [andrd3v/dcdev](https://github.com/andrd3v/dcdev)
+  > DeviceCheck iOS research 
+
+### [xiaolai](https://github.com/xiaolai)
+- 🍴 👤 [xiaolai](https://github.com/xiaolai) Forked [johnfactotum/foliate-js](https://github.com/johnfactotum/foliate-js) to [xiaolai/foliate-js](https://github.com/xiaolai/foliate-js)
+  > Render e-books in the browser
+
 ### [xingfengwxx](https://github.com/xingfengwxx)
 - 🌟 👤 [xingfengwxx](https://github.com/xingfengwxx) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -611,6 +740,12 @@
 ### [y11en](https://github.com/y11en)
 - 🌟 👤 [y11en](https://github.com/y11en) Starred [ReClassNET/ReClass.NET](https://github.com/ReClassNET/ReClass.NET)
   > More than a ReClass port to the .NET platform.
+
+### [yanyaoli](https://github.com/yanyaoli)
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [Awaker-OTE/readingspace-mn](https://github.com/Awaker-OTE/readingspace-mn)
+  > Reading Space MN — a reading workflow plugin for MarginNote 4.
+- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [Awaker-OTE/WakeGPT](https://github.com/Awaker-OTE/WakeGPT)
+  > A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex ...
 
 ### [yifengyou](https://github.com/yifengyou)
 - 🌟 👤 [yifengyou](https://github.com/yifengyou) Starred [chongshengB/BDY-G98-FNOS](https://github.com/chongshengB/BDY-G98-FNOS)
@@ -623,6 +758,10 @@
 ### [zenghongtu](https://github.com/zenghongtu)
 - 🌟 👤 [zenghongtu](https://github.com/zenghongtu) Starred [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)
 
+### [zhangyoufu](https://github.com/zhangyoufu)
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
 ### [zhengjim](https://github.com/zhengjim)
 - 🌟 👤 [zhengjim](https://github.com/zhengjim) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -632,11 +771,18 @@
 ### [zhuguohui](https://github.com/zhuguohui)
 - 🌟 👤 [zhuguohui](https://github.com/zhuguohui) Starred [asuojun/claude-vision-skill](https://github.com/asuojun/claude-vision-skill)
 
+### [zhuzhu-Top](https://github.com/zhuzhu-Top)
+- 🌟 👤 [zhuzhu-Top](https://github.com/zhuzhu-Top) Starred [villager1314/CVE-2026-64560-Analysis](https://github.com/villager1314/CVE-2026-64560-Analysis)
+
+### [zu1k](https://github.com/zu1k)
+- 🌟 👤 [zu1k](https://github.com/zu1k) Starred [erha19/ping-island](https://github.com/erha19/ping-island)
+  > A Dynamic Island-style command center for managing all your AI coding agents on macOS.
+
 ### [zxd1994](https://github.com/zxd1994)
 - 🌟 👤 [zxd1994](https://github.com/zxd1994) Starred [uu-code007/PixelFreeEffects](https://github.com/uu-code007/PixelFreeEffects)
   > ✨ 望图 PixelFree 美颜SDK - 全平台美颜特效引擎（iOS/Android/harmonyOS/windows/macOS/linux）| 直播/短视频/相机/照片处理 | 高性能+轻量...
 
 
 ---
-*最后更新于 2026-08-14 08:14:52 UTC*
+*最后更新于 2026-08-14 10:01:06 UTC*
 *历史记录保存在 `archive` 目录中。*
