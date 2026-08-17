@@ -1,108 +1,113 @@
-# 每日 GitHub 动态 (2026-08-16)
+# 每日 GitHub 动态 (2026-08-17)
 
 我关注用户的今日公开动态 (每15分钟更新)。
 
 ## 今日动态
 
-### [H4ckForJob](https://github.com/H4ckForJob)
-- 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [1y0n/oktos](https://github.com/1y0n/oktos)
-  > Oktos 是一款红队后渗透平台，作为 XRED.TEAM 的一部分。它采用了模块化设计，支持 BOF 动态加载、多信道异步通信与内存免杀，内置的 AI 助手可辅助编排或自动执行后渗透任务，为红队提供...
-- 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP)
-  > 服务端配置错误情况下用于伪造ip地址进行测试的Burp Suite插件
-- 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [berabuddies/redis-poc](https://github.com/berabuddies/redis-poc)
-  > RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [AwaisShah75/Real-Time-Person-Elderly-Fall-Detection-System](https://github.com/AwaisShah75/Real-Time-Person-Elderly-Fall-Detection-System)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive)
+  > [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [Eyeline-Labs/Vista4D](https://github.com/Eyeline-Labs/Vista4D)
+  > Official code, models, and data for Vista4D: Video Reshooting with 4D Point Clouds (CVPR 2026 Highli...
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [diego1401/GaussianWrapping](https://github.com/diego1401/GaussianWrapping)
+  > Official implementation of "From Blobs to Spokes: High-Fidelity Surface Reconstruction via Oriented ...
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [utahmobl/opencap-monocular](https://github.com/utahmobl/opencap-monocular)
+  > OpenCap Monocular: 3D Human Kinematics and Dynamics From a Single Smartphone Video
 
-### [HappyMax0](https://github.com/HappyMax0)
-- 🌟 👤 [HappyMax0](https://github.com/HappyMax0) Starred [HarborLibrary/Political-Science](https://github.com/HarborLibrary/Political-Science)
-  > 政治 
+### [People-11](https://github.com/People-11)
+- 🌟 👤 [People-11](https://github.com/People-11) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
+  > GhostLock One-Tap Execution App
 
-### [Moe-hacker](https://github.com/Moe-hacker)
-- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [exo-explore/llama98.c](https://github.com/exo-explore/llama98.c)
-  > Inference Llama models in one file of pure C for Windows 98 running on 25-year-old hardware
-- 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [lunzima/llama98-zh](https://github.com/lunzima/llama98-zh)
+### [SnowNF](https://github.com/SnowNF)
+- 🌟 👤 [SnowNF](https://github.com/SnowNF) Starred [clice-io/clice](https://github.com/clice-io/clice)
+  > A next-generation C++ language server for modern C++, focused on high performance and deep code inte...
 
-### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
-- 🍴 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Forked [nooblong/bilibili-api](https://github.com/nooblong/bilibili-api) to [Utility-Software-Collection/bilibili-api-backup](https://github.com/Utility-Software-Collection/bilibili-api-backup)
+### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
+- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [djskncxm/DuckREVM](https://github.com/djskncxm/DuckREVM)
+  > 抽象出来的还原框架
+- 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
+  > The world's fastest apk (android)/java open source decompiler
 
-### [OnesoftQwQ](https://github.com/OnesoftQwQ)
-- 🌟 👤 [OnesoftQwQ](https://github.com/OnesoftQwQ) Starred [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)
-  > 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案
+### [YinMo19](https://github.com/YinMo19)
+- 🌟 👤 [YinMo19](https://github.com/YinMo19) Starred [missuo/kumone](https://github.com/missuo/kumone)
+  > 雲の音 — Native macOS NetEase Cloud Music client built with SwiftUI
 
-### [Xieansecn](https://github.com/Xieansecn)
-- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [xianfei/WakeupSchedule_BUPT](https://github.com/xianfei/WakeupSchedule_BUPT)
-  > Wakeup课程表BUPT专属优化版  欢迎下载及分享~
-- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [tKM9WsmQUaUgNttn3DGUsHkxG8/WakeupSchedule_Kotlin](https://github.com/tKM9WsmQUaUgNttn3DGUsHkxG8/WakeupSchedule_Kotlin)
-  > Wakeup课程表Kotlin重构版
+### [bibinocode](https://github.com/bibinocode)
+- 🌟 👤 [bibinocode](https://github.com/bibinocode) Starred [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection)
+  > A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Prote...
 
-### [acheong08](https://github.com/acheong08)
-- 🍴 👤 [acheong08](https://github.com/acheong08) Forked [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) to [acheong08/deepseek-harness](https://github.com/acheong08/deepseek-harness)
+### [cn-kali-team](https://github.com/cn-kali-team)
+- 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
-### [easychen](https://github.com/easychen)
-- 🌟 👤 [easychen](https://github.com/easychen) Starred [soren-labs/minimax-h3-colab](https://github.com/soren-labs/minimax-h3-colab)
-  > Reproducible MiniMax H3 Native, Spectrum, and TE-Speed deployment on a temporary Colab G4
-
-### [fjh658](https://github.com/fjh658)
-- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [firezone/firezone](https://github.com/firezone/firezone)
-  > Enterprise-ready zero-trust access platform built on WireGuard®.
+### [dartcv](https://github.com/dartcv)
+- 🌟 👤 [dartcv](https://github.com/dartcv) Starred [ktorio/ktor](https://github.com/ktorio/ktor)
+  > Framework for quickly creating connected applications in Kotlin with minimal effort
 
 ### [gh0stkey](https://github.com/gh0stkey)
-- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)
-  > 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案
-- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [xingj404-lab/dsh-desktop](https://github.com/xingj404-lab/dsh-desktop)
-  > deepseek harness desktop
-
-### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [mrexodia/dos-agent-environment](https://github.com/mrexodia/dos-agent-environment) to [gmh5225/dos-agent-environment](https://github.com/gmh5225/dos-agent-environment)
-  > A scriptable DOS 7.1 VM for coding agents.
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [defuse/auditician](https://github.com/defuse/auditician) to [gmh5225/auditician](https://github.com/gmh5225/auditician)
-  > Automated security audits with Claude Code
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)
+  > DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub a...
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
+  > A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)
+  > 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui)
+  > Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side pan...
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [toolclub/dsh-agent-team-gui](https://github.com/toolclub/dsh-agent-team-gui)
+  > Persistent multi-model agent squads for DeepSeek Harness — reusable teams, per-agent model/tool poli...
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams)
+  > AgentTeams plugin for DeepSeek Harness
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [omdsh-dev/dsh-at-file](https://github.com/omdsh-dev/dsh-at-file)
+  > Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach t...
+- 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve)
+  > 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · CO...
 
 ### [happydog-intj](https://github.com/happydog-intj)
-- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [3b1b/videos](https://github.com/3b1b/videos)
-  > Code for the manim-generated scenes used in 3blue1brown videos
-- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
-  > A community-maintained Python framework for creating mathematical animations. 
-
-### [hujiayucc](https://github.com/hujiayucc)
-- 🌟 👤 [hujiayucc](https://github.com/hujiayucc) Starred [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk)
-  > android-ndk for termux
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [stas00/ml-engineering](https://github.com/stas00/ml-engineering)
+  > Machine Learning Engineering Open Book
+- 🌟 👤 [happydog-intj](https://github.com/happydog-intj) Starred [CalvinXKY/InfraTech](https://github.com/CalvinXKY/InfraTech)
+  > 分享AI Infra知识&代码练习：PyTorch、vLLM/SGLang、slime/vime框架入门⚡️、性能加速🚀、大模型基础🧠、AI软硬件🔧等
 
 ### [hzqst](https://github.com/hzqst)
-- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) to [hzqst/basic-memory](https://github.com/hzqst/basic-memory)
-  > AI conversations that actually remember. Never re-explain your project to your AI again. Join our Di...
-- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) to [hzqst/codebase-memory-mcp](https://github.com/hzqst/codebase-memory-mcp)
-  > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) to [hzqst/dsh-routing-suite](https://github.com/hzqst/dsh-routing-suite)
+  > dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the tas...
 
-### [jianchang512](https://github.com/jianchang512)
-- 🍴 👤 [jianchang512](https://github.com/jianchang512) Forked [FireRedTeam/FireRedTTS3](https://github.com/FireRedTeam/FireRedTTS3) to [jianchang512/FireRedTTS3](https://github.com/jianchang512/FireRedTTS3)
-  > FireRedTTS3 with two variants: Base for multilingual and multi-dialect voice cloning, and Instruct f...
+### [lich4](https://github.com/lich4)
+- 🌟 👤 [lich4](https://github.com/lich4) Starred [vnpy/vnpy](https://github.com/vnpy/vnpy)
+  > 基于Python的开源量化交易平台开发框架
 
-### [jianglin-code](https://github.com/jianglin-code)
-- 🌟 👤 [jianglin-code](https://github.com/jianglin-code) Starred [riscv/learn](https://github.com/riscv/learn)
-  > Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. 
+### [linxid](https://github.com/linxid)
+- 🌟 👤 [linxid](https://github.com/linxid) Starred [GAIR-NLP/daVinci-LLM](https://github.com/GAIR-NLP/daVinci-LLM)
 
-### [jiji262](https://github.com/jiji262)
-- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer)
-  > 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
+### [ommadawn46](https://github.com/ommadawn46)
+- 🌟 👤 [ommadawn46](https://github.com/ommadawn46) Starred [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt)
+  > Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validat...
 
-### [kentcdodds](https://github.com/kentcdodds)
-- 🌟 👤 [kentcdodds](https://github.com/kentcdodds) Starred [cameronapak/kodys-pouch](https://github.com/cameronapak/kodys-pouch)
-  > Search Kody (kody.codes) Tools and Skills and paste a Mention into the Active Input.
+### [qtfreet00](https://github.com/qtfreet00)
+- 🌟 👤 [qtfreet00](https://github.com/qtfreet00) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
+  > The world's fastest apk (android)/java open source decompiler
 
-### [null-dev](https://github.com/null-dev)
-- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [cunarist/tokio-with-wasm](https://github.com/cunarist/tokio-with-wasm)
-  > Mimicking tokio functionalities on web browsers
+### [winezer0](https://github.com/winezer0)
+- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [GhabiX/SpineCodex](https://github.com/GhabiX/SpineCodex)
+  > An enhanced Codex CLI for complex, long-running software engineering tasks—resolving 89% more tasks ...
+- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [lkimuk/Wuwe](https://github.com/lkimuk/Wuwe)
+  > A framework for building intelligent agents
+- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [shinjiyu/mcp_guard](https://github.com/shinjiyu/mcp_guard)
+- 🌟 👤 [winezer0](https://github.com/winezer0) Starred [gastownhall/gastown](https://github.com/gastownhall/gastown)
+  > Gas Town - multi-agent workspace manager
 
-### [sh1ma](https://github.com/sh1ma)
-- 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)
-  > Bash for Agents
+### [xhz444](https://github.com/xhz444)
+- 🌟 👤 [xhz444](https://github.com/xhz444) Starred [Andrea-lyz/LKM-PathMask](https://github.com/Andrea-lyz/LKM-PathMask)
+  > Android LKM path masking module with KernelSU WebUI, blacklist scope, persistent config, and diagnos...
+- 🍴 👤 [xhz444](https://github.com/xhz444) Forked [Andrea-lyz/LKM-PathMask](https://github.com/Andrea-lyz/LKM-PathMask) to [xhz444/LKM-PathMask](https://github.com/xhz444/LKM-PathMask)
+  > Android LKM path masking module with KernelSU WebUI, blacklist scope, persistent config, and diagnos...
 
-### [xixiaobei-bei](https://github.com/xixiaobei-bei)
-- 🌟 👤 [xixiaobei-bei](https://github.com/xixiaobei-bei) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
-  > Run virtual machine on Android Phones
+### [yifengyou](https://github.com/yifengyou)
+- 🌟 👤 [yifengyou](https://github.com/yifengyou) Starred [ophub/linux-6.1.y-rockchip](https://github.com/ophub/linux-6.1.y-rockchip)
+  > This is Rockchip BSP kernel
 
 
 ---
-*最后更新于 2026-08-16 03:53:55 UTC*
+*最后更新于 2026-08-17 01:13:58 UTC*
 *历史记录保存在 `archive` 目录中。*
