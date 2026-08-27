@@ -8,6 +8,10 @@
 - 🌟 👤 [0linlin0](https://github.com/0linlin0) Starred [grisha/mod_python](https://github.com/grisha/mod_python)
   > mod_python
 
+### [0xBakeer](https://github.com/0xBakeer)
+- 🌟 👤 [0xBakeer](https://github.com/0xBakeer) Starred [0xBakeer/qwen38-flash-next-spark](https://github.com/0xBakeer/qwen38-flash-next-spark)
+  > Run Qwen3.8-Flash-Next (180B) on a single DGX Spark by keeping its 51B n-gram embedding table on NVM...
+
 ### [0xWhiteMage](https://github.com/0xWhiteMage)
 - 🌟 👤 [0xWhiteMage](https://github.com/0xWhiteMage) Starred [AEON-7/vllm-ultimate-dgx-spark](https://github.com/AEON-7/vllm-ultimate-dgx-spark)
   > AEON vLLM Ultimate — vLLM 0.27.1 built from source for DGX Spark / Blackwell (sm_121a/GB10). DSpark ...
@@ -37,6 +41,10 @@
 ### [AlexAltea](https://github.com/AlexAltea)
 - 🌟 👤 [AlexAltea](https://github.com/AlexAltea) Starred [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault)
   > A backup application for the Android Open Source Project.
+
+### [Anatdx](https://github.com/Anatdx)
+- 🌟 👤 [Anatdx](https://github.com/Anatdx) Starred [LyraVoid/Shirone](https://github.com/LyraVoid/Shirone)
+  > An expressive, anime-inspired blog theme built on Material 3 Expressive, Astro 7, and Svelte 5
 
 ### [AndnixSH](https://github.com/AndnixSH)
 - 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [thelok1s/florida-zygisk](https://github.com/thelok1s/florida-zygisk)
@@ -95,6 +103,10 @@
 - 🌟 👤 [GangJust](https://github.com/GangJust) Starred [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas)
   > 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 O...
 
+### [GermanAizek](https://github.com/GermanAizek)
+- 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [ARM-software/astc-encoder](https://github.com/ARM-software/astc-encoder)
+  > The Arm ASTC Encoder, a compressor command line tool and codec library for the Adaptive Scalable Tex...
+
 ### [H4ckForJob](https://github.com/H4ckForJob)
 - 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [v12-security/pocs](https://github.com/v12-security/pocs)
   > poc it like it's hot
@@ -110,6 +122,10 @@
   > Secure and fast microVMs for serverless computing.
 - 🌟 👤 [Hackerl](https://github.com/Hackerl) Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
   > If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
+
+### [HdShare](https://github.com/HdShare)
+- 🌟 👤 [HdShare](https://github.com/HdShare) Starred [JetBrains/fernflower](https://github.com/JetBrains/fernflower)
+  > Decompiler from Java bytecode to Java, used in IntelliJ IDEA.
 
 ### [ItsVixano](https://github.com/ItsVixano)
 - 🍴 👤 [ItsVixano](https://github.com/ItsVixano) Forked [quillpad/quillpad](https://github.com/quillpad/quillpad) to [ItsVixano/quillpad](https://github.com/ItsVixano/quillpad)
@@ -137,6 +153,8 @@
 ### [LasCC](https://github.com/LasCC)
 - 🌟 👤 [LasCC](https://github.com/LasCC) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
   > TypeScript-to-Native Compiler
+- 🌟 👤 [LasCC](https://github.com/LasCC) Starred [dobin/detonator](https://github.com/dobin/detonator)
+  > Orchestrate detonating redteam artifacts in VMs with different EDRs to see their detection surface. 
 
 ### [Lz1y](https://github.com/Lz1y)
 - 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [Paradoxis/DNSRPC-BOF](https://github.com/Paradoxis/DNSRPC-BOF)
@@ -185,6 +203,10 @@
 ### [NiTianErXing666](https://github.com/NiTianErXing666)
 - 🌟 👤 [NiTianErXing666](https://github.com/NiTianErXing666) Starred [polygraphene/key-attest-relay](https://github.com/polygraphene/key-attest-relay)
   > Relay Android key attestation between devices.
+
+### [No-Github](https://github.com/No-Github)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [SeaOf0/dsh-redteam-model](https://github.com/SeaOf0/dsh-redteam-model)
+  > 基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练...
 
 ### [OfficialKatana](https://github.com/OfficialKatana)
 - 🌟 👤 [OfficialKatana](https://github.com/OfficialKatana) Starred [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer)
@@ -264,6 +286,10 @@
 - 🌟 👤 [abdihaikal](https://github.com/abdihaikal) Starred [santifer/career-ops](https://github.com/santifer/career-ops)
   > Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a g...
 
+### [acheong08](https://github.com/acheong08)
+- 🌟 👤 [acheong08](https://github.com/acheong08) Starred [noperator/chromedb](https://github.com/noperator/chromedb)
+  > Read Chromium data (namely, cookies and local storage) straight from disk, without spinning up the b...
+
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [AmberSahdev/Open-Interface](https://github.com/AmberSahdev/Open-Interface)
   > Control Any Computer Using LLMs.
@@ -325,6 +351,10 @@
   > GhostLock One-Tap Execution App
 - 🌟 👤 [canyie](https://github.com/canyie) Starred [BuSung-dev/Root-My-Galaxy-Payloads](https://github.com/BuSung-dev/Root-My-Galaxy-Payloads)
   > Signed device profiles, mobile exploit payloads, and KernelSU artifacts for Root My Galaxy
+
+### [carlonluca](https://github.com/carlonluca)
+- 🌟 👤 [carlonluca](https://github.com/carlonluca) Starred [esphome/esphome](https://github.com/esphome/esphome)
+  > ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configurat...
 
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [Gaoshu705/QzoneArchive](https://github.com/Gaoshu705/QzoneArchive)
@@ -399,6 +429,14 @@
   > A fast expression-first evaluator and raw string-template engine for Go.
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [dwisiswant0/fasteval](https://github.com/dwisiswant0/fasteval)
   > A fast expression-first evaluator and raw string-template engine for Go.
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [dgryski/macos-minimal-sdk](https://github.com/dgryski/macos-minimal-sdk)
+  > Minimal but open SDK for developing small command line tools.
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [cfoust/cy](https://github.com/cfoust/cy)
+  > 🤖 time travel in the terminal
+
+### [dzxpert](https://github.com/dzxpert)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [deskflow/deskflow](https://github.com/deskflow/deskflow)
+  > Share a single keyboard and mouse between multiple computers.
 
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [remorses/gpuix](https://github.com/remorses/gpuix)
@@ -432,6 +470,10 @@
 ### [fanqieVip](https://github.com/fanqieVip)
 - 🌟 👤 [fanqieVip](https://github.com/fanqieVip) Starred [skydoves/compose-hotswan-issuetracker](https://github.com/skydoves/compose-hotswan-issuetracker)
   > 🦢 Compose Hot Reload for Android & KMP with Compose HotSwan. Instant UI updates on your running Andr...
+
+### [fir3z](https://github.com/fir3z)
+- 🌟 👤 [fir3z](https://github.com/fir3z) Starred [jakehvh/iocp-dispatch](https://github.com/jakehvh/iocp-dispatch)
+  > iocp dispatch injection
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [HexRaysSA/ida-nexus](https://github.com/HexRaysSA/ida-nexus)
@@ -493,6 +535,8 @@
   > A TTS that fits in your CPU (and pocket)
 - 🌟 👤 [iAklis](https://github.com/iAklis) Starred [oboroge0/hayamimi](https://github.com/oboroge0/hayamimi)
   > 早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser dashboard, speaker l...
+- 🌟 👤 [iAklis](https://github.com/iAklis) Starred [tailscale/tailcat](https://github.com/tailscale/tailcat)
+  > like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ### [iNUCi](https://github.com/iNUCi)
 - 🍴 👤 [iNUCi](https://github.com/iNUCi) Forked [andy-shev/linux](https://github.com/andy-shev/linux) to [iNUCi/linux](https://github.com/iNUCi/linux)
@@ -564,6 +608,10 @@
 - 🍴 👤 [lz6688](https://github.com/lz6688) Forked [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) to [lz6688/reverse-skill](https://github.com/lz6688/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [HackingLZ/sleepwalker](https://github.com/HackingLZ/sleepwalker)
+  > Passive backdoor implant that sniffs for a covert magic-packet trigger and runs tasks written in a c...
+
 ### [miner7222](https://github.com/miner7222)
 - 🍴 👤 [miner7222](https://github.com/miner7222) Forked [librepods-org/librepods](https://github.com/librepods-org/librepods) to [miner7222/librepods](https://github.com/miner7222/librepods)
   > AirPods liberated from Apple's ecosystem.
@@ -584,9 +632,17 @@
 - 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [coder/coder](https://github.com/coder/coder)
   > Secure environments for developers and their agents
 
+### [mrT4ntr4](https://github.com/mrT4ntr4)
+- 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [unknownhad/v8ctf-m150-exploit](https://github.com/unknownhad/v8ctf-m150-exploit)
+  > Exact-build Chrome M150 V8/JSPI sandbox escape PoC used to recover a Google v8CTF flag
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark) to [mrexodia/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/mrexodia/Qwen3.8-27B-SGLang-DGX-Spark)
   > Qwen3.8 27B on SGLang for DGX Spark
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/Qwen3.8-Flash-Next-Dual-DGX-Sparks](https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Dual-DGX-Sparks) to [mrexodia/Qwen3.8-Flash-Next-Dual-DGX-Sparks](https://github.com/mrexodia/Qwen3.8-Flash-Next-Dual-DGX-Sparks)
+  > Qwen3.8-Flash-Next-NVFP4 · 2× DGX Spark · SGLang TP2
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xBakeer/qwen38-flash-next-spark](https://github.com/0xBakeer/qwen38-flash-next-spark)
+  > Run Qwen3.8-Flash-Next (180B) on a single DGX Spark by keeping its 51B n-gram embedding table on NVM...
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
@@ -604,6 +660,10 @@
 - 🍴 👤 [nblog](https://github.com/nblog) Forked [apify/mcpc](https://github.com/apify/mcpc) to [nblog/mcpc](https://github.com/nblog/mcpc)
   > A universal CLI client for MCP. mcpc supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSO...
 
+### [noahware](https://github.com/noahware)
+- 🌟 👤 [noahware](https://github.com/noahware) Starred [noahware/pe](https://github.com/noahware/pe)
+  > portable executable file parser written in modern c++
+
 ### [nomango](https://github.com/nomango)
 - 🍴 👤 [nomango](https://github.com/nomango) Forked [yangchuansheng/derper](https://github.com/yangchuansheng/derper) to [nomango/derper](https://github.com/nomango/derper)
   > A slim build of Tailscale DERP relay server for self-hosted use with STUN support
@@ -618,6 +678,10 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [droidian/parse-android-dynparts](https://github.com/droidian/parse-android-dynparts)
   >  A tool to parse Android super partition layout
 
+### [oblique](https://github.com/oblique)
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)
+  > 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and m...
+
 ### [omeraydindev](https://github.com/omeraydindev)
 - 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [zpix1/yt-anti-translate](https://github.com/zpix1/yt-anti-translate)
   > Chrome extension to disable youtube video titles autotranslation
@@ -627,6 +691,10 @@
 ### [qazbnm456](https://github.com/qazbnm456)
 - 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)
   > Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
+
+### [r0eXpeR](https://github.com/r0eXpeR)
+- 🌟 👤 [r0eXpeR](https://github.com/r0eXpeR) Starred [celldock/celldock-for-mac](https://github.com/celldock/celldock-for-mac)
+  > Use cellular network, SMS, and calls on your Mac.
 
 ### [rabbitstack](https://github.com/rabbitstack)
 - 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight)
@@ -648,6 +716,10 @@
 - 🍴 👤 [revercc](https://github.com/revercc) Forked [JingMatrix/Vector](https://github.com/JingMatrix/Vector) to [revercc/Vector](https://github.com/revercc/Vector)
   > Modern Xposed Framework
 
+### [riba2534](https://github.com/riba2534)
+- 🌟 👤 [riba2534](https://github.com/riba2534) Starred [MengMengCode/VoCat](https://github.com/MengMengCode/VoCat)
+  > Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellul...
+
 ### [rogxo](https://github.com/rogxo)
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [airbus-seclab/warbirdvm](https://github.com/airbus-seclab/warbirdvm)
   > An analysis of the Warbird virtual-machine protection for the CI!g_pStore
@@ -664,12 +736,20 @@
   > Rust crate for bitfields and bit-enums
 - 🍴 👤 [seritools](https://github.com/seritools) Forked [SergioBenitez/proc-macro2-diagnostics](https://github.com/SergioBenitez/proc-macro2-diagnostics) to [osdyne/proc-macro2-diagnostics](https://github.com/osdyne/proc-macro2-diagnostics)
   > Diagnostics for stable and nightly proc-macros!
+- 🌟 👤 [seritools](https://github.com/seritools) Starred [YSRKEN/HSP-Decompiler](https://github.com/YSRKEN/HSP-Decompiler)
+  > Decompiler for Hot Soup Processor 2/3. Original source code written by Kitsutsuki.
 
 ### [shellsec](https://github.com/shellsec)
 - 🌟 👤 [shellsec](https://github.com/shellsec) Starred [lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6](https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6)
   > NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能...
 - 🍴 👤 [shellsec](https://github.com/shellsec) Forked [lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6](https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6) to [shellsec/5.6-JAILBREAK-NERV-codex-instruct-5.6](https://github.com/shellsec/5.6-JAILBREAK-NERV-codex-instruct-5.6)
   > NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能...
+
+### [sotasan](https://github.com/sotasan)
+- 🌟 👤 [sotasan](https://github.com/sotasan) Starred [remorses/gpuix](https://github.com/remorses/gpuix)
+  > Node.js & React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electr...
+- 🌟 👤 [sotasan](https://github.com/sotasan) Starred [a-h/templ](https://github.com/a-h/templ)
+  > A language for writing HTML user interfaces in Go.
 
 ### [stuxnet147](https://github.com/stuxnet147)
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [bllchmbrs/tokensmatter](https://github.com/bllchmbrs/tokensmatter)
@@ -822,5 +902,5 @@
 
 
 ---
-*最后更新于 2026-08-26 19:00:47 UTC*
+*最后更新于 2026-08-26 22:46:20 UTC*
 *历史记录保存在 `archive` 目录中。*
