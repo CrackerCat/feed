@@ -25,6 +25,10 @@
   > Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H...
 - 🌟 👤 [0xdad0](https://github.com/0xdad0) Starred [omacom/omarchy](https://github.com/omacom/omarchy)
   > Beautiful, Modern & Opinionated Linux
+- 🌟 👤 [0xdad0](https://github.com/0xdad0) Starred [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)
+  > Plugin for JADX to integrate MCP server
+- 🍴 👤 [0xdad0](https://github.com/0xdad0) Forked [SteynDewald/jadx-ollama-assist](https://github.com/SteynDewald/jadx-ollama-assist) to [0xdad0/jadx-ollama-assist](https://github.com/0xdad0/jadx-ollama-assist)
+  > Jadx Ollama Assist plugin for Jadx GUI
 
 ### [0xricksanchez](https://github.com/0xricksanchez)
 - 🌟 👤 [0xricksanchez](https://github.com/0xricksanchez) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
@@ -63,6 +67,14 @@
 ### [Cossack9989](https://github.com/Cossack9989)
 - 🌟 👤 [Cossack9989](https://github.com/Cossack9989) Starred [Luce-Org/lucebox](https://github.com/Luce-Org/lucebox)
   > LLM speculative inference server for heterogeneous hardware & consumer GPUs
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [microsoft/pdb-rs](https://github.com/microsoft/pdb-rs)
+  > Tools and documents for working with Microsoft PDB files, in Rust
+
+### [DeLuks2006](https://github.com/DeLuks2006)
+- 🌟 👤 [DeLuks2006](https://github.com/DeLuks2006) Starred [vitoplantamura/BugChecker](https://github.com/vitoplantamura/BugChecker)
+  > SoftICE-like kernel debugger for Windows 11
 
 ### [EZForever](https://github.com/EZForever)
 - 🌟 👤 [EZForever](https://github.com/EZForever) Starred [nanvix/nanvix](https://github.com/nanvix/nanvix)
@@ -107,6 +119,14 @@
 ### [Lake1059](https://github.com/Lake1059)
 - 🌟 👤 [Lake1059](https://github.com/Lake1059) Starred [DrC0ns0le/RTXVideoProcessor](https://github.com/DrC0ns0le/RTXVideoProcessor)
   > CLI tool to apply NVIDIA RTX VSR upscale and TrueHDR tone-mapping to any video files
+
+### [LimerBoy](https://github.com/LimerBoy)
+- 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [Meltedd/HVNC](https://github.com/Meltedd/HVNC)
+  > Standalone HVNC client and server, based on TinyNuke.
+
+### [LukeSerne](https://github.com/LukeSerne)
+- 🍴 👤 [LukeSerne](https://github.com/LukeSerne) Forked [hashcat/hashcat](https://github.com/hashcat/hashcat) to [LukeSerne/hashcat](https://github.com/LukeSerne/hashcat)
+  > World's fastest and most advanced password recovery utility
 
 ### [MinghaoLin2000](https://github.com/MinghaoLin2000)
 - 🌟 👤 [MinghaoLin2000](https://github.com/MinghaoLin2000) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
@@ -253,11 +273,19 @@
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [syswonder/hvisor](https://github.com/syswonder/hvisor)
   > Lightweight type-1 Rust Hypervisor for edge devices
 
+### [cetfor](https://github.com/cetfor)
+- 🌟 👤 [cetfor](https://github.com/cetfor) Starred [LouisHitchcock/FPVGate](https://github.com/LouisHitchcock/FPVGate)
+  > Affordable, Feature Rich, High-performance & Scalable FPV Race Timer Solution 
+
 ### [coderstory](https://github.com/coderstory)
 - 🍴 👤 [coderstory](https://github.com/coderstory) Forked [dsh-tauri-desk/deepseek-harness-desktop](https://github.com/dsh-tauri-desk/deepseek-harness-desktop) to [coderstory/deepseek-harness-desktop](https://github.com/coderstory/deepseek-harness-desktop)
   > DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / m...
 - 🍴 👤 [coderstory](https://github.com/coderstory) Forked [dsh-tauri-desk/dsh-tauri-plugins](https://github.com/dsh-tauri-desk/dsh-tauri-plugins) to [coderstory/dsh-tauri-plugins](https://github.com/coderstory/dsh-tauri-plugins)
   > All of the official DSH Tauri plugins in one place!
+
+### [cozis](https://github.com/cozis)
+- 🌟 👤 [cozis](https://github.com/cozis) Starred [renerocksai/omajop](https://github.com/renerocksai/omajop)
+  > A Joplin notes browser for the Omarchy shell bar
 
 ### [cristeigabriela](https://github.com/cristeigabriela)
 - 🌟 👤 [cristeigabriela](https://github.com/cristeigabriela) Starred [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector)
@@ -288,6 +316,8 @@
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [marktext/marktext](https://github.com/marktext/marktext)
   > 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [katana-project/slicer](https://github.com/katana-project/slicer)
+  > A modern Java reverse engineering tool for the web.
 
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
@@ -459,12 +489,6 @@
 - 🌟 👤 [lyming99](https://github.com/lyming99) Starred [openai/codex](https://github.com/openai/codex)
   > Lightweight coding agent that runs in your terminal
 
-### [mahaloz](https://github.com/mahaloz)
-- 🌟 👤 [mahaloz](https://github.com/mahaloz) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
-  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
-- 🍴 👤 [mahaloz](https://github.com/mahaloz) Forked [pwncollege/challenges](https://github.com/pwncollege/challenges) to [mahaloz/challenges](https://github.com/mahaloz/challenges)
-  > pwn.college challenges
-
 ### [mephi42](https://github.com/mephi42)
 - 🌟 👤 [mephi42](https://github.com/mephi42) Starred [BallDamage312/blizzard-in-baator](https://github.com/BallDamage312/blizzard-in-baator)
   > A public repository to download the Act I of Blizzard in Baator modification for Planescape: Torment...
@@ -483,15 +507,13 @@
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [tsgrgo/windows-update-disabler](https://github.com/tsgrgo/windows-update-disabler)
   > Disable/Enable Windows update with a lightweight batch tool.
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+  > A spy satellite simulator in your browser, except the data is real. Live open source spatial intelli...
+
 ### [mrT4ntr4](https://github.com/mrT4ntr4)
 - 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
   > A spy satellite simulator in your browser, except the data is real. Live open source spatial intelli...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thebabush/pi-memento](https://github.com/thebabush/pi-memento)
-  > Agents that edit their own memory: nested context transactions for the pi coding agent. Commit, comp...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binius-zk/binius64](https://github.com/binius-zk/binius64)
-  > Binary Proofs, Blazing Fast
 
 ### [muellan](https://github.com/muellan)
 - 🌟 👤 [muellan](https://github.com/muellan) Starred [omacom/omarchy](https://github.com/omacom/omarchy)
@@ -571,6 +593,7 @@
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [h0mbre/Lucid](https://github.com/h0mbre/Lucid)
   > An educational Bochs-based snapshot fuzzer project
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [Anderson00/Qt-NodesTool](https://github.com/Anderson00/Qt-NodesTool)
 
 ### [redbearder](https://github.com/redbearder)
 - 🌟 👤 [redbearder](https://github.com/redbearder) Starred [YishenTu/claudian](https://github.com/YishenTu/claudian)
@@ -668,5 +691,5 @@
 
 
 ---
-*最后更新于 2026-08-29 19:39:55 UTC*
+*最后更新于 2026-08-29 22:24:54 UTC*
 *历史记录保存在 `archive` 目录中。*
