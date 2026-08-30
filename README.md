@@ -19,6 +19,8 @@
 ### [AndnixSH](https://github.com/AndnixSH)
 - 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [und3ath/xollvm](https://github.com/und3ath/xollvm)
   > Modern LLVM Obfuscator
+- 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [shinchiro/mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake)
+  >  CMake-based MinGW-w64 Cross Toolchain 
 
 ### [AnkioTomas](https://github.com/AnkioTomas)
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)
@@ -84,10 +86,20 @@
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [tapparelj/gr-lora_sdr](https://github.com/tapparelj/gr-lora_sdr)
   > This is the fully-functional GNU Radio software-defined radio (SDR) implementation of a LoRa transce...
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [hecrj/icebreaker](https://github.com/hecrj/icebreaker)
+  > A local AI chat app powered by 🦀 Rust, 🧊 iced, 🤗 Hugging Face, and 🦙 llama.cpp
+
+### [MSNightmare](https://github.com/MSNightmare)
+- 🚀 👤 [MSNightmare](https://github.com/MSNightmare) Made [MSNightmare/PrettyPrague](https://github.com/MSNightmare/PrettyPrague) public
+  > GenDigital Avast Antivirus ZeroDay Elevation of Privileges Vulnerability
 
 ### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
 - 🌟 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Starred [aether1917/Haqi-Station](https://github.com/aether1917/Haqi-Station)
   > 哈气站 (Haqi Station) - 简洁的 Android 表情包管理应用，Flutter + Material Design 3
+
+### [NotRequiem](https://github.com/NotRequiem)
+- 🍴 👤 [NotRequiem](https://github.com/NotRequiem) Forked [laura240406/sandsifter](https://github.com/laura240406/sandsifter) to [NotRequiem/sandsifter](https://github.com/NotRequiem/sandsifter)
+  > The x86 processor fuzzer ported to python 3
 
 ### [Prslc](https://github.com/Prslc)
 - 🌟 👤 [Prslc](https://github.com/Prslc) Starred [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
@@ -118,6 +130,8 @@
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [aiskendi/pencarimovie-downloader](https://github.com/aiskendi/pencarimovie-downloader)
   > Local Telegram file downloader.
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+  > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
 
 ### [UEFI-code](https://github.com/UEFI-code)
 - 🍴 👤 [UEFI-code](https://github.com/UEFI-code) Forked [Roboparty/roboto_origin](https://github.com/Roboparty/roboto_origin) to [UEFI-code/roboto_origin](https://github.com/UEFI-code/roboto_origin)
@@ -126,6 +140,10 @@
 ### [ViRb3](https://github.com/ViRb3)
 - 🍴 👤 [ViRb3](https://github.com/ViRb3) Forked [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) to [ViRb3/LibreELEC.tv](https://github.com/ViRb3/LibreELEC.tv)
   > Just enough OS for KODI
+
+### [WitherOrNot](https://github.com/WitherOrNot)
+- 🍴 👤 [WitherOrNot](https://github.com/WitherOrNot) Forked [dr3murr/steam2-winfsp](https://github.com/dr3murr/steam2-winfsp) to [WitherOrNot/steam2-winfsp](https://github.com/WitherOrNot/steam2-winfsp)
+  > Mount loose Steam2 depot archives through WinFsp with a Qt 6 manager and ephemeral RAM writes
 
 ### [Xieansecn](https://github.com/Xieansecn)
 - 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [AdisonCavani/distro-grub-themes](https://github.com/AdisonCavani/distro-grub-themes)
@@ -165,6 +183,12 @@
 ### [ba0gu0](https://github.com/ba0gu0)
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
   > Claude Code skill to support Android app's reverse engineering
+
+### [cctv18](https://github.com/cctv18)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [skidworks-openengineering/SimpleBoot](https://github.com/skidworks-openengineering/SimpleBoot)
+  > SimpleBoot [BETA] - Turn your rooted Android phone into a bootable USB drive. Mount and boot ISOs vi...
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [chenxiaolong/MSD](https://github.com/chenxiaolong/MSD)
+  > Android app for emulating mass storage devices over USB
 
 ### [chsbuffer](https://github.com/chsbuffer)
 - 🍴 👤 [chsbuffer](https://github.com/chsbuffer) Forked [holly-hacker/EazFixer](https://github.com/holly-hacker/EazFixer) to [chsbuffer/EazFixer](https://github.com/chsbuffer/EazFixer)
@@ -232,6 +256,14 @@
 - 🍴 👤 [fyrlove](https://github.com/fyrlove) Forked [1013503897/boss-cli](https://github.com/1013503897/boss-cli) to [fyrlove/boss-cli](https://github.com/fyrlove/boss-cli)
   > 脱机搜 BOSS直聘 职位的 CLI / MCP 工具：Python 纯算复现 App 的 native 请求加签。
 
+### [ganyao114](https://github.com/ganyao114)
+- 🍴 👤 [ganyao114](https://github.com/ganyao114) Forked [utmapp/virglrenderer](https://github.com/utmapp/virglrenderer) to [ganyao114/virglrenderer](https://github.com/ganyao114/virglrenderer)
+  > https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5 VirGL virtual OpenGL renderer
+- 🍴 👤 [ganyao114](https://github.com/ganyao114) Forked [utmapp/qemu](https://github.com/utmapp/qemu) to [ganyao114/qemu](https://github.com/ganyao114/qemu)
+  > qemu with iOS host support
+- 🍴 👤 [ganyao114](https://github.com/ganyao114) Forked [osy/kvm-guest-drivers-windows](https://github.com/osy/kvm-guest-drivers-windows) to [ganyao114/kvm-guest-drivers-windows](https://github.com/ganyao114/kvm-guest-drivers-windows)
+  > Work on virtio-win/kvm-guest-drivers-windows see https://github.com/virtio-win/kvm-guest-drivers-win...
+
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [shiguredo/erlang-pre-commit](https://github.com/shiguredo/erlang-pre-commit) to [gmh5225/erlang-pre-commit](https://github.com/gmh5225/erlang-pre-commit)
 - 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
@@ -269,6 +301,8 @@
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)
   > git push no-mistakes
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [MobAI-App/simslim](https://github.com/MobAI-App/simslim)
+  > Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need
 
 ### [iamtorsten](https://github.com/iamtorsten)
 - 🍴 👤 [iamtorsten](https://github.com/iamtorsten) Forked [DudeGeorgesTG/tiktok-web-signer](https://github.com/DudeGeorgesTG/tiktok-web-signer) to [iamtorsten/tiktok-web-signer](https://github.com/iamtorsten/tiktok-web-signer)
@@ -445,6 +479,18 @@
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [daffainfo/vol-rs](https://github.com/daffainfo/vol-rs)
   > Volatility 3 ported to Rust. Same output, much faster.
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [MobAI-App/simslim](https://github.com/MobAI-App/simslim)
+  > Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [denoland/celld](https://github.com/denoland/celld)
+  > self-hosted, distributed Durable Objects
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drakoarmy/datadome-rs](https://github.com/drakoarmy/datadome-rs)
+  > High-end Rust DataDome deobfuscator & solver with VM disassembly — all 3 challenge types (tags, inte...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/bg-be-gone](https://github.com/cristeigabriela/bg-be-gone)
+  > Claude's attempt at making me a local, GPU-backed background remover using BiRefNet. Pretty good!
+
 ### [nblog](https://github.com/nblog)
 - 🌟 👤 [nblog](https://github.com/nblog) Starred [microsoft/windows-networking-tools](https://github.com/microsoft/windows-networking-tools)
   > Tools for viewing and managing Windows network configurations
@@ -472,6 +518,20 @@
 ### [quangnh89](https://github.com/quangnh89)
 - 🍴 👤 [quangnh89](https://github.com/quangnh89) Forked [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking) to [quangnh89/mcp-sequential-thinking](https://github.com/quangnh89/mcp-sequential-thinking)
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [DavidCarliez/trustmebro](https://github.com/DavidCarliez/trustmebro)
+  > Bypass llm guardrails by confusing it with fabricated tool output.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [therealdreg/okhi](https://github.com/therealdreg/okhi)
+  > Open Keylogger Hardware Implant - USB & PS2 Keyboards
+
+### [riba2534](https://github.com/riba2534)
+- 🌟 👤 [riba2534](https://github.com/riba2534) Starred [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat)
+  > rules-dat for mihomo
+- 🌟 👤 [riba2534](https://github.com/riba2534) Starred [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper)
+  > 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建
+- 🌟 👤 [riba2534](https://github.com/riba2534) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+
 ### [seritools](https://github.com/seritools)
 - 🌟 👤 [seritools](https://github.com/seritools) Starred [dr3murr/steam2-winfsp](https://github.com/dr3murr/steam2-winfsp)
   > Mount loose Steam2 depot archives through WinFsp with a Qt 6 manager and ephemeral RAM writes
@@ -488,6 +548,10 @@
 - 🌟 👤 [tfoldi](https://github.com/tfoldi) Starred [OpenRAL/openral](https://github.com/OpenRAL/openral)
   > Open-source Robot Agentic Layer
 
+### [ttttmr](https://github.com/ttttmr)
+- 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [tailscale/tailcat](https://github.com/tailscale/tailcat)
+  > like netcat, but over Tailscale's data plane, without Tailscale's control plane
+
 ### [uforever](https://github.com/uforever)
 - 🌟 👤 [uforever](https://github.com/uforever) Starred [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid)
   > An application to write OS images to USB drives, on Android, no root required.
@@ -498,9 +562,6 @@
 - 🌟 👤 [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz) Starred [arjun988/blender-skills](https://github.com/arjun988/blender-skills)
   > 94 specialist Blender skills for Cursor, Claude Code, Kiro & Codex -> MCP-powered production pipelin...
 
-### [waruqi](https://github.com/waruqi)
-- 🌟 👤 [waruqi](https://github.com/waruqi) Starred [xmake-addons/stm32-devel](https://github.com/xmake-addons/stm32-devel)
-
 ### [wkbin](https://github.com/wkbin)
 - 🌟 👤 [wkbin](https://github.com/wkbin) Starred [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli)
   > 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信
@@ -508,6 +569,10 @@
 ### [xiaotujinbnb](https://github.com/xiaotujinbnb)
 - 🌟 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Starred [1494389516/cloudphone-risk-detector](https://github.com/1494389516/cloudphone-risk-detector)
 - 🍴 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Forked [1494389516/cloudphone-risk-detector](https://github.com/1494389516/cloudphone-risk-detector) to [xiaotujinbnb/cloudphone-risk-detector](https://github.com/xiaotujinbnb/cloudphone-risk-detector)
+
+### [xunchahaha](https://github.com/xunchahaha)
+- 🍴 👤 [xunchahaha](https://github.com/xunchahaha) Forked [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) to [xunchahaha/WeFlow1](https://github.com/xunchahaha/WeFlow1)
+  > WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [chenb1522/nodelume](https://github.com/chenb1522/nodelume)
@@ -536,5 +601,5 @@
 
 
 ---
-*最后更新于 2026-08-30 17:56:34 UTC*
+*最后更新于 2026-08-30 20:47:08 UTC*
 *历史记录保存在 `archive` 目录中。*
