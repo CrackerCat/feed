@@ -15,6 +15,8 @@
 ### [AlexiaChen](https://github.com/AlexiaChen)
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
   > cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(i...
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml)
+  > WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-perfor...
 
 ### [AndnixSH](https://github.com/AndnixSH)
 - 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [und3ath/xollvm](https://github.com/und3ath/xollvm)
@@ -35,6 +37,8 @@
   > PyInstaller Extractor Next Generation
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [o2sh/onefetch](https://github.com/o2sh/onefetch)
   > Command-line Git information tool
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kolbicz/Cyanide](https://github.com/kolbicz/Cyanide)
+  > iOS tweak runner for kernel research, focused on Kolbicz-maintained tweaks and built on the DarkSwor...
 
 ### [Evian-Zhang](https://github.com/Evian-Zhang)
 - 🚀 👤 [Evian-Zhang](https://github.com/Evian-Zhang) Made [Evian-Zhang/awesome-rust-papers](https://github.com/Evian-Zhang/awesome-rust-papers) public
@@ -88,6 +92,8 @@
   > This is the fully-functional GNU Radio software-defined radio (SDR) implementation of a LoRa transce...
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [hecrj/icebreaker](https://github.com/hecrj/icebreaker)
   > A local AI chat app powered by 🦀 Rust, 🧊 iced, 🤗 Hugging Face, and 🦙 llama.cpp
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [Opener-Initiative/opener](https://github.com/Opener-Initiative/opener)
+  > Open reference implementation of the DECT-2020 NR protocol stack
 
 ### [MSNightmare](https://github.com/MSNightmare)
 - 🚀 👤 [MSNightmare](https://github.com/MSNightmare) Made [MSNightmare/PrettyPrague](https://github.com/MSNightmare/PrettyPrague) public
@@ -100,6 +106,20 @@
 ### [NotRequiem](https://github.com/NotRequiem)
 - 🍴 👤 [NotRequiem](https://github.com/NotRequiem) Forked [laura240406/sandsifter](https://github.com/laura240406/sandsifter) to [NotRequiem/sandsifter](https://github.com/NotRequiem/sandsifter)
   > The x86 processor fuzzer ported to python 3
+
+### [PhoenixHairpin](https://github.com/PhoenixHairpin)
+- 🌟 👤 [PhoenixHairpin](https://github.com/PhoenixHairpin) Starred [RohitKushvaha01/ReTerminal](https://github.com/RohitKushvaha01/ReTerminal)
+  > A Simple Android Terminal Emulator
+- 🍴 👤 [PhoenixHairpin](https://github.com/PhoenixHairpin) Forked [RohitKushvaha01/ReTerminal](https://github.com/RohitKushvaha01/ReTerminal) to [PhoenixHairpin/ReTerminal](https://github.com/PhoenixHairpin/ReTerminal)
+  > A Simple Android Terminal Emulator
+- 🌟 👤 [PhoenixHairpin](https://github.com/PhoenixHairpin) Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)
+  > OpenMinis — The AI Agent app across platforms. Fully free and open source.
+- 🍴 👤 [PhoenixHairpin](https://github.com/PhoenixHairpin) Forked [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) to [PhoenixHairpin/OpenMinis](https://github.com/PhoenixHairpin/OpenMinis)
+  > OpenMinis — The AI Agent app across platforms. Fully free and open source.
+- 🌟 👤 [PhoenixHairpin](https://github.com/PhoenixHairpin) Starred [omnimind-ai/OmniBot](https://github.com/omnimind-ai/OmniBot)
+  > Your on-phone / mobile AI Agent / Claw, capable of operating terminals and performing a wide range o...
+- 🍴 👤 [PhoenixHairpin](https://github.com/PhoenixHairpin) Forked [omnimind-ai/OmniBot](https://github.com/omnimind-ai/OmniBot) to [PhoenixHairpin/OmniBot](https://github.com/PhoenixHairpin/OmniBot)
+  > Your on-phone / mobile AI Agent / Claw, capable of operating terminals and performing a wide range o...
 
 ### [Prslc](https://github.com/Prslc)
 - 🌟 👤 [Prslc](https://github.com/Prslc) Starred [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
@@ -184,6 +204,10 @@
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
   > Claude Code skill to support Android app's reverse engineering
 
+### [badboycxcc](https://github.com/badboycxcc)
+- 🌟 👤 [badboycxcc](https://github.com/badboycxcc) Starred [hypnguyen1209/CVE-2026-62911](https://github.com/hypnguyen1209/CVE-2026-62911)
+  > POC pre-auth RCE on Exchange
+
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [skidworks-openengineering/SimpleBoot](https://github.com/skidworks-openengineering/SimpleBoot)
   > SimpleBoot [BETA] - Turn your rooted Android phone into a bootable USB drive. Mount and boot ISOs vi...
@@ -201,6 +225,8 @@
 ### [cristeigabriela](https://github.com/cristeigabriela)
 - 🌟 👤 [cristeigabriela](https://github.com/cristeigabriela) Starred [Mixaill/FakePDB](https://github.com/Mixaill/FakePDB)
   > Tool for PDB generation from IDA Pro database
+- 🌟 👤 [cristeigabriela](https://github.com/cristeigabriela) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
 ### [crypto2011](https://github.com/crypto2011)
 - 🌟 👤 [crypto2011](https://github.com/crypto2011) Starred [feddy911/Reverser](https://github.com/feddy911/Reverser)
@@ -219,9 +245,6 @@
 ### [cxapython](https://github.com/cxapython)
 - 🍴 👤 [cxapython](https://github.com/cxapython) Forked [cv-cat/KuaiShou-Spider](https://github.com/cv-cat/KuaiShou-Spider) to [cxapython/KuaiShou-Spider](https://github.com/cxapython/KuaiShou-Spider)
   > 快手逆向，快手爬虫，快手全部api、直播间监听
-
-### [doodlewind](https://github.com/doodlewind)
-- 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [Eric-Song-Nop/zhongduan](https://github.com/Eric-Song-Nop/zhongduan)
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [hieunc229/mailflare](https://github.com/hieunc229/mailflare)
@@ -245,6 +268,14 @@
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [daffainfo/vol-rs](https://github.com/daffainfo/vol-rs)
   > Volatility 3 ported to Rust. Same output, much faster.
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [attacksurge/ax](https://github.com/attacksurge/ax)
+  > The Distributed Scanning Framework for Everybody! Control Your Infrastructure, Scale Your Scanning-O...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [uphiago/recon-skills](https://github.com/uphiago/recon-skills)
+  > Recon & pentest skill pack. CORS, XSS, SQLi, SSRF, RCE, WordPress, MCP, cloud, subdomain takeover, a...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+  > SecLists is the security tester's companion. It's a collection of multiple types of lists used durin...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [epi052/feroxbuster](https://github.com/epi052/feroxbuster)
+  > A fast, simple, recursive content discovery tool written in Rust.
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [duongductrong/Snapzy](https://github.com/duongductrong/Snapzy)
@@ -303,6 +334,8 @@
   > git push no-mistakes
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [MobAI-App/simslim](https://github.com/MobAI-App/simslim)
   > Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [BerriAI/litellm](https://github.com/BerriAI/litellm)
+  > The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) ...
 
 ### [iamtorsten](https://github.com/iamtorsten)
 - 🍴 👤 [iamtorsten](https://github.com/iamtorsten) Forked [DudeGeorgesTG/tiktok-web-signer](https://github.com/DudeGeorgesTG/tiktok-web-signer) to [iamtorsten/tiktok-web-signer](https://github.com/iamtorsten/tiktok-web-signer)
@@ -315,12 +348,6 @@
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [unschlagbar/pyronyx](https://github.com/unschlagbar/pyronyx)
   > Next gen Rust Vulkan bindings
-
-### [iscle](https://github.com/iscle)
-- 🍴 👤 [iscle](https://github.com/iscle) Forked [LineageOS/android_vendor_qcom_opensource_agm](https://github.com/LineageOS/android_vendor_qcom_opensource_agm) to [xiaomi-dada/android_vendor_qcom_opensource_agm](https://github.com/xiaomi-dada/android_vendor_qcom_opensource_agm)
-- 🍴 👤 [iscle](https://github.com/iscle) Forked [LineageOS/android_vendor_qcom_opensource_audioreach-graphservices](https://github.com/LineageOS/android_vendor_qcom_opensource_audioreach-graphservices) to [xiaomi-dada/android_vendor_qcom_opensource_audioreach-graphservices](https://github.com/xiaomi-dada/android_vendor_qcom_opensource_audioreach-graphservices)
-- 🍴 👤 [iscle](https://github.com/iscle) Forked [LineageOS/android_kernel_qcom_sm8750](https://github.com/LineageOS/android_kernel_qcom_sm8750) to [xiaomi-dada/android_kernel_qcom_sm8750](https://github.com/xiaomi-dada/android_kernel_qcom_sm8750)
-- 🍴 👤 [iscle](https://github.com/iscle) Forked [LineageOS/android_kernel_qcom_sm8750-modules](https://github.com/LineageOS/android_kernel_qcom_sm8750-modules) to [xiaomi-dada/android_kernel_qcom_sm8750-modules](https://github.com/xiaomi-dada/android_kernel_qcom_sm8750-modules)
 
 ### [jiji262](https://github.com/jiji262)
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [BloretCrew/CrewRouter](https://github.com/BloretCrew/CrewRouter)
@@ -463,10 +490,6 @@
 - 🍴 👤 [m4ll0k](https://github.com/m4ll0k) Forked [galleonlabs/hypergrok-trading-desk](https://github.com/galleonlabs/hypergrok-trading-desk) to [m4ll0k/hypergrok-trading-desk](https://github.com/m4ll0k/hypergrok-trading-desk)
   > Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bo...
 
-### [mahmoudimus](https://github.com/mahmoudimus)
-- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [The-Alpha-Project/alpha-core](https://github.com/The-Alpha-Project/alpha-core)
-  > 0.5.3 experimental emulator written in Python.
-
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
@@ -498,6 +521,10 @@
   > Dev Tunnels SDK
 - 🌟 👤 [nblog](https://github.com/nblog) Starred [sf0rzin/hinv](https://github.com/sf0rzin/hinv)
   > Hyper-Invisible kernel manual mapping loader & VT-x/EPT stealth debugging framework.
+
+### [niqiuqiux](https://github.com/niqiuqiux)
+- 🌟 👤 [niqiuqiux](https://github.com/niqiuqiux) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+  > A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project...
 
 ### [notilus67](https://github.com/notilus67)
 - 🌟 👤 [notilus67](https://github.com/notilus67) Starred [Reederey87/glm53-flash-exl3-2x-dgx-spark](https://github.com/Reederey87/glm53-flash-exl3-2x-dgx-spark)
@@ -537,12 +564,20 @@
   > Mount loose Steam2 depot archives through WinFsp with a Qt 6 manager and ephemeral RAM writes
 - 🌟 👤 [seritools](https://github.com/seritools) Starred [JHRobotics/smp.vxd](https://github.com/JHRobotics/smp.vxd)
   > Symmetric multiprocessor driver for Windows 9x (95/98/Me). This driver allow to utilize multi-core C...
+- 🌟 👤 [seritools](https://github.com/seritools) Starred [systremor/cn700-stuff](https://github.com/systremor/cn700-stuff)
+  > Stuff for VIA CN700 based PCs
 
 ### [sin5678](https://github.com/sin5678)
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll)
   > :electron: O-MVLL is a code obfuscation tool based on LLVM for native code (Android and iOS).
 - 🌟 👤 [sin5678](https://github.com/sin5678) Starred [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe)
   > No TrickyStore on Canoe
+
+### [sjshb57](https://github.com/sjshb57)
+- 🌟 👤 [sjshb57](https://github.com/sjshb57) Starred [Starfallan/PiliNara](https://github.com/Starfallan/PiliNara)
+  > PiliPlus 的第三方Fork版本，做了一些自用改动
+- 🌟 👤 [sjshb57](https://github.com/sjshb57) Starred [CYQawa/YunX](https://github.com/CYQawa/YunX)
+  > ✨一个安卓网盘解析下载app✨
 
 ### [tfoldi](https://github.com/tfoldi)
 - 🌟 👤 [tfoldi](https://github.com/tfoldi) Starred [OpenRAL/openral](https://github.com/OpenRAL/openral)
@@ -561,10 +596,6 @@
   > Community plugin to control Blender 3D with any LLM of your choice
 - 🌟 👤 [vaibhavpandeyvpz](https://github.com/vaibhavpandeyvpz) Starred [arjun988/blender-skills](https://github.com/arjun988/blender-skills)
   > 94 specialist Blender skills for Cursor, Claude Code, Kiro & Codex -> MCP-powered production pipelin...
-
-### [wkbin](https://github.com/wkbin)
-- 🌟 👤 [wkbin](https://github.com/wkbin) Starred [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli)
-  > 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信
 
 ### [xiaotujinbnb](https://github.com/xiaotujinbnb)
 - 🌟 👤 [xiaotujinbnb](https://github.com/xiaotujinbnb) Starred [1494389516/cloudphone-risk-detector](https://github.com/1494389516/cloudphone-risk-detector)
@@ -601,5 +632,5 @@
 
 
 ---
-*最后更新于 2026-08-30 20:47:08 UTC*
+*最后更新于 2026-08-30 23:13:49 UTC*
 *历史记录保存在 `archive` 目录中。*
