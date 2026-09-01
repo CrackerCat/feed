@@ -86,6 +86,10 @@
 - 🍴 👤 [CreditTone](https://github.com/CreditTone) Forked [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) to [CreditTone/LSPatch](https://github.com/CreditTone/LSPatch)
   > LSPatch: A non-root Xposed framework extending from LSPosed
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [hbofz/NeSLE](https://github.com/hbofz/NeSLE)
+  > GPU-native NES emulator + RL stack: thousands of parallel NES envs on one CUDA GPU, training PPO age...
+
 ### [DerekSelander](https://github.com/DerekSelander)
 - 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils)
   > Free and open-source macOS menu bar toolkit.
@@ -134,9 +138,17 @@
 - 🌟 👤 [Hamz-a](https://github.com/Hamz-a) Starred [facebook/mariana-trench](https://github.com/facebook/mariana-trench)
   > A security focused static analysis tool for Android and Java applications.
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Willian-2-0-0-1/burp-mcp-server](https://github.com/Willian-2-0-0-1/burp-mcp-server)
+  > Burp Suite MCP server with Repeater tab management and PoC evidence capture
+
 ### [K4ryuu](https://github.com/K4ryuu)
 - 🍴 👤 [K4ryuu](https://github.com/K4ryuu) Forked [samyycX/awesome-cs2](https://github.com/samyycX/awesome-cs2) to [K4ryuu/awesome-cs2](https://github.com/K4ryuu/awesome-cs2)
   > An awesome list for all available cs2 development information, including modding frameworks, develop...
+
+### [L4ys](https://github.com/L4ys)
+- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [AccursedGalaxy/omarchy-auto-theme](https://github.com/AccursedGalaxy/omarchy-auto-theme)
+  > Dynamic wallpaper-based theming for Omarchy 4.0 — matugen extracts a Material You palette from your ...
 
 ### [Lakr233](https://github.com/Lakr233)
 - 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler)
@@ -207,6 +219,10 @@
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [Skorpion96](https://github.com/Skorpion96)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [MSNightmare/PrettyPrague](https://github.com/MSNightmare/PrettyPrague)
+  > GenDigital Avast Antivirus ZeroDay Elevation of Privileges Vulnerability
+
 ### [Sndav](https://github.com/Sndav)
 - 🌟 👤 [Sndav](https://github.com/Sndav) Starred [citizenlab/wechat-report-data](https://github.com/citizenlab/wechat-report-data)
 
@@ -238,6 +254,10 @@
 ### [WitherOrNot](https://github.com/WitherOrNot)
 - 🌟 👤 [WitherOrNot](https://github.com/WitherOrNot) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+
+### [WsttXm](https://github.com/WsttXm)
+- 🌟 👤 [WsttXm](https://github.com/WsttXm) Starred [fkdwc/WhorlKit](https://github.com/fkdwc/WhorlKit)
+  > 设备指纹公开挑战：欢迎验证、攻击、修改、测试其稳定性与唯一性 | Try to break this offline device fingerprint
 
 ### [XiaoliChan](https://github.com/XiaoliChan)
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [MSNightmare/PrettyPrague](https://github.com/MSNightmare/PrettyPrague)
@@ -276,6 +296,10 @@
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 - 🌟 👤 [alexander-pick](https://github.com/alexander-pick) Starred [jprx/qemu-sptm](https://github.com/jprx/qemu-sptm)
   > Qemu fork with support for Apple Silicon (iOS/ macOS)
+
+### [asLody](https://github.com/asLody)
+- 🌟 👤 [asLody](https://github.com/asLody) Starred [gradio-app/trackio](https://github.com/gradio-app/trackio)
+  > A lightweight, local-first, and free experiment tracking library from Hugging Face 🤗
 
 ### [azurda](https://github.com/azurda)
 - 🍴 👤 [azurda](https://github.com/azurda) Forked [mandiant/flare-floss](https://github.com/mandiant/flare-floss) to [azurda/flare-floss](https://github.com/azurda/flare-floss)
@@ -341,6 +365,12 @@
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
   > </> htmx - high power tools for HTML
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [jart/dropbear](https://github.com/jart/dropbear)
+  > the apex market taker
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [ayutaz/sanoTTS-jp](https://github.com/ayutaz/sanoTTS-jp)
+  > 559K パラメータの日本語 TTS を ESP32-S3 で動かす試み（arXiv:2608.21378 sanoTTS の日本語再実装）。⚠️ 実機未検証
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [xevrion/breakscale](https://github.com/xevrion/breakscale)
+  > Build a system, load it until it breaks, and watch why. A system design simulator for learning distr...
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [folbricht/desync](https://github.com/folbricht/desync)
@@ -357,6 +387,10 @@
   > LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenA...
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [KSwordDEV/KSword](https://github.com/KSwordDEV/KSword)
   > [Windows toolkit for ARK] KSword 5.1 is an open-source Windows toolkit for ARK, kernel debugging, an...
+
+### [erfur](https://github.com/erfur)
+- 🍴 👤 [erfur](https://github.com/erfur) Forked [openchamber/opencode-claude](https://github.com/openchamber/opencode-claude) to [erfur/opencode-claude](https://github.com/erfur/opencode-claude)
+  > Anthropic provider plugin for OpenCode
 
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [rootdr-backup/Reconner](https://github.com/rootdr-backup/Reconner)
@@ -394,6 +428,8 @@
 
 ### [fulu2778](https://github.com/fulu2778)
 - 🌟 👤 [fulu2778](https://github.com/fulu2778) Starred [amvprosox/pixelOs-annibale](https://github.com/amvprosox/pixelOs-annibale)
+- 🍴 👤 [fulu2778](https://github.com/fulu2778) Forked [ReSukiSU-GKI/GKI_KernelSU_SUSFS](https://github.com/ReSukiSU-GKI/GKI_KernelSU_SUSFS) to [fulu2778/GKI_KernelSU_SUSFS](https://github.com/fulu2778/GKI_KernelSU_SUSFS)
+  > 包含 ReSukiSU 和 SUSFS 的GKI内核自动构建仓库，支持5.10 - 6.12的全部内核版本，支持以下可选功能: BBG & DroidSpaces & Extended zram al...
 
 ### [fynch3r](https://github.com/fynch3r)
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
@@ -459,6 +495,12 @@
 - 🍴 👤 [iamtorsten](https://github.com/iamtorsten) Forked [ish-app/ish](https://github.com/ish-app/ish) to [iamtorsten/ish](https://github.com/iamtorsten/ish)
   > Linux shell for iOS
 
+### [igorbrigadir](https://github.com/igorbrigadir)
+- 🌟 👤 [igorbrigadir](https://github.com/igorbrigadir) Starred [composify-js/composify](https://github.com/composify-js/composify)
+  > Server Driven UI made easy
+- 🌟 👤 [igorbrigadir](https://github.com/igorbrigadir) Starred [nauvalazhar/selia](https://github.com/nauvalazhar/selia)
+  > Interfaces That Feel Right, Out of the Box (For React)
+
 ### [imj01y](https://github.com/imj01y)
 - 🌟 👤 [imj01y](https://github.com/imj01y) Starred [1494389516/cloudphone-risk-detector](https://github.com/1494389516/cloudphone-risk-detector)
 - 🌟 👤 [imj01y](https://github.com/imj01y) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
@@ -499,6 +541,8 @@
   > Python library for Specialized Turbo e-bike BLE communication
 - 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [Sepp62/LevoEsp32Ble](https://github.com/Sepp62/LevoEsp32Ble)
   > Small Arduino library to get telemetry data from a Specialized Levo E-Bike
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [gamerpaddy/PCB-RevEng](https://github.com/gamerpaddy/PCB-RevEng)
+  > PCB RevEng stands for Reverse engineering and is a software to turn images of pcb layers into a netl...
 
 ### [jaredtao](https://github.com/jaredtao)
 - 🌟 👤 [jaredtao](https://github.com/jaredtao) Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
@@ -567,6 +611,10 @@
 ### [lemuellew](https://github.com/lemuellew)
 - 🌟 👤 [lemuellew](https://github.com/lemuellew) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+
+### [linuxmobile](https://github.com/linuxmobile)
+- 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [nolight132/sonora](https://github.com/nolight132/sonora)
+  > A native music streaming client, built with Rust and GPUI
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [thu-pacman/Puro-Megatron](https://github.com/thu-pacman/Puro-Megatron)
@@ -639,9 +687,17 @@
 - 🌟 👤 [motikan2010](https://github.com/motikan2010) Starred [sagishahar/lpeworkshop](https://github.com/sagishahar/lpeworkshop)
   > Windows / Linux Local Privilege Escalation Workshop
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks)
+  > Remove visible and invisible AI watermarks and provenance metadata from images and video. Python lib...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+  > Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+
 ### [mrT4ntr4](https://github.com/mrT4ntr4)
 - 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [openai/tiktoken](https://github.com/openai/tiktoken)
   > tiktoken is a fast BPE tokeniser for use with OpenAI's models.
+- 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [vp777/Windows-Kernel-Exploitation](https://github.com/vp777/Windows-Kernel-Exploitation)
+  > Techniques/tools on Windows kernel exploitation
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sam-paech/auto-antislop](https://github.com/sam-paech/auto-antislop)
@@ -737,6 +793,10 @@
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [ccusage/ccusage](https://github.com/ccusage/ccusage)
   > npx ccusage
+
+### [sigwl](https://github.com/sigwl)
+- 🌟 👤 [sigwl](https://github.com/sigwl) Starred [kaizer1308/reverse-slap](https://github.com/kaizer1308/reverse-slap)
+  > Windows reverse-engineering workbench with live memory analysis, debugging, decompilation, Frida ins...
 
 ### [sjshb57](https://github.com/sjshb57)
 - 🌟 👤 [sjshb57](https://github.com/sjshb57) Starred [sjshb57/waline-twitterarchiver](https://github.com/sjshb57/waline-twitterarchiver)
@@ -888,6 +948,10 @@
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)
   > The easiest, most secure way to use WireGuard and 2FA.
 
+### [yuaotian](https://github.com/yuaotian)
+- 🌟 👤 [yuaotian](https://github.com/yuaotian) Starred [yuaotian/antigravity-proxy](https://github.com/yuaotian/antigravity-proxy)
+  > 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. |...
+
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
@@ -902,5 +966,5 @@
 
 
 ---
-*最后更新于 2026-09-01 18:10:17 UTC*
+*最后更新于 2026-09-01 21:36:04 UTC*
 *历史记录保存在 `archive` 目录中。*
