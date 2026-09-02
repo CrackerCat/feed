@@ -17,13 +17,15 @@
 - 🌟 👤 [0x1c1101](https://github.com/0x1c1101) Starred [gtModLoader/osgt-qol](https://github.com/gtModLoader/osgt-qol)
   > Quality of life mod for Growtopia Windows V3.02 aimed at Oldschool Growtopia players.
 
+### [0xBakeer](https://github.com/0xBakeer)
+- 🌟 👤 [0xBakeer](https://github.com/0xBakeer) Starred [pangoleen/qwen3.8-27b-dgx-spark-dflash2](https://github.com/pangoleen/qwen3.8-27b-dgx-spark-dflash2)
+  > Qwen3.8-27B on one DGX Spark: SGLang + DFlash2 recipe, engine image, benchmarks, data and charts. By...
+- 🌟 👤 [0xBakeer](https://github.com/0xBakeer) Starred [vcruz305/DeepSeek-V4-Flash-Vision-EXL3-MixedK-DGX-Spark-recipe](https://github.com/vcruz305/DeepSeek-V4-Flash-Vision-EXL3-MixedK-DGX-Spark-recipe)
+  > Serve DeepSeek-V4-Flash-Vision EXL3 MixedK (full 256 experts) on one NVIDIA DGX Spark with vLLM — re...
+
 ### [0xWhiteMage](https://github.com/0xWhiteMage)
 - 🌟 👤 [0xWhiteMage](https://github.com/0xWhiteMage) Starred [MiaAI-Lab/Qwen3.8-27B-DFlash2-EXL3-5.0bpw](https://github.com/MiaAI-Lab/Qwen3.8-27B-DFlash2-EXL3-5.0bpw)
   > Deployment kit: Qwen3.8-27B EXL3 3.5bpw target + DFlash2 EXL3 5.0bpw speculative draft — launcher, c...
-
-### [0xdad0](https://github.com/0xdad0)
-- 🌟 👤 [0xdad0](https://github.com/0xdad0) Starred [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-  > An open-source AI coding agent that lives in your terminal.
 
 ### [Aar0n3906](https://github.com/Aar0n3906)
 - 🌟 👤 [Aar0n3906](https://github.com/Aar0n3906) Starred [lsnbm/Linux-android-arm64](https://github.com/lsnbm/Linux-android-arm64)
@@ -66,6 +68,8 @@
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [chobits/tapip](https://github.com/chobits/tapip)
   > user-mode TCP/IP stack based on linux tap device
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [SpecterOps/skills](https://github.com/SpecterOps/skills)
+  > A marketplace for LLM skills
 
 ### [Dispa1r](https://github.com/Dispa1r)
 - 🌟 👤 [Dispa1r](https://github.com/Dispa1r) Starred [huami1314/DarkSpeed](https://github.com/huami1314/DarkSpeed)
@@ -75,6 +79,12 @@
 ### [EgeBalci](https://github.com/EgeBalci)
 - 🍴 👤 [EgeBalci](https://github.com/EgeBalci) Forked [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) to [EgeBalci/Signal-Desktop](https://github.com/EgeBalci/Signal-Desktop)
   > A private messenger for Windows, macOS, and Linux.
+- 🌟 👤 [EgeBalci](https://github.com/EgeBalci) Starred [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi)
+  > Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
+- 🌟 👤 [EgeBalci](https://github.com/EgeBalci) Starred [wireshark/wireshark](https://github.com/wireshark/wireshark)
+  > Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're wel...
+- 🌟 👤 [EgeBalci](https://github.com/EgeBalci) Starred [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt)
+  > GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 
 ### [FBLeee](https://github.com/FBLeee)
 - 🌟 👤 [FBLeee](https://github.com/FBLeee) Starred [OrientalGlass/glass-stalker-trace](https://github.com/OrientalGlass/glass-stalker-trace)
@@ -93,6 +103,7 @@
   > Syncthing-Fork - A Syncthing Wrapper for Android.
 - 🍴 👤 [Howard20181](https://github.com/Howard20181) Forked [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) to [Howard20181/dsh-routing-suite](https://github.com/Howard20181/dsh-routing-suite)
   > dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the tas...
+- 🌟 👤 [Howard20181](https://github.com/Howard20181) Starred [Vvamp/Libhoudini-hpe-14-timebomb-patch](https://github.com/Vvamp/Libhoudini-hpe-14-timebomb-patch)
 
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [alibaba/p3c](https://github.com/alibaba/p3c)
@@ -170,6 +181,10 @@
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [FoggyBytes/StreamTweak](https://github.com/FoggyBytes/StreamTweak)
   > Your host, streaming-ready on demand.
 
+### [Twometer](https://github.com/Twometer)
+- 🌟 👤 [Twometer](https://github.com/Twometer) Starred [google-research/timesfm](https://github.com/google-research/timesfm)
+  > TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo...
+
 ### [WooyunDota](https://github.com/WooyunDota)
 - 🌟 👤 [WooyunDota](https://github.com/WooyunDota) Starred [yhy0/CHYing-agent](https://github.com/yhy0/CHYing-agent)
   > 腾讯云黑客松 - 智能渗透挑战赛 第一届Top9
@@ -217,6 +232,10 @@
 ### [blasty](https://github.com/blasty)
 - 🚀 👤 [blasty](https://github.com/blasty) Made [sl0p-foo/homebrew-slosh](https://github.com/sl0p-foo/homebrew-slosh) public
 
+### [brunodev85](https://github.com/brunodev85)
+- 🌟 👤 [brunodev85](https://github.com/brunodev85) Starred [brunodev85/winlator](https://github.com/brunodev85/winlator)
+  > Android application for running Windows applications with Wine and Box86/Box64
+
 ### [burpheart](https://github.com/burpheart)
 - 🌟 👤 [burpheart](https://github.com/burpheart) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk....
@@ -224,6 +243,10 @@
 ### [buzzer-re](https://github.com/buzzer-re)
 - 🌟 👤 [buzzer-re](https://github.com/buzzer-re) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+
+### [cctv18](https://github.com/cctv18)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [ExTV/rikkahub-agent](https://github.com/ExTV/rikkahub-agent)
+  > RikkaHub Agent -- is RikkaHub fork that have Full agent mode .
 
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode)
@@ -291,6 +314,10 @@
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
   > AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe c...
 
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [RevealedSoulEven/promon-string-deobfuscator](https://github.com/RevealedSoulEven/promon-string-deobfuscator)
+  > Promon Shield String Deobfuscator
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
   > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
@@ -299,9 +326,21 @@
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [7777Satish/Aether](https://github.com/7777Satish/Aether)
   > Code Editor in C
 
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [Nikolay-Tyulkin/Watti](https://github.com/Nikolay-Tyulkin/Watti)
+  > A desk lamp that's learning to be more than a lamp
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
+  > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
+
 ### [g0th1c54e4](https://github.com/g0th1c54e4)
 - 🌟 👤 [g0th1c54e4](https://github.com/g0th1c54e4) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
   > 🪅 Windows & Linux userspace emulator 
+
+### [gamelaster](https://github.com/gamelaster)
+- 🌟 👤 [gamelaster](https://github.com/gamelaster) Starred [aap/osdbits](https://github.com/aap/osdbits)
+  > parts of the Playstation2's OSDSYS reverse engineered
 
 ### [gerhart01](https://github.com/gerhart01)
 - 🌟 👤 [gerhart01](https://github.com/gerhart01) Starred [hfiref0x/SyscallTables](https://github.com/hfiref0x/SyscallTables)
@@ -334,14 +373,26 @@
   > Deployment kit: Qwen3.8-27B EXL3 3.5bpw target + DFlash2 EXL3 5.0bpw speculative draft — launcher, c...
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep)
   > Local-first search across your workspace, built for humans and AI agents.
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
+  > Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects sca...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [aaif-goose/goose](https://github.com/aaif-goose/goose)
+  > an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and ...
 
 ### [imj01y](https://github.com/imj01y)
 - 🌟 👤 [imj01y](https://github.com/imj01y) Starred [3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro](https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro)
   > gpt5.6-claude-grok4.6-deepseekv4pro-glm5.3破甲越狱 · 冷咖啡 BREAK//OPEN 工作台
 
+### [iraizo](https://github.com/iraizo)
+- 🌟 👤 [iraizo](https://github.com/iraizo) Starred [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass)
+  > Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data. 
+
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [VibRev/ida-headless-mcp](https://github.com/VibRev/ida-headless-mcp)
   > Rust-native, multi-session headless IDA Pro MCP server with isolated workers and stdio or Streamable...
+
+### [jxy-s](https://github.com/jxy-s)
+- 🍴 👤 [jxy-s](https://github.com/jxy-s) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [jxy-s/oh-my-pi](https://github.com/jxy-s/oh-my-pi)
+  > ⌥ Coding agent with the IDE wired in
 
 ### [kaganisildak](https://github.com/kaganisildak)
 - 🌟 👤 [kaganisildak](https://github.com/kaganisildak) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
@@ -367,6 +418,8 @@
   > Community Gradio wrapper for FireRedTTS3 Base voice cloning with local deployment guidance and Qianl...
 - 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [Mixomo/FireRedTTS3-Easy-GUI](https://github.com/Mixomo/FireRedTTS3-Easy-GUI) to [liuzjMr/FireRedTTS3-Easy-GUI](https://github.com/liuzjMr/FireRedTTS3-Easy-GUI)
   > A Windows WebUI for FireRedTTS3, bringing together multilingual zero-shot voice cloning, instruction...
+- 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [T8mars/FireRedAudio-T8-Desktop](https://github.com/T8mars/FireRedAudio-T8-Desktop) to [liuzjMr/FireRedAudio-T8-Desktop](https://github.com/liuzjMr/FireRedAudio-T8-Desktop)
+  > FireRedAudio Windows creator desktop by T8star-Aix with signed component-based incremental updates
 
 ### [luochuanyuewu](https://github.com/luochuanyuewu)
 - 🌟 👤 [luochuanyuewu](https://github.com/luochuanyuewu) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
@@ -404,6 +457,8 @@
   > Local-first search across your workspace, built for humans and AI agents.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks)
   > GLM-5.3 Flash EXL3 for 2x DGX Sparks
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/atlas](https://github.com/alesha-pro/atlas)
+  > Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distribut...
 
 ### [mstfknn](https://github.com/mstfknn)
 - 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
@@ -450,6 +505,13 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [libxposed/example](https://github.com/libxposed/example)
   > Example module
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [libxposed/service](https://github.com/libxposed/service)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [rust-glancer/rust-glancer](https://github.com/rust-glancer/rust-glancer)
+  > Lightweight Rust LSP optimized for low memory usage
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [buildzaku/zaku](https://github.com/buildzaku/zaku)
+  > Zaku is a native Rust, local-first, open-source API client engineered for speed and productivity.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [hound-search/hound](https://github.com/hound-search/hound)
+  > Lightning fast code searching made easy
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [thejaustin/ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API)
 
 ### [nzcv](https://github.com/nzcv)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [sugarforever/dsh-lark](https://github.com/sugarforever/dsh-lark) to [nzcv/dsh-lark](https://github.com/nzcv/dsh-lark)
@@ -482,6 +544,10 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [DevLARLEY/AndroidWidevineProxy](https://github.com/DevLARLEY/AndroidWidevineProxy)
   > ADB Proxy for Widevine challenges/licenses between the Android MediaDrm API and an App
+
+### [qaiu](https://github.com/qaiu)
+- 🌟 👤 [qaiu](https://github.com/qaiu) Starred [daizhige-org/shou-xing-wan-nian-li](https://github.com/daizhige-org/shou-xing-wan-nian-li)
+  > 壽星萬年曆 國際版
 
 ### [qi4L](https://github.com/qi4L)
 - 🌟 👤 [qi4L](https://github.com/qi4L) Starred [bjrzs/Cursor_chinese](https://github.com/bjrzs/Cursor_chinese)
@@ -516,9 +582,11 @@
 - 🍴 👤 [revercc](https://github.com/revercc) Forked [frida/frida-java-bridge](https://github.com/frida/frida-java-bridge) to [revercc/frida-java-bridge](https://github.com/revercc/frida-java-bridge)
   > Java runtime interop from Frida
 
-### [riba2534](https://github.com/riba2534)
-- 🌟 👤 [riba2534](https://github.com/riba2534) Starred [qianyubtc/BinancePayTool](https://github.com/qianyubtc/BinancePayTool)
-- 🍴 👤 [riba2534](https://github.com/riba2534) Forked [qianyubtc/BinancePayTool](https://github.com/qianyubtc/BinancePayTool) to [riba2534/BinancePayTool](https://github.com/riba2534/BinancePayTool)
+### [rogxo](https://github.com/rogxo)
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [virattt/dexter](https://github.com/virattt/dexter)
+  > An autonomous agent for deep financial research
+- 🌟 👤 [rogxo](https://github.com/rogxo) Starred [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
+  > An AI Hedge Fund Team
 
 ### [sakana164](https://github.com/sakana164)
 - 🌟 👤 [sakana164](https://github.com/sakana164) Starred [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop)
@@ -580,6 +648,14 @@
 - 🌟 👤 [vm03](https://github.com/vm03) Starred [uhi22/pyPLC](https://github.com/uhi22/pyPLC)
   > Electric vehicle CCS charging investigations with Python
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [osolmaz/pi-workflows](https://github.com/osolmaz/pi-workflows)
+  > Workflow engine, JSON control-flow tool, and live terminal viewer for the pi coding agent
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [persiyanov/herdr-reviewr](https://github.com/persiyanov/herdr-reviewr)
+  > A code-review + file-viewer sidebar for herdr — comment on an agent's diff, send it back. Plus a rea...
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [plannotator/herdr-annotate](https://github.com/plannotator/herdr-annotate)
+  > Annotate terminal text, review documents and agent replies in Herdr, and send the feedback straight ...
+
 ### [winmin](https://github.com/winmin)
 - 🌟 👤 [winmin](https://github.com/winmin) Starred [n132/cedalion](https://github.com/n132/cedalion)
 
@@ -638,5 +714,5 @@
 
 
 ---
-*最后更新于 2026-09-02 17:38:09 UTC*
+*最后更新于 2026-09-02 20:35:02 UTC*
 *历史记录保存在 `archive` 目录中。*
