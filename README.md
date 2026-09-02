@@ -142,6 +142,10 @@
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Willian-2-0-0-1/burp-mcp-server](https://github.com/Willian-2-0-0-1/burp-mcp-server)
   > Burp Suite MCP server with Repeater tab management and PoC evidence capture
 
+### [JunioJsv](https://github.com/JunioJsv)
+- 🌟 👤 [JunioJsv](https://github.com/JunioJsv) Starred [artur-graniszewski/DLSS-Enabler](https://github.com/artur-graniszewski/DLSS-Enabler)
+  > Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any ...
+
 ### [K4ryuu](https://github.com/K4ryuu)
 - 🍴 👤 [K4ryuu](https://github.com/K4ryuu) Forked [samyycX/awesome-cs2](https://github.com/samyycX/awesome-cs2) to [K4ryuu/awesome-cs2](https://github.com/K4ryuu/awesome-cs2)
   > An awesome list for all available cs2 development information, including modding frameworks, develop...
@@ -269,6 +273,10 @@
 - 🌟 👤 [Yos-X](https://github.com/Yos-X) Starred [LongQT-sea/macos-iso-builder](https://github.com/LongQT-sea/macos-iso-builder)
   > Generate bootable macOS installer ISO or DMG images directly from Apple servers via GitHub Actions -...
 
+### [YuHuanTin](https://github.com/YuHuanTin)
+- 🌟 👤 [YuHuanTin](https://github.com/YuHuanTin) Starred [Monoceros406/WinKerDevBook1](https://github.com/Monoceros406/WinKerDevBook1)
+  > Windows 系统安全：内核驱动开发
+
 ### [YuKongA](https://github.com/YuKongA)
 - 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [SwaggyMacro/LottieViewConvert](https://github.com/SwaggyMacro/LottieViewConvert)
   > A powerful cross-platform desktop application for converting TGS (Telegram Stickers), Discord animma...
@@ -296,6 +304,10 @@
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 - 🌟 👤 [alexander-pick](https://github.com/alexander-pick) Starred [jprx/qemu-sptm](https://github.com/jprx/qemu-sptm)
   > Qemu fork with support for Apple Silicon (iOS/ macOS)
+
+### [anantshri](https://github.com/anantshri)
+- 🚀 👤 [anantshri](https://github.com/anantshri) Made [anantshri/HiveWalker](https://github.com/anantshri/HiveWalker) public
+  > Windows Registry Hive Walking on Browser
 
 ### [asLody](https://github.com/asLody)
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [gradio-app/trackio](https://github.com/gradio-app/trackio)
@@ -371,6 +383,11 @@
   > 559K パラメータの日本語 TTS を ESP32-S3 で動かす試み（arXiv:2608.21378 sanoTTS の日本語再実装）。⚠️ 実機未検証
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [xevrion/breakscale](https://github.com/xevrion/breakscale)
   > Build a system, load it until it breaks, and watch why. A system design simulator for learning distr...
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [itshen/learn-ai](https://github.com/itshen/learn-ai)
+  > AI 产品从入门到精通 —— 面向 AI 产品经理的完整培训课程，涵盖大模型底层原理到 AI 工程化落地
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [salarzeidanlou/todofy](https://github.com/salarzeidanlou/todofy)
+  > A modern, fast, local-first to-do app for Linux, macOS & Windows — smart lists, labels, recurring ta...
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [yetemgetaB/Kenote](https://github.com/yetemgetaB/Kenote)
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [folbricht/desync](https://github.com/folbricht/desync)
@@ -500,6 +517,8 @@
   > Server Driven UI made easy
 - 🌟 👤 [igorbrigadir](https://github.com/igorbrigadir) Starred [nauvalazhar/selia](https://github.com/nauvalazhar/selia)
   > Interfaces That Feel Right, Out of the Box (For React)
+- 🌟 👤 [igorbrigadir](https://github.com/igorbrigadir) Starred [expo-community/expo-server-sdk-python](https://github.com/expo-community/expo-server-sdk-python)
+  > Exponent Server SDK
 
 ### [imj01y](https://github.com/imj01y)
 - 🌟 👤 [imj01y](https://github.com/imj01y) Starred [1494389516/cloudphone-risk-detector](https://github.com/1494389516/cloudphone-risk-detector)
@@ -673,6 +692,10 @@
 - 🍴 👤 [madeye](https://github.com/madeye) Forked [MiaAI-Lab/Unsloth-Qwen3.6-35b-NVFP4-DGX-Spark](https://github.com/MiaAI-Lab/Unsloth-Qwen3.6-35b-NVFP4-DGX-Spark) to [madeye/Unsloth-Qwen3.6-35b-NVFP4-DGX-Spark](https://github.com/madeye/Unsloth-Qwen3.6-35b-NVFP4-DGX-Spark)
   > vLLM deployment for Unsloth Qwen3.6-35B-A3B-NVFP4-Fast on NVIDIA DGX Spark
 
+### [mav8557](https://github.com/mav8557)
+- 🌟 👤 [mav8557](https://github.com/mav8557) Starred [ionescu007/SimpleVisor](https://github.com/ionescu007/SimpleVisor)
+  > SimpleVisor is a simple, portable, Intel VT-x hypervisor with two specific goals: using the least am...
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [redasm-dev/redasm](https://github.com/redasm-dev/redasm)
   > The Open Source Disassembler
@@ -698,9 +721,6 @@
   > tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [vp777/Windows-Kernel-Exploitation](https://github.com/vp777/Windows-Kernel-Exploitation)
   > Techniques/tools on Windows kernel exploitation
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sam-paech/auto-antislop](https://github.com/sam-paech/auto-antislop)
 
 ### [natsumerinchan](https://github.com/natsumerinchan)
 - 🌟 👤 [natsumerinchan](https://github.com/natsumerinchan) Starred [SuQiandYing/lossless-text-repack](https://github.com/SuQiandYing/lossless-text-repack)
@@ -758,6 +778,8 @@
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)
   > Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文. 
+- 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2)
+  > An extension-based proxy for Widevine/ClearKey EME challenges and license messages. Modifies the cha...
 
 ### [quanyeyang](https://github.com/quanyeyang)
 - 🌟 👤 [quanyeyang](https://github.com/quanyeyang) Starred [multipath-tcp/mptcp_net-next](https://github.com/multipath-tcp/mptcp_net-next)
@@ -781,6 +803,8 @@
 ### [riba2534](https://github.com/riba2534)
 - 🍴 👤 [riba2534](https://github.com/riba2534) Forked [foundry-rs/foundry-core](https://github.com/foundry-rs/foundry-core) to [riba2534/foundry-core](https://github.com/riba2534/foundry-core)
   > Core traits and libraries extracted from Foundry, published as crates so they can be depended on wit...
+- 🍴 👤 [riba2534](https://github.com/riba2534) Forked [wevm/viem](https://github.com/wevm/viem) to [riba2534/viem](https://github.com/riba2534/viem)
+  > TypeScript Interface for Ethereum
 
 ### [rogxo](https://github.com/rogxo)
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [sexyiam/VMPLift](https://github.com/sexyiam/VMPLift)
@@ -952,6 +976,10 @@
 - 🌟 👤 [yuaotian](https://github.com/yuaotian) Starred [yuaotian/antigravity-proxy](https://github.com/yuaotian/antigravity-proxy)
   > 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. |...
 
+### [zboralski](https://github.com/zboralski)
+- 🌟 👤 [zboralski](https://github.com/zboralski) Starred [tailscale/tailcat](https://github.com/tailscale/tailcat)
+  > like netcat, but over Tailscale's data plane, without Tailscale's control plane
+
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
@@ -966,5 +994,5 @@
 
 
 ---
-*最后更新于 2026-09-01 21:36:04 UTC*
+*最后更新于 2026-09-01 23:48:58 UTC*
 *历史记录保存在 `archive` 目录中。*
