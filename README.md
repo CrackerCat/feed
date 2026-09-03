@@ -34,6 +34,10 @@
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
   > Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. ...
 
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [perplexityai/pplx-garden](https://github.com/perplexityai/pplx-garden)
+  > Perplexity open source garden for inference technology
+
 ### [AndnixSH](https://github.com/AndnixSH)
 - 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [zarif98/midnightclub](https://github.com/zarif98/midnightclub)
   > Static recompilation of Midnight Club: Los Angeles (Xbox 360) using rexGlu SDK
@@ -76,6 +80,9 @@
 - 🌟 👤 [Dispa1r](https://github.com/Dispa1r) Starred [Lessica/TrollFools](https://github.com/Lessica/TrollFools)
   > In-place tweak injection with insert_dylib and ChOma.
 
+### [Dump-GUY](https://github.com/Dump-GUY)
+- 🌟 👤 [Dump-GUY](https://github.com/Dump-GUY) Starred [milankovo/Rimmer](https://github.com/milankovo/Rimmer)
+
 ### [EgeBalci](https://github.com/EgeBalci)
 - 🍴 👤 [EgeBalci](https://github.com/EgeBalci) Forked [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) to [EgeBalci/Signal-Desktop](https://github.com/EgeBalci/Signal-Desktop)
   > A private messenger for Windows, macOS, and Linux.
@@ -112,6 +119,18 @@
 ### [J5now](https://github.com/J5now)
 - 🌟 👤 [J5now](https://github.com/J5now) Starred [westme1anon/FIFOCS](https://github.com/westme1anon/FIFOCS)
   > fif刷课脚本
+
+### [Jirubizu](https://github.com/Jirubizu)
+- 🌟 👤 [Jirubizu](https://github.com/Jirubizu) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
+  > Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle dia...
+- 🌟 👤 [Jirubizu](https://github.com/Jirubizu) Starred [omacom/omarchy](https://github.com/omacom/omarchy)
+  > Beautiful, Modern & Opinionated Linux
+- 🌟 👤 [Jirubizu](https://github.com/Jirubizu) Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+  > A spy satellite simulator in your browser, except the data is real. Live open source spatial intelli...
+- 🌟 👤 [Jirubizu](https://github.com/Jirubizu) Starred [blader/humanizer](https://github.com/blader/humanizer)
+  > Agent skill that removes signs of AI-generated writing from text
+- 🌟 👤 [Jirubizu](https://github.com/Jirubizu) Starred [jdx/mise](https://github.com/jdx/mise)
+  > dev tools, env vars, task runner
 
 ### [JunioJsv](https://github.com/JunioJsv)
 - 🌟 👤 [JunioJsv](https://github.com/JunioJsv) Starred [bygalacos/OptiScalerBuilder](https://github.com/bygalacos/OptiScalerBuilder)
@@ -197,6 +216,12 @@
 - 🍴 👤 [Xieansecn](https://github.com/Xieansecn) Forked [MengYuil/dsh-ponytail](https://github.com/MengYuil/dsh-ponytail) to [Xieansecn/dsh-ponytail](https://github.com/Xieansecn/dsh-ponytail)
   > Lazy senior dev mode for DeepSeek Harness — ponytail port (always-on minimal-code ruleset, /ponytail...
 
+### [Yervant7](https://github.com/Yervant7)
+- 🌟 👤 [Yervant7](https://github.com/Yervant7) Starred [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)
+  > Get Android app updates straight from the source.
+- 🌟 👤 [Yervant7](https://github.com/Yervant7) Starred [s1ddhants1/SwiftBackupPrem](https://github.com/s1ddhants1/SwiftBackupPrem)
+  > Swift Backup Premium LSPosed module
+
 ### [YinMo19](https://github.com/YinMo19)
 - 🌟 👤 [YinMo19](https://github.com/YinMo19) Starred [Xudong-Huang/may_minihttp](https://github.com/Xudong-Huang/may_minihttp)
   > mini http implemented on top of may
@@ -204,6 +229,10 @@
 ### [ZacharyZcR](https://github.com/ZacharyZcR)
 - 🌟 👤 [ZacharyZcR](https://github.com/ZacharyZcR) Starred [dw-dengwei/daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced)
   > Automatically crawl arXiv papers daily and summarize them using AI. Illustrating them using GitHub P...
+
+### [ZephrFish](https://github.com/ZephrFish)
+- 🍴 👤 [ZephrFish](https://github.com/ZephrFish) Forked [SpecterOps/skills](https://github.com/SpecterOps/skills) to [ZephrFish/skills](https://github.com/ZephrFish/skills)
+  > A marketplace for LLM skills
 
 ### [ace-trump-tech](https://github.com/ace-trump-tech)
 - 🍴 👤 [ace-trump-tech](https://github.com/ace-trump-tech) Forked [volcano-sh/volcano](https://github.com/volcano-sh/volcano) to [ace-trump-tech/volcano](https://github.com/ace-trump-tech/volcano)
@@ -231,6 +260,7 @@
 
 ### [blasty](https://github.com/blasty)
 - 🚀 👤 [blasty](https://github.com/blasty) Made [sl0p-foo/homebrew-slosh](https://github.com/sl0p-foo/homebrew-slosh) public
+- 🌟 👤 [blasty](https://github.com/blasty) Starred [sl0p-foo/slosh](https://github.com/sl0p-foo/slosh)
 
 ### [brunodev85](https://github.com/brunodev85)
 - 🌟 👤 [brunodev85](https://github.com/brunodev85) Starred [brunodev85/winlator](https://github.com/brunodev85/winlator)
@@ -354,6 +384,17 @@
 - 🌟 👤 [giladreich](https://github.com/giladreich) Starred [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl)
   > Fast and local neural text-to-speech engine
 
+### [gmh5225](https://github.com/gmh5225)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus) to [gmh5225/ghostlock-oneplus](https://github.com/gmh5225/ghostlock-oneplus)
+  > GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootloader
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [exoharness/exo](https://github.com/exoharness/exo) to [gmh5225/exo-rs](https://github.com/gmh5225/exo-rs)
+  > Exo is an agent + harness architecture that is fully recursive, able to safely edit all aspects of i...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [alesha-pro/atlas](https://github.com/alesha-pro/atlas) to [gmh5225/atlas-llm](https://github.com/gmh5225/atlas-llm)
+  > Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distribut...
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [ranweiler/fmaemu](https://github.com/ranweiler/fmaemu) to [gmh5225/fmaemu](https://github.com/gmh5225/fmaemu)
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) to [gmh5225/vps-audit](https://github.com/gmh5225/vps-audit)
+  > lightweight, dependency-free bash script for security, performance auditing and infrastructure monit...
+
 ### [guanchao](https://github.com/guanchao)
 - 🌟 👤 [guanchao](https://github.com/guanchao) Starred [cypress-io/cypress](https://github.com/cypress-io/cypress)
   > Fast, easy and reliable testing for anything that runs in a browser.
@@ -452,14 +493,6 @@
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)
   > Autonomous research system for measurable, computer-executable research.
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep)
-  > Local-first search across your workspace, built for humans and AI agents.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks)
-  > GLM-5.3 Flash EXL3 for 2x DGX Sparks
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/atlas](https://github.com/alesha-pro/atlas)
-  > Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distribut...
-
 ### [mstfknn](https://github.com/mstfknn)
 - 🌟 👤 [mstfknn](https://github.com/mstfknn) Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
   > Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. ...
@@ -512,6 +545,16 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [hound-search/hound](https://github.com/hound-search/hound)
   > Lightning fast code searching made easy
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [thejaustin/ShizukuPlus-API](https://github.com/thejaustin/ShizukuPlus-API)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [krazey/ims](https://github.com/krazey/ims)
+  > Open-source SIP/IMS stack for LineageOS, based on phhusson/ims
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [threadexio/libfreebind](https://github.com/threadexio/libfreebind)
+  > Injectable IP_FREEBIND functionality for non-cooperating programs.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [caddyserver/forwardproxy](https://github.com/caddyserver/forwardproxy)
+  > Forward proxy plugin for the Caddy web server
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [rust-lang/socket2](https://github.com/rust-lang/socket2)
+  > Advanced configuration options for sockets.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy)
+  > Build Caddy with plugins
 
 ### [nzcv](https://github.com/nzcv)
 - 🍴 👤 [nzcv](https://github.com/nzcv) Forked [sugarforever/dsh-lark](https://github.com/sugarforever/dsh-lark) to [nzcv/dsh-lark](https://github.com/nzcv/dsh-lark)
@@ -677,6 +720,10 @@
 - 🌟 👤 [x0rloser](https://github.com/x0rloser) Starred [uofw/uofw](https://github.com/uofw/uofw)
   > The unofficial Official FirmWare, a complete latest PSP firmware reverse engineering project
 
+### [xroche](https://github.com/xroche)
+- 🍴 👤 [xroche](https://github.com/xroche) Forked [termux/termux-packages](https://github.com/termux/termux-packages) to [xroche/termux-packages](https://github.com/xroche/termux-packages)
+  > A package build system for Termux.
+
 ### [xyxdaily](https://github.com/xyxdaily)
 - 🍴 👤 [xyxdaily](https://github.com/xyxdaily) Forked [evoker0/AlwaysStrong](https://github.com/evoker0/AlwaysStrong) to [xyxdaily/AlwaysStrong-keybox](https://github.com/xyxdaily/AlwaysStrong-keybox)
   > Always Strong: Strong Play Integrity in one drop in module TEESimulator-RS + PlayIntegrityFork bundl...
@@ -714,5 +761,5 @@
 
 
 ---
-*最后更新于 2026-09-02 20:35:02 UTC*
+*最后更新于 2026-09-02 23:00:41 UTC*
 *历史记录保存在 `archive` 目录中。*
