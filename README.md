@@ -32,10 +32,6 @@
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank)
   > Crowdstrike Falcon 0day Privilege Escalation Vulnerability
 
-### [CHIZI-0618](https://github.com/CHIZI-0618)
-- 🌟 👤 [CHIZI-0618](https://github.com/CHIZI-0618) Starred [s010s/prehistoric-animal-museum](https://github.com/s010s/prehistoric-animal-museum)
-  > A free, open-source bilingual 3D museum where young children and their grown-ups explore prehistoric...
-
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank)
   > Crowdstrike Falcon 0day Privilege Escalation Vulnerability
@@ -47,6 +43,10 @@
 ### [DeHby](https://github.com/DeHby)
 - 🌟 👤 [DeHby](https://github.com/DeHby) Starred [crmne/fastpotify](https://github.com/crmne/fastpotify)
   > Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spoti...
+
+### [EgeBalci](https://github.com/EgeBalci)
+- 🌟 👤 [EgeBalci](https://github.com/EgeBalci) Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+  > World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700...
 
 ### [FBLeee](https://github.com/FBLeee)
 - 🌟 👤 [FBLeee](https://github.com/FBLeee) Starred [taisuii/rusda](https://github.com/taisuii/rusda)
@@ -105,6 +105,8 @@
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [ADScanPro/Claude-AD](https://github.com/ADScanPro/Claude-AD)
   > Active Directory pentest methodology for Claude Code: skills, agents and slash commands for internal...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [systembad403/Coruna6](https://github.com/systembad403/Coruna6)
+  > Coruna 管理系统
 
 ### [MrWQ](https://github.com/MrWQ)
 - 🌟 👤 [MrWQ](https://github.com/MrWQ) Starred [xnbmy/WinSlice](https://github.com/xnbmy/WinSlice)
@@ -259,6 +261,10 @@
   > Paperize is a modern fully offline dynamic wallpaper changer application built for Android using Kot...
 - 🌟 👤 [Yervant7](https://github.com/Yervant7) Starred [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer)
   > An Android native video player
+
+### [ZacharyZcR](https://github.com/ZacharyZcR)
+- 🌟 👤 [ZacharyZcR](https://github.com/ZacharyZcR) Starred [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
+  > A library for mechanistic interpretability of GPT-style language models
 
 ### [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU)
 - 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [sclevine/yj](https://github.com/sclevine/yj) to [ZhangZhuoSJTU/yj](https://github.com/ZhangZhuoSJTU/yj)
@@ -428,10 +434,6 @@
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [swarm-subnet/Langostino](https://github.com/swarm-subnet/Langostino)
   > Langostino - An open-source autonomous drone platform using ROS2 and AI-powered flight control. A co...
 
-### [byt3n33dl3](https://github.com/byt3n33dl3)
-- 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [stamparm/DSSS](https://github.com/stamparm/DSSS)
-  > Damn Small SQLi Scanner
-
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [symbuzzer/livebootmodule](https://github.com/symbuzzer/livebootmodule)
   > A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android de...
@@ -483,6 +485,10 @@
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [Sage-Mage23/page_walk](https://github.com/Sage-Mage23/page_walk)
   > Anticheat pagewalking for memory backing
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [wx626810/NptBreakPoint](https://github.com/wx626810/NptBreakPoint)
+  > AMD NPT stealth breakpoint / anti-anti-debug research framework
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [NetVar1337/unknowncheats-mcp](https://github.com/NetVar1337/unknowncheats-mcp)
+  > MCP server for UnknownCheats and Elitepvpers - search, threads, Cloudflare bypass
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [tgo-app-dev/vpipe](https://github.com/tgo-app-dev/vpipe)
@@ -518,6 +524,10 @@
 ### [fmagin](https://github.com/fmagin)
 - 🌟 👤 [fmagin](https://github.com/fmagin) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [binsnake/omill](https://github.com/binsnake/omill)
+  > Binary lifter and deobfuscator using remill for x86_64 Windows binaries
 
 ### [fynch3r](https://github.com/fynch3r)
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent)
@@ -752,6 +762,12 @@
   > Python tool for converting files and office documents to Markdown.
 - 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [proshiba/vuln-intel-agent](https://github.com/proshiba/vuln-intel-agent)
   > 脆弱性情報の収集。AIベースの機能想定。
+
+### [r0eXpeR](https://github.com/r0eXpeR)
+- 🌟 👤 [r0eXpeR](https://github.com/r0eXpeR) Starred [S12cybersecurity/RDPCredentialStealer](https://github.com/S12cybersecurity/RDPCredentialStealer)
+  > RDPCredentialStealer it's an implant that steal credentials provided by users in RDP using API Hooki...
+- 🌟 👤 [r0eXpeR](https://github.com/r0eXpeR) Starred [2akouwu/reverify](https://github.com/2akouwu/reverify)
+  > AI makes things up when it reads a binary. Reverify checks its every claim against the real bytes, s...
 
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [garrytan/gstack](https://github.com/garrytan/gstack)
@@ -996,5 +1012,5 @@
 
 
 ---
-*最后更新于 2026-09-03 20:34:14 UTC*
+*最后更新于 2026-09-03 22:59:19 UTC*
 *历史记录保存在 `archive` 目录中。*
