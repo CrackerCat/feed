@@ -84,11 +84,19 @@
 - 🌟 👤 [LasCC](https://github.com/LasCC) Starred [chrisgreg/glance](https://github.com/chrisgreg/glance)
   > A tiny, self-hosted web analytics service. 
 
+### [M0Rf30](https://github.com/M0Rf30)
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [tsirysndr/music-player](https://github.com/tsirysndr/music-player)
+  >  An extensible music server written in Rust 🚀🎵✨
+
 ### [Monoceros406](https://github.com/Monoceros406)
 - 🌟 👤 [Monoceros406](https://github.com/Monoceros406) Starred [DErDYAST1R/KRNLDriver](https://github.com/DErDYAST1R/KRNLDriver)
   > My personal / private P2C Project undetected for 8- Months Straight leaked & resold so I am publishi...
 - 🌟 👤 [Monoceros406](https://github.com/Monoceros406) Starred [memN0ps/illusion-rs](https://github.com/memN0ps/illusion-rs)
   > Rusty Hypervisor - Windows UEFI Blue Pill Type-1 Hypervisor in Rust (Codename: Illusion)
+
+### [MrIkso](https://github.com/MrIkso)
+- 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [trumank/retoc](https://github.com/trumank/retoc)
+  > Unreal Engine IoStore CLI packing/unpacking tool
 
 ### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
 - 🌟 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Starred [lingqiqi5211/EzHookTool](https://github.com/lingqiqi5211/EzHookTool)
@@ -171,6 +179,48 @@
 - 🌟 👤 [ZeroMemoryEx](https://github.com/ZeroMemoryEx) Starred [ADScanPro/adscan](https://github.com/ADScanPro/adscan)
   > Free Active Directory pentesting tool for Linux. Automates AD and LDAP enumeration, Kerberoasting, A...
 
+### [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU)
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) to [ZhangZhuoSJTU/cmatrix](https://github.com/ZhangZhuoSJTU/cmatrix)
+  > Terminal based "The Matrix" like implementation
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [antonmedv/fx](https://github.com/antonmedv/fx) to [ZhangZhuoSJTU/fx](https://github.com/ZhangZhuoSJTU/fx)
+  > Terminal JSON viewer & processor
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [antonmedv/walk](https://github.com/antonmedv/walk) to [ZhangZhuoSJTU/walk](https://github.com/ZhangZhuoSJTU/walk)
+  > Terminal file manager
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [ariga/atlas](https://github.com/ariga/atlas) to [ZhangZhuoSJTU/atlas](https://github.com/ZhangZhuoSJTU/atlas)
+  > Declarative schema migrations with schema-as-code workflows
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [arq5x/bedtools2](https://github.com/arq5x/bedtools2) to [ZhangZhuoSJTU/bedtools2](https://github.com/ZhangZhuoSJTU/bedtools2)
+  > bedtools - the swiss army knife for genome arithmetic
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [bellard/quickjs](https://github.com/bellard/quickjs) to [ZhangZhuoSJTU/quickjs](https://github.com/ZhangZhuoSJTU/quickjs)
+  > Public repository of the QuickJS Javascript Engine.
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [chirlu/sox](https://github.com/chirlu/sox) to [ZhangZhuoSJTU/sox](https://github.com/ZhangZhuoSJTU/sox)
+  > SoX, Swiss Army knife of sound processing
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) to [ZhangZhuoSJTU/BLAKE3](https://github.com/ZhangZhuoSJTU/BLAKE3)
+  > the official Rust and C implementations of the BLAKE3 cryptographic hash function
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) to [ZhangZhuoSJTU/zoxide](https://github.com/ZhangZhuoSJTU/zoxide)
+  > A smarter cd command. Supports all major shells.
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [chmln/handlr](https://github.com/chmln/handlr) to [ZhangZhuoSJTU/handlr](https://github.com/ZhangZhuoSJTU/handlr)
+  > A better xdg-utils
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [agourlay/zip-password-finder](https://github.com/agourlay/zip-password-finder) to [ZhangZhuoSJTU/zip-password-finder](https://github.com/ZhangZhuoSJTU/zip-password-finder)
+  > Find the password of protected ZIP files.
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [altdesktop/i3-style](https://github.com/altdesktop/i3-style) to [ZhangZhuoSJTU/i3-style](https://github.com/ZhangZhuoSJTU/i3-style)
+  > 🎨 Make your i3 config a little more stylish.
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [AmmarAbouZor/tui-journal](https://github.com/AmmarAbouZor/tui-journal) to [ZhangZhuoSJTU/tui-journal](https://github.com/ZhangZhuoSJTU/tui-journal)
+  > Your journal app if you live in a terminal
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) to [ZhangZhuoSJTU/ast-grep](https://github.com/ZhangZhuoSJTU/ast-grep)
+  > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [axodotdev/oranda](https://github.com/axodotdev/oranda) to [ZhangZhuoSJTU/oranda](https://github.com/ZhangZhuoSJTU/oranda)
+  > 🎁 generate beautiful landing pages for your developer tools 
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [bensadeh/tailspin](https://github.com/bensadeh/tailspin) to [ZhangZhuoSJTU/tailspin](https://github.com/ZhangZhuoSJTU/tailspin)
+  > 🌀 A log file highlighter
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [blacknon/hwatch](https://github.com/blacknon/hwatch) to [ZhangZhuoSJTU/hwatch](https://github.com/ZhangZhuoSJTU/hwatch)
+  > hwatch: alternative watch command with history, diff view, JSONL logging, and change hooks. since 20...
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [Canop/broot](https://github.com/Canop/broot) to [ZhangZhuoSJTU/broot](https://github.com/ZhangZhuoSJTU/broot)
+  > A new way to see and navigate directory trees
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [Canop/rhit](https://github.com/Canop/rhit) to [ZhangZhuoSJTU/rhit](https://github.com/ZhangZhuoSJTU/rhit)
+  > A nginx log explorer
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap) to [ZhangZhuoSJTU/codesnap](https://github.com/ZhangZhuoSJTU/codesnap)
+  > 🦀️📸 Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
+
 ### [alex193a](https://github.com/alex193a)
 - 🍴 👤 [alex193a](https://github.com/alex193a) Forked [coolzyd9107/GKI_ReSukiSU_SUSFS](https://github.com/coolzyd9107/GKI_ReSukiSU_SUSFS) to [alex193a/GKI_ReSukiSU_SUSFS](https://github.com/alex193a/GKI_ReSukiSU_SUSFS)
 
@@ -202,6 +252,10 @@
 - 🌟 👤 [carlonluca](https://github.com/carlonluca) Starred [nextcloud/notes-android](https://github.com/nextcloud/notes-android)
   > ✎ Android client for Nextcloud Notes app.
 
+### [cctv18](https://github.com/cctv18)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [stefanberger/swtpm](https://github.com/stefanberger/swtpm)
+  > Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
+
 ### [chsbuffer](https://github.com/chsbuffer)
 - 🌟 👤 [chsbuffer](https://github.com/chsbuffer) Starred [buffcow/ollvm-project-android](https://github.com/buffcow/ollvm-project-android)
   > ollvm project base on llvm-android of google
@@ -211,6 +265,10 @@
   > ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed)
 - 🌟 👤 [cwuom](https://github.com/cwuom) Starred [cwuom/KNHV](https://github.com/cwuom/KNHV)
   > Type-2 Hypervisor implementation for Intel Processors based on VT-x technology. (Demo)
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [goodnightzsj/codex-cli-portable-setup-kit](https://github.com/goodnightzsj/codex-cli-portable-setup-kit)
+  > Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary analysis, decoupled...
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [zibo-chen/SubnetDesk](https://github.com/zibo-chen/SubnetDesk)
@@ -360,11 +418,21 @@
 - 🍴 👤 [mq1n](https://github.com/mq1n) Forked [thedaviddias/llms-txt-hub](https://github.com/thedaviddias/llms-txt-hub) to [mq1n/llms-txt-hub](https://github.com/mq1n/llms-txt-hub)
   > 🤖 The largest directory for AI-ready documentation and tools implementing the proposed llms.txt stan...
 
+### [mstrobel](https://github.com/mstrobel)
+- 🌟 👤 [mstrobel](https://github.com/mstrobel) Starred [xXMateus97Xx/Calculator](https://github.com/xXMateus97Xx/Calculator)
+  > A programmer mode Calculator developed with .Net6 and Avalonia
+- 🌟 👤 [mstrobel](https://github.com/mstrobel) Starred [PhMajerus/FIGfonts](https://github.com/PhMajerus/FIGfonts)
+  > Philippe Majerus’s FIGfonts collection
+
 ### [nahueldsanchez](https://github.com/nahueldsanchez)
 - 🌟 👤 [nahueldsanchez](https://github.com/nahueldsanchez) Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
   > Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. ...
 - 🌟 👤 [nahueldsanchez](https://github.com/nahueldsanchez) Starred [google/mantis](https://github.com/google/mantis)
   > A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously fin...
+
+### [nathanchance](https://github.com/nathanchance)
+- 🌟 👤 [nathanchance](https://github.com/nathanchance) Starred [nathanchance/continuous-integration3](https://github.com/nathanchance/continuous-integration3)
+  > Third generation of continuous integration for ClangBuiltLinux
 
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [ViRb3/wgcf](https://github.com/ViRb3/wgcf)
@@ -383,6 +451,12 @@
 ### [omeraydindev](https://github.com/omeraydindev)
 - 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5)
   > PlayStation 5 emulator for Windows, Linux and MacOS
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [home-assistant/core](https://github.com/home-assistant/core)
+  > :house_with_garden: Open source home automation that puts local control and privacy first.
+
+### [pizlonator](https://github.com/pizlonator)
+- 🌟 👤 [pizlonator](https://github.com/pizlonator) Starred [simd-everywhere/simde](https://github.com/simd-everywhere/simde)
+  > Implementations of SIMD instruction sets for systems which don't natively support them.
 
 ### [playGitboy](https://github.com/playGitboy)
 - 🌟 👤 [playGitboy](https://github.com/playGitboy) Starred [jondkinney/omapop](https://github.com/jondkinney/omapop)
@@ -405,6 +479,10 @@
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [cromaguy/Rhythm](https://github.com/cromaguy/Rhythm)
   > Your Music, Your Rhythm. An open-source, privacy-first Android music player featuring a beautiful Ma...
+
+### [riba2534](https://github.com/riba2534)
+- 🍴 👤 [riba2534](https://github.com/riba2534) Forked [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) to [riba2534/wechat-intelligence-hub](https://github.com/riba2534/wechat-intelligence-hub)
+  > Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, ...
 
 ### [sjshb57](https://github.com/sjshb57)
 - 🌟 👤 [sjshb57](https://github.com/sjshb57) Starred [crimera/piko-newx](https://github.com/crimera/piko-newx)
@@ -433,6 +511,10 @@
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [HisMax/RedInk](https://github.com/HisMax/RedInk)
   > Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sente...
+
+### [wainshine](https://github.com/wainshine)
+- 🌟 👤 [wainshine](https://github.com/wainshine) Starred [CesiumGS/cesium-ai-integrations](https://github.com/CesiumGS/cesium-ai-integrations)
+  > Cesium AI Integrations is a collection of reference integrations and experiments connecting the Cesi...
 
 ### [wuhan005](https://github.com/wuhan005)
 - 🍴 👤 [wuhan005](https://github.com/wuhan005) Forked [HansZ8/EncoreLightSticks](https://github.com/HansZ8/EncoreLightSticks) to [wuhan005/EncoreLightSticks](https://github.com/wuhan005/EncoreLightSticks)
@@ -472,5 +554,5 @@
 
 
 ---
-*最后更新于 2026-09-05 20:08:21 UTC*
+*最后更新于 2026-09-05 22:39:42 UTC*
 *历史记录保存在 `archive` 目录中。*
