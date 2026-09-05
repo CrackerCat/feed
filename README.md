@@ -83,6 +83,8 @@
   > Rust-native, multi-session headless IDA Pro MCP server with isolated workers and stdio or Streamable...
 - 🌟 👤 [Dy-Baby](https://github.com/Dy-Baby) Starred [zh-explorer/ida-pro-mcp](https://github.com/zh-explorer/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+- 🌟 👤 [Dy-Baby](https://github.com/Dy-Baby) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
+  > Headless IDA Pro MCP Server
 
 ### [Ercilan](https://github.com/Ercilan)
 - 🌟 👤 [Ercilan](https://github.com/Ercilan) Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)
@@ -138,6 +140,11 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [edwardgushchin/SDL3-CS](https://github.com/edwardgushchin/SDL3-CS)
   > Modern C# bindings and native NuGet packages for SDL3 and its companion libraries.
 
+### [L4ys](https://github.com/L4ys)
+- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
+  > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [n132/cedalion](https://github.com/n132/cedalion)
+
 ### [Lotus6](https://github.com/Lotus6)
 - 🌟 👤 [Lotus6](https://github.com/Lotus6) Starred [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
   > Windows alt-tab on macOS 
@@ -150,6 +157,10 @@
 - 🚀 👤 [Mr-xn](https://github.com/Mr-xn) Made [Mr-xn/showdoc-registerbyverify-rce](https://github.com/Mr-xn/showdoc-registerbyverify-rce) public
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [XSecurityCN/xproxy](https://github.com/XSecurityCN/xproxy)
   > XProxy is a desktop tool for security testing and traffic analysis, integrating HTTP/WS proxying, hi...
+
+### [N3rdL0rd](https://github.com/N3rdL0rd)
+- 🌟 👤 [N3rdL0rd](https://github.com/N3rdL0rd) Starred [pdelteil/scammy-bbp](https://github.com/pdelteil/scammy-bbp)
+  > Self-hosted bug bounty programs that are "scammy" or unethical
 
 ### [OfficialKatana](https://github.com/OfficialKatana)
 - 🍴 👤 [OfficialKatana](https://github.com/OfficialKatana) Forked [golang/go](https://github.com/golang/go) to [OfficialKatana/go](https://github.com/OfficialKatana/go)
@@ -202,6 +213,12 @@
   > A cli tool to browse and play anime
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [nicolagalassi/ani-cli-it](https://github.com/nicolagalassi/ani-cli-it)
   > Fork italiano di ani-cli: cerca e guarda anime Sub ITA e Doppiaggio ITA da AnimeWorld direttamente d...
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [aramosf/CVE-2026-64468](https://github.com/aramosf/CVE-2026-64468)
+  > Linux Binder binder_free_transaction() process-lifetime use-after-free (CVE-2026-64468): unprivilege...
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [mutur4/UnisocBootROMs](https://github.com/mutur4/UnisocBootROMs)
+  > This is a collection of Unisoc BootROMs dumped from various Unisoc chipsets via CVE-2022-38694
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [mzggr0914/SideWire-KernelSU](https://github.com/mzggr0914/SideWire-KernelSU)
+  > SideWire is a native bridge for controlling rooted Android devices from Windows, macOS, or Linux. It...
 
 ### [SliverBullet5563](https://github.com/SliverBullet5563)
 - 🌟 👤 [SliverBullet5563](https://github.com/SliverBullet5563) Starred [stablyai/orca](https://github.com/stablyai/orca)
@@ -258,6 +275,10 @@
 ### [Xieansecn](https://github.com/Xieansecn)
 - 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [pyrite-project/pyrite-ide](https://github.com/pyrite-project/pyrite-ide)
   > A modern and powerful MicroPython IDE designed for cross-platform use
+
+### [Yervant7](https://github.com/Yervant7)
+- 🌟 👤 [Yervant7](https://github.com/Yervant7) Starred [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
+  > 🎙️ VoxSherpa TTS   Offline Neural Text-to-Speech Engine for Android  ⚡ Sherpa-ONNX powered   🔊 Natur...
 
 ### [YungRaj](https://github.com/YungRaj)
 - 🌟 👤 [YungRaj](https://github.com/YungRaj) Starred [YungRaj/hydrogen](https://github.com/YungRaj/hydrogen)
@@ -643,10 +664,6 @@
 - 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)
   > OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model...
 
-### [muellan](https://github.com/muellan)
-- 🌟 👤 [muellan](https://github.com/muellan) Starred [bjarneo/omarchy-workspace-layout](https://github.com/bjarneo/omarchy-workspace-layout)
-  > Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/5...
-
 ### [namjkee](https://github.com/namjkee)
 - 🌟 👤 [namjkee](https://github.com/namjkee) Starred [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
   > Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social f...
@@ -858,6 +875,10 @@
 - 🌟 👤 [zhanlan123](https://github.com/zhanlan123) Starred [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)
   > Painless E2E Automation for Mobile and Web
 
+### [zhaoboy9692](https://github.com/zhaoboy9692)
+- 🍴 👤 [zhaoboy9692](https://github.com/zhaoboy9692) Forked [1013503897/stealth-poc](https://github.com/1013503897/stealth-poc) to [NewSpongeBob/stealth-poc](https://github.com/NewSpongeBob/stealth-poc)
+  > Clean-room PoC: kernel-level traceless hooking on Android ARM64 via APatch/KernelPatch (KPM) — inter...
+
 ### [zhoujun94511](https://github.com/zhoujun94511)
 - 🌟 👤 [zhoujun94511](https://github.com/zhoujun94511) Starred [alipay/SoloPi](https://github.com/alipay/SoloPi)
   > SoloPi 自动化测试工具
@@ -878,5 +899,5 @@
 
 
 ---
-*最后更新于 2026-09-04 21:15:59 UTC*
+*最后更新于 2026-09-04 23:45:20 UTC*
 *历史记录保存在 `archive` 目录中。*
