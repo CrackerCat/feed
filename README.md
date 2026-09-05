@@ -19,6 +19,10 @@
 ### [Alinshans](https://github.com/Alinshans)
 - 🌟 👤 [Alinshans](https://github.com/Alinshans) Starred [rosemarycox5334-debug/PA_Agent](https://github.com/rosemarycox5334-debug/PA_Agent)
 
+### [Aniketh01](https://github.com/Aniketh01)
+- 🌟 👤 [Aniketh01](https://github.com/Aniketh01) Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+  > Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. ...
+
 ### [Brinmon](https://github.com/Brinmon)
 - 🌟 👤 [Brinmon](https://github.com/Brinmon) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -75,6 +79,10 @@
 ### [Lake1059](https://github.com/Lake1059)
 - 🌟 👤 [Lake1059](https://github.com/Lake1059) Starred [sixiaolong1117/RTX-Encode-Toolkit](https://github.com/sixiaolong1117/RTX-Encode-Toolkit)
   > 基于 NVEnc 的 NVIDIA RTX 视频编码工具，支持 RTX VSR 超分、RTX HDR、NVOF FRUC 插帧
+
+### [LasCC](https://github.com/LasCC)
+- 🌟 👤 [LasCC](https://github.com/LasCC) Starred [chrisgreg/glance](https://github.com/chrisgreg/glance)
+  > A tiny, self-hosted web analytics service. 
 
 ### [Monoceros406](https://github.com/Monoceros406)
 - 🌟 👤 [Monoceros406](https://github.com/Monoceros406) Starred [DErDYAST1R/KRNLDriver](https://github.com/DErDYAST1R/KRNLDriver)
@@ -188,6 +196,12 @@
 ### [bytesFighting](https://github.com/bytesFighting)
 - 🍴 👤 [bytesFighting](https://github.com/bytesFighting) Forked [zee295/oneplus8-kernelsu-susfs](https://github.com/zee295/oneplus8-kernelsu-susfs) to [bytesFighting/oneplus8-kernelsu-susfs](https://github.com/bytesFighting/oneplus8-kernelsu-susfs)
 
+### [carlonluca](https://github.com/carlonluca)
+- 🌟 👤 [carlonluca](https://github.com/carlonluca) Starred [nextcloud/notes](https://github.com/nextcloud/notes)
+  > ✎ Distraction-free notes and writing
+- 🌟 👤 [carlonluca](https://github.com/carlonluca) Starred [nextcloud/notes-android](https://github.com/nextcloud/notes-android)
+  > ✎ Android client for Nextcloud Notes app.
+
 ### [chsbuffer](https://github.com/chsbuffer)
 - 🌟 👤 [chsbuffer](https://github.com/chsbuffer) Starred [buffcow/ollvm-project-android](https://github.com/buffcow/ollvm-project-android)
   > ollvm project base on llvm-android of google
@@ -195,6 +209,8 @@
 ### [cwuom](https://github.com/cwuom)
 - 🌟 👤 [cwuom](https://github.com/cwuom) Starred [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy)
   > ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed)
+- 🌟 👤 [cwuom](https://github.com/cwuom) Starred [cwuom/KNHV](https://github.com/cwuom/KNHV)
+  > Type-2 Hypervisor implementation for Intel Processors based on VT-x technology. (Demo)
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [zibo-chen/SubnetDesk](https://github.com/zibo-chen/SubnetDesk)
@@ -228,6 +244,10 @@
 - 🌟 👤 [heyhu](https://github.com/heyhu) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
+### [hmtheboy154](https://github.com/hmtheboy154)
+- 🍴 👤 [hmtheboy154](https://github.com/hmtheboy154) Forked [OpenMouse-Project/openmouse](https://github.com/OpenMouse-Project/openmouse) to [hmtheboy154/openmouse](https://github.com/hmtheboy154/openmouse)
+- 🍴 👤 [hmtheboy154](https://github.com/hmtheboy154) Forked [OpenMouse-Project/mouse-protocol](https://github.com/OpenMouse-Project/mouse-protocol) to [hmtheboy154/mouse-protocol](https://github.com/hmtheboy154/mouse-protocol)
+
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [persiyanov/herdr-reviewr](https://github.com/persiyanov/herdr-reviewr)
   > A code review + file viewer sidebar for herdr. Comment on a diff and send back to agent. Inspect dif...
@@ -258,6 +278,10 @@
 - 🌟 👤 [itm4n](https://github.com/itm4n) Starred [garatc/BitUnlocker](https://github.com/garatc/BitUnlocker)
   > Downgrade attack for CVE-2025-48804
 
+### [j0nk0](https://github.com/j0nk0)
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [rajivm1991/DroidDock](https://github.com/rajivm1991/DroidDock)
+  > A sleek macOS desktop application for browsing Android device files via ADB
+
 ### [jiushill](https://github.com/jiushill)
 - 🌟 👤 [jiushill](https://github.com/jiushill) Starred [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler)
   > OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces nati...
@@ -277,6 +301,10 @@
 ### [kujian](https://github.com/kujian)
 - 🌟 👤 [kujian](https://github.com/kujian) Starred [yaojingang/GEOFlow](https://github.com/yaojingang/GEOFlow)
   > Open-source GEO content engineering and multi-site distribution platform with AI quality inspection,...
+
+### [kyle-sylvestre](https://github.com/kyle-sylvestre)
+- 🍴 👤 [kyle-sylvestre](https://github.com/kyle-sylvestre) Forked [mmozeiko/aseprite-bin](https://github.com/mmozeiko/aseprite-bin) to [kyle-sylvestre/aseprite-bin](https://github.com/kyle-sylvestre/aseprite-bin)
+  > Aseprite binary build for 64-bit Windows
 
 ### [kylesmile1103](https://github.com/kylesmile1103)
 - 🌟 👤 [kylesmile1103](https://github.com/kylesmile1103) Starred [OpenMouse-Project/openmouse](https://github.com/OpenMouse-Project/openmouse)
@@ -364,10 +392,6 @@
 - 🍴 👤 [polygraphene](https://github.com/polygraphene) Forked [snothin/ghostlock-s26](https://github.com/snothin/ghostlock-s26) to [polygraphene/ghostlock-s26](https://github.com/polygraphene/ghostlock-s26)
   > GhostLock (CVE-2026-43499) for the Galaxy S26
 
-### [qaiu](https://github.com/qaiu)
-- 🚀 👤 [qaiu](https://github.com/qaiu) Made [nfd-parser/.github](https://github.com/nfd-parser/.github) public
-  > 云盘解析服务
-
 ### [rabbitstack](https://github.com/rabbitstack)
 - 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [BlackSnufkin/LitterBox](https://github.com/BlackSnufkin/LitterBox)
   > A self-hosted sandbox for red teams to test payloads against modern detection before deployment. MCP...
@@ -377,6 +401,10 @@
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [dengyie/zcode2api](https://github.com/dengyie/zcode2api)
   > ZCode 账号运营 + Anthropic 反代网关一体机 —— 账号池轮询、额度监控、活动套餐领取、浏览器过码转发
+
+### [ravindu644](https://github.com/ravindu644)
+- 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [cromaguy/Rhythm](https://github.com/cromaguy/Rhythm)
+  > Your Music, Your Rhythm. An open-source, privacy-first Android music player featuring a beautiful Ma...
 
 ### [sjshb57](https://github.com/sjshb57)
 - 🌟 👤 [sjshb57](https://github.com/sjshb57) Starred [crimera/piko-newx](https://github.com/crimera/piko-newx)
@@ -405,6 +433,10 @@
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [HisMax/RedInk](https://github.com/HisMax/RedInk)
   > Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sente...
+
+### [wuhan005](https://github.com/wuhan005)
+- 🍴 👤 [wuhan005](https://github.com/wuhan005) Forked [HansZ8/EncoreLightSticks](https://github.com/HansZ8/EncoreLightSticks) to [wuhan005/EncoreLightSticks](https://github.com/wuhan005/EncoreLightSticks)
+  > ✨ 荧光棒复活计划 
 
 ### [wwh1004](https://github.com/wwh1004)
 - 🌟 👤 [wwh1004](https://github.com/wwh1004) Starred [wwh1004/rdp-mcp](https://github.com/wwh1004/rdp-mcp)
@@ -440,5 +472,5 @@
 
 
 ---
-*最后更新于 2026-09-05 17:56:53 UTC*
+*最后更新于 2026-09-05 20:08:21 UTC*
 *历史记录保存在 `archive` 目录中。*
