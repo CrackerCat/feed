@@ -32,6 +32,10 @@
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Vsimpro/poetriage](https://github.com/Vsimpro/poetriage)
   > Incident Response that rhymes. LLM assisted file analysis, all packaged up for you.
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5)
+  > PlayStation 5 emulator for Windows, Linux and MacOS
+
 ### [EthanArbuckle](https://github.com/EthanArbuckle)
 - 🌟 👤 [EthanArbuckle](https://github.com/EthanArbuckle) Starred [doraorak/Vanish](https://github.com/doraorak/Vanish)
   > Smooth window close animations for macOS on Apple Silicon
@@ -61,13 +65,15 @@
 - 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
   > Your CLI home video recorder 📼
 
-### [Grigory-Rylov](https://github.com/Grigory-Rylov)
-- 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [visorcraft/orange-pi-6-plus-gpu](https://github.com/visorcraft/orange-pi-6-plus-gpu)
-  > Orange Pi 6 Plus GPU bring-up on mainline/Armbian (SCMI ACPI/SMC, resets, Panthor)
-
 ### [HSSkyBoy](https://github.com/HSSkyBoy)
 - 🍴 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Forked [Rouyashiki/YukiSU](https://github.com/Rouyashiki/YukiSU) to [HSSkyBoy/YukiSU](https://github.com/HSSkyBoy/YukiSU)
   > Kernel-based Android Root Solution
+
+### [Idov31](https://github.com/Idov31)
+- 🚀 👤 [Idov31](https://github.com/Idov31) Made [Idov31/ai-marketplace](https://github.com/Idov31/ai-marketplace) public
+  > Cross tools (Codex, Claude, Github Copilot, Cursor) AI Marketplace to install skills, agents, MCPs, ...
+- 🚀 👤 [Idov31](https://github.com/Idov31) Made [Idov31/ai-repository-template](https://github.com/Idov31/ai-repository-template) public
+  > This is a template repo for building your AI Marketplace compatible repository.
 
 ### [L4ys](https://github.com/L4ys)
 - 🌟 👤 [L4ys](https://github.com/L4ys) Starred [vp777/Windows-Kernel-Exploitation](https://github.com/vp777/Windows-Kernel-Exploitation)
@@ -91,6 +97,8 @@
 
 ### [MrIkso](https://github.com/MrIkso)
 - 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [ispointer/RePairip](https://github.com/ispointer/RePairip)
+- 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [marcussacana/MwareStuff](https://github.com/marcussacana/MwareStuff)
+  > My tools to the Mware Engine
 
 ### [NiTianErXing666](https://github.com/NiTianErXing666)
 - 🌟 👤 [NiTianErXing666](https://github.com/NiTianErXing666) Starred [chiina66/glm5.3f-jailbreak](https://github.com/chiina66/glm5.3f-jailbreak)
@@ -143,10 +151,6 @@
 
 ### [WenHao2130](https://github.com/WenHao2130)
 - 🌟 👤 [WenHao2130](https://github.com/WenHao2130) Starred [HighwayStar/qcmetadataprinter](https://github.com/HighwayStar/qcmetadataprinter)
-
-### [XiaoliChan](https://github.com/XiaoliChan)
-- 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [CICADA8-Research/iwa-tools](https://github.com/CICADA8-Research/iwa-tools)
-  > Undetectable offensive toolkit inside Chrome
 
 ### [Xieansecn](https://github.com/Xieansecn)
 - 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [zhishile/codex-auth-helper](https://github.com/zhishile/codex-auth-helper)
@@ -247,6 +251,10 @@
   > A markup-based typesetting system that is powerful and easy to learn.
 - 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) to [ZhangZhuoSJTU/tree-sitter](https://github.com/ZhangZhuoSJTU/tree-sitter)
   > An incremental parsing system for programming tools
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [dandavison/delta](https://github.com/dandavison/delta) to [ZhangZhuoSJTU/delta](https://github.com/ZhangZhuoSJTU/delta)
+  > A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [sqlite/sqlite](https://github.com/sqlite/sqlite) to [ZhangZhuoSJTU/sqlite](https://github.com/ZhangZhuoSJTU/sqlite)
+  > Official Git mirror of the SQLite source tree
 
 ### [antiwar3](https://github.com/antiwar3)
 - 🌟 👤 [antiwar3](https://github.com/antiwar3) Starred [Qmeimei10086/pte-dbg](https://github.com/Qmeimei10086/pte-dbg)
@@ -260,11 +268,17 @@
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [cft0808/edict](https://github.com/cft0808/edict)
   > 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashbo...
 
+### [buzzer-re](https://github.com/buzzer-re)
+- 🌟 👤 [buzzer-re](https://github.com/buzzer-re) Starred [travisgoodspeed/gbrom-tutorial](https://github.com/travisgoodspeed/gbrom-tutorial)
+  > Tutorial for extracting the GameBoy ROM from photographs of the die.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cloud-in-a-bottle/cloud-in-a-bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle)
   > Deploy, use, and share web apps on a server you control. Your apps, data, and infrastructure stay yo...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)
   > Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memo...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [redhat-et/ripwire](https://github.com/redhat-et/ripwire)
+  > The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server giving coding agents a ranked, d...
 
 ### [byt3n33dl3](https://github.com/byt3n33dl3)
 - 🌟 👤 [byt3n33dl3](https://github.com/byt3n33dl3) Starred [garrettfoster13/wtftp](https://github.com/garrettfoster13/wtftp)
@@ -305,16 +319,11 @@
   > ARM64 Android on QEMU — HVF (Apple Silicon) and KVM (Linux ARM64). Three engines: Google Emulator, u...
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
-- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
-- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)
-  > PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
-
-### [eteran](https://github.com/eteran)
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [ioncodes/gecko](https://github.com/ioncodes/gecko)
-  > A GameCube/Wii emulator and debugger written in Rust.
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
-  > Convert PS5 executables to run natively on Linux
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [totec448-spec/chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids)
+  > Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, a...
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators)
+  > List of agent orchestrators
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)
 
 ### [fadeevab](https://github.com/fadeevab)
 - 🌟 👤 [fadeevab](https://github.com/fadeevab) Starred [napalmpapalam/rust-template](https://github.com/napalmpapalam/rust-template)
@@ -328,6 +337,12 @@
 
 ### [fr0zenrain](https://github.com/fr0zenrain)
 - 🌟 👤 [fr0zenrain](https://github.com/fr0zenrain) Starred [tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [OpenSteam001/OpenSteamTool](https://github.com/OpenSteam001/OpenSteamTool)
+  > Open Source Steam Unlocker
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 
 ### [gclm](https://github.com/gclm)
 - 🍴 👤 [gclm](https://github.com/gclm) Forked [jiangtaovan/tdxrs](https://github.com/jiangtaovan/tdxrs) to [gclm/tdxrs](https://github.com/gclm/tdxrs)
@@ -494,10 +509,6 @@
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [9001/copyparty](https://github.com/9001/copyparty)
   > Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, m...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QuixiAI/open-gpu-kernel-modules](https://github.com/QuixiAI/open-gpu-kernel-modules)
-  > P2P support for nvidia consumer cards
-
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)
   > Create polished demo videos without editing skills. Mac/Windows/Linux
@@ -507,10 +518,6 @@
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [American-Embedded/kistack](https://github.com/American-Embedded/kistack)
   > KiStack is a HUMAN WRITTEN bunch of skills for KiCad
-
-### [nico](https://github.com/nico)
-- 🌟 👤 [nico](https://github.com/nico) Starred [soufianekhiat/alwan](https://github.com/soufianekhiat/alwan)
-  > Colour Science library, dependency-free in pure C (C11)
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [openrazer/openrazer](https://github.com/openrazer/openrazer)
@@ -610,6 +617,8 @@
 ### [wbaby](https://github.com/wbaby)
 - 🍴 👤 [wbaby](https://github.com/wbaby) Forked [Qmeimei10086/pte-dbg](https://github.com/Qmeimei10086/pte-dbg) to [wbaby/pte-dbg](https://github.com/wbaby/pte-dbg)
   > 基于pte-hook的调试器保护工具
+- 🍴 👤 [wbaby](https://github.com/wbaby) Forked [Shinn-Home/InvisibleHook](https://github.com/Shinn-Home/InvisibleHook) to [wbaby/InvisibleHook](https://github.com/wbaby/InvisibleHook)
+  > Invisible hook code，support win10 19043~win11 26H1
 
 ### [wszxl516](https://github.com/wszxl516)
 - 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [ehang-io/nps](https://github.com/ehang-io/nps)
@@ -689,5 +698,5 @@
 
 
 ---
-*最后更新于 2026-09-06 18:52:25 UTC*
+*最后更新于 2026-09-06 21:04:28 UTC*
 *历史记录保存在 `archive` 目录中。*
