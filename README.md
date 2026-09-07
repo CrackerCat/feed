@@ -118,12 +118,18 @@
 ### [Prslc](https://github.com/Prslc)
 - 🌟 👤 [Prslc](https://github.com/Prslc) Starred [torvalds/linux](https://github.com/torvalds/linux)
   > Linux kernel source tree
+- 🌟 👤 [Prslc](https://github.com/Prslc) Starred [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors)
+  > 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design...
 
 ### [Satar07](https://github.com/Satar07)
 - 🌟 👤 [Satar07](https://github.com/Satar07) Starred [Sasye/EndfieldCombatHUD](https://github.com/Sasye/EndfieldCombatHUD)
 - 🍴 👤 [Satar07](https://github.com/Satar07) Forked [Sasye/EndfieldCombatHUD](https://github.com/Sasye/EndfieldCombatHUD) to [Satar07/EndfieldCombatHUD](https://github.com/Satar07/EndfieldCombatHUD)
 - 🌟 👤 [Satar07](https://github.com/Satar07) Starred [Dr-hydra/Better-Endfield](https://github.com/Dr-hydra/Better-Endfield)
   > 《明日方舟：终末地》登录场景角色、动画与角色配音控制器
+
+### [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO)
+- 🌟 👤 [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO) Starred [0xcaff/codex-web](https://github.com/0xcaff/codex-web)
+  > a browser frontend for codex desktop, running on a machine you control.
 
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [Rouyashiki/Kasumi](https://github.com/Rouyashiki/Kasumi)
@@ -149,6 +155,10 @@
 - 🌟 👤 [VonChange](https://github.com/VonChange) Starred [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
   > 🧠 Train a 64M-parameter LLM from scratch in just 2h!
 
+### [WAY29](https://github.com/WAY29)
+- 🌟 👤 [WAY29](https://github.com/WAY29) Starred [ccxt/ccxt](https://github.com/ccxt/ccxt)
+  > A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / Typ...
+
 ### [WenHao2130](https://github.com/WenHao2130)
 - 🌟 👤 [WenHao2130](https://github.com/WenHao2130) Starred [HighwayStar/qcmetadataprinter](https://github.com/HighwayStar/qcmetadataprinter)
 
@@ -171,6 +181,10 @@
 ### [Yu2erer](https://github.com/Yu2erer)
 - 🌟 👤 [Yu2erer](https://github.com/Yu2erer) Starred [d-eniz/jupymd](https://github.com/d-eniz/jupymd)
   > JupyMD: Use Obsidian as a Jupyter notebook IDE
+
+### [ZacharyZcR](https://github.com/ZacharyZcR)
+- 🍴 👤 [ZacharyZcR](https://github.com/ZacharyZcR) Forked [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) to [ZacharyZcR/TransformerLens](https://github.com/ZacharyZcR/TransformerLens)
+  > A library for mechanistic interpretability of GPT-style language models
 
 ### [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU)
 - 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [cordx56/rustowl](https://github.com/cordx56/rustowl) to [ZhangZhuoSJTU/rustowl](https://github.com/ZhangZhuoSJTU/rustowl)
@@ -255,6 +269,16 @@
   > A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [sqlite/sqlite](https://github.com/sqlite/sqlite) to [ZhangZhuoSJTU/sqlite](https://github.com/ZhangZhuoSJTU/sqlite)
   > Official Git mirror of the SQLite source tree
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [rs/curlie](https://github.com/rs/curlie) to [ZhangZhuoSJTU/curlie](https://github.com/ZhangZhuoSJTU/curlie)
+  > The power of curl, the ease of use of httpie.
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [pls-rs/pls](https://github.com/pls-rs/pls) to [ZhangZhuoSJTU/pls](https://github.com/ZhangZhuoSJTU/pls)
+  > pls is a prettier and powerful ls(1) for the pros.
+- 🍴 👤 [ZhangZhuoSJTU](https://github.com/ZhangZhuoSJTU) Forked [nikolassv/bartib](https://github.com/nikolassv/bartib) to [ZhangZhuoSJTU/bartib](https://github.com/ZhangZhuoSJTU/bartib)
+  > A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext f...
+
+### [ant4g0nist](https://github.com/ant4g0nist)
+- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [redhat-et/ripwire](https://github.com/redhat-et/ripwire)
+  > The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server giving coding agents a ranked, d...
 
 ### [antiwar3](https://github.com/antiwar3)
 - 🌟 👤 [antiwar3](https://github.com/antiwar3) Starred [Qmeimei10086/pte-dbg](https://github.com/Qmeimei10086/pte-dbg)
@@ -293,16 +317,12 @@
   > A mod that allows you to carry and use a cellphone in Minecraft
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [zTrix/sata-license](https://github.com/zTrix/sata-license)
   > The Star And Thank Author License(SATA License)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [boxiaolanya2008/CVE-2026-43499-Neo11Plus](https://github.com/boxiaolanya2008/CVE-2026-43499-Neo11Plus)
+  > the CVE-2026-43499 by iqooneo11
 
 ### [codingsf](https://github.com/codingsf)
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)
   > Community fork of PlayCover
-
-### [cozis](https://github.com/cozis)
-- 🌟 👤 [cozis](https://github.com/cozis) Starred [sqliteai/liteparser](https://github.com/sqliteai/liteparser)
-  > A lightweight, embeddable SQL parser designed for SQLite-based applications. It parses SQL statement...
-- 🌟 👤 [cozis](https://github.com/cozis) Starred [technologylab-ai/baz](https://github.com/technologylab-ai/baz)
-  > Baz — Bounded Async Zap. A modern Zig 0.16.0 web framework on bounded/http.
 
 ### [crazywa1ker](https://github.com/crazywa1ker)
 - 🌟 👤 [crazywa1ker](https://github.com/crazywa1ker) Starred [microsoft/qlib](https://github.com/microsoft/qlib)
@@ -343,6 +363,8 @@
   > Open Source Steam Unlocker
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [aftermathlabs/bintests](https://github.com/aftermathlabs/bintests)
+  > A large collection of 32bit and 64bit PE files useful for verifying the correctness of bin2bin trans...
 
 ### [gclm](https://github.com/gclm)
 - 🍴 👤 [gclm](https://github.com/gclm) Forked [jiangtaovan/tdxrs](https://github.com/jiangtaovan/tdxrs) to [gclm/tdxrs](https://github.com/gclm/tdxrs)
@@ -395,6 +417,26 @@
   > DarkSword webkit exploit captured ITW
 - 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
   > Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [NisaarAgharia/AI-Shorts-Creator](https://github.com/NisaarAgharia/AI-Shorts-Creator)
+  > AI-Video-Cropper is a Python-based tool that leverages the power of GPT-4 (OpenAI's language model) ...
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [SaarD00/AI-Youtube-Shorts-Generator](https://github.com/SaarD00/AI-Youtube-Shorts-Generator)
+  > Infinite content, zero manual editing. A fully automated 'faceless' video factory that turns trendin...
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [cristianzsh/youtube-video-maker](https://github.com/cristianzsh/youtube-video-maker)
+  > :video_camera: A tool for automatic video creation and uploading on YouTube
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [ChetanXpro/short-video-automation](https://github.com/ChetanXpro/short-video-automation)
+  > AI short content automation tool, which can generate short videos for youtube and instagram
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [ayush-that/jiang-clips](https://github.com/ayush-that/jiang-clips)
+  > 🎬 Automated pipeline that converts long-form YouTube videos into viral-ready vertical clips with cap...
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [Dark2C/Viral-Faceless-Shorts-Generator](https://github.com/Dark2C/Viral-Faceless-Shorts-Generator)
+  > Automatically generate faceless YouTube Shorts from trending topics using AI scripts, TTS, and FFmpe...
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [charleprr/redditube](https://github.com/charleprr/redditube)
+  > A video generator from Reddit posts and comments
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [itsPremkumar/Automated-Video-Generator](https://github.com/itsPremkumar/Automated-Video-Generator)
+  > Agentic AI video generator — fully autonomous text-to-video pipeline with free TTS/voice-clone, auto...
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [yassinekader/AI-Youtube-Shorts-Generator-](https://github.com/yassinekader/AI-Youtube-Shorts-Generator-)
+  > A python tool that uses Gemini-Pro, FFmpeg, Whisper, and OpenCV to automatically analyze videos, ext...
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [mzu-2410z/yt-automation](https://github.com/mzu-2410z/yt-automation)
+  > 🎬 A 100% free, fully automated YouTube Shorts generator. Uses Python, Groq (Llama 3), Kokoro TTS, an...
 
 ### [jmpews](https://github.com/jmpews)
 - 🌟 👤 [jmpews](https://github.com/jmpews) Starred [denoland/celld](https://github.com/denoland/celld)
@@ -553,6 +595,10 @@
 - 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [gerhart01/Hyper-V-scripts](https://github.com/gerhart01/Hyper-V-scripts)
   > Hyper-V scripts
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [apache/iggy](https://github.com/apache/iggy)
+  > Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
+
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [usdfan/sd2api](https://github.com/usdfan/sd2api)
   > Seedance 2.0 视频生成 2API 网关，兼容 OpenAI Videos 规范与火山引擎接口，支持文/图/多模态参考生视频、多账号并发池与 WebUI。
@@ -570,6 +616,12 @@
   > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [NeverSight/NeverC](https://github.com/NeverSight/NeverC)
   > The AI-friendly C23 compiler for security research, built on LLVM [WIP]
+
+### [semlinker](https://github.com/semlinker)
+- 🌟 👤 [semlinker](https://github.com/semlinker) Starred [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
+  > Open source inference server that runs the best local models for your hardware, plugged into the age...
+- 🌟 👤 [semlinker](https://github.com/semlinker) Starred [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)
+  > Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-fi...
 
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [trycua/cua](https://github.com/trycua/cua)
@@ -698,5 +750,5 @@
 
 
 ---
-*最后更新于 2026-09-06 21:04:28 UTC*
+*最后更新于 2026-09-06 23:31:26 UTC*
 *历史记录保存在 `archive` 目录中。*
