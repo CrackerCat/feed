@@ -83,6 +83,10 @@
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
   > A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99:...
 
+### [Cxk4ng](https://github.com/Cxk4ng)
+- 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [exelban/stats](https://github.com/exelban/stats)
+  > macOS system monitor in your menu bar
+
 ### [DarkLineX](https://github.com/DarkLineX)
 - 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [Aisland-SJL/dsh-worktable](https://github.com/Aisland-SJL/dsh-worktable)
   > 🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a ...
@@ -98,6 +102,8 @@
   > A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming...
 - 🌟 👤 [DeLuks2006](https://github.com/DeLuks2006) Starred [noahware/emu](https://github.com/noahware/emu)
   > ARM64 instruction emulator written in modern c++.
+- 🌟 👤 [DeLuks2006](https://github.com/DeLuks2006) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 
 ### [DerekSelander](https://github.com/DerekSelander)
 - 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [MobAI-App/simslim](https://github.com/MobAI-App/simslim)
@@ -120,6 +126,12 @@
   > A full claude and codex skillsets for firmware reverse engineering.
 - 🌟 👤 [Dispa1r](https://github.com/Dispa1r) Starred [mito753/Kernel-Exploit-Dojo](https://github.com/mito753/Kernel-Exploit-Dojo)
   > CTF kernel exploitation notes, PoCs, exploits, and writeups.
+
+### [DownWithUp](https://github.com/DownWithUp)
+- 🌟 👤 [DownWithUp](https://github.com/DownWithUp) Starred [karollooool/CVE-2026-83991-writeup-and-poc](https://github.com/karollooool/CVE-2026-83991-writeup-and-poc)
+  > CVE-2026-83991: Windows Cloud Files access-check bypass
+- 🌟 👤 [DownWithUp](https://github.com/DownWithUp) Starred [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
+  > A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99:...
 
 ### [Dy-Baby](https://github.com/Dy-Baby)
 - 🌟 👤 [Dy-Baby](https://github.com/Dy-Baby) Starred [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)
@@ -154,6 +166,12 @@
 ### [GaoYuCan](https://github.com/GaoYuCan)
 - 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
   > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
+
+### [GitSquared](https://github.com/GitSquared)
+- 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [tokio-rs/tracing](https://github.com/tokio-rs/tracing)
+  > Application level tracing for Rust.
+- 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [tokio-rs/toasty](https://github.com/tokio-rs/toasty)
+  > An async ORM for Rust
 
 ### [HATTER-LONG](https://github.com/HATTER-LONG)
 - 🌟 👤 [HATTER-LONG](https://github.com/HATTER-LONG) Starred [deskflow/deskflow](https://github.com/deskflow/deskflow)
@@ -324,6 +342,8 @@
 
 ### [codehz](https://github.com/codehz)
 - 🌟 👤 [codehz](https://github.com/codehz) Starred [letstri/motion-panels](https://github.com/letstri/motion-panels)
+- 🌟 👤 [codehz](https://github.com/codehz) Starred [mahdidavoodi7/react-native-continued-task](https://github.com/mahdidavoodi7/react-native-continued-task)
+  > Background tasks that keep running after your app is backgrounded, for React Native and Expo. Wraps ...
 
 ### [codezjx](https://github.com/codezjx)
 - 🌟 👤 [codezjx](https://github.com/codezjx) Starred [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
@@ -371,6 +391,10 @@
   > Header-only x64 Windows kernel memory access helper for BYOVD toolchains: System CR3 scan, LA57-awar...
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [willfaust/Madeira](https://github.com/willfaust/Madeira)
   > Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [NeverSight/NeverD](https://github.com/NeverSight/NeverD)
+  > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [dom0ng/pcileech-modem](https://github.com/dom0ng/pcileech-modem)
+  > pcileech-fpga with modem card emulation (Lucent PCI-SV92EX Soft Modem)
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [potechitakusan/PSDMaker-A](https://github.com/potechitakusan/PSDMaker-A)
@@ -417,6 +441,9 @@
 - 🍴 👤 [fyrlove](https://github.com/fyrlove) Forked [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise) to [fyrlove/LSPromise](https://github.com/fyrlove/LSPromise)
   > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
 
+### [gamelaster](https://github.com/gamelaster)
+- 🌟 👤 [gamelaster](https://github.com/gamelaster) Starred [Deadknight/ArdaCompanion](https://github.com/Deadknight/ArdaCompanion)
+
 ### [ghluzhiyuan](https://github.com/ghluzhiyuan)
 - 🌟 👤 [ghluzhiyuan](https://github.com/ghluzhiyuan) Starred [xiaojianbang8888/xiaojianbang-stealth-hook](https://github.com/xiaojianbang8888/xiaojianbang-stealth-hook)
   > Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。
@@ -438,6 +465,10 @@
 ### [h3h3qaq](https://github.com/h3h3qaq)
 - 🌟 👤 [h3h3qaq](https://github.com/h3h3qaq) Starred [0xlane/ollvm-rust](https://github.com/0xlane/ollvm-rust)
   > out-of-tree llvm obfuscation pass plugin (dynamically loadable by rustc). || rust toolchain with obf...
+
+### [hacksysteam](https://github.com/hacksysteam)
+- 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [Supersonic/TLPE](https://github.com/Supersonic/TLPE)
+  > CVE-2026-49881, a logic issue in the InCallController class in Android 17's Telecom service that all...
 
 ### [hanc00l](https://github.com/hanc00l)
 - 🌟 👤 [hanc00l](https://github.com/hanc00l) Starred [praetorian-inc/nerva](https://github.com/praetorian-inc/nerva)
@@ -554,8 +585,18 @@
   > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RealNeGate/Cuik](https://github.com/RealNeGate/Cuik)
-  > A Modern C11 compiler (STILL EARLY)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/Dragons-vs-VMs](https://github.com/Fare9/Dragons-vs-VMs)
+  > Scripts, notes, and other files about the analysis of VMProtect with Dragon Tales
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/dragon-tales-web](https://github.com/Fare9/dragon-tales-web)
+  > Website with dragon-tales documentation and manual
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/My-Symbolic-Execution](https://github.com/Fare9/My-Symbolic-Execution)
+  > My repository to store all the examples I do about symbolic execution
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noahware/emu](https://github.com/noahware/emu)
+  > ARM64 instruction emulator written in modern c++.
+
+### [mstrobel](https://github.com/mstrobel)
+- 🌟 👤 [mstrobel](https://github.com/mstrobel) Starred [pollockjj/ComfyUI-MultiGPU](https://github.com/pollockjj/ComfyUI-MultiGPU)
+  > This custom_node for ComfyUI adds one-click "Virtual VRAM" for any UNet and CLIP loader as well Mult...
 
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [NBalciunas/kicad-rfsim](https://github.com/NBalciunas/kicad-rfsim)
@@ -578,6 +619,10 @@
 ### [noahware](https://github.com/noahware)
 - 🌟 👤 [noahware](https://github.com/noahware) Starred [noahware/emu](https://github.com/noahware/emu)
   > ARM64 instruction emulator written in modern c++.
+
+### [not1cyyy](https://github.com/not1cyyy)
+- 🌟 👤 [not1cyyy](https://github.com/not1cyyy) Starred [Cr4sh/KernelForge](https://github.com/Cr4sh/KernelForge)
+  > A library to develop kernel level Windows payloads for post HVCI era
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [Droid-VM/gh-hugepage-reserve](https://github.com/Droid-VM/gh-hugepage-reserve)
@@ -728,14 +773,6 @@
 - 🌟 👤 [yahch](https://github.com/yahch) Starred [lantunnel/lantunnel](https://github.com/lantunnel/lantunnel)
   > Your private network, wherever you work. Peer-to-peer first, end-to-end encrypted access to your own...
 
-### [yanyaoli](https://github.com/yanyaoli)
-- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [every-app/open-seo](https://github.com/every-app/open-seo)
-  > Open source alternative to Semrush and Ahrefs
-- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [ActivePeter/vibe-vscode](https://github.com/ActivePeter/vibe-vscode)
-  > Visual Studio Code for remote vibe coding
-- 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [rhevorn/shape](https://github.com/rhevorn/shape)
-  > Type-safe, dependency-free schema validation for Go 1.24+, with generics, JSON parsing, localized er...
-
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [lkimuk/ReArk](https://github.com/lkimuk/ReArk)
   > An intelligent reverse engineering analysis tool designed for multiple target platforms, currently s...
@@ -760,5 +797,5 @@
 
 
 ---
-*最后更新于 2026-09-09 17:36:18 UTC*
+*最后更新于 2026-09-09 20:31:42 UTC*
 *历史记录保存在 `archive` 目录中。*
