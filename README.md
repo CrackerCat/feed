@@ -13,6 +13,10 @@
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [Lakr233/Litext](https://github.com/Lakr233/Litext)
   > A tiny rich-text supporting library for Apple platform.
 
+### [0xBakeer](https://github.com/0xBakeer)
+- 🌟 👤 [0xBakeer](https://github.com/0xBakeer) Starred [0xBakeer/ling3-flash-spark](https://github.com/0xBakeer/ling3-flash-spark)
+  > Ling-3.0-flash (MXFP4) on one NVIDIA DGX Spark: Humming MoE + FP8 LM head + DSpark speculative decod...
+
 ### [0xHJK](https://github.com/0xHJK)
 - 🌟 👤 [0xHJK](https://github.com/0xHJK) Starred [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
   > 🧠 Train a 64M-parameter LLM from scratch in just 2h!
@@ -22,6 +26,10 @@
   > Automated alignment adjustment for LLMs — direct steering, LoRA, and MoE expert-granular abliteratio...
 - 🌟 👤 [0xWhiteMage](https://github.com/0xWhiteMage) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
+
+### [0xbinder](https://github.com/0xbinder)
+- 🌟 👤 [0xbinder](https://github.com/0xbinder) Starred [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+  > Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Window...
 
 ### [0xdad0](https://github.com/0xdad0)
 - 🌟 👤 [0xdad0](https://github.com/0xdad0) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
@@ -58,6 +66,10 @@
 ### [Andrea-lyz](https://github.com/Andrea-lyz)
 - 🌟 👤 [Andrea-lyz](https://github.com/Andrea-lyz) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
   > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
+
+### [Aniketh01](https://github.com/Aniketh01)
+- 🌟 👤 [Aniketh01](https://github.com/Aniketh01) Starred [Seigniterms/OPENAI-Privacy-Filter-Reversible-Tokenization](https://github.com/Seigniterms/OPENAI-Privacy-Filter-Reversible-Tokenization)
+  > OPENAI Privacy Filter with a reversible tokenization vault layer
 
 ### [AnkioTomas](https://github.com/AnkioTomas)
 - 🍴 👤 [AnkioTomas](https://github.com/AnkioTomas) Forked [usestrix/strix](https://github.com/usestrix/strix) to [AnkioTomas/strix](https://github.com/AnkioTomas/strix)
@@ -96,6 +108,9 @@
   > secrep by Fyyre. for rebuilding sections in unpacked binaries
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [RealNeGate/Cuik](https://github.com/RealNeGate/Cuik)
   > A Modern C11 compiler (STILL EARLY)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Zumbo06/Crash2Recomp](https://github.com/Zumbo06/Crash2Recomp)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [moio9/NFS-Online-Server](https://github.com/moio9/NFS-Online-Server)
+  > NFS MW, UG2 and Carbon online server emulator.
 
 ### [DeLuks2006](https://github.com/DeLuks2006)
 - 🌟 👤 [DeLuks2006](https://github.com/DeLuks2006) Starred [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book)
@@ -138,6 +153,8 @@
   > ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 - 🌟 👤 [Dy-Baby](https://github.com/Dy-Baby) Starred [1034063174/DisassembleVmp](https://github.com/1034063174/DisassembleVmp)
   > VMP分析工具
+- 🌟 👤 [Dy-Baby](https://github.com/Dy-Baby) Starred [MeroZemory/ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp)
+  > Multi-instance IDA Pro MCP server — analyze multiple binaries simultaneously through a single MCP en...
 
 ### [EthanArbuckle](https://github.com/EthanArbuckle)
 - 🌟 👤 [EthanArbuckle](https://github.com/EthanArbuckle) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
@@ -150,10 +167,6 @@
 ### [Fansirsqi](https://github.com/Fansirsqi)
 - 🍴 👤 [Fansirsqi](https://github.com/Fansirsqi) Forked [AAswordman/Operit](https://github.com/AAswordman/Operit) to [Fansirsqi/Operit](https://github.com/Fansirsqi/Operit)
   > The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent
-
-### [Fischsalat](https://github.com/Fischsalat)
-- 🌟 👤 [Fischsalat](https://github.com/Fischsalat) Starred [Cr4sh/KernelForge](https://github.com/Cr4sh/KernelForge)
-  > A library to develop kernel level Windows payloads for post HVCI era
 
 ### [FldBudin](https://github.com/FldBudin)
 - 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
@@ -253,9 +266,21 @@
 - 🌟 👤 [Resery](https://github.com/Resery) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
   > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
 
+### [Seyud](https://github.com/Seyud)
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [hao1196561270/MiFitnessAdAway](https://github.com/hao1196561270/MiFitnessAdAway)
+  > 小米运动健康（com.mi.health 3.58.0）去广告 LSPosed/Xposed 模块（libxposed API 102）
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [Dr-TSNG/fancyboot](https://github.com/Dr-TSNG/fancyboot)
+  > Mountless Android boot animation module
+
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
   > The fastest browser for AI agents to run browser automation, built for sharing your logged-in browse...
+
+### [Skorpion96](https://github.com/Skorpion96)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
+  > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [Supersonic/TLPE](https://github.com/Supersonic/TLPE)
+  > CVE-2026-49881, a logic issue in the InCallController class in Android 17's Telecom service that all...
 
 ### [SoyBeanMilkx](https://github.com/SoyBeanMilkx)
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
@@ -276,6 +301,9 @@
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
   > The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and N...
+
+### [TomAPU](https://github.com/TomAPU)
+- 🌟 👤 [TomAPU](https://github.com/TomAPU) Starred [anthropics/mythos-5-incident-transcript](https://github.com/anthropics/mythos-5-incident-transcript)
 
 ### [Twi1ight](https://github.com/Twi1ight)
 - 🌟 👤 [Twi1ight](https://github.com/Twi1ight) Starred [gadievron/raptor](https://github.com/gadievron/raptor)
@@ -363,12 +391,13 @@
 - 🌟 👤 [cxxsheng](https://github.com/cxxsheng) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
   > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
 
-### [darkskygit](https://github.com/darkskygit)
-- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [CheshireMew/PuppetLoom](https://github.com/CheshireMew/PuppetLoom)
-
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [lantunnel/lantunnel](https://github.com/lantunnel/lantunnel)
   > Your private network, wherever you work. Peer-to-peer first, end-to-end encrypted access to your own...
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)
+  > 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli)
+  > Make Every Team AI Native
 
 ### [doodlewind](https://github.com/doodlewind)
 - 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [pocket-stack/pocket-map](https://github.com/pocket-stack/pocket-map)
@@ -377,6 +406,10 @@
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+
+### [dumblob](https://github.com/dumblob)
+- 🌟 👤 [dumblob](https://github.com/dumblob) Starred [ZIMA-Engineering/ZIMA-CAD](https://github.com/ZIMA-Engineering/ZIMA-CAD)
+- 🍴 👤 [dumblob](https://github.com/dumblob) Forked [ZIMA-Engineering/ZIMA-CAD](https://github.com/ZIMA-Engineering/ZIMA-CAD) to [dumblob/ZIMA-CAD](https://github.com/dumblob/ZIMA-CAD)
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
@@ -406,6 +439,12 @@
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [MoeClub/Note](https://github.com/MoeClub/Note)
   > Some Note
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
+  > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Supersonic/TLPE](https://github.com/Supersonic/TLPE)
+  > CVE-2026-49881, a logic issue in the InCallController class in Android 17's Telecom service that all...
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [syumai/sandbox-workers](https://github.com/syumai/sandbox-workers)
@@ -469,6 +508,8 @@
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [Supersonic/TLPE](https://github.com/Supersonic/TLPE)
   > CVE-2026-49881, a logic issue in the InCallController class in Android 17's Telecom service that all...
+- 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [Dryxio/reagent](https://github.com/Dryxio/reagent)
+  > Reconstruct and validate C/C++ code from compiled programs with AI.
 
 ### [hanc00l](https://github.com/hanc00l)
 - 🌟 👤 [hanc00l](https://github.com/hanc00l) Starred [praetorian-inc/nerva](https://github.com/praetorian-inc/nerva)
@@ -567,9 +608,6 @@
 - 🌟 👤 [mav8557](https://github.com/mav8557) Starred [t3dotgg/melee4mac](https://github.com/t3dotgg/melee4mac)
   > Melee for Mac. Fully automated slop experiment. Not meant for serious use or investigation. No suppo...
 
-### [mcxiaoke](https://github.com/mcxiaoke)
-- 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [lsa03/neat-freak-person](https://github.com/lsa03/neat-freak-person)
-
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Sadpainy/Stuxnet](https://github.com/Sadpainy/Stuxnet)
   > Stuxnet, Here reproduced by me, Only for researchs educations purposes. It set work on WindowsXP and...
@@ -583,6 +621,10 @@
 ### [monkeylord](https://github.com/monkeylord)
 - 🌟 👤 [monkeylord](https://github.com/monkeylord) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
   > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
+
+### [mrT4ntr4](https://github.com/mrT4ntr4)
+- 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [originsec/hyperv-mcp](https://github.com/originsec/hyperv-mcp)
+  > An MCP server for Hyper-V VM management and guest execution
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/Dragons-vs-VMs](https://github.com/Fare9/Dragons-vs-VMs)
@@ -652,6 +694,10 @@
 - 🌟 👤 [r0ysue](https://github.com/r0ysue) Starred [witchan/ios-mcp](https://github.com/witchan/ios-mcp)
   > iOS MCP: MCP management tool for jailbroken iPhones, enabling developers and AI agents to inspect an...
 
+### [rabbitstack](https://github.com/rabbitstack)
+- 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [0xflux/Vectored-Exception-Handling-Squared](https://github.com/0xflux/Vectored-Exception-Handling-Squared)
+  > Vectored Exception Handling Squared
+
 ### [rankalpha](https://github.com/rankalpha)
 - 🌟 👤 [rankalpha](https://github.com/rankalpha) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
   > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
@@ -716,10 +762,22 @@
 - 🍴 👤 [shuixi2013](https://github.com/shuixi2013) Forked [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace) to [shuixi2013/QTrace_bak](https://github.com/shuixi2013/QTrace_bak)
   > qbdi based android arm64 trace tool
 
+### [sotasan](https://github.com/sotasan)
+- 🌟 👤 [sotasan](https://github.com/sotasan) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+  > Chrome DevTools for coding agents
+
+### [subat0mik](https://github.com/subat0mik)
+- 🌟 👤 [subat0mik](https://github.com/subat0mik) Starred [subat0mik/Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager)
+  > Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager t...
+
 ### [taisuii](https://github.com/taisuii)
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker)
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [xiaojianbang8888/xiaojianbang-stealth-hook](https://github.com/xiaojianbang8888/xiaojianbang-stealth-hook)
   > Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。
+
+### [thebabush](https://github.com/thebabush)
+- 🌟 👤 [thebabush](https://github.com/thebabush) Starred [openlgtv/epk2extract](https://github.com/openlgtv/epk2extract)
+  > Extraction tool for LG, Hisense, Sharp, Philips/TPV, Thompson and similar TVs/Embedded Devices
 
 ### [trysec](https://github.com/trysec)
 - 🍴 👤 [trysec](https://github.com/trysec) Forked [ycvk/Z3r0](https://github.com/ycvk/Z3r0) to [trysec/Z3r0](https://github.com/trysec/Z3r0)
@@ -797,5 +855,5 @@
 
 
 ---
-*最后更新于 2026-09-09 20:31:42 UTC*
+*最后更新于 2026-09-09 22:57:55 UTC*
 *历史记录保存在 `archive` 目录中。*
