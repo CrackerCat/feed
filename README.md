@@ -76,6 +76,12 @@
 - 🍴 👤 [GermanAizek](https://github.com/GermanAizek) Forked [MaartenBaert/ssr](https://github.com/MaartenBaert/ssr) to [GermanAizek/ssr](https://github.com/GermanAizek/ssr)
   > SimpleScreenRecorder, a screen recorder for Linux
 
+### [GitSquared](https://github.com/GitSquared)
+- 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [transact-rs/sqlx](https://github.com/transact-rs/sqlx)
+  > 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without...
+- 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
+  > 🐚 A powerful relational ORM for Rust
+
 ### [HackerYunen](https://github.com/HackerYunen)
 - 🌟 👤 [HackerYunen](https://github.com/HackerYunen) Starred [oritera/Cairn](https://github.com/oritera/Cairn)
   > A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
@@ -106,6 +112,10 @@
 ### [KyuubiRan](https://github.com/KyuubiRan)
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus)
   > A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests...
+
+### [L4ys](https://github.com/L4ys)
+- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex)
+  > Give cloud AI agents a real development environment on your own machines.
 
 ### [LanBaiCode](https://github.com/LanBaiCode)
 - 🌟 👤 [LanBaiCode](https://github.com/LanBaiCode) Starred [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch)
@@ -140,6 +150,10 @@
   > High-Performance server for NATS.io, the cloud and edge native messaging system.
 - 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [nats-io/nats-server](https://github.com/nats-io/nats-server) to [LunFengChen/nats-server](https://github.com/LunFengChen/nats-server)
   > High-Performance server for NATS.io, the cloud and edge native messaging system.
+
+### [MJx0](https://github.com/MJx0)
+- 🚀 👤 [MJx0](https://github.com/MJx0) Made [MJx0/MobileDumper-7](https://github.com/MJx0/MobileDumper-7) public
+  > Mobile Unreal Engine Dumper
 
 ### [Mandi-Sa](https://github.com/Mandi-Sa)
 - 🌟 👤 [Mandi-Sa](https://github.com/Mandi-Sa) Starred [idefav/web-search](https://github.com/idefav/web-search)
@@ -176,6 +190,10 @@
 ### [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t)
 - 🌟 👤 [S3cur3Th1sSh1t](https://github.com/S3cur3Th1sSh1t) Starred [outflanknl/ntlmrain](https://github.com/outflanknl/ntlmrain)
   > Recover NT hashes from NetNTLMv1 responses using local WebGPU computation and local/remote table loo...
+
+### [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO)
+- 🌟 👤 [SetsunaYukiOvO](https://github.com/SetsunaYukiOvO) Starred [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)
+  > Lean certificates accompanying Navier-Stokes and Euler results
 
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
@@ -233,6 +251,10 @@
 ### [WitherOrNot](https://github.com/WitherOrNot)
 - 🌟 👤 [WitherOrNot](https://github.com/WitherOrNot) Starred [doldecomp/melee](https://github.com/doldecomp/melee)
   > A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.
+
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [DetachHead/rebased](https://github.com/DetachHead/rebased)
+  > A git client based on the IntelliJ platform
 
 ### [Youlor](https://github.com/Youlor)
 - 🌟 👤 [Youlor](https://github.com/Youlor) Starred [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)
@@ -297,6 +319,9 @@
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [lfzk550/fanzha-ai-proxy](https://github.com/lfzk550/fanzha-ai-proxy)
   > 国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [HexHive/taemu](https://github.com/HexHive/taemu)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [mobilehackinglab/CVE-2026-28576-poc](https://github.com/mobilehackinglab/CVE-2026-28576-poc)
+  > SQL injection vulnerability in Android 17 (AOSP)
 
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
@@ -356,6 +381,10 @@
 - 🌟 👤 [dartcv](https://github.com/dartcv) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
+### [datochan](https://github.com/datochan)
+- 🌟 👤 [datochan](https://github.com/datochan) Starred [itmisx/deepx-code](https://github.com/itmisx/deepx-code)
+  > deepseek标配coding agent、原生支持模型路由、CodeGraph代码图谱、OCR截图识别、自动上下文压缩、最佳工作模式选择，workflow等功能，从根本上节省Token
+
 ### [delikely](https://github.com/delikely)
 - 🌟 👤 [delikely](https://github.com/delikely) Starred [globsky/SignalSim](https://github.com/globsky/SignalSim)
   > A multi-stage GNSS signal and data simulator
@@ -363,6 +392,10 @@
 ### [dirname](https://github.com/dirname)
 - 🍴 👤 [dirname](https://github.com/dirname) Forked [cloudwego/volo](https://github.com/cloudwego/volo) to [dirname/volo](https://github.com/dirname/volo)
   > Rust RPC framework with high-performance and strong-extensibility for building micro-services.
+
+### [dodola](https://github.com/dodola)
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [masihsultani/whiteboard-animator](https://github.com/masihsultani/whiteboard-animator)
+  > Turn a whiteboard-style image into a hand-drawn reveal video. The render engine behind Kinoslide.
 
 ### [dstmath](https://github.com/dstmath)
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [ophub/fnnas](https://github.com/ophub/fnnas)
@@ -410,10 +443,6 @@
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [microsoft/tgrep](https://github.com/microsoft/tgrep)
   > Trigram-indexed grep with a client/server architecture for fast regex search in large codebases loca...
 
-### [es3n1n](https://github.com/es3n1n)
-- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [ZXShady/enchantum](https://github.com/ZXShady/enchantum)
-  > Faster enum reflection for C++17 since I don't want to wait for C++26 reflection.
-
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [HexRaysSA/claude-marketplace](https://github.com/HexRaysSA/claude-marketplace)
   > IDA Claude Code Plugins
@@ -460,6 +489,12 @@
 - 🌟 👤 [hanbings](https://github.com/hanbings) Starred [project-zot/zot](https://github.com/project-zot/zot)
   > zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (pure...
 
+### [hdbreaker](https://github.com/hdbreaker)
+- 🍴 👤 [hdbreaker](https://github.com/hdbreaker) Forked [Lixense/ff-ace-anticheat-analysis](https://github.com/Lixense/ff-ace-anticheat-analysis) to [hdbreaker/ff-ace-anticheat-analysis](https://github.com/hdbreaker/ff-ace-anticheat-analysis)
+  > Reverse engineering post-mortem on Tencent ACE (Anti-Cheat Expert) in Free Fire. Byte-proven notes o...
+- 🌟 👤 [hdbreaker](https://github.com/hdbreaker) Starred [Lixense/ff-ace-anticheat-analysis](https://github.com/Lixense/ff-ace-anticheat-analysis)
+  > Reverse engineering post-mortem on Tencent ACE (Anti-Cheat Expert) in Free Fire. Byte-proven notes o...
+
 ### [heroims](https://github.com/heroims)
 - 🌟 👤 [heroims](https://github.com/heroims) Starred [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
   > Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
@@ -477,6 +512,10 @@
 ### [jiushill](https://github.com/jiushill)
 - 🌟 👤 [jiushill](https://github.com/jiushill) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
   > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
+
+### [jmcnamara](https://github.com/jmcnamara)
+- 🌟 👤 [jmcnamara](https://github.com/jmcnamara) Starred [jmcnamara/rust_xlsxwriter](https://github.com/jmcnamara/rust_xlsxwriter)
+  > A Rust library for creating Excel XLSX files.
 
 ### [jmpews](https://github.com/jmpews)
 - 🌟 👤 [jmpews](https://github.com/jmpews) Starred [redhat-et/ripwire](https://github.com/redhat-et/ripwire)
@@ -545,6 +584,10 @@
 - 🌟 👤 [m0nad](https://github.com/m0nad) Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)
   > 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
+### [mito753](https://github.com/mito753)
+- 🌟 👤 [mito753](https://github.com/mito753) Starred [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
+  > A collection of links related to Linux kernel security and exploitation
+
 ### [mkr-infinity](https://github.com/mkr-infinity)
 - 🌟 👤 [mkr-infinity](https://github.com/mkr-infinity) Starred [mkr-infinity/CalcVerse](https://github.com/mkr-infinity/CalcVerse)
   > A modern mathematics toolkit that brings calculations, scientific problem-solving, graphing, matrice...
@@ -552,10 +595,6 @@
 ### [mo-xiaoxi](https://github.com/mo-xiaoxi)
 - 🌟 👤 [mo-xiaoxi](https://github.com/mo-xiaoxi) Starred [doocs/cose](https://github.com/doocs/cose)
   > 😃 md 编辑器使用的浏览器扩展，支持一键将文章同步到多个内容平台。
-
-### [mtrojnar](https://github.com/mtrojnar)
-- 🍴 👤 [mtrojnar](https://github.com/mtrojnar) Forked [cppcheck-opensource/cppcheck](https://github.com/cppcheck-opensource/cppcheck) to [mtrojnar/cppcheck](https://github.com/mtrojnar/cppcheck)
-  > static analysis of C/C++ code
 
 ### [muellan](https://github.com/muellan)
 - 🌟 👤 [muellan](https://github.com/muellan) Starred [brianblakely/omashot](https://github.com/brianblakely/omashot)
@@ -701,6 +740,10 @@
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [suprepupre/wow-optimize](https://github.com/suprepupre/wow-optimize)
   > Engine-level optimization DLL for WoW 3.3.5a. Replaces the allocator, adds Lua VM and file I/O fast ...
 
+### [wbenny](https://github.com/wbenny)
+- 🚀 👤 [wbenny](https://github.com/wbenny) Made [vmi-rs/debian-xen](https://github.com/vmi-rs/debian-xen) public
+  > Xen packaging for Debian
+
 ### [weixiansen574](https://github.com/weixiansen574)
 - 🌟 👤 [weixiansen574](https://github.com/weixiansen574) Starred [gaopengbin/geo-downloader](https://github.com/gaopengbin/geo-downloader)
   > GeoD — Free and open-source geospatial data downloader for OpenStreetMap/XYZ tiles, GeoTIFF, 3D Tile...
@@ -715,6 +758,10 @@
 ### [winezer0](https://github.com/winezer0)
 - 🌟 👤 [winezer0](https://github.com/winezer0) Starred [abc123info/BlueTeamTools](https://github.com/abc123info/BlueTeamTools)
   > 蓝队分析研判工具箱，功能包括内存马反编译分析、各种代码格式化、网空资产测绘功能、溯源辅助、解密冰蝎流量、解密哥斯拉流量、解密Shiro/CAS/Log4j2的攻击payload、IP/端口连接分析、各...
+
+### [wsxyeah](https://github.com/wsxyeah)
+- 🌟 👤 [wsxyeah](https://github.com/wsxyeah) Starred [ThorstenRhau/token](https://github.com/ThorstenRhau/token)
+  > Neovim colorscheme with terminal-wide contrib themes
 
 ### [wszxl516](https://github.com/wszxl516)
 - 🌟 👤 [wszxl516](https://github.com/wszxl516) Starred [pocket-stack/pocketjs](https://github.com/pocket-stack/pocketjs)
@@ -758,6 +805,10 @@
 - 🌟 👤 [yichen115](https://github.com/yichen115) Starred [globsky/SignalSim](https://github.com/globsky/SignalSim)
   > A multi-stage GNSS signal and data simulator
 
+### [zboralski](https://github.com/zboralski)
+- 🌟 👤 [zboralski](https://github.com/zboralski) Starred [mgtf/atoma](https://github.com/mgtf/atoma)
+  > Intelligence is spent once, at the top; execution gets progressively compiled away
+
 ### [zer0def](https://github.com/zer0def)
 - 🍴 👤 [zer0def](https://github.com/zer0def) Forked [external-mirrors/xorg-xserver](https://github.com/external-mirrors/xorg-xserver) to [zer0def/xserver](https://github.com/zer0def/xserver)
 
@@ -777,5 +828,5 @@
 
 
 ---
-*最后更新于 2026-09-08 21:36:09 UTC*
+*最后更新于 2026-09-08 23:52:02 UTC*
 *历史记录保存在 `archive` 目录中。*
