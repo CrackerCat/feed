@@ -77,10 +77,6 @@
 - 🌟 👤 [Brinmon](https://github.com/Brinmon) Starred [EkoCommunications/AmityAndroidJet](https://github.com/EkoCommunications/AmityAndroidJet)
   > [asc, asc-android]
 
-### [CHIZI-0618](https://github.com/CHIZI-0618)
-- 🌟 👤 [CHIZI-0618](https://github.com/CHIZI-0618) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
-  > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
-
 ### [Chordp](https://github.com/Chordp)
 - 🌟 👤 [Chordp](https://github.com/Chordp) Starred [thalium/rumba](https://github.com/thalium/rumba)
   > Cracking MBAs
@@ -134,6 +130,9 @@
 - 🌟 👤 [JunGe-Y](https://github.com/JunGe-Y) Starred [w296488320/DexCfgObfuscator](https://github.com/w296488320/DexCfgObfuscator)
   > Android Gradle plugin for OLLVM-inspired DEX control-flow obfuscation and StringFog-style pluggable ...
 
+### [K2](https://github.com/K2)
+- 🌟 👤 [K2](https://github.com/K2) Starred [zoranmax/jetq](https://github.com/zoranmax/jetq)
+
 ### [Lake1059](https://github.com/Lake1059)
 - 🌟 👤 [Lake1059](https://github.com/Lake1059) Starred [purkatyy/DLSS5-](https://github.com/purkatyy/DLSS5-)
   > 一个可以独立运行，给任何视频加上DLSS5效果的小工具
@@ -155,6 +154,10 @@
 - 🍴 👤 [LunFengChen](https://github.com/LunFengChen) Forked [MG1937/ASC](https://github.com/MG1937/ASC) to [LunFengChen/ASC](https://github.com/LunFengChen/ASC)
 - 🌟 👤 [LunFengChen](https://github.com/LunFengChen) Starred [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
   > The best DeepSeek Harness plugin for context insight and management, with context dashboard / browse...
+
+### [Lz1y](https://github.com/Lz1y)
+- 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [AeonDave/malskill](https://github.com/AeonDave/malskill)
+  > Offensive oriented Skill for agentic AI
 
 ### [Monoceros406](https://github.com/Monoceros406)
 - 🌟 👤 [Monoceros406](https://github.com/Monoceros406) Starred [kmlgping/Transparent-File](https://github.com/kmlgping/Transparent-File)
@@ -293,6 +296,10 @@
 - 🌟 👤 [bin4re](https://github.com/bin4re) Starred [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
   > 帮助插件自动随着dsh版本升级的skill
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
+  > A skill file for removing AI tells from prose
+
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [SuperTurtleDev/libwayland](https://github.com/SuperTurtleDev/libwayland)
 
@@ -358,9 +365,19 @@
 - 🌟 👤 [dstmath](https://github.com/dstmath) Starred [TomKing062/action_spd_dump_it](https://github.com/TomKing062/action_spd_dump_it)
   > this is the close-source spd_dump, the open-source one will keep achieved
 
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes)
+  > 🦩 Tools for Go projects
+
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [MinishLab/semble](https://github.com/MinishLab/semble)
   > Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
+
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [DhananjayBhosale/MacDuo](https://github.com/DhananjayBhosale/MacDuo)
+  > A native Swift + Metal Mac app that makes your desktop follow your MacBook lid.
+- 🍴 👤 [everettjf](https://github.com/everettjf) Forked [DhananjayBhosale/MacDuo](https://github.com/DhananjayBhosale/MacDuo) to [everettjf/macduo](https://github.com/everettjf/macduo)
+  > A native Swift + Metal Mac app that makes your desktop follow your MacBook lid.
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI)
@@ -446,10 +463,6 @@
   > Mountless Android boot animation module
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [mcncarl/yichen-skills](https://github.com/mcncarl/yichen-skills)
 
-### [jpillora](https://github.com/jpillora)
-- 🚀 👤 [jpillora](https://github.com/jpillora) Made [jpillora/sftp](https://github.com/jpillora/sftp) public
-  > SFTP support for golang.org/x/crypto/ssh, with correct open-handle metadata semantics
-
 ### [lich4](https://github.com/lich4)
 - 🌟 👤 [lich4](https://github.com/lich4) Starred [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)
   > Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, B...
@@ -493,6 +506,8 @@
 ### [lz6688](https://github.com/lz6688)
 - 🍴 👤 [lz6688](https://github.com/lz6688) Forked [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) to [lz6688/organicmaps](https://github.com/lz6688/organicmaps)
   > 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers...
+- 🍴 👤 [lz6688](https://github.com/lz6688) Forked [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) to [lz6688/munder-difflin](https://github.com/lz6688/munder-difflin)
+  > A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows y...
 
 ### [m0nad](https://github.com/m0nad)
 - 🌟 👤 [m0nad](https://github.com/m0nad) Starred [0xMrNiko/Awesome-Red-Teaming](https://github.com/0xMrNiko/Awesome-Red-Teaming)
@@ -543,6 +558,10 @@
   > Get info about your Device Integrity through the Play Intergrity API
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP)
   > FreeRDP is a free remote desktop protocol library and clients
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [karim-manaouil/qemu-for-gunyah](https://github.com/karim-manaouil/qemu-for-gunyah)
+  > Qemu for KVM-over-Gunyah Linux kernel port
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [karim-manaouil/linux-next](https://github.com/karim-manaouil/linux-next)
+  > clone of https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next
 
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [nixpak/nixpak](https://github.com/nixpak/nixpak)
@@ -647,9 +666,15 @@
 - 🌟 👤 [taviso](https://github.com/taviso) Starred [tsl0922/ttyd](https://github.com/tsl0922/ttyd)
   > Share your terminal over the web
 
+### [tlaceby](https://github.com/tlaceby)
+- 🌟 👤 [tlaceby](https://github.com/tlaceby) Starred [wailsapp/wails](https://github.com/wailsapp/wails)
+  > Create beautiful applications using Go
+
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
   > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
+- 🌟 👤 [topcoco](https://github.com/topcoco) Starred [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+  > Solution for long term memory for agent coding CLIs and to facilitate handoff between different agen...
 
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [chAng-L19/codex-redteam-mode](https://github.com/chAng-L19/codex-redteam-mode)
@@ -750,18 +775,6 @@
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
 
-### [zhangyoufu](https://github.com/zhangyoufu)
-- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [clone1018/WebSubHub](https://github.com/clone1018/WebSubHub)
-  > A WebSub Hub
-- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [rust-alert/ra2.exe](https://github.com/rust-alert/ra2.exe)
-  > 使用 Rust 对《红色警戒 2》进行了现代化重写，现已支持高分辨率，窗口化，跨平台等特性，且额外支持《尤里的复仇》、《心灵终结》等 DLC。
-- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
-  > Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible...
-- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [Areo-Joe/chrome-acp](https://github.com/Areo-Joe/chrome-acp)
-  > Connect to ACP agent in browser.
-- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-  > Chrome DevTools for coding agents
-
 ### [zhengjim](https://github.com/zhengjim)
 - 🌟 👤 [zhengjim](https://github.com/zhengjim) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
 
@@ -775,5 +788,5 @@
 
 
 ---
-*最后更新于 2026-09-10 18:08:29 UTC*
+*最后更新于 2026-09-10 21:26:11 UTC*
 *历史记录保存在 `archive` 目录中。*
