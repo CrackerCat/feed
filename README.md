@@ -30,6 +30,10 @@
 - 🌟 👤 [16hex-Dumb](https://github.com/16hex-Dumb) Starred [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng)
   > D810-ng (Next Generation) is an updated, tested, refactored, and optimized IDA Pro plugin used to de...
 
+### [3intermute](https://github.com/3intermute)
+- 🌟 👤 [3intermute](https://github.com/3intermute) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
+  > Fully automatic censorship removal for language models
+
 ### [AEnjoy](https://github.com/AEnjoy)
 - 🌟 👤 [AEnjoy](https://github.com/AEnjoy) Starred [gpustack/gpustack](https://github.com/gpustack/gpustack)
   > A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-accessi...
@@ -92,10 +96,6 @@
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)
   > Wish you could bring the iPhone Duo effect to your MacBook?
 
-### [Ares-X](https://github.com/Ares-X)
-- 🌟 👤 [Ares-X](https://github.com/Ares-X) Starred [Ares-X/Linnet](https://github.com/Ares-X/Linnet)
-  > Linnet (双韵) — native offline Chinese & Smart English input method for macOS, powered by Rime/Squirre...
-
 ### [AshenOneYe](https://github.com/AshenOneYe)
 - 🍴 👤 [AshenOneYe](https://github.com/AshenOneYe) Forked [imj01y/trace-ui](https://github.com/imj01y/trace-ui) to [AshenOneYe/trace-ui](https://github.com/AshenOneYe/trace-ui)
   > 高性能 ARM64 执行 trace 可视化分析工具
@@ -142,9 +142,16 @@
 - 🌟 👤 [GaoYuCan](https://github.com/GaoYuCan) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
   > ASC (Agent only needS Code) is an Android decompiler front-end designed to enable fast decompilation...
 
+### [GermanAizek](https://github.com/GermanAizek)
+- 🌟 👤 [GermanAizek](https://github.com/GermanAizek) Starred [Kishonti-Opensource/gfxbench](https://github.com/Kishonti-Opensource/gfxbench)
+
 ### [GitSquared](https://github.com/GitSquared)
 - 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [a-kenji/tui-term](https://github.com/a-kenji/tui-term)
   > A pseudoterminal widget library for ratatui
+
+### [Hamz-a](https://github.com/Hamz-a)
+- 🌟 👤 [Hamz-a](https://github.com/Hamz-a) Starred [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)
+  >  State-of-the-art TTS model under 25MB 😻 
 
 ### [J0o1ey](https://github.com/J0o1ey)
 - 🌟 👤 [J0o1ey](https://github.com/J0o1ey) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
@@ -170,6 +177,10 @@
 ### [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
 - 🌟 👤 [KagurazakaHanabi](https://github.com/KagurazakaHanabi) Starred [paulneja/Linux-on-esp32-S3](https://github.com/paulneja/Linux-on-esp32-S3)
   > Real Linux 6.11 running natively on the ESP32-S3's Xtensa cores (not emulated), with working WiFi an...
+
+### [L4ys](https://github.com/L4ys)
+- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [gerhart01/LiveCloudKd](https://github.com/gerhart01/LiveCloudKd)
+  > Hyper-V Research is trendy now
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
@@ -332,12 +343,6 @@
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [sqlsec/powermode-mac](https://github.com/sqlsec/powermode-mac)
   > macOS 菜单栏打字特效工具：粒子/烟花/火焰跟随光标，纯 AX 方案
 
-### [banteg](https://github.com/banteg)
-- 🍴 👤 [banteg](https://github.com/banteg) Forked [organicmaps/url-privacy-proxy](https://github.com/organicmaps/url-privacy-proxy) to [banteg/url-privacy-proxy](https://github.com/banteg/url-privacy-proxy)
-  > Extracts coordinates from google-encoded urls without exposing clients' IP addresses
-- 🍴 👤 [banteg](https://github.com/banteg) Forked [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) to [banteg/organicmaps](https://github.com/banteg/organicmaps)
-  > 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers...
-
 ### [bibinocode](https://github.com/bibinocode)
 - 🌟 👤 [bibinocode](https://github.com/bibinocode) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
   > Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
@@ -370,10 +375,18 @@
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
   > ASC (Agent only needS Code) is an Android decompiler front-end designed to enable fast decompilation...
 
+### [cd-Crypton](https://github.com/cd-Crypton)
+- 🌟 👤 [cd-Crypton](https://github.com/cd-Crypton) Starred [cd-Crypton/ExpenShare-Tauri](https://github.com/cd-Crypton/ExpenShare-Tauri)
+  > ExpenShare (Tauri Version) - Shared household budget app for two people – offline, local RUSQLite, T...
+
 ### [cli0xfa](https://github.com/cli0xfa)
 - 🌟 👤 [cli0xfa](https://github.com/cli0xfa) Starred [byJoey/fanout](https://github.com/byJoey/fanout)
   > 把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui
 - 🌟 👤 [cli0xfa](https://github.com/cli0xfa) Starred [a6216abcd/Free-Residential-IP-Proxy-Controller](https://github.com/a6216abcd/Free-Residential-IP-Proxy-Controller)
+
+### [cmzy](https://github.com/cmzy)
+- 🌟 👤 [cmzy](https://github.com/cmzy) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+  > LLM inference in C/C++
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
@@ -426,6 +439,10 @@
 ### [eerimoq](https://github.com/eerimoq)
 - 🌟 👤 [eerimoq](https://github.com/eerimoq) Starred [AyagamiDev/ayagami](https://github.com/AyagamiDev/ayagami)
   > 2D puppet model renderer compatible with Live2D
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [NtinosTheGamer2324/ModuOS](https://github.com/NtinosTheGamer2324/ModuOS)
+  > ModuOS is a hobby operating system written in C and x86-64 assembly.
 
 ### [everettjf](https://github.com/everettjf)
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote)
@@ -510,6 +527,41 @@
   > A cross‑platform forensic viewer for iOS & Android Full File System (FFS) extractions from GrayKey a...
 - 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP)
   > iOS Logs, Events, And Plist Parser
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [abrignoni/VLEAPP](https://github.com/abrignoni/VLEAPP)
+  > Vehicle Logs Events And Properties Parser
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [bennjordan/PlateShapez](https://github.com/bennjordan/PlateShapez)
+  > A quick and simple way to automate small, hardly-noticeable, random gaussian shapes to confuse AI li...
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [ECTO-1A/AppleJuice](https://github.com/ECTO-1A/AppleJuice)
+  > Apple BLE proximity pairing message spoofing
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [hexway/r00kie-kr00kie](https://github.com/hexway/r00kie-kr00kie)
+  > PoC exploit for the CVE-2019-15126 kr00k vulnerability
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [furiousMAC/continuity](https://github.com/furiousMAC/continuity)
+  > Apple Continuity Protocol Reverse Engineering and Dissector
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [abrignoni/qnxprobe](https://github.com/abrignoni/qnxprobe)
+  > Read QNX6, QNX4, ETFS, EFS, ext2/3/4, FAT32 and exFAT filesystems, and QNX IFS boot images, out of r...
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [abrignoni/RLEAPP](https://github.com/abrignoni/RLEAPP)
+  > Returns Logs Events And Properties Parser
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [kalink0/crush-forensics](https://github.com/kalink0/crush-forensics)
+  > Open-source desktop workbench for digital forensic analysis. Inspect ZIP/TAR/7z archives and iTunes/...
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [prosch88/UFADE](https://github.com/prosch88/UFADE)
+  > Extract files from Apple devices on Windows, Linux and MacOS. Mostly a wrapper for pymobiledevice3. ...
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [paramiko/paramiko](https://github.com/paramiko/paramiko)
+  > The leading native Python SSHv2 protocol library.
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [prosch88/ALEX](https://github.com/prosch88/ALEX)
+  > Extract files from ADB devices on Windows, Linux and MacOS. Mostly a wrapper for adbutils. 
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [RealityNet/Android-Forensics-References](https://github.com/RealityNet/Android-Forensics-References)
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [frankwxu/digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab)
+  > Free hands-on digital forensics labs for students and faculty
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)
+  > An open-source digital image forensic toolset
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [silvance/codeworld](https://github.com/silvance/codeworld)
+  > Website
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [ShivamKumarJha/android_tools](https://github.com/ShivamKumarJha/android_tools)
+  > Bash scripts for ROM development stuff.
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [vfeedio/pyvfeed](https://github.com/vfeedio/pyvfeed)
+  >  Python API for vFeed Vulnerability & Threat Intelligence Database Enterprise & Pro Editions
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [CISOfy/lynis](https://github.com/CISOfy/lynis)
+  > Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance tes...
 
 ### [jadesnake](https://github.com/jadesnake)
 - 🍴 👤 [jadesnake](https://github.com/jadesnake) Forked [wx-chevalier/InfoSecurity-Notes](https://github.com/wx-chevalier/InfoSecurity-Notes) to [jadesnake/InfoSecurity-Notes](https://github.com/jadesnake/InfoSecurity-Notes)
@@ -546,6 +598,8 @@
   > Kernel-mode research tool that demonstrates how Windows DWM enforces WDA_EXCLUDEFROMCAPTURE by direc...
 - 🌟 👤 [kmlgping](https://github.com/kmlgping) Starred [KANKOSHEV/NoScreen](https://github.com/KANKOSHEV/NoScreen)
   > Hiding the window from screenshots using the function win32kfull::GreProtectSpriteContent
+- 🌟 👤 [kmlgping](https://github.com/kmlgping) Starred [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop)
+  > DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版
 
 ### [le31ei](https://github.com/le31ei)
 - 🌟 👤 [le31ei](https://github.com/le31ei) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
@@ -628,6 +682,11 @@
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [blader/humanizer](https://github.com/blader/humanizer)
   > Agent skill that removes signs of AI-generated writing from text
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [trustedsec/Reel](https://github.com/trustedsec/Reel)
+
+### [mistrmochov](https://github.com/mistrmochov)
+- 🌟 👤 [mistrmochov](https://github.com/mistrmochov) Starred [AumGupta/abyss-jellyfin](https://github.com/AumGupta/abyss-jellyfin)
+  > Minimal Dark Theme for Jellyfin [Customisable]
 
 ### [miunasu](https://github.com/miunasu)
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)
@@ -673,6 +732,12 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [pedrovgs/Lynx](https://github.com/pedrovgs/Lynx)
   > Lynx is an Android library created to show a custom view with all the information Android logcat is ...
 
+### [nzcv](https://github.com/nzcv)
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [vnt-dev/vnt](https://github.com/vnt-dev/vnt)
+  > An efficient VPN. 简便高效的异地组网、内网穿透工具
+- 🌟 👤 [nzcv](https://github.com/nzcv) Starred [noahware/emu](https://github.com/noahware/emu)
+  > ARM64 instruction emulator written in modern c++.
+
 ### [oasisfeng](https://github.com/oasisfeng)
 - 🍴 👤 [oasisfeng](https://github.com/oasisfeng) Forked [like-a-freedom/home_assistant_qingping_air_wifi](https://github.com/like-a-freedom/home_assistant_qingping_air_wifi) to [oasisfeng/home_assistant_qingping_air_wifi](https://github.com/oasisfeng/home_assistant_qingping_air_wifi)
   > Qingping Air monitor cloud integration
@@ -680,6 +745,8 @@
 ### [phith0n](https://github.com/phith0n)
 - 🌟 👤 [phith0n](https://github.com/phith0n) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
   > ASC (Agent only needS Code) is an Android decompiler front-end designed to enable fast decompilation...
+- 🌟 👤 [phith0n](https://github.com/phith0n) Starred [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)
+  > Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
 ### [pplux](https://github.com/pplux)
 - 🌟 👤 [pplux](https://github.com/pplux) Starred [sebbbi/NoGraphicsAPI](https://github.com/sebbbi/NoGraphicsAPI)
@@ -791,10 +858,6 @@
 - 🍴 👤 [vm03](https://github.com/vm03) Forked [ivoszbg/uniLoader](https://github.com/ivoszbg/uniLoader) to [vm03/uniLoader](https://github.com/vm03/uniLoader)
   > because bootloaders shouldn't be complicated :D
 
-### [w00tzenheimer](https://github.com/w00tzenheimer)
-- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [habran/asmc](https://github.com/habran/asmc)
-  > Asmc Macro Assembler
-
 ### [wainshine](https://github.com/wainshine)
 - 🌟 👤 [wainshine](https://github.com/wainshine) Starred [OpenQGIS/ColorGPX](https://github.com/OpenQGIS/ColorGPX)
   > 提取GPX的track points图层的速度（speed）、高程（elevation）和坡度（slope）信息，生成点、线或渐变线图层，并根据对应属性进行彩色化渲染。支持点/线的Jenks自然断点分...
@@ -878,5 +941,5 @@
 
 
 ---
-*最后更新于 2026-09-11 20:32:51 UTC*
+*最后更新于 2026-09-11 23:00:17 UTC*
 *历史记录保存在 `archive` 目录中。*
