@@ -59,10 +59,6 @@
 - 🌟 👤 [Andrea-lyz](https://github.com/Andrea-lyz) Starred [no-hup/android-perfetto-skill](https://github.com/no-hup/android-perfetto-skill)
   > Agent skill: Android Perfetto capture, trace analysis, scored reports (startup, jank, ANR, memory, b...
 
-### [AnkioTomas](https://github.com/AnkioTomas)
-- 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [AnkioTomas/strix](https://github.com/AnkioTomas/strix)
-  > Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-
 ### [Ap0dexMe0](https://github.com/Ap0dexMe0)
 - 🍴 👤 [Ap0dexMe0](https://github.com/Ap0dexMe0) Forked [EagleTube/DFS](https://github.com/EagleTube/DFS) to [Ap0dexMe0/DFS](https://github.com/Ap0dexMe0/DFS)
   > DragonForceWebshell
@@ -80,6 +76,10 @@
 ### [Chordp](https://github.com/Chordp)
 - 🌟 👤 [Chordp](https://github.com/Chordp) Starred [thalium/rumba](https://github.com/thalium/rumba)
   > Cracking MBAs
+
+### [DavidBuchanan314](https://github.com/DavidBuchanan314)
+- 🍴 👤 [DavidBuchanan314](https://github.com/DavidBuchanan314) Forked [ma1co/fwtool.py](https://github.com/ma1co/fwtool.py) to [DavidBuchanan314/fwtool.py](https://github.com/DavidBuchanan314/fwtool.py)
+  > A tool to unpack Sony camera firmware images
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [bjarneo/wallpapers](https://github.com/bjarneo/wallpapers)
@@ -113,6 +113,8 @@
 ### [Dy-Baby](https://github.com/Dy-Baby)
 - 🌟 👤 [Dy-Baby](https://github.com/Dy-Baby) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
   > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+- 🌟 👤 [Dy-Baby](https://github.com/Dy-Baby) Starred [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy)
+  > The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind...
 
 ### [Fansirsqi](https://github.com/Fansirsqi)
 - 🌟 👤 [Fansirsqi](https://github.com/Fansirsqi) Starred [LiangYuZz/Zygisk-Il2CppFucker](https://github.com/LiangYuZz/Zygisk-Il2CppFucker)
@@ -132,6 +134,9 @@
 
 ### [K2](https://github.com/K2)
 - 🌟 👤 [K2](https://github.com/K2) Starred [zoranmax/jetq](https://github.com/zoranmax/jetq)
+
+### [L4ys](https://github.com/L4ys)
+- 🌟 👤 [L4ys](https://github.com/L4ys) Starred [denysvitali/tesla-qemu](https://github.com/denysvitali/tesla-qemu)
 
 ### [Lake1059](https://github.com/Lake1059)
 - 🌟 👤 [Lake1059](https://github.com/Lake1059) Starred [purkatyy/DLSS5-](https://github.com/purkatyy/DLSS5-)
@@ -299,6 +304,10 @@
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
   > A skill file for removing AI tells from prose
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pauldw/ardupilot-wasm](https://github.com/pauldw/ardupilot-wasm)
+  > A browser-based drone flight simulator running the real ArduPilot flight controller compiled to WebA...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
+  > Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [SuperTurtleDev/libwayland](https://github.com/SuperTurtleDev/libwayland)
@@ -318,12 +327,6 @@
   > This repository contains the WhatsApp proxy implementation for users to host their own proxy infrast...
 - 🌟 👤 [codingsf](https://github.com/codingsf) Starred [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge)
   > Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
-
-### [ctkqiang](https://github.com/ctkqiang)
-- 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [ctkqiang/BountyOS](https://github.com/ctkqiang/BountyOS)
-  > BountyOS 是一个只读的移动端漏洞赏金运营控制台，面向漏洞赏金猎人（Bug Bounty Researcher）。  它是一个原生 Android 应用，让研究者能在手机上查看并同步自己在 Ha...
-- 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [tibOin/SearchSploit-GUI](https://github.com/tibOin/SearchSploit-GUI)
-  > A native macOS GUI wrapper built on top of searchsploit CLI.
 
 ### [cursey](https://github.com/cursey)
 - 🌟 👤 [cursey](https://github.com/cursey) Starred [angelfor3v3r/bme](https://github.com/angelfor3v3r/bme)
@@ -348,10 +351,6 @@
 - 🌟 👤 [demon-i386](https://github.com/demon-i386) Starred [kyleavery/AceLdr](https://github.com/kyleavery/AceLdr)
   > Cobalt Strike UDRL for memory scanner evasion.
 
-### [doodlewind](https://github.com/doodlewind)
-- 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [ATSPwang618/YUNYIN](https://github.com/ATSPwang618/YUNYIN)
-  > YUNYIN 云音 for vita
-
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)
   > 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
@@ -368,16 +367,14 @@
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes)
   > 🦩 Tools for Go projects
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [facebookincubator/below](https://github.com/facebookincubator/below)
+  > A time traveling resource monitor for modern Linux systems
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [facebookincubator/cinderx](https://github.com/facebookincubator/cinderx)
+  > High-performance Python runtime extensions
 
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [MinishLab/semble](https://github.com/MinishLab/semble)
   > Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
-
-### [everettjf](https://github.com/everettjf)
-- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [DhananjayBhosale/MacDuo](https://github.com/DhananjayBhosale/MacDuo)
-  > A native Swift + Metal Mac app that makes your desktop follow your MacBook lid.
-- 🍴 👤 [everettjf](https://github.com/everettjf) Forked [DhananjayBhosale/MacDuo](https://github.com/DhananjayBhosale/MacDuo) to [everettjf/macduo](https://github.com/everettjf/macduo)
-  > A native Swift + Metal Mac app that makes your desktop follow your MacBook lid.
 
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI)
@@ -386,8 +383,9 @@
 ### [for-A1kaid](https://github.com/for-A1kaid)
 - 🌟 👤 [for-A1kaid](https://github.com/for-A1kaid) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
 
-### [fuqiuluo](https://github.com/fuqiuluo)
-- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
+### [funap](https://github.com/funap)
+- 🌟 👤 [funap](https://github.com/funap) Starred [d2lang/d2](https://github.com/d2lang/d2)
+  > D2 is a modern diagram scripting language that turns text to diagrams.
 
 ### [fynch3r](https://github.com/fynch3r)
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop)
@@ -435,6 +433,8 @@
 ### [imj01y](https://github.com/imj01y)
 - 🌟 👤 [imj01y](https://github.com/imj01y) Starred [ddlmanus/MacOptimizer](https://github.com/ddlmanus/MacOptimizer)
   > MacOptimizer is a system optimization tool designed specifically for macOS, featuring a modern Swift...
+- 🌟 👤 [imj01y](https://github.com/imj01y) Starred [WhiteNightShadow/wx-mp-mcp](https://github.com/WhiteNightShadow/wx-mp-mcp)
+  > 微信小程序逆向 MCP — 在线实时解包 + AI 静态分析还原接口签名/加密，产出本地 Node.js 直接能跑的脚本（零侵入，不碰微信进程）
 
 ### [israel-dryer](https://github.com/israel-dryer)
 - 🚀 👤 [israel-dryer](https://github.com/israel-dryer) Made [israel-dryer/portfolio](https://github.com/israel-dryer/portfolio) public
@@ -520,6 +520,10 @@
 ### [mmert11](https://github.com/mmert11)
 - 🌟 👤 [mmert11](https://github.com/mmert11) Starred [noahware/emu](https://github.com/noahware/emu)
   > ARM64 instruction emulator written in modern c++.
+
+### [mrT4ntr4](https://github.com/mrT4ntr4)
+- 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [hyugogirubato/KeyDive](https://github.com/hyugogirubato/KeyDive)
+  > Extract Widevine L3 keys from Android devices effortlessly, spanning multiple Android versions for D...
 
 ### [namename333](https://github.com/namename333)
 - 🌟 👤 [namename333](https://github.com/namename333) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
@@ -680,6 +684,10 @@
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [chAng-L19/codex-redteam-mode](https://github.com/chAng-L19/codex-redteam-mode)
   > 针对于红队攻击思维做出的red team模式(破限项目，封号概不负责）##可自行适配其他Agent。项目问题请提issue
 
+### [w00tzenheimer](https://github.com/w00tzenheimer)
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [stevemk14ebr/PolyHook_2_0](https://github.com/stevemk14ebr/PolyHook_2_0)
+  > C++20, x86/x64 Hooking Libary v2.0
+
 ### [wa1ki0g](https://github.com/wa1ki0g)
 - 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
 
@@ -775,6 +783,10 @@
 ### [yux1azhengye](https://github.com/yux1azhengye)
 - 🌟 👤 [yux1azhengye](https://github.com/yux1azhengye) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
 
+### [zhangyoufu](https://github.com/zhangyoufu)
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [raultov/chrome-debug-mcp](https://github.com/raultov/chrome-debug-mcp)
+  > Rust MCP Server for full Chrome CDP control and interactive JS debugging
+
 ### [zhengjim](https://github.com/zhengjim)
 - 🌟 👤 [zhengjim](https://github.com/zhengjim) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
 
@@ -788,5 +800,5 @@
 
 
 ---
-*最后更新于 2026-09-10 21:26:11 UTC*
+*最后更新于 2026-09-10 23:45:35 UTC*
 *历史记录保存在 `archive` 目录中。*
