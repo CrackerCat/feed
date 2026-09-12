@@ -40,14 +40,16 @@
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [noahware/emu](https://github.com/noahware/emu)
   > ARM64 instruction emulator written in modern c++.
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jonny-jhnson/WespConsumerPOC](https://github.com/jonny-jhnson/WespConsumerPOC)
-
-### [DavidBuchanan314](https://github.com/DavidBuchanan314)
-- 🍴 👤 [DavidBuchanan314](https://github.com/DavidBuchanan314) Forked [ufrisk/pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) to [DavidBuchanan314/pcileech-fpga](https://github.com/DavidBuchanan314/pcileech-fpga)
-  > FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Idov31/Silverseal](https://github.com/Idov31/Silverseal)
+  > Silverseal is a Linux framework containing a bootkit, rootkit loader and a rootkit
 
 ### [DeEpinGh0st](https://github.com/DeEpinGh0st)
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [Niklaus88/Clash-Config](https://github.com/Niklaus88/Clash-Config)
   > Clash 系代理配置 （解决手机端/桌面端 DNS/WebRTC 泄露问题）
+
+### [DeLuks2006](https://github.com/DeLuks2006)
+- 🌟 👤 [DeLuks2006](https://github.com/DeLuks2006) Starred [Neargye/magic_enum](https://github.com/Neargye/magic_enum)
+  > Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum t...
 
 ### [Dere3046](https://github.com/Dere3046)
 - 🍴 👤 [Dere3046](https://github.com/Dere3046) Forked [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS) to [Dere3046/Droidspaces](https://github.com/Dere3046/Droidspaces)
@@ -84,10 +86,6 @@
 ### [GitSquared](https://github.com/GitSquared)
 - 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [cozyblaze/portal-agent](https://github.com/cozyblaze/portal-agent)
   > The setup I used for my GPT-6 Astra Portal run: controller, SourcePauseTool patch, setup guide, and ...
-
-### [HdShare](https://github.com/HdShare)
-- 🍴 👤 [HdShare](https://github.com/HdShare) Forked [beanshell/beanshell](https://github.com/beanshell/beanshell) to [HdShare/beanshell](https://github.com/HdShare/beanshell)
-  > Beanshell scripting language
 
 ### [Idov31](https://github.com/Idov31)
 - 🌟 👤 [Idov31](https://github.com/Idov31) Starred [jonny-jhnson/WespConsumerPOC](https://github.com/jonny-jhnson/WespConsumerPOC)
@@ -267,6 +265,20 @@
 - 🚀 👤 [calebstewart](https://github.com/calebstewart) Made [calebstewart/steward](https://github.com/calebstewart/steward) public
   > A per-user service manager for Windows, in the spirit of systemd --user
 
+### [cctv18](https://github.com/cctv18)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [huverse/GPT-FULL-REGIST-AND-PAYMENT-FLOW](https://github.com/huverse/GPT-FULL-REGIST-AND-PAYMENT-FLOW)
+  > 完整可直接部署的 GPT 全流程注册支付系统：协议注册、Stripe/PayPal 支付、Web 控制台、资源池、并发队列、CardGen、session-json/getrt 导出
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [1837620622/chatgpt-specimen-toolbox](https://github.com/1837620622/chatgpt-specimen-toolbox)
+  > ChatGPT Session ↔ 9 种主流认证格式 N×N 双向互转（auth.json / Cockpit / CPA / Sub2API / 9router / AxonHub / Codex...
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [codejunkie99/fable-orchestrator](https://github.com/codejunkie99/fable-orchestrator)
+  > Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [huiliyi37/Tianshu-harness](https://github.com/huiliyi37/Tianshu-harness)
+  > 天枢 (Tianshu) 是一个基于harness工程的终端编程智能体运行时（Tui X Gui），针对DeepSeek V4 做了前缀缓存工程优化（长会话实测稳态命中率 97–99%）和深度适配。它...
+
+### [cetfor](https://github.com/cetfor)
+- 🌟 👤 [cetfor](https://github.com/cetfor) Starred [ramiss/FPVRaceOne](https://github.com/ramiss/FPVRaceOne)
+  > A personal FPV race timing solution that can be networked with others. Fly solo. Race together!
+
 ### [chinleez](https://github.com/chinleez)
 - 🌟 👤 [chinleez](https://github.com/chinleez) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
   > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
@@ -296,6 +308,8 @@
   > 📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources
 - 🍴 👤 [ctkqiang](https://github.com/ctkqiang) Forked [jetpack-compose/jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome) to [ctkqiang/jetpack-compose-awesome](https://github.com/ctkqiang/jetpack-compose-awesome)
   > 📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources
+- 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [deepseek-ai/DeepSelect](https://github.com/deepseek-ai/DeepSelect)
+  > DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers
 
 ### [darbra](https://github.com/darbra)
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
@@ -364,6 +378,12 @@
 
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [kasif-dekel/maplestory-jump-quest-fuzzing](https://github.com/kasif-dekel/maplestory-jump-quest-fuzzing)
+- 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell)
+  > Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grad...
+
+### [hasherezade](https://github.com/hasherezade)
+- 🍴 👤 [hasherezade](https://github.com/hasherezade) Forked [nodejs/node](https://github.com/nodejs/node) to [hasherezade/node](https://github.com/hasherezade/node)
+  > Node.js JavaScript runtime ✨🐢🚀✨
 
 ### [hmtheboy154](https://github.com/hmtheboy154)
 - 🍴 👤 [hmtheboy154](https://github.com/hmtheboy154) Forked [OpenMouse-Project/openmouse-landing-page](https://github.com/OpenMouse-Project/openmouse-landing-page) to [hmtheboy154/openmouse-landing-page](https://github.com/hmtheboy154/openmouse-landing-page)
@@ -413,6 +433,10 @@
 ### [keowu](https://github.com/keowu)
 - 🌟 👤 [keowu](https://github.com/keowu) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
   > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+
+### [kerneltoast](https://github.com/kerneltoast)
+- 🍴 👤 [kerneltoast](https://github.com/kerneltoast) Forked [gwsw/less](https://github.com/gwsw/less) to [kerneltoast/less](https://github.com/kerneltoast/less)
+  > Less - text pager
 
 ### [kmlgping](https://github.com/kmlgping)
 - 🌟 👤 [kmlgping](https://github.com/kmlgping) Starred [ShirokoLEET/PhysDrvLoader](https://github.com/ShirokoLEET/PhysDrvLoader)
@@ -482,6 +506,10 @@
 - 🌟 👤 [nickliqian](https://github.com/nickliqian) Starred [seung-lab/FlyConnectome](https://github.com/seung-lab/FlyConnectome)
   > This repository describes how to access the fly connectome from FlyWire.
 
+### [noobexon1](https://github.com/noobexon1)
+- 🌟 👤 [noobexon1](https://github.com/noobexon1) Starred [VisionR1/TargetedHide](https://github.com/VisionR1/TargetedHide)
+  > Ηide files, folders, and packages from specific target apps.
+
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [mas-bandwidth/reliable](https://github.com/mas-bandwidth/reliable)
   > Packet acknowledgement system for UDP
@@ -495,6 +523,8 @@
   > The Minimalistic x86/x64 API Hooking Library for Windows
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [dyokism/SkiaVK](https://github.com/dyokism/SkiaVK)
   > Forces Skia Vulkan UI rendering on Android.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [acaudwell/Logstalgia](https://github.com/acaudwell/Logstalgia)
+  > replay or stream website access logs as a retro arcade game
 
 ### [oakboat](https://github.com/oakboat)
 - 🌟 👤 [oakboat](https://github.com/oakboat) Starred [KSwordDEV/KSword](https://github.com/KSwordDEV/KSword)
@@ -560,6 +590,10 @@
 - 🌟 👤 [taviso](https://github.com/taviso) Starred [haraldh/ssh-tresor](https://github.com/haraldh/ssh-tresor)
   > Encrypt and decrypt secrets using SSH agent keys
 
+### [tomLadder](https://github.com/tomLadder)
+- 🌟 👤 [tomLadder](https://github.com/tomLadder) Starred [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)
+  > Painless E2E Automation for Mobile and Web
+
 ### [w00tzenheimer](https://github.com/w00tzenheimer)
 - 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [cristeigabriela/STB](https://github.com/cristeigabriela/STB)
   > Compile-time conversion library, from IDA-style string to array (supports wildcarding).
@@ -594,6 +628,10 @@
 - 🌟 👤 [youncyb](https://github.com/youncyb) Starred [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
   > x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg...
 
+### [zer0def](https://github.com/zer0def)
+- 🌟 👤 [zer0def](https://github.com/zer0def) Starred [jtsiomb/xlivebg](https://github.com/jtsiomb/xlivebg)
+  > Live wallpapers for the X window system
+
 ### [zfl9](https://github.com/zfl9)
 - 🌟 👤 [zfl9](https://github.com/zfl9) Starred [sharkdp/bat](https://github.com/sharkdp/bat)
   > A cat(1) clone with wings.
@@ -607,5 +645,5 @@
 
 
 ---
-*最后更新于 2026-09-12 18:57:52 UTC*
+*最后更新于 2026-09-12 21:20:53 UTC*
 *历史记录保存在 `archive` 目录中。*
