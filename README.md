@@ -103,6 +103,7 @@
 ### [JunioJsv](https://github.com/JunioJsv)
 - 🌟 👤 [JunioJsv](https://github.com/JunioJsv) Starred [SilyNoMeta/dlssg_for_sm86](https://github.com/SilyNoMeta/dlssg_for_sm86)
   > Experimental DLSSG 310.9.1 SM86 bridge for GeForce RTX 30 GPUs. Single-file version.dll distribution...
+- 🌟 👤 [JunioJsv](https://github.com/JunioJsv) Starred [Orbmu2k/nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector)
 
 ### [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
 - 🌟 👤 [KagurazakaHanabi](https://github.com/KagurazakaHanabi) Starred [TuragaLab/flybody](https://github.com/TuragaLab/flybody)
@@ -129,6 +130,10 @@
   > Free Active Directory pentesting tool for Linux, macOS and Windows. Automates AD and LDAP enumeratio...
 - 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [g0h4n/PassTheCert-rs](https://github.com/g0h4n/PassTheCert-rs)
   > Tool to authenticate to an LDAP/S server with a certificate through Schannel written in Rust. 🦀 
+
+### [M0Rf30](https://github.com/M0Rf30)
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [Peergos/Peergos](https://github.com/Peergos/Peergos)
+  > A p2p, secure file storage, social network and application protocol
 
 ### [MhmRdd](https://github.com/MhmRdd)
 - 🌟 👤 [MhmRdd](https://github.com/MhmRdd) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
@@ -236,8 +241,8 @@
   > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 
 ### [alternoegraha](https://github.com/alternoegraha)
-- 🌟 👤 [alternoegraha](https://github.com/alternoegraha) Starred [Tech-Tac/aosp-cursors](https://github.com/Tech-Tac/aosp-cursors)
-  > Android cursors for Linux & Windows
+- 🌟 👤 [alternoegraha](https://github.com/alternoegraha) Starred [googlefonts/googlesans](https://github.com/googlefonts/googlesans)
+  > Google Sans typeface
 
 ### [ant4g0nist](https://github.com/ant4g0nist)
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
@@ -248,6 +253,8 @@
   > A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [moonlovelj/Nyx](https://github.com/moonlovelj/Nyx)
   > Nanite-style virtualized geometry renderer on DirectX 12
+- 🌟 👤 [asLody](https://github.com/asLody) Starred [GPUOpen-Tools/GPU-Reshape](https://github.com/GPUOpen-Tools/GPU-Reshape)
+  > GPU Reshape (GRS) is an API & vendor agnostic instrumentation framework, with instruction level vali...
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [kxzk/snapbench](https://github.com/kxzk/snapbench)
@@ -372,10 +379,6 @@
 - 🌟 👤 [gh0stkey](https://github.com/gh0stkey) Starred [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
   >  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli ...
 
-### [gmh5225](https://github.com/gmh5225)
-- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [hi-nikola/hand-drawn-explainer-video-nikola](https://github.com/hi-nikola/hand-drawn-explainer-video-nikola) to [gmh5225/hand-drawn-explainer-video-nikola](https://github.com/gmh5225/hand-drawn-explainer-video-nikola)
-  > 中文手绘知识讲解视频 Codex Skill：逐笔故事、双语义岛、让怪诞小黑动起来与程序动画
-
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [kasif-dekel/maplestory-jump-quest-fuzzing](https://github.com/kasif-dekel/maplestory-jump-quest-fuzzing)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell)
@@ -417,6 +420,12 @@
   > Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digita...
 - 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [sleuthkit/scalpel](https://github.com/sleuthkit/scalpel)
   > Scalpel is an open source data carving tool. It is not being actively maintained. 
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+  > FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, L...
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine)
+  > A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any busin...
 
 ### [jixiaoyong](https://github.com/jixiaoyong)
 - 🌟 👤 [jixiaoyong](https://github.com/jixiaoyong) Starred [google/artemis](https://github.com/google/artemis)
@@ -446,6 +455,8 @@
   > SilentVMT is a lightweight library that provides efficient shadow VMT hooking for x86 and x64.
 - 🌟 👤 [kmlgping](https://github.com/kmlgping) Starred [asamy/ksm](https://github.com/asamy/ksm)
   > A fast, hackable and simple x64 VT-x hypervisor for Windows and Linux.  Builtin userspace sandbox an...
+- 🌟 👤 [kmlgping](https://github.com/kmlgping) Starred [ShirokoLEET/FakeSign](https://github.com/ShirokoLEET/FakeSign)
+  > 自建时间戳服务器实现伪签名驱动证书 Implementing Pseudo Signature with Self-Sign Timestamp Servers
 
 ### [kost](https://github.com/kost)
 - 🌟 👤 [kost](https://github.com/kost) Starred [qemu/qemu](https://github.com/qemu/qemu)
@@ -470,6 +481,12 @@
 ### [lllucccian](https://github.com/lllucccian)
 - 🌟 👤 [lllucccian](https://github.com/lllucccian) Starred [Xposed-Modules-Repo/cn.nizou.sxd](https://github.com/Xposed-Modules-Repo/cn.nizou.sxd)
   > 老挂戏老叟：小猿口算 com.fenbi.android.leo LSPosed 模块（自动答题/秒结算/循环PK）
+
+### [lux-QAQ](https://github.com/lux-QAQ)
+- 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [murdavs/StereoMaster](https://github.com/murdavs/StereoMaster)
+  > Convert 2D videos into stunning 3D experiences using AI-powered depth maps and inpainting
+- 🌟 👤 [lux-QAQ](https://github.com/lux-QAQ) Starred [nagadomi/nunif](https://github.com/nagadomi/nunif)
+  > Misc; latest version of waifu2x;  2D video to stereo 3D video conversion
 
 ### [lwtw123456](https://github.com/lwtw123456)
 - 🌟 👤 [lwtw123456](https://github.com/lwtw123456) Starred [hasherezade/pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode)
@@ -496,11 +513,6 @@
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [google/artemis](https://github.com/google/artemis)
   > ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-en...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MZULALI/toolhost](https://github.com/MZULALI/toolhost)
-  > Let an LLM write its own tools at runtime: parsed with acorn, versioned in SQLite, run in a supervis...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DefiLeoo/YOINK](https://github.com/DefiLeoo/YOINK)
 
 ### [nickliqian](https://github.com/nickliqian)
 - 🌟 👤 [nickliqian](https://github.com/nickliqian) Starred [seung-lab/FlyConnectome](https://github.com/seung-lab/FlyConnectome)
@@ -570,6 +582,10 @@
 ### [rootm0s](https://github.com/rootm0s)
 - 🌟 👤 [rootm0s](https://github.com/rootm0s) Starred [doogle-dev/honmodmanager](https://github.com/doogle-dev/honmodmanager)
 
+### [ruanyf](https://github.com/ruanyf)
+- 🌟 👤 [ruanyf](https://github.com/ruanyf) Starred [ruanyf/weekly](https://github.com/ruanyf/weekly)
+  > 科技爱好者周刊，每周五发布
+
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [superturtlee/TerminatorPlus](https://github.com/superturtlee/TerminatorPlus)
   > the epic plugin
@@ -602,6 +618,9 @@
 - 🌟 👤 [wangshub](https://github.com/wangshub) Starred [nv-tlabs/kimodo](https://github.com/nv-tlabs/kimodo)
   > Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) mo...
 
+### [wbaby](https://github.com/wbaby)
+- 🍴 👤 [wbaby](https://github.com/wbaby) Forked [bailylu/portable-wifi-proxy](https://github.com/bailylu/portable-wifi-proxy) to [wbaby/portable-wifi-proxy](https://github.com/wbaby/portable-wifi-proxy)
+
 ### [wsxyeah](https://github.com/wsxyeah)
 - 🌟 👤 [wsxyeah](https://github.com/wsxyeah) Starred [seanhowarthdev/Roam-Control](https://github.com/seanhowarthdev/Roam-Control)
   > Choose, test and move an iPhone’s reported location.
@@ -632,18 +651,17 @@
 - 🌟 👤 [zer0def](https://github.com/zer0def) Starred [jtsiomb/xlivebg](https://github.com/jtsiomb/xlivebg)
   > Live wallpapers for the X window system
 
+### [zetaloop](https://github.com/zetaloop)
+- 🚀 👤 [zetaloop](https://github.com/zetaloop) Made [zetaloop/otunnel](https://github.com/zetaloop/otunnel) public
+
 ### [zfl9](https://github.com/zfl9)
 - 🌟 👤 [zfl9](https://github.com/zfl9) Starred [sharkdp/bat](https://github.com/sharkdp/bat)
   > A cat(1) clone with wings.
-
-### [zhkl0228](https://github.com/zhkl0228)
-- 🌟 👤 [zhkl0228](https://github.com/zhkl0228) Starred [hwanz/SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan)
-  > 2026机场推荐与机场评测
 
 ### [zhuzichu520](https://github.com/zhuzichu520)
 - 🌟 👤 [zhuzichu520](https://github.com/zhuzichu520) Starred [zhuzichu520/endless-canopy](https://github.com/zhuzichu520/endless-canopy)
 
 
 ---
-*最后更新于 2026-09-12 21:20:53 UTC*
+*最后更新于 2026-09-12 23:46:53 UTC*
 *历史记录保存在 `archive` 目录中。*
