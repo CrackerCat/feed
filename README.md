@@ -92,6 +92,10 @@
 - 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)
   > DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks
 
+### [Idov31](https://github.com/Idov31)
+- 🌟 👤 [Idov31](https://github.com/Idov31) Starred [diffblue/cbmc](https://github.com/diffblue/cbmc)
+  > C Bounded Model Checker
+
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [worldcoin/walletkit](https://github.com/worldcoin/walletkit) to [JingMatrix/walletkit](https://github.com/JingMatrix/walletkit)
   > WalletKit enables wallets to use World ID.
@@ -111,6 +115,8 @@
   > The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, W...
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [liberatedsystems/RNode_Firmware_CE](https://github.com/liberatedsystems/RNode_Firmware_CE)
   > RNode is an open, free and flexible digital radio interface with many uses
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [AkitaEngineering/Akita-Meshtastic-Meshcore-Bridge](https://github.com/AkitaEngineering/Akita-Meshtastic-Meshcore-Bridge)
+  > AMMB is a flexible and robust software bridge designed by Akita Engineering. This bridge enables int...
 
 ### [MikaCybertron](https://github.com/MikaCybertron)
 - 🌟 👤 [MikaCybertron](https://github.com/MikaCybertron) Starred [josskixg/renjana](https://github.com/josskixg/renjana)
@@ -132,6 +138,7 @@
 
 ### [Pengrey](https://github.com/Pengrey)
 - 🌟 👤 [Pengrey](https://github.com/Pengrey) Starred [Whispergate/msteams](https://github.com/Whispergate/msteams)
+  > Mythic C2 MSTeams Communication Channel
 
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [google/artemis](https://github.com/google/artemis)
@@ -162,6 +169,14 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [t8y2/dbx](https://github.com/t8y2/dbx)
   > 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQL...
+
+### [TGSAN](https://github.com/TGSAN)
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [Diniboy1123/usque](https://github.com/Diniboy1123/usque)
+  > Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol. 
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [ResistanceTo/MiniWatts](https://github.com/ResistanceTo/MiniWatts)
+  > An iPhone battery, charging and thermal instrument built on private iOS APIs — real charger watts, w...
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [unshackle-dl/unshackle](https://github.com/unshackle-dl/unshackle)
+  > Modular Movie, TV, and Music Archival Software
 
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [codedogQBY/ReadAny](https://github.com/codedogQBY/ReadAny)
@@ -207,11 +222,15 @@
 
 ### [Youlor](https://github.com/Youlor)
 - 🌟 👤 [Youlor](https://github.com/Youlor) Starred [rootSunc/CNEquity](https://github.com/rootSunc/CNEquity)
-  > 中国 A 股数据基础设施。42 个日更数据集：行情、基本面、资金面、公告事件、指数行业、宏观与风险。行级溯源、PIT 语义、复权与历史成分内置，MCP 原生。自托管，零注册、零 API Token。
+  > 中国 A 股数据基础设施。42 个日更数据集：行情、基本面、资金面、公告事件、指数行业、宏观与风险。行级溯源、PIT 语义、复权与历史成分内置，MCP 原生。自托管，零注册、零 API Token
 
 ### [YungRaj](https://github.com/YungRaj)
 - 🌟 👤 [YungRaj](https://github.com/YungRaj) Starred [ncxcy/A15-SECUREROM-VULNS](https://github.com/ncxcy/A15-SECUREROM-VULNS)
   > A15 SecureROM Vulnerabilities
+
+### [ZephrFish](https://github.com/ZephrFish)
+- 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 
 ### [alex193a](https://github.com/alex193a)
 - 🌟 👤 [alex193a](https://github.com/alex193a) Starred [Dr-TSNG/altdb](https://github.com/Dr-TSNG/altdb)
@@ -221,12 +240,28 @@
 - 🍴 👤 [anantshri](https://github.com/anantshri) Forked [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) to [anantshri/OmniRoute](https://github.com/anantshri/OmniRoute)
   > Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, ...
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [LLVMParty/llvm-builds](https://github.com/LLVMParty/llvm-builds)
+  > Precompiled LLVM distributions for Linux/macOS/Windows.
+
 ### [aviraxp](https://github.com/aviraxp)
 - 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb)
   > ADB in your browser
 
+### [banteg](https://github.com/banteg)
+- 🍴 👤 [banteg](https://github.com/banteg) Forked [paradigmxyz/revm-inspectors](https://github.com/paradigmxyz/revm-inspectors) to [banteg/revm-inspectors](https://github.com/banteg/revm-inspectors)
+  > EVM Execution Hooks.
+- 🍴 👤 [banteg](https://github.com/banteg) Forked [besu-eth/besu](https://github.com/besu-eth/besu) to [banteg/besu](https://github.com/banteg/besu)
+  > An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://github.com/besu-eth/besu...
+- 🍴 👤 [banteg](https://github.com/banteg) Forked [paradigmxyz/reth](https://github.com/paradigmxyz/reth) to [banteg/reth](https://github.com/banteg/reth)
+  > Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+- 🍴 👤 [banteg](https://github.com/banteg) Forked [erigontech/silkworm](https://github.com/erigontech/silkworm) to [banteg/silkworm](https://github.com/banteg/silkworm)
+  > C++ implementation of the Ethereum protocol
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ZhengyiLuo/AgentsDock](https://github.com/ZhengyiLuo/AgentsDock)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [aiortc/aiortc](https://github.com/aiortc/aiortc)
+  > WebRTC and ORTC implementation for Python using asyncio
 
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [router-for-me/EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI)
@@ -235,6 +270,10 @@
 ### [cli0xfa](https://github.com/cli0xfa)
 - 🌟 👤 [cli0xfa](https://github.com/cli0xfa) Starred [vladelaina/BongoCat](https://github.com/vladelaina/BongoCat)
   > 🩷 💘C × SDL3 × OpenGL — Three Mysterious Forces, United as One! Bong~ Bongocat!!!Don't be shy, Join H...
+
+### [cmzy](https://github.com/cmzy)
+- 🌟 👤 [cmzy](https://github.com/cmzy) Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+  > Ghidra is a software reverse engineering (SRE) framework
 
 ### [cozis](https://github.com/cozis)
 - 🍴 👤 [cozis](https://github.com/cozis) Forked [GJDuck/e9patch](https://github.com/GJDuck/e9patch) to [cozis/e9patch](https://github.com/cozis/e9patch)
@@ -450,6 +489,16 @@
 - 🌟 👤 [riba2534](https://github.com/riba2534) Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
   > Ghidra is a software reverse engineering (SRE) framework
 
+### [rmuxnet](https://github.com/rmuxnet)
+- 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [torvalds/linux](https://github.com/torvalds/linux) to [rmuxnet/linux-7.xx](https://github.com/rmuxnet/linux-7.xx)
+  > Linux kernel source tree
+- 🌟 👤 [rmuxnet](https://github.com/rmuxnet) Starred [kamaeff/fpkg-vault](https://github.com/kamaeff/fpkg-vault)
+  > missing fpkg tool for nas users; powered by copyparty
+
+### [safe6Sec](https://github.com/safe6Sec)
+- 🌟 👤 [safe6Sec](https://github.com/safe6Sec) Starred [foru17/neko-master](https://github.com/foru17/neko-master)
+  > A modern and elegant dashboard for network traffic visualization and analysis.
+
 ### [saileaxh](https://github.com/saileaxh)
 - 🌟 👤 [saileaxh](https://github.com/saileaxh) Starred [huoji120/code_review_agent](https://github.com/huoji120/code_review_agent)
   > 简洁高效的代码审计agent
@@ -468,10 +517,16 @@
   > A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - 🌟 👤 [sotasan](https://github.com/sotasan) Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
   > A feature-rich command-line audio/video downloader
+- 🌟 👤 [sotasan](https://github.com/sotasan) Starred [shadcn-ui/cn](https://github.com/shadcn-ui/cn)
+  > cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge an...
 
 ### [tfoldi](https://github.com/tfoldi)
 - 🍴 👤 [tfoldi](https://github.com/tfoldi) Forked [dusty-nv/jetson-containers](https://github.com/dusty-nv/jetson-containers) to [tfoldi/jetson-containers](https://github.com/tfoldi/jetson-containers)
   > Machine Learning Containers for NVIDIA Jetson and JetPack-L4T
+
+### [theapache64](https://github.com/theapache64)
+- 🌟 👤 [theapache64](https://github.com/theapache64) Starred [px0-ai/px0](https://github.com/px0-ai/px0)
+  > px0 is a fast, lightweight, read-only IDE designed for instant code navigation and review in your br...
 
 ### [tiwe0](https://github.com/tiwe0)
 - 🌟 👤 [tiwe0](https://github.com/tiwe0) Starred [boxproxy/box](https://github.com/boxproxy/box)
@@ -534,11 +589,15 @@
 - 🌟 👤 [zensu357](https://github.com/zensu357) Starred [Dr-TSNG/altdb](https://github.com/Dr-TSNG/altdb)
   > A KernelSU module that provides alternative adb server over local network
 
+### [zhanghai](https://github.com/zhanghai)
+- 🌟 👤 [zhanghai](https://github.com/zhanghai) Starred [huangkaoya/ts-redalert2](https://github.com/huangkaoya/ts-redalert2)
+  > 红色警戒2源代码 Red Alert2 Source Code
+
 ### [zzyccs](https://github.com/zzyccs)
 - 🌟 👤 [zzyccs](https://github.com/zzyccs) Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
   > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
 
 
 ---
-*最后更新于 2026-09-13 20:26:29 UTC*
+*最后更新于 2026-09-13 22:54:56 UTC*
 *历史记录保存在 `archive` 目录中。*
