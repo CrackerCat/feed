@@ -4,9 +4,9 @@
 
 ## 今日动态
 
-### [0xBakeer](https://github.com/0xBakeer)
-- 🌟 👤 [0xBakeer](https://github.com/0xBakeer) Starred [alesha-pro/atlas](https://github.com/alesha-pro/atlas)
-  > Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distribut...
+### [0xWhiteMage](https://github.com/0xWhiteMage)
+- 🌟 👤 [0xWhiteMage](https://github.com/0xWhiteMage) Starred [WestWaters/pollard-weights](https://github.com/WestWaters/pollard-weights)
+  > A tiered-memory system design for workloads that don't fit in RAM: measure the working set, pin the ...
 
 ### [1193776794](https://github.com/1193776794)
 - 🌟 👤 [1193776794](https://github.com/1193776794) Starred [yizhiyonggangdexiaojia/xjvpn](https://github.com/yizhiyonggangdexiaojia/xjvpn)
@@ -25,9 +25,17 @@
 - 🚀 👤 [ABI-ZTROS](https://github.com/ABI-ZTROS) Made [ABI-ZTROS/SceneTweak](https://github.com/ABI-ZTROS/SceneTweak) public
   > Dynamic rule-based Xposed hook engine for SceneTTC
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [g0h4n/PassTheCert-rs](https://github.com/g0h4n/PassTheCert-rs)
+  > Tool to authenticate to an LDAP/S server with a certificate through Schannel written in Rust. 🦀 
+
 ### [DarkLineX](https://github.com/DarkLineX)
 - 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
   > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+
+### [DeLuks2006](https://github.com/DeLuks2006)
+- 🌟 👤 [DeLuks2006](https://github.com/DeLuks2006) Starred [es3n1n/obfuscator](https://github.com/es3n1n/obfuscator)
+  > PE (and elf now!) bin2bin obfuscator
 
 ### [DerekSelander](https://github.com/DerekSelander)
 - 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [EthanArbuckle/ios1-restore-tool](https://github.com/EthanArbuckle/ios1-restore-tool)
@@ -77,6 +85,12 @@
 ### [GitSquared](https://github.com/GitSquared)
 - 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [facebook/stylex](https://github.com/facebook/stylex)
   > StyleX is the styling system for ambitious user interfaces.
+- 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [simonw/datasette](https://github.com/simonw/datasette)
+  > An open source multi-tool for exploring and publishing data
+
+### [Grigory-Rylov](https://github.com/Grigory-Rylov)
+- 🌟 👤 [Grigory-Rylov](https://github.com/Grigory-Rylov) Starred [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)
+  > DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks
 
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🍴 👤 [JingMatrix](https://github.com/JingMatrix) Forked [worldcoin/walletkit](https://github.com/worldcoin/walletkit) to [JingMatrix/walletkit](https://github.com/JingMatrix/walletkit)
@@ -115,6 +129,9 @@
 ### [MrWQ](https://github.com/MrWQ)
 - 🌟 👤 [MrWQ](https://github.com/MrWQ) Starred [aldegad/sprite-gen](https://github.com/aldegad/sprite-gen)
   > Generate clean 2D game sprites & animation atlases — component-row pipeline: state rows, alpha clean...
+
+### [Pengrey](https://github.com/Pengrey)
+- 🌟 👤 [Pengrey](https://github.com/Pengrey) Starred [Whispergate/msteams](https://github.com/Whispergate/msteams)
 
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [google/artemis](https://github.com/google/artemis)
@@ -190,7 +207,11 @@
 
 ### [Youlor](https://github.com/Youlor)
 - 🌟 👤 [Youlor](https://github.com/Youlor) Starred [rootSunc/CNEquity](https://github.com/rootSunc/CNEquity)
-  > 中国股票数据基础设施，覆盖行情、研报、资金面、筹码、公告、龙虎榜、ETF/期权、舆情互动、基本面、行业板块、宏观与风险事件等核心数据。42+A股数据集，日更、自托管、MCP 原生，零注册、零 API ...
+  > 中国 A 股数据基础设施。42 个日更数据集：行情、基本面、资金面、公告事件、指数行业、宏观与风险。行级溯源、PIT 语义、复权与历史成分内置，MCP 原生。自托管，零注册、零 API Token。
+
+### [YungRaj](https://github.com/YungRaj)
+- 🌟 👤 [YungRaj](https://github.com/YungRaj) Starred [ncxcy/A15-SECUREROM-VULNS](https://github.com/ncxcy/A15-SECUREROM-VULNS)
+  > A15 SecureROM Vulnerabilities
 
 ### [alex193a](https://github.com/alex193a)
 - 🌟 👤 [alex193a](https://github.com/alex193a) Starred [Dr-TSNG/altdb](https://github.com/Dr-TSNG/altdb)
@@ -228,10 +249,16 @@
 ### [darkskygit](https://github.com/darkskygit)
 - 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [krkrsdl3/krkrsdl3](https://github.com/krkrsdl3/krkrsdl3)
   > 多平台支持的krkr视觉小说引擎。
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [dolag233/Serpent](https://github.com/dolag233/Serpent)
+  > Cross-platform digital asset management software for game artists, VFX professionals, and graphic an...
 
 ### [dartcv](https://github.com/dartcv)
 - 🌟 👤 [dartcv](https://github.com/dartcv) Starred [zhihu/Matisse](https://github.com/zhihu/Matisse)
   > :fireworks: A well-designed local image and video selector for Android
+
+### [doodlewind](https://github.com/doodlewind)
+- 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [enesozturk/react-native-ios](https://github.com/enesozturk/react-native-ios)
+  > iOS UI implementation in React Native with gestures and animations 🍏
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [LMMS/tap-plugins](https://github.com/LMMS/tap-plugins)
@@ -244,6 +271,8 @@
   > Yo shell - a LLM enabled fork of bash
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [Vercantez/openuikit](https://github.com/Vercantez/openuikit)
   > iOS apps on Linux: OpenUIKit + SwiftUI + Foundation + machorun Mach-O loader — full monorepo
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [slavingia/skills](https://github.com/slavingia/skills)
+  > Based on The Minimalist Entrepreneur by Sahil Lavingia
 
 ### [dzxpert](https://github.com/dzxpert)
 - 🍴 👤 [dzxpert](https://github.com/dzxpert) Forked [PentestPad/larascan](https://github.com/PentestPad/larascan) to [dzxpert/larascan](https://github.com/dzxpert/larascan)
@@ -302,10 +331,6 @@
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach)
   > better agentic engineering
 
-### [hyuunnn](https://github.com/hyuunnn)
-- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)
-  > 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
-
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [getpaseo/paseo](https://github.com/getpaseo/paseo) to [hzqst/paseo](https://github.com/hzqst/paseo)
   > Orchestrate multiple coding agents from desktop and mobile
@@ -360,6 +385,10 @@
 - 🌟 👤 [leleliu008](https://github.com/leleliu008) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk....
 
+### [limbopro](https://github.com/limbopro)
+- 🌟 👤 [limbopro](https://github.com/limbopro) Starred [Nicolepcx/ai-agents-the-definitive-guide](https://github.com/Nicolepcx/ai-agents-the-definitive-guide)
+  > Repo for AI Agents The Definitive Guide
+
 ### [liuzjMr](https://github.com/liuzjMr)
 - 🍴 👤 [liuzjMr](https://github.com/liuzjMr) Forked [yi1108/printfilm](https://github.com/yi1108/printfilm) to [liuzjMr/printfilm](https://github.com/liuzjMr/printfilm)
   > PRINTFILM：AI 科普视频与漫剧创作平台
@@ -379,6 +408,10 @@
 ### [mingzun09](https://github.com/mingzun09)
 - 🍴 👤 [mingzun09](https://github.com/mingzun09) Forked [serein-213/android_gki_kernel_5.15_common](https://github.com/serein-213/android_gki_kernel_5.15_common) to [mingzun09/android_gki_kernel_5.15_common](https://github.com/mingzun09/android_gki_kernel_5.15_common)
   > android13-5.15 通用内核，已测试于 Xiaomi 13最新系统
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aryx/codemap](https://github.com/aryx/codemap)
+  > Source code visualizer
 
 ### [muellan](https://github.com/muellan)
 - 🍴 👤 [muellan](https://github.com/muellan) Forked [ashuttl/omarchy-linecast](https://github.com/ashuttl/omarchy-linecast) to [muellan/omarchy-linecast](https://github.com/muellan/omarchy-linecast)
@@ -403,6 +436,8 @@
   > contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, ...
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [NVIDIA/gpu-driver-container](https://github.com/NVIDIA/gpu-driver-container)
   > The NVIDIA GPU driver container allows the provisioning of the NVIDIA driver through the use of cont...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [google/artemis](https://github.com/google/artemis)
+  > ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-en...
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [systemfreund/supersonic.el](https://github.com/systemfreund/supersonic.el)
@@ -411,9 +446,9 @@
 ### [qazbnm456](https://github.com/qazbnm456)
 - 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [kasif-dekel/maplestory-jump-quest-fuzzing](https://github.com/kasif-dekel/maplestory-jump-quest-fuzzing)
 
-### [rmuxnet](https://github.com/rmuxnet)
-- 🍴 👤 [rmuxnet](https://github.com/rmuxnet) Forked [torvalds/linux](https://github.com/torvalds/linux) to [rmuxnet/linux-7.xx](https://github.com/rmuxnet/linux-7.xx)
-  > Linux kernel source tree
+### [riba2534](https://github.com/riba2534)
+- 🌟 👤 [riba2534](https://github.com/riba2534) Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+  > Ghidra is a software reverse engineering (SRE) framework
 
 ### [saileaxh](https://github.com/saileaxh)
 - 🌟 👤 [saileaxh](https://github.com/saileaxh) Starred [huoji120/code_review_agent](https://github.com/huoji120/code_review_agent)
@@ -505,5 +540,5 @@
 
 
 ---
-*最后更新于 2026-09-13 17:55:36 UTC*
+*最后更新于 2026-09-13 20:26:29 UTC*
 *历史记录保存在 `archive` 目录中。*
