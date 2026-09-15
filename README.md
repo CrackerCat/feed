@@ -32,6 +32,10 @@
 - 🌟 👤 [AlphabugX](https://github.com/AlphabugX) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [AndroidReverser-Test](https://github.com/AndroidReverser-Test)
+- 🌟 👤 [AndroidReverser-Test](https://github.com/AndroidReverser-Test) Starred [AndroidReverser-Test/trace_search](https://github.com/AndroidReverser-Test/trace_search)
+  > 为上百gb级别trace日志提供包含正则搜索、非正则搜索、读取指定行、导出指定行等功能的高效mcp服务
+
 ### [AshenOneYe](https://github.com/AshenOneYe)
 - 🌟 👤 [AshenOneYe](https://github.com/AshenOneYe) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
@@ -44,6 +48,12 @@
 - 🌟 👤 [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
   > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 
+### [CyberCraftsmanx](https://github.com/CyberCraftsmanx)
+- 🌟 👤 [CyberCraftsmanx](https://github.com/CyberCraftsmanx) Starred [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah)
+  > A WiFi security auditing software
+- 🍴 👤 [CyberCraftsmanx](https://github.com/CyberCraftsmanx) Forked [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) to [CyberCraftsmanx/airgorah](https://github.com/CyberCraftsmanx/airgorah)
+  > A WiFi security auditing software
+
 ### [DarkLineX](https://github.com/DarkLineX)
 - 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
   > DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts pe...
@@ -51,6 +61,10 @@
 ### [DeEpinGh0st](https://github.com/DeEpinGh0st)
 - 🍴 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Forked [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI) to [DeEpinGh0st/CyberStrikeAI](https://github.com/DeEpinGh0st/CyberStrikeAI)
   > The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence b...
+
+### [Dispa1r](https://github.com/Dispa1r)
+- 🍴 👤 [Dispa1r](https://github.com/Dispa1r) Forked [owngoal-dev/Relaxin](https://github.com/owngoal-dev/Relaxin) to [Dispa1r/Relaxin](https://github.com/Dispa1r/Relaxin)
+  > Relaxin is a RootHide jailbreak.
 
 ### [Drun1baby](https://github.com/Drun1baby)
 - 🌟 👤 [Drun1baby](https://github.com/Drun1baby) Starred [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX)
@@ -66,9 +80,17 @@
 - 🌟 👤 [EgeBalci](https://github.com/EgeBalci) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
   > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
 
+### [Evian-Zhang](https://github.com/Evian-Zhang)
+- 🍴 👤 [Evian-Zhang](https://github.com/Evian-Zhang) Forked [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) to [Evian-Zhang/this-week-in-rust](https://github.com/Evian-Zhang/this-week-in-rust)
+  > Data for this-week-in-rust.org
+
 ### [FBLeee](https://github.com/FBLeee)
 - 🌟 👤 [FBLeee](https://github.com/FBLeee) Starred [Lincb522/figma-agent-cli](https://github.com/Lincb522/figma-agent-cli)
   > 让 Codex 在 Figma 里完成可编辑设计：UI、图标、布尔运算与 image_gen 复刻，附带可安装的 Skill。
+
+### [FldBudin](https://github.com/FldBudin)
+- 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
+  > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 
 ### [GeT1t](https://github.com/GeT1t)
 - 🌟 👤 [GeT1t](https://github.com/GeT1t) Starred [bybit-exchange/svg-diagram](https://github.com/bybit-exchange/svg-diagram)
@@ -87,12 +109,18 @@
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
   > Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
+- 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa)
+  > Application Binary Interface for the Arm® Architecture
 
 ### [JunioJsv](https://github.com/JunioJsv)
 - 🌟 👤 [JunioJsv](https://github.com/JunioJsv) Starred [Coldwood1026/OptiScaler](https://github.com/Coldwood1026/OptiScaler)
   > OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces nati...
 - 🌟 👤 [JunioJsv](https://github.com/JunioJsv) Starred [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)
   > Here is a dlssg for RTX30 Series GPU 
+
+### [KShChan](https://github.com/KShChan)
+- 🌟 👤 [KShChan](https://github.com/KShChan) Starred [cdgriffith/FastFlix](https://github.com/cdgriffith/FastFlix)
+  > FastFlix is a free GUI for H.264, HEVC and AV1 hardware and software encoding!
 
 ### [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
 - 🌟 👤 [KagurazakaHanabi](https://github.com/KagurazakaHanabi) Starred [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)
@@ -104,6 +132,10 @@
 
 ### [Keno](https://github.com/Keno)
 - 🚀 👤 [Keno](https://github.com/Keno) Made [ChronitonAI/sandbox-images](https://github.com/ChronitonAI/sandbox-images) public
+
+### [KuLiPai](https://github.com/KuLiPai)
+- 🌟 👤 [KuLiPai](https://github.com/KuLiPai) Starred [StatIndet/quickshell](https://github.com/StatIndet/quickshell)
+  > Works on my machine.
 
 ### [LLeavesG](https://github.com/LLeavesG)
 - 🌟 👤 [LLeavesG](https://github.com/LLeavesG) Starred [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)
@@ -121,6 +153,20 @@
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [lora-rs/lora-rs](https://github.com/lora-rs/lora-rs)
   > LoRa and LoRaWAN crates for End Devices
 
+### [MBRO95](https://github.com/MBRO95)
+- 🌟 👤 [MBRO95](https://github.com/MBRO95) Starred [jonnyoo/glance](https://github.com/jonnyoo/glance)
+  > Glance: Face Unlock for Mac
+
+### [Mati365](https://github.com/Mati365)
+- 🌟 👤 [Mati365](https://github.com/Mati365) Starred [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme)
+  > E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as r...
+- 🌟 👤 [Mati365](https://github.com/Mati365) Starred [pgsty/silo](https://github.com/pgsty/silo)
+  > S3-Compatible Object Storage. A MinIO fork maintained by PGSTY
+
+### [MhmRdd](https://github.com/MhmRdd)
+- 🌟 👤 [MhmRdd](https://github.com/MhmRdd) Starred [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub)
+  > RikkaHub is an Android APP that supports for multiple LLM providers.
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [huoji120/code_review_agent](https://github.com/huoji120/code_review_agent)
   > 简洁高效的代码审计agent
@@ -131,9 +177,21 @@
 - 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [vladtrc/iw4L](https://github.com/vladtrc/iw4L)
   > Standalone experimental Call of Duty runtime in Rust, built on bevy and wgpu
 
+### [Mufanc](https://github.com/Mufanc)
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [friuns2/codex-mobile](https://github.com/friuns2/codex-mobile)
+  > 🚀 Run Codex Mobile Anywhere: Linux, Windows, or Termux on Android 🚀
+
 ### [NiTianErXing666](https://github.com/NiTianErXing666)
 - 🌟 👤 [NiTianErXing666](https://github.com/NiTianErXing666) Starred [LeoChen-CoreMind/android-vmp-recovery-workflow](https://github.com/LeoChen-CoreMind/android-vmp-recovery-workflow)
   > Android 某6零免费版 DexVMP 恢复工作流，仅限学习研究与授权分析
+
+### [No-Github](https://github.com/No-Github)
+- 🌟 👤 [No-Github](https://github.com/No-Github) Starred [QiantangCredit/heimdall-pentest](https://github.com/QiantangCredit/heimdall-pentest)
+  > An autonomous AI agent framework for authorized penetration testing
+
+### [OukaroMF](https://github.com/OukaroMF)
+- 🌟 👤 [OukaroMF](https://github.com/OukaroMF) Starred [compose-miuix-ui/miuix](https://github.com/compose-miuix-ui/miuix)
+  > A UI library for Compose Multiplatform
 
 ### [PenguinAndy](https://github.com/PenguinAndy)
 - 🌟 👤 [PenguinAndy](https://github.com/PenguinAndy) Starred [in0finite/SanAndreasUnity](https://github.com/in0finite/SanAndreasUnity)
@@ -153,6 +211,10 @@
 - 🌟 👤 [Prslc](https://github.com/Prslc) Starred [K0lb3/UnityPy](https://github.com/K0lb3/UnityPy)
   > UnityPy is python module that makes it possible to extract/unpack and edit Unity assets
 
+### [Ridter](https://github.com/Ridter)
+- 🌟 👤 [Ridter](https://github.com/Ridter) Starred [LongWayHomie/PolyEngine](https://github.com/LongWayHomie/PolyEngine)
+  > PolyEngine is an evasive PE packer designed for CTF challenges and low-level Windows security educat...
+
 ### [SimonTheCoder](https://github.com/SimonTheCoder)
 - 🌟 👤 [SimonTheCoder](https://github.com/SimonTheCoder) Starred [osfans/trime](https://github.com/osfans/trime)
   > 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
@@ -170,10 +232,38 @@
   > Motorola LK Patcher That Allows Unlock Bootloader And Remove FRP on MTK Devices Using Fastboot and L...
 - 🍴 👤 [Skorpion96](https://github.com/Skorpion96) Forked [alphaonex86/Ultracopier](https://github.com/alphaonex86/Ultracopier) to [Skorpion96/Ultracopier](https://github.com/Skorpion96/Ultracopier)
   > Ultracopier acts as a replacement for files copy dialogs. Features: play/pause, speed limitation, on...
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid)
+  > Maid is a free and open source application for interfacing with llama.cpp models locally, and with A...
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [Xposed-Modules-Repo/one.dot.rex](https://github.com/Xposed-Modules-Repo/one.dot.rex)
+  > Re:X (ReX) - Tweaks for the new X / Twitter
 
 ### [Slzdude](https://github.com/Slzdude)
 - 🌟 👤 [Slzdude](https://github.com/Slzdude) Starred [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
   > 🎮 An open-source game speed modifier.
+
+### [SummerSec](https://github.com/SummerSec)
+- 🌟 👤 [SummerSec](https://github.com/SummerSec) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
+  > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+
+### [ThunderCls](https://github.com/ThunderCls)
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory)
+  > A self-hosted library for your ebooks, comics, and audiobooks
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [navidrome/navidrome](https://github.com/navidrome/navidrome)
+  > 🎧 Your Personal Streaming Service 
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [jeffvli/feishin](https://github.com/jeffvli/feishin)
+  > A modern self-hosted music player.
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [everywall/ladder](https://github.com/everywall/ladder)
+  > Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [alexta69/metube](https://github.com/alexta69/metube)
+  > Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+  > Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and i...
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [averygan/reclip](https://github.com/averygan/reclip)
+  > Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web ...
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+  > A community-supported supercharged document management system: scan, index and archive all your docu...
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [syncthing/syncthing](https://github.com/syncthing/syncthing)
+  > Open Source Continuous File Synchronization
 
 ### [TopCaver](https://github.com/TopCaver)
 - 🌟 👤 [TopCaver](https://github.com/TopCaver) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
@@ -192,6 +282,14 @@
   > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 - 🍴 👤 [WsttXm](https://github.com/WsttXm) Forked [MG1937/ASC](https://github.com/MG1937/ASC) to [WsttXm/ASC](https://github.com/WsttXm/ASC)
   > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+
+### [XiaoTong6666](https://github.com/XiaoTong6666)
+- 🌟 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Starred [killerprojecte/REAREye](https://github.com/killerprojecte/REAREye)
+  > Yet Another Xposed module for Xiaomi rear screen
+
+### [Yervant7](https://github.com/Yervant7)
+- 🌟 👤 [Yervant7](https://github.com/Yervant7) Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)
+  > The easiest, most secure way to use WireGuard and 2FA.
 
 ### [ZSA233](https://github.com/ZSA233)
 - 🌟 👤 [ZSA233](https://github.com/ZSA233) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
@@ -254,8 +352,14 @@
   > User friendly sideloader
 
 ### [darbra](https://github.com/darbra)
-- 🌟 👤 [darbra](https://github.com/darbra) Starred [gzxx-2025/aid-server](https://github.com/gzxx-2025/aid-server)
-  > AID 是一套全开源、可私有化部署、可直接运营的一站式 AI 漫剧、AI 漫画、AI 动态漫、AI 短剧与 AI 视频创作平台。支持 AI 剧本创作、角色/道具/场景管理、AI 智能分镜、AI 文生图...
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [gzxx-2025/aid-studio](https://github.com/gzxx-2025/aid-studio)
+  > 开源AI漫剧、AI短剧、AI电影与AI漫画创作平台，支持剧本、角色场景、智能分镜、图片与视频生成、配音及成片预览，多模型接入，可自行部署。预：无限画布、导演台。
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
+  > Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable...
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- 🌟 👤 [darbra](https://github.com/darbra) Starred [LeoChen-CoreMind/android-vmp-recovery-workflow](https://github.com/LeoChen-CoreMind/android-vmp-recovery-workflow)
+  > Android 某6零免费版 DexVMP 恢复工作流，仅限学习研究与授权分析
 
 ### [dodola](https://github.com/dodola)
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [thesysdev/openui](https://github.com/thesysdev/openui)
@@ -271,19 +375,34 @@
 - 🍴 👤 [doronz88](https://github.com/doronz88) Forked [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) to [doronz88/BrewUI](https://github.com/doronz88/BrewUI)
   > 📺 Homebrew's official macOS GUI
 
+### [duanluan](https://github.com/duanluan)
+- 🌟 👤 [duanluan](https://github.com/duanluan) Starred [duanluan/zcode-pro](https://github.com/duanluan/zcode-pro)
+  > ZCode Pro — ZCode 桌面版界面增强（不修改应用文件）：自定义项目别名等
+- 🌟 👤 [duanluan](https://github.com/duanluan) Starred [duanluan/zcode-plugins](https://github.com/duanluan/zcode-plugins)
+
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [modelcontextprotocol/ext-skills](https://github.com/modelcontextprotocol/ext-skills)
   > Experimental exploration of skills discovery and distribution through MCP primitives. Maintained by ...
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [codetesla51/barrage](https://github.com/codetesla51/barrage)
   > Load test HTTP, database, and Redis on one clock and correlate their latency to pinpoint the real bo...
 
+### [dzxpert](https://github.com/dzxpert)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [colby57/sec_no_syscalls](https://github.com/colby57/sec_no_syscalls)
+  > A Windows Direct Syscall Library
+
 ### [eggfly](https://github.com/eggfly)
 - 🍴 👤 [eggfly](https://github.com/eggfly) Forked [Kasiin/C1-Slim-Ports](https://github.com/Kasiin/C1-Slim-Ports) to [eggfly/C1-Slim-Ports](https://github.com/eggfly/C1-Slim-Ports)
   > C1 Slim / MP-D261 e-ink app ports: Terminal, LavaX, Sudoku, News, Magic Tower and offline Chinese Bi...
+- 🍴 👤 [eggfly](https://github.com/eggfly) Forked [fwz233-RE/C1auncher](https://github.com/fwz233-RE/C1auncher) to [eggfly/C1auncher](https://github.com/eggfly/C1auncher)
+  > `C1ancher` 是 C1-Slim / MP-D261 的自研用户空间应用。当前设备已将它设为默认开机界面，同时启用开放 root ADB
 
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [navidrome/navidrome](https://github.com/navidrome/navidrome)
   > 🎧 Your Personal Streaming Service 
+
+### [elllusion](https://github.com/elllusion)
+- 🌟 👤 [elllusion](https://github.com/elllusion) Starred [mpai17/ankhdjet](https://github.com/mpai17/ankhdjet)
+  > Open-source compiler that hardwires ternary BitNet weights into mask-programmed compute-in-ROM silic...
 
 ### [fanqieVip](https://github.com/fanqieVip)
 - 🌟 👤 [fanqieVip](https://github.com/fanqieVip) Starred [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass)
@@ -328,6 +447,8 @@
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [Joooook/12306-mcp](https://github.com/Joooook/12306-mcp)
   > This is a 12306 ticket search server based on the Model Context Protocol (MCP).
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [SideStore/SideStore](https://github.com/SideStore/SideStore)
+  > SideStore is a fork of AltStore that doesn't require an AltServer.
 
 ### [fuqiuluo](https://github.com/fuqiuluo)
 - 🍴 👤 [fuqiuluo](https://github.com/fuqiuluo) Forked [GMWalletApp/gmshop-edge](https://github.com/GMWalletApp/gmshop-edge) to [fuqiuluo/gmshop-edge](https://github.com/fuqiuluo/gmshop-edge)
@@ -344,9 +465,21 @@
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
   > Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare p...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [Exocija/ZetaLib](https://github.com/Exocija/ZetaLib)
+  > 🌙 ZetaLib - The only AI Library you need
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [syv-ai/qwen38-27b-rtx3090](https://github.com/syv-ai/qwen38-27b-rtx3090)
+  > Qwen3.8-27B on a single RTX 3090 with vLLM: ~1,000 tok/s at 64 concurrent (int8 tensor-core GEMMs, f...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [agenticloops-ai/agentic-ai-engineering](https://github.com/agenticloops-ai/agentic-ai-engineering)
+  > Hands-on tutorials for building AI agents from scratch. Learn LLM APIs, prompt engineering, tool cal...
 
 ### [imj01y](https://github.com/imj01y)
 - 🌟 👤 [imj01y](https://github.com/imj01y) Starred [Asterisk4Magisk/bpf2socks](https://github.com/Asterisk4Magisk/bpf2socks)
+- 🌟 👤 [imj01y](https://github.com/imj01y) Starred [AndroidReverser-Test/trace_search](https://github.com/AndroidReverser-Test/trace_search)
+  > 为上百gb级别trace日志提供包含正则搜索、非正则搜索、读取指定行、导出指定行等功能的高效mcp服务
+
+### [jayli](https://github.com/jayli)
+- 🌟 👤 [jayli](https://github.com/jayli) Starred [luongnv89/pi-extensions](https://github.com/luongnv89/pi-extensions)
+  > Collection of extensions and themes for Pi Coding Agent
 
 ### [jaywcjlove](https://github.com/jaywcjlove)
 - 🌟 👤 [jaywcjlove](https://github.com/jaywcjlove) Starred [jaywcjlove/awesome-rust-apps](https://github.com/jaywcjlove/awesome-rust-apps)
@@ -361,8 +494,8 @@
   > 👻 A simple & beautiful GUI application for scrcpy.
 
 ### [jiji262](https://github.com/jiji262)
-- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [gzxx-2025/aid-server](https://github.com/gzxx-2025/aid-server)
-  > AID 是一套全开源、可私有化部署、可直接运营的一站式 AI 漫剧、AI 漫画、AI 动态漫、AI 短剧与 AI 视频创作平台。支持 AI 剧本创作、角色/道具/场景管理、AI 智能分镜、AI 文生图...
+- 🌟 👤 [jiji262](https://github.com/jiji262) Starred [gzxx-2025/aid-studio](https://github.com/gzxx-2025/aid-studio)
+  > 开源AI漫剧、AI短剧、AI电影与AI漫画创作平台，支持剧本、角色场景、智能分镜、图片与视频生成、配音及成片预览，多模型接入，可自行部署。预：无限画布、导演台。
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
   > Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable...
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [chengongliang/keygrid](https://github.com/chengongliang/keygrid)
@@ -370,6 +503,10 @@
   > MuseDock 是一个本地优先的 AI 短视频创作与编辑工作台。它将素材整理、脚本与分镜、配音字幕、画面生成、视频渲染和后续修改集中在同一个创作流程中，目前支持 HyperFrames 动态视频 与...
 - 🌟 👤 [jiji262](https://github.com/jiji262) Starred [shaoyouvip/htools](https://github.com/shaoyouvip/htools)
   > HTools 是一款运行于 Cloudflare Pages Functions + D1 的开源工具导航平台，集工具收录、文章管理、RSS 内容聚合与 Telegram 消息推送于一体，无需部署传统...
+
+### [jiushill](https://github.com/jiushill)
+- 🌟 👤 [jiushill](https://github.com/jiushill) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 ### [jiyulany](https://github.com/jiyulany)
 - 🌟 👤 [jiyulany](https://github.com/jiyulany) Starred [kkkbbb/rustFrida](https://github.com/kkkbbb/rustFrida)
@@ -404,6 +541,23 @@
 - 🌟 👤 [kenvix](https://github.com/kenvix) Starred [Septrum101/zteOnu](https://github.com/Septrum101/zteOnu)
   > A tool that can open ZTE onu device factory mode
 
+### [kingking888](https://github.com/kingking888)
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [LeoChen-CoreMind/android-vmp-recovery-workflow](https://github.com/LeoChen-CoreMind/android-vmp-recovery-workflow)
+  > Android 某6零免费版 DexVMP 恢复工作流，仅限学习研究与授权分析
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [mingzun09/Chunqiu-Detector-Problem-solution](https://github.com/mingzun09/Chunqiu-Detector-Problem-solution)
+  > 将Chunqiu Detector-Problem solution写进 README并对其维护修改跟进等，方便求助者查阅。 （内容来自探索发现并测试，并非摘录自检测源码)
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel)
+  > Jailbreak supported Google Pixel phones with CVE-2026-43499
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [alex193a/Root-My-Pixel-Payloads](https://github.com/alex193a/Root-My-Pixel-Payloads)
+  > Exploit payloads for Root My Pixel
+
+### [krnlyng](https://github.com/krnlyng)
+- 🍴 👤 [krnlyng](https://github.com/krnlyng) Forked [waydroid/android_hardware_waydroid](https://github.com/waydroid/android_hardware_waydroid) to [krnlyng/android_hardware_waydroid](https://github.com/krnlyng/android_hardware_waydroid)
+
+### [kujian](https://github.com/kujian)
+- 🌟 👤 [kujian](https://github.com/kujian) Starred [hypit-ai/hypit](https://github.com/hypit-ai/hypit)
+  > Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the word...
+
 ### [lionsoul2014](https://github.com/lionsoul2014)
 - 🌟 👤 [lionsoul2014](https://github.com/lionsoul2014) Starred [liuzl/gocc](https://github.com/liuzl/gocc)
   > Golang version OpenCC 繁簡轉換
@@ -411,6 +565,10 @@
 ### [ltlly](https://github.com/ltlly)
 - 🌟 👤 [ltlly](https://github.com/ltlly) Starred [chengtx007/fuckoai](https://github.com/chengtx007/fuckoai)
   > Linux container registration control panel
+
+### [lyming99](https://github.com/lyming99)
+- 🌟 👤 [lyming99](https://github.com/lyming99) Starred [liuma3995-dot/anyi-property-management](https://github.com/liuma3995-dot/anyi-property-management)
+  > 安怡物业管理系统 —— 单机部署的物业收费与台账管理桌面系统（WPF + .NET Framework 4.8 + OWIN + SQLite）
 
 ### [lz6688](https://github.com/lz6688)
 - 🍴 👤 [lz6688](https://github.com/lz6688) Forked [MG1937/ASC](https://github.com/MG1937/ASC) to [lz6688/ASC](https://github.com/lz6688/ASC)
@@ -432,9 +590,25 @@
 - 🍴 👤 [lz6688](https://github.com/lz6688) Forked [SuperMonster003/AutoJs6-Documentation](https://github.com/SuperMonster003/AutoJs6-Documentation) to [Auto-PG/AutoJs6-Documentation](https://github.com/Auto-PG/AutoJs6-Documentation)
   > Documentation (with generator) for AutoJs6 [AutoJs6 文档 (带生成器)]
 
+### [mcr](https://github.com/mcr)
+- 🌟 👤 [mcr](https://github.com/mcr) Starred [TheBankster/rats-tacra](https://github.com/TheBankster/rats-tacra)
+  > Informational Draft for TWI Unified Model
+- 🌟 👤 [mcr](https://github.com/mcr) Starred [TheBankster/lamps-tacra-est](https://github.com/TheBankster/lamps-tacra-est)
+  > EST extensions for trustworthy credential enrollment using remote attestation
+
 ### [mdcgqq](https://github.com/mdcgqq)
 - 🌟 👤 [mdcgqq](https://github.com/mdcgqq) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
   > The design language that makes your AI harness better at design.
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [olafhartong/BamboozlEDR](https://github.com/olafhartong/BamboozlEDR)
+  > A comprehensive ETW (Event Tracing for Windows) event generation tool designed for testing and resea...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [evilele/EDR-Introspection](https://github.com/evilele/EDR-Introspection)
+  > Deep insights into EDR detection approaches
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Hexastrike/EventWhisper](https://github.com/Hexastrike/EventWhisper)
+  > A Windows Event Log MCP
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ustayready/tradecraft](https://github.com/ustayready/tradecraft)
+  > Red Teaming Tradecraft
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [REhints/efiXplorer](https://github.com/REhints/efiXplorer)
@@ -450,12 +624,24 @@
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [blazux/qwen3.8-Flash-DGX](https://github.com/blazux/qwen3.8-Flash-DGX)
   > recipe for running Qwen3.8-Flash-Next on a single DGX Spark
 
+### [mkr-infinity](https://github.com/mkr-infinity)
+- 🌟 👤 [mkr-infinity](https://github.com/mkr-infinity) Starred [mkr-infinity/wallpaper](https://github.com/mkr-infinity/wallpaper)
+  > Personal dekstop wallpaper collection suitable for all dekstops/laptops
+
 ### [monich](https://github.com/monich)
 - 🍴 👤 [monich](https://github.com/monich) Forked [sailfishos/nemo-qml-plugin-connectivity](https://github.com/sailfishos/nemo-qml-plugin-connectivity) to [monich/nemo-qml-plugin-connectivity](https://github.com/monich/nemo-qml-plugin-connectivity)
 
 ### [motikan2010](https://github.com/motikan2010)
 - 🌟 👤 [motikan2010](https://github.com/motikan2010) Starred [Pwnsat/FlatSat](https://github.com/Pwnsat/FlatSat)
   > Flatsat v1.0 is a hardware based platform for aerospace cybersecurity research
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)
+  > DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks
+
+### [nek0y4nsu](https://github.com/nek0y4nsu)
+- 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)
+  > A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Fire...
 
 ### [netxfly](https://github.com/netxfly)
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
@@ -472,6 +658,8 @@
 ### [nilaoda](https://github.com/nilaoda)
 - 🌟 👤 [nilaoda](https://github.com/nilaoda) Starred [threatexpert/ProxyLane](https://github.com/threatexpert/ProxyLane)
   > 基于 Winsock2 Hook 的 Windows 进程级透明代理工具，无需应用原生支持代理。
+- 🌟 👤 [nilaoda](https://github.com/nilaoda) Starred [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
+  > Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable...
 
 ### [not1cyyy](https://github.com/not1cyyy)
 - 🌟 👤 [not1cyyy](https://github.com/not1cyyy) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
@@ -497,6 +685,10 @@
 - 🌟 👤 [patois](https://github.com/patois) Starred [Jickssa/LiveGranularFX](https://github.com/Jickssa/LiveGranularFX)
   > Real-time granular effect for Digitone built with Python (capturing USB audio and applying granular ...
 
+### [pbatard](https://github.com/pbatard)
+- 🍴 👤 [pbatard](https://github.com/pbatard) Forked [canonical/snapd](https://github.com/canonical/snapd) to [pbatard/snapd](https://github.com/pbatard/snapd)
+  > The snapd and snap tools enable systems to work with .snap files.
+
 ### [phith0n](https://github.com/phith0n)
 - 🌟 👤 [phith0n](https://github.com/phith0n) Starred [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg)
   > A developer-friendly API for converting many document formats into PDF files, and more!
@@ -513,6 +705,10 @@
 - 🌟 👤 [quangnh89](https://github.com/quangnh89) Starred [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)
   > Create beautiful slides on the web using a coding agent's frontend skills
 
+### [quanyeyang](https://github.com/quanyeyang)
+- 🌟 👤 [quanyeyang](https://github.com/quanyeyang) Starred [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)
+  > 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
+
 ### [r00tuser111](https://github.com/r00tuser111)
 - 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
   > Framework for evaluating and improving agents 
@@ -523,6 +719,23 @@
 
 ### [re-zero001](https://github.com/re-zero001)
 - 🌟 👤 [re-zero001](https://github.com/re-zero001) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
+  > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [horsicq/dieOS](https://github.com/horsicq/dieOS)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
+  > Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle dia...
+
+### [redbearder](https://github.com/redbearder)
+- 🌟 👤 [redbearder](https://github.com/redbearder) Starred [yorukot/superfile](https://github.com/yorukot/superfile)
+  > Pretty fancy and modern terminal file manager
+
+### [ret2ldz](https://github.com/ret2ldz)
+- 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [Kuddev/pebrel](https://github.com/Kuddev/pebrel)
+  > AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent sessions, split panes,...
+- 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [unknownhad/v8ctf-m150-exploit](https://github.com/unknownhad/v8ctf-m150-exploit)
+  > Exact-build Chrome M150 V8/JSPI sandbox escape PoC used to recover a Google v8CTF flag
+- 🌟 👤 [ret2ldz](https://github.com/ret2ldz) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
   > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 
 ### [ret2p4nda](https://github.com/ret2p4nda)
@@ -542,6 +755,8 @@
   > 📆  iOS Todo calendar app
 - 🌟 👤 [rogertan30](https://github.com/rogertan30) Starred [SharezoneApp/sharezone-app](https://github.com/SharezoneApp/sharezone-app)
   > Sharezone is a collaborative school organization app for iOS, Android, macOS and web with +500,000 d...
+- 🌟 👤 [rogertan30](https://github.com/rogertan30) Starred [tuist/tuist](https://github.com/tuist/tuist)
+  > Your platform team, as a service
 
 ### [seritools](https://github.com/seritools)
 - 🌟 👤 [seritools](https://github.com/seritools) Starred [dougg3/nzxt-signal-4k30-color-bug-firmware-patch](https://github.com/dougg3/nzxt-signal-4k30-color-bug-firmware-patch)
@@ -553,6 +768,14 @@
 ### [sml2h3](https://github.com/sml2h3)
 - 🍴 👤 [sml2h3](https://github.com/sml2h3) Forked [Gaoshu705/QzoneArchive](https://github.com/Gaoshu705/QzoneArchive) to [sml2h3/QzoneArchive](https://github.com/sml2h3/QzoneArchive)
   > 将 QQ 空间历史动态、照片、视频与互动记录安全归档到本地的桌面 / 移动端工具。
+
+### [snowsnowsnows](https://github.com/snowsnowsnows)
+- 🍴 👤 [snowsnowsnows](https://github.com/snowsnowsnows) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [snowsnowsnows/oh-my-pi](https://github.com/snowsnowsnows/oh-my-pi)
+  > ⌥ Coding agent with the IDE wired in
+
+### [std-microblock](https://github.com/std-microblock)
+- 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
+  > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 
 ### [stuxnet147](https://github.com/stuxnet147)
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [mysql/mysql-server](https://github.com/mysql/mysql-server)
@@ -571,6 +794,9 @@
 - 🌟 👤 [taviso](https://github.com/taviso) Starred [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper)
   > An Android app to remap the buttons on your devices
 
+### [thelicato](https://github.com/thelicato)
+- 🌟 👤 [thelicato](https://github.com/thelicato) Starred [six2dez/pentest-book](https://github.com/six2dez/pentest-book)
+
 ### [tijme](https://github.com/tijme)
 - 🌟 👤 [tijme](https://github.com/tijme) Starred [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
   > Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
@@ -579,13 +805,13 @@
 - 🌟 👤 [tothi](https://github.com/tothi) Starred [rasta-mouse/Crystal-Kit](https://github.com/rasta-mouse/Crystal-Kit)
   > Evasion kit for Cobalt Strike
 
+### [ttttmr](https://github.com/ttttmr)
+- 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [eiei114/pi-sub](https://github.com/eiei114/pi-sub)
+- 🍴 👤 [ttttmr](https://github.com/ttttmr) Forked [eiei114/pi-sub](https://github.com/eiei114/pi-sub) to [ttttmr/pi-sub](https://github.com/ttttmr/pi-sub)
+
 ### [vipstone](https://github.com/vipstone)
 - 🌟 👤 [vipstone](https://github.com/vipstone) Starred [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy)
   > WorkBuddy 桌面端增强助手：自动签到领积分、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。
-
-### [wainshine](https://github.com/wainshine)
-- 🌟 👤 [wainshine](https://github.com/wainshine) Starred [vbabenko97/ABPMHemodynamicCoupling](https://github.com/vbabenko97/ABPMHemodynamicCoupling)
-  > Python research pipeline for stress-linked blood-pressure shifts in ambulatory BP monitoring (ABPM) ...
 
 ### [wkunzhi](https://github.com/wkunzhi)
 - 🌟 👤 [wkunzhi](https://github.com/wkunzhi) Starred [yang0/handraw-style](https://github.com/yang0/handraw-style)
@@ -594,6 +820,8 @@
 ### [wonderkun](https://github.com/wonderkun)
 - 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
   > Secure and fast microVMs for serverless computing.
+- 🌟 👤 [wonderkun](https://github.com/wonderkun) Starred [zhikunqingtao/zhikuncode](https://github.com/zhikunqingtao/zhikuncode)
+  > Codex/Claude Code/Cursor的开源增强版，专注一句话实现复杂长程任务（教育、编程、办公、生活、娱乐、游戏）。部署在你自己的服务器上，团队用浏览器打开就能编程——包括手机。CLI &...
 
 ### [wxhzhwxhzh](https://github.com/wxhzhwxhzh)
 - 🌟 👤 [wxhzhwxhzh](https://github.com/wxhzhwxhzh) Starred [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
@@ -627,6 +855,10 @@
 ### [yohanes](https://github.com/yohanes)
 - 🌟 👤 [yohanes](https://github.com/yohanes) Starred [shilapi/xcertplay](https://github.com/shilapi/xcertplay)
   > Carplay on Android head unit using onboard mfi chip or via CH341.
+- 🌟 👤 [yohanes](https://github.com/yohanes) Starred [shilapi/ch341-to-mfi-chip](https://github.com/shilapi/ch341-to-mfi-chip)
+  > A CH341F to MFI337S3959 board
+- 🌟 👤 [yohanes](https://github.com/yohanes) Starred [amineross/showcase](https://github.com/amineross/showcase)
+  > Software wireless CarPlay receiver for jailbroken iPads and iPhones
 
 ### [zenghongtu](https://github.com/zenghongtu)
 - 🌟 👤 [zenghongtu](https://github.com/zenghongtu) Starred [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
@@ -660,5 +892,5 @@
 
 
 ---
-*最后更新于 2026-09-15 13:10:21 UTC*
+*最后更新于 2026-09-15 17:57:02 UTC*
 *历史记录保存在 `archive` 目录中。*
