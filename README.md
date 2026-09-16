@@ -11,6 +11,8 @@
 ### [0xWhiteMage](https://github.com/0xWhiteMage)
 - 🌟 👤 [0xWhiteMage](https://github.com/0xWhiteMage) Starred [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web)
   > Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and imag...
+- 🌟 👤 [0xWhiteMage](https://github.com/0xWhiteMage) Starred [Blackfrost-AI/FrostByte-App](https://github.com/Blackfrost-AI/FrostByte-App)
+  > The official FrostByte app page: downloads, user guide, bug reports, and feature requests. By Blackf...
 
 ### [222twotwotwo](https://github.com/222twotwotwo)
 - 🌟 👤 [222twotwotwo](https://github.com/222twotwotwo) Starred [OpenFuckJob/FuckJob](https://github.com/OpenFuckJob/FuckJob)
@@ -120,6 +122,10 @@
 - 🌟 👤 [H4ckForJob](https://github.com/H4ckForJob) Starred [galact-byte/dddd-next](https://github.com/galact-byte/dddd-next)
   > 面向授权环境的自动化资产测绘 + 漏洞扫描工具，基于原 dddd 的设计思路做现代化重写，覆盖指纹识别、弱口令、nuclei POC、Shiro 专项检测和 HTML 报告。
 
+### [Hamz-a](https://github.com/Hamz-a)
+- 🌟 👤 [Hamz-a](https://github.com/Hamz-a) Starred [secuworm2/Pengrida](https://github.com/secuworm2/Pengrida)
+  > Anti-detection Frida builds for Android and iOS 
+
 ### [JingMatrix](https://github.com/JingMatrix)
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
   > Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
@@ -131,10 +137,6 @@
   > OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces nati...
 - 🌟 👤 [JunioJsv](https://github.com/JunioJsv) Starred [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86)
   > Here is a dlssg for RTX30 Series GPU 
-
-### [KShChan](https://github.com/KShChan)
-- 🌟 👤 [KShChan](https://github.com/KShChan) Starred [cdgriffith/FastFlix](https://github.com/cdgriffith/FastFlix)
-  > FastFlix is a free GUI for H.264, HEVC and AV1 hardware and software encoding!
 
 ### [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
 - 🌟 👤 [KagurazakaHanabi](https://github.com/KagurazakaHanabi) Starred [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)
@@ -168,8 +170,8 @@
   > ActiveMQ RCE (CVE-2023-46604) 回显利用工具
 
 ### [M0Rf30](https://github.com/M0Rf30)
-- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [jgromes/RadioLib](https://github.com/jgromes/RadioLib)
-  > Universal wireless communication library for embedded devices
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [openhop-dev/openhop_repeater](https://github.com/openhop-dev/openhop_repeater)
+  > A lightweight Repeater Daemon implemented in Python, built using the openhop_core library.
 
 ### [MBRO95](https://github.com/MBRO95)
 - 🌟 👤 [MBRO95](https://github.com/MBRO95) Starred [jonnyoo/glance](https://github.com/jonnyoo/glance)
@@ -259,6 +261,10 @@
 - 🌟 👤 [Slzdude](https://github.com/Slzdude) Starred [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
   > 🎮 An open-source game speed modifier.
 
+### [TGSAN](https://github.com/TGSAN)
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass)
+  > Compose Multiplatform Liquid Glass effect
+
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory)
   > A self-hosted library for your ebooks, comics, and audiobooks
@@ -297,6 +303,12 @@
 - 🍴 👤 [WsttXm](https://github.com/WsttXm) Forked [MG1937/ASC](https://github.com/MG1937/ASC) to [WsttXm/ASC](https://github.com/WsttXm/ASC)
   > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 
+### [XMDS](https://github.com/XMDS)
+- 🌟 👤 [XMDS](https://github.com/XMDS) Starred [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo)
+  > A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+- 🌟 👤 [XMDS](https://github.com/XMDS) Starred [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)
+  > A rule-based tunnel for Android.
+
 ### [Yervant7](https://github.com/Yervant7)
 - 🌟 👤 [Yervant7](https://github.com/Yervant7) Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)
   > The easiest, most secure way to use WireGuard and 2FA.
@@ -332,6 +344,10 @@
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [enactic/openarm](https://github.com/enactic/openarm)
   > A fully open-source humanoid arm for physical AI research and deployment in contact-rich environment...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
+  > Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle dia...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Oros42/IMSI-catcher](https://github.com/Oros42/IMSI-catcher)
+  > This program show you IMSI numbers of cellphones around you.
 
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian)
@@ -395,6 +411,14 @@
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [navidrome/navidrome](https://github.com/navidrome/navidrome)
   > 🎧 Your Personal Streaming Service 
+- 🌟 👤 [einverne](https://github.com/einverne) Starred [thaw-app/Thaw](https://github.com/thaw-app/Thaw)
+  > The open source menu bar manager
+- 🌟 👤 [einverne](https://github.com/einverne) Starred [vibeislandapp/vibe-island](https://github.com/vibeislandapp/vibe-island)
+  > Vibe Island — macOS notch panel for 25 AI coding agents: Claude Code, Codex, Cursor, Gemini CLI & mo...
+- 🌟 👤 [einverne](https://github.com/einverne) Starred [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
+  > Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+- 🌟 👤 [einverne](https://github.com/einverne) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
+  > Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk....
 
 ### [elllusion](https://github.com/elllusion)
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [mpai17/ankhdjet](https://github.com/mpai17/ankhdjet)
@@ -639,6 +663,12 @@
 - 🌟 👤 [motikan2010](https://github.com/motikan2010) Starred [Pwnsat/FlatSat](https://github.com/Pwnsat/FlatSat)
   > Flatsat v1.0 is a hardware based platform for aerospace cybersecurity research
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks) to [mrexodia/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/mrexodia/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)
+  > DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [audn-ai/refusal-benchmark](https://github.com/audn-ai/refusal-benchmark)
+  > 519+ harmful prompts to detect how abliterated AI models are
+
 ### [nek0y4nsu](https://github.com/nek0y4nsu)
 - 🌟 👤 [nek0y4nsu](https://github.com/nek0y4nsu) Starred [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)
   > A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Fire...
@@ -674,6 +704,10 @@
   > An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process managemen...
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [StevenMXZ/Winlator-Ludashi](https://github.com/StevenMXZ/Winlator-Ludashi)
   > Android application for running Windows applications with Wine and Box86/Box64
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [arika0093/console2svg](https://github.com/arika0093/console2svg)
+  > Easily convert terminal output into SVG images.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [pamburus/termframe](https://github.com/pamburus/termframe)
+  > 📸 Terminal output SVG screenshot tool
 
 ### [p-ranav](https://github.com/p-ranav)
 - 🌟 👤 [p-ranav](https://github.com/p-ranav) Starred [datalab-to/surya](https://github.com/datalab-to/surya)
@@ -909,6 +943,10 @@
   > Agents that use the browser.
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [browser-use/browser-harness](https://github.com/browser-use/browser-harness)
   > Browser Harness | Self-healing harness that enables LLMs to complete any task.
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [steelbrain/reims-vgpu](https://github.com/steelbrain/reims-vgpu)
+  > reims-vgpu is an experimental virtual GPU for macOS guests
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [steelbrain/metal2vulkan](https://github.com/steelbrain/metal2vulkan)
+  > Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter
 
 ### [zhuowei](https://github.com/zhuowei)
 - 🌟 👤 [zhuowei](https://github.com/zhuowei) Starred [JiminChip/xless-elf](https://github.com/JiminChip/xless-elf)
@@ -916,5 +954,5 @@
 
 
 ---
-*最后更新于 2026-09-15 21:04:25 UTC*
+*最后更新于 2026-09-15 23:59:05 UTC*
 *历史记录保存在 `archive` 目录中。*
