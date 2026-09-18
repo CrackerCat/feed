@@ -122,6 +122,10 @@
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
+### [HoShiMin](https://github.com/HoShiMin)
+- 🚀 👤 [HoShiMin](https://github.com/HoShiMin) Made [HoShiMin/snake686](https://github.com/HoShiMin/snake686) public
+  > The world's funniest, smallest and absurd snake game for a bootsector, in Rust
+
 ### [J5now](https://github.com/J5now)
 - 🌟 👤 [J5now](https://github.com/J5now) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
   > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
@@ -180,6 +184,10 @@
 - 🌟 👤 [PenguinAndy](https://github.com/PenguinAndy) Starred [yynxxxxx/gpt_sub_analysis](https://github.com/yynxxxxx/gpt_sub_analysis)
   > Security analysis of the ChatGPT iOS subscription / entitlement flow (internal draft, coordinated di...
 
+### [Petitoto](https://github.com/Petitoto)
+- 🌟 👤 [Petitoto](https://github.com/Petitoto) Starred [portbuster1337/Atlas](https://github.com/portbuster1337/Atlas)
+  > Cross-platform network execution toolkit (SMB/Kerberos/WMI/LDAP/DCSync) built on TrustedSec's Titani...
+
 ### [RiccardoAncarani](https://github.com/RiccardoAncarani)
 - 🌟 👤 [RiccardoAncarani](https://github.com/RiccardoAncarani) Starred [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)
   > Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
@@ -223,11 +231,9 @@
 ### [StephenDev0](https://github.com/StephenDev0)
 - 🚀 👤 [StephenDev0](https://github.com/StephenDev0) Made [StikStore/site-2](https://github.com/StikStore/site-2) public
 
-### [ThePedroo](https://github.com/ThePedroo)
-- 🍴 👤 [ThePedroo](https://github.com/ThePedroo) Forked [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS) to [ThePedroo/TrickyStoreOSS](https://github.com/ThePedroo/TrickyStoreOSS)
-  > Open source alternative to proprietary Tricky Store module
-- 🍴 👤 [ThePedroo](https://github.com/ThePedroo) Forked [SiliconPlayer/SiliconPlayer](https://github.com/SiliconPlayer/SiliconPlayer) to [ThePedroo/SiliconPlayer](https://github.com/ThePedroo/SiliconPlayer)
-  > Music player for Android with wide format support (primarily chiptunes). WIP.
+### [T5ive](https://github.com/T5ive)
+- 🌟 👤 [T5ive](https://github.com/T5ive) Starred [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
+  > Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu...
 
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [avdept/JellyBoxPlayer](https://github.com/avdept/JellyBoxPlayer)
@@ -280,6 +286,10 @@
 ### [YuHuanTin](https://github.com/YuHuanTin)
 - 🍴 👤 [YuHuanTin](https://github.com/YuHuanTin) Forked [QuantumNous/new-api](https://github.com/QuantumNous/new-api) to [YuHuanTin/new-api](https://github.com/YuHuanTin/new-api)
   > A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs int...
+
+### [ZephrFish](https://github.com/ZephrFish)
+- 🍴 👤 [ZephrFish](https://github.com/ZephrFish) Forked [lorentzenman/sheepl](https://github.com/lorentzenman/sheepl) to [ZephrFish/sheepl](https://github.com/ZephrFish/sheepl)
+  > Sheepl : Creating realistic user behaviour for supporting tradecraft development within lab environm...
 
 ### [alexander-hanel](https://github.com/alexander-hanel)
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [Continuum-AI-Corp/OrcaBonsai-27B-Uncensored](https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored)
@@ -362,6 +372,10 @@
 - 🌟 👤 [connorjaydunn](https://github.com/connorjaydunn) Starred [aftermathlabs/discord-crasher](https://github.com/aftermathlabs/discord-crasher)
   > Some bugs found via binary instrumentation and fuzzing
 
+### [cristeigabriela](https://github.com/cristeigabriela)
+- 🌟 👤 [cristeigabriela](https://github.com/cristeigabriela) Starred [zodiacon/OffByOneDemos](https://github.com/zodiacon/OffByOneDemos)
+  > Demos from my stream with OffByOneSecurity
+
 ### [darbra](https://github.com/darbra)
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [asciimoo/hister](https://github.com/asciimoo/hister)
   > Your own search engine
@@ -381,6 +395,12 @@
 ### [eggfly](https://github.com/eggfly)
 - 🍴 👤 [eggfly](https://github.com/eggfly) Forked [tspfreitas/GBA-RaspZero](https://github.com/tspfreitas/GBA-RaspZero) to [eggfly/GBA-RaspZero](https://github.com/eggfly/GBA-RaspZero)
   > A PCB that fits inside a GBA shell with ability to install a Raspberry Pi Zero
+
+### [ejpir](https://github.com/ejpir)
+- 🌟 👤 [ejpir](https://github.com/ejpir) Starred [supercorp-ai/supercov](https://github.com/supercorp-ai/supercov)
+  > Code quality and coverage for coding agents
+- 🌟 👤 [ejpir](https://github.com/ejpir) Starred [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
+  > Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu...
 
 ### [electrondefuser](https://github.com/electrondefuser)
 - 🍴 👤 [electrondefuser](https://github.com/electrondefuser) Forked [hookforge/insert-dylib](https://github.com/hookforge/insert-dylib) to [chronofieldtechnologies/insert-dylib](https://github.com/chronofieldtechnologies/insert-dylib)
@@ -523,10 +543,6 @@
 - 🍴 👤 [kmiit](https://github.com/kmiit) Forked [librepods-org/librepods](https://github.com/librepods-org/librepods) to [kmiit/librepods](https://github.com/kmiit/librepods)
   > AirPods liberated from Apple's ecosystem.
 
-### [kmlgping](https://github.com/kmlgping)
-- 🌟 👤 [kmlgping](https://github.com/kmlgping) Starred [ioallocate/imMapper](https://github.com/ioallocate/imMapper)
-  > Demonstration of Abusing the Vulnerable driver AmdTools64.sys for Physical R/W.
-
 ### [le31ei](https://github.com/le31ei)
 - 🌟 👤 [le31ei](https://github.com/le31ei) Starred [m-sec-org/BreachWeave](https://github.com/m-sec-org/BreachWeave)
   > 智能渗透Agent Manager/Observer/Solver 多角色架构，基于 pi-mono SDK。
@@ -610,6 +626,10 @@
   > LSPosed/Xposed module that removes ads, sponsored apps, and promoted recommendations from the Google...
 - 🌟 👤 [noobexon1](https://github.com/noobexon1) Starred [fzer0x/ReShift](https://github.com/fzer0x/ReShift)
   > Inject Frida scripts on Android through Zygisk without a PC. Manage scripts from integrated reposito...
+
+### [not1cyyy](https://github.com/not1cyyy)
+- 🌟 👤 [not1cyyy](https://github.com/not1cyyy) Starred [Speedstu/CUDA-for-AMD-Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows)
+  > Run CUDA-targeted Windows applications on AMD GPUs with ZLUDA + ROCm/HIP.
 
 ### [null-dev](https://github.com/null-dev)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo)
@@ -1006,5 +1026,5 @@
 
 
 ---
-*最后更新于 2026-09-18 20:29:27 UTC*
+*最后更新于 2026-09-18 23:02:43 UTC*
 *历史记录保存在 `archive` 目录中。*
