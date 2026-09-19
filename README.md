@@ -24,6 +24,10 @@
 - 🌟 👤 [AICodo](https://github.com/AICodo) Starred [awesometic/realtek-r8125-dkms](https://github.com/awesometic/realtek-r8125-dkms)
   > A DKMS package for easy use of Realtek r8125 driver, which supports 2.5 GbE.
 
+### [Aira-Sakuranomiya](https://github.com/Aira-Sakuranomiya)
+- 🌟 👤 [Aira-Sakuranomiya](https://github.com/Aira-Sakuranomiya) Starred [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
+  > The Photoshop alternative for Mac
+
 ### [AlexAltea](https://github.com/AlexAltea)
 - 🌟 👤 [AlexAltea](https://github.com/AlexAltea) Starred [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
   > The Photoshop alternative for Mac
@@ -37,12 +41,10 @@
   > wazero: the zero dependency WebAssembly runtime for Go developers
 
 ### [Felix3322](https://github.com/Felix3322)
-- 🌟 👤 [Felix3322](https://github.com/Felix3322) Starred [pRain1337/plouton](https://github.com/pRain1337/plouton)
-  > System Management Mode (SMM) game cheating framework
-- 🌟 👤 [Felix3322](https://github.com/Felix3322) Starred [pRain1337/Hermes](https://github.com/pRain1337/Hermes)
-  > SMM UEFI module and client for UMD privilege escalation
-- 🌟 👤 [Felix3322](https://github.com/Felix3322) Starred [RayanZiani/SmmMem](https://github.com/RayanZiani/SmmMem)
-  > SmmMem - Driverless Windows Memory Access Through SMM
+- 🌟 👤 [Felix3322](https://github.com/Felix3322) Starred [LabGuy94/Diskjacker](https://github.com/LabGuy94/Diskjacker)
+  > Hijacking Hyper-V at Runtime with DDMA
+- 🌟 👤 [Felix3322](https://github.com/Felix3322) Starred [btbd/ddma](https://github.com/btbd/ddma)
+  > Disks for DMA
 
 ### [FiYHer](https://github.com/FiYHer)
 - 🌟 👤 [FiYHer](https://github.com/FiYHer) Starred [xujianjian2004/WOSAI-ComfyUI](https://github.com/xujianjian2004/WOSAI-ComfyUI)
@@ -52,6 +54,10 @@
 ### [FldBudin](https://github.com/FldBudin)
 - 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
   > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
+
+### [Fyyre](https://github.com/Fyyre)
+- 🚀 👤 [Fyyre](https://github.com/Fyyre) Made [Fyyre/xde](https://github.com/Fyyre/xde) public
+  > eXtended disassembler engine for x86, x86-64, VEX, EVEX, and XOP
 
 ### [Gavinme](https://github.com/Gavinme)
 - 🌟 👤 [Gavinme](https://github.com/Gavinme) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
@@ -69,6 +75,9 @@
   > KOOK 净化 去广告
 - 🍴 👤 [MartinKayJr](https://github.com/MartinKayJr) Forked [Souma-Sumire/kook-purifier](https://github.com/Souma-Sumire/kook-purifier) to [MartinKayJr/kook-purifier](https://github.com/MartinKayJr/kook-purifier)
   > KOOK 净化 去广告
+
+### [MhmRdd](https://github.com/MhmRdd)
+- 🌟 👤 [MhmRdd](https://github.com/MhmRdd) Starred [NebuSec/vega-skill](https://github.com/NebuSec/vega-skill)
 
 ### [MikeWang000000](https://github.com/MikeWang000000)
 - 🌟 👤 [MikeWang000000](https://github.com/MikeWang000000) Starred [MariaDB/server](https://github.com/MariaDB/server)
@@ -139,9 +148,6 @@
 - 🌟 👤 [Udyz](https://github.com/Udyz) Starred [manizada/DirtyAH6](https://github.com/manizada/DirtyAH6)
   > https://heyitsas.im/posts/lpe-quartet/
 
-### [XiaoTong6666](https://github.com/XiaoTong6666)
-- 🍴 👤 [XiaoTong6666](https://github.com/XiaoTong6666) Forked [cubicecho/mcp-router](https://github.com/cubicecho/mcp-router) to [XiaoTong6666/mcp-router](https://github.com/XiaoTong6666/mcp-router)
-
 ### [YinMo19](https://github.com/YinMo19)
 - 🍴 👤 [YinMo19](https://github.com/YinMo19) Forked [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) to [YinMo19/rust-analyzer](https://github.com/YinMo19/rust-analyzer)
   > A Rust compiler front-end for IDEs
@@ -154,9 +160,17 @@
 - 🌟 👤 [achuna33](https://github.com/achuna33) Starred [achuna33/expert-meeting-room](https://github.com/achuna33/expert-meeting-room)
   > 专家会议室 - 五位世界级专家的多角色决策会议系统
 
+### [alternoegraha](https://github.com/alternoegraha)
+- 🍴 👤 [alternoegraha](https://github.com/alternoegraha) Forked [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell) to [alternoegraha/blur-my-shell](https://github.com/alternoegraha/blur-my-shell)
+  > Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash...
+
 ### [atlas4381](https://github.com/atlas4381)
 - 🌟 👤 [atlas4381](https://github.com/atlas4381) Starred [Xeift/CatDesk](https://github.com/Xeift/CatDesk)
   > An open-source tool that lets you use ChatGPT Chat as a local coding agent. No reverse engineering, ...
+
+### [b1n4ri0](https://github.com/b1n4ri0)
+- 🍴 👤 [b1n4ri0](https://github.com/b1n4ri0) Forked [antoniovazquezblanco/GhidraSVD](https://github.com/antoniovazquezblanco/GhidraSVD) to [b1n4ri0/GhidraSVD](https://github.com/b1n4ri0/GhidraSVD)
+  > Import CMSIS SVD files information onto your Ghidra memory map
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [utensils/nxv](https://github.com/utensils/nxv)
@@ -191,6 +205,10 @@
 ### [coder-pig](https://github.com/coder-pig)
 - 🍴 👤 [coder-pig](https://github.com/coder-pig) Forked [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) to [coder-pig/apk-reverse](https://github.com/coder-pig/apk-reverse)
   > Suitable for Android APK reverse engineering analysis
+
+### [cristianadam](https://github.com/cristianadam)
+- 🌟 👤 [cristianadam](https://github.com/cristianadam) Starred [mrexodia/zig-cross](https://github.com/mrexodia/zig-cross)
+  > Example of using as a CMake Toolchain for cross compiling.
 
 ### [dartcv](https://github.com/dartcv)
 - 🌟 👤 [dartcv](https://github.com/dartcv) Starred [L-JINBIN/ApkSignatureKillerEx](https://github.com/L-JINBIN/ApkSignatureKillerEx)
@@ -295,6 +313,10 @@
 - 🌟 👤 [imlk0](https://github.com/imlk0) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac...
 
+### [j0nk0](https://github.com/j0nk0)
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [nmatt0/moria](https://github.com/nmatt0/moria)
+  > IoT firmware identification and extraction
+
 ### [je5442804](https://github.com/je5442804)
 - 🌟 👤 [je5442804](https://github.com/je5442804) Starred [mooofin/VEHguard](https://github.com/mooofin/VEHguard)
   > VEH PAGE_GUARD abuse + ROPgadget in ntdll 
@@ -306,6 +328,10 @@
   > 2016–2026 国考/省考/联考真题按考点重组的深度标注笔记的判断推理和资料分析部分
 - 🌟 👤 [jixiaoyong](https://github.com/jixiaoyong) Starred [anywhere-labs/Agents-Anywhere](https://github.com/anywhere-labs/Agents-Anywhere)
   > 跨设备的开源Agent工作台
+
+### [juliocesarfort](https://github.com/juliocesarfort)
+- 🌟 👤 [juliocesarfort](https://github.com/juliocesarfort) Starred [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
+  > The Photoshop alternative for Mac
 
 ### [kentcdodds](https://github.com/kentcdodds)
 - 🌟 👤 [kentcdodds](https://github.com/kentcdodds) Starred [kentcdodds/kody-celld](https://github.com/kentcdodds/kody-celld)
@@ -376,10 +402,14 @@
 ### [mak7im01](https://github.com/mak7im01)
 - 🌟 👤 [mak7im01](https://github.com/mak7im01) Starred [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard)
   > Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools on ANY Android phone....
+- 🌟 👤 [mak7im01](https://github.com/mak7im01) Starred [SashaCX75/Watch-face-editor-for-Amazfit-watch-on-ZeppOS](https://github.com/SashaCX75/Watch-face-editor-for-Amazfit-watch-on-ZeppOS)
+  > GUI editor for working with Amazfit watch faces running on ZeppOS.
 
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [leftspace89/jevsubrouter](https://github.com/leftspace89/jevsubrouter)
   > Routes each Claude Code sub-agent dispatch to the cheapest model that can finish its brief, without ...
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [NiazMorshed2007/jev-review](https://github.com/NiazMorshed2007/jev-review)
+  > Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.
 
 ### [meowette](https://github.com/meowette)
 - 🍴 👤 [meowette](https://github.com/meowette) Forked [crispytwig/Naturalist](https://github.com/crispytwig/Naturalist) to [meowette/Naturalist](https://github.com/meowette/Naturalist)
@@ -413,6 +443,12 @@
 - 🌟 👤 [moonD4rk](https://github.com/moonD4rk) Starred [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader)
   > One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
+  > The Photoshop alternative for Mac
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu)
+  > An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+
 ### [niqiuqiux](https://github.com/niqiuqiux)
 - 🌟 👤 [niqiuqiux](https://github.com/niqiuqiux) Starred [dofastted/vm2api](https://github.com/dofastted/vm2api)
   > vm2api 使用虚拟机完全拟真方案的订阅转api
@@ -440,6 +476,10 @@
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [nardew/talipp](https://github.com/nardew/talipp)
   > talipp - incremental technical analysis library for python
 
+### [phith0n](https://github.com/phith0n)
+- 🌟 👤 [phith0n](https://github.com/phith0n) Starred [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
+  > DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ec...
+
 ### [poorevil](https://github.com/poorevil)
 - 🌟 👤 [poorevil](https://github.com/poorevil) Starred [NVIDIA/dgx-spark-playbooks](https://github.com/NVIDIA/dgx-spark-playbooks)
   > Collection of step-by-step playbooks for setting up AI/ML workloads on NVIDIA DGX Spark devices with...
@@ -455,6 +495,10 @@
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [docmost/docmost](https://github.com/docmost/docmost)
   > Docmost is an open-source collaborative wiki and documentation software. It is an open-source altern...
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu)
+  > An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 
 ### [rk700](https://github.com/rk700)
 - 🍴 👤 [rk700](https://github.com/rk700) Forked [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) to [rk700/deepseek-harness](https://github.com/rk700/deepseek-harness)
@@ -493,6 +537,8 @@
   > A Node.js Zigbee library
 - 🍴 👤 [strobejb](https://github.com/strobejb) Forked [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) to [strobejb/zigbee2mqtt](https://github.com/strobejb/zigbee2mqtt)
   > Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+- 🍴 👤 [strobejb](https://github.com/strobejb) Forked [Koenkk/zigbee2mqtt.io](https://github.com/Koenkk/zigbee2mqtt.io) to [strobejb/zigbee2mqtt.io](https://github.com/strobejb/zigbee2mqtt.io)
+  > 📘 Zigbee2mqtt documentation
 
 ### [stuxnet147](https://github.com/stuxnet147)
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [ISET/isetcornellbox](https://github.com/ISET/isetcornellbox)
@@ -541,5 +587,5 @@
 
 
 ---
-*最后更新于 2026-09-19 19:10:47 UTC*
+*最后更新于 2026-09-19 22:09:17 UTC*
 *历史记录保存在 `archive` 目录中。*
