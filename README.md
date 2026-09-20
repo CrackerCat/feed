@@ -138,9 +138,19 @@
 - 🌟 👤 [JingMatrix](https://github.com/JingMatrix) Starred [bcoles/kasld](https://github.com/bcoles/kasld)
   > KASLD defeats Linux kernel KASLR from a local process — recovering the virtual and physical memory l...
 
+### [JunioJsv](https://github.com/JunioJsv)
+- 🌟 👤 [JunioJsv](https://github.com/JunioJsv) Starred [rodjunger/opendlssgenabler](https://github.com/rodjunger/opendlssgenabler)
+  > Open source dlss frame gen enabler for 30 series graphics cards
+- 🌟 👤 [JunioJsv](https://github.com/JunioJsv) Starred [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw)
+  > An LLVM/Clang/LLD based mingw-w64 toolchain
+
 ### [Justsenger](https://github.com/Justsenger)
 - 🌟 👤 [Justsenger](https://github.com/Justsenger) Starred [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool)
   > Python ProxyPool for web spider
+
+### [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
+- 🌟 👤 [KagurazakaHanabi](https://github.com/KagurazakaHanabi) Starred [exomind-team/openepd-47](https://github.com/exomind-team/openepd-47)
+  > Open-source resources, ESP-IDF drivers, documentation and community projects for the 4.7-inch 684x12...
 
 ### [Konano](https://github.com/Konano)
 - 🌟 👤 [Konano](https://github.com/Konano) Starred [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
@@ -156,6 +166,8 @@
 
 ### [LasCC](https://github.com/LasCC)
 - 🌟 👤 [LasCC](https://github.com/LasCC) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
+- 🌟 👤 [LasCC](https://github.com/LasCC) Starred [Bert-JanP/EntraTrace](https://github.com/Bert-JanP/EntraTrace)
+  > EntraTrace is a defensive security research tool for tracking and identifying the behavior of offens...
 
 ### [Le1a](https://github.com/Le1a)
 - 🌟 👤 [Le1a](https://github.com/Le1a) Starred [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX)
@@ -185,10 +197,16 @@
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
   > DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ec...
 
+### [MrIkso](https://github.com/MrIkso)
+- 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [Reloaded-Project/Reloaded-II](https://github.com/Reloaded-Project/Reloaded-II)
+  > Universal .NET Core Powered Modding Framework for any Native Game X86, X64.
+
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [mozillazg/ptcpdump](https://github.com/mozillazg/ptcpdump)
   > Process-aware, eBPF-based tcpdump
 - 🚀 👤 [Mufanc](https://github.com/Mufanc) Made [Mufanc/NetControl](https://github.com/Mufanc/NetControl) public
+- 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy)
+  > Tunnel (TUN) interface for SOCKS and HTTP proxies
 
 ### [Nep-Timeline](https://github.com/Nep-Timeline)
 - 🍴 👤 [Nep-Timeline](https://github.com/Nep-Timeline) Forked [lispringing/SuperStar](https://github.com/lispringing/SuperStar) to [Nep-Timeline/SuperStar](https://github.com/Nep-Timeline/SuperStar)
@@ -262,6 +280,10 @@
 - 🌟 👤 [SoyBeanMilkx](https://github.com/SoyBeanMilkx) Starred [Minglink/dsh-infinite-gen-4](https://github.com/Minglink/dsh-infinite-gen-4)
   > DeepSeek v4.1 flash 网络安全红队工具（无限四代） — jailbreak prompts and test suite for DeepSeek    求 Star 收藏 ⭐欢迎大...
 
+### [SsageParuders](https://github.com/SsageParuders)
+- 🌟 👤 [SsageParuders](https://github.com/SsageParuders) Starred [VPSDance/ai-proxy-rules](https://github.com/VPSDance/ai-proxy-rules)
+  > AI 服务分流规则聚合: 多源合并 | 按 provider   精修 | 每日自动同步. 覆盖 OpenAI / Anthropic / Gemini / Cursor / Copilot 等主流 ...
+
 ### [StevenBaby](https://github.com/StevenBaby)
 - 🍴 👤 [StevenBaby](https://github.com/StevenBaby) Forked [qemu/qemu](https://github.com/qemu/qemu) to [StevenBaby/monos-qemu](https://github.com/StevenBaby/monos-qemu)
   > Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU....
@@ -271,6 +293,10 @@
 ### [T5ive](https://github.com/T5ive)
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [T5ive/t5ive-skills](https://github.com/T5ive/t5ive-skills)
   > Personal skills
+
+### [TheNetAdmin](https://github.com/TheNetAdmin)
+- 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [vercel-labs/json-render](https://github.com/vercel-labs/json-render)
+  > The Generative UI framework
 
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [yuzicapp/yuzic](https://github.com/yuzicapp/yuzic)
@@ -336,6 +362,10 @@
 ### [ZJ595](https://github.com/ZJ595)
 - 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
   > The design language that makes your AI harness better at design.
+
+### [anantshri](https://github.com/anantshri)
+- 🍴 👤 [anantshri](https://github.com/anantshri) Forked [pbom-dev/OSCAR](https://github.com/pbom-dev/OSCAR) to [anantshri/OSCAR](https://github.com/anantshri/OSCAR)
+  > A comprehensive, systematic and actionable way to understand attacker behaviors and techniques with ...
 
 ### [androidmalin](https://github.com/androidmalin)
 - 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code)
@@ -454,6 +484,12 @@
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [githubnext/localjev](https://github.com/githubnext/localjev)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
 
+### [dzxpert](https://github.com/dzxpert)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [Spuckwaffel/DMALib](https://github.com/Spuckwaffel/DMALib)
+  > A small DMA library making your life with your DMA easier
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [mrexodia/driver_unpacking](https://github.com/mrexodia/driver_unpacking)
+  > Ghetto user mode emulation of Windows kernel drivers.
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [can1357/jegrep](https://github.com/can1357/jegrep)
   > Semantic grep: find code by describing what you're looking for, powered by Jev.
@@ -530,6 +566,12 @@
   > A local inference engine for Apple silicon, built around the model.
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [TaewoooPark/Motifcode](https://github.com/TaewoooPark/Motifcode)
   > A coding agent harness built specifically for Motif-3
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)
+  > Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text gener...
+
+### [idkhidden](https://github.com/idkhidden)
+- 🌟 👤 [idkhidden](https://github.com/idkhidden) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
+  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
 
 ### [imlk0](https://github.com/imlk0)
 - 🌟 👤 [imlk0](https://github.com/imlk0) Starred [agentic-os-org/ANOLISA](https://github.com/agentic-os-org/ANOLISA)
@@ -602,6 +644,10 @@
 - 🌟 👤 [kasnria001](https://github.com/kasnria001) Starred [jygzyc/decx](https://github.com/jygzyc/decx)
   > DECX - Decompiler + X
 
+### [kernelzeroday](https://github.com/kernelzeroday)
+- 🌟 👤 [kernelzeroday](https://github.com/kernelzeroday) Starred [adonis-singh/re4](https://github.com/adonis-singh/re4)
+  > Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++
+
 ### [kin9-0rz](https://github.com/kin9-0rz)
 - 🍴 👤 [kin9-0rz](https://github.com/kin9-0rz) Forked [Haoning199101/android-armor-breaker](https://github.com/Haoning199101/android-armor-breaker) to [kin9-0rz/android-armor-breaker](https://github.com/kin9-0rz/android-armor-breaker)
   > 基于OpenClaw引擎Android应用运行时的脱壳
@@ -614,6 +660,10 @@
 
 ### [kmlgping](https://github.com/kmlgping)
 - 🌟 👤 [kmlgping](https://github.com/kmlgping) Starred [wwbing/Synapse-X](https://github.com/wwbing/Synapse-X)
+
+### [kyle-sylvestre](https://github.com/kyle-sylvestre)
+- 🌟 👤 [kyle-sylvestre](https://github.com/kyle-sylvestre) Starred [adonis-singh/re4](https://github.com/adonis-singh/re4)
+  > Resident Evil 4 (GameCube, G4BE08 debug build) — complete byte-identical decompilation to C/C++
 
 ### [linuxmobile](https://github.com/linuxmobile)
 - 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [yappologistic/Sung](https://github.com/yappologistic/Sung)
@@ -653,6 +703,8 @@
   > Modification around SCETool to turn it into a library.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xangel82/Athena-Engine](https://github.com/xangel82/Athena-Engine)
   > LLM Engine for DGX Spark 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
+  > tiny Jev-like family of decision models built on top of Qwen3 you can train and run on your own
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [can1357/jegrep](https://github.com/can1357/jegrep)
@@ -678,6 +730,10 @@
 - 🍴 👤 [nikaiw](https://github.com/nikaiw) Forked [xapp-project/fingwit](https://github.com/xapp-project/fingwit) to [nikaiw/fingwit](https://github.com/nikaiw/fingwit)
   > Fingerprint Configuration Tool
 
+### [niqiuqiux](https://github.com/niqiuqiux)
+- 🍴 👤 [niqiuqiux](https://github.com/niqiuqiux) Forked [sinistercodes/Dumper-7-VGK](https://github.com/sinistercodes/Dumper-7-VGK) to [niqiuqiux/Dumper-7-VGK](https://github.com/niqiuqiux/Dumper-7-VGK)
+  > Forked Dumper7 to work with Valorant
+
 ### [noahware](https://github.com/noahware)
 - 🌟 👤 [noahware](https://github.com/noahware) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
   > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
@@ -702,6 +758,10 @@
   > sub4api - sub2api 的分支版本
 - 🌟 👤 [out0fmemory](https://github.com/out0fmemory) Starred [MACOS-DO/sub4api](https://github.com/MACOS-DO/sub4api)
   > sub4api - sub2api 的分支版本
+
+### [overfl0](https://github.com/overfl0)
+- 🌟 👤 [overfl0](https://github.com/overfl0) Starred [sarnau/AtariSTCopyProtections](https://github.com/sarnau/AtariSTCopyProtections)
+  > Reverse engineered disk protections from various Atari ST applications/games
 
 ### [paradiseduo](https://github.com/paradiseduo)
 - 🌟 👤 [paradiseduo](https://github.com/paradiseduo) Starred [pluwen/apple-device-model-list](https://github.com/pluwen/apple-device-model-list)
@@ -832,6 +892,10 @@
 - 🌟 👤 [uvbs](https://github.com/uvbs) Starred [Velm14/runevault](https://github.com/Velm14/runevault)
   > Open-source web tool for the Quinfall MMORPG auction house. Discord login, live scraper, price histo...
 
+### [vm32](https://github.com/vm32)
+- 🌟 👤 [vm32](https://github.com/vm32) Starred [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal)
+  > Linus learns analog circuits
+
 ### [wa1ki0g](https://github.com/wa1ki0g)
 - 🌟 👤 [wa1ki0g](https://github.com/wa1ki0g) Starred [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
   > The Photoshop alternative for Mac
@@ -898,6 +962,12 @@
 ### [yfe404](https://github.com/yfe404)
 - 🌟 👤 [yfe404](https://github.com/yfe404) Starred [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
   > Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu...
+- 🌟 👤 [yfe404](https://github.com/yfe404) Starred [disler/self-compact-pi-agent](https://github.com/disler/self-compact-pi-agent)
+  > A Pi coding-agent extension that lets a long-running agent watch its own context and compact itself
+- 🍴 👤 [yfe404](https://github.com/yfe404) Forked [disler/self-compact-pi-agent](https://github.com/disler/self-compact-pi-agent) to [yfe404/self-compact-pi-agent](https://github.com/yfe404/self-compact-pi-agent)
+  > A Pi coding-agent extension that lets a long-running agent watch its own context and compact itself
+- 🌟 👤 [yfe404](https://github.com/yfe404) Starred [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack)
+  > Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 
 ### [yifengyou](https://github.com/yifengyou)
 - 🌟 👤 [yifengyou](https://github.com/yifengyou) Starred [yifengyou/BDY_G98_RK3588_edk2-uefi](https://github.com/yifengyou/BDY_G98_RK3588_edk2-uefi)
@@ -971,5 +1041,5 @@
 
 
 ---
-*最后更新于 2026-09-20 18:00:03 UTC*
+*最后更新于 2026-09-20 20:43:16 UTC*
 *历史记录保存在 `archive` 目录中。*
