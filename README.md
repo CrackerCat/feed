@@ -52,6 +52,12 @@
 - 🌟 👤 [Aira-Sakuranomiya](https://github.com/Aira-Sakuranomiya) Starred [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries)
   > AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin Mu...
 
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [freeok/so-novel](https://github.com/freeok/so-novel)
+  > 小说下载｜网文下载 | 网络小说
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [zhongbai2333/Tomato-Novel-Downloader](https://github.com/zhongbai2333/Tomato-Novel-Downloader)
+  > 番茄小说下载器不精简版
+
 ### [Andrea-lyz](https://github.com/Andrea-lyz)
 - 🌟 👤 [Andrea-lyz](https://github.com/Andrea-lyz) Starred [LSPosed/ZygiskNext](https://github.com/LSPosed/ZygiskNext)
   > Standalone implementation of Zygisk
@@ -163,6 +169,8 @@
 ### [Lakr233](https://github.com/Lakr233)
 - 🌟 👤 [Lakr233](https://github.com/Lakr233) Starred [winaviation-tweaks/liquidass](https://github.com/winaviation-tweaks/liquidass)
   > next level diarrhea 
+- 🚀 👤 [Lakr233](https://github.com/Lakr233) Made [owngoal-dev/Xrash](https://github.com/owngoal-dev/Xrash) public
+  > Crash reporter and symbolicator for custom firmware iOS 15+
 
 ### [LasCC](https://github.com/LasCC)
 - 🌟 👤 [LasCC](https://github.com/LasCC) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
@@ -255,6 +263,8 @@
   > Open source security data lake for threat hunting, detection & response, and cybersecurity analytics...
 - 🍴 👤 [SafeEval](https://github.com/SafeEval) Forked [panther-labs/panther-analysis](https://github.com/panther-labs/panther-analysis) to [js-repo-forks/panther-analysis](https://github.com/js-repo-forks/panther-analysis)
   > Built-in Panther detection rules and policies
+- 🍴 👤 [SafeEval](https://github.com/SafeEval) Forked [tenzir/tenzir](https://github.com/tenzir/tenzir) to [js-repo-forks/tenzir](https://github.com/js-repo-forks/tenzir)
+  > Tenzir is the data pipeline engine for security teams.
 
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [LSPosed/ZygiskNext](https://github.com/LSPosed/ZygiskNext)
@@ -301,6 +311,7 @@
 ### [ThunderCls](https://github.com/ThunderCls)
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [yuzicapp/yuzic](https://github.com/yuzicapp/yuzic)
   > A cross-platform, free and open source music player for Navidrome & Jellyfin
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [omnibus-library/omnibus](https://github.com/omnibus-library/omnibus)
 
 ### [WangWei-CM](https://github.com/WangWei-CM)
 - 🌟 👤 [WangWei-CM](https://github.com/WangWei-CM) Starred [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus)
@@ -379,6 +390,10 @@
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [coder/coder](https://github.com/coder/coder)
   > Secure environments for developers and their agents
 
+### [atc1441](https://github.com/atc1441)
+- 🌟 👤 [atc1441](https://github.com/atc1441) Starred [biemster/AB5396_minimal](https://github.com/biemster/AB5396_minimal)
+  > Minimal startup for Bluetrum AB5396
+
 ### [aviraxp](https://github.com/aviraxp)
 - 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [LSPosed/ZygiskNext](https://github.com/LSPosed/ZygiskNext)
   > Standalone implementation of Zygisk
@@ -412,6 +427,11 @@
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble)
   > Local typed decisions, contrastive data curation, and model evaluation.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [shhivv/arc-cua](https://github.com/shhivv/arc-cua)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [iterative-computer/powermove](https://github.com/iterative-computer/powermove)
+  > A video editor that rewrites itself. Ask, and it writes the next version of itself, in place, undoab...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)
+  > Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text gener...
 
 ### [chancerly](https://github.com/chancerly)
 - 🌟 👤 [chancerly](https://github.com/chancerly) Starred [MDX-Tom/gpt-instruct](https://github.com/MDX-Tom/gpt-instruct)
@@ -479,6 +499,8 @@
   > Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event...
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)
   > Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text gener...
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent)
+  > "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [githubnext/localjev](https://github.com/githubnext/localjev)
@@ -668,6 +690,12 @@
 ### [linuxmobile](https://github.com/linuxmobile)
 - 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [yappologistic/Sung](https://github.com/yappologistic/Sung)
   > A native Material 3 music player for Linux. YouTube Music, local audio, synchronized lyrics, and Noc...
+- 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM)
+  > The most customizable Wayland compositor with TypeScript(tsx).
+
+### [llsc12](https://github.com/llsc12)
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [unbound-app/dkrypt](https://github.com/unbound-app/dkrypt)
+  > ipa decryption service and api
 
 ### [ltlly](https://github.com/ltlly)
 - 🌟 👤 [ltlly](https://github.com/ltlly) Starred [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
@@ -697,6 +725,14 @@
 ### [miunasu](https://github.com/miunasu)
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [chen-006/meow-llm-detector](https://github.com/chen-006/meow-llm-detector)
   > 用于检测ai模型是否真实
+
+### [mmert11](https://github.com/mmert11)
+- 🌟 👤 [mmert11](https://github.com/mmert11) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
+  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
+
+### [mrT4ntr4](https://github.com/mrT4ntr4)
+- 🌟 👤 [mrT4ntr4](https://github.com/mrT4ntr4) Starred [mjbommar/glaurung](https://github.com/mjbommar/glaurung)
+  > Permissive, modern alternative to Ghidra with Rust/Python core and first-class agentic AI integratio...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [LittleBigRefresh/scetool](https://github.com/LittleBigRefresh/scetool) to [mrexodia/scetool](https://github.com/mrexodia/scetool)
@@ -1001,6 +1037,10 @@
 - 🌟 👤 [zensu357](https://github.com/zensu357) Starred [daimiaopeng/coolapk-desktop](https://github.com/daimiaopeng/coolapk-desktop)
   > 酷安跨平台桌面版
 
+### [zer0def](https://github.com/zer0def)
+- 🍴 👤 [zer0def](https://github.com/zer0def) Forked [morrownr/rtl8852bu-20250826](https://github.com/morrownr/rtl8852bu-20250826) to [zer0def/rtl8852bu](https://github.com/zer0def/rtl8852bu)
+  > Linux Driver for USB WiFi Adapters that are based on the RTL8832BU and RTL8852BU Chipsets - v1.19.21...
+
 ### [zer0yu](https://github.com/zer0yu)
 - 🌟 👤 [zer0yu](https://github.com/zer0yu) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
@@ -1026,6 +1066,8 @@
   > Nintendo Switch NAND management tool : explore, backup, restore, mount, resize,  create emunand, etc...
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [CaiMiao/Tencent-switcher-GUI](https://github.com/CaiMiao/Tencent-switcher-GUI)
   > a Nintendo Switch GUI homebrew for switching Tencent HOS features from/to global version
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [selvakn/gsm-sip-bridge](https://github.com/selvakn/gsm-sip-bridge)
+  > GSM to SIP (VoIP) bridge supporting VoWiFi (ePDG) and VoLTE (IMS) for Quectel modems
 
 ### [zhengjim](https://github.com/zhengjim)
 - 🌟 👤 [zhengjim](https://github.com/zhengjim) Starred [Yean-Sec/StrikeAgent_AtkBrain-Flash](https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash)
@@ -1041,5 +1083,5 @@
 
 
 ---
-*最后更新于 2026-09-20 20:43:16 UTC*
+*最后更新于 2026-09-20 23:01:24 UTC*
 *历史记录保存在 `archive` 目录中。*
