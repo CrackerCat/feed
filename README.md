@@ -228,6 +228,10 @@
 - 🌟 👤 [Nero22k](https://github.com/Nero22k) Starred [entropykit/entropia](https://github.com/entropykit/entropia)
   > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
 
+### [OfficialKatana](https://github.com/OfficialKatana)
+- 🍴 👤 [OfficialKatana](https://github.com/OfficialKatana) Forked [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) to [MetaversePilot/apk-reverse](https://github.com/MetaversePilot/apk-reverse)
+  > Suitable for Android APK reverse engineering analysis
+
 ### [OpenHRTT](https://github.com/OpenHRTT)
 - 🌟 👤 [OpenHRTT](https://github.com/OpenHRTT) Starred [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser)
   > An experimental Gecko-based web browser for iOS 13+.
@@ -265,6 +269,10 @@
 ### [SivanLiu](https://github.com/SivanLiu)
 - 🌟 👤 [SivanLiu](https://github.com/SivanLiu) Starred [Gracker/android-internals-wiki](https://github.com/Gracker/android-internals-wiki)
 
+### [Skorpion96](https://github.com/Skorpion96)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [TheAndersMadsen/humane-aipin-ghostlock](https://github.com/TheAndersMadsen/humane-aipin-ghostlock)
+  > Guarded, source-only Humane AI Pin root PoC for CVE-2026-43499
+
 ### [Slzdude](https://github.com/Slzdude)
 - 🌟 👤 [Slzdude](https://github.com/Slzdude) Starred [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
   > Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu...
@@ -276,6 +284,8 @@
 ### [TheNetAdmin](https://github.com/TheNetAdmin)
 - 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [open-noodle/gallery](https://github.com/open-noodle/gallery)
   > High performance self-hosted photo and video management solution.
+- 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [apache/parquet-format](https://github.com/apache/parquet-format)
+  > Apache Parquet Format
 
 ### [Twi1ight](https://github.com/Twi1ight)
 - 🌟 👤 [Twi1ight](https://github.com/Twi1ight) Starred [Recurse-Labs/recurse](https://github.com/Recurse-Labs/recurse)
@@ -332,6 +342,10 @@
 ### [aprz512](https://github.com/aprz512)
 - 🌟 👤 [aprz512](https://github.com/aprz512) Starred [aprz512/qbdi-android](https://github.com/aprz512/qbdi-android)
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [Seabreg/Regshot](https://github.com/Seabreg/Regshot)
+  > Regshot is a small, free and open-source registry compare utility that allows you to quickly take a ...
+
 ### [asLody](https://github.com/asLody)
 - 🌟 👤 [asLody](https://github.com/asLody) Starred [maderix/apple-gpu-dvfs](https://github.com/maderix/apple-gpu-dvfs)
   > Apple Silicon GPU DVFS reverse engineering: voltage corners, CLPC frequency control, Metal benchmark...
@@ -360,6 +374,10 @@
 ### [bibinocode](https://github.com/bibinocode)
 - 🌟 👤 [bibinocode](https://github.com/bibinocode) Starred [liangy0323/ly-fullstack](https://github.com/liangy0323/ly-fullstack)
   > AI-friendly full-stack monorepo starter for real-world projects, built with Vue 3, Rsbuild, NestJS, ...
+
+### [blacktop](https://github.com/blacktop)
+- 🌟 👤 [blacktop](https://github.com/blacktop) Starred [blacktop/clim8](https://github.com/blacktop/clim8)
+  > Control Eight Sleep via CLI
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [openlayer-ai/jevals](https://github.com/openlayer-ai/jevals)
@@ -459,9 +477,6 @@
 - 🌟 👤 [dodola](https://github.com/dodola) Starred [google/ax](https://github.com/google/ax)
   > Google's open agentic orchestration runtime
 
-### [doodlewind](https://github.com/doodlewind)
-- 🌟 👤 [doodlewind](https://github.com/doodlewind) Starred [rubnogueira/pocket-home](https://github.com/rubnogueira/pocket-home)
-
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [firerpa/lamda](https://github.com/firerpa/lamda)
   > Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching autom...
@@ -483,6 +498,10 @@
 ### [everettjf](https://github.com/everettjf)
 - 🍴 👤 [everettjf](https://github.com/everettjf) Forked [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) to [everettjf/laya-mlx](https://github.com/everettjf/laya-mlx)
   > Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text gener...
+
+### [eversinc33](https://github.com/eversinc33)
+- 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
+  > Secure and fast microVMs for serverless computing.
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [sxzz/ast-explorer](https://github.com/sxzz/ast-explorer)
@@ -607,6 +626,10 @@
 ### [guxiaonian](https://github.com/guxiaonian)
 - 🍴 👤 [guxiaonian](https://github.com/guxiaonian) Forked [kkkbbb/rustFrida](https://github.com/kkkbbb/rustFrida) to [guxiaonian/rustFrida](https://github.com/guxiaonian/rustFrida)
   > xxxxx
+
+### [gyyyy](https://github.com/gyyyy)
+- 🌟 👤 [gyyyy](https://github.com/gyyyy) Starred [zzsting88/relayAPI](https://github.com/zzsting88/relayAPI)
+  > AI API中转站推荐与评测
 
 ### [hacksysteam](https://github.com/hacksysteam)
 - 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [oritera/Cairn](https://github.com/oritera/Cairn)
@@ -739,6 +762,8 @@
 ### [linuxmobile](https://github.com/linuxmobile)
 - 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [noctalia-dev/umbriel](https://github.com/noctalia-dev/umbriel)
   > An independent compositor with scrolling, dwindle and master layouts, blur, shadows, and fluid anima...
+- 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [andreas-bylund/chatmux](https://github.com/andreas-bylund/chatmux)
+  > A multiplexer for live chat — read Twitch, YouTube and Kick side by side in your terminal
 
 ### [ltlly](https://github.com/ltlly)
 - 🌟 👤 [ltlly](https://github.com/ltlly) Starred [trycua/cua](https://github.com/trycua/cua)
@@ -782,6 +807,8 @@
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [entropykit/entropia](https://github.com/entropykit/entropia)
   > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mubix/ai-ctf](https://github.com/mubix/ai-ctf)
+  > An AI CTF challenges to learn some of the risks that AI Chatbots pose
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [rizinorg/rz-ghidra](https://github.com/rizinorg/rz-ghidra)
@@ -911,10 +938,19 @@
 - 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [utelle/SQLite3MultipleCiphers](https://github.com/utelle/SQLite3MultipleCiphers)
   > SQLite3 encryption extension with support for multiple ciphers
 - 🌟 👤 [smallevilbeast](https://github.com/smallevilbeast) Starred [Finderchangchang/jev-chat-JARVIS](https://github.com/Finderchangchang/jev-chat-JARVIS)
+  > 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
+
+### [sotasan](https://github.com/sotasan)
+- 🌟 👤 [sotasan](https://github.com/sotasan) Starred [lovablelabs/oj](https://github.com/lovablelabs/oj)
+  > An experimental Rust-native build tool for React apps.
 
 ### [ssut](https://github.com/ssut)
 - 🌟 👤 [ssut](https://github.com/ssut) Starred [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws)
   > A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a s...
+
+### [stuxnet147](https://github.com/stuxnet147)
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [funcpp/sqllineage](https://github.com/funcpp/sqllineage)
+  > Extract table and column-level lineage from SQL
 
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)
@@ -1067,6 +1103,8 @@
   > A homebrew menu for the Nintendo Switch
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [wendigo/chrome-protocol-proxy](https://github.com/wendigo/chrome-protocol-proxy)
   > Chrome DevTools Protocol Proxy - intelligent proxy for debugging purposes
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [google/ax](https://github.com/google/ax)
+  > Google's open agentic orchestration runtime
 
 ### [zhefox](https://github.com/zhefox)
 - 🍴 👤 [zhefox](https://github.com/zhefox) Forked [zai-org/ZCode](https://github.com/zai-org/ZCode) to [zhefox/ZCode](https://github.com/zhefox/ZCode)
@@ -1088,5 +1126,5 @@
 
 
 ---
-*最后更新于 2026-09-21 20:49:03 UTC*
+*最后更新于 2026-09-21 23:51:10 UTC*
 *历史记录保存在 `archive` 目录中。*
