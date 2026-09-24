@@ -68,6 +68,10 @@
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [nowledge-co/nowledge-mem](https://github.com/nowledge-co/nowledge-mem)
   > Memory and context manager just works.
 
+### [AndnixSH](https://github.com/AndnixSH)
+- 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [huggingface/hf-claude](https://github.com/huggingface/hf-claude)
+  > Launch Claude Code with Hugging Face Inference Providers
+
 ### [AndroidBBQ](https://github.com/AndroidBBQ)
 - 🌟 👤 [AndroidBBQ](https://github.com/AndroidBBQ) Starred [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)
   > Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text gener...
@@ -94,6 +98,12 @@
 - 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [ejfkdev/ddc](https://github.com/ejfkdev/ddc)
   > DEX → Java decompiler in Rust — fast, progressive analysis, bilingual CLI
 
+### [DavidBuchanan314](https://github.com/DavidBuchanan314)
+- 🌟 👤 [DavidBuchanan314](https://github.com/DavidBuchanan314) Starred [alferiko/alyx-jailbreak-releases](https://github.com/alferiko/alyx-jailbreak-releases)
+  > Alyx Jailbreak for Quest 3 — APK releases and RU/EN documentation, no application source code.
+- 🌟 👤 [DavidBuchanan314](https://github.com/DavidBuchanan314) Starred [wbolster/plyvel](https://github.com/wbolster/plyvel)
+  > Plyvel, a fast and feature-rich Python interface to LevelDB
+
 ### [DeEpinGh0st](https://github.com/DeEpinGh0st)
 - 🌟 👤 [DeEpinGh0st](https://github.com/DeEpinGh0st) Starred [index-login/MobileRE-Skill](https://github.com/index-login/MobileRE-Skill)
   > AI Agent 驱动的移动端逆向技能集：Frida hook、一键脱壳、反检测绕过、内存 DEX dump、Ghidra MCP 符号/结构恢复。AI-agent skill system for ...
@@ -109,6 +119,14 @@
   > x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg...
 - 🌟 👤 [DragonQuestHero](https://github.com/DragonQuestHero) Starred [LaoFeng-mouse/flyingmouse-format](https://github.com/LaoFeng-mouse/flyingmouse-format)
   > 飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/...
+- 🌟 👤 [DragonQuestHero](https://github.com/DragonQuestHero) Starred [LaPhilosophie/hello-rootkit](https://github.com/LaPhilosophie/hello-rootkit)
+  > An LKM-based Linux kernel security research prototype for studying rootkit behavior and defensive de...
+- 🌟 👤 [DragonQuestHero](https://github.com/DragonQuestHero) Starred [f0rb1dd3n/Reptile](https://github.com/f0rb1dd3n/Reptile)
+  > LKM Linux rootkit
+- 🌟 👤 [DragonQuestHero](https://github.com/DragonQuestHero) Starred [MatheuZSecurity/Singularity](https://github.com/MatheuZSecurity/Singularity)
+  > Stealthy Linux Kernel Rootkit
+- 🌟 👤 [DragonQuestHero](https://github.com/DragonQuestHero) Starred [ait-aecid/caraxes](https://github.com/ait-aecid/caraxes)
+  > Academic research rootkit using ftrace-hooking to hide files and processes via magic word or user/gr...
 
 ### [EgeBalci](https://github.com/EgeBalci)
 - 🌟 👤 [EgeBalci](https://github.com/EgeBalci) Starred [anmolkapil/plexo](https://github.com/anmolkapil/plexo)
@@ -120,9 +138,17 @@
 - 🍴 👤 [Erich8200](https://github.com/Erich8200) Forked [gal2xy/VMLifter](https://github.com/gal2xy/VMLifter) to [Erich8200/VMLifter](https://github.com/Erich8200/VMLifter)
   > VMLifter 是一个基于指令执行轨迹的语义提升工具，专注于值依赖驱动的程序语义重建。
 
+### [EthanArbuckle](https://github.com/EthanArbuckle)
+- 🌟 👤 [EthanArbuckle](https://github.com/EthanArbuckle) Starred [Ch0pin/rdx](https://github.com/Ch0pin/rdx)
+  > A native APK and DEX decompiler written in Rust
+
 ### [Evelynkaz](https://github.com/Evelynkaz)
 - 🌟 👤 [Evelynkaz](https://github.com/Evelynkaz) Starred [Wranked1/DDNet-AI](https://github.com/Wranked1/DDNet-AI)
   > Бот, который сам играет в блок в DDNet · A bot that plays block in DDNet by itself. Windows, один ex...
+
+### [Felix3322](https://github.com/Felix3322)
+- 🌟 👤 [Felix3322](https://github.com/Felix3322) Starred [librekeys/pico-fido2](https://github.com/librekeys/pico-fido2)
+  > Pico Fido + Pico OpenPGP
 
 ### [FiYHer](https://github.com/FiYHer)
 - 🌟 👤 [FiYHer](https://github.com/FiYHer) Starred [kijai/ComfyUI-GIMM-VFI](https://github.com/kijai/ComfyUI-GIMM-VFI)
@@ -177,6 +203,12 @@
   > Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your re...
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [Mesh-America/supply-drop-bbs](https://github.com/Mesh-America/supply-drop-bbs)
   > A BBS designed for the mesh, with high performance, excellence in security and freedom as core value...
+
+### [MikaCybertron](https://github.com/MikaCybertron)
+- 🌟 👤 [MikaCybertron](https://github.com/MikaCybertron) Starred [rodroidmods/Il2cppdumper-cpp](https://github.com/rodroidmods/Il2cppdumper-cpp)
+  > C++ port of Il2CppDumper C#(FULL) — extracts classes, methods & fields from Unity IL2CPP binaries (g...
+- 🍴 👤 [MikaCybertron](https://github.com/MikaCybertron) Forked [rodroidmods/Il2cppdumper-cpp](https://github.com/rodroidmods/Il2cppdumper-cpp) to [MikaCybertron/Il2cppdumper-cpp](https://github.com/MikaCybertron/Il2cppdumper-cpp)
+  > C++ port of Il2CppDumper C#(FULL) — extracts classes, methods & fields from Unity IL2CPP binaries (g...
 
 ### [Mufanc](https://github.com/Mufanc)
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
@@ -234,9 +266,23 @@
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [std-microblock/windows-disk-cleaner-skill](https://github.com/std-microblock/windows-disk-cleaner-skill)
   > 基于类 Wiztree 的 NTFS/ReFS 快速扫描的 Windows 磁盘清理 Skill
 
+### [Silentsoul04](https://github.com/Silentsoul04)
+- 🌟 👤 [Silentsoul04](https://github.com/Silentsoul04) Starred [ouor/supertonic-android](https://github.com/ouor/supertonic-android)
+  > Play Supertonic TTS via selected sound device on your Android Phone.
+- 🍴 👤 [Silentsoul04](https://github.com/Silentsoul04) Forked [ouor/supertonic-android](https://github.com/ouor/supertonic-android) to [Silentsoul04/supertonic-android](https://github.com/Silentsoul04/supertonic-android)
+  > Play Supertonic TTS via selected sound device on your Android Phone.
+
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [jronminh/termux-adb-bridge](https://github.com/jronminh/termux-adb-bridge)
   > Run arbitrary shell commands at shell UID from Termux via Wireless Debugging, no Shizuku needed - se...
+
+### [TheNetAdmin](https://github.com/TheNetAdmin)
+- 🌟 👤 [TheNetAdmin](https://github.com/TheNetAdmin) Starred [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
+  > Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+
+### [ThunderCls](https://github.com/ThunderCls)
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [Recurse-Labs/recurse](https://github.com/Recurse-Labs/recurse)
+  > AI Native IDE for reverse engineering
 
 ### [TomKing062](https://github.com/TomKing062)
 - 🌟 👤 [TomKing062](https://github.com/TomKing062) Starred [wjy1065676928/HyperCeiler-myron](https://github.com/wjy1065676928/HyperCeiler-myron)
@@ -330,6 +376,8 @@
   > SABnzbd - The automated Usenet download tool
 - 🍴 👤 [banteg](https://github.com/banteg) Forked [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests) to [banteg/rpc-tests](https://github.com/banteg/rpc-tests)
   > Collection of JSON RPC black-box testing tools
+- 🌟 👤 [banteg](https://github.com/banteg) Starred [ephemery-testnet/ephemery-resources](https://github.com/ephemery-testnet/ephemery-resources)
+  > Resources and project management of Ethereum ephemeral testnet
 
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [alberand/kd](https://github.com/alberand/kd)
@@ -364,6 +412,12 @@
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [dofastted/vm2api](https://github.com/dofastted/vm2api)
   > vm2api 使用虚拟机完全拟真方案的订阅转api
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [LyraVoid/ImageForge](https://github.com/LyraVoid/ImageForge)
+  > Universal Android image patcher that runs entirely in your browser: analyze, patch, repack, verify a...
+
+### [ch4ncellor](https://github.com/ch4ncellor)
+- 🌟 👤 [ch4ncellor](https://github.com/ch4ncellor) Starred [hseoa/ironshield-analysis](https://github.com/hseoa/ironshield-analysis)
+  > Static analysis of Ironshield anti-cheat
 
 ### [ciyze0101](https://github.com/ciyze0101)
 - 🌟 👤 [ciyze0101](https://github.com/ciyze0101) Starred [zai-org/ZCode](https://github.com/zai-org/ZCode)
@@ -449,6 +503,10 @@
 - 🌟 👤 [funap](https://github.com/funap) Starred [chromium/badssl.com](https://github.com/chromium/badssl.com)
   > :lock: Memorable site for testing clients against bad SSL configs.
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [valeria-org/bitwright](https://github.com/valeria-org/bitwright)
+  > Bit-vector expression simplifier for binary analysis and deobfuscation
+
 ### [fyrlove](https://github.com/fyrlove)
 - 🍴 👤 [fyrlove](https://github.com/fyrlove) Forked [cv-cat/TiktokApis](https://github.com/cv-cat/TiktokApis) to [fyrlove/TiktokApis](https://github.com/fyrlove/TiktokApis)
   > Tiktok 算法逆向
@@ -485,6 +543,8 @@
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [0xSero/local-ai-registry](https://github.com/0xSero/local-ai-registry)
   > Local AI registry: one validated recipe per machine, with the evidence attached
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [UDPSendToFailed/ninfer-4090](https://github.com/UDPSendToFailed/ninfer-4090)
+  > NInfer port for Qwen 3.8 27B on RTX 4090
 
 ### [i64](https://github.com/i64)
 - 🌟 👤 [i64](https://github.com/i64) Starred [acheong08/apple-corelocation-experiments](https://github.com/acheong08/apple-corelocation-experiments)
@@ -560,6 +620,10 @@
 - 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [KamiguraApp/Kamigura](https://github.com/KamiguraApp/Kamigura)
   > An Android tablet manga reader for Kavita, built for self-scanned (自炊) libraries.
 
+### [llsc12](https://github.com/llsc12)
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
+  > Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text ...
+
 ### [ltlly](https://github.com/ltlly)
 - 🌟 👤 [ltlly](https://github.com/ltlly) Starred [akiselev/ghidra-cli](https://github.com/akiselev/ghidra-cli)
   > Automate Ghidra reverse engineering from the command line — headless analysis, decompilation, and st...
@@ -579,6 +643,10 @@
   > A swiss army knife for your iPhone apps. iOS 15.5-16.1.2.
 - 🍴 👤 [lz6688](https://github.com/lz6688) Forked [SexyBeast233/SecBooks](https://github.com/SexyBeast233/SecBooks) to [Zero-Day-Root-Institute/SecBooks](https://github.com/Zero-Day-Root-Institute/SecBooks)
   > 安全类各家文库大乱斗
+
+### [marcosd4h](https://github.com/marcosd4h)
+- 🌟 👤 [marcosd4h](https://github.com/marcosd4h) Starred [SentineLabs/verified-ida](https://github.com/SentineLabs/verified-ida)
+  > Verified IDA is a harness for model-led reverse engineering.
 
 ### [mcxiaoke](https://github.com/mcxiaoke)
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [alexheretic/ab-av1](https://github.com/alexheretic/ab-av1)
@@ -636,6 +704,10 @@
   > Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python...
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm)
   > learn LLM inference system on Apple Silicon for systems engineers: build a tiny vLLM + Qwen
+
+### [ngosang](https://github.com/ngosang)
+- 🌟 👤 [ngosang](https://github.com/ngosang) Starred [andrey23127/ed2k-server](https://github.com/andrey23127/ed2k-server)
+  > Modern eD2k/eDonkey2000 index server in Rust — fast, low-memory, with NAT-traversal and content filt...
 
 ### [nick-botticelli](https://github.com/nick-botticelli)
 - 🌟 👤 [nick-botticelli](https://github.com/nick-botticelli) Starred [xCuri0/ReBarUEFI](https://github.com/xCuri0/ReBarUEFI)
@@ -755,6 +827,18 @@
 - 🍴 👤 [shellsec](https://github.com/shellsec) Forked [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) to [shellsec/jev-chat-jarvis](https://github.com/shellsec/jev-chat-jarvis)
   > 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
 
+### [siyujie](https://github.com/siyujie)
+- 🌟 👤 [siyujie](https://github.com/siyujie) Starred [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk)
+  > 基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制、游戏串流
+
+### [stuxnet147](https://github.com/stuxnet147)
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [valeria-org/bitwright](https://github.com/valeria-org/bitwright)
+  > Bit-vector expression simplifier for binary analysis and deobfuscation
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [M2Team/NanaBox](https://github.com/M2Team/NanaBox)
+  > The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization softwar...
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [microsoft/wslg](https://github.com/microsoft/wslg)
+  > Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenari...
+
 ### [thebabush](https://github.com/thebabush)
 - 🌟 👤 [thebabush](https://github.com/thebabush) Starred [BoltDoggy/claude-code](https://github.com/BoltDoggy/claude-code)
   > Claude Code v2.1.229 逆向还原项目。从 bun 编译产物剥离并 AST 还原出源码，直接运行 src/ 还原产物进行本地启动调试。
@@ -770,6 +854,10 @@
 ### [user-lzy](https://github.com/user-lzy)
 - 🌟 👤 [user-lzy](https://github.com/user-lzy) Starred [yushen100/wechat-jev-assistant](https://github.com/yushen100/wechat-jev-assistant)
   > Windows 微信对话分析助手：本地读取、脱敏、TypeSafe Jev 判断与加密历史
+
+### [vm32](https://github.com/vm32)
+- 🍴 👤 [vm32](https://github.com/vm32) Forked [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) to [vm32/CyberStrike](https://github.com/vm32/CyberStrike)
+  > Open-source AI-powered offensive security harness for automated penetration testing.
 
 ### [wainshine](https://github.com/wainshine)
 - 🌟 👤 [wainshine](https://github.com/wainshine) Starred [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList)
@@ -876,5 +964,5 @@
 
 
 ---
-*最后更新于 2026-09-23 19:28:27 UTC*
+*最后更新于 2026-09-23 22:43:24 UTC*
 *历史记录保存在 `archive` 目录中。*
