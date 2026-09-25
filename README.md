@@ -43,7 +43,7 @@
 
 ### [CHIZI-0618](https://github.com/CHIZI-0618)
 - 🌟 👤 [CHIZI-0618](https://github.com/CHIZI-0618) Starred [hmascs/KSuRoot](https://github.com/hmascs/KSuRoot)
-  > KSuRoot 3.0 — 基于 CVE-2026-43499(GhostLock) 的一键 KernelSU 提权工具。新增「载荷构建」：用本机 boot.img 解析内核偏移并打出适配本机的载荷（...
+  > KSuRoot 4.0.0 — 基于 CVE-2026-43499(GhostLock) 的一键 KernelSU 提权工具。多内核支持：6.1 / 6.6 / 6.12 三族各有专属基线，另有 50...
 
 ### [CasterWx](https://github.com/CasterWx)
 - 🌟 👤 [CasterWx](https://github.com/CasterWx) Starred [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens)
@@ -140,6 +140,8 @@
   > Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. For...
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [mstrobel/procyon](https://github.com/mstrobel/procyon)
   > Procyon is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired e...
+- 🌟 👤 [HdShare](https://github.com/HdShare) Starred [Storyyeller/Krakatau](https://github.com/Storyyeller/Krakatau)
+  > Java decompiler, assembler, and disassembler
 
 ### [Hoangfuqing](https://github.com/Hoangfuqing)
 - 🌟 👤 [Hoangfuqing](https://github.com/Hoangfuqing) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
@@ -148,10 +150,24 @@
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
   > Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text ...
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+  > Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, explo...
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [oritera/Cairn](https://github.com/oritera/Cairn)
+  > A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [AISecurityConsortium/AIGoat](https://github.com/AISecurityConsortium/AIGoat)
+  > AIGoat - Open-source AI security playground for LLM red teaming. AI Goat provides hands-on labs cove...
+
+### [KHwang9883](https://github.com/KHwang9883)
+- 🌟 👤 [KHwang9883](https://github.com/KHwang9883) Starred [godothub/godot-ohos](https://github.com/godothub/godot-ohos)
+  > OpenHarmony/HarmonyOS support for Godot
 
 ### [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
 - 🌟 👤 [KagurazakaHanabi](https://github.com/KagurazakaHanabi) Starred [shilapi/xcertplay](https://github.com/shilapi/xcertplay)
   > Carplay on Android head unit using onboard mfi chip or via CH341.
+
+### [KiFilterFiberContext](https://github.com/KiFilterFiberContext)
+- 🌟 👤 [KiFilterFiberContext](https://github.com/KiFilterFiberContext) Starred [valeria-org/bitwright](https://github.com/valeria-org/bitwright)
+  > Bit-vector expression simplifier for binary analysis and deobfuscation
 
 ### [KpLi0rn](https://github.com/KpLi0rn)
 - 🌟 👤 [KpLi0rn](https://github.com/KpLi0rn) Starred [IQuestLab/ModularRSI](https://github.com/IQuestLab/ModularRSI)
@@ -177,7 +193,9 @@
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [Lumince/singularity](https://github.com/Lumince/singularity)
   > meta horizon aio root app
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [ngwg/ceasta](https://github.com/ngwg/ceasta)
-  > disassembler, decompiler and debugger in one, with a built-in mcp server for connecting an ai. ida-s...
+  > reverse engineering tool with a built-in MCP server: an AI can debug your binary, not just read it —...
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [yappologistic/Sung](https://github.com/yappologistic/Sung)
+  > A native Material 3 music player for Linux. YouTube Music, local audio, synchronized lyrics, and Noc...
 
 ### [MatheuZSecurity](https://github.com/MatheuZSecurity)
 - 🌟 👤 [MatheuZSecurity](https://github.com/MatheuZSecurity) Starred [elfmaster/saruman](https://github.com/elfmaster/saruman)
@@ -216,6 +234,10 @@
 ### [PalmDevs](https://github.com/PalmDevs)
 - 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [Ch0pin/rdx](https://github.com/Ch0pin/rdx)
   > A native APK and DEX decompiler written in Rust
+
+### [Pengrey](https://github.com/Pengrey)
+- 🌟 👤 [Pengrey](https://github.com/Pengrey) Starred [creaktive/tsh](https://github.com/creaktive/tsh)
+  > Tiny SHell - An open-source UNIX backdoor (I'm not the author!)
 
 ### [PenguinAndy](https://github.com/PenguinAndy)
 - 🌟 👤 [PenguinAndy](https://github.com/PenguinAndy) Starred [louke6572/dsh-whale-widget-plus](https://github.com/louke6572/dsh-whale-widget-plus)
@@ -410,6 +432,18 @@
   > Docker Sandbox Kit Specification v3 — the kit descriptor grammar, the OCI artifact, the build fronte...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [vercel-labs/emulate](https://github.com/vercel-labs/emulate)
   > Local API emulation for CI and no-network sandboxes
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [responsibleai/ASSERT](https://github.com/responsibleai/ASSERT)
+  > Requirement-driven evaluation harness for AI agents and LLM applications. Generate behavior-specific...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [christianrowlands/wavedigger](https://github.com/christianrowlands/wavedigger)
+  > BSSID Search in Apple's public WPS service
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [rizinorg/rizin](https://github.com/rizinorg/rizin)
+  > UNIX-like reverse engineering framework and command-line toolset.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [nowsecure/r2frida](https://github.com/nowsecure/r2frida)
+  > Radare2 and Frida better together.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [radareorg/r2ghidra](https://github.com/radareorg/r2ghidra)
+  > Native Ghidra Decompiler for r2
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp)
+  > MCP stdio server for radare2
 
 ### [c0r1](https://github.com/c0r1)
 - 🌟 👤 [c0r1](https://github.com/c0r1) Starred [c0r1/grok-secintel-daily](https://github.com/c0r1/grok-secintel-daily)
@@ -669,6 +703,8 @@
 ### [mahmoudimus](https://github.com/mahmoudimus)
 - 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [matz/spinel](https://github.com/matz/spinel)
   > Ruby AOT compiler
+- 🍴 👤 [mahmoudimus](https://github.com/mahmoudimus) Forked [gaasedelen/keystone](https://github.com/gaasedelen/keystone) to [mahmoudimus/keystone](https://github.com/mahmoudimus/keystone)
+  > Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bind...
 
 ### [mainfunx](https://github.com/mainfunx)
 - 🌟 👤 [mainfunx](https://github.com/mainfunx) Starred [STlxx-lin/nocobase-plugin-file-previewer-kkfileview](https://github.com/STlxx-lin/nocobase-plugin-file-previewer-kkfileview)
@@ -698,6 +734,8 @@
   > NoWarbird - Warbird devirtualization project
 - 🌟 👤 [mmert11](https://github.com/mmert11) Starred [thalium/rumba](https://github.com/thalium/rumba)
   > Cracking MBAs
+- 🌟 👤 [mmert11](https://github.com/mmert11) Starred [valeria-org/bitwright](https://github.com/valeria-org/bitwright)
+  > Bit-vector expression simplifier for binary analysis and deobfuscation
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🚀 👤 [mrexodia](https://github.com/mrexodia) Made [mrexodia/nexos-pi-provider](https://github.com/mrexodia/nexos-pi-provider) public
@@ -740,6 +778,9 @@
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [mo0kid/maschine-md-mm](https://github.com/mo0kid/maschine-md-mm)
+- 🌟 👤 [patois](https://github.com/patois) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
+  > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
+- 🌟 👤 [patois](https://github.com/patois) Starred [allthingsida/idasql-skills](https://github.com/allthingsida/idasql-skills)
 
 ### [playGitboy](https://github.com/playGitboy)
 - 🌟 👤 [playGitboy](https://github.com/playGitboy) Starred [davidmessenger123/omarchy-rain](https://github.com/davidmessenger123/omarchy-rain)
@@ -824,6 +865,10 @@
 - 🍴 👤 [superturtlee](https://github.com/superturtlee) Forked [1vivy/gbl_root_canoe](https://github.com/1vivy/gbl_root_canoe) to [superturtlee/gbl_root_canoe_1v1](https://github.com/superturtlee/gbl_root_canoe_1v1)
   > 凭什么ROOT就不给用指纹支付？？？
 
+### [tfoldi](https://github.com/tfoldi)
+- 🍴 👤 [tfoldi](https://github.com/tfoldi) Forked [adityakamath/sts_hardware_interface](https://github.com/adityakamath/sts_hardware_interface) to [tfoldi/sts_hardware_interface](https://github.com/tfoldi/sts_hardware_interface)
+  > ROS 2 Control Hardware (System) Interface for STS series motors from Feetech and other manufacturers
+
 ### [ttttmr](https://github.com/ttttmr)
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [yetone/magpie](https://github.com/yetone/magpie)
   > Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
@@ -892,6 +937,8 @@
 ### [yfe404](https://github.com/yfe404)
 - 🌟 👤 [yfe404](https://github.com/yfe404) Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
   > The open-source app everyone uses to manage agents at work
+- 🌟 👤 [yfe404](https://github.com/yfe404) Starred [anisayari/codex-messenger](https://github.com/anisayari/codex-messenger)
+  > Client desktop Electron style MSN Messenger pour piloter Codex en local
 
 ### [yhy0](https://github.com/yhy0)
 - 🌟 👤 [yhy0](https://github.com/yhy0) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
@@ -938,5 +985,5 @@
 
 
 ---
-*最后更新于 2026-09-24 18:14:25 UTC*
+*最后更新于 2026-09-24 22:00:30 UTC*
 *历史记录保存在 `archive` 目录中。*
