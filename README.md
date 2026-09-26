@@ -10,6 +10,10 @@
 - 🌟 👤 [0xWhiteMage](https://github.com/0xWhiteMage) Starred [ashhart/TensorFold](https://github.com/ashhart/TensorFold)
   > Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint
 
+### [0xeb](https://github.com/0xeb)
+- 🍴 👤 [0xeb](https://github.com/0xeb) Forked [hseoa/zakynthos-navagio-rootkit](https://github.com/hseoa/zakynthos-navagio-rootkit) to [lallouslab/zakynthos-navagio-rootkit](https://github.com/lallouslab/zakynthos-navagio-rootkit)
+  > PoC for PUBG's anti-cheat Zakynthos's rootkit navagio.sys
+
 ### [1c7](https://github.com/1c7)
 - 🌟 👤 [1c7](https://github.com/1c7) Starred [Gen-Verse/ScienceBuddy](https://github.com/Gen-Verse/ScienceBuddy)
   > ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents
@@ -116,6 +120,10 @@
 - 🌟 👤 [HdShare](https://github.com/HdShare) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
   > 🎥      Make videos programmatically with React
 
+### [Idov31](https://github.com/Idov31)
+- 🌟 👤 [Idov31](https://github.com/Idov31) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
+  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
+
 ### [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
 - 🌟 👤 [KagurazakaHanabi](https://github.com/KagurazakaHanabi) Starred [qnex0/ti84-usbc](https://github.com/qnex0/ti84-usbc)
   > PCB files for the TI84 USBC mod PCB
@@ -153,6 +161,18 @@
   > oh-my-pi multi-session control plane and web UI
 - 🚀 👤 [M0Rf30](https://github.com/M0Rf30) Made [meshcore-ita/antenne](https://github.com/meshcore-ita/antenne) public
   > Modelli NEC-2 di antenne della community MeshCore ITA, simulati a 869.618 MHz
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [meshcore-ita/awesome-meshcore](https://github.com/meshcore-ita/awesome-meshcore)
+  > Clients, firmware, SDKs, tools, maps and communities for MeshCore off-grid LoRa mesh messaging
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [Psysonic/psysonic](https://github.com/Psysonic/psysonic)
+  > A gorgeous, modern, and blazing fast Navidrome desktop client. Inspired by Winamp, built for the fut...
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [opra-project/OPRA](https://github.com/opra-project/OPRA)
+  > OPRA (Open Profiles for Revealing Audio) is an open, community-maintained directory of product infor...
+- 🍴 👤 [M0Rf30](https://github.com/M0Rf30) Forked [opra-project/OPRA](https://github.com/opra-project/OPRA) to [M0Rf30/OPRA](https://github.com/M0Rf30/OPRA)
+  > OPRA (Open Profiles for Revealing Audio) is an open, community-maintained directory of product infor...
+
+### [MolotovCherry](https://github.com/MolotovCherry)
+- 🌟 👤 [MolotovCherry](https://github.com/MolotovCherry) Starred [circleainn/BG3ModManager-Redux](https://github.com/circleainn/BG3ModManager-Redux)
+  > A modernized BG3 Mod Manager fork with integrated downloads and save management, custom themes, cate...
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse)
@@ -224,6 +244,12 @@
 - 🌟 👤 [ZeroMemoryEx](https://github.com/ZeroMemoryEx) Starred [S3cur3Th1sSh1t/SnafflePy](https://github.com/S3cur3Th1sSh1t/SnafflePy)
   > Snaffler in Python
 
+### [ahkehra](https://github.com/ahkehra)
+- 🌟 👤 [ahkehra](https://github.com/ahkehra) Starred [Clash-Projects/LastWave-Native](https://github.com/Clash-Projects/LastWave-Native)
+  > Next-Gen YouTube Music Client with Liquid Glass UI , Algorithmic Smart Playlist Generator, Real-Time...
+- 🌟 👤 [ahkehra](https://github.com/ahkehra) Starred [Clash-Projects/LastWave-Desktop](https://github.com/Clash-Projects/LastWave-Desktop)
+  > High-Resolution Lossless Desktop Music Player for Windows, Linux & macOS
+
 ### [aviraxp](https://github.com/aviraxp)
 - 🌟 👤 [aviraxp](https://github.com/aviraxp) Starred [Penguin38/OpenCoreAnalysisKit](https://github.com/Penguin38/OpenCoreAnalysisKit)
   > android open core analysis kit
@@ -244,6 +270,10 @@
 ### [blacktop](https://github.com/blacktop)
 - 🌟 👤 [blacktop](https://github.com/blacktop) Starred [asciimoo/hister](https://github.com/asciimoo/hister)
   > Your own search engine
+
+### [bluesadi](https://github.com/bluesadi)
+- 🌟 👤 [bluesadi](https://github.com/bluesadi) Starred [microsoft/litebox](https://github.com/microsoft/litebox)
+  > A security-focused library OS supporting kernel- and user-mode execution
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Mushroom-Systems/lichen](https://github.com/Mushroom-Systems/lichen)
@@ -277,6 +307,8 @@
   > A user friendly way to search OpenStreetMap data for features in proximity to each other.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
   > MapLibre GL JS - Interactive vector tile maps in the browser
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bellingcat/ShadowFinder](https://github.com/bellingcat/ShadowFinder)
+  > Find possible locations of shadows around the world
 
 ### [cli0xfa](https://github.com/cli0xfa)
 - 🌟 👤 [cli0xfa](https://github.com/cli0xfa) Starred [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)
@@ -455,6 +487,14 @@
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
   > Spec-driven development (SDD) for AI coding assistants.
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell)
+  > Gentle Shell is a Pi-native coding-agent harness for controlled development with Organic Driven Deve...
+- 🌟 👤 [oblique](https://github.com/oblique) Starred [elidickinson/pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge)
+  > Claude Code inference provider for Pi. Allows the use of Claude Code of Pro/Max subscriptions from p...
+
+### [orionsheep](https://github.com/orionsheep)
+- 🌟 👤 [orionsheep](https://github.com/orionsheep) Starred [nhdzTVlxb/SAR-OBB-Competition](https://github.com/nhdzTVlxb/SAR-OBB-Competition)
+  > 2025年全球校园人工智能算法精英大赛-算法挑战赛-大规模SAR图像多类别有向目标检测-国一-做题解析
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [irpina/digislicer](https://github.com/irpina/digislicer)
@@ -469,6 +509,10 @@
 ### [pgkt04](https://github.com/pgkt04)
 - 🌟 👤 [pgkt04](https://github.com/pgkt04) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
   > Official Hex-Rays IDA MCP Server.
+
+### [rabbitstack](https://github.com/rabbitstack)
+- 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook)
+  > Open Source Introductory Systems Programming Textbook for the University of Illinois
 
 ### [rdbo](https://github.com/rdbo)
 - 🌟 👤 [rdbo](https://github.com/rdbo) Starred [vladtrc/iw4L](https://github.com/vladtrc/iw4L)
@@ -495,6 +539,8 @@
 ### [std-microblock](https://github.com/std-microblock)
 - 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
   > DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts pe...
+- 🌟 👤 [std-microblock](https://github.com/std-microblock) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
 ### [su-vikas](https://github.com/su-vikas)
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary)
@@ -552,5 +598,5 @@
 
 
 ---
-*最后更新于 2026-09-26 18:22:08 UTC*
+*最后更新于 2026-09-26 21:52:11 UTC*
 *历史记录保存在 `archive` 目录中。*
