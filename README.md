@@ -4,6 +4,10 @@
 
 ## 今日动态
 
+### [0xBakeer](https://github.com/0xBakeer)
+- 🌟 👤 [0xBakeer](https://github.com/0xBakeer) Starred [Badtheorylabs/interference-search](https://github.com/Badtheorylabs/interference-search)
+  > Reason over explicit states, many branches at once: merge duplicates, cancel dead ends, advance toge...
+
 ### [0xWhiteMage](https://github.com/0xWhiteMage)
 - 🌟 👤 [0xWhiteMage](https://github.com/0xWhiteMage) Starred [tonyd2wild/DGX-Spark-Hard-Poweroff-Fix](https://github.com/tonyd2wild/DGX-Spark-Hard-Poweroff-Fix)
   > DGX Spark (GB10) random hard power-off: how to diagnose the log-less crash signature and stop it wit...
@@ -95,6 +99,10 @@
 - 🌟 👤 [Hzllaga](https://github.com/Hzllaga) Starred [browser-use/video-use](https://github.com/browser-use/video-use)
   > Edit videos with coding agents
 
+### [Icex0](https://github.com/Icex0)
+- 🌟 👤 [Icex0](https://github.com/Icex0) Starred [HackDefenseNL/aitm-detect](https://github.com/HackDefenseNL/aitm-detect)
+  > Detects anti-AiTM measures in company branding custom CSS files
+
 ### [Jefino9488](https://github.com/Jefino9488)
 - 🌟 👤 [Jefino9488](https://github.com/Jefino9488) Starred [experientiallabs/experiential](https://github.com/experientiallabs/experiential)
   > Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace mod...
@@ -121,6 +129,10 @@
 ### [MhmRdd](https://github.com/MhmRdd)
 - 🌟 👤 [MhmRdd](https://github.com/MhmRdd) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
   > Official Hex-Rays IDA MCP Server.
+- 🌟 👤 [MhmRdd](https://github.com/MhmRdd) Starred [naim94a/lumen](https://github.com/naim94a/lumen)
+  > A private Lumina server for IDA Pro
+- 🌟 👤 [MhmRdd](https://github.com/MhmRdd) Starred [19h/dazhbog](https://github.com/19h/dazhbog)
+  > High-performance IDA Lumina implementation
 
 ### [Moe-hacker](https://github.com/Moe-hacker)
 - 🌟 👤 [Moe-hacker](https://github.com/Moe-hacker) Starred [nestrilabs/virtio-nvgpu](https://github.com/nestrilabs/virtio-nvgpu)
@@ -133,6 +145,10 @@
 ### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
 - 🍴 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Forked [LZH0713/zcode2api](https://github.com/LZH0713/zcode2api) to [Utility-Software-Collection/zcode2api](https://github.com/Utility-Software-Collection/zcode2api)
   > 将zcode的免费额度反代使用
+- 🍴 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Forked [google/ksp](https://github.com/google/ksp) to [BHSubsidiary/ksp](https://github.com/BHSubsidiary/ksp)
+  > Kotlin Symbol Processing API
+- 🍴 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Forked [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) to [BHSubsidiary/YukiHookAPI](https://github.com/BHSubsidiary/YukiHookAPI)
+  > ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
 
 ### [No-Github](https://github.com/No-Github)
 - 🌟 👤 [No-Github](https://github.com/No-Github) Starred [Yean-Sec/StrikeAgent_AtkBrain-Flash](https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash)
@@ -146,6 +162,8 @@
 - 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [godeProject/gode.js](https://github.com/godeProject/gode.js)
   > Node.js package that converts gibberish caused by Thai user forgetting to change their keyboard layo...
 - 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [beambeambeam/bmhk-2026](https://github.com/beambeambeam/bmhk-2026)
+- 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [topjohnwu/samloader-rs](https://github.com/topjohnwu/samloader-rs)
+  > An all-in-one Samsung firmware download and flash tool
 
 ### [Pengrey](https://github.com/Pengrey)
 - 🌟 👤 [Pengrey](https://github.com/Pengrey) Starred [chokepoint/Jynx2](https://github.com/chokepoint/Jynx2)
@@ -153,6 +171,8 @@
 
 ### [People-11](https://github.com/People-11)
 - 🚀 👤 [People-11](https://github.com/People-11) Made [People-11/Sidegate](https://github.com/People-11/Sidegate) public
+- 🌟 👤 [People-11](https://github.com/People-11) Starred [ejfkdev/ddc](https://github.com/ejfkdev/ddc)
+  > DEX → Java decompiler in Rust — fast, progressive analysis, bilingual CLI
 
 ### [PhoenixHairpin](https://github.com/PhoenixHairpin)
 - 🍴 👤 [PhoenixHairpin](https://github.com/PhoenixHairpin) Forked [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) to [PhoenixHairpin/jailbreaks](https://github.com/PhoenixHairpin/jailbreaks)
@@ -201,6 +221,12 @@
 ### [TGSAN](https://github.com/TGSAN)
 - 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy)
   > Command Code API 反代代理，兼容 OpenAI 与 Anthropic 接口 | Reverse proxy exposing Command Code API as OpenAI- ...
+
+### [ThunderCls](https://github.com/ThunderCls)
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
+  > Official Hex-Rays IDA MCP Server.
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [ngwg/ceasta](https://github.com/ngwg/ceasta)
+  > disassembler, decompiler and debugger in one, with a built-in mcp server: point an ai at a binary an...
 
 ### [Tokeii0](https://github.com/Tokeii0)
 - 🌟 👤 [Tokeii0](https://github.com/Tokeii0) Starred [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)
@@ -288,6 +314,10 @@
 ### [buluo533](https://github.com/buluo533)
 - 🍴 👤 [buluo533](https://github.com/buluo533) Forked [lidongyooo/GumTrace](https://github.com/lidongyooo/GumTrace) to [buluo533/GumTrace](https://github.com/buluo533/GumTrace)
   > 基于 Frida Gum (Stalker) 引擎的 ARM64 动态指令追踪工具，支持 Android 和 iOS 平台。
+
+### [busy10](https://github.com/busy10)
+- 🌟 👤 [busy10](https://github.com/busy10) Starred [danielnilsson9/bbs-fw](https://github.com/danielnilsson9/bbs-fw)
+  > Open source firmware for multiple electric bike motor controllers.
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [trailofbits/coop](https://github.com/trailofbits/coop)
@@ -385,6 +415,8 @@
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [MakrSas/orchard-ios](https://github.com/MakrSas/orchard-ios)
   > Orchard for iPhone: Apple Silicon macOS Ventura running inside an iOS app — QEMU apple-vm with reims...
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [TypeLLM/TypeLLM](https://github.com/TypeLLM/TypeLLM)
+  > TypeLLM: LLMs with type-safe generation
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [ziex-dev/ziex](https://github.com/ziex-dev/ziex)
@@ -397,6 +429,10 @@
 ### [fjh658](https://github.com/fjh658)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
   > Official Hex-Rays IDA MCP Server.
+
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [AetherLabsAI/RSIAgent](https://github.com/AetherLabsAI/RSIAgent)
+  > A training-free multi-agent framework for recursive self-improvement in new environments through bro...
 
 ### [gmh5225](https://github.com/gmh5225)
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [YuroGod/VMPStaticUnpacker](https://github.com/YuroGod/VMPStaticUnpacker) to [gmh5225/VMPStaticUnpacker](https://github.com/gmh5225/VMPStaticUnpacker)
@@ -416,9 +452,19 @@
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [NetVar1337/apex-anticheat-lab](https://github.com/NetVar1337/apex-anticheat-lab) to [gmh5225/apex-anticheat-lab](https://github.com/gmh5225/apex-anticheat-lab)
   > FPS / Apex Legends anti-cheat research lab: cheat taxonomy, behavioral aim & telemetry detections, S...
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [dark-bio/clock-rs](https://github.com/dark-bio/clock-rs) to [gmh5225/clock-rs](https://github.com/gmh5225/clock-rs)
-  > Virtual Clock for Testing Blocking Rust Code
+  > Virtual clock for testing blocking Rust
 - 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) to [gmh5225/streamyfin](https://github.com/gmh5225/streamyfin)
   > A modern Jellyfin client built with Expo
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [kEv1nZ0/VTD-Bypass](https://github.com/kEv1nZ0/VTD-Bypass) to [gmh5225/VTD-Bypass](https://github.com/gmh5225/VTD-Bypass)
+  > 全自动过VTD检测
+- 🍴 👤 [gmh5225](https://github.com/gmh5225) Forked [jax-ml/jax](https://github.com/jax-ml/jax) to [gmh5225/jax](https://github.com/gmh5225/jax)
+  > Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and m...
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin)
+  > A modern Jellyfin client built with Expo
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [CTalvio/Ultrachromic](https://github.com/CTalvio/Ultrachromic)
+  > The final form, the true evolution of the chromic theme saga!
+- 🌟 👤 [gmh5225](https://github.com/gmh5225) Starred [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin)
+  > A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with ...
 
 ### [greg7mdp](https://github.com/greg7mdp)
 - 🌟 👤 [greg7mdp](https://github.com/greg7mdp) Starred [Avinash-jetwani/jevmem](https://github.com/Avinash-jetwani/jevmem)
@@ -441,6 +487,8 @@
   > Official Hex-Rays IDA MCP Server.
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [omacom/omarchy](https://github.com/omacom/omarchy)
   > Beautiful, Modern & Opinionated Linux
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
+  > LIST OF ALL MY JAILBREAKS
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [dofastted/vm2api](https://github.com/dofastted/vm2api) to [hzqst/vm2api](https://github.com/hzqst/vm2api)
@@ -492,7 +540,7 @@
 
 ### [kin4stat](https://github.com/kin4stat)
 - 🌟 👤 [kin4stat](https://github.com/kin4stat) Starred [ngwg/ceasta](https://github.com/ngwg/ceasta)
-  > disassembler, decompiler and debugger in one, with a built-in mcp server — point an ai at a binary a...
+  > disassembler, decompiler and debugger in one, with a built-in mcp server: point an ai at a binary an...
 
 ### [kmiit](https://github.com/kmiit)
 - 🍴 👤 [kmiit](https://github.com/kmiit) Forked [TheMuppets/proprietary_vendor_realme_pista](https://github.com/TheMuppets/proprietary_vendor_realme_pista) to [kmiit/proprietary_vendor_realme_pista_f](https://github.com/kmiit/proprietary_vendor_realme_pista_f)
@@ -508,6 +556,13 @@
 ### [lyming99](https://github.com/lyming99)
 - 🌟 👤 [lyming99](https://github.com/lyming99) Starred [chatboxai/chatbox](https://github.com/chatboxai/chatbox)
   > Powerful AI Client
+
+### [mahmoudimus](https://github.com/mahmoudimus)
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [Avinash-jetwani/jevmem](https://github.com/Avinash-jetwani/jevmem)
+  > Automatic project memory for Claude Code. Also works with Cursor and Codex.
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [picoruby/mruby-pico-compiler](https://github.com/picoruby/mruby-pico-compiler)
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [mrubyc/mrubyc](https://github.com/mrubyc/mrubyc)
+  > mruby/c is another implementation of mruby.
 
 ### [mainfunx](https://github.com/mainfunx)
 - 🌟 👤 [mainfunx](https://github.com/mainfunx) Starred [hypit-ai/hypit](https://github.com/hypit-ai/hypit)
@@ -529,7 +584,7 @@
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ngwg/ceasta](https://github.com/ngwg/ceasta)
-  > disassembler, decompiler and debugger in one, with a built-in mcp server — point an ai at a binary a...
+  > disassembler, decompiler and debugger in one, with a built-in mcp server: point an ai at a binary an...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [valeria-org/bitwright](https://github.com/valeria-org/bitwright)
   > Bit-vector expression simplifier for binary analysis and deobfuscation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
@@ -559,6 +614,12 @@
   > FuckCustomTab
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [XHYN-PH/XHYN-V](https://github.com/XHYN-PH/XHYN-V)
   > Documentation, setup guides, features, compatibility information and release notes for XHYN V, a com...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [alesimula/Murine-launcher](https://github.com/alesimula/Murine-launcher)
+  > This is fork from Launcher3 in AOSP.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [wasi-master/wmkeyboard](https://github.com/wasi-master/wmkeyboard)
+  > A modern, privacy-first Android keyboard: offline intelligence, 350+ languages, themes, tools and an...
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [open-webui/computer](https://github.com/open-webui/computer)
+  > Your Computer. Anywhere.
 
 ### [oftenshui](https://github.com/oftenshui)
 - 🌟 👤 [oftenshui](https://github.com/oftenshui) Starred [Ujhhgtg/WeKit](https://github.com/Ujhhgtg/WeKit)
@@ -583,6 +644,10 @@
 ### [polygraphene](https://github.com/polygraphene)
 - 🌟 👤 [polygraphene](https://github.com/polygraphene) Starred [diabl0w/DFRoot](https://github.com/diabl0w/DFRoot)
 
+### [qazbnm456](https://github.com/qazbnm456)
+- 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+  > Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: det...
+
 ### [rabbitstack](https://github.com/rabbitstack)
 - 🌟 👤 [rabbitstack](https://github.com/rabbitstack) Starred [Orange-Cyberdefense/p3-loader](https://github.com/Orange-Cyberdefense/p3-loader)
   > P³-Shellcode Loader is a loader that implements a code injection technique which leverages the Proce...
@@ -592,6 +657,8 @@
   > 型紙 Design Language Commons — versioned, agent-maintained library of complete design languages
 - 🌟 👤 [raesene](https://github.com/raesene) Starred [nerdsane/temper](https://github.com/nerdsane/temper)
   > A machine tool for agents: a verified runtime for systems agents build.
+- 🍴 👤 [raesene](https://github.com/raesene) Forked [cyber-scotland-connect/csc-website](https://github.com/cyber-scotland-connect/csc-website) to [raesene/csc-website](https://github.com/raesene/csc-website)
+  > The official community website for Cyber Scotland Connect (CSC).
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [tihanyin/REx-skill](https://github.com/tihanyin/REx-skill)
@@ -631,6 +698,8 @@
 ### [stuxnet147](https://github.com/stuxnet147)
 - 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [YuroGod/VMPStaticUnpacker](https://github.com/YuroGod/VMPStaticUnpacker)
   > Static VMProtect unpacker , supporting VMProtect 3.9.5
+- 🌟 👤 [stuxnet147](https://github.com/stuxnet147) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
+  > Official Hex-Rays IDA MCP Server.
 
 ### [su-vikas](https://github.com/su-vikas)
 - 🌟 👤 [su-vikas](https://github.com/su-vikas) Starred [usestrix/strix](https://github.com/usestrix/strix)
@@ -660,7 +729,7 @@
 
 ### [tijme](https://github.com/tijme)
 - 🚀 👤 [tijme](https://github.com/tijme) Made [leafyandme/website](https://github.com/leafyandme/website) public
-  > Website for Leafy & Me. Keep your plants, care history, and reminders together! 🌿
+  > Meet Leafy & Me, your plant care companion. Keep your plants happy, your routine simple, and a littl...
 
 ### [tkmru](https://github.com/tkmru)
 - 🌟 👤 [tkmru](https://github.com/tkmru) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
@@ -670,9 +739,17 @@
 - 🌟 👤 [ttttmr](https://github.com/ttttmr) Starred [wedow/harness](https://github.com/wedow/harness)
   > Minimal agent loop in bash. Pure state follower core with plugin-based tools, hooks, providers, and ...
 
+### [w00tzenheimer](https://github.com/w00tzenheimer)
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [jborean93/PowerShell-ctypes](https://github.com/jborean93/PowerShell-ctypes)
+  > PowerShell module for ctypes/PInvoke calls
+
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [EthanArbuckle/simforge](https://github.com/EthanArbuckle/simforge)
   > Run (decrypted) iOS Apps on iOS Simulators
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
+  > Official Hex-Rays IDA MCP Server.
 
 ### [x0rz4](https://github.com/x0rz4)
 - 🌟 👤 [x0rz4](https://github.com/x0rz4) Starred [giszh86/vohive](https://github.com/giszh86/vohive)
@@ -722,7 +799,11 @@
 - 🌟 👤 [zenghongtu](https://github.com/zenghongtu) Starred [lhlGitHub/threejs-architecture-effects](https://github.com/lhlGitHub/threejs-architecture-effects)
   > An Agent Skill for building interactive, self-assembling 3D architecture with Three.js.  一个用 Three.j...
 
+### [zhanymkanov](https://github.com/zhanymkanov)
+- 🌟 👤 [zhanymkanov](https://github.com/zhanymkanov) Starred [git-bug/git-bug](https://github.com/git-bug/git-bug)
+  > Distributed, offline-first bug tracker integrated in git
+
 
 ---
-*最后更新于 2026-09-25 18:14:25 UTC*
+*最后更新于 2026-09-25 21:59:07 UTC*
 *历史记录保存在 `archive` 目录中。*
