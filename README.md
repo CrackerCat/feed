@@ -27,6 +27,12 @@
 - 🍴 👤 [Anatdx](https://github.com/Anatdx) Forked [KodateMitsuru/hma-uidfake](https://github.com/KodateMitsuru/hma-uidfake) to [Anatdx/hma-uidfake](https://github.com/Anatdx/hma-uidfake)
   > WIP, force push warning
 
+### [Aniketh01](https://github.com/Aniketh01)
+- 🌟 👤 [Aniketh01](https://github.com/Aniketh01) Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
+- 🌟 👤 [Aniketh01](https://github.com/Aniketh01) Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+  > Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. ...
+
 ### [AnkioTomas](https://github.com/AnkioTomas)
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [Darthagnon/azwreader-koreader](https://github.com/Darthagnon/azwreader-koreader)
   > AZW/AZW3 ebook support plugin for KOReader
@@ -55,6 +61,12 @@
   > Reverse-engineered docs and tools for 8BitDo firmware encryption
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Ablation-Tool/ablation](https://github.com/Ablation-Tool/ablation)
   > Ablation is a reverse engineering framework
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [vdmkenny/openreliant](https://github.com/vdmkenny/openreliant)
+  > An open-source reimplementation of StarLancer's engine, in Zig on SDL3. Needs your own copy of the g...
+
+### [DeLuks2006](https://github.com/DeLuks2006)
+- 🌟 👤 [DeLuks2006](https://github.com/DeLuks2006) Starred [valeria-org/iced](https://github.com/valeria-org/iced)
+  > Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Pyt...
 
 ### [DerekSelander](https://github.com/DerekSelander)
 - 🌟 👤 [DerekSelander](https://github.com/DerekSelander) Starred [maxvdec/arm64-book](https://github.com/maxvdec/arm64-book)
@@ -193,6 +205,10 @@
 - 🌟 👤 [Metatronxl](https://github.com/Metatronxl) Starred [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse)
   > Suitable for Android APK reverse engineering analysis
 
+### [MhmRdd](https://github.com/MhmRdd)
+- 🌟 👤 [MhmRdd](https://github.com/MhmRdd) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
+
 ### [NiTianErXing666](https://github.com/NiTianErXing666)
 - 🌟 👤 [NiTianErXing666](https://github.com/NiTianErXing666) Starred [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better)
   > 《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
@@ -295,6 +311,10 @@
 - 🍴 👤 [Xieansecn](https://github.com/Xieansecn) Forked [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) to [Xieansecn/deepseek-harness](https://github.com/Xieansecn/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [Ylarod](https://github.com/Ylarod)
+- 🌟 👤 [Ylarod](https://github.com/Ylarod) Starred [fuqiuluo/rust-elegant](https://github.com/fuqiuluo/rust-elegant)
+  > 🍂 Teach AI coding agents to write Rust like experienced Rust engineers.
+
 ### [YuKongA](https://github.com/YuKongA)
 - 🌟 👤 [YuKongA](https://github.com/YuKongA) Starred [mayukh4/linux-android](https://github.com/mayukh4/linux-android)
   > Turn an old Android phone into a GPU-accelerated Linux desktop (XFCE4 / KDE Plasma / LXQt / MATE) or...
@@ -305,6 +325,8 @@
 - 🍴 👤 [YungRaj](https://github.com/YungRaj) Forked [DenrianWeiss/w515y-vmapple-scripts](https://github.com/DenrianWeiss/w515y-vmapple-scripts) to [YungRaj/w515y-vmapple-scripts](https://github.com/YungRaj/w515y-vmapple-scripts)
 - 🍴 👤 [YungRaj](https://github.com/YungRaj) Forked [doximity/mvcc](https://github.com/doximity/mvcc) to [YungRaj/mvcc](https://github.com/YungRaj/mvcc)
   > Compile and run CUDA on Apple M4-M5 GPUs
+- 🍴 👤 [YungRaj](https://github.com/YungRaj) Forked [lemonade-sdk/mac-amdgpu](https://github.com/lemonade-sdk/mac-amdgpu) to [YungRaj/mac-amdgpu](https://github.com/YungRaj/mac-amdgpu)
+  > A WIP Driver for AMD GPUs on MacOS
 
 ### [YuroGod](https://github.com/YuroGod)
 - 🌟 👤 [YuroGod](https://github.com/YuroGod) Starred [NoHackClient/ZelixKlassMaster-27](https://github.com/NoHackClient/ZelixKlassMaster-27)
@@ -315,6 +337,10 @@
   > Proof of Concept for Process Code Injection Without Using WriteProcessMemory
 - 🌟 👤 [alexander-hanel](https://github.com/alexander-hanel) Starred [expend20/flare-on-12-llm-solution](https://github.com/expend20/flare-on-12-llm-solution)
   > Flare On 12 single shotted by an LLM without major deps
+
+### [alternoegraha](https://github.com/alternoegraha)
+- 🌟 👤 [alternoegraha](https://github.com/alternoegraha) Starred [ubuntu/yaru](https://github.com/ubuntu/yaru)
+  > All Ubuntu Yaru GNOME themes
 
 ### [ant4g0nist](https://github.com/ant4g0nist)
 - 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [cyber-defence-campus/mole](https://github.com/cyber-defence-campus/mole)
@@ -358,6 +384,18 @@
   > Official PyTorch implementation for TCSVT 23 "Detect Any Shadow: Segment Anything for Video Shadow D...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [dzhng/jevgrep](https://github.com/dzhng/jevgrep)
   > Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files a...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [0x676e67/wreq](https://github.com/0x676e67/wreq)
+  > An ergonomic, privacy-aware Rust HTTP Client
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TurtIeSocks/zendriver-rs](https://github.com/TurtIeSocks/zendriver-rs)
+  > Async-first, undetectable browser automation in Rust via the Chrome DevTools Protocol. Stealth-by-de...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mattsse/chromiumoxide](https://github.com/mattsse/chromiumoxide)
+  > Chrome Devtools Protocol rust API
+- 🍴 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Forked [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) to [byt3bl33d3r/obscura](https://github.com/byt3bl33d3r/obscura)
+  > The headless browser for AI agents and web scraping
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mourner/suncalc](https://github.com/mourner/suncalc)
+  > A tiny JavaScript library for calculating sun/moon positions and phases.
 
 ### [cli0xfa](https://github.com/cli0xfa)
 - 🌟 👤 [cli0xfa](https://github.com/cli0xfa) Starred [youyao666/SukiSU-KPM-Module](https://github.com/youyao666/SukiSU-KPM-Module)
@@ -480,6 +518,16 @@
   > Mobile platform support for GPUI — iOS (wgpu/Metal) and Android (wgpu/Vulkan)
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [moq-dev/moq](https://github.com/moq-dev/moq)
   > Media over QUIC: Real-time latency at massive scale
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA)
+  > Free, Open Source, Self-Hosted WhatsApp API Gateway
+
+### [fuqiuluo](https://github.com/fuqiuluo)
+- 🌟 👤 [fuqiuluo](https://github.com/fuqiuluo) Starred [fuqiuluo/rust-elegant](https://github.com/fuqiuluo/rust-elegant)
+  > 🍂 Teach AI coding agents to write Rust like experienced Rust engineers.
+
+### [gabime](https://github.com/gabime)
+- 🌟 👤 [gabime](https://github.com/gabime) Starred [CubeCoders/Jet](https://github.com/CubeCoders/Jet)
+  > A tiny, dependency-free, fixed-function 3D rasteriser written in modern C++17 for embedded devices (...
 
 ### [gclm](https://github.com/gclm)
 - 🍴 👤 [gclm](https://github.com/gclm) Forked [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) to [gclm/KuiklyUI](https://github.com/gclm/KuiklyUI)
@@ -667,6 +715,10 @@
   > OpenAI compatible PI agent gateway and orchestrator
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
   > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no pr...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MichaelKinsy/PiG](https://github.com/MichaelKinsy/PiG)
+  > PiG (Pi in Go) is a faithful Go port of upstream Pi, the TypeScript codebase behind the Pi coding ag...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sudoingX/qwen38-mtp](https://github.com/sudoingX/qwen38-mtp)
+  > One llama.cpp flag unlocks +33-39% decode speed for Qwen3.8-27B on consumer GPUs. The MTP head alrea...
 
 ### [mzfr](https://github.com/mzfr)
 - 🌟 👤 [mzfr](https://github.com/mzfr) Starred [MichaelKinsy/PiG](https://github.com/MichaelKinsy/PiG)
@@ -824,5 +876,5 @@
 
 
 ---
-*最后更新于 2026-09-27 20:58:04 UTC*
+*最后更新于 2026-09-27 23:44:30 UTC*
 *历史记录保存在 `archive` 目录中。*
