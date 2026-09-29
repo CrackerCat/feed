@@ -4,6 +4,9 @@
 
 ## 今日动态
 
+### [0x1306a94](https://github.com/0x1306a94)
+- 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [nake13/khuaplayer](https://github.com/nake13/khuaplayer)
+
 ### [0xSh4dy](https://github.com/0xSh4dy)
 - 🌟 👤 [0xSh4dy](https://github.com/0xSh4dy) Starred [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL)
   > GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources suc...
@@ -23,6 +26,10 @@
 ### [521xueweihan](https://github.com/521xueweihan)
 - 🌟 👤 [521xueweihan](https://github.com/521xueweihan) Starred [baidu-baige/LoongForge](https://github.com/baidu-baige/LoongForge)
   > A high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs ...
+
+### [Aira-Sakuranomiya](https://github.com/Aira-Sakuranomiya)
+- 🌟 👤 [Aira-Sakuranomiya](https://github.com/Aira-Sakuranomiya) Starred [kageroumado/phosphene](https://github.com/kageroumado/phosphene)
+  > Custom video wallpapers for macOS — any video, on the desktop and the lock screen, picked directly f...
 
 ### [AlienwareHe](https://github.com/AlienwareHe)
 - 🍴 👤 [AlienwareHe](https://github.com/AlienwareHe) Forked [router-for-me/EasyCLIProxyAPI](https://github.com/router-for-me/EasyCLIProxyAPI) to [AlienwareHe/EasyCLIProxyAPI](https://github.com/AlienwareHe/EasyCLIProxyAPI)
@@ -68,6 +75,8 @@
   > Tailscale C library
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [diskfs/go-diskfs](https://github.com/diskfs/go-diskfs)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [sims718718/UnifiedThreatHunting](https://github.com/sims718718/UnifiedThreatHunting)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [devZero-Security/redStackPRO](https://github.com/devZero-Security/redStackPRO)
+  > A canvas for red team infrastructure and cyber ranges. Compose a topology, export runnable Terraform...
 
 ### [Cxk4ng](https://github.com/Cxk4ng)
 - 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
@@ -134,6 +143,8 @@
 ### [HdShare](https://github.com/HdShare)
 - 🍴 👤 [HdShare](https://github.com/HdShare) Forked [Xposed-Modules-Repo/top.hookvip.wxtablet](https://github.com/Xposed-Modules-Repo/top.hookvip.wxtablet) to [HdShare/top.hookvip.wxtablet](https://github.com/HdShare/top.hookvip.wxtablet)
   > WeChatTablet
+- 🍴 👤 [HdShare](https://github.com/HdShare) Forked [neocanable/garlic](https://github.com/neocanable/garlic) to [HdShare/garlic](https://github.com/HdShare/garlic)
+  > The world's fastest apk (android)/java open source decompiler
 
 ### [Idov31](https://github.com/Idov31)
 - 🌟 👤 [Idov31](https://github.com/Idov31) Starred [matank001/clodfarm](https://github.com/matank001/clodfarm)
@@ -195,6 +206,10 @@
 - 🌟 👤 [PenguinAndy](https://github.com/PenguinAndy) Starred [egametang/ET](https://github.com/egametang/ET)
   > Unity3D Client And C# Server Framework
 
+### [Prslc](https://github.com/Prslc)
+- 🌟 👤 [Prslc](https://github.com/Prslc) Starred [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+  > 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+
 ### [RiccardoAncarani](https://github.com/RiccardoAncarani)
 - 🌟 👤 [RiccardoAncarani](https://github.com/RiccardoAncarani) Starred [coffeegist/bofhound](https://github.com/coffeegist/bofhound)
   > Generate BloodHound compatible JSON from logs written by ldapsearch BOF, pyldapsearch and Brute Rate...
@@ -239,6 +254,8 @@
   > Apprise - Push Notifications that work with just about every platform!
 - 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [TheAceOfficials/SpatialPosters](https://github.com/TheAceOfficials/SpatialPosters)
   > Elevating your Stremio/Nuvio media experience with high-definition dynamic posters, vector logos, ra...
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [germondai/trawl](https://github.com/germondai/trawl)
+  > Self-hosted scraping engine — bypasses any JS challenge & captcha: Cloudflare, Turnstile, reCAPTCHA,...
 
 ### [TomKing062](https://github.com/TomKing062)
 - 🍴 👤 [TomKing062](https://github.com/TomKing062) Forked [Project-Aloha/UEFIReader](https://github.com/Project-Aloha/UEFIReader) to [TomKing062/UEFIReader](https://github.com/TomKing062/UEFIReader)
@@ -270,6 +287,10 @@
 - 🍴 👤 [anantshri](https://github.com/anantshri) Forked [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) to [anantshri/OpenShell](https://github.com/anantshri/OpenShell)
   > OpenShell is the safe, private runtime for autonomous AI agents.
 
+### [ant4g0nist](https://github.com/ant4g0nist)
+- 🌟 👤 [ant4g0nist](https://github.com/ant4g0nist) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+  > OpenShell is the safe, private runtime for autonomous AI agents.
+
 ### [arkup](https://github.com/arkup)
 - 🌟 👤 [arkup](https://github.com/arkup) Starred [allthingsida/idasql-skills](https://github.com/allthingsida/idasql-skills)
 - 🌟 👤 [arkup](https://github.com/arkup) Starred [TwoSevenOneT/InjectSetConsole](https://github.com/TwoSevenOneT/InjectSetConsole)
@@ -284,6 +305,8 @@
   > A game I made back in 1999-2001
 - 🌟 👤 [banteg](https://github.com/banteg) Starred [milzer/pikku-ukot-mesoo](https://github.com/milzer/pikku-ukot-mesoo)
   > A game I made back in 1999-2001
+- 🚀 👤 [banteg](https://github.com/banteg) Made [banteg/harvest](https://github.com/banteg/harvest) public
+  > harvest: matching encounter
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ArtifexSoftware/mupdf](https://github.com/ArtifexSoftware/mupdf)
@@ -292,6 +315,7 @@
   > A standalone version of the readability lib
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [niklak/dom_smoothie](https://github.com/niklak/dom_smoothie)
   > A Rust crate for extracting readable content from web pages.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cloudflare/forge](https://github.com/cloudflare/forge)
 
 ### [cli0xfa](https://github.com/cli0xfa)
 - 🌟 👤 [cli0xfa](https://github.com/cli0xfa) Starred [monoxgas/sRDI](https://github.com/monoxgas/sRDI)
@@ -306,10 +330,6 @@
   > 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 - 🌟 👤 [coder-pig](https://github.com/coder-pig) Starred [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture)
   > 🧭 Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-...
-
-### [ctkqiang](https://github.com/ctkqiang)
-- 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [JereIDE/JereIDE](https://github.com/JereIDE/JereIDE)
-  > The ready-to-use editor that nobody uses.
 
 ### [darbra](https://github.com/darbra)
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [agegr/pi-web](https://github.com/agegr/pi-web)
@@ -340,7 +360,7 @@
 
 ### [dwisiswant0](https://github.com/dwisiswant0)
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
-  > Convert PS5 executables to run natively on Linux and Windows
+  > Tool for automatic PS5 executables porting to Linux and Windows
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya)
   > Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-c...
 
@@ -388,6 +408,10 @@
 - 🌟 👤 [firmianay](https://github.com/firmianay) Starred [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents)
   > Turn Claude Code into your offensive security research assistant. Specialized AI subagents for autho...
 
+### [gabriellandau](https://github.com/gabriellandau)
+- 🌟 👤 [gabriellandau](https://github.com/gabriellandau) Starred [adamrt/fft_decomp](https://github.com/adamrt/fft_decomp)
+  > Decompilation of North American PlayStation Final Fantasy Tactics
+
 ### [gal2xy](https://github.com/gal2xy)
 - 🌟 👤 [gal2xy](https://github.com/gal2xy) Starred [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch)
   > Disable signature verification For Android
@@ -425,6 +449,10 @@
 ### [h3110w0r1d-y](https://github.com/h3110w0r1d-y)
 - 🌟 👤 [h3110w0r1d-y](https://github.com/h3110w0r1d-y) Starred [mmathys/noswoosh](https://github.com/mmathys/noswoosh)
   > Instant, animation-free switching between macOS Spaces (3-finger swipe or Ctrl+←/→). macOS 26.6+ and...
+
+### [hacksysteam](https://github.com/hacksysteam)
+- 🌟 👤 [hacksysteam](https://github.com/hacksysteam) Starred [mmastrac/glm-5.3-flash-4x-gx10](https://github.com/mmastrac/glm-5.3-flash-4x-gx10)
+  > GLM-5.3-Flash (NVFP4) at TP=4 across 4x ASUS GX10 / GB10 - vLLM + mentat instead of Ray, 524k contex...
 
 ### [haikow](https://github.com/haikow)
 - 🌟 👤 [haikow](https://github.com/haikow) Starred [335234131/agent-browser-mcp](https://github.com/335234131/agent-browser-mcp)
@@ -528,6 +556,8 @@
 ### [julius-b](https://github.com/julius-b)
 - 🌟 👤 [julius-b](https://github.com/julius-b) Starred [mkeeda/arranger](https://github.com/mkeeda/arranger)
   > Declarative, type-safe rich text editor engine for Compose Multiplatform
+- 🌟 👤 [julius-b](https://github.com/julius-b) Starred [Daemon125/hello](https://github.com/Daemon125/hello)
+  > Hello World in C: a minimal, well-documented example program for learning C, with a Makefile, man pa...
 
 ### [kagancapar](https://github.com/kagancapar)
 - 🌟 👤 [kagancapar](https://github.com/kagancapar) Starred [PowerDNS/pdns](https://github.com/PowerDNS/pdns)
@@ -547,6 +577,9 @@
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [IvanFitro/Learn-Rust-Attack-Vectors](https://github.com/IvanFitro/Learn-Rust-Attack-Vectors)
   > A hands-on catalog of Rust web3 vulnerability patterns, built for a Solidity auditor learning the Ru...
 
+### [kingking888](https://github.com/kingking888)
+- 🌟 👤 [kingking888](https://github.com/kingking888) Starred [isesword/golem](https://github.com/isesword/golem)
+
 ### [kmlgping](https://github.com/kmlgping)
 - 🌟 👤 [kmlgping](https://github.com/kmlgping) Starred [Speedi13/NsiAllocateAndGetTable-used-from-GetTcpTableInternal](https://github.com/Speedi13/NsiAllocateAndGetTable-used-from-GetTcpTableInternal)
   > Undocumented NsiAllocateAndGetTable usage in GetTcpTableInternal reverse engineered on Win7 X64
@@ -562,6 +595,8 @@
   > GateSentinel 是一个现代化的 C2 (Command and Control) 框架，专为安全研究和渗透测试设计。该项目采用 Go 语言开发服务端，C 语言开发客户端，提供了强大的远程控制...
 - 🌟 👤 [kmlgping](https://github.com/kmlgping) Starred [kyxiaxiang/360WFP_Exploit](https://github.com/kyxiaxiang/360WFP_Exploit)
   > BYOVD: Use 360 ​​WFP driver to block EDR/XDR network connection.
+- 🌟 👤 [kmlgping](https://github.com/kmlgping) Starred [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)
+  > Cheat Engine. A development environment focused on modding
 
 ### [kurogai](https://github.com/kurogai)
 - 🌟 👤 [kurogai](https://github.com/kurogai) Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
@@ -591,6 +626,10 @@
 - 🍴 👤 [mahaloz](https://github.com/mahaloz) Forked [secartifacts/secartifacts.github.io](https://github.com/secartifacts/secartifacts.github.io) to [mahaloz/secartifacts.github.io](https://github.com/mahaloz/secartifacts.github.io)
   > Website for Research Artifacts from the Security Community
 
+### [mahmoudimus](https://github.com/mahmoudimus)
+- 🌟 👤 [mahmoudimus](https://github.com/mahmoudimus) Starred [bytecodealliance/endive](https://github.com/bytecodealliance/endive)
+  > The JVM native WebAssembly runtime
+
 ### [mcxiaoke](https://github.com/mcxiaoke)
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
   > Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
@@ -612,11 +651,17 @@
 ### [mos9527](https://github.com/mos9527)
 - 🌟 👤 [mos9527](https://github.com/mos9527) Starred [lmxxf/dlss5-on-amd-9070xt-porting](https://github.com/lmxxf/dlss5-on-amd-9070xt-porting)
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [falsisdev/anthology](https://github.com/falsisdev/anthology)
+  > Nuvio ve Stremio için Doğrulanmış Türkçe Film, Dizi, Anime, Canlı TV ve Zengin Katalog Deposu
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
   > Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata in...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JoasASantos/Offensive-Security-AI-Models](https://github.com/JoasASantos/Offensive-Security-AI-Models)
   > Uncensored AI models or those fine-tuned for cybersecurity tasks.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [supermemoryai/company-brain](https://github.com/supermemoryai/company-brain)
+  > Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says,...
 
 ### [mustime](https://github.com/mustime)
 - 🌟 👤 [mustime](https://github.com/mustime) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
@@ -698,6 +743,10 @@
 - 🌟 👤 [plumk97](https://github.com/plumk97) Starred [awdr74100/figwright](https://github.com/awdr74100/figwright)
   > Free, two-way Figma MCP server. Turn designs into framework-aware code, and push code back to the ca...
 
+### [progman](https://github.com/progman)
+- 🌟 👤 [progman](https://github.com/progman) Starred [openai/whisper](https://github.com/openai/whisper)
+  > Robust Speech Recognition via Large-Scale Weak Supervision
+
 ### [r00tuser111](https://github.com/r00tuser111)
 - 🌟 👤 [r00tuser111](https://github.com/r00tuser111) Starred [cloudflare/nimbus](https://github.com/cloudflare/nimbus)
   > Docs for humans and agents, built on Astro
@@ -725,6 +774,10 @@
 - 🌟 👤 [sanqudui8ban](https://github.com/sanqudui8ban) Starred [byoungd/up](https://github.com/byoungd/up)
   > An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指...
 
+### [sharkdp](https://github.com/sharkdp)
+- 🍴 👤 [sharkdp](https://github.com/sharkdp) Forked [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) to [sharkdp/pygls](https://github.com/sharkdp/pygls)
+  > A pythonic generic language server
+
 ### [shellsec](https://github.com/shellsec)
 - 🌟 👤 [shellsec](https://github.com/shellsec) Starred [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload)
   > NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等...
@@ -746,6 +799,10 @@
 ### [tijme](https://github.com/tijme)
 - 🌟 👤 [tijme](https://github.com/tijme) Starred [trailofbits/coop](https://github.com/trailofbits/coop)
   > Isolated VM environment for running Claude Code and Codex
+
+### [tintinweb](https://github.com/tintinweb)
+- 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [mratsim/Arraymancer](https://github.com/mratsim/Arraymancer)
+  > A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and emb...
 
 ### [uvbs](https://github.com/uvbs)
 - 🌟 👤 [uvbs](https://github.com/uvbs) Starred [LoadLibraryW/BNSBoost](https://github.com/LoadLibraryW/BNSBoost)
@@ -895,5 +952,5 @@
 
 
 ---
-*最后更新于 2026-09-28 18:29:55 UTC*
+*最后更新于 2026-09-28 23:44:41 UTC*
 *历史记录保存在 `archive` 目录中。*
