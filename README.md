@@ -8,12 +8,18 @@
 - 🌟 👤 [0x1306a94](https://github.com/0x1306a94) Starred [yetone/magpie](https://github.com/yetone/magpie)
   > Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
+### [16hex-Dumb](https://github.com/16hex-Dumb)
+- 🌟 👤 [16hex-Dumb](https://github.com/16hex-Dumb) Starred [microsoft/DTrace-on-Windows](https://github.com/microsoft/DTrace-on-Windows)
+  > Code for the cross platform, single source, OpenDTrace implementation
+- 🌟 👤 [16hex-Dumb](https://github.com/16hex-Dumb) Starred [microsoft/DebugMCP](https://github.com/microsoft/DebugMCP)
+  > Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
+
 ### [Ackites](https://github.com/Ackites)
 - 🌟 👤 [Ackites](https://github.com/Ackites) Starred [yetone/magpie](https://github.com/yetone/magpie)
   > Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
 ### [AlexiaChen](https://github.com/AlexiaChen)
-- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [storytold/printcraft](https://github.com/storytold/printcraft)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [storytold/pdfcraft](https://github.com/storytold/pdfcraft)
   > An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust
 - 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [storytold/artcraft](https://github.com/storytold/artcraft)
   > ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
@@ -30,10 +36,6 @@
 ### [AndnixSH](https://github.com/AndnixSH)
 - 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [Alexjr2/Android_Dump_Dex](https://github.com/Alexjr2/Android_Dump_Dex)
   > A Frida script for hooking Android apps on arm/arm64 devices. It intercepts android_dlopen_ext, dete...
-
-### [Andrea-lyz](https://github.com/Andrea-lyz)
-- 🌟 👤 [Andrea-lyz](https://github.com/Andrea-lyz) Starred [VD171/VD-Google](https://github.com/VD171/VD-Google)
-  > Your Google services (RCS, Google Wallet, Play Integrity attestations) read on-device. No internet, ...
 
 ### [AnkioTomas](https://github.com/AnkioTomas)
 - 🌟 👤 [AnkioTomas](https://github.com/AnkioTomas) Starred [xuemian168/qqpet_automation](https://github.com/xuemian168/qqpet_automation)
@@ -91,14 +93,6 @@
 - 🌟 👤 [EthanArbuckle](https://github.com/EthanArbuckle) Starred [samhenrigold/LightTouchMac](https://github.com/samhenrigold/LightTouchMac)
   > Run classic iPhone, iPod touch and iPad firmware on your Mac (iPhone OS 1 to iOS 7), built on qemu-i...
 
-### [FeeiCN](https://github.com/FeeiCN)
-- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [mantinedev/mantine](https://github.com/mantinedev/mantine)
-  > A fully featured React components library
-- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [heroui-inc/heroui](https://github.com/heroui-inc/heroui)
-  > 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-- 🌟 👤 [FeeiCN](https://github.com/FeeiCN) Starred [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-  > Chakra UI is a component system for building SaaS products with speed ⚡️
-
 ### [FldBudin](https://github.com/FldBudin)
 - 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [Jia-Ethan/zcode-keysmith](https://github.com/Jia-Ethan/zcode-keysmith)
   > ZCode App managed true system-role entrypoint
@@ -110,6 +104,10 @@
   > gpt6 Astra-claude-grok4.7-deepseekv4.1flash-glm5.3-gemini破甲越狱 · 冷咖啡 BREAK//OPEN 工作台
 - 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [Pluviobyte/dot2api](https://github.com/Pluviobyte/dot2api)
   > Turn your OpenAI Dot into an OpenAI- and Claude-compatible API
+
+### [Fyyre](https://github.com/Fyyre)
+- 🌟 👤 [Fyyre](https://github.com/Fyyre) Starred [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)
+  > Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and ev...
 
 ### [GitSquared](https://github.com/GitSquared)
 - 🌟 👤 [GitSquared](https://github.com/GitSquared) Starred [cortexapps/engrams](https://github.com/cortexapps/engrams)
@@ -124,6 +122,9 @@
   > An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.
 - 🌟 👤 [KHwang9883](https://github.com/KHwang9883) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
   > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+
+### [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
+- 🌟 👤 [KagurazakaHanabi](https://github.com/KagurazakaHanabi) Starred [Xinyuan-LilyGO/T5-E-Paper-Basic](https://github.com/Xinyuan-LilyGO/T5-E-Paper-Basic)
 
 ### [Kaniruka](https://github.com/Kaniruka)
 - 🌟 👤 [Kaniruka](https://github.com/Kaniruka) Starred [SuperTurtleDev/anland](https://github.com/SuperTurtleDev/anland)
@@ -153,12 +154,6 @@
 - 🌟 👤 [Mufanc](https://github.com/Mufanc) Starred [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS)
   > Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superp...
 
-### [NEORUAA](https://github.com/NEORUAA)
-- 🌟 👤 [NEORUAA](https://github.com/NEORUAA) Starred [llmir/uu-remote-ubuntu-plus](https://github.com/llmir/uu-remote-ubuntu-plus)
-  > Use NetEase UU to access your Ubuntu desktop, with 4K presets, input fixes and a separate management...
-- 🍴 👤 [NEORUAA](https://github.com/NEORUAA) Forked [llmir/uu-remote-ubuntu-plus](https://github.com/llmir/uu-remote-ubuntu-plus) to [NEORUAA/uu-remote-ubuntu-plus](https://github.com/NEORUAA/uu-remote-ubuntu-plus)
-  > Use NetEase UU to access your Ubuntu desktop, with 4K presets, input fixes and a separate management...
-
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/ApiHashing](https://github.com/Maldev-Academy/ApiHashing) public
   > Windows x64 API hashing library that bypasses EAF and resolves forwarded exports, ordinals, and api-...
@@ -171,10 +166,6 @@
   > Run classic iPhone, iPod touch and iPad firmware on your Mac (iPhone OS 1 to iOS 7), built on qemu-i...
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [LuanRT/googlevideo](https://github.com/LuanRT/googlevideo)
   > Modules for handling YouTube's custom UMP format and SABR streaming protocol.
-
-### [R0rt1z2](https://github.com/R0rt1z2)
-- 🌟 👤 [R0rt1z2](https://github.com/R0rt1z2) Starred [grimdoomer/Xbox360PeerPressure](https://github.com/grimdoomer/Xbox360PeerPressure)
-  > Persistent softmod exploit for Xbox 360
 
 ### [RiccardoAncarani](https://github.com/RiccardoAncarani)
 - 🌟 👤 [RiccardoAncarani](https://github.com/RiccardoAncarani) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
@@ -189,6 +180,8 @@
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [SoyBeanMilkx/imgui-liquid-glass](https://github.com/SoyBeanMilkx/imgui-liquid-glass)
   > iOS 26+ style liquid glass for Dear ImGui.
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [y-g-jiang/Xiaomi17Ultra-lofic-DCG-HDR-8e5-OV50X-drive](https://github.com/y-g-jiang/Xiaomi17Ultra-lofic-DCG-HDR-8e5-OV50X-drive)
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [y-g-jiang/Jiangtherapee-2x2OCL-QuadBayer-Debayer](https://github.com/y-g-jiang/Jiangtherapee-2x2OCL-QuadBayer-Debayer)
 
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [Garysss123/xnu-hd2](https://github.com/Garysss123/xnu-hd2)
@@ -289,6 +282,10 @@
 - 🍴 👤 [affggh](https://github.com/affggh) Forked [Andromax-Devices/android_device_cyanogen_msm8909-common](https://github.com/Andromax-Devices/android_device_cyanogen_msm8909-common) to [kido-watches/android_device_cyanogen_msm8909-common](https://github.com/kido-watches/android_device_cyanogen_msm8909-common)
   > Common Device Tree For Msm8909 (WIP)
 
+### [allogic](https://github.com/allogic)
+- 🌟 👤 [allogic](https://github.com/allogic) Starred [openssl/openssl](https://github.com/openssl/openssl)
+  > General purpose TLS and crypto library
+
 ### [androidmalin](https://github.com/androidmalin)
 - 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [openai/math](https://github.com/openai/math)
 
@@ -356,6 +353,10 @@
   > Magical Deterministic Simulator for distributed systems in Rust.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zosmaai/pi-llm-wiki](https://github.com/zosmaai/pi-llm-wiki)
   > Self-maintaining, Obsidian-compatible knowledge base for pi — turn raw sources into an interlinked w...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [docker/docker-agent](https://github.com/docker/docker-agent)
+  > AI Agent Builder and Runtime by Docker Engineering
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall)
+  > Binary installation for rust projects
 
 ### [cli0xfa](https://github.com/cli0xfa)
 - 🌟 👤 [cli0xfa](https://github.com/cli0xfa) Starred [yunsjxh/R3ShieldCore](https://github.com/yunsjxh/R3ShieldCore)
@@ -370,6 +371,12 @@
   > ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [eolix/photosuite](https://github.com/eolix/photosuite)
   > A desktop image editor, faithful to classic Adobe Photoshop, with native PSD/PSB compatibility
+
+### [ctkqiang](https://github.com/ctkqiang)
+- 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [oxlaboratory/oxis](https://github.com/oxlaboratory/oxis)
+  > 💻 OXIS is a Lua-scriptable programmable workspace for Windows & Linux — combining a real terminal, c...
+- 🌟 👤 [ctkqiang](https://github.com/ctkqiang) Starred [Predidit/Kazumi](https://github.com/Predidit/Kazumi)
+  > 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
 
 ### [cujanovic](https://github.com/cujanovic)
 - 🌟 👤 [cujanovic](https://github.com/cujanovic) Starred [mw00/project-maya](https://github.com/mw00/project-maya)
@@ -390,6 +397,25 @@
 ### [darvincisec](https://github.com/darvincisec)
 - 🌟 👤 [darvincisec](https://github.com/darvincisec) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
   > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
+
+### [dodola](https://github.com/dodola)
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai)
+  > An app that brings language models directly to your phone.
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
+  > WebGPU components for React, Vue, Svelte, Solid, JS & Framer
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [KingKongRobotics/jumper](https://github.com/KingKongRobotics/jumper)
+  > 🦀 Jumper — an crab robot.
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+  > An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生...
+
+### [dwisiswant0](https://github.com/dwisiswant0)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+  > ✅ The Node.js best practices list (July 2026)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [openai/math](https://github.com/openai/math)
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [apple/coreai-models](https://github.com/apple/coreai-models)
+  > Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [tensor-MIKE/mike_c](https://github.com/tensor-MIKE/mike_c)
+  > Official public C implementation of MIKE (Module Isogeny Key Exchange).
 
 ### [fanzhidongyzby](https://github.com/fanzhidongyzby)
 - 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [stablyai/orca](https://github.com/stablyai/orca)
@@ -427,7 +453,7 @@
   > GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [jdx/mise](https://github.com/jdx/mise)
   > dev tools, env vars, task runner
-- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [storytold/printcraft](https://github.com/storytold/printcraft)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [storytold/pdfcraft](https://github.com/storytold/pdfcraft)
   > An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust
 - 🌟 👤 [fjh658](https://github.com/fjh658) Starred [storytold/vectorcraft](https://github.com/storytold/vectorcraft)
   > An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.
@@ -438,6 +464,8 @@
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [openai/math](https://github.com/openai/math)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [grimdoomer/Xbox360PeerPressure](https://github.com/grimdoomer/Xbox360PeerPressure)
+  > Persistent softmod exploit for Xbox 360
 
 ### [gamelaster](https://github.com/gamelaster)
 - 🌟 👤 [gamelaster](https://github.com/gamelaster) Starred [specadmin/RTD2660AVR](https://github.com/specadmin/RTD2660AVR)
@@ -500,6 +528,10 @@
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [zoolapp/aime](https://github.com/zoolapp/aime)
   > 艾么输入法 · An open-source Chinese input method for macOS, built on RIME. Local first, optional AI.
 
+### [kernelzeroday](https://github.com/kernelzeroday)
+- 🌟 👤 [kernelzeroday](https://github.com/kernelzeroday) Starred [docker/docker-agent](https://github.com/docker/docker-agent)
+  > AI Agent Builder and Runtime by Docker Engineering
+
 ### [killeven](https://github.com/killeven)
 - 🌟 👤 [killeven](https://github.com/killeven) Starred [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo)
   > Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, P...
@@ -533,6 +565,8 @@
   > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 - 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [pedrordgsr/snapcord](https://github.com/pedrordgsr/snapcord)
   > A native, lightweight, open-source Discord client focused on low cpu/ram consumption
+- 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [Muneer320/klicky](https://github.com/Muneer320/klicky)
+  > Low-latency mechanical keyboard sounds for Linux and macOS. Native evdev input, Wayland/X11 support,...
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [Slicer/Slicer](https://github.com/Slicer/Slicer)
@@ -565,10 +599,8 @@
   > 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同...
 - 🍴 👤 [lz6688](https://github.com/lz6688) Forked [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) to [AutoJS-X/ai-goofish-monitor](https://github.com/AutoJS-X/ai-goofish-monitor)
   > 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
-
-### [mahaloz](https://github.com/mahaloz)
-- 🍴 👤 [mahaloz](https://github.com/mahaloz) Forked [joernio/joern](https://github.com/joernio/joern) to [mahaloz/rust-joern](https://github.com/mahaloz/rust-joern)
-  > Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code prop...
+- 🍴 👤 [lz6688](https://github.com/lz6688) Forked [GGBond2424648901/YOLOv-AutoLabel-Tool_v3](https://github.com/GGBond2424648901/YOLOv-AutoLabel-Tool_v3) to [AutoJS-X/YOLOv-AutoLabel-Tool_v3](https://github.com/AutoJS-X/YOLOv-AutoLabel-Tool_v3)
+  > # 🎯 YOLOv智能标注工具  一个功能强大的网页端YOLOv自动标注工具，支持目标检测和实例分割，可加载自定义训练模型，自动标注图片和视频，并导出为多种训练格式，可调整数据集导出比例，自定义类型I...
 
 ### [marsinator358](https://github.com/marsinator358)
 - 🌟 👤 [marsinator358](https://github.com/marsinator358) Starred [abbodi1406/ConsumerESU](https://github.com/abbodi1406/ConsumerESU)
@@ -585,6 +617,10 @@
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [paulovitorjp/ghidra-s390x](https://github.com/paulovitorjp/ghidra-s390x)
   > From-scratch Ghidra processor module for IBM Z / z/Architecture (s390x), with z/OS load module loade...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [robertkarl/UnbiasedStrata](https://github.com/robertkarl/UnbiasedStrata)
+  > Strata engine with the Python removed: a pinned llama.cpp submodule, one C++ binary, no downloads at...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [peonist-ai/halogen-flash-server](https://github.com/peonist-ai/halogen-flash-server)
+  > The fastest way to run Qwen3.8-Flash-Next on Strix Halo (gfx1151)
 
 ### [msterzhang](https://github.com/msterzhang)
 - 🌟 👤 [msterzhang](https://github.com/msterzhang) Starred [88lin/workbuddy-auto-signin](https://github.com/88lin/workbuddy-auto-signin)
@@ -620,6 +656,10 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [c9dev/penguin-mail](https://github.com/c9dev/penguin-mail)
   > Mail and calendar for Linux. Gmail and IMAP accounts, Google Calendar, contacts, OpenPGP and S/MIME....
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [open-mpi/hwloc](https://github.com/open-mpi/hwloc)
+  > Hardware locality (hwloc)
+
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [musicastudio/FM8.plus](https://github.com/musicastudio/FM8.plus)
   > Enhancement layer for Native Instruments FM8. Supports the standalone, VST2, and VST3.
@@ -642,9 +682,17 @@
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
   > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
+### [qazbnm456](https://github.com/qazbnm456)
+- 🌟 👤 [qazbnm456](https://github.com/qazbnm456) Starred [Autumn-27/ARTEX](https://github.com/Autumn-27/ARTEX)
+  > AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
+
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
+
+### [riba2534](https://github.com/riba2534)
+- 🍴 👤 [riba2534](https://github.com/riba2534) Forked [yetone/magpie](https://github.com/yetone/magpie) to [riba2534/magpie](https://github.com/riba2534/magpie)
+  > Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
 ### [rogxo](https://github.com/rogxo)
 - 🌟 👤 [rogxo](https://github.com/rogxo) Starred [Lompandi/Privmem](https://github.com/Lompandi/Privmem)
@@ -685,6 +733,10 @@
 - 🍴 👤 [sh1ma](https://github.com/sh1ma) Forked [jimoto-no-llm/bench-of-us](https://github.com/jimoto-no-llm/bench-of-us) to [sh1ma/bench-of-us](https://github.com/sh1ma/bench-of-us)
   > みんなのローカルLLMベンチマーク結果をあつめるレポジトリ
 
+### [t-wy](https://github.com/t-wy)
+- 🌟 👤 [t-wy](https://github.com/t-wy) Starred [gorhill/uBlock](https://github.com/gorhill/uBlock)
+  > uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+
 ### [void-stack](https://github.com/void-stack)
 - 🌟 👤 [void-stack](https://github.com/void-stack) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -701,6 +753,10 @@
 - 🌟 👤 [x0rz4](https://github.com/x0rz4) Starred [Mangi-11/Eta](https://github.com/Mangi-11/Eta)
   > System-level Android AI Agent with direct OS access. | Android 系统级 AI Agent——越过沙盒，让模型访问底层API、屏幕、终端与你...
 
+### [xypron](https://github.com/xypron)
+- 🍴 👤 [xypron](https://github.com/xypron) Forked [rust-vmm/rust-vmm](https://github.com/rust-vmm/rust-vmm) to [xypron/rust-vmm](https://github.com/xypron/rust-vmm)
+  > The rust-vmm monorepo
+
 ### [yanyaoli](https://github.com/yanyaoli)
 - 🌟 👤 [yanyaoli](https://github.com/yanyaoli) Starred [M-3LAB/awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection)
   > Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库...
@@ -711,6 +767,10 @@
 - 🌟 👤 [ybdt](https://github.com/ybdt) Starred [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
   > Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for...
 
+### [yhirose](https://github.com/yhirose)
+- 🌟 👤 [yhirose](https://github.com/yhirose) Starred [bas3line/ascii](https://github.com/bas3line/ascii)
+  > Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag
+
 ### [zer0def](https://github.com/zer0def)
 - 🌟 👤 [zer0def](https://github.com/zer0def) Starred [grimdoomer/Xbox360PeerPressure](https://github.com/grimdoomer/Xbox360PeerPressure)
   > Persistent softmod exploit for Xbox 360
@@ -718,6 +778,8 @@
 ### [zhangyoufu](https://github.com/zhangyoufu)
 - 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
   > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+- 🌟 👤 [zhangyoufu](https://github.com/zhangyoufu) Starred [Chocobo1/bencode_online](https://github.com/Chocobo1/bencode_online)
+  > Bencode & bdecode in your browser
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
@@ -731,5 +793,5 @@
 
 
 ---
-*最后更新于 2026-10-07 18:30:30 UTC*
+*最后更新于 2026-10-07 23:27:12 UTC*
 *历史记录保存在 `archive` 目录中。*
