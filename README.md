@@ -42,6 +42,8 @@
 ### [AndnixSH](https://github.com/AndnixSH)
 - 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [Thijs2004/CyPort](https://github.com/Thijs2004/CyPort)
   > Run your own copy of Cyberpunk 2077 for Mac natively on iPhone and iPad (no game files included)
+- 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [alisaitteke/photoshop-mcp](https://github.com/alisaitteke/photoshop-mcp)
+  > MCP for Adobe Photoshop. 118 tools. Control from Cursor, Claude or custom LLMs.
 
 ### [AndreiKud](https://github.com/AndreiKud)
 - 🌟 👤 [AndreiKud](https://github.com/AndreiKud) Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
@@ -52,6 +54,14 @@
   > AI Passport iPhone Agent: let an AI model use a real iPhone with a FoloToy AI Passport as a Bluetoot...
 - 🚀 👤 [BlackHole1](https://github.com/BlackHole1) Made [BlackHole1/aliyun-role-switch](https://github.com/BlackHole1/aliyun-role-switch) public
 - 🌟 👤 [BlackHole1](https://github.com/BlackHole1) Starred [BlackHole1/aliyun-role-switch](https://github.com/BlackHole1/aliyun-role-switch)
+
+### [BlackZhangJX](https://github.com/BlackZhangJX)
+- 🌟 👤 [BlackZhangJX](https://github.com/BlackZhangJX) Starred [fmhy/FMHY](https://github.com/fmhy/FMHY)
+  > https://fmhy.net/
+- 🍴 👤 [BlackZhangJX](https://github.com/BlackZhangJX) Forked [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) to [BlackZhangJX/jianying-headless](https://github.com/BlackZhangJX/jianying-headless)
+  > Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.
+- 🌟 👤 [BlackZhangJX](https://github.com/BlackZhangJX) Starred [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless)
+  > Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.
 
 ### [Brinmon](https://github.com/Brinmon)
 - 🍴 👤 [Brinmon](https://github.com/Brinmon) Forked [googleprojectzero/winafl](https://github.com/googleprojectzero/winafl) to [Brinmon/winafl](https://github.com/Brinmon/winafl)
@@ -188,9 +198,17 @@
 - 🌟 👤 [MikaCybertron](https://github.com/MikaCybertron) Starred [Thijs2004/CyPort](https://github.com/Thijs2004/CyPort)
   > Run your own copy of Cyberpunk 2077 for Mac natively on iPhone and iPad (no game files included)
 
+### [Mikanoshi](https://github.com/Mikanoshi)
+- 🌟 👤 [Mikanoshi](https://github.com/Mikanoshi) Starred [medalzz/unshittify-discord](https://github.com/medalzz/unshittify-discord)
+  > A css discord theme to keep the modern design, while fixing most of its mistakes.
+
 ### [Mrmiaomrzh](https://github.com/Mrmiaomrzh)
 - 🌟 👤 [Mrmiaomrzh](https://github.com/Mrmiaomrzh) Starred [HenJigg/wpf-uidesign](https://github.com/HenJigg/wpf-uidesign)
   > 使用WPF创建的一些UI设计案例
+
+### [N3rdL0rd](https://github.com/N3rdL0rd)
+- 🌟 👤 [N3rdL0rd](https://github.com/N3rdL0rd) Starred [lemeryfertitta/BoardLib](https://github.com/lemeryfertitta/BoardLib)
+  > Utilities for interacting with climbing board APIs
 
 ### [PalmDevs](https://github.com/PalmDevs)
 - 🌟 👤 [PalmDevs](https://github.com/PalmDevs) Starred [madkarmaa/revenge-next-plugins](https://github.com/madkarmaa/revenge-next-plugins)
@@ -211,10 +229,6 @@
 ### [Pr0214](https://github.com/Pr0214)
 - 🌟 👤 [Pr0214](https://github.com/Pr0214) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
-
-### [Prslc](https://github.com/Prslc)
-- 🌟 👤 [Prslc](https://github.com/Prslc) Starred [bilibili/Index-Translate](https://github.com/bilibili/Index-Translate)
-  > A Multilingual, Multimodal Translation Model Family
 
 ### [ReiAccept](https://github.com/ReiAccept)
 - 🌟 👤 [ReiAccept](https://github.com/ReiAccept) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
@@ -255,6 +269,8 @@
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [chaosmaster/ford_selinux_permissive](https://github.com/chaosmaster/ford_selinux_permissive)
   > Kernel module to set selinux to permissive for ford (Amazon Fire 7" 2015)
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [HTC-Leo-Revival-Project/qemu-hd2](https://github.com/HTC-Leo-Revival-Project/qemu-hd2)
+  > Qemu HD2 target clanked by opus 5.5 curtesy of davigamer987 
 
 ### [SliverBullet5563](https://github.com/SliverBullet5563)
 - 🌟 👤 [SliverBullet5563](https://github.com/SliverBullet5563) Starred [morluto/rea](https://github.com/morluto/rea)
@@ -295,18 +311,6 @@
 - 🌟 👤 [XiaoliChan](https://github.com/XiaoliChan) Starred [jburgess-r7/CVE-2026-97229-PoC](https://github.com/jburgess-r7/CVE-2026-97229-PoC)
   >  GitLab CI lint integer-overflow RCE PoC for CVE-2026-97229, validated against the official 19.4.1 C...
 
-### [Xieansecn](https://github.com/Xieansecn)
-- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [CopilotKit/openmuse](https://github.com/CopilotKit/openmuse)
-  > A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit an...
-- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [AnkioTomas/qqpet](https://github.com/AnkioTomas/qqpet)
-  > QQ宠物单机复刻版(AI)
-- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [cyanmint/lkm4ctr](https://github.com/cyanmint/lkm4ctr)
-  > make docker availible on Android by instering a kernel module
-- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [MiForge/MiUnlockTool](https://github.com/MiForge/MiUnlockTool)
-  > MiUnlockTool developed to retrieve encryptData(token) for Xiaomi devices for unlocking bootloader, I...
-- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [mozilla/geckoview](https://github.com/mozilla/geckoview)
-  > GeckoView is a set of components for embedding Gecko in Android apps
-
 ### [YuroGod](https://github.com/YuroGod)
 - 🌟 👤 [YuroGod](https://github.com/YuroGod) Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)
   > Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown,...
@@ -314,6 +318,12 @@
 ### [afkT](https://github.com/afkT)
 - 🌟 👤 [afkT](https://github.com/afkT) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
+
+### [alex193a](https://github.com/alex193a)
+- 🍴 👤 [alex193a](https://github.com/alex193a) Forked [KernelSU-Next/KPatch-Next](https://github.com/KernelSU-Next/KPatch-Next) to [alex193a/KPatch-Next](https://github.com/alex193a/KPatch-Next)
+  > Standalone implementation of KPM support for Magisk/KernelSU
+- 🍴 👤 [alex193a](https://github.com/alex193a) Forked [KernelSU-Next/KPatch-Next-Module](https://github.com/KernelSU-Next/KPatch-Next-Module) to [alex193a/KPatch-Next-Module](https://github.com/alex193a/KPatch-Next-Module)
+  > Standalone implementation of KPM support for Magisk/KernelSU
 
 ### [androidmalin](https://github.com/androidmalin)
 - 🌟 👤 [androidmalin](https://github.com/androidmalin) Starred [yxxbc/downvid](https://github.com/yxxbc/downvid)
@@ -362,6 +372,8 @@
   > A cloudflare worker for serving as linksocks server
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle)
   > Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor an...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [woldann/exoproc](https://github.com/woldann/exoproc)
+  > Cross-process instrumentation for Windows x64 in TypeScript — hook functions, redirect threads, and ...
 
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [kshao0315/CheatCheck-Bot](https://github.com/kshao0315/CheatCheck-Bot)
@@ -404,6 +416,8 @@
   > A de-metaified Meta Glasses client.
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [orlp/polyxor](https://github.com/orlp/polyxor)
   > A 128-bit universal hash function designed for fast file/data stream integrity checks with cryptogra...
+- 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [whitecircle/rise](https://github.com/whitecircle/rise)
+  > RISE: Red-teaming via Iterative Strategy Evolution (NeurIPS 2026)
 
 ### [dzxpert](https://github.com/dzxpert)
 - 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [yuting0624/antigravity-for-claude-code](https://github.com/yuting0624/antigravity-for-claude-code)
@@ -412,6 +426,10 @@
 ### [einverne](https://github.com/einverne)
 - 🌟 👤 [einverne](https://github.com/einverne) Starred [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
   > An MCP-based chatbot | 一个基于MCP的聊天机器人
+
+### [ejpir](https://github.com/ejpir)
+- 🌟 👤 [ejpir](https://github.com/ejpir) Starred [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs)
+  > QuickJS, the Next Generation: a mighty JavaScript engine
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [whylurking/IsaacRecomp](https://github.com/whylurking/IsaacRecomp)
@@ -424,6 +442,12 @@
   > Open source SDK to build Muse gadgets
 - 🌟 👤 [everettjf](https://github.com/everettjf) Starred [OpenMinis/iCTRL](https://github.com/OpenMinis/iCTRL)
   > An AI-friendly iOS/iPadOS automation testing tool built on XCUITest, but more than a testing tool: a...
+
+### [fei-ke](https://github.com/fei-ke)
+- 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
+  > Windows alt-tab on macOS 
+- 🌟 👤 [fei-ke](https://github.com/fei-ke) Starred [filipef101/alt-tab-macos-free](https://github.com/filipef101/alt-tab-macos-free)
+  > AltTab with the Pro gating removed, rebuilt from upstream daily. GPL-3.0, in both directions.
 
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
@@ -518,6 +542,10 @@
 - 🌟 👤 [howmp](https://github.com/howmp) Starred [evi0s/WMPFDebugger](https://github.com/evi0s/WMPFDebugger)
   > Yet another WeChat Mini-Program Framework (WMPF) debugger
 
+### [huoji120](https://github.com/huoji120)
+- 🌟 👤 [huoji120](https://github.com/huoji120) Starred [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)
+  > TokenSpeed is a speed-of-light LLM inference engine.
+
 ### [imj01y](https://github.com/imj01y)
 - 🌟 👤 [imj01y](https://github.com/imj01y) Starred [magisk317/xinyi-relay](https://github.com/magisk317/xinyi-relay)
   > 信驿 Relay：Android 短信、应用通知与通话通知转发工具，支持多通道转发、规则过滤与自动迁移。
@@ -526,6 +554,10 @@
 - 🌟 👤 [imj01y](https://github.com/imj01y) Starred [z-mio/parse_hub_bot](https://github.com/z-mio/parse_hub_bot)
   > Telegram 多平台聚合解析机器人
 - 🌟 👤 [imj01y](https://github.com/imj01y) Starred [opencecs/pc-android-client](https://github.com/opencecs/pc-android-client)
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead)
+  > Hardware as fast as software.
 
 ### [j0nk0](https://github.com/j0nk0)
 - 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [atlas0fd00m/rfcat](https://github.com/atlas0fd00m/rfcat)
@@ -554,6 +586,10 @@
 ### [jpacg](https://github.com/jpacg)
 - 🌟 👤 [jpacg](https://github.com/jpacg) Starred [magisk317/xinyi-relay](https://github.com/magisk317/xinyi-relay)
   > 信驿 Relay：Android 短信、应用通知与通话通知转发工具，支持多通道转发、规则过滤与自动迁移。
+
+### [juliocesarfort](https://github.com/juliocesarfort)
+- 🌟 👤 [juliocesarfort](https://github.com/juliocesarfort) Starred [whitecircle/rise](https://github.com/whitecircle/rise)
+  > RISE: Red-teaming via Iterative Strategy Evolution (NeurIPS 2026)
 
 ### [jweny](https://github.com/jweny)
 - 🌟 👤 [jweny](https://github.com/jweny) Starred [Vineflower/vineflower](https://github.com/Vineflower/vineflower)
@@ -615,6 +651,10 @@
 - 🌟 👤 [lzghzr](https://github.com/lzghzr) Starred [maxsteeel/nomount](https://github.com/maxsteeel/nomount)
   > NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.
 
+### [m0nad](https://github.com/m0nad)
+- 🌟 👤 [m0nad](https://github.com/m0nad) Starred [ghostop14/sparrow-wifi](https://github.com/ghostop14/sparrow-wifi)
+  > Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
+
 ### [m4ll0k](https://github.com/m4ll0k)
 - 🍴 👤 [m4ll0k](https://github.com/m4ll0k) Forked [BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon) to [m4ll0k/Decepticon](https://github.com/m4ll0k/Decepticon)
   > Autonomous Hacking Agent for Red Team
@@ -625,11 +665,6 @@
 
 ### [meowette](https://github.com/meowette)
 - 🌟 👤 [meowette](https://github.com/meowette) Starred [tortoise-wow/tortoise-wow](https://github.com/tortoise-wow/tortoise-wow)
-
-### [miner7222](https://github.com/miner7222)
-- 🍴 👤 [miner7222](https://github.com/miner7222) Forked [Evolution-X/packages_apps_LineageParts](https://github.com/Evolution-X/packages_apps_LineageParts) to [Lenovo-SM8850/packages_apps_LineageParts](https://github.com/Lenovo-SM8850/packages_apps_LineageParts)
-- 🍴 👤 [miner7222](https://github.com/miner7222) Forked [Evolution-X/vendor_evolution](https://github.com/Evolution-X/vendor_evolution) to [Lenovo-SM8850/vendor_evolution](https://github.com/Lenovo-SM8850/vendor_evolution)
-  > #KeepEvolving
 
 ### [miunasu](https://github.com/miunasu)
 - 🌟 👤 [miunasu](https://github.com/miunasu) Starred [kweatherman/ida2pdb](https://github.com/kweatherman/ida2pdb)
@@ -720,6 +755,9 @@
 ### [realoriginal](https://github.com/realoriginal)
 - 🍴 👤 [realoriginal](https://github.com/realoriginal) Forked [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye) to [realoriginal/ntoseye](https://github.com/realoriginal/ntoseye)
   > WinDbg-like kernel debugger for Windows, from Linux and macOS
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [kweatherman/ida2pdb](https://github.com/kweatherman/ida2pdb)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [FazeCT/1-patch](https://github.com/FazeCT/1-patch)
+  > A static binary patcher using patches in high-level programming languages. Currently supports C/C++ ...
 
 ### [redbearder](https://github.com/redbearder)
 - 🌟 👤 [redbearder](https://github.com/redbearder) Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
@@ -787,10 +825,6 @@
 ### [summitt](https://github.com/summitt)
 - 🌟 👤 [summitt](https://github.com/summitt) Starred [stemdeckapp/stemdeck](https://github.com/stemdeckapp/stemdeck)
   > Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to is...
-
-### [surunzi](https://github.com/surunzi)
-- 🌟 👤 [surunzi](https://github.com/surunzi) Starred [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp)
-  > An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, ...
 
 ### [swigger](https://github.com/swigger)
 - 🍴 👤 [swigger](https://github.com/swigger) Forked [kjliew/qemu-3dfx](https://github.com/kjliew/qemu-3dfx) to [swigger/qemu-3dfx](https://github.com/swigger/qemu-3dfx)
@@ -899,5 +933,5 @@
 
 
 ---
-*最后更新于 2026-10-14 18:19:02 UTC*
+*最后更新于 2026-10-14 22:03:38 UTC*
 *历史记录保存在 `archive` 目录中。*
