@@ -112,6 +112,14 @@
 - 🌟 👤 [JasonWei512](https://github.com/JasonWei512) Starred [sal063/AC6_recomp](https://github.com/sal063/AC6_recomp)
   > static Recomp of AC6 with Rexglue
 
+### [Jobcrazy](https://github.com/Jobcrazy)
+- 🌟 👤 [Jobcrazy](https://github.com/Jobcrazy) Starred [Jobcrazy/YouXiDun](https://github.com/Jobcrazy/YouXiDun)
+  > 可私有化部署的游戏盾，提供源码级维护和应急响应
+
+### [JunioJsv](https://github.com/JunioJsv)
+- 🌟 👤 [JunioJsv](https://github.com/JunioJsv) Starred [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)
+  > Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo
+
 ### [KuLiPai](https://github.com/KuLiPai)
 - 🍴 👤 [KuLiPai](https://github.com/KuLiPai) Forked [cwuom/ono](https://github.com/cwuom/ono) to [KuLiPai/ono](https://github.com/KuLiPai/ono)
   > QQ, Now with Superpowers
@@ -181,6 +189,10 @@
 - 🌟 👤 [Prslc](https://github.com/Prslc) Starred [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer)
   > A native Android audio player that combines multi-source streaming, local control, rich lyrics, and ...
 
+### [ReiAccept](https://github.com/ReiAccept)
+- 🌟 👤 [ReiAccept](https://github.com/ReiAccept) Starred [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs)
+  > macOS: mount any linux-supported filesystem read/write using NFS and a microVM
+
 ### [Resery](https://github.com/Resery)
 - 🌟 👤 [Resery](https://github.com/Resery) Starred [ziplab/ATAS](https://github.com/ziplab/ATAS)
   > Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation
@@ -188,6 +200,10 @@
 ### [SeeFlowerX](https://github.com/SeeFlowerX)
 - 🌟 👤 [SeeFlowerX](https://github.com/SeeFlowerX) Starred [NEORUAA/HyperOS-AVD](https://github.com/NEORUAA/HyperOS-AVD)
   > HyperOS in the official ARM64 Android Studio Emulator
+
+### [Seyud](https://github.com/Seyud)
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [gungnir-sanye/tee-attestation-extraction](https://github.com/gungnir-sanye/tee-attestation-extraction)
+  > 面向授权研究的 Android TEE/KeyMint 认证材料提取与验证工程，覆盖 Keybox、RKP/CDI、证书链及后续扩展方案，记录原理、实践流水、补丁与镜像登记、验收规则和脱敏证据。
 
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [RRR3d/DarkSword](https://github.com/RRR3d/DarkSword)
@@ -222,6 +238,8 @@
 ### [VoidSec](https://github.com/VoidSec)
 - 🌟 👤 [VoidSec](https://github.com/VoidSec) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
+- 🌟 👤 [VoidSec](https://github.com/VoidSec) Starred [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap)
+  > Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 
 ### [WAY29](https://github.com/WAY29)
 - 🌟 👤 [WAY29](https://github.com/WAY29) Starred [leekt/skim](https://github.com/leekt/skim)
@@ -238,10 +256,6 @@
 ### [WuFengXue](https://github.com/WuFengXue)
 - 🌟 👤 [WuFengXue](https://github.com/WuFengXue) Starred [melomac/Hopper](https://github.com/melomac/Hopper)
   > Hopper Disassembler scripts for OS X
-
-### [Xieansecn](https://github.com/Xieansecn)
-- 🌟 👤 [Xieansecn](https://github.com/Xieansecn) Starred [RohitKushvaha01/ReTerminal](https://github.com/RohitKushvaha01/ReTerminal)
-  > A Simple Android Terminal Emulator
 
 ### [XtrLumen](https://github.com/XtrLumen)
 - 🌟 👤 [XtrLumen](https://github.com/XtrLumen) Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
@@ -265,6 +279,10 @@
 ### [ZJ595](https://github.com/ZJ595)
 - 🌟 👤 [ZJ595](https://github.com/ZJ595) Starred [525815266/YYB-Go-Enhanced](https://github.com/525815266/YYB-Go-Enhanced)
   > 应用宝协议服务，支持扫码登录、账号与 OpenID 管理、wx.login code 获取、Token 自动续期，以及 Docker 和青龙部署。
+
+### [ZeGerm4n](https://github.com/ZeGerm4n)
+- 🌟 👤 [ZeGerm4n](https://github.com/ZeGerm4n) Starred [wowemulation-dev/warcraft-rs](https://github.com/wowemulation-dev/warcraft-rs)
+  > Unified CLI tool for World of Warcraft file formats. Integrates file format libraries for parsing, c...
 
 ### [achuna33](https://github.com/achuna33)
 - 🌟 👤 [achuna33](https://github.com/achuna33) Starred [cha0upup/LeoAI](https://github.com/cha0upup/LeoAI)
@@ -318,16 +336,24 @@
   > Build a modern LLM from scratch. Every line commented. Explained like we are five.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bevyengine/bevy](https://github.com/bevyengine/bevy)
   > A refreshingly simple data-driven game engine built in Rust
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Eugeny/russh](https://github.com/Eugeny/russh)
+  > Rust SSH client & server library
 
 ### [c0r1](https://github.com/c0r1)
 - 🌟 👤 [c0r1](https://github.com/c0r1) Starred [1diot9/MyJavaSecStudy](https://github.com/1diot9/MyJavaSecStudy)
   > 在Java安全学习过程中的笔记和代码
+
+### [cctv18](https://github.com/cctv18)
+- 🌟 👤 [cctv18](https://github.com/cctv18) Starred [gungnir-sanye/tee-attestation-extraction](https://github.com/gungnir-sanye/tee-attestation-extraction)
+  > 面向授权研究的 Android TEE/KeyMint 认证材料提取与验证工程，覆盖 Keybox、RKP/CDI、证书链及后续扩展方案，记录原理、实践流水、补丁与镜像登记、验收规则和脱敏证据。
 
 ### [cli0xfa](https://github.com/cli0xfa)
 - 🌟 👤 [cli0xfa](https://github.com/cli0xfa) Starred [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
   > DeepSeek v4.1 flash 逆向工具（无限五代）     求 Star 收藏 ⭐欢迎大家提交项目的改进
 - 🌟 👤 [cli0xfa](https://github.com/cli0xfa) Starred [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
   > MCP Server for Computer Use in Windows
+- 🌟 👤 [cli0xfa](https://github.com/cli0xfa) Starred [scrt/KexecDDPlus](https://github.com/scrt/KexecDDPlus)
+  > Exploiting the KsecDD Windows driver through Server Silos
 
 ### [cn-kali-team](https://github.com/cn-kali-team)
 - 🌟 👤 [cn-kali-team](https://github.com/cn-kali-team) Starred [nats-nui/nui](https://github.com/nats-nui/nui)
@@ -395,6 +421,10 @@
 ### [enovella](https://github.com/enovella)
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [19h/eac-linux-devirt](https://github.com/19h/eac-linux-devirt) to [enovella/eac-linux-devirt](https://github.com/enovella/eac-linux-devirt)
 
+### [everettjf](https://github.com/everettjf)
+- 🌟 👤 [everettjf](https://github.com/everettjf) Starred [everettjf/crab-stick](https://github.com/everettjf/crab-stick)
+  > Open source SDK to build Muse gadgets
+
 ### [eversinc33](https://github.com/eversinc33)
 - 🌟 👤 [eversinc33](https://github.com/eversinc33) Starred [capt-meelo/loupe](https://github.com/capt-meelo/loupe)
   > Browser-based Android console, APK decompiler and security analyzer. Mirror, logcat, shell, Frida, j...
@@ -413,6 +443,7 @@
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Viktorianec/BinaryExplorer](https://github.com/Viktorianec/BinaryExplorer)
   > A native macOS app that takes an iOS .ipa apart — byte by byte — and shows you what's actually insid...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore)
 
 ### [fynch3r](https://github.com/fynch3r)
 - 🌟 👤 [fynch3r](https://github.com/fynch3r) Starred [seyedehsanhadi/sloptrim](https://github.com/seyedehsanhadi/sloptrim)
@@ -559,6 +590,12 @@
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [StartLuxLabs/StartLux-Decision](https://github.com/StartLuxLabs/StartLux-Decision)
   > Open decision models from 0.8B to 27B: a calibrated probability for every option in one pass, and a ...
 
+### [llsc12](https://github.com/llsc12)
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [FauxFoxIO/mlx-swift](https://github.com/FauxFoxIO/mlx-swift)
+  > Swift API for MLX
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift)
+  > Swift API for MLX
+
 ### [lmhMike](https://github.com/lmhMike)
 - 🌟 👤 [lmhMike](https://github.com/lmhMike) Starred [MDX-Tom/gpt-instruct](https://github.com/MDX-Tom/gpt-instruct)
   > A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。
@@ -658,6 +695,15 @@
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [fyzugx/DEsk](https://github.com/fyzugx/DEsk)
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [tabler/tabler-icons](https://github.com/tabler/tabler-icons)
   > A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [awxkee/jixel](https://github.com/awxkee/jixel)
+  > Tiny jxl encoder
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [cloudinary/ssimulacra2](https://github.com/cloudinary/ssimulacra2)
+  > SSIMULACRA 2. Perceptual metric.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [rust-av/ssimulacra2](https://github.com/rust-av/ssimulacra2)
+  > Rust implementation of the SSIMULACRA2 quality metric
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [gianni-rosato/aviator](https://github.com/gianni-rosato/aviator)
+  > A lightweight, Flatpak-first, easy-to-use GUI utility for encoding with SVT-AV1 & Opus.
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [jakearchibald/stacked-alpha-video](https://github.com/jakearchibald/stacked-alpha-video)
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Korben00/no-gdid](https://github.com/Korben00/no-gdid)
@@ -674,6 +720,12 @@
 ### [orionsheep](https://github.com/orionsheep)
 - 🌟 👤 [orionsheep](https://github.com/orionsheep) Starred [xunchahaha/alpha-releases](https://github.com/xunchahaha/alpha-releases)
   > Alpha releases
+
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [zsoltf/gr1-ui](https://github.com/zsoltf/gr1-ui)
+  > Redesigned UI for the Tasty Chips GR-1
+- 🌟 👤 [patois](https://github.com/patois) Starred [GiZcesi/OpenTricky](https://github.com/GiZcesi/OpenTricky)
+  > OpenTricky is an unofficial PC port of SSX Tricky, made by static recompilation. Bring your own disc...
 
 ### [penguin-wwy](https://github.com/penguin-wwy)
 - 🌟 👤 [penguin-wwy](https://github.com/penguin-wwy) Starred [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight)
@@ -865,6 +917,9 @@
 - 🌟 👤 [taisuii](https://github.com/taisuii) Starred [decrypthub/AndroidDecryptHub](https://github.com/decrypthub/AndroidDecryptHub)
   > Android runtime reverse analysis workbench
 
+### [techknowlogick](https://github.com/techknowlogick)
+- 🍴 👤 [techknowlogick](https://github.com/techknowlogick) Forked [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) to [tklk-forks/oss-scanner](https://github.com/tklk-forks/oss-scanner)
+
 ### [tiwe0](https://github.com/tiwe0)
 - 🍴 👤 [tiwe0](https://github.com/tiwe0) Forked [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) to [tiwe0/awesome-dsh-plugin](https://github.com/tiwe0/awesome-dsh-plugin)
   > A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
@@ -880,6 +935,16 @@
 ### [veritas501](https://github.com/veritas501)
 - 🌟 👤 [veritas501](https://github.com/veritas501) Starred [combeng6th/DirtyInit](https://github.com/combeng6th/DirtyInit)
   > One-touch, universal root for Samsung devices as u:r:init:s0
+
+### [w00tzenheimer](https://github.com/w00tzenheimer)
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [GrammaTech/gtirb-stack-stamp](https://github.com/GrammaTech/gtirb-stack-stamp)
+  > Apply ROP protection to a binary using binary rewriting with GTIRB
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [security-pride/BREWasm](https://github.com/security-pride/BREWasm)
+  > BREWasm: A general purpose static binary rewriting framework for Wasm.
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [buaa-hipo/BIRA](https://github.com/buaa-hipo/BIRA)
+  > BInary Rewriting for Arm
+- 🌟 👤 [w00tzenheimer](https://github.com/w00tzenheimer) Starred [GrammaTech/lifter-eval](https://github.com/GrammaTech/lifter-eval)
+  > Binary Analysis and Rewriting Tool Evaluation -- https://grammatech.gitlab.io/lifter-eval/
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [ac3ss0r/obfusheader.h](https://github.com/ac3ss0r/obfusheader.h)
@@ -993,5 +1058,5 @@
 
 
 ---
-*最后更新于 2026-10-16 19:21:02 UTC*
+*最后更新于 2026-10-16 22:34:40 UTC*
 *历史记录保存在 `archive` 目录中。*
