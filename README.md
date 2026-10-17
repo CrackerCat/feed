@@ -52,6 +52,10 @@
 - 🌟 👤 [DarkLineX](https://github.com/DarkLineX) Starred [gungnir-sanye/droidguard-d31-analyze](https://github.com/gungnir-sanye/droidguard-d31-analyze)
   > google droidguard d31 sample analyze
 
+### [DavidBuchanan314](https://github.com/DavidBuchanan314)
+- 🌟 👤 [DavidBuchanan314](https://github.com/DavidBuchanan314) Starred [FREESIDE-HOLDINGS-LTD/moooodotfarm](https://github.com/FREESIDE-HOLDINGS-LTD/moooodotfarm)
+  > Moooooonitoring the cow.txt herd.
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [ivan-hc/AM](https://github.com/ivan-hc/AM)
   > AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, ...
@@ -60,7 +64,7 @@
 
 ### [DeLuks2006](https://github.com/DeLuks2006)
 - 🌟 👤 [DeLuks2006](https://github.com/DeLuks2006) Starred [noahware/jaba](https://github.com/noahware/jaba)
-  > C++ library to stealthily hook Java methods
+  > C++ library interact with Java apps (including stealthy hooks)
 
 ### [Dispa1r](https://github.com/Dispa1r)
 - 🌟 👤 [Dispa1r](https://github.com/Dispa1r) Starred [0xjohnnydev/cryptsn0w](https://github.com/0xjohnnydev/cryptsn0w)
@@ -115,15 +119,23 @@
 - 🌟 👤 [KyuubiRan](https://github.com/KyuubiRan) Starred [sodahub-org/libmssdk](https://github.com/sodahub-org/libmssdk)
   > 汽水音乐应用签名服务：把官方客户端 bdms.node 封装成 HTTP/stdio 服务，为 libresoda 等 Linux 客户端提供 X-Helios / X-Medusa
 
+### [LasCC](https://github.com/LasCC)
+- 🌟 👤 [LasCC](https://github.com/LasCC) Starred [BoundaryML/baml](https://github.com/BoundaryML/baml)
+  > The programming language for agents
+
 ### [Lz1y](https://github.com/Lz1y)
 - 🌟 👤 [Lz1y](https://github.com/Lz1y) Starred [microsoft/aspire](https://github.com/microsoft/aspire)
   > Aspire is the tool for code-first, extensible, observable dev and deploy.
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Ernket/CodeScan-Artex](https://github.com/Ernket/CodeScan-Artex)
-  > 二开artex的代码审计平台 | 新增本地反编译java依赖库
+  > 二开artex的代码审计平台 | 新增本地反编译java依赖库 | 多账号管理
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry)
   > ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discover...
+
+### [MrIkso](https://github.com/MrIkso)
+- 🌟 👤 [MrIkso](https://github.com/MrIkso) Starred [CAPCOM-TD-OSS/REDox](https://github.com/CAPCOM-TD-OSS/REDox)
+  > High-performance, token-based structured data engine for .NET. A core component of REX, the technolo...
 
 ### [NativeStar](https://github.com/NativeStar)
 - 🍴 👤 [NativeStar](https://github.com/NativeStar) Forked [lswlc33/edge_download_change](https://github.com/lswlc33/edge_download_change) to [NativeStar/edge_download_change](https://github.com/NativeStar/edge_download_change)
@@ -177,6 +189,10 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [xtool-org/xtool](https://github.com/xtool-org/xtool)
   > Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 
+### [WerWolv](https://github.com/WerWolv)
+- 🌟 👤 [WerWolv](https://github.com/WerWolv) Starred [antirez/c64-hw-simulator](https://github.com/antirez/c64-hw-simulator)
+  > Commodore 64 hardware simulator
+
 ### [WindowsAddict](https://github.com/WindowsAddict)
 - 🌟 👤 [WindowsAddict](https://github.com/WindowsAddict) Starred [KiFilterFiberContext/microsoft-warbird](https://github.com/KiFilterFiberContext/microsoft-warbird)
   > Reimplementation of Microsoft's Warbird obuscator
@@ -204,6 +220,8 @@
   > Changes and Spoofs the value used to display the GPU's Name
 - 🌟 👤 [armxe](https://github.com/armxe) Starred [armxe/rednote-xiaohongshu-sign](https://github.com/armxe/rednote-xiaohongshu-sign)
   > signature gen for rednote / xiaohongshu (XHS) web, pure python, no browser
+- 🌟 👤 [armxe](https://github.com/armxe) Starred [armxe/perimeter-x-reverse](https://github.com/armxe/perimeter-x-reverse)
+  > Perimeter X , Reverse Engineered and documented.
 
 ### [aviraxp](https://github.com/aviraxp)
 - 🍴 👤 [aviraxp](https://github.com/aviraxp) Forked [eltavine/Duck-ToolBox](https://github.com/eltavine/Duck-ToolBox) to [aviraxp/Duck-ToolBox](https://github.com/aviraxp/Duck-ToolBox)
@@ -240,14 +258,6 @@
 - 🌟 👤 [chinleez](https://github.com/chinleez) Starred [MG1937/rust_ASC](https://github.com/MG1937/rust_ASC)
   > Rust ASC is a super FAST and lightweight Android decompiler designed for Agents/Mobile Researchers.
 
-### [cwuom](https://github.com/cwuom)
-- 🌟 👤 [cwuom](https://github.com/cwuom) Starred [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)
-  > A real browser inside your terminal
-
-### [dbalsom](https://github.com/dbalsom)
-- 🌟 👤 [dbalsom](https://github.com/dbalsom) Starred [ioncodes/sly](https://github.com/ioncodes/sly)
-  > A modern multi-system emulator and debugger written in Rust. Supports Windows, Linux, macOS, Browser...
-
 ### [djkaty](https://github.com/djkaty)
 - 🌟 👤 [djkaty](https://github.com/djkaty) Starred [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x)
   > DOSBox-X fork of the DOSBox project
@@ -256,13 +266,9 @@
 - 🍴 👤 [djskncxm](https://github.com/djskncxm) Forked [gungnir-sanye/tee-attestation-extraction](https://github.com/gungnir-sanye/tee-attestation-extraction) to [djskncxm/tee-attestation-extraction](https://github.com/djskncxm/tee-attestation-extraction)
   > 面向授权研究的 Android TEE/KeyMint 认证材料提取与验证工程，覆盖 Keybox、RKP/CDI、证书链及后续扩展方案，记录原理、实践流水、补丁与镜像登记、验收规则和脱敏证据。
 
-### [dofastted](https://github.com/dofastted)
-- 🌟 👤 [dofastted](https://github.com/dofastted) Starred [zzusec/forkiq](https://github.com/zzusec/forkiq)
-  > GitHub fork 同步面板：自动发现、安全合并、版本对比与事件追踪
-
-### [doronz88](https://github.com/doronz88)
-- 🌟 👤 [doronz88](https://github.com/doronz88) Starred [doronz88/bytestruct](https://github.com/doronz88/bytestruct)
-  > Typed, dependency-free binary records and codecs on top of struct
+### [dodola](https://github.com/dodola)
+- 🌟 👤 [dodola](https://github.com/dodola) Starred [mu-zi-lee/Tangentry](https://github.com/mu-zi-lee/Tangentry)
+  > 沿着好奇心继续发现 —— 本地优先的多平台内容聚合、阅读与笔记工具
 
 ### [dqzg12300](https://github.com/dqzg12300)
 - 🌟 👤 [dqzg12300](https://github.com/dqzg12300) Starred [gungnir-sanye/tee-attestation-extraction](https://github.com/gungnir-sanye/tee-attestation-extraction)
@@ -279,6 +285,9 @@
   > A command-line tool that makes git easier to use with GitHub.
 - 🌟 👤 [dwisiswant0](https://github.com/dwisiswant0) Starred [tmc/keyring](https://github.com/tmc/keyring)
   > keyring provides a cross-platform keychain/keyring interface
+
+### [dzxpert](https://github.com/dzxpert)
+- 🌟 👤 [dzxpert](https://github.com/dzxpert) Starred [2fxbu97lhv/spectrum-ida-theme](https://github.com/2fxbu97lhv/spectrum-ida-theme)
 
 ### [easychen](https://github.com/easychen)
 - 🌟 👤 [easychen](https://github.com/easychen) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
@@ -349,9 +358,6 @@
 - 🌟 👤 [guoshan-yang](https://github.com/guoshan-yang) Starred [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
   > A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy e...
 
-### [h4sh5](https://github.com/h4sh5)
-- 🍴 👤 [h4sh5](https://github.com/h4sh5) Forked [zeroproj/OpenPod](https://github.com/zeroproj/OpenPod) to [h4sh5/OpenPod-yp3](https://github.com/h4sh5/OpenPod-yp3)
-
 ### [haikow](https://github.com/haikow)
 - 🌟 👤 [haikow](https://github.com/haikow) Starred [CreditTone/hooker](https://github.com/CreditTone/hooker)
   > 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, u...
@@ -366,6 +372,10 @@
 
 ### [hyuunnn](https://github.com/hyuunnn)
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [google-research/harness2](https://github.com/google-research/harness2)
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [cschalle/hw-harness](https://github.com/cschalle/hw-harness)
+  > Small set of tools for helping with reverse engineering Linux drivers
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [eecs498-aase/materials](https://github.com/eecs498-aase/materials)
+  > Lecture and lab slides for EECS 498 AASE (Applied Agentic Software Engineering), UMich Fall 2026
 
 ### [iamr0s](https://github.com/iamr0s)
 - 🍴 👤 [iamr0s](https://github.com/iamr0s) Forked [blacktop/ipsw-diffs](https://github.com/blacktop/ipsw-diffs) to [iamr0s/ipsw-diffs](https://github.com/iamr0s/ipsw-diffs)
@@ -417,6 +427,10 @@
 - 🍴 👤 [kaganisildak](https://github.com/kaganisildak) Forked [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) to [kaganisildak/unidbg](https://github.com/kaganisildak/unidbg)
   > Allows you to emulate an Android native library, and an experimental  iOS emulation
 - 🌟 👤 [kaganisildak](https://github.com/kaganisildak) Starred [hrtowii/lycorine-public](https://github.com/hrtowii/lycorine-public)
+- 🌟 👤 [kaganisildak](https://github.com/kaganisildak) Starred [Leviidev/Husk](https://github.com/Leviidev/Husk)
+  > Run Android on iOS. Natively or Emulated.
+- 🍴 👤 [kaganisildak](https://github.com/kaganisildak) Forked [Leviidev/Husk](https://github.com/Leviidev/Husk) to [kaganisildak/Husk](https://github.com/kaganisildak/Husk)
+  > Run Android on iOS. Natively or Emulated.
 
 ### [kingking888](https://github.com/kingking888)
 - 🌟 👤 [kingking888](https://github.com/kingking888) Starred [LOWERTOP/Shadowrocket](https://github.com/LOWERTOP/Shadowrocket)
@@ -429,6 +443,18 @@
 ### [libra146](https://github.com/libra146)
 - 🌟 👤 [libra146](https://github.com/libra146) Starred [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
   > 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do i...
+
+### [linuxmobile](https://github.com/linuxmobile)
+- 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [reprise-project/reprise-desktop](https://github.com/reprise-project/reprise-desktop)
+  > Desktops peaked a while ago. We're not over it.
+- 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [KristenJestin/poste](https://github.com/KristenJestin/poste)
+  > My Arch Linux and Omarchy setup, rebuilt in Rust. Hyprland config, a Quickshell island, and small mo...
+- 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [KunalSiyag/gpu-recorder-rs](https://github.com/KunalSiyag/gpu-recorder-rs)
+  > Screen recorder for Linux Wayland, written in Rust, whose camera follows your cursor. Rootless DRM c...
+- 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [kierangraham/omalive](https://github.com/kierangraham/omalive)
+  > Clean up your microphone and colour-grade your camera for calls on Omarchy, with a bar widget
+- 🌟 👤 [linuxmobile](https://github.com/linuxmobile) Starred [marcusramberg/springchick](https://github.com/marcusramberg/springchick)
+  > A Wayland compositor for Linux phones, written in rust with Smithay and Skia
 
 ### [linxid](https://github.com/linxid)
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [razorback16/openjev](https://github.com/razorback16/openjev)
@@ -476,6 +502,10 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [akatz-labs/h3-character-swap-tool](https://github.com/akatz-labs/h3-character-swap-tool)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ibragim-bad/evals-from-sessions](https://github.com/ibragim-bad/evals-from-sessions)
   > Turn your coding-agent sessions into private evals and find the cheapest setup that still solves you...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [2fxbu97lhv/spectrum-ida-theme](https://github.com/2fxbu97lhv/spectrum-ida-theme)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [google-research/harness2](https://github.com/google-research/harness2)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Awakenchan/BloodBorneButPc](https://github.com/Awakenchan/BloodBorneButPc)
+  > Bloodborne on Windows in one package: launcher and engine. Bring your own game dump.
 
 ### [nilaoda](https://github.com/nilaoda)
 - 🌟 👤 [nilaoda](https://github.com/nilaoda) Starred [baocode-dev/baocode](https://github.com/baocode-dev/baocode)
@@ -551,6 +581,10 @@
 - 🌟 👤 [satan1a](https://github.com/satan1a) Starred [iced-rs/iced](https://github.com/iced-rs/iced)
   > A cross-platform GUI library for Rust, inspired by Elm
 
+### [sekaiacg](https://github.com/sekaiacg)
+- 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [eltavine/Duck-ToolBox](https://github.com/eltavine/Duck-ToolBox)
+  > KernelSU Module
+
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [storytold/effectcraft](https://github.com/storytold/effectcraft)
   > EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust
@@ -559,6 +593,14 @@
 - 🌟 👤 [shunix](https://github.com/shunix) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
+### [sisoma2](https://github.com/sisoma2)
+- 🌟 👤 [sisoma2](https://github.com/sisoma2) Starred [baglayan/acouplet](https://github.com/baglayan/acouplet)
+  > Native macOS menu-bar controller for Sony Bluetooth audio devices, with LDAC playback
+- 🌟 👤 [sisoma2](https://github.com/sisoma2) Starred [fodaveg/acouplet](https://github.com/fodaveg/acouplet)
+  > Native macOS menu-bar controller for Sony Bluetooth audio devices, with LDAC playback
+- 🍴 👤 [sisoma2](https://github.com/sisoma2) Forked [fodaveg/acouplet](https://github.com/fodaveg/acouplet) to [sisoma2/acouplet](https://github.com/sisoma2/acouplet)
+  > Native macOS menu-bar controller for Sony Bluetooth audio devices, with LDAC playback
+
 ### [slwyts](https://github.com/slwyts)
 - 🌟 👤 [slwyts](https://github.com/slwyts) Starred [Hoshino-Yumetsuki/koishi-plugin-bili-tarot](https://github.com/Hoshino-Yumetsuki/koishi-plugin-bili-tarot)
 - 🌟 👤 [slwyts](https://github.com/slwyts) Starred [GMWalletApp/eip7702](https://github.com/GMWalletApp/eip7702)
@@ -566,6 +608,10 @@
 ### [sunface](https://github.com/sunface)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [momentchan/false-earth](https://github.com/momentchan/false-earth)
 - 🌟 👤 [sunface](https://github.com/sunface) Starred [luhaobin-lab/woodland-pizzeria-3d](https://github.com/luhaobin-lab/woodland-pizzeria-3d)
+
+### [swigger](https://github.com/swigger)
+- 🍴 👤 [swigger](https://github.com/swigger) Forked [librekeys/pico-fido2](https://github.com/librekeys/pico-fido2) to [swigger/pico-fido2](https://github.com/swigger/pico-fido2)
+  > Pico Fido + Pico OpenPGP
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [nekohasekai/open-screen-sharing](https://github.com/nekohasekai/open-screen-sharing)
@@ -609,6 +655,10 @@
 - 🍴 👤 [youyao666](https://github.com/youyao666) Forked [10dian-ai/cpa-nexus](https://github.com/10dian-ai/cpa-nexus) to [youyao666/cpa-nexus](https://github.com/youyao666/cpa-nexus)
   > CPA Nexus · 基于 CLIProxyAPI 的模块化 AI 管理平台，支持 GOAT 官方 API 账号池与实时官方目录。
 
+### [zacbre](https://github.com/zacbre)
+- 🌟 👤 [zacbre](https://github.com/zacbre) Starred [andrewnakas/skate3-quest-ar](https://github.com/andrewnakas/skate3-quest-ar)
+  > Skate 3 Rust engine on Meta Quest 3 in passthrough AR: a miniature skater in your room
+
 ### [zensu357](https://github.com/zensu357)
 - 🌟 👤 [zensu357](https://github.com/zensu357) Starred [TG-Twilight/c001apk](https://github.com/TG-Twilight/c001apk)
   > 一个轻量的非官方酷安客户端
@@ -623,14 +673,6 @@
 - 🍴 👤 [zhangyoufu](https://github.com/zhangyoufu) Forked [NaGaa95/sphaira](https://github.com/NaGaa95/sphaira) to [zhangyoufu/sphaira](https://github.com/zhangyoufu/sphaira)
   > A homebrew menu for the Nintendo Switch
 
-### [zhaoboy9692](https://github.com/zhaoboy9692)
-- 🌟 👤 [zhaoboy9692](https://github.com/zhaoboy9692) Starred [LazyBonesLZY/rkp-v1-oracle](https://github.com/LazyBonesLZY/rkp-v1-oracle)
-  > On-device Google keybox provisioner for V1-only Qualcomm KeyMint firmware (PureSoft HBK=0 signing or...
-- 🍴 👤 [zhaoboy9692](https://github.com/zhaoboy9692) Forked [LazyBonesLZY/rkp-v1-oracle](https://github.com/LazyBonesLZY/rkp-v1-oracle) to [NewSpongeBob/rkp-v1-oracle](https://github.com/NewSpongeBob/rkp-v1-oracle)
-  > On-device Google keybox provisioner for V1-only Qualcomm KeyMint firmware (PureSoft HBK=0 signing or...
-- 🍴 👤 [zhaoboy9692](https://github.com/zhaoboy9692) Forked [EchoPing07/Qoder-2API-Go](https://github.com/EchoPing07/Qoder-2API-Go) to [zhaoboy9692/Qoder-2API-Go](https://github.com/zhaoboy9692/Qoder-2API-Go)
-  > 将 Qoder 的 AI 服务转化为兼容 Openai 格式的 API
-
 ### [zinja-coder](https://github.com/zinja-coder)
 - 🌟 👤 [zinja-coder](https://github.com/zinja-coder) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -643,5 +685,5 @@
 
 
 ---
-*最后更新于 2026-10-17 18:11:53 UTC*
+*最后更新于 2026-10-17 21:15:30 UTC*
 *历史记录保存在 `archive` 目录中。*
