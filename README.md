@@ -17,6 +17,25 @@
   > Disable PatchGuard and Driver Signature Enforcement at boot time
 - 🌟 👤 [Admirepowered](https://github.com/Admirepowered) Starred [MistyFir/CVE-2024-21338-Exploit](https://github.com/MistyFir/CVE-2024-21338-Exploit)
 
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [tangency-labs/solidcore](https://github.com/tangency-labs/solidcore)
+  > A Rust port of NVIDIA's SMLib B-rep kernel (CAD subset): safe, deterministic, wasm-compatible
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
+  > SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and autom...
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [storytold/cadcraft](https://github.com/storytold/cadcraft)
+  > CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure ...
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [storytold/soundcraft](https://github.com/storytold/soundcraft)
+  > An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [storytold/figcraft](https://github.com/storytold/figcraft)
+  > FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collabora...
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [storytold/deckcraft](https://github.com/storytold/deckcraft)
+  > Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint i...
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [storytold/designcraft](https://github.com/storytold/designcraft)
+  > DesignCraft: An open-source page and layout design editor written by scratch in pure Rust
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [storytold/gridcraft](https://github.com/storytold/gridcraft)
+  > GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [liseami/CCBaga](https://github.com/liseami/CCBaga)
+
 ### [AndnixSH](https://github.com/AndnixSH)
 - 🌟 👤 [AndnixSH](https://github.com/AndnixSH) Starred [K0lb3/UnityPy](https://github.com/K0lb3/UnityPy)
   > UnityPy is python module that makes it possible to extract/unpack and edit Unity assets
@@ -41,6 +60,9 @@
 
 ### [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut)
 - 🌟 👤 [ChrisTheCoolHut](https://github.com/ChrisTheCoolHut) Starred [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore)
+
+### [Col-E](https://github.com/Col-E)
+- 🍴 👤 [Col-E](https://github.com/Col-E) Forked [openjfx/openjfx.github.io](https://github.com/openjfx/openjfx.github.io) to [Col-E/openjfx.github.io](https://github.com/Col-E/openjfx.github.io)
 
 ### [ColdWindScholar](https://github.com/ColdWindScholar)
 - 🌟 👤 [ColdWindScholar](https://github.com/ColdWindScholar) Starred [denialwm/teto](https://github.com/denialwm/teto)
@@ -77,6 +99,8 @@
   > Identifies the bytes that Microsoft Defender flags on.
 - 🍴 👤 [Dump-GUY](https://github.com/Dump-GUY) Forked [matterpreter/DefenderCheck](https://github.com/matterpreter/DefenderCheck) to [Dump-GUY/DefenderCheck](https://github.com/Dump-GUY/DefenderCheck)
   > Identifies the bytes that Microsoft Defender flags on.
+- 🌟 👤 [Dump-GUY](https://github.com/Dump-GUY) Starred [rasta-mouse/ThreatCheck](https://github.com/rasta-mouse/ThreatCheck)
+  > Identifies the bytes that Microsoft Defender  / AMSI Consumer flags on.
 
 ### [Dy-Baby](https://github.com/Dy-Baby)
 - 🌟 👤 [Dy-Baby](https://github.com/Dy-Baby) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
@@ -92,10 +116,6 @@
   > DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts pe...
 - 🌟 👤 [Gegenbauer](https://github.com/Gegenbauer) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
-
-### [HSSkyBoy](https://github.com/HSSkyBoy)
-- 🌟 👤 [HSSkyBoy](https://github.com/HSSkyBoy) Starred [LaoYutang/lytvpk](https://github.com/LaoYutang/lytvpk)
-  > L4D2 MOD管理器
 
 ### [ITxiao6666](https://github.com/ITxiao6666)
 - 🌟 👤 [ITxiao6666](https://github.com/ITxiao6666) Starred [LazyBonesLZY/rkp-v1-oracle](https://github.com/LazyBonesLZY/rkp-v1-oracle)
@@ -180,6 +200,8 @@
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [totsiaw/cve-2026-64560-rmx6699](https://github.com/totsiaw/cve-2026-64560-rmx6699)
   > CVE-2026-64560 temporary-root exploit for realme RMX6699 (Snapdragon 8 Elite, kernel 6.6.118, Androi...
+- 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [cnrenil/DirtyFrag](https://github.com/cnrenil/DirtyFrag)
+  > Ephemeral root via the CVE-2026-43284 page-cache exploit
 
 ### [Smooth-E](https://github.com/Smooth-E)
 - 🍴 👤 [Smooth-E](https://github.com/Smooth-E) Forked [poetaster/harbour-clipper](https://github.com/poetaster/harbour-clipper) to [salty-smoothie/aurora-videoworks](https://github.com/salty-smoothie/aurora-videoworks)
@@ -249,6 +271,10 @@
   > Build your own AI SRE agents. The open source toolkit for the AI era.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [emilk/egui](https://github.com/emilk/egui)
   > egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [jyjblrd/single-propeller-drone](https://github.com/jyjblrd/single-propeller-drone)
+  > Under-actuated drone with only one motor
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [jyjblrd/S4_Slicer](https://github.com/jyjblrd/S4_Slicer)
+  > Generic Non-Planar Slicer
 
 ### [chf007](https://github.com/chf007)
 - 🌟 👤 [chf007](https://github.com/chf007) Starred [deskmind-ai/deskmind](https://github.com/deskmind-ai/deskmind)
@@ -257,6 +283,10 @@
 ### [chinleez](https://github.com/chinleez)
 - 🌟 👤 [chinleez](https://github.com/chinleez) Starred [MG1937/rust_ASC](https://github.com/MG1937/rust_ASC)
   > Rust ASC is a super FAST and lightweight Android decompiler designed for Agents/Mobile Researchers.
+
+### [daaximus](https://github.com/daaximus)
+- 🍴 👤 [daaximus](https://github.com/daaximus) Forked [mrexodia/toilet-pi](https://github.com/mrexodia/toilet-pi) to [daaximus/toilet-pi](https://github.com/daaximus/toilet-pi)
+  > Control pi sessions across machines with your browser (or mobile PWA).
 
 ### [djkaty](https://github.com/djkaty)
 - 🌟 👤 [djkaty](https://github.com/djkaty) Starred [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x)
@@ -330,6 +360,10 @@
 - 🌟 👤 [foospidy](https://github.com/foospidy) Starred [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
   > Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects sca...
 
+### [funap](https://github.com/funap)
+- 🌟 👤 [funap](https://github.com/funap) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
+
 ### [fyrlove](https://github.com/fyrlove)
 - 🍴 👤 [fyrlove](https://github.com/fyrlove) Forked [gungnir-sanye/tee-attestation-extraction](https://github.com/gungnir-sanye/tee-attestation-extraction) to [fyrlove/tee-attestation-extraction](https://github.com/fyrlove/tee-attestation-extraction)
   > 面向授权研究的 Android TEE/KeyMint 认证材料提取与验证工程，覆盖 Keybox、RKP/CDI、证书链及后续扩展方案，记录原理、实践流水、补丁与镜像登记、验收规则和脱敏证据。
@@ -383,6 +417,10 @@
 - 🍴 👤 [iamr0s](https://github.com/iamr0s) Forked [blacktop/ipsw](https://github.com/blacktop/ipsw) to [iamr0s/ipsw](https://github.com/iamr0s/ipsw)
   > iOS/macOS Research Swiss Army Knife
 
+### [iraizo](https://github.com/iraizo)
+- 🌟 👤 [iraizo](https://github.com/iraizo) Starred [numtide/iets](https://github.com/numtide/iets)
+  > Fast Nix evaluator and remote-build client in Rust
+
 ### [je5442804](https://github.com/je5442804)
 - 🌟 👤 [je5442804](https://github.com/je5442804) Starred [frenzymath/HolomorphicAnosov](https://github.com/frenzymath/HolomorphicAnosov)
 
@@ -432,6 +470,10 @@
 - 🍴 👤 [kaganisildak](https://github.com/kaganisildak) Forked [Leviidev/Husk](https://github.com/Leviidev/Husk) to [kaganisildak/Husk](https://github.com/kaganisildak/Husk)
   > Run Android on iOS. Natively or Emulated.
 
+### [kekeimiku](https://github.com/kekeimiku)
+- 🍴 👤 [kekeimiku](https://github.com/kekeimiku) Forked [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT) to [kekeimiku/LuaJIT](https://github.com/kekeimiku/LuaJIT)
+  > Mirror of the LuaJIT git repository
+
 ### [kingking888](https://github.com/kingking888)
 - 🌟 👤 [kingking888](https://github.com/kingking888) Starred [LOWERTOP/Shadowrocket](https://github.com/LOWERTOP/Shadowrocket)
   > Shadowrocket 使用手册 补完计划
@@ -463,6 +505,10 @@
 ### [lizhangqu](https://github.com/lizhangqu)
 - 🌟 👤 [lizhangqu](https://github.com/lizhangqu) Starred [gujjwal00/avnc](https://github.com/gujjwal00/avnc)
   > VNC Client for Android
+
+### [llsc12](https://github.com/llsc12)
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)
+  > Empowering everyone to host fast and efficient Minecraft servers
 
 ### [lqqyt2423](https://github.com/lqqyt2423)
 - 🌟 👤 [lqqyt2423](https://github.com/lqqyt2423) Starred [TencentCloud/Octop](https://github.com/TencentCloud/Octop)
@@ -506,6 +552,14 @@
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [google-research/harness2](https://github.com/google-research/harness2)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Awakenchan/BloodBorneButPc](https://github.com/Awakenchan/BloodBorneButPc)
   > Bloodborne on Windows in one package: launcher and engine. Bring your own game dump.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vincalkr/Strata-DSV4.1](https://github.com/vincalkr/Strata-DSV4.1)
+  > DeepSeek-V4.1-Flash GSQ on a single RX 7900 XTX (gfx1100, ROCm/HIP): the v41 engine, the optimizatio...
+
+### [muhammadrizwan87](https://github.com/muhammadrizwan87)
+- 🌟 👤 [muhammadrizwan87](https://github.com/muhammadrizwan87) Starred [frida/frida](https://github.com/frida/frida)
+  > Main repo for hosting release binaries
+- 🌟 👤 [muhammadrizwan87](https://github.com/muhammadrizwan87) Starred [radareorg/radare2](https://github.com/radareorg/radare2)
+  > UNIX-like reverse engineering framework and command-line toolset
 
 ### [nilaoda](https://github.com/nilaoda)
 - 🌟 👤 [nilaoda](https://github.com/nilaoda) Starred [baocode-dev/baocode](https://github.com/baocode-dev/baocode)
@@ -520,6 +574,10 @@
   > Qt 6 Wayland screenshot selection and annotation tool
 - 🌟 👤 [noxke](https://github.com/noxke) Starred [maharmstone/btrfs](https://github.com/maharmstone/btrfs)
   > WinBtrfs - an open-source btrfs driver for Windows
+
+### [null-dev](https://github.com/null-dev)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [NVIDIA/egl-x11](https://github.com/NVIDIA/egl-x11)
+  > The X11/XCB external platform library
 
 ### [oureveryday](https://github.com/oureveryday)
 - 🌟 👤 [oureveryday](https://github.com/oureveryday) Starred [radicle-dev/radicle-gui](https://github.com/radicle-dev/radicle-gui)
@@ -584,6 +642,10 @@
 ### [sekaiacg](https://github.com/sekaiacg)
 - 🌟 👤 [sekaiacg](https://github.com/sekaiacg) Starred [eltavine/Duck-ToolBox](https://github.com/eltavine/Duck-ToolBox)
   > KernelSU Module
+
+### [seritools](https://github.com/seritools)
+- 🌟 👤 [seritools](https://github.com/seritools) Starred [SupraGSX/Forceware-382.69](https://github.com/SupraGSX/Forceware-382.69)
+  > Custom NVIDIA 368.81-based XP 32-bit driver with Maxwell/Pascal desktop additions, OpenGL and comput...
 
 ### [sh1ma](https://github.com/sh1ma)
 - 🌟 👤 [sh1ma](https://github.com/sh1ma) Starred [storytold/effectcraft](https://github.com/storytold/effectcraft)
@@ -685,5 +747,5 @@
 
 
 ---
-*最后更新于 2026-10-17 21:15:30 UTC*
+*最后更新于 2026-10-17 23:46:57 UTC*
 *历史记录保存在 `archive` 目录中。*
