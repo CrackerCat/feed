@@ -100,6 +100,10 @@
 - 🌟 👤 [Hackl0us](https://github.com/Hackl0us) Starred [Mosaibah/oreilly-ingest](https://github.com/Mosaibah/oreilly-ingest)
   > Oreilly Downloader (PDF, EPUB, Markdown, JSON, Text)
 
+### [ITxiao6666](https://github.com/ITxiao6666)
+- 🌟 👤 [ITxiao6666](https://github.com/ITxiao6666) Starred [gungnir-sanye/tee-attestation-extraction](https://github.com/gungnir-sanye/tee-attestation-extraction)
+  > Android TEE/KeyMint 技术研究：Keybox 与 RKP/DICE 原理、三台设备实践记录和验证方法 | Android TEE/KeyMint research notes on ...
+
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [TGP482/BLACK-XBERecomp](https://github.com/TGP482/BLACK-XBERecomp)
   > An unofficial original Xbox version PC port of BLACK (2006) via static recompilation.
@@ -114,13 +118,13 @@
 - 🌟 👤 [KHwang9883](https://github.com/KHwang9883) Starred [SpeedBreakerProject/speedbreaker](https://github.com/SpeedBreakerProject/speedbreaker)
   > Unofficial static recompilation of the Xbox 360 version of Need for Speed: Most Wanted (2005): a nat...
 
+### [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
+- 🌟 👤 [KagurazakaHanabi](https://github.com/KagurazakaHanabi) Starred [schlae/cm5-reveng](https://github.com/schlae/cm5-reveng)
+  > Reverse engineered Raspberry Pi Compute Module 5
+
 ### [KpLi0rn](https://github.com/KpLi0rn)
 - 🌟 👤 [KpLi0rn](https://github.com/KpLi0rn) Starred [QiantangCredit/heimdall-agent](https://github.com/QiantangCredit/heimdall-agent)
   > An autonomous AI agent framework for authorized CTF and security labs
-
-### [KuLiPai](https://github.com/KuLiPai)
-- 🌟 👤 [KuLiPai](https://github.com/KuLiPai) Starred [LSPosed/dexsql-release](https://github.com/LSPosed/dexsql-release)
-  > SQL for Android apk and dex files
 
 ### [KuNgia09](https://github.com/KuNgia09)
 - 🌟 👤 [KuNgia09](https://github.com/KuNgia09) Starred [morluto/rea](https://github.com/morluto/rea)
@@ -195,6 +199,8 @@
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [eltavine/Duck-ToolBox](https://github.com/eltavine/Duck-ToolBox)
   > KernelSU Module
+- 🌟 👤 [Seyud](https://github.com/Seyud) Starred [wwweeeqqu/KPatch-Next-sgame](https://github.com/wwweeeqqu/KPatch-Next-sgame)
+  > Standalone implementation of KPM support for Magisk/KernelSU
 
 ### [Skorpion96](https://github.com/Skorpion96)
 - 🌟 👤 [Skorpion96](https://github.com/Skorpion96) Starred [mitschud/DirtyFrag](https://github.com/mitschud/DirtyFrag)
@@ -297,6 +303,8 @@
   > Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)
   > Standalone SearXNG CLI for coding agents
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [EratoLab/erato](https://github.com/EratoLab/erato)
+  > The Open Source AI Platform
 
 ### [carlonluca](https://github.com/carlonluca)
 - 🌟 👤 [carlonluca](https://github.com/carlonluca) Starred [pfalstad/circuitjs1](https://github.com/pfalstad/circuitjs1)
@@ -364,9 +372,8 @@
 - 🌟 👤 [elllusion](https://github.com/elllusion) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
   > Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference...
 
-### [eltavine](https://github.com/eltavine)
-- 🌟 👤 [eltavine](https://github.com/eltavine) Starred [rust-lang/rust](https://github.com/rust-lang/rust)
-  > Empowering everyone to build reliable and efficient software.
+### [enenH](https://github.com/enenH)
+- 🍴 👤 [enenH](https://github.com/enenH) Forked [lingpengzhou/airclipboard](https://github.com/lingpengzhou/airclipboard) to [enenH/airclipboard](https://github.com/enenH/airclipboard)
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [kamalx06/TornadoC2](https://github.com/kamalx06/TornadoC2) to [fengjixuchui/TornadoC2](https://github.com/fengjixuchui/TornadoC2)
@@ -400,10 +407,6 @@
 - 🌟 👤 [gal2xy](https://github.com/gal2xy) Starred [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk)
   > Transparent implementation of Zygisk.
 
-### [huiliyi37](https://github.com/huiliyi37)
-- 🌟 👤 [huiliyi37](https://github.com/huiliyi37) Starred [ARahim3/DigUp](https://github.com/ARahim3/DigUp)
-  > Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. ...
-
 ### [hyj1991](https://github.com/hyj1991)
 - 🌟 👤 [hyj1991](https://github.com/hyj1991) Starred [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)
   > Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatibl...
@@ -433,6 +436,10 @@
 ### [jiushill](https://github.com/jiushill)
 - 🌟 👤 [jiushill](https://github.com/jiushill) Starred [OnePlusOSS/android_kernel_modules_and_devicetree_oneplus_mt6993](https://github.com/OnePlusOSS/android_kernel_modules_and_devicetree_oneplus_mt6993)
 - 🍴 👤 [jiushill](https://github.com/jiushill) Forked [OnePlusOSS/android_kernel_modules_and_devicetree_oneplus_mt6993](https://github.com/OnePlusOSS/android_kernel_modules_and_devicetree_oneplus_mt6993) to [jiushill/android_kernel_modules_and_devicetree_oneplus_mt6993](https://github.com/jiushill/android_kernel_modules_and_devicetree_oneplus_mt6993)
+
+### [jmpews](https://github.com/jmpews)
+- 🌟 👤 [jmpews](https://github.com/jmpews) Starred [Tobiexe-blockchain/phantom-exchange-ui](https://github.com/Tobiexe-blockchain/phantom-exchange-ui)
+  > Trading UI for a crypto exchange: live order book, trades, candlestick chart, order form (Next.js, T...
 
 ### [juliocesarfort](https://github.com/juliocesarfort)
 - 🌟 👤 [juliocesarfort](https://github.com/juliocesarfort) Starred [useopendesk/opendesk](https://github.com/useopendesk/opendesk)
@@ -479,6 +486,10 @@
 ### [oblique](https://github.com/oblique)
 - 🌟 👤 [oblique](https://github.com/oblique) Starred [Supreeeme/xwayland-satellite](https://github.com/Supreeeme/xwayland-satellite)
   > Xwayland outside your Wayland
+
+### [omeraydindev](https://github.com/omeraydindev)
+- 🌟 👤 [omeraydindev](https://github.com/omeraydindev) Starred [nunomaduro/dev-null.sh](https://github.com/nunomaduro/dev-null.sh)
+  > dev-null.sh
 
 ### [ommadawn46](https://github.com/ommadawn46)
 - 🌟 👤 [ommadawn46](https://github.com/ommadawn46) Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
@@ -677,5 +688,5 @@
 
 
 ---
-*最后更新于 2026-10-18 19:14:28 UTC*
+*最后更新于 2026-10-18 22:14:46 UTC*
 *历史记录保存在 `archive` 目录中。*
