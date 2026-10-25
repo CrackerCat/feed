@@ -10,6 +10,10 @@
 - 🌟 👤 [0xWhiteMage](https://github.com/0xWhiteMage) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
   > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 
+### [0xjohnnydev](https://github.com/0xjohnnydev)
+- 🍴 👤 [0xjohnnydev](https://github.com/0xjohnnydev) Forked [alfiecg24/KextRW](https://github.com/alfiecg24/KextRW) to [0xjohnnydev/KextRW](https://github.com/0xjohnnydev/KextRW)
+  > macOS kext with kernel R/W, kalloc and kcall
+
 ### [16hex-Dumb](https://github.com/16hex-Dumb)
 - 🌟 👤 [16hex-Dumb](https://github.com/16hex-Dumb) Starred [m417z/winbindex](https://github.com/m417z/winbindex)
   > An index of Windows binaries, including download links for executables such as exe, dll and sys file...
@@ -49,6 +53,8 @@
 ### [DavidBuchanan314](https://github.com/DavidBuchanan314)
 - 🍴 👤 [DavidBuchanan314](https://github.com/DavidBuchanan314) Forked [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt) to [DavidBuchanan314/fairplay-decrypt](https://github.com/DavidBuchanan314/fairplay-decrypt)
   > Offline FairPlay App Store IPA decryption with independent key derivation
+- 🌟 👤 [DavidBuchanan314](https://github.com/DavidBuchanan314) Starred [alula/beetool](https://github.com/alula/beetool)
+  > hactool for Ounce (Nintendo Switch 2)
 
 ### [DownWithUp](https://github.com/DownWithUp)
 - 🌟 👤 [DownWithUp](https://github.com/DownWithUp) Starred [verus-lang/verus](https://github.com/verus-lang/verus)
@@ -107,6 +113,8 @@
 ### [LimerBoy](https://github.com/LimerBoy)
 - 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+- 🌟 👤 [LimerBoy](https://github.com/LimerBoy) Starred [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
+  > HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) a...
 
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
@@ -221,6 +229,8 @@
 ### [ZephrFish](https://github.com/ZephrFish)
 - 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS)
   > Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
+- 🌟 👤 [ZephrFish](https://github.com/ZephrFish) Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+  > Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
 ### [alghiffaryfa19](https://github.com/alghiffaryfa19)
 - 🍴 👤 [alghiffaryfa19](https://github.com/alghiffaryfa19) Forked [Jelly10086/macOS-ForSheng](https://github.com/Jelly10086/macOS-ForSheng) to [alghiffaryfa19/macOS-ForSheng](https://github.com/alghiffaryfa19/macOS-ForSheng)
@@ -261,12 +271,6 @@
 ### [buzzer-re](https://github.com/buzzer-re)
 - 🌟 👤 [buzzer-re](https://github.com/buzzer-re) Starred [theorem-labs/oss-verify-proofs](https://github.com/theorem-labs/oss-verify-proofs)
   > Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq...
-
-### [carloscn](https://github.com/carloscn)
-- 🌟 👤 [carloscn](https://github.com/carloscn) Starred [bitwarden/sdk-sm](https://github.com/bitwarden/sdk-sm)
-  > Bitwarden Secrets Manager SDK.
-- 🚀 👤 [carloscn](https://github.com/carloscn) Made [carloscn/agent-credential-firewall](https://github.com/carloscn/agent-credential-firewall) public
-  > Identity-aware, task-scoped credential gateway for AI agents.
 
 ### [chsbuffer](https://github.com/chsbuffer)
 - 🌟 👤 [chsbuffer](https://github.com/chsbuffer) Starred [xevrion/hatchzip](https://github.com/xevrion/hatchzip)
@@ -334,6 +338,9 @@
 ### [eggfly](https://github.com/eggfly)
 - 🍴 👤 [eggfly](https://github.com/eggfly) Forked [feitangyuan/onetake](https://github.com/feitangyuan/onetake) to [eggfly/onetake](https://github.com/eggfly/onetake)
   > Motion films that never cut to the next slide: every beat grows out of the one before, one continuou...
+
+### [enenH](https://github.com/enenH)
+- 🌟 👤 [enenH](https://github.com/enenH) Starred [DroidASC/asc-rs](https://github.com/DroidASC/asc-rs)
 
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [1llu50ry/mcp-gamehacking](https://github.com/1llu50ry/mcp-gamehacking)
@@ -520,6 +527,8 @@
 ### [ravindu644](https://github.com/ravindu644)
 - 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [rohit267/net-merge](https://github.com/rohit267/net-merge)
   > Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load ...
+- 🌟 👤 [ravindu644](https://github.com/ravindu644) Starred [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop)
+  > Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.
 
 ### [ri-char](https://github.com/ri-char)
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
@@ -553,6 +562,10 @@
 ### [skywind3000](https://github.com/skywind3000)
 - 🌟 👤 [skywind3000](https://github.com/skywind3000) Starred [zorde23/Uncharted_Collection_PC](https://github.com/zorde23/Uncharted_Collection_PC)
   > Unofficial native Windows port of Uncharted: The Nathan Drake Collection (PS4). UC3 at 60 FPS, UC2 p...
+
+### [smx-smx](https://github.com/smx-smx)
+- 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [webosbrew/SDL-webOS](https://github.com/webosbrew/SDL-webOS) to [smx-smx/SDL-webOS](https://github.com/smx-smx/SDL-webOS)
+  > Latest SDL2 for webOS TV
 
 ### [sonyps5201314](https://github.com/sonyps5201314)
 - 🌟 👤 [sonyps5201314](https://github.com/sonyps5201314) Starred [oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland)
@@ -648,5 +661,5 @@
 
 
 ---
-*最后更新于 2026-10-24 20:19:11 UTC*
+*最后更新于 2026-10-24 22:55:16 UTC*
 *历史记录保存在 `archive` 目录中。*
