@@ -7,6 +7,10 @@
 ### [0x1c1101](https://github.com/0x1c1101)
 - 🚀 👤 [0x1c1101](https://github.com/0x1c1101) Made [0x1c1101/CVE-2026-109618-PoC](https://github.com/0x1c1101/CVE-2026-109618-PoC) public
 
+### [201853910](https://github.com/201853910)
+- 🌟 👤 [201853910](https://github.com/201853910) Starred [tianma-if/edgeever](https://github.com/tianma-if/edgeever)
+  > AI-native knowledge base & Evernote/Obsidian alternative with instant sync & native MCP. Free on Clo...
+
 ### [2fxbu97lhv](https://github.com/2fxbu97lhv)
 - 🌟 👤 [2fxbu97lhv](https://github.com/2fxbu97lhv) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
   > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
@@ -28,6 +32,10 @@
   > Redefining the next generation of aria2
 - 🌟 👤 [CCint3](https://github.com/CCint3) Starred [AnInsomniacy/rayburst](https://github.com/AnInsomniacy/rayburst)
   > Redefining the open-source download manager
+
+### [Cxk4ng](https://github.com/Cxk4ng)
+- 🌟 👤 [Cxk4ng](https://github.com/Cxk4ng) Starred [0xjohnnydev/cryptsn0w](https://github.com/0xjohnnydev/cryptsn0w)
+  > Obsolete iOS jailbreak research using the now-patched TSS/Cryptex bug. Source shared for educational...
 
 ### [Datalux](https://github.com/Datalux)
 - 🌟 👤 [Datalux](https://github.com/Datalux) Starred [usestrix/strix](https://github.com/usestrix/strix)
@@ -93,6 +101,9 @@
 ### [M0Rf30](https://github.com/M0Rf30)
 - 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime)
   > Complete open-source monitoring and observability platform.
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [wsx79/fasegroovepiano](https://github.com/wsx79/fasegroovepiano)
+- 🌟 👤 [M0Rf30](https://github.com/M0Rf30) Starred [unstablebuild/rune](https://github.com/unstablebuild/rune)
+  > a fast, GPU-accelerated, full-featured IDE and terminal multiplexer, suitable both for automatic and...
 
 ### [MBRO95](https://github.com/MBRO95)
 - 🌟 👤 [MBRO95](https://github.com/MBRO95) Starred [storytold/lightcraft](https://github.com/storytold/lightcraft)
@@ -134,6 +145,10 @@
 - 🌟 👤 [PenguinAndy](https://github.com/PenguinAndy) Starred [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
   > Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coor...
 
+### [Rasetsuu](https://github.com/Rasetsuu)
+- 🌟 👤 [Rasetsuu](https://github.com/Rasetsuu) Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+  > A feature-rich command-line audio/video downloader
+
 ### [Seyud](https://github.com/Seyud)
 - 🌟 👤 [Seyud](https://github.com/Seyud) Starred [wxxsfxyzm/HyperHDRFix](https://github.com/wxxsfxyzm/HyperHDRFix)
   > Fix UltraHDR screenshots for Xiaomi HyperOS
@@ -159,6 +174,14 @@
 ### [StanleyNull](https://github.com/StanleyNull)
 - 🌟 👤 [StanleyNull](https://github.com/StanleyNull) Starred [StanleyNull/AutoHunter](https://github.com/StanleyNull/AutoHunter)
   > 自动化 SRC 漏洞挖掘系统：FOFA 资产测绘 + LLM 多 worker 自主挖掘/审核/情报沉淀。Powered By StanleyNull
+
+### [TGSAN](https://github.com/TGSAN)
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [Kifranei/AM-plus-plus-media-plugin](https://github.com/Kifranei/AM-plus-plus-media-plugin)
+  > AM++ SDK v1 媒体增强插件
+
+### [ThunderCls](https://github.com/ThunderCls)
+- 🌟 👤 [ThunderCls](https://github.com/ThunderCls) Starred [rommapp/romm](https://github.com/rommapp/romm)
+  > A beautiful, powerful, self-hosted ROM manager and player.
 
 ### [TonyChen56](https://github.com/TonyChen56)
 - 🌟 👤 [TonyChen56](https://github.com/TonyChen56) Starred [kbwzy/wechat-group-daily-report](https://github.com/kbwzy/wechat-group-daily-report)
@@ -249,9 +272,6 @@
 - 🌟 👤 [ba0gu0](https://github.com/ba0gu0) Starred [jryang1997/MenuBarMijia](https://github.com/jryang1997/MenuBarMijia)
   > Native macOS (Swift 6 + SwiftUI) & Windows 11 (Tauri v2) menu-bar/tray controller for Xiaomi Mijia &...
 
-### [banteg](https://github.com/banteg)
-- 🌟 👤 [banteg](https://github.com/banteg) Starred [DrWhax/ipatool](https://github.com/DrWhax/ipatool)
-
 ### [bet4it](https://github.com/bet4it)
 - 🌟 👤 [bet4it](https://github.com/bet4it) Starred [hahwul/gori](https://github.com/hahwul/gori)
   > A fast, keyboard-driven HTTP intercepting proxy and hacking & pentesting toolkit for the terminal.
@@ -299,6 +319,10 @@
 ### [darbra](https://github.com/darbra)
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb)
 
+### [darvincisec](https://github.com/darvincisec)
+- 🌟 👤 [darvincisec](https://github.com/darvincisec) Starred [darvincisec/JCACryptoTracer](https://github.com/darvincisec/JCACryptoTracer)
+  > JCA Crypto Tracer is a Magisk/Zygisk module that injects a fake JCA SecurityProvider into selected a...
+
 ### [dipa-studio](https://github.com/dipa-studio)
 - 🌟 👤 [dipa-studio](https://github.com/dipa-studio) Starred [ry-diffusion/Bergamota](https://github.com/ry-diffusion/Bergamota)
   > iOS on Beryllium, lets fucking go
@@ -320,7 +344,6 @@
 ### [feicong](https://github.com/feicong)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [majd/ipatool](https://github.com/majd/ipatool)
   > Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps...
-- 🌟 👤 [feicong](https://github.com/feicong) Starred [DrWhax/ipatool](https://github.com/DrWhax/ipatool)
 - 🌟 👤 [feicong](https://github.com/feicong) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
   > Offline FairPlay App Store IPA decryption with independent key derivation
 
@@ -329,9 +352,6 @@
   > Collection of reversed vulnerable drivers weaponized into process killers. PPL won't save you.
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [x86rc/unthemidator](https://github.com/x86rc/unthemidator) to [fengjixuchui/unthemidator](https://github.com/fengjixuchui/unthemidator)
   > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
-
-### [fjh658](https://github.com/fjh658)
-- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [DrWhax/ipatool](https://github.com/DrWhax/ipatool)
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [InvoxiPlayGames/XeCryptSharp](https://github.com/InvoxiPlayGames/XeCryptSharp)
@@ -371,6 +391,8 @@
   > OpenAI Plugins
 - 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [zhongkaifu/TensorSharp](https://github.com/zhongkaifu/TensorSharp)
   > A native .NET LLM inference engine and agent runtime for GGUF models. TensorSharp provides a console...
+- 🌟 👤 [hyuunnn](https://github.com/hyuunnn) Starred [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
+  > Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vi...
 
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)
@@ -473,12 +495,17 @@
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
   > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [xMuratY/vdm](https://github.com/xMuratY/vdm)
 
 ### [mav8557](https://github.com/mav8557)
 - 🌟 👤 [mav8557](https://github.com/mav8557) Starred [BandarLabs/Cobalt](https://github.com/BandarLabs/Cobalt)
   > SDK for building apps & an app store for your Kobo eInk reader
 - 🌟 👤 [mav8557](https://github.com/mav8557) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
   > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
+
+### [mborgerson](https://github.com/mborgerson)
+- 🌟 👤 [mborgerson](https://github.com/mborgerson) Starred [Ryzee119/nxdk-gles11](https://github.com/Ryzee119/nxdk-gles11)
+  > OpenGL ES 1.1 implementation for nxdk
 
 ### [mcxiaoke](https://github.com/mcxiaoke)
 - 🌟 👤 [mcxiaoke](https://github.com/mcxiaoke) Starred [storytold/filmcraft](https://github.com/storytold/filmcraft)
@@ -551,6 +578,8 @@
   > A powerful binary lifter for translating x86-64 and AArch64 code to Cranelift IR
 - 🌟 👤 [null-dev](https://github.com/null-dev) Starred [kasnria001/qualcomm_noavb_exploit_common](https://github.com/kasnria001/qualcomm_noavb_exploit_common)
   > Unlocking Bootloader via noavb exploit (still in progress)
+- 🌟 👤 [null-dev](https://github.com/null-dev) Starred [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
+  > Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vi...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [JohGroLux/Micro25519](https://github.com/JohGroLux/Micro25519)
@@ -582,6 +611,9 @@
 - 🍴 👤 [pinwhell](https://github.com/pinwhell) Forked [Free60Project/libext2fs](https://github.com/Free60Project/libext2fs) to [pinwhell/libext2fs](https://github.com/pinwhell/libext2fs)
   > ext2/ext3/ext4 filesystem library for libxenon - based on libogc-library
 
+### [pumPCin](https://github.com/pumPCin)
+- 🌟 👤 [pumPCin](https://github.com/pumPCin) Starred [SnAnVl/zapret-discord-youtube](https://github.com/SnAnVl/zapret-discord-youtube)
+
 ### [pwnipc](https://github.com/pwnipc)
 - 🌟 👤 [pwnipc](https://github.com/pwnipc) Starred [vwire/riscv-bare-metal-qemu](https://github.com/vwire/riscv-bare-metal-qemu)
   > RISC-V bare-metal projects on QEMU virt
@@ -603,10 +635,6 @@
   > A php2shell exploit that requires no modifications to the official version, and does not require dis...
 - 🍴 👤 [smallzhong](https://github.com/smallzhong) Forked [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) to [smallzhong/php2shell-bypass-aslr-exp](https://github.com/smallzhong/php2shell-bypass-aslr-exp)
   > A php2shell exploit that requires no modifications to the official version, and does not require dis...
-
-### [smx-smx](https://github.com/smx-smx)
-- 🍴 👤 [smx-smx](https://github.com/smx-smx) Forked [Informatic/webos-vncserver](https://github.com/Informatic/webos-vncserver) to [smx-smx/webos-vncserver](https://github.com/smx-smx/webos-vncserver)
-  > An extremely hacky VNC server for WebOS - Works by reading directly from the GPU's framebuffer.
 
 ### [sotasan](https://github.com/sotasan)
 - 🌟 👤 [sotasan](https://github.com/sotasan) Starred [modem-dev/hunk](https://github.com/modem-dev/hunk)
@@ -666,9 +694,17 @@
 - 🌟 👤 [wishihab](https://github.com/wishihab) Starred [assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner)
   > High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)
 
+### [wsxyeah](https://github.com/wsxyeah)
+- 🌟 👤 [wsxyeah](https://github.com/wsxyeah) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
+  > Mac.apk: Run Android apps natively on Apple Silicon Macs
+
 ### [wxxsfxyzm](https://github.com/wxxsfxyzm)
 - 🌟 👤 [wxxsfxyzm](https://github.com/wxxsfxyzm) Starred [wxxsfxyzm/HyperHDRFix](https://github.com/wxxsfxyzm/HyperHDRFix)
   > Fix UltraHDR screenshots for Xiaomi HyperOS
+
+### [x0rz4](https://github.com/x0rz4)
+- 🌟 👤 [x0rz4](https://github.com/x0rz4) Starred [muzimu217/cloud-remote-tunnel](https://github.com/muzimu217/cloud-remote-tunnel)
+  > 云端容器一键内网穿透 + 本地直连终端（Cloudflare Tunnel + ttyd）。原为 MClaw（中国移动小龙虾）定制，现通用任意 Linux 云服务器/容器，本地一条命令像 SSH 一样...
 
 ### [xhscfq](https://github.com/xhscfq)
 - 🌟 👤 [xhscfq](https://github.com/xhscfq) Starred [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
@@ -706,7 +742,6 @@
 ### [yohanes](https://github.com/yohanes)
 - 🌟 👤 [yohanes](https://github.com/yohanes) Starred [ilyakurdyukov/fpdoom](https://github.com/ilyakurdyukov/fpdoom)
   > Doom for feature phones
-- 🌟 👤 [yohanes](https://github.com/yohanes) Starred [DrWhax/ipatool](https://github.com/DrWhax/ipatool)
 
 ### [ys1231](https://github.com/ys1231)
 - 🌟 👤 [ys1231](https://github.com/ys1231) Starred [AbdurazaaqMohammed/MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager)
@@ -740,5 +775,5 @@
 
 
 ---
-*最后更新于 2026-10-25 21:28:03 UTC*
+*最后更新于 2026-10-25 23:50:58 UTC*
 *历史记录保存在 `archive` 目录中。*
