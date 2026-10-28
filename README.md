@@ -40,6 +40,9 @@
 - 🌟 👤 [AlexAltea](https://github.com/AlexAltea) Starred [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
   > An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 
+### [AlexiaChen](https://github.com/AlexiaChen)
+- 🌟 👤 [AlexiaChen](https://github.com/AlexiaChen) Starred [unclebob/ub-mode](https://github.com/unclebob/ub-mode)
+
 ### [AlphabugX](https://github.com/AlphabugX)
 - 🌟 👤 [AlphabugX](https://github.com/AlphabugX) Starred [moonD4rk/notifier](https://github.com/moonD4rk/notifier)
   > notifier is a Go library to send notification to other applications.
@@ -95,6 +98,12 @@
   > Open-source Attack Surface Management. Discover assets. Identify exposure. Own your security data.
 - 🍴 👤 [EgeBalci](https://github.com/EgeBalci) Forked [oasm-platform/open-asm](https://github.com/oasm-platform/open-asm) to [EgeBalci/open-asm](https://github.com/EgeBalci/open-asm)
   > Open-source Attack Surface Management. Discover assets. Identify exposure. Own your security data.
+- 🌟 👤 [EgeBalci](https://github.com/EgeBalci) Starred [vshvedov/elephant-goldfish](https://github.com/vshvedov/elephant-goldfish)
+  > A reusable workflow for agentic software work, built around the Elephant/Goldfish pattern.
+- 🌟 👤 [EgeBalci](https://github.com/EgeBalci) Starred [dickwu/apple-design-skill](https://github.com/dickwu/apple-design-skill)
+  > Cross-platform UI/UX design reviewer based on Apple HIG. Works with Flutter, Tauri, Electron, React ...
+- 🌟 👤 [EgeBalci](https://github.com/EgeBalci) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+  > Agent skills that give coding agents taste: art direction, reference images and a browser check inst...
 
 ### [FldBudin](https://github.com/FldBudin)
 - 🌟 👤 [FldBudin](https://github.com/FldBudin) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
@@ -126,6 +135,12 @@
 ### [JasonWei512](https://github.com/JasonWei512)
 - 🌟 👤 [JasonWei512](https://github.com/JasonWei512) Starred [egoist/mygo-cloudmusic](https://github.com/egoist/mygo-cloudmusic)
   > MyGo 云音乐 - 第三方网易云音乐原生客户端
+
+### [Jirubizu](https://github.com/Jirubizu)
+- 🌟 👤 [Jirubizu](https://github.com/Jirubizu) Starred [yibie/awesome-rea](https://github.com/yibie/awesome-rea)
+  > A curated list of AI-assisted reverse engineering: decompilation, recompilation and native ports, wi...
+- 🌟 👤 [Jirubizu](https://github.com/Jirubizu) Starred [rui314/mold](https://github.com/rui314/mold)
+  > mold 🦠: A Modern Linker in Rust 🦀
 
 ### [KagurazakaHanabi](https://github.com/KagurazakaHanabi)
 - 🌟 👤 [KagurazakaHanabi](https://github.com/KagurazakaHanabi) Starred [EdwinZDZ/dsh-api-balance-ring](https://github.com/EdwinZDZ/dsh-api-balance-ring)
@@ -213,6 +228,10 @@
 - 🌟 👤 [PoomSmart](https://github.com/PoomSmart) Starred [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay)
   > Decrypt IPA's on MacOS
 
+### [Rasetsuu](https://github.com/Rasetsuu)
+- 🌟 👤 [Rasetsuu](https://github.com/Rasetsuu) Starred [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
+  > 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+
 ### [Resery](https://github.com/Resery)
 - 🌟 👤 [Resery](https://github.com/Resery) Starred [qwq233/OhMyKeymint](https://github.com/qwq233/OhMyKeymint)
 
@@ -277,6 +296,15 @@
 - 🌟 👤 [T5ive](https://github.com/T5ive) Starred [Aaronontheweb/dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills)
   > Claude Code skills and sub-agents for .NET Developers
 
+### [TGSAN](https://github.com/TGSAN)
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [Xposed-Modules-Repo/com.lenerd46.spotifyplus](https://github.com/Xposed-Modules-Repo/com.lenerd46.spotifyplus)
+  > Spotify Plus
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [TheWinner02/ReVancedXposed_Spotify](https://github.com/TheWinner02/ReVancedXposed_Spotify)
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [LeNerd46/SpotifyPlus](https://github.com/LeNerd46/SpotifyPlus)
+  > An Xposed module to enhance your Spotify
+- 🌟 👤 [TGSAN](https://github.com/TGSAN) Starred [Xposed-Modules-Repo/cc.meteormc.spotifynext](https://github.com/Xposed-Modules-Repo/cc.meteormc.spotifynext)
+  > SpotifyNext
+
 ### [Tardis07](https://github.com/Tardis07)
 - 🌟 👤 [Tardis07](https://github.com/Tardis07) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -297,6 +325,8 @@
   > Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - 🌟 👤 [WindySha](https://github.com/WindySha) Starred [termux/proot](https://github.com/termux/proot)
   > An chroot-like implementation using ptrace.
+- 🌟 👤 [WindySha](https://github.com/WindySha) Starred [proot-me/proot](https://github.com/proot-me/proot)
+  > chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 
 ### [WooyunDota](https://github.com/WooyunDota)
 - 🌟 👤 [WooyunDota](https://github.com/WooyunDota) Starred [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)
@@ -369,13 +399,13 @@
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG)
   > https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native sea...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
-  > Incremental rust builds up to 92x faster than cargo/rustc
+  > EXPERIMENTAL! Incremental rust builds up to 92x faster than cargo/rustc
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ghosthand-dev/ghosthand](https://github.com/ghosthand-dev/ghosthand)
   > Control a real iPhone from AI agents over USB and Bluetooth
 
 ### [cctv18](https://github.com/cctv18)
 - 🌟 👤 [cctv18](https://github.com/cctv18) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
-  > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
+  > Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / ...
 
 ### [cmzy](https://github.com/cmzy)
 - 🌟 👤 [cmzy](https://github.com/cmzy) Starred [cmzy/ajev-infer](https://github.com/cmzy/ajev-infer)
@@ -422,6 +452,10 @@
   > Write HTML. Render video. Built for agents.
 - 🌟 👤 [darbra](https://github.com/darbra) Starred [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)
   > 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
+
+### [darkskygit](https://github.com/darkskygit)
+- 🌟 👤 [darkskygit](https://github.com/darkskygit) Starred [t8y2/dbx](https://github.com/t8y2/dbx)
+  > 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQ...
 
 ### [dartcv](https://github.com/dartcv)
 - 🌟 👤 [dartcv](https://github.com/dartcv) Starred [Admilkk/yunzai-guard](https://github.com/Admilkk/yunzai-guard)
@@ -495,9 +529,9 @@
 - 🌟 👤 [fanzhidongyzby](https://github.com/fanzhidongyzby) Starred [Mike-7777777/evidence-based-resume-screening](https://github.com/Mike-7777777/evidence-based-resume-screening)
   > 按岗位核验证据的简历评估 Agent Skill：通用评分表 + 研究、工程、产品、设计、数据、业务六个岗位包 | Evidence-based resume screening skill for ...
 
-### [fawdlstty](https://github.com/fawdlstty)
-- 🌟 👤 [fawdlstty](https://github.com/fawdlstty) Starred [shengjidaguai-china/goutoujunshi](https://github.com/shengjidaguai-china/goutoujunshi)
-  > 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。
+### [fjh658](https://github.com/fjh658)
+- 🌟 👤 [fjh658](https://github.com/fjh658) Starred [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)
+  > A rule-based tunnel for Android.
 
 ### [for-A1kaid](https://github.com/for-A1kaid)
 - 🌟 👤 [for-A1kaid](https://github.com/for-A1kaid) Starred [AntiFox-AI/antifox](https://github.com/AntiFox-AI/antifox)
@@ -556,6 +590,19 @@
 ### [infosecn1nja](https://github.com/infosecn1nja)
 - 🌟 👤 [infosecn1nja](https://github.com/infosecn1nja) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
+
+### [j0nk0](https://github.com/j0nk0)
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [JIKBMS/files](https://github.com/JIKBMS/files)
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [gregyedlik/Yamaha-BMS-companion](https://github.com/gregyedlik/Yamaha-BMS-companion)
+  > An ATMEGA 328PB based project to enable the use of custom batteries on Yamaha e-bikes.
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [gregyedlik/Bosch-discharger-enabler](https://github.com/gregyedlik/Bosch-discharger-enabler)
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [gregyedlik/BT-E60xx](https://github.com/gregyedlik/BT-E60xx)
+  > Enable charging and discharging Shimano BT-E60xx series batteries
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [ottelo9/Shimano-Steps-Simulator-BT-E6000](https://github.com/ottelo9/Shimano-Steps-Simulator-BT-E6000)
+  > Shimano Steps Simulator for simulating an original battery on an e-bike (DIY) or for charging an ori...
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [bikesplusjb-crypto/ebikebuy](https://github.com/bikesplusjb-crypto/ebikebuy)
+- 🌟 👤 [j0nk0](https://github.com/j0nk0) Starred [arturpilavetz/PowerPackCAN](https://github.com/arturpilavetz/PowerPackCAN)
+  > Bosch PowerPack activation via CAN communication by using Arduino and MCP2515 module
 
 ### [je5442804](https://github.com/je5442804)
 - 🌟 👤 [je5442804](https://github.com/je5442804) Starred [S12cybersecurity/CredGuardRuntimeShutdown](https://github.com/S12cybersecurity/CredGuardRuntimeShutdown)
@@ -631,6 +678,18 @@
 - 🌟 👤 [linxid](https://github.com/linxid) Starred [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot)
   > A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
 
+### [llsc12](https://github.com/llsc12)
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [getzeusapp/LiveContainer](https://github.com/getzeusapp/LiveContainer)
+  > Run iOS apps without actually installing them!
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [Valenced/valenced](https://github.com/Valenced/valenced)
+  > Supercharge your Discord experience. Valenced is a client modification for Discord mobile.
+- 🌟 👤 [llsc12](https://github.com/llsc12) Starred [kwsch/SysBot.NET](https://github.com/kwsch/SysBot.NET)
+  > sys-botbase client for remote control automation of Nintendo Switch consoles.
+
+### [loerting](https://github.com/loerting)
+- 🍴 👤 [loerting](https://github.com/loerting) Forked [cherriesandmochi/gdmaim](https://github.com/cherriesandmochi/gdmaim) to [loerting/gdmaim](https://github.com/loerting/gdmaim)
+  > GDMaim is a GDScript obfuscation plugin for the Godot Engine.
+
 ### [ltlly](https://github.com/ltlly)
 - 🌟 👤 [ltlly](https://github.com/ltlly) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
   > Orchestrate multiple coding agents from desktop and mobile
@@ -665,13 +724,21 @@
 - 🌟 👤 [mikasaw](https://github.com/mikasaw) Starred [ZusDev/CS2-Anticheat-Defense](https://github.com/ZusDev/CS2-Anticheat-Defense)
   > CS2 AntiCheat (2026) Plugin helps and prevent against cheaters (CS2 Anti-Cheat Defense).
 
+### [milankovo](https://github.com/milankovo)
+- 🌟 👤 [milankovo](https://github.com/milankovo) Starred [19h/cud](https://github.com/19h/cud)
+  > code-unit discovery for Mach-O binaries
+
 ### [mingzun09](https://github.com/mingzun09)
 - 🌟 👤 [mingzun09](https://github.com/mingzun09) Starred [vcka/huawei-honor-unlock-bootloader](https://github.com/vcka/huawei-honor-unlock-bootloader)
   > A simple tool for managing Huawei/Honor devices to unlock bootloader
 
+### [mneuroth](https://github.com/mneuroth)
+- 🌟 👤 [mneuroth](https://github.com/mneuroth) Starred [arboeh/huABus](https://github.com/arboeh/huABus)
+  > MQTT bridge for Huawei solar inverters (SUN2000/3000/5000) → Home Assistant
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
-  > Incremental rust builds up to 92x faster than cargo/rustc
+  > EXPERIMENTAL! Incremental rust builds up to 92x faster than cargo/rustc
 
 ### [nblog](https://github.com/nblog)
 - 🍴 👤 [nblog](https://github.com/nblog) Forked [TeskesLab/GhydraMCP](https://github.com/TeskesLab/GhydraMCP) to [nblog/GhydraMCP](https://github.com/nblog/GhydraMCP)
@@ -687,7 +754,7 @@
 
 ### [netxfly](https://github.com/netxfly)
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
-  > Incremental rust builds up to 92x faster than cargo/rustc
+  > EXPERIMENTAL! Incremental rust builds up to 92x faster than cargo/rustc
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
   > Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vi...
 - 🌟 👤 [netxfly](https://github.com/netxfly) Starred [makecindy/cindy](https://github.com/makecindy/cindy)
@@ -710,6 +777,10 @@
   > Secure, fast, and portable C90 implementation of ML-KEM / FIPS 203
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [S12cybersecurity/CredGuardRuntimeShutdown](https://github.com/S12cybersecurity/CredGuardRuntimeShutdown)
   > Runtime Credential Guard deactivation via \\LSA_ISO_DISABLE_CREDENTIAL_GUARD + LSASS NT hash extract...
+
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [chris-ritsen/samsung-tv-root](https://github.com/chris-ritsen/samsung-tv-root) to [oleavr/samsung-tv-root](https://github.com/oleavr/samsung-tv-root)
+  > Samsung Tizen root
 
 ### [owen800q](https://github.com/owen800q)
 - 🌟 👤 [owen800q](https://github.com/owen800q) Starred [liankong233/RXEngine](https://github.com/liankong233/RXEngine)
@@ -744,9 +815,6 @@
 - 🌟 👤 [qtfreet00](https://github.com/qtfreet00) Starred [noobexon1/XposedFakeLocation](https://github.com/noobexon1/XposedFakeLocation)
   > Android application and Xposed module that allows you to spoof your device's location globally or fo...
 
-### [radioegor146](https://github.com/radioegor146)
-- 🍴 👤 [radioegor146](https://github.com/radioegor146) Forked [Marker284/yandex-station-extended](https://github.com/Marker284/yandex-station-extended) to [radioegor146/yandex-station-extended](https://github.com/radioegor146/yandex-station-extended)
-
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [NeverSight/signatures](https://github.com/NeverSight/signatures)
 
@@ -778,6 +846,10 @@
 - 🍴 👤 [shufflewzc](https://github.com/shufflewzc) Forked [huntingrin/jd-bean-claim](https://github.com/huntingrin/jd-bean-claim) to [shufflewzc/jd-bean-claim](https://github.com/shufflewzc/jd-bean-claim)
   > 京东京豆补领与每日签到 Skill：跨 Agent 浏览器流程、到账核对与中断恢复，无需导出 Cookie。
 
+### [skyzh](https://github.com/skyzh)
+- 🌟 👤 [skyzh](https://github.com/skyzh) Starred [awslabs/agentcore-rl-toolkit](https://github.com/awslabs/agentcore-rl-toolkit)
+  > Scalable, Composable Reinforcement Learning for Real-World Agents with Bedrock AgentCore.
+
 ### [ssut](https://github.com/ssut)
 - 🌟 👤 [ssut](https://github.com/ssut) Starred [pookjw/CocoaKakaoTalkADRemover](https://github.com/pookjw/CocoaKakaoTalkADRemover)
 
@@ -793,7 +865,7 @@
 
 ### [suifei](https://github.com/suifei)
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
-  > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
+  > Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / ...
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)
   > GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
 - 🌟 👤 [suifei](https://github.com/suifei) Starred [impacifist/Windows-GPU-UNLOCK](https://github.com/impacifist/Windows-GPU-UNLOCK)
@@ -806,6 +878,10 @@
 ### [summitt](https://github.com/summitt)
 - 🍴 👤 [summitt](https://github.com/summitt) Forked [summitt/EnsoniqEPS16Plus](https://github.com/summitt/EnsoniqEPS16Plus) to [Panic-Signals/EnsoniqEPS16Plus](https://github.com/Panic-Signals/EnsoniqEPS16Plus)
   > Upload and Download wav files to the EPS16+ Sampler
+
+### [taowen](https://github.com/taowen)
+- 🍴 👤 [taowen](https://github.com/taowen) Forked [NextendoNetwork/Ryujinx-Nextendo](https://github.com/NextendoNetwork/Ryujinx-Nextendo) to [taowen/Ryujinx-Nextendo](https://github.com/taowen/Ryujinx-Nextendo)
+  > The Nextendo Network emulator: a Ryujinx build with the Nextendo account system and online play buil...
 
 ### [topcoco](https://github.com/topcoco)
 - 🌟 👤 [topcoco](https://github.com/topcoco) Starred [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
@@ -829,9 +905,17 @@
 - 🍴 👤 [wbaby](https://github.com/wbaby) Forked [Maldev-Academy/WhisperHijack](https://github.com/Maldev-Academy/WhisperHijack) to [wbaby/WhisperHijack](https://github.com/wbaby/WhisperHijack)
   > A stealthy process injection PoC combining Thread Name-Calling for payload delivery with Waiting Thr...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [ExpOrx/IDAChef](https://github.com/ExpOrx/IDAChef)
+  > A [CyberChef](https://github.com/gchq/CyberChef)-style recipe/operation toolkit embedded in IDA Pro ...
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [19h/cud](https://github.com/19h/cud)
+  > code-unit discovery for Mach-O binaries
+
 ### [wjcsharp](https://github.com/wjcsharp)
 - 🌟 👤 [wjcsharp](https://github.com/wjcsharp) Starred [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab)
   > alphaTab is a cross platform music notation and guitar tablature rendering library.
+- 🌟 👤 [wjcsharp](https://github.com/wjcsharp) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+  > Agent skills that give coding agents taste: art direction, reference images and a browser check inst...
 
 ### [wooluo](https://github.com/wooluo)
 - 🌟 👤 [wooluo](https://github.com/wooluo) Starred [makecindy/cindy](https://github.com/makecindy/cindy)
@@ -947,11 +1031,11 @@
 
 ### [zu1k](https://github.com/zu1k)
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
-  > Incremental rust builds up to 92x faster than cargo/rustc
+  > EXPERIMENTAL! Incremental rust builds up to 92x faster than cargo/rustc
 - 🌟 👤 [zu1k](https://github.com/zu1k) Starred [hydro-project/hydro](https://github.com/hydro-project/hydro)
   > A Rust framework for correct and performant distributed systems
 
 
 ---
-*最后更新于 2026-10-27 19:50:17 UTC*
+*最后更新于 2026-10-27 23:31:44 UTC*
 *历史记录保存在 `archive` 目录中。*
